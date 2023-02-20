@@ -1,0 +1,901 @@
+teamName;teamCode;season;split;player_name;FGM;FGA;FG_PCT;FG3M;FG3A;FG3_PCT;FTM;FTA;FT_PCT;PM2;PA2;PCT2;SC_EF;SH_EF
+Utah Jazz;utah;2021 - 2022 Regular Season;All Splits;Donovan Mitchell;9.2;20.5;44.8;3.5;9.8;35.5;4.0;4.7;85.3;5.7;10.8;53.3;1.259;0.53
+Utah Jazz;utah;2021 - 2022 Regular Season;All Splits;Bojan Bogdanovic;6.1;13.4;45.5;2.6;6.8;38.7;3.2;3.8;85.8;3.5;6.7;52.4;1.345;0.55
+Utah Jazz;utah;2021 - 2022 Regular Season;All Splits;Jordan Clarkson;5.9;14.1;41.9;2.4;7.6;31.8;1.8;2.2;82.8;3.5;6.5;53.5;1.137;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;All Splits;Rudy Gobert;5.5;7.7;71.3;0.0;0.1;0.0;4.6;6.7;69.0;5.5;7.6;71.8;2.022;0.71
+Utah Jazz;utah;2021 - 2022 Regular Season;All Splits;Mike Conley;4.8;11.0;43.5;2.3;5.8;40.8;1.8;2.3;79.6;2.4;5.2;46.4;1.247;0.54
+Utah Jazz;utah;2021 - 2022 Regular Season;All Splits;Hassan Whiteside;3.3;5.1;65.2;0.0;0.0;0.0;1.6;2.6;62.3;3.3;5.1;65.2;1.618;0.65
+Utah Jazz;utah;2021 - 2022 Regular Season;All Splits;Rudy Gay;2.9;6.9;41.4;1.3;3.7;34.5;1.1;1.4;78.5;1.6;3.2;49.4;1.177;0.51
+Utah Jazz;utah;2021 - 2022 Regular Season;All Splits;Royce O'Neale;2.6;5.8;45.7;1.5;4.0;38.9;0.6;0.7;80.4;1.1;1.8;60.9;1.284;0.59
+Utah Jazz;utah;2021 - 2022 Regular Season;All Splits;Joe Ingles;2.6;6.3;40.4;1.7;5.0;34.7;0.4;0.5;77.3;0.8;1.3;61.7;1.140;0.54
+Utah Jazz;utah;2021 - 2022 Regular Season;All Splits;Danuel House Jr.;2.2;4.9;44.7;1.4;3.3;41.5;1.1;1.6;69.2;0.8;1.6;51.2;1.390;0.59
+Utah Jazz;utah;2021 - 2022 Regular Season;All Splits;Juancho Hernangomez;2.2;4.3;50.7;1.2;2.8;43.8;0.6;1.2;47.6;0.9;1.5;64.0;1.438;0.65
+Utah Jazz;utah;2021 - 2022 Regular Season;All Splits;Eric Paschall;2.0;4.1;48.5;0.7;1.9;37.0;1.1;1.5;76.7;1.3;2.2;58.3;1.421;0.57
+Utah Jazz;utah;2021 - 2022 Regular Season;All Splits;Udoka Azubuike;2.2;2.9;75.5;0.0;0.0;0.0;0.4;0.6;54.5;2.2;2.9;75.5;1.633;0.76
+Utah Jazz;utah;2021 - 2022 Regular Season;All Splits;Greg Monroe;1.3;1.7;80.0;0.0;0.0;0.0;1.3;2.3;57.1;1.3;1.7;80.0;2.400;0.80
+Utah Jazz;utah;2021 - 2022 Regular Season;All Splits;Jared Butler;1.5;3.6;40.4;0.7;2.1;31.8;0.3;0.4;68.8;0.8;1.5;52.4;1.066;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;All Splits;Nickeil Alexander-Walker;1.1;3.2;33.3;0.7;2.2;30.3;0.7;0.8;91.7;0.4;1.0;40.0;1.104;0.44
+Utah Jazz;utah;2021 - 2022 Regular Season;All Splits;Trent Forrest;1.3;2.6;49.0;0.1;0.5;18.5;0.6;0.8;79.2;1.2;2.1;55.5;1.258;0.51
+Utah Jazz;utah;2021 - 2022 Regular Season;All Splits;Elijah Hughes;1.1;2.6;41.7;0.7;2.0;35.7;0.2;0.2;100.0;0.4;0.6;62.5;1.194;0.56
+Utah Jazz;utah;2021 - 2022 Regular Season;All Splits;Denzel Valentine;1.0;2.0;50.0;0.5;1.5;33.3;0.0;0.0;0.0;0.5;0.5;100.0;1.250;0.63
+Utah Jazz;utah;2021 - 2022 Regular Season;All Splits;Norvel Pelle;1.0;1.7;60.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.7;60.0;1.200;0.60
+Utah Jazz;utah;2021 - 2022 Regular Season;All Splits;Malik Fitts;0.3;1.3;22.2;0.3;0.6;50.0;0.0;0.0;0.0;0.0;0.7;0.0;0.667;0.33
+Utah Jazz;utah;2021 - 2022 Regular Season;All Splits;Xavier Sneed;0.3;1.1;25.0;0.1;0.9;16.7;0.0;0.0;0.0;0.1;0.3;50.0;0.625;0.31
+Utah Jazz;utah;2021 - 2022 Regular Season;All Splits;Miye Oni;0.1;0.6;22.2;0.1;0.5;12.5;0.0;0.1;0.0;0.1;0.1;100.0;0.556;0.28
+Utah Jazz;utah;2021 - 2022 Regular Season;All Splits;Zylan Cheatham;0.0;3.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;All Splits;Total;40.6;86.2;47.1;14.5;40.3;36.0;17.9;23.4;76.7;26.0;45.8;56.8;1.318;0.56
+Utah Jazz;utah;2021 - 2022 Regular Season;Home;Donovan Mitchell;8.9;19.8;44.8;3.4;9.5;36.0;3.9;4.6;85.7;5.5;10.4;52.9;1.267;0.53
+Utah Jazz;utah;2021 - 2022 Regular Season;Home;Bojan Bogdanovic;6.3;13.6;46.3;2.9;6.8;42.7;3.2;3.7;86.5;3.4;6.7;50.0;1.378;0.57
+Utah Jazz;utah;2021 - 2022 Regular Season;Home;Jordan Clarkson;6.1;13.8;43.9;2.7;7.7;35.1;1.9;2.3;83.3;3.4;6.1;55.0;1.214;0.54
+Utah Jazz;utah;2021 - 2022 Regular Season;Home;Rudy Gobert;6.0;8.2;73.6;0.0;0.0;0.0;4.7;7.1;66.2;6.0;8.2;73.6;2.048;0.74
+Utah Jazz;utah;2021 - 2022 Regular Season;Home;Mike Conley;4.8;10.9;44.2;2.4;5.9;41.3;2.1;2.5;80.9;2.4;5.0;47.6;1.295;0.55
+Utah Jazz;utah;2021 - 2022 Regular Season;Home;Hassan Whiteside;3.2;5.0;64.3;0.0;0.0;0.0;1.7;2.7;63.0;3.2;5.0;64.3;1.626;0.64
+Utah Jazz;utah;2021 - 2022 Regular Season;Home;Rudy Gay;2.6;6.2;41.9;1.0;3.3;31.7;1.1;1.6;67.5;1.6;2.9;53.4;1.181;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;Home;Joe Ingles;2.6;6.5;40.6;1.7;5.0;33.9;0.3;0.3;87.5;0.9;1.4;64.7;1.123;0.54
+Utah Jazz;utah;2021 - 2022 Regular Season;Home;Royce O'Neale;2.5;5.7;43.5;1.4;3.9;34.7;0.7;0.8;87.5;1.1;1.7;63.6;1.241;0.56
+Utah Jazz;utah;2021 - 2022 Regular Season;Home;Danuel House Jr.;2.0;4.5;44.0;1.4;3.5;38.5;1.2;1.7;68.4;0.6;1.0;63.6;1.440;0.59
+Utah Jazz;utah;2021 - 2022 Regular Season;Home;Udoka Azubuike;2.7;3.4;78.0;0.0;0.0;0.0;0.3;0.6;57.1;2.7;3.4;78.0;1.659;0.78
+Utah Jazz;utah;2021 - 2022 Regular Season;Home;Eric Paschall;1.9;3.8;49.1;0.6;1.8;35.3;0.9;1.3;74.3;1.2;2.0;61.8;1.396;0.58
+Utah Jazz;utah;2021 - 2022 Regular Season;Home;Denzel Valentine;2.0;4.0;50.0;1.0;3.0;33.3;0.0;0.0;0.0;1.0;1.0;100.0;1.250;0.63
+Utah Jazz;utah;2021 - 2022 Regular Season;Home;Nickeil Alexander-Walker;1.5;3.8;40.0;0.9;2.5;35.0;0.9;1.0;87.5;0.6;1.3;50.0;1.267;0.52
+Utah Jazz;utah;2021 - 2022 Regular Season;Home;Juancho Hernangomez;1.4;3.0;45.8;0.8;2.0;37.5;0.6;1.1;55.6;0.6;1.0;62.5;1.375;0.58
+Utah Jazz;utah;2021 - 2022 Regular Season;Home;Greg Monroe;1.5;1.5;100.0;0.0;0.0;0.0;1.0;2.5;40.0;1.5;1.5;100.0;2.667;1.00
+Utah Jazz;utah;2021 - 2022 Regular Season;Home;Trent Forrest;1.4;2.6;54.8;0.1;0.5;13.3;0.8;0.9;84.6;1.4;2.1;65.5;1.425;0.56
+Utah Jazz;utah;2021 - 2022 Regular Season;Home;Jared Butler;1.3;3.5;36.9;0.6;2.1;27.5;0.2;0.3;50.0;0.7;1.4;51.5;0.952;0.45
+Utah Jazz;utah;2021 - 2022 Regular Season;Home;Elijah Hughes;0.4;1.1;37.5;0.1;0.9;16.7;0.3;0.3;100.0;0.3;0.3;100.0;1.125;0.44
+Utah Jazz;utah;2021 - 2022 Regular Season;Home;Xavier Sneed;0.3;1.0;25.0;0.3;0.8;33.3;0.0;0.0;0.0;0.0;0.3;0.0;0.750;0.38
+Utah Jazz;utah;2021 - 2022 Regular Season;Home;Miye Oni;0.1;0.8;14.3;0.0;0.7;0.0;0.0;0.1;0.0;0.1;0.1;100.0;0.286;0.14
+Utah Jazz;utah;2021 - 2022 Regular Season;Home;Zylan Cheatham;0.0;3.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;Home;Malik Fitts;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;Home;Total;41.6;86.7;48.0;14.9;40.8;36.4;18.8;24.7;76.2;26.7;45.9;58.2;1.348;0.57
+Utah Jazz;utah;2021 - 2022 Regular Season;Away;Donovan Mitchell;9.6;21.3;44.9;3.5;10.1;35.0;4.0;4.8;84.9;6.0;11.2;53.8;1.252;0.53
+Utah Jazz;utah;2021 - 2022 Regular Season;Away;Bojan Bogdanovic;5.9;13.3;44.4;2.3;6.7;33.7;3.3;3.8;84.9;3.6;6.6;55.4;1.303;0.53
+Utah Jazz;utah;2021 - 2022 Regular Season;Away;Jordan Clarkson;5.8;14.4;39.9;2.1;7.5;28.5;1.7;2.1;82.1;3.6;7.0;52.2;1.066;0.47
+Utah Jazz;utah;2021 - 2022 Regular Season;Away;Rudy Gobert;5.0;7.2;68.6;0.0;0.1;0.0;4.5;6.2;72.2;5.0;7.1;69.8;1.992;0.69
+Utah Jazz;utah;2021 - 2022 Regular Season;Away;Mike Conley;4.7;11.1;42.8;2.3;5.6;40.3;1.5;1.9;77.9;2.5;5.5;45.3;1.196;0.53
+Utah Jazz;utah;2021 - 2022 Regular Season;Away;Rudy Gay;3.1;7.5;41.1;1.5;4.0;36.4;1.2;1.3;89.7;1.6;3.4;46.6;1.174;0.51
+Utah Jazz;utah;2021 - 2022 Regular Season;Away;Hassan Whiteside;3.4;5.1;66.0;0.0;0.0;0.0;1.5;2.4;61.3;3.4;5.1;66.0;1.610;0.66
+Utah Jazz;utah;2021 - 2022 Regular Season;Away;Juancho Hernangomez;2.9;5.4;53.1;1.7;3.6;46.9;0.6;1.3;41.7;1.2;1.9;64.7;1.469;0.68
+Utah Jazz;utah;2021 - 2022 Regular Season;Away;Royce O'Neale;2.8;5.8;47.8;1.7;4.0;42.9;0.4;0.6;70.8;1.1;1.8;58.3;1.325;0.63
+Utah Jazz;utah;2021 - 2022 Regular Season;Away;Joe Ingles;2.5;6.2;40.0;1.8;5.0;35.6;0.5;0.7;71.4;0.7;1.2;57.7;1.162;0.54
+Utah Jazz;utah;2021 - 2022 Regular Season;Away;Danuel House Jr.;2.4;5.2;45.2;1.4;3.1;44.2;1.0;1.4;70.0;1.0;2.1;46.7;1.356;0.58
+Utah Jazz;utah;2021 - 2022 Regular Season;Away;Eric Paschall;2.1;4.3;48.1;0.7;1.9;38.6;1.3;1.7;78.4;1.3;2.4;55.6;1.442;0.57
+Utah Jazz;utah;2021 - 2022 Regular Season;Away;Elijah Hughes;1.7;4.0;42.9;1.3;3.1;40.9;0.1;0.1;100.0;0.4;0.9;50.0;1.214;0.59
+Utah Jazz;utah;2021 - 2022 Regular Season;Away;Jared Butler;1.7;3.7;44.8;0.8;2.1;37.8;0.4;0.4;87.5;0.9;1.7;53.3;1.209;0.55
+Utah Jazz;utah;2021 - 2022 Regular Season;Away;Greg Monroe;1.0;2.0;50.0;0.0;0.0;0.0;2.0;2.0;100.0;1.0;2.0;50.0;2.000;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;Away;Trent Forrest;1.1;2.6;43.9;0.1;0.4;25.0;0.5;0.7;72.7;1.0;2.2;47.1;1.110;0.46
+Utah Jazz;utah;2021 - 2022 Regular Season;Away;Udoka Azubuike;1.0;1.6;62.5;0.0;0.0;0.0;0.4;0.8;50.0;1.0;1.6;62.5;1.500;0.63
+Utah Jazz;utah;2021 - 2022 Regular Season;Away;Nickeil Alexander-Walker;0.6;2.6;22.2;0.4;1.9;23.1;0.6;0.6;100.0;0.1;0.7;20.0;0.833;0.31
+Utah Jazz;utah;2021 - 2022 Regular Season;Away;Norvel Pelle;1.0;1.7;60.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.7;60.0;1.200;0.60
+Utah Jazz;utah;2021 - 2022 Regular Season;Away;Malik Fitts;0.4;1.8;22.2;0.4;0.8;50.0;0.0;0.0;0.0;0.0;1.0;0.0;0.667;0.33
+Utah Jazz;utah;2021 - 2022 Regular Season;Away;Xavier Sneed;0.3;1.3;25.0;0.0;1.0;0.0;0.0;0.0;0.0;0.3;0.3;100.0;0.500;0.25
+Utah Jazz;utah;2021 - 2022 Regular Season;Away;Miye Oni;0.1;0.3;50.0;0.1;0.3;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.500;0.75
+Utah Jazz;utah;2021 - 2022 Regular Season;Away;Denzel Valentine;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;Away;Total;39.6;85.7;46.2;14.2;39.9;35.7;17.0;22.0;77.3;25.4;45.8;55.3;1.289;0.54
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Boston Celtics;Donovan Mitchell;12.5;23.0;54.3;4.5;13.0;34.6;6.0;6.0;100.0;8.0;10.0;80.0;1.543;0.64
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Boston Celtics;Mike Conley;6.5;12.5;52.0;4.0;6.0;66.7;2.0;2.5;80.0;2.5;6.5;38.5;1.520;0.68
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Boston Celtics;Bojan Bogdanovic;5.0;10.0;50.0;4.0;7.0;57.1;2.0;2.0;100.0;1.0;3.0;33.3;1.600;0.70
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Boston Celtics;Rudy Gobert;4.5;5.5;81.8;0.0;0.0;0.0;7.0;8.0;87.5;4.5;5.5;81.8;2.909;0.82
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Boston Celtics;Eric Paschall;4.0;12.0;33.3;0.0;4.0;0.0;3.0;3.0;100.0;4.0;8.0;50.0;0.917;0.33
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Boston Celtics;Jordan Clarkson;4.0;12.5;32.0;2.0;7.0;28.6;0.5;1.0;50.0;2.0;5.5;36.4;0.840;0.40
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Boston Celtics;Royce O'Neale;3.0;4.0;75.0;2.0;3.0;66.7;1.0;1.0;100.0;1.0;1.0;100.0;2.250;1.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Boston Celtics;Joe Ingles;3.0;5.0;60.0;3.0;5.0;60.0;0.0;0.0;0.0;0.0;0.0;0.0;1.800;0.90
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Boston Celtics;Hassan Whiteside;1.5;2.5;60.0;0.0;0.0;0.0;0.5;1.0;50.0;1.5;2.5;60.0;1.400;0.60
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Boston Celtics;Rudy Gay;1.0;6.5;15.4;1.0;4.5;22.2;0.0;0.0;0.0;0.0;2.0;0.0;0.462;0.23
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Boston Celtics;Nickeil Alexander-Walker;1.0;1.0;100.0;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;3.000;1.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Boston Celtics;Jared Butler;1.0;3.0;33.3;0.0;2.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;0.667;0.33
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Boston Celtics;Juancho Hernangomez;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Boston Celtics;Trent Forrest;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Boston Celtics;Xavier Sneed;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Boston Celtics;Total;40.0;84.5;47.3;17.5;43.5;40.2;19.5;22.0;88.6;22.5;41.0;54.9;1.385;0.58
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Brooklyn Nets;Donovan Mitchell;8.5;16.5;51.5;5.5;11.0;50.0;6.0;6.0;100.0;3.0;5.5;54.5;1.727;0.68
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Brooklyn Nets;Bojan Bogdanovic;8.0;14.0;57.1;3.0;7.0;42.9;0.0;0.0;0.0;5.0;7.0;71.4;1.357;0.68
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Brooklyn Nets;Jordan Clarkson;7.0;19.0;36.8;4.0;8.0;50.0;1.0;1.0;100.0;3.0;11.0;27.3;1.000;0.47
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Brooklyn Nets;Mike Conley;6.0;11.0;54.5;2.5;5.0;50.0;1.5;2.0;75.0;3.5;6.0;58.3;1.455;0.66
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Brooklyn Nets;Eric Paschall;6.0;9.0;66.7;3.0;6.0;50.0;1.0;1.0;100.0;3.0;3.0;100.0;1.778;0.83
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Brooklyn Nets;Rudy Gobert;4.0;5.0;80.0;0.0;0.0;0.0;3.0;4.0;75.0;4.0;5.0;80.0;2.200;0.80
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Brooklyn Nets;Hassan Whiteside;4.0;5.5;72.7;0.0;0.0;0.0;2.5;2.5;100.0;4.0;5.5;72.7;1.909;0.73
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Brooklyn Nets;Udoka Azubuike;5.0;8.0;62.5;0.0;0.0;0.0;0.0;1.0;0.0;5.0;8.0;62.5;1.250;0.63
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Brooklyn Nets;Rudy Gay;3.0;4.0;75.0;1.0;2.0;50.0;0.0;0.0;0.0;2.0;2.0;100.0;1.750;0.88
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Brooklyn Nets;Trent Forrest;2.5;6.5;38.5;0.0;1.5;0.0;1.0;2.0;50.0;2.5;5.0;50.0;0.923;0.38
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Brooklyn Nets;Jared Butler;2.0;6.0;33.3;1.0;3.5;28.6;0.0;0.5;0.0;1.0;2.5;40.0;0.833;0.42
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Brooklyn Nets;Royce O'Neale;1.0;4.5;22.2;0.5;3.0;16.7;1.5;1.5;100.0;0.5;1.5;33.3;0.889;0.28
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Brooklyn Nets;Juancho Hernangomez;1.0;3.0;33.3;0.0;2.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;0.667;0.33
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Brooklyn Nets;Elijah Hughes;0.0;2.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Brooklyn Nets;Total;42.5;84.0;50.6;15.5;38.5;40.3;15.0;18.0;83.3;27.0;45.5;59.3;1.375;0.60
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. New York Knicks;Donovan Mitchell;12.0;23.5;51.1;4.5;11.0;40.9;5.5;6.5;84.6;7.5;12.5;60.0;1.447;0.61
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. New York Knicks;Bojan Bogdanovic;6.0;14.0;42.9;2.0;7.0;28.6;6.0;6.0;100.0;4.0;7.0;57.1;1.429;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. New York Knicks;Jordan Clarkson;8.0;15.0;53.3;2.0;7.0;28.6;1.5;2.5;60.0;6.0;8.0;75.0;1.300;0.60
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. New York Knicks;Mike Conley;5.0;17.0;29.4;2.0;10.0;20.0;6.0;6.0;100.0;3.0;7.0;42.9;1.059;0.35
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. New York Knicks;Rudy Gobert;2.0;3.0;66.7;0.0;0.0;0.0;10.0;12.0;83.3;2.0;3.0;66.7;4.667;0.67
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. New York Knicks;Rudy Gay;4.0;7.0;57.1;3.0;6.0;50.0;2.0;2.0;100.0;1.0;1.0;100.0;1.857;0.79
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. New York Knicks;Royce O'Neale;3.5;9.5;36.8;3.0;9.0;33.3;0.0;0.0;0.0;0.5;0.5;100.0;1.053;0.53
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. New York Knicks;Eric Paschall;2.0;4.0;50.0;1.0;3.0;33.3;2.0;2.0;100.0;1.0;1.0;100.0;1.750;0.63
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. New York Knicks;Juancho Hernangomez;2.0;7.0;28.6;2.0;6.0;33.3;1.0;2.0;50.0;0.0;1.0;0.0;1.000;0.43
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. New York Knicks;Udoka Azubuike;3.0;5.0;60.0;0.0;0.0;0.0;1.0;2.0;50.0;3.0;5.0;60.0;1.400;0.60
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. New York Knicks;Trent Forrest;2.0;6.0;33.3;0.0;1.0;0.0;0.0;0.0;0.0;2.0;5.0;40.0;0.667;0.33
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. New York Knicks;Hassan Whiteside;0.0;0.5;0.0;0.0;0.0;0.0;2.0;3.0;66.7;0.0;0.5;0.0;4.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. New York Knicks;Nickeil Alexander-Walker;0.0;6.0;0.0;0.0;6.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. New York Knicks;Jared Butler;0.0;0.5;0.0;0.0;0.5;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. New York Knicks;Total;36.5;83.5;43.7;14.5;47.0;30.9;23.0;28.0;82.1;22.0;36.5;60.3;1.323;0.52
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Bojan Bogdanovic;6.5;10.5;61.9;2.5;5.5;45.5;5.0;5.5;90.9;4.0;5.0;80.0;1.952;0.74
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Donovan Mitchell;6.5;15.5;41.9;3.0;6.5;46.2;1.5;2.5;60.0;3.5;9.0;38.9;1.129;0.52
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Rudy Gobert;6.0;10.5;57.1;0.0;0.0;0.0;4.0;7.5;53.3;6.0;10.5;57.1;1.524;0.57
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Jordan Clarkson;6.0;16.0;37.5;3.5;11.0;31.8;0.0;0.5;0.0;2.5;5.0;50.0;0.969;0.48
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Hassan Whiteside;5.0;8.0;62.5;0.0;0.0;0.0;2.0;2.5;80.0;5.0;8.0;62.5;1.500;0.63
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Mike Conley;4.5;9.0;50.0;2.0;4.0;50.0;0.5;1.0;50.0;2.5;5.0;50.0;1.278;0.61
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Rudy Gay;4.0;5.0;80.0;1.0;2.0;50.0;1.0;1.0;100.0;3.0;3.0;100.0;2.000;0.90
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Joe Ingles;2.5;7.5;33.3;2.0;6.0;33.3;0.0;0.0;0.0;0.5;1.5;33.3;0.933;0.47
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Royce O'Neale;2.0;3.5;57.1;1.0;2.5;40.0;0.0;0.0;0.0;1.0;1.0;100.0;1.429;0.71
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Eric Paschall;1.0;2.0;50.0;0.5;1.0;50.0;1.0;1.0;100.0;0.5;1.0;50.0;1.750;0.63
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Jared Butler;1.0;2.0;50.0;0.5;1.0;50.0;0.0;0.0;0.0;0.5;1.0;50.0;1.250;0.63
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Udoka Azubuike;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Trent Forrest;0.5;2.0;25.0;0.0;0.5;0.0;0.0;0.0;0.0;0.5;1.5;33.3;0.500;0.25
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Miye Oni;0.5;0.5;100.0;0.0;0.0;0.0;0.0;0.5;0.0;0.5;0.5;100.0;2.000;1.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Total;44.5;90.0;49.4;15.5;39.0;39.7;14.5;21.5;67.4;29.0;51.0;56.9;1.322;0.58
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Toronto Raptors;Elijah Hughes;9.0;15.0;60.0;7.0;12.0;58.3;1.0;1.0;100.0;2.0;3.0;66.7;1.733;0.83
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Toronto Raptors;Rudy Gay;7.0;8.0;87.5;5.0;6.0;83.3;1.0;2.0;50.0;2.0;2.0;100.0;2.500;1.19
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Toronto Raptors;Donovan Mitchell;6.0;13.0;46.2;2.0;7.0;28.6;6.0;6.0;100.0;4.0;6.0;66.7;1.538;0.54
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Toronto Raptors;Royce O'Neale;6.0;8.0;75.0;4.0;6.0;66.7;0.0;0.0;0.0;2.0;2.0;100.0;2.000;1.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Toronto Raptors;Eric Paschall;5.0;11.5;43.5;1.0;4.0;25.0;3.5;5.0;70.0;4.0;7.5;53.3;1.261;0.48
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Toronto Raptors;Rudy Gobert;7.0;7.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;7.0;7.0;100.0;2.000;1.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Toronto Raptors;Danuel House Jr.;4.0;7.0;57.1;3.0;6.0;50.0;2.0;2.0;100.0;1.0;1.0;100.0;1.857;0.79
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Toronto Raptors;Jordan Clarkson;4.0;12.0;33.3;4.0;11.0;36.4;0.0;0.0;0.0;0.0;1.0;0.0;1.000;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Toronto Raptors;Joe Ingles;4.0;8.0;50.0;2.0;6.0;33.3;0.0;0.0;0.0;2.0;2.0;100.0;1.250;0.63
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Toronto Raptors;Hassan Whiteside;3.5;5.0;70.0;0.0;0.0;0.0;2.0;2.5;80.0;3.5;5.0;70.0;1.800;0.70
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Toronto Raptors;Jared Butler;3.0;9.5;31.6;1.5;5.0;30.0;1.0;1.0;100.0;1.5;4.5;33.3;0.895;0.39
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Toronto Raptors;Bojan Bogdanovic;3.0;9.0;33.3;1.0;5.0;20.0;0.0;0.0;0.0;2.0;4.0;50.0;0.778;0.39
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Toronto Raptors;Malik Fitts;2.0;8.0;25.0;2.0;4.0;50.0;0.0;0.0;0.0;0.0;4.0;0.0;0.750;0.38
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Toronto Raptors;Mike Conley;2.0;4.0;50.0;1.0;2.0;50.0;0.0;0.0;0.0;1.0;2.0;50.0;1.250;0.63
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Toronto Raptors;Trent Forrest;2.0;3.5;57.1;0.0;0.0;0.0;1.0;1.0;100.0;2.0;3.5;57.1;1.429;0.57
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Toronto Raptors;Norvel Pelle;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Toronto Raptors;Udoka Azubuike;0.5;0.5;100.0;0.0;0.0;0.0;0.0;0.5;0.0;0.5;0.5;100.0;2.000;1.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Toronto Raptors;Miye Oni;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Toronto Raptors;Total;41.5;80.5;51.6;18.0;42.0;42.9;12.5;15.5;80.6;23.5;38.5;61.0;1.410;0.63
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Chicago Bulls;Donovan Mitchell;10.5;24.5;42.9;5.5;13.0;42.3;7.0;7.0;100.0;5.0;11.5;43.5;1.367;0.54
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Chicago Bulls;Jordan Clarkson;8.0;18.5;43.2;2.0;7.0;28.6;3.0;3.5;85.7;6.0;11.5;52.2;1.135;0.49
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Chicago Bulls;Nickeil Alexander-Walker;4.0;8.0;50.0;3.0;5.0;60.0;5.0;6.0;83.3;1.0;3.0;33.3;2.000;0.69
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Chicago Bulls;Rudy Gobert;6.0;8.5;70.6;0.0;0.0;0.0;3.5;5.0;70.0;6.0;8.5;70.6;1.824;0.71
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Chicago Bulls;Mike Conley;4.0;11.0;36.4;3.0;5.0;60.0;3.0;4.0;75.0;1.0;6.0;16.7;1.273;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Chicago Bulls;Bojan Bogdanovic;5.0;14.0;35.7;2.0;6.0;33.3;2.0;2.0;100.0;3.0;8.0;37.5;1.000;0.43
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Chicago Bulls;Joe Ingles;3.0;9.0;33.3;3.0;8.0;37.5;0.0;0.0;0.0;0.0;1.0;0.0;1.000;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Chicago Bulls;Royce O'Neale;3.0;5.0;60.0;2.0;3.5;57.1;0.0;0.0;0.0;1.0;1.5;66.7;1.600;0.80
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Chicago Bulls;Hassan Whiteside;2.0;4.0;50.0;0.0;0.0;0.0;0.5;0.5;100.0;2.0;4.0;50.0;1.125;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Chicago Bulls;Juancho Hernangomez;0.0;3.0;0.0;0.0;3.0;0.0;2.0;4.0;50.0;0.0;0.0;0.0;0.667;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Chicago Bulls;Eric Paschall;0.5;1.5;33.3;0.0;0.0;0.0;0.0;0.0;0.0;0.5;1.5;33.3;0.667;0.33
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Chicago Bulls;Jared Butler;0.5;2.0;25.0;0.0;0.5;0.0;0.0;0.0;0.0;0.5;1.5;33.3;0.500;0.25
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Chicago Bulls;Rudy Gay;0.0;2.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Chicago Bulls;Trent Forrest;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Chicago Bulls;Xavier Sneed;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Chicago Bulls;Total;38.5;87.5;44.0;15.0;38.5;39.0;20.0;24.0;83.3;23.5;49.0;48.0;1.280;0.53
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Donovan Mitchell;9.0;18.5;48.6;3.5;8.5;41.2;4.5;5.0;90.0;5.5;10.0;55.0;1.405;0.58
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Eric Paschall;8.0;11.0;72.7;2.0;3.0;66.7;0.0;0.0;0.0;6.0;8.0;75.0;1.636;0.82
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Rudy Gay;5.0;10.0;50.0;3.0;7.0;42.9;2.0;2.0;100.0;2.0;3.0;66.7;1.500;0.65
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Jordan Clarkson;5.5;15.5;35.5;2.5;9.5;26.3;1.0;1.5;66.7;3.0;6.0;50.0;0.935;0.44
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Bojan Bogdanovic;4.5;14.0;32.1;3.0;8.0;37.5;0.5;1.0;50.0;1.5;6.0;25.0;0.893;0.43
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Mike Conley;4.0;9.5;42.1;2.5;4.5;55.6;1.0;2.0;50.0;1.5;5.0;30.0;1.211;0.55
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Royce O'Neale;3.0;6.0;50.0;3.0;5.0;60.0;0.0;0.0;0.0;0.0;1.0;0.0;1.500;0.75
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Rudy Gobert;3.0;6.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;3.0;6.0;50.0;1.000;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Denzel Valentine;2.0;4.0;50.0;1.0;3.0;33.3;0.0;0.0;0.0;1.0;1.0;100.0;1.250;0.63
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Joe Ingles;2.0;7.0;28.6;0.5;4.5;11.1;0.0;0.0;0.0;1.5;2.5;60.0;0.643;0.32
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Zylan Cheatham;0.0;3.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Trent Forrest;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Total;37.0;87.5;42.3;18.0;47.5;37.9;8.0;10.5;76.2;19.0;40.0;47.5;1.143;0.53
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Detroit Pistons;Donovan Mitchell;11.0;25.0;44.0;3.0;8.0;37.5;6.0;7.0;85.7;8.0;17.0;47.1;1.240;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Detroit Pistons;Rudy Gobert;8.0;11.0;72.7;0.0;0.0;0.0;8.0;11.0;72.7;8.0;11.0;72.7;2.182;0.73
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Detroit Pistons;Hassan Whiteside;10.0;15.0;66.7;0.0;0.0;0.0;1.0;2.0;50.0;10.0;15.0;66.7;1.400;0.67
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Detroit Pistons;Jordan Clarkson;7.0;14.0;50.0;3.5;7.0;50.0;0.5;0.5;100.0;3.5;7.0;50.0;1.286;0.63
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Detroit Pistons;Bojan Bogdanovic;6.0;12.0;50.0;1.5;5.0;30.0;4.0;5.0;80.0;4.5;7.0;64.3;1.458;0.56
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Detroit Pistons;Mike Conley;4.5;11.5;39.1;1.5;6.5;23.1;5.5;6.0;91.7;3.0;5.0;60.0;1.391;0.46
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Detroit Pistons;Eric Paschall;2.5;4.5;55.6;0.5;1.0;50.0;2.5;3.0;83.3;2.0;3.5;57.1;1.778;0.61
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Detroit Pistons;Trent Forrest;3.0;4.0;75.0;0.0;0.0;0.0;2.0;3.0;66.7;3.0;4.0;75.0;2.000;0.75
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Detroit Pistons;Royce O'Neale;2.0;3.5;57.1;1.0;2.0;50.0;1.0;1.0;100.0;1.0;1.5;66.7;1.714;0.71
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Detroit Pistons;Joe Ingles;2.0;9.0;22.2;1.0;8.0;12.5;0.0;0.0;0.0;1.0;1.0;100.0;0.556;0.28
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Detroit Pistons;Rudy Gay;1.0;5.0;20.0;0.0;2.0;0.0;2.0;2.0;100.0;1.0;3.0;33.3;0.800;0.20
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Detroit Pistons;Danuel House Jr.;1.0;5.0;20.0;1.0;3.0;33.3;0.0;0.0;0.0;0.0;2.0;0.0;0.600;0.30
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Detroit Pistons;Norvel Pelle;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Detroit Pistons;Total;40.0;82.5;48.5;10.5;32.0;32.8;23.0;28.0;82.1;29.5;50.5;58.4;1.376;0.55
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Indiana Pacers;Donovan Mitchell;12.0;23.5;51.1;4.5;9.5;47.4;2.5;2.5;100.0;7.5;14.0;53.6;1.319;0.61
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Indiana Pacers;Rudy Gobert;7.0;10.0;70.0;0.0;0.0;0.0;5.0;7.0;71.4;7.0;10.0;70.0;1.900;0.70
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Indiana Pacers;Bojan Bogdanovic;5.0;12.5;40.0;2.0;5.5;36.4;2.5;3.5;71.4;3.0;7.0;42.9;1.160;0.48
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Indiana Pacers;Jordan Clarkson;5.0;14.5;34.5;2.0;7.5;26.7;2.5;2.5;100.0;3.0;7.0;42.9;1.000;0.41
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Indiana Pacers;Hassan Whiteside;3.5;6.5;53.8;0.0;0.0;0.0;1.0;3.5;28.6;3.5;6.5;53.8;1.231;0.54
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Indiana Pacers;Mike Conley;2.5;6.0;41.7;1.0;4.0;25.0;1.5;2.0;75.0;1.5;2.0;75.0;1.250;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Indiana Pacers;Rudy Gay;2.0;7.0;28.6;1.0;3.0;33.3;2.0;2.0;100.0;1.0;4.0;25.0;1.000;0.36
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Indiana Pacers;Joe Ingles;3.0;6.0;50.0;1.0;4.0;25.0;0.0;0.0;0.0;2.0;2.0;100.0;1.167;0.58
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Indiana Pacers;Royce O'Neale;2.0;4.5;44.4;1.0;3.0;33.3;1.0;1.5;66.7;1.0;1.5;66.7;1.333;0.56
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Indiana Pacers;Eric Paschall;2.0;2.0;100.0;0.5;0.5;100.0;1.0;1.0;100.0;1.5;1.5;100.0;2.750;1.13
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Indiana Pacers;Norvel Pelle;2.0;4.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;4.0;50.0;1.000;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Indiana Pacers;Jared Butler;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Indiana Pacers;Danuel House Jr.;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Indiana Pacers;Trent Forrest;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Indiana Pacers;Udoka Azubuike;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Indiana Pacers;Elijah Hughes;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Indiana Pacers;Miye Oni;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Indiana Pacers;Total;39.5;83.5;47.3;12.0;33.5;35.8;15.5;21.0;73.8;27.5;50.0;55.0;1.275;0.54
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Donovan Mitchell;10.0;25.0;40.0;4.5;13.0;34.6;4.0;4.5;88.9;5.5;12.0;45.8;1.140;0.49
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Mike Conley;8.0;12.0;66.7;5.0;8.0;62.5;3.5;4.0;87.5;3.0;4.0;75.0;2.042;0.88
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Bojan Bogdanovic;3.0;9.0;33.3;1.0;5.0;20.0;7.0;7.0;100.0;2.0;4.0;50.0;1.556;0.39
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Rudy Gobert;4.0;5.5;72.7;0.0;0.0;0.0;5.5;7.0;78.6;4.0;5.5;72.7;2.455;0.73
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Jordan Clarkson;4.5;15.5;29.0;1.0;8.0;12.5;1.5;1.5;100.0;3.5;7.5;46.7;0.742;0.32
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Royce O'Neale;3.5;9.0;38.9;1.5;4.5;33.3;1.0;1.0;100.0;2.0;4.5;44.4;1.056;0.47
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Rudy Gay;1.0;4.0;25.0;1.0;2.0;50.0;2.0;2.0;100.0;0.0;2.0;0.0;1.250;0.38
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Joe Ingles;1.0;1.0;100.0;1.0;1.0;100.0;2.0;2.0;100.0;0.0;0.0;0.0;5.000;1.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Eric Paschall;1.5;5.0;30.0;0.5;3.5;14.3;1.0;1.0;100.0;1.0;1.5;66.7;0.900;0.35
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Hassan Whiteside;1.5;3.5;42.9;0.0;0.0;0.0;0.5;1.0;50.0;1.5;3.5;42.9;1.000;0.43
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Danuel House Jr.;1.0;3.0;33.3;1.0;3.0;33.3;0.0;0.0;0.0;0.0;0.0;0.0;1.000;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Nickeil Alexander-Walker;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Jared Butler;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Total;36.0;84.0;42.9;14.5;42.5;34.1;22.5;25.5;88.2;21.5;41.5;51.8;1.298;0.51
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Atlanta Hawks;Donovan Mitchell;11.0;20.0;55.0;5.0;11.0;45.5;0.0;0.0;0.0;6.0;9.0;66.7;1.350;0.68
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Atlanta Hawks;Jordan Clarkson;8.0;15.5;51.6;4.0;9.5;42.1;3.0;3.5;85.7;4.0;6.0;66.7;1.484;0.65
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Atlanta Hawks;Bojan Bogdanovic;6.0;14.5;41.4;2.0;6.0;33.3;6.5;6.5;100.0;4.0;8.5;47.1;1.414;0.48
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Atlanta Hawks;Mike Conley;4.5;11.0;40.9;2.5;7.5;33.3;1.0;1.0;100.0;2.0;3.5;57.1;1.136;0.52
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Atlanta Hawks;Rudy Gobert;4.5;7.0;64.3;0.0;0.0;0.0;2.0;5.5;36.4;4.5;7.0;64.3;1.571;0.64
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Atlanta Hawks;Joe Ingles;4.0;6.0;66.7;2.5;3.5;71.4;0.0;0.0;0.0;1.5;2.5;60.0;1.750;0.88
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Atlanta Hawks;Royce O'Neale;3.5;7.5;46.7;1.5;5.0;30.0;1.5;1.5;100.0;2.0;2.5;80.0;1.333;0.57
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Atlanta Hawks;Hassan Whiteside;2.0;3.0;66.7;0.0;0.0;0.0;1.0;1.5;66.7;2.0;3.0;66.7;1.667;0.67
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Atlanta Hawks;Eric Paschall;2.0;4.0;50.0;0.5;2.0;25.0;0.0;0.0;0.0;1.5;2.0;75.0;1.125;0.56
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Atlanta Hawks;Jared Butler;1.0;1.5;66.7;0.5;0.5;100.0;0.0;0.0;0.0;0.5;1.0;50.0;1.667;0.83
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Atlanta Hawks;Trent Forrest;0.0;0.5;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Atlanta Hawks;Udoka Azubuike;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Atlanta Hawks;Elijah Hughes;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Atlanta Hawks;Malik Fitts;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Atlanta Hawks;Miye Oni;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Atlanta Hawks;Total;41.0;81.0;50.6;16.0;39.5;40.5;15.0;19.5;76.9;25.0;41.5;60.2;1.395;0.60
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Charlotte Hornets;Donovan Mitchell;8.5;20.5;41.5;3.0;10.5;28.6;3.5;5.0;70.0;5.5;10.0;55.0;1.146;0.49
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Charlotte Hornets;Bojan Bogdanovic;8.0;15.0;53.3;5.0;11.0;45.5;2.0;4.0;50.0;3.0;4.0;75.0;1.533;0.70
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Charlotte Hornets;Rudy Gobert;4.5;8.5;52.9;0.0;0.0;0.0;8.0;9.0;88.9;4.5;8.5;52.9;2.000;0.53
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Charlotte Hornets;Jordan Clarkson;5.5;13.5;40.7;2.5;7.5;33.3;1.5;1.5;100.0;3.0;6.0;50.0;1.111;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Charlotte Hornets;Juancho Hernangomez;5.0;9.0;55.6;4.0;6.0;66.7;0.0;2.0;0.0;1.0;3.0;33.3;1.556;0.78
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Charlotte Hornets;Mike Conley;4.0;10.5;38.1;2.5;7.0;35.7;2.0;2.5;80.0;1.5;3.5;42.9;1.190;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Charlotte Hornets;Eric Paschall;4.0;4.0;100.0;1.0;1.0;100.0;2.0;2.0;100.0;3.0;3.0;100.0;2.750;1.13
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Charlotte Hornets;Hassan Whiteside;2.0;2.0;100.0;0.0;0.0;0.0;2.0;3.0;66.7;2.0;2.0;100.0;3.000;1.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Charlotte Hornets;Joe Ingles;2.0;7.0;28.6;2.0;7.0;28.6;0.0;0.0;0.0;0.0;0.0;0.0;0.857;0.43
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Charlotte Hornets;Royce O'Neale;1.5;8.5;17.6;1.5;7.0;21.4;0.0;0.0;0.0;0.0;1.5;0.0;0.529;0.26
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Charlotte Hornets;Rudy Gay;1.5;9.5;15.8;1.0;5.0;20.0;0.0;0.5;0.0;0.5;4.5;11.1;0.421;0.21
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Charlotte Hornets;Trent Forrest;0.0;0.5;0.0;0.0;0.5;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Charlotte Hornets;Total;36.0;90.0;40.0;16.5;50.0;33.0;18.0;24.0;75.0;19.5;40.0;48.8;1.183;0.49
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Miami Heat;Donovan Mitchell;11.0;23.5;46.8;3.5;12.5;28.0;4.0;5.5;72.7;7.5;11.0;68.2;1.255;0.54
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Miami Heat;Bojan Bogdanovic;6.5;15.0;43.3;4.0;9.0;44.4;4.0;4.0;100.0;2.5;6.0;41.7;1.400;0.57
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Miami Heat;Jordan Clarkson;5.5;13.0;42.3;2.5;9.5;26.3;2.5;2.5;100.0;3.0;3.5;85.7;1.231;0.52
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Miami Heat;Mike Conley;4.5;9.0;50.0;2.5;6.0;41.7;0.5;0.5;100.0;2.0;3.0;66.7;1.333;0.64
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Miami Heat;Royce O'Neale;4.0;7.0;57.1;2.0;4.5;44.4;1.0;2.0;50.0;2.0;2.5;80.0;1.571;0.71
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Miami Heat;Rudy Gobert;4.5;6.0;75.0;0.0;0.0;0.0;2.0;3.5;57.1;4.5;6.0;75.0;1.833;0.75
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Miami Heat;Joe Ingles;1.0;4.5;22.2;1.0;4.0;25.0;0.5;1.0;50.0;0.0;0.5;0.0;0.778;0.33
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Miami Heat;Hassan Whiteside;1.5;2.5;60.0;0.0;0.0;0.0;0.0;1.0;0.0;1.5;2.5;60.0;1.200;0.60
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Miami Heat;Eric Paschall;0.5;3.5;14.3;0.5;3.5;14.3;1.5;2.0;75.0;0.0;0.0;0.0;0.857;0.21
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Miami Heat;Total;39.0;84.0;46.4;16.0;49.0;32.7;16.0;22.0;72.7;23.0;35.0;65.7;1.310;0.56
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Orlando Magic;Donovan Mitchell;7.0;21.5;32.6;2.5;11.5;21.7;6.0;6.5;92.3;4.5;10.0;45.0;1.047;0.38
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Orlando Magic;Rudy Gobert;7.0;9.0;77.8;0.0;0.0;0.0;7.0;8.0;87.5;7.0;9.0;77.8;2.333;0.78
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Orlando Magic;Royce O'Neale;5.0;6.0;83.3;3.0;4.0;75.0;1.0;1.5;66.7;2.0;2.0;100.0;2.333;1.08
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Orlando Magic;Hassan Whiteside;6.0;9.0;66.7;0.0;0.0;0.0;1.5;2.5;60.0;6.0;9.0;66.7;1.500;0.67
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Orlando Magic;Jordan Clarkson;4.0;13.0;30.8;1.5;8.5;17.6;2.5;2.5;100.0;2.5;4.5;55.6;0.923;0.37
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Orlando Magic;Udoka Azubuike;6.0;6.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;6.0;6.0;100.0;2.000;1.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Orlando Magic;Bojan Bogdanovic;3.0;12.5;24.0;1.0;6.5;15.4;3.0;3.5;85.7;2.0;6.0;33.3;0.800;0.28
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Orlando Magic;Mike Conley;3.0;10.0;30.0;2.0;6.0;33.3;0.0;0.0;0.0;1.0;4.0;25.0;0.800;0.40
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Orlando Magic;Trent Forrest;1.5;4.5;33.3;0.5;1.0;50.0;2.0;2.0;100.0;1.0;3.5;28.6;1.222;0.39
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Orlando Magic;Joe Ingles;2.0;9.0;22.2;1.0;7.0;14.3;0.0;0.0;0.0;1.0;2.0;50.0;0.556;0.28
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Orlando Magic;Eric Paschall;1.0;4.5;22.2;0.0;2.5;0.0;3.0;4.0;75.0;1.0;2.0;50.0;1.111;0.22
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Orlando Magic;Jared Butler;1.0;2.0;50.0;1.0;2.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.500;0.75
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Orlando Magic;Juancho Hernangomez;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Orlando Magic;Nickeil Alexander-Walker;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Orlando Magic;Total;37.0;89.0;41.6;10.5;41.5;25.3;22.5;26.5;84.9;26.5;47.5;55.8;1.202;0.47
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Washington Wizards;Donovan Mitchell;11.0;22.5;48.9;4.0;10.5;38.1;4.0;4.5;88.9;7.0;12.0;58.3;1.333;0.58
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Washington Wizards;Bojan Bogdanovic;6.0;13.5;44.4;2.5;5.0;50.0;2.5;3.0;83.3;3.5;8.5;41.2;1.259;0.54
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Washington Wizards;Rudy Gobert;6.5;7.0;92.9;0.0;0.0;0.0;2.5;4.0;62.5;6.5;7.0;92.9;2.214;0.93
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Washington Wizards;Jordan Clarkson;4.5;12.5;36.0;0.5;7.0;7.1;2.0;3.0;66.7;4.0;5.5;72.7;0.920;0.38
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Washington Wizards;Mike Conley;4.0;11.0;36.4;1.0;6.0;16.7;2.0;3.0;66.7;3.0;5.0;60.0;1.000;0.41
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Washington Wizards;Hassan Whiteside;4.5;6.5;69.2;0.0;0.0;0.0;1.5;2.5;60.0;4.5;6.5;69.2;1.615;0.69
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Washington Wizards;Joe Ingles;2.0;6.5;30.8;2.0;6.0;33.3;0.5;1.0;50.0;0.0;0.5;0.0;1.000;0.46
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Washington Wizards;Royce O'Neale;2.0;4.5;44.4;1.5;3.0;50.0;0.5;1.0;50.0;0.5;1.5;33.3;1.333;0.61
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Washington Wizards;Rudy Gay;1.5;6.0;25.0;1.0;5.0;20.0;1.5;2.0;75.0;0.5;1.0;50.0;0.917;0.33
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Washington Wizards;Eric Paschall;1.0;1.0;100.0;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;3.000;1.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Washington Wizards;Miye Oni;1.0;2.0;50.0;1.0;2.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.500;0.75
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Washington Wizards;Trent Forrest;0.5;1.0;50.0;0.5;0.5;100.0;0.5;1.0;50.0;0.0;0.5;0.0;2.000;0.75
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Washington Wizards;Jared Butler;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Washington Wizards;Total;41.5;87.0;47.7;13.5;41.5;32.5;16.5;23.5;70.2;28.0;45.5;61.5;1.299;0.55
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Denver Nuggets;Donovan Mitchell;9.3;22.0;42.4;2.0;10.0;20.0;2.7;3.3;80.0;7.3;12.0;61.1;1.061;0.47
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Denver Nuggets;Bojan Bogdanovic;7.5;16.3;46.2;0.8;4.5;16.7;6.0;7.0;85.7;6.8;11.8;57.4;1.338;0.48
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Denver Nuggets;Rudy Gobert;7.0;7.5;93.3;0.0;0.0;0.0;6.5;11.5;56.5;7.0;7.5;93.3;2.733;0.93
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Denver Nuggets;Jordan Clarkson;5.3;12.3;43.2;3.0;8.0;37.5;2.3;2.3;100.0;2.3;4.3;53.8;1.297;0.55
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Denver Nuggets;Rudy Gay;4.7;10.0;46.7;1.7;5.0;33.3;2.3;3.7;63.6;3.0;5.0;60.0;1.333;0.55
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Denver Nuggets;Mike Conley;4.8;10.0;47.5;2.5;4.8;52.6;0.5;0.5;100.0;2.3;5.3;42.9;1.250;0.60
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Denver Nuggets;Royce O'Neale;4.3;8.0;53.1;1.8;4.5;38.9;0.8;0.8;100.0;2.5;3.5;71.4;1.375;0.64
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Denver Nuggets;Hassan Whiteside;4.0;6.0;66.7;0.0;0.0;0.0;2.0;2.0;100.0;4.0;6.0;66.7;1.667;0.67
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Denver Nuggets;Joe Ingles;2.5;5.5;45.5;2.0;4.5;44.4;1.0;1.0;100.0;0.5;1.0;50.0;1.455;0.64
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Denver Nuggets;Udoka Azubuike;3.0;5.0;60.0;0.0;0.0;0.0;0.5;0.5;100.0;3.0;5.0;60.0;1.300;0.60
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Denver Nuggets;Trent Forrest;2.0;2.3;85.7;0.3;0.3;100.0;1.7;2.0;83.3;1.7;2.0;83.3;2.571;0.93
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Denver Nuggets;Elijah Hughes;2.0;4.0;50.0;1.0;3.0;33.3;0.0;0.0;0.0;1.0;1.0;100.0;1.250;0.63
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Denver Nuggets;Jared Butler;2.5;6.0;41.7;0.0;2.5;0.0;0.0;0.0;0.0;2.5;3.5;71.4;0.833;0.42
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Denver Nuggets;Eric Paschall;1.8;3.0;58.3;0.5;1.5;33.3;0.5;0.8;66.7;1.3;1.5;83.3;1.500;0.67
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Denver Nuggets;Denzel Valentine;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Denver Nuggets;Total;43.3;86.8;49.9;12.0;37.0;32.4;19.0;24.5;77.6;31.3;49.8;62.8;1.354;0.57
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Donovan Mitchell;12.0;21.3;56.3;5.0;11.3;44.1;5.3;5.7;94.1;7.0;10.0;70.0;1.609;0.68
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Bojan Bogdanovic;6.8;12.3;55.1;3.8;6.3;60.0;4.3;4.3;100.0;3.0;6.0;50.0;1.755;0.70
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Mike Conley;6.3;11.7;54.3;2.3;3.7;63.6;1.3;2.0;66.7;4.0;8.0;50.0;1.400;0.64
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Rudy Gobert;5.0;8.3;60.0;0.0;0.0;0.0;5.7;8.7;65.4;5.0;8.3;60.0;1.880;0.60
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Jordan Clarkson;5.3;13.5;38.9;2.3;8.0;28.1;2.3;3.3;69.2;3.0;5.5;54.5;1.111;0.47
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Joe Ingles;3.3;6.7;50.0;1.7;4.3;38.5;0.7;1.0;66.7;1.7;2.3;71.4;1.350;0.63
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Rudy Gay;3.0;7.8;38.7;1.0;4.3;23.5;0.8;0.8;100.0;2.0;3.5;57.1;1.000;0.45
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Hassan Whiteside;2.7;3.7;72.7;0.0;0.0;0.0;1.7;2.7;62.5;2.7;3.7;72.7;1.909;0.73
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Eric Paschall;2.0;3.5;57.1;2.0;3.0;66.7;0.0;0.0;0.0;0.0;0.5;0.0;1.714;0.86
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Jared Butler;2.3;3.3;70.0;1.3;1.7;80.0;0.0;0.0;0.0;1.0;1.7;60.0;1.800;0.90
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Royce O'Neale;2.3;3.8;60.0;1.0;2.5;40.0;0.3;0.5;50.0;1.3;1.3;100.0;1.533;0.73
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Udoka Azubuike;1.0;1.0;100.0;0.0;0.0;0.0;1.0;2.0;50.0;1.0;1.0;100.0;3.000;1.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Trent Forrest;0.7;1.3;50.0;0.0;0.3;0.0;0.7;0.7;100.0;0.7;1.0;66.7;1.500;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Elijah Hughes;1.0;4.0;25.0;0.0;3.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;0.500;0.25
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Malik Fitts;0.0;0.5;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Miye Oni;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Total;43.3;84.3;51.3;16.8;40.5;41.4;19.3;24.8;77.8;26.5;43.8;60.6;1.454;0.61
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Bojan Bogdanovic;8.5;14.8;57.6;4.3;8.8;48.6;4.5;5.0;90.0;4.3;6.0;70.8;1.746;0.72
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Jordan Clarkson;7.0;13.8;50.9;3.0;7.0;42.9;2.0;2.3;88.9;4.0;6.8;59.3;1.382;0.62
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Donovan Mitchell;7.0;17.3;40.4;2.7;9.3;28.6;1.0;1.7;60.0;4.3;8.0;54.2;1.019;0.48
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Rudy Gobert;6.3;8.3;75.8;0.0;0.0;0.0;3.3;4.8;68.4;6.3;8.3;75.8;1.909;0.76
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Mike Conley;5.0;12.0;41.7;3.0;8.5;35.3;1.0;1.0;100.0;2.0;3.5;57.1;1.167;0.54
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Rudy Gay;3.7;6.7;55.0;1.7;3.3;50.0;1.7;2.3;71.4;2.0;3.3;60.0;1.600;0.68
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Joe Ingles;3.0;7.0;42.9;2.5;6.5;38.5;0.0;0.0;0.0;0.5;0.5;100.0;1.214;0.61
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Danuel House Jr.;2.5;4.5;55.6;2.5;4.0;62.5;1.0;1.0;100.0;0.0;0.5;0.0;1.889;0.83
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Hassan Whiteside;2.0;4.0;50.0;0.0;0.0;0.0;1.8;2.5;70.0;2.0;4.0;50.0;1.438;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Nickeil Alexander-Walker;1.5;2.0;75.0;1.0;1.5;66.7;1.5;1.5;100.0;0.5;0.5;100.0;2.750;1.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Royce O'Neale;1.7;7.0;23.8;1.3;5.3;25.0;0.0;0.0;0.0;0.3;1.7;20.0;0.667;0.33
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Greg Monroe;2.0;2.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;2.0;100.0;2.000;1.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Juancho Hernangomez;1.0;4.0;25.0;0.0;1.0;0.0;2.0;3.0;66.7;1.0;3.0;33.3;1.000;0.25
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Jared Butler;1.5;9.0;16.7;0.5;6.5;7.7;0.0;0.0;0.0;1.0;2.5;40.0;0.389;0.19
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Trent Forrest;1.3;2.7;50.0;0.3;1.0;33.3;0.3;0.3;100.0;1.0;1.7;60.0;1.250;0.56
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Eric Paschall;0.7;2.7;25.0;0.3;1.7;20.0;0.3;0.3;100.0;0.3;1.0;33.3;0.750;0.31
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Elijah Hughes;0.0;0.0;0.0;0.0;0.0;0.0;2.0;2.0;100.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Xavier Sneed;0.0;3.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Malik Fitts;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Miye Oni;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Total;42.0;87.5;48.0;16.8;45.5;36.8;16.8;21.0;79.8;25.3;42.0;60.1;1.343;0.58
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Donovan Mitchell;9.0;16.0;56.3;3.5;9.0;38.9;1.5;1.5;100.0;5.5;7.0;78.6;1.438;0.67
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Bojan Bogdanovic;6.7;12.7;52.6;3.0;6.0;50.0;2.0;3.0;66.7;3.7;6.7;55.0;1.447;0.64
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Rudy Gobert;6.3;7.8;80.6;0.0;0.0;0.0;5.0;8.5;58.8;6.3;7.8;80.6;2.258;0.81
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Jordan Clarkson;5.3;12.8;41.2;2.3;6.8;33.3;1.8;2.0;87.5;3.0;6.0;50.0;1.137;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Juancho Hernangomez;5.0;8.0;62.5;2.5;4.0;62.5;1.0;2.0;50.0;2.5;4.0;62.5;1.688;0.78
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Rudy Gay;4.5;9.8;46.2;1.8;6.0;29.2;2.3;2.5;90.0;2.8;3.8;73.3;1.333;0.55
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Joe Ingles;3.0;6.0;50.0;2.5;5.5;45.5;1.0;1.0;100.0;0.5;0.5;100.0;1.583;0.71
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Mike Conley;3.3;8.8;37.1;0.8;3.5;21.4;1.8;2.0;87.5;2.5;5.3;47.6;1.029;0.41
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Hassan Whiteside;3.0;4.3;70.6;0.0;0.0;0.0;1.8;3.3;53.8;3.0;4.3;70.6;1.824;0.71
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Royce O'Neale;2.3;5.3;43.8;1.0;3.3;30.0;1.0;1.0;100.0;1.3;2.0;66.7;1.250;0.53
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Udoka Azubuike;3.0;3.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;3.0;3.0;100.0;2.000;1.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Trent Forrest;2.0;3.0;66.7;0.0;0.3;0.0;1.7;2.3;71.4;2.0;2.7;75.0;1.889;0.67
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Danuel House Jr.;1.0;5.5;18.2;0.0;3.0;0.0;3.0;4.0;75.0;1.0;2.5;40.0;0.909;0.18
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Eric Paschall;1.7;2.7;62.5;0.7;1.0;66.7;1.0;1.3;75.0;1.0;1.7;60.0;1.875;0.75
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Jared Butler;1.3;3.0;41.7;0.5;2.0;25.0;1.5;1.8;85.7;0.8;1.0;75.0;1.500;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Nickeil Alexander-Walker;0.5;3.5;14.3;0.5;3.5;14.3;0.0;0.0;0.0;0.0;0.0;0.0;0.429;0.21
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Xavier Sneed;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Elijah Hughes;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Malik Fitts;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Miye Oni;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Total;43.0;84.8;50.7;13.3;39.3;33.8;21.5;30.0;71.7;29.8;45.5;65.4;1.425;0.59
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Golden State Warriors;Bojan Bogdanovic;6.8;15.5;43.5;2.5;7.8;32.3;4.3;5.0;85.0;4.3;7.8;54.8;1.306;0.52
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Golden State Warriors;Donovan Mitchell;5.7;17.3;32.7;3.3;9.7;34.5;5.3;6.0;88.9;2.3;7.7;30.4;1.154;0.42
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Golden State Warriors;Rudy Gobert;6.3;9.7;65.5;0.0;1.0;0.0;2.7;4.3;61.5;6.3;8.7;73.1;1.586;0.66
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Golden State Warriors;Mike Conley;5.3;12.8;41.2;3.5;7.5;46.7;1.0;1.8;57.1;1.8;5.3;33.3;1.176;0.55
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Golden State Warriors;Jordan Clarkson;5.3;13.5;38.9;2.3;7.3;31.0;1.3;1.3;100.0;3.0;6.3;48.0;1.037;0.47
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Golden State Warriors;Rudy Gay;3.5;8.0;43.8;2.0;4.0;50.0;2.5;2.5;100.0;1.5;4.0;37.5;1.438;0.56
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Golden State Warriors;Udoka Azubuike;5.0;5.0;100.0;0.0;0.0;0.0;1.0;2.0;50.0;5.0;5.0;100.0;2.200;1.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Golden State Warriors;Trent Forrest;3.5;6.5;53.8;0.0;2.0;0.0;3.0;3.5;85.7;3.5;4.5;77.8;1.538;0.54
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Golden State Warriors;Eric Paschall;2.5;6.5;38.5;1.0;4.0;25.0;0.5;1.5;33.3;1.5;2.5;60.0;1.000;0.46
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Golden State Warriors;Joe Ingles;2.5;8.5;29.4;0.5;6.0;8.3;0.5;1.0;50.0;2.0;2.5;80.0;0.706;0.32
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Golden State Warriors;Hassan Whiteside;2.5;3.5;71.4;0.0;0.0;0.0;0.5;1.0;50.0;2.5;3.5;71.4;1.571;0.71
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Golden State Warriors;Royce O'Neale;1.8;5.8;30.4;1.0;4.0;25.0;0.8;1.0;75.0;0.8;1.8;42.9;0.913;0.39
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Golden State Warriors;Juancho Hernangomez;2.0;3.0;66.7;1.0;2.0;50.0;0.0;0.0;0.0;1.0;1.0;100.0;1.667;0.83
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Golden State Warriors;Jared Butler;1.0;1.0;100.0;1.0;1.0;100.0;1.0;2.0;50.0;0.0;0.0;0.0;4.000;1.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Golden State Warriors;Danuel House Jr.;1.0;5.0;20.0;1.0;3.0;33.3;0.0;0.0;0.0;0.0;2.0;0.0;0.600;0.30
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Golden State Warriors;Total;37.5;87.8;42.7;14.3;44.0;32.4;17.3;22.5;76.7;23.3;43.8;53.1;1.214;0.51
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. LA Clippers;Donovan Mitchell;11.0;18.0;61.1;1.0;5.5;18.2;7.0;9.0;77.8;10.0;12.5;80.0;1.667;0.64
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. LA Clippers;Jared Butler;8.0;13.0;61.5;5.0;10.0;50.0;0.0;0.0;0.0;3.0;3.0;100.0;1.615;0.81
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. LA Clippers;Bojan Bogdanovic;7.0;10.0;70.0;6.0;7.0;85.7;0.0;0.0;0.0;1.0;3.0;33.3;2.000;1.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. LA Clippers;Jordan Clarkson;7.3;15.3;47.8;2.0;5.7;35.3;2.7;4.0;66.7;5.3;9.7;55.2;1.261;0.54
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. LA Clippers;Rudy Gobert;6.7;9.3;71.4;0.0;0.0;0.0;2.7;5.3;50.0;6.7;9.3;71.4;1.714;0.71
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. LA Clippers;Nickeil Alexander-Walker;5.0;12.0;41.7;2.0;6.0;33.3;1.0;1.0;100.0;3.0;6.0;50.0;1.083;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. LA Clippers;Mike Conley;4.3;12.3;35.1;2.0;6.0;33.3;1.3;1.7;80.0;2.3;6.3;36.8;0.973;0.43
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. LA Clippers;Hassan Whiteside;4.0;7.0;57.1;0.0;0.0;0.0;3.0;3.0;100.0;4.0;7.0;57.1;1.571;0.57
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. LA Clippers;Juancho Hernangomez;3.5;6.0;58.3;2.5;5.0;50.0;0.0;0.0;0.0;1.0;1.0;100.0;1.583;0.79
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. LA Clippers;Rudy Gay;3.3;6.0;55.6;1.7;3.3;50.0;0.0;0.0;0.0;1.7;2.7;62.5;1.389;0.69
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. LA Clippers;Eric Paschall;2.7;5.7;47.1;0.3;1.7;20.0;1.0;2.0;50.0;2.3;4.0;58.3;1.176;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. LA Clippers;Royce O'Neale;2.3;5.7;41.2;1.0;4.0;25.0;0.0;0.0;0.0;1.3;1.7;80.0;1.000;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. LA Clippers;Greg Monroe;1.0;2.0;50.0;0.0;0.0;0.0;2.0;2.0;100.0;1.0;2.0;50.0;2.000;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. LA Clippers;Joe Ingles;1.0;5.0;20.0;1.0;5.0;20.0;0.0;0.0;0.0;0.0;0.0;0.0;0.600;0.30
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. LA Clippers;Xavier Sneed;1.0;1.0;100.0;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;3.000;1.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. LA Clippers;Trent Forrest;0.5;1.5;33.3;0.0;0.0;0.0;0.0;0.0;0.0;0.5;1.5;33.3;0.667;0.33
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. LA Clippers;Miye Oni;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. LA Clippers;Total;45.7;88.0;51.9;14.3;37.3;38.4;14.3;21.0;68.3;31.3;50.7;61.8;1.364;0.60
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Donovan Mitchell;10.0;21.3;46.9;3.0;9.7;31.0;3.3;4.0;83.3;7.0;11.7;60.0;1.234;0.54
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Rudy Gobert;5.7;7.3;77.3;0.0;0.0;0.0;5.0;6.3;78.9;5.7;7.3;77.3;2.227;0.77
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Mike Conley;5.0;10.0;50.0;3.0;6.0;50.0;1.7;2.0;83.3;2.0;4.0;50.0;1.467;0.65
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Jordan Clarkson;5.3;14.3;37.2;1.3;7.0;19.0;0.7;0.7;100.0;4.0;7.3;54.5;0.884;0.42
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Bojan Bogdanovic;3.3;11.3;29.4;1.3;6.0;22.2;2.3;3.0;77.8;2.0;5.3;37.5;0.912;0.35
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Rudy Gay;4.0;12.0;33.3;1.0;8.0;12.5;0.0;0.0;0.0;3.0;4.0;75.0;0.750;0.38
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Joe Ingles;3.0;6.0;50.0;3.0;6.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.500;0.75
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Juancho Hernangomez;3.0;6.0;50.0;2.0;4.0;50.0;1.0;2.0;50.0;1.0;2.0;50.0;1.500;0.67
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Royce O'Neale;2.7;6.0;44.4;1.7;4.3;38.5;1.3;1.3;100.0;1.0;1.7;60.0;1.389;0.58
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Hassan Whiteside;2.0;3.0;66.7;0.0;0.0;0.0;3.0;4.0;75.0;2.0;3.0;66.7;2.333;0.67
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Greg Monroe;1.0;1.0;100.0;0.0;0.0;0.0;2.0;5.0;40.0;1.0;1.0;100.0;4.000;1.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Trent Forrest;1.0;1.5;66.7;0.0;0.0;0.0;1.5;2.0;75.0;1.0;1.5;66.7;2.333;0.67
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Danuel House Jr.;1.0;3.5;28.6;0.5;2.0;25.0;0.0;0.0;0.0;0.5;1.5;33.3;0.714;0.36
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Eric Paschall;0.3;0.3;100.0;0.0;0.0;0.0;0.0;0.0;0.0;0.3;0.3;100.0;2.000;1.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Xavier Sneed;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Nickeil Alexander-Walker;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Jared Butler;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Total;38.0;84.0;45.2;12.7;41.0;30.9;17.3;22.3;77.6;25.3;43.0;58.9;1.262;0.53
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Phoenix Suns;Donovan Mitchell;7.5;20.5;36.6;3.5;7.5;46.7;3.5;4.0;87.5;4.0;13.0;30.8;1.073;0.45
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Phoenix Suns;Jordan Clarkson;7.5;16.5;45.5;3.5;9.3;37.8;1.3;1.5;83.3;4.0;7.3;55.2;1.197;0.56
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Phoenix Suns;Rudy Gobert;5.0;10.0;50.0;0.0;0.0;0.0;6.0;8.5;70.6;5.0;10.0;50.0;1.600;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Phoenix Suns;Mike Conley;4.7;12.7;36.8;2.0;7.0;28.6;2.7;3.7;72.7;2.7;5.7;47.1;1.105;0.45
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Phoenix Suns;Bojan Bogdanovic;5.0;14.7;34.1;1.7;6.3;26.3;1.3;2.0;66.7;3.3;8.3;40.0;0.886;0.40
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Phoenix Suns;Eric Paschall;3.0;6.5;46.2;1.0;1.5;66.7;5.5;6.5;84.6;2.0;5.0;40.0;1.923;0.54
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Phoenix Suns;Hassan Whiteside;4.5;6.8;66.7;0.0;0.0;0.0;2.3;4.3;52.9;4.5;6.8;66.7;1.667;0.67
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Phoenix Suns;Danuel House Jr.;2.8;5.8;47.8;1.3;3.5;35.7;2.0;3.8;53.3;1.5;2.3;66.7;1.522;0.59
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Phoenix Suns;Trent Forrest;3.7;6.0;61.1;0.3;1.0;33.3;0.0;0.0;0.0;3.3;5.0;66.7;1.278;0.64
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Phoenix Suns;Royce O'Neale;2.3;4.3;53.8;1.7;3.0;55.6;0.3;0.3;100.0;0.7;1.3;50.0;1.538;0.73
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Phoenix Suns;Jared Butler;2.5;5.0;50.0;1.5;2.0;75.0;0.0;0.0;0.0;1.0;3.0;33.3;1.300;0.65
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Phoenix Suns;Joe Ingles;2.0;6.0;33.3;2.0;4.0;50.0;0.0;0.0;0.0;0.0;2.0;0.0;1.000;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Phoenix Suns;Elijah Hughes;2.0;5.0;40.0;2.0;4.0;50.0;0.0;0.0;0.0;0.0;1.0;0.0;1.200;0.60
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Phoenix Suns;Rudy Gay;1.7;5.0;33.3;0.7;2.0;33.3;1.3;1.3;100.0;1.0;3.0;33.3;1.067;0.40
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Phoenix Suns;Juancho Hernangomez;2.0;2.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;2.0;100.0;2.000;1.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Phoenix Suns;Udoka Azubuike;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Phoenix Suns;Total;38.3;85.5;44.7;13.5;34.8;38.8;17.3;24.5;70.4;24.8;50.8;48.8;1.254;0.53
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Sacramento Kings;Donovan Mitchell;11.3;24.8;45.5;3.8;9.8;38.5;2.3;3.5;64.3;7.5;15.0;50.0;1.152;0.53
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Sacramento Kings;Mike Conley;7.7;13.7;56.1;4.0;6.3;63.2;2.0;2.0;100.0;3.7;7.3;50.0;1.561;0.71
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Sacramento Kings;Jordan Clarkson;6.8;16.5;40.9;3.0;10.5;28.6;3.0;3.8;80.0;3.8;6.0;62.5;1.182;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Sacramento Kings;Bojan Bogdanovic;5.8;11.8;48.9;2.5;6.3;40.0;3.3;3.8;86.7;3.3;5.5;59.1;1.468;0.60
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Sacramento Kings;Rudy Gobert;5.0;7.7;65.2;0.0;0.3;0.0;6.7;8.3;80.0;5.0;7.3;68.2;2.174;0.65
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Sacramento Kings;Hassan Whiteside;3.5;5.5;63.6;0.0;0.0;0.0;2.8;3.8;73.3;3.5;5.5;63.6;1.773;0.64
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Sacramento Kings;Danuel House Jr.;2.0;3.0;66.7;2.0;3.0;66.7;1.0;2.0;50.0;0.0;0.0;0.0;2.333;1.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Sacramento Kings;Royce O'Neale;2.5;7.0;35.7;1.3;4.3;29.4;0.3;0.5;50.0;1.3;2.8;45.5;0.929;0.45
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Sacramento Kings;Rudy Gay;2.0;4.5;44.4;0.5;2.0;25.0;0.0;0.0;0.0;1.5;2.5;60.0;1.000;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Sacramento Kings;Joe Ingles;1.3;3.7;36.4;1.3;3.7;36.4;0.0;0.0;0.0;0.0;0.0;0.0;1.091;0.55
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Sacramento Kings;Jared Butler;1.0;3.0;33.3;0.3;2.0;16.7;0.3;0.7;50.0;0.7;1.0;66.7;0.889;0.39
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Sacramento Kings;Trent Forrest;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Sacramento Kings;Eric Paschall;0.5;1.3;40.0;0.3;0.8;33.3;0.3;0.5;50.0;0.3;0.5;50.0;1.200;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Sacramento Kings;Miye Oni;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Sacramento Kings;Total;43.5;91.3;47.7;15.8;42.5;37.1;18.8;24.5;76.5;27.8;48.8;56.9;1.332;0.56
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Dallas Mavericks;Donovan Mitchell;7.8;19.3;40.3;2.8;8.0;34.4;5.5;6.5;84.6;5.0;11.3;44.4;1.234;0.47
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Dallas Mavericks;Bojan Bogdanovic;7.7;13.3;57.5;3.3;8.0;41.7;2.7;3.3;80.0;4.3;5.3;81.3;1.600;0.70
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Dallas Mavericks;Jordan Clarkson;5.3;13.0;40.4;2.3;5.0;45.0;1.8;2.0;87.5;3.0;8.0;37.5;1.115;0.49
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Dallas Mavericks;Mike Conley;4.5;10.0;45.0;1.5;4.5;33.3;3.0;4.0;75.0;3.0;5.5;54.5;1.350;0.53
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Dallas Mavericks;Rudy Gobert;4.3;5.7;76.5;0.0;0.0;0.0;3.3;4.3;76.9;4.3;5.7;76.5;2.118;0.76
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Dallas Mavericks;Rudy Gay;4.0;8.3;48.0;1.3;3.0;44.4;0.7;1.3;50.0;2.7;5.3;50.0;1.200;0.56
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Dallas Mavericks;Royce O'Neale;2.8;5.8;47.8;1.8;3.8;46.7;0.5;0.8;66.7;1.0;2.0;50.0;1.348;0.63
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Dallas Mavericks;Juancho Hernangomez;3.0;6.0;50.0;1.0;4.0;25.0;0.0;0.0;0.0;2.0;2.0;100.0;1.167;0.58
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Dallas Mavericks;Jared Butler;3.0;5.0;60.0;1.0;3.0;33.3;0.0;0.0;0.0;2.0;2.0;100.0;1.400;0.70
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Dallas Mavericks;Hassan Whiteside;2.3;3.7;63.6;0.0;0.0;0.0;1.7;2.7;62.5;2.3;3.7;63.6;1.727;0.64
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Dallas Mavericks;Eric Paschall;2.0;4.5;44.4;1.0;1.5;66.7;0.0;0.0;0.0;1.0;3.0;33.3;1.111;0.56
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Dallas Mavericks;Trent Forrest;2.3;4.7;50.0;0.0;1.0;0.0;0.0;0.3;0.0;2.3;3.7;63.6;1.000;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Dallas Mavericks;Danuel House Jr.;1.0;2.5;40.0;0.5;1.5;33.3;1.5;2.0;75.0;0.5;1.0;50.0;1.600;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Dallas Mavericks;Joe Ingles;1.0;6.0;16.7;0.0;2.0;0.0;0.0;0.0;0.0;1.0;4.0;25.0;0.333;0.17
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Dallas Mavericks;Xavier Sneed;1.0;3.0;33.3;0.0;2.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;0.667;0.33
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Dallas Mavericks;Nickeil Alexander-Walker;0.0;3.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Dallas Mavericks;Total;39.3;84.0;46.7;13.0;34.8;37.4;17.8;23.3;76.3;26.3;49.3;53.3;1.301;0.54
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Houston Rockets;Donovan Mitchell;9.0;18.0;50.0;3.7;9.3;39.3;5.7;7.3;77.3;5.3;8.7;61.5;1.519;0.60
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Houston Rockets;Bojan Bogdanovic;7.8;16.5;47.0;3.3;8.8;37.1;3.3;3.3;100.0;4.5;7.8;58.1;1.333;0.57
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Houston Rockets;Rudy Gobert;8.3;10.5;78.6;0.0;0.0;0.0;3.5;4.8;73.7;8.3;10.5;78.6;1.905;0.79
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Houston Rockets;Jordan Clarkson;5.8;12.3;46.9;2.3;6.5;34.6;2.5;2.8;90.9;3.5;5.8;60.9;1.327;0.56
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Houston Rockets;Eric Paschall;4.0;6.0;66.7;2.0;3.0;66.7;2.5;4.0;62.5;2.0;3.0;66.7;2.083;0.83
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Houston Rockets;Joe Ingles;4.5;10.0;45.0;3.0;8.0;37.5;0.0;0.0;0.0;1.5;2.0;75.0;1.200;0.60
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Houston Rockets;Mike Conley;3.0;9.3;32.4;1.8;6.3;28.0;2.3;3.0;75.0;1.3;3.0;41.7;1.081;0.42
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Houston Rockets;Hassan Whiteside;3.7;5.7;64.7;0.0;0.0;0.0;1.0;1.3;75.0;3.7;5.7;64.7;1.471;0.65
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Houston Rockets;Royce O'Neale;2.5;5.0;50.0;1.0;3.3;30.8;0.5;0.5;100.0;1.5;1.8;85.7;1.300;0.60
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Houston Rockets;Udoka Azubuike;2.5;3.0;83.3;0.0;0.0;0.0;1.0;1.0;100.0;2.5;3.0;83.3;2.000;0.83
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Houston Rockets;Danuel House Jr.;2.3;3.7;63.6;1.0;2.0;50.0;0.0;0.0;0.0;1.3;1.7;80.0;1.545;0.77
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Houston Rockets;Rudy Gay;1.0;7.0;14.3;0.0;4.0;0.0;1.0;1.0;100.0;1.0;3.0;33.3;0.429;0.14
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Houston Rockets;Juancho Hernangomez;1.0;1.0;100.0;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;3.000;1.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Houston Rockets;Jared Butler;0.5;1.5;33.3;0.5;1.5;33.3;0.5;1.0;50.0;0.0;0.0;0.0;1.333;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Houston Rockets;Trent Forrest;0.8;1.8;42.9;0.0;0.3;0.0;0.0;0.0;0.0;0.8;1.5;50.0;0.857;0.43
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Houston Rockets;Elijah Hughes;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Houston Rockets;Malik Fitts;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Houston Rockets;Nickeil Alexander-Walker;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Houston Rockets;Total;45.5;88.5;51.4;14.8;41.5;35.5;19.3;24.0;80.2;30.8;47.0;65.4;1.412;0.60
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Rudy Gobert;7.0;9.0;77.8;0.0;0.0;0.0;8.5;12.0;70.8;7.0;9.0;77.8;2.500;0.78
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Donovan Mitchell;5.5;22.0;25.0;2.0;9.5;21.1;6.0;7.0;85.7;3.5;12.5;28.0;0.864;0.30
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Bojan Bogdanovic;5.7;14.3;39.5;3.7;8.7;42.3;1.7;2.3;71.4;2.0;5.7;35.3;1.163;0.52
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Mike Conley;5.7;11.7;48.6;2.7;5.0;53.3;1.7;2.7;62.5;3.0;6.7;45.0;1.343;0.60
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Danuel House Jr.;5.0;9.5;52.6;3.0;6.0;50.0;2.0;2.0;100.0;2.0;3.5;57.1;1.579;0.68
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Jordan Clarkson;4.7;11.7;40.0;2.0;7.3;27.3;3.3;4.0;83.3;2.7;4.3;61.5;1.257;0.49
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Hassan Whiteside;5.3;7.7;69.6;0.0;0.0;0.0;1.7;3.3;50.0;5.3;7.7;69.6;1.609;0.70
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Eric Paschall;3.0;9.0;33.3;2.0;5.0;40.0;2.0;2.0;100.0;1.0;4.0;25.0;1.111;0.44
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Royce O'Neale;3.0;5.7;52.9;2.7;4.7;57.1;0.3;0.7;50.0;0.3;1.0;33.3;1.588;0.76
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Rudy Gay;1.3;5.0;26.7;0.0;2.3;0.0;1.0;1.3;75.0;1.3;2.7;50.0;0.733;0.27
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Joe Ingles;1.0;4.0;25.0;0.5;3.5;14.3;1.0;1.0;100.0;0.5;0.5;100.0;0.875;0.31
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Trent Forrest;0.5;1.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;1.0;50.0;1.000;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Total;39.3;89.3;44.0;15.3;42.3;36.2;22.0;29.7;74.2;24.0;47.0;51.1;1.299;0.53
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Donovan Mitchell;7.8;18.8;41.3;3.3;8.3;39.4;1.3;1.5;83.3;4.5;10.5;42.9;1.067;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Bojan Bogdanovic;5.0;12.3;40.8;2.8;7.0;39.3;2.3;2.5;90.0;2.3;5.3;42.9;1.224;0.52
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Mike Conley;5.0;11.3;44.4;2.0;5.3;38.1;2.0;2.0;100.0;3.0;6.0;50.0;1.244;0.53
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Jordan Clarkson;5.0;11.5;43.5;2.0;5.0;40.0;0.8;1.0;75.0;3.0;6.5;46.2;1.109;0.52
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Danuel House Jr.;4.0;7.0;57.1;3.0;5.0;60.0;0.0;0.0;0.0;1.0;2.0;50.0;1.571;0.79
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Joe Ingles;3.3;5.7;58.8;2.0;4.0;50.0;1.0;1.0;100.0;1.3;1.7;80.0;1.706;0.76
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Rudy Gobert;2.8;4.8;57.9;0.0;0.0;0.0;3.3;6.5;50.0;2.8;4.8;57.9;1.842;0.58
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Rudy Gay;2.8;6.5;42.3;1.5;2.8;54.5;1.0;1.5;66.7;1.3;3.8;33.3;1.231;0.54
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Hassan Whiteside;3.3;5.0;66.7;0.0;0.0;0.0;1.3;2.3;57.1;3.3;5.0;66.7;1.600;0.67
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Nickeil Alexander-Walker;2.0;4.0;50.0;1.0;2.0;50.0;2.0;2.0;100.0;1.0;2.0;50.0;1.750;0.63
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Royce O'Neale;2.0;3.3;60.0;1.7;3.0;55.6;0.0;0.0;0.0;0.3;0.3;100.0;1.700;0.85
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Eric Paschall;1.0;1.5;66.7;0.5;0.5;100.0;1.0;1.0;100.0;0.5;1.0;50.0;2.333;0.83
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Trent Forrest;0.8;1.5;50.0;0.0;0.3;0.0;1.3;1.3;100.0;0.8;1.3;60.0;1.833;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Jared Butler;1.0;4.0;25.0;0.5;1.5;33.3;0.0;0.0;0.0;0.5;2.5;20.0;0.625;0.31
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Juancho Hernangomez;0.0;1.0;0.0;0.0;1.0;0.0;2.0;4.0;50.0;0.0;0.0;0.0;2.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Udoka Azubuike;1.0;2.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;2.0;50.0;1.000;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Elijah Hughes;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Miye Oni;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Total;38.3;83.5;45.8;15.8;37.0;42.6;15.0;20.8;72.3;22.5;46.5;48.4;1.284;0.55
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. San Antonio Spurs;Donovan Mitchell;10.0;23.0;43.5;3.5;11.0;31.8;2.0;2.0;100.0;6.5;12.0;54.2;1.109;0.51
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. San Antonio Spurs;Jordan Clarkson;8.0;16.7;48.0;2.3;7.0;33.3;2.0;2.7;75.0;5.7;9.7;58.6;1.220;0.55
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. San Antonio Spurs;Bojan Bogdanovic;6.5;14.0;46.4;1.0;5.0;20.0;3.5;5.5;63.6;5.5;9.0;61.1;1.250;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. San Antonio Spurs;Rudy Gobert;4.0;6.0;66.7;0.0;0.0;0.0;7.0;8.0;87.5;4.0;6.0;66.7;2.500;0.67
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. San Antonio Spurs;Mike Conley;4.7;15.3;30.4;2.0;7.3;27.3;1.3;1.7;80.0;2.7;8.0;33.3;0.826;0.37
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. San Antonio Spurs;Hassan Whiteside;4.7;6.0;77.8;0.0;0.0;0.0;2.0;3.7;54.5;4.7;6.0;77.8;1.889;0.78
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. San Antonio Spurs;Joe Ingles;4.0;7.5;53.3;2.5;5.0;50.0;0.5;1.0;50.0;1.5;2.5;60.0;1.467;0.70
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. San Antonio Spurs;Danuel House Jr.;3.0;8.0;37.5;2.0;6.0;33.3;1.0;2.0;50.0;1.0;2.0;50.0;1.125;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. San Antonio Spurs;Rudy Gay;2.0;5.3;37.5;1.3;2.3;57.1;1.3;2.0;66.7;0.7;3.0;22.2;1.250;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. San Antonio Spurs;Royce O'Neale;2.0;5.7;35.3;0.7;3.3;20.0;1.7;2.0;83.3;1.3;2.3;57.1;1.118;0.41
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. San Antonio Spurs;Trent Forrest;0.7;2.7;25.0;0.0;0.0;0.0;0.0;0.0;0.0;0.7;2.7;25.0;0.500;0.25
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. San Antonio Spurs;Eric Paschall;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. San Antonio Spurs;Elijah Hughes;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. San Antonio Spurs;Nickeil Alexander-Walker;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;vs. San Antonio Spurs;Total;40.7;90.3;45.0;11.7;36.0;32.4;19.7;26.3;74.7;29.0;54.3;53.4;1.247;0.51
+Utah Jazz;utah;2021 - 2022 Regular Season;October;Donovan Mitchell;8.0;19.8;40.3;3.0;9.7;31.0;4.0;4.3;92.3;5.0;10.2;49.2;1.160;0.48
+Utah Jazz;utah;2021 - 2022 Regular Season;October;Jordan Clarkson;6.0;16.2;37.1;2.2;9.0;24.1;2.3;2.3;100.0;3.8;7.2;53.5;1.021;0.44
+Utah Jazz;utah;2021 - 2022 Regular Season;October;Rudy Gobert;5.2;7.2;72.1;0.0;0.0;0.0;6.0;8.3;72.0;5.2;7.2;72.1;2.279;0.72
+Utah Jazz;utah;2021 - 2022 Regular Season;October;Bojan Bogdanovic;5.5;12.8;42.9;1.7;5.5;30.3;3.5;3.7;95.5;3.8;7.3;52.3;1.260;0.49
+Utah Jazz;utah;2021 - 2022 Regular Season;October;Mike Conley;4.6;10.2;45.1;2.6;6.0;43.3;1.8;2.0;90.0;2.0;4.2;47.6;1.333;0.58
+Utah Jazz;utah;2021 - 2022 Regular Season;October;Joe Ingles;3.0;6.0;50.0;2.5;5.2;48.4;0.7;0.7;100.0;0.5;0.8;60.0;1.528;0.71
+Utah Jazz;utah;2021 - 2022 Regular Season;October;Hassan Whiteside;2.8;4.7;60.7;0.0;0.0;0.0;1.3;1.3;100.0;2.8;4.7;60.7;1.500;0.61
+Utah Jazz;utah;2021 - 2022 Regular Season;October;Royce O'Neale;2.3;5.2;45.2;1.0;3.3;30.0;0.0;0.0;0.0;1.3;1.8;72.7;1.097;0.55
+Utah Jazz;utah;2021 - 2022 Regular Season;October;Eric Paschall;1.5;3.5;42.9;0.8;2.3;35.7;0.5;0.8;60.0;0.7;1.2;57.1;1.238;0.55
+Utah Jazz;utah;2021 - 2022 Regular Season;October;Trent Forrest;0.7;0.7;100.0;0.0;0.0;0.0;0.0;0.0;0.0;0.7;0.7;100.0;2.000;1.00
+Utah Jazz;utah;2021 - 2022 Regular Season;October;Elijah Hughes;0.0;0.5;0.0;0.0;0.5;0.0;1.0;1.0;100.0;0.0;0.0;0.0;2.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;October;Jared Butler;0.2;2.0;8.3;0.2;1.3;12.5;0.2;0.3;50.0;0.0;0.7;0.0;0.333;0.13
+Utah Jazz;utah;2021 - 2022 Regular Season;October;Malik Fitts;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;October;Miye Oni;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;October;Total;38.7;86.3;44.8;13.5;41.5;32.5;20.3;23.8;85.3;25.2;44.8;56.1;1.288;0.53
+Utah Jazz;utah;2021 - 2022 Regular Season;November;Donovan Mitchell;9.0;20.1;44.7;2.9;8.7;32.8;2.4;2.9;85.0;6.1;11.4;53.8;1.156;0.52
+Utah Jazz;utah;2021 - 2022 Regular Season;November;Bojan Bogdanovic;5.7;11.9;47.5;2.7;6.2;43.0;3.2;3.5;90.6;3.0;5.7;52.3;1.441;0.59
+Utah Jazz;utah;2021 - 2022 Regular Season;November;Jordan Clarkson;5.2;13.5;38.4;2.9;8.9;32.3;1.6;2.1;75.0;2.3;4.7;50.0;1.099;0.49
+Utah Jazz;utah;2021 - 2022 Regular Season;November;Rudy Gobert;5.5;7.5;73.5;0.0;0.1;0.0;3.6;5.7;63.5;5.5;7.5;74.1;1.947;0.73
+Utah Jazz;utah;2021 - 2022 Regular Season;November;Mike Conley;5.1;9.8;51.8;2.4;5.6;43.6;1.1;1.3;83.3;2.6;4.2;62.7;1.394;0.64
+Utah Jazz;utah;2021 - 2022 Regular Season;November;Rudy Gay;3.7;7.1;52.0;2.4;4.6;53.1;1.0;1.4;70.0;1.3;2.6;50.0;1.520;0.69
+Utah Jazz;utah;2021 - 2022 Regular Season;November;Royce O'Neale;3.0;6.5;46.4;1.7;4.5;37.3;0.8;1.2;66.7;1.3;1.9;68.0;1.310;0.60
+Utah Jazz;utah;2021 - 2022 Regular Season;November;Joe Ingles;2.7;6.1;44.0;1.8;4.8;37.5;0.3;0.3;80.0;0.9;1.3;68.4;1.220;0.59
+Utah Jazz;utah;2021 - 2022 Regular Season;November;Hassan Whiteside;2.7;4.8;56.9;0.0;0.0;0.0;1.5;2.3;62.9;2.7;4.8;56.9;1.444;0.57
+Utah Jazz;utah;2021 - 2022 Regular Season;November;Eric Paschall;1.2;2.8;41.7;0.4;1.7;22.7;0.7;0.9;75.0;0.8;1.1;71.4;1.222;0.49
+Utah Jazz;utah;2021 - 2022 Regular Season;November;Jared Butler;0.9;2.0;43.8;0.4;1.0;37.5;0.4;0.6;60.0;0.5;1.0;50.0;1.250;0.53
+Utah Jazz;utah;2021 - 2022 Regular Season;November;Trent Forrest;0.6;1.0;58.3;0.0;0.2;0.0;0.6;0.7;87.5;0.6;0.8;70.0;1.750;0.58
+Utah Jazz;utah;2021 - 2022 Regular Season;November;Udoka Azubuike;0.3;0.3;100.0;0.0;0.0;0.0;0.0;0.0;0.0;0.3;0.3;100.0;2.000;1.00
+Utah Jazz;utah;2021 - 2022 Regular Season;November;Miye Oni;0.1;0.6;20.0;0.0;0.5;0.0;0.0;0.1;0.0;0.1;0.1;100.0;0.400;0.20
+Utah Jazz;utah;2021 - 2022 Regular Season;November;Elijah Hughes;0.0;0.3;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.3;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;November;Malik Fitts;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;November;Total;41.3;85.5;48.4;15.4;41.7;36.9;15.8;21.3;74.3;25.9;43.7;59.3;1.332;0.57
+Utah Jazz;utah;2021 - 2022 Regular Season;December;Donovan Mitchell;10.7;21.3;50.2;3.8;10.2;37.7;5.0;5.8;87.0;6.8;11.1;61.7;1.420;0.59
+Utah Jazz;utah;2021 - 2022 Regular Season;December;Bojan Bogdanovic;6.4;12.8;50.3;3.0;6.4;46.7;2.8;3.5;79.6;3.4;6.4;53.9;1.458;0.62
+Utah Jazz;utah;2021 - 2022 Regular Season;December;Rudy Gobert;5.4;8.0;67.9;0.0;0.0;0.0;5.3;7.4;71.2;5.4;8.0;67.9;2.018;0.68
+Utah Jazz;utah;2021 - 2022 Regular Season;December;Mike Conley;5.3;11.9;44.1;2.4;5.9;40.8;1.9;2.4;79.3;2.8;6.0;47.2;1.245;0.54
+Utah Jazz;utah;2021 - 2022 Regular Season;December;Jordan Clarkson;5.5;13.8;39.9;2.2;7.3;30.4;1.2;1.7;70.8;3.3;6.5;50.5;1.047;0.48
+Utah Jazz;utah;2021 - 2022 Regular Season;December;Hassan Whiteside;3.6;5.1;70.5;0.0;0.0;0.0;2.3;3.3;69.2;3.6;5.1;70.5;1.852;0.70
+Utah Jazz;utah;2021 - 2022 Regular Season;December;Rudy Gay;2.9;7.2;39.6;1.2;4.2;28.8;1.2;1.6;77.3;1.6;3.0;54.8;1.129;0.48
+Utah Jazz;utah;2021 - 2022 Regular Season;December;Joe Ingles;2.8;6.8;41.6;1.9;5.1;37.9;0.5;0.7;66.7;0.9;1.8;52.2;1.180;0.56
+Utah Jazz;utah;2021 - 2022 Regular Season;December;Royce O'Neale;2.2;4.6;47.7;1.2;2.9;41.5;0.6;0.9;75.0;1.0;1.7;58.3;1.354;0.61
+Utah Jazz;utah;2021 - 2022 Regular Season;December;Jared Butler;0.8;1.4;57.1;0.6;1.0;60.0;0.0;0.0;0.0;0.2;0.4;50.0;1.571;0.79
+Utah Jazz;utah;2021 - 2022 Regular Season;December;Eric Paschall;0.4;1.0;40.0;0.4;0.8;50.0;0.2;0.4;50.0;0.0;0.2;0.0;1.400;0.60
+Utah Jazz;utah;2021 - 2022 Regular Season;December;Trent Forrest;0.4;1.3;31.3;0.1;0.2;50.0;0.3;0.4;60.0;0.3;1.2;28.6;0.875;0.34
+Utah Jazz;utah;2021 - 2022 Regular Season;December;Elijah Hughes;0.3;0.7;50.0;0.0;0.3;0.0;0.0;0.0;0.0;0.3;0.3;100.0;1.000;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;December;Miye Oni;0.2;0.7;25.0;0.2;0.7;25.0;0.0;0.0;0.0;0.0;0.0;0.0;0.750;0.38
+Utah Jazz;utah;2021 - 2022 Regular Season;December;Malik Fitts;0.0;0.3;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.3;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;December;Total;42.7;88.1;48.5;15.3;40.5;37.7;19.7;26.0;75.8;27.4;47.6;57.7;1.367;0.57
+Utah Jazz;utah;2021 - 2022 Regular Season;January;Donovan Mitchell;8.8;21.3;41.2;3.0;9.5;31.6;3.8;4.3;88.2;5.8;11.8;48.9;1.141;0.48
+Utah Jazz;utah;2021 - 2022 Regular Season;January;Bojan Bogdanovic;6.5;15.2;42.7;2.1;7.0;29.6;3.6;4.3;83.3;4.4;8.2;53.9;1.225;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;January;Rudy Gobert;6.7;9.6;70.1;0.0;0.1;0.0;4.6;6.4;71.1;6.7;9.4;71.2;1.881;0.70
+Utah Jazz;utah;2021 - 2022 Regular Season;January;Jordan Clarkson;6.0;14.0;42.9;2.8;7.3;38.2;1.9;2.2;87.9;3.2;6.7;48.0;1.195;0.53
+Utah Jazz;utah;2021 - 2022 Regular Season;January;Mike Conley;4.7;11.4;41.5;2.4;5.6;43.6;2.7;3.3;82.6;2.3;5.8;39.5;1.283;0.52
+Utah Jazz;utah;2021 - 2022 Regular Season;January;Jared Butler;5.0;10.3;48.4;2.3;4.7;50.0;0.7;0.7;100.0;2.7;5.7;47.1;1.258;0.60
+Utah Jazz;utah;2021 - 2022 Regular Season;January;Hassan Whiteside;5.0;8.1;61.4;0.0;0.0;0.0;1.4;3.1;45.5;5.0;8.1;61.4;1.404;0.61
+Utah Jazz;utah;2021 - 2022 Regular Season;January;Elijah Hughes;4.0;8.7;46.2;3.0;7.0;42.9;0.3;0.3;100.0;1.0;1.7;60.0;1.308;0.63
+Utah Jazz;utah;2021 - 2022 Regular Season;January;Eric Paschall;3.2;6.2;52.5;1.1;2.2;50.0;2.3;2.9;78.9;2.2;4.0;53.8;1.600;0.61
+Utah Jazz;utah;2021 - 2022 Regular Season;January;Rudy Gay;2.8;7.3;37.5;1.2;3.8;30.4;1.8;1.9;95.7;1.6;3.5;45.2;1.159;0.45
+Utah Jazz;utah;2021 - 2022 Regular Season;January;Danuel House Jr.;2.7;5.6;48.7;1.4;3.4;41.7;1.4;2.0;71.4;1.3;2.1;60.0;1.487;0.62
+Utah Jazz;utah;2021 - 2022 Regular Season;January;Royce O'Neale;2.9;5.2;54.8;1.7;3.4;50.0;0.8;0.9;91.7;1.1;1.8;64.0;1.575;0.71
+Utah Jazz;utah;2021 - 2022 Regular Season;January;Malik Fitts;2.0;8.0;25.0;2.0;4.0;50.0;0.0;0.0;0.0;0.0;4.0;0.0;0.750;0.38
+Utah Jazz;utah;2021 - 2022 Regular Season;January;Joe Ingles;1.8;6.3;29.0;1.0;5.1;19.6;0.3;0.4;75.0;0.8;1.2;69.2;0.783;0.37
+Utah Jazz;utah;2021 - 2022 Regular Season;January;Trent Forrest;1.8;3.1;59.5;0.1;0.3;25.0;0.8;1.0;75.0;1.8;2.8;63.6;1.459;0.61
+Utah Jazz;utah;2021 - 2022 Regular Season;January;Denzel Valentine;1.0;2.0;50.0;0.5;1.5;33.3;0.0;0.0;0.0;0.5;0.5;100.0;1.250;0.63
+Utah Jazz;utah;2021 - 2022 Regular Season;January;Udoka Azubuike;1.0;1.6;62.5;0.0;0.0;0.0;0.4;0.8;50.0;1.0;1.6;62.5;1.500;0.63
+Utah Jazz;utah;2021 - 2022 Regular Season;January;Norvel Pelle;1.0;1.7;60.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.7;60.0;1.200;0.60
+Utah Jazz;utah;2021 - 2022 Regular Season;January;Zylan Cheatham;0.0;3.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;January;Total;38.4;84.2;45.6;13.9;38.3;36.2;17.4;21.9;79.7;24.5;45.9;53.4;1.284;0.54
+Utah Jazz;utah;2021 - 2022 Regular Season;February;Donovan Mitchell;9.1;18.4;49.7;4.8;10.1;46.9;4.9;5.8;84.8;4.4;8.3;53.0;1.517;0.63
+Utah Jazz;utah;2021 - 2022 Regular Season;February;Bojan Bogdanovic;5.9;14.2;41.4;2.1;6.7;31.7;2.8;3.0;92.6;3.8;7.6;50.0;1.172;0.49
+Utah Jazz;utah;2021 - 2022 Regular Season;February;Jordan Clarkson;6.1;13.3;46.2;2.0;7.0;28.6;1.6;1.6;100.0;4.1;6.3;65.9;1.194;0.54
+Utah Jazz;utah;2021 - 2022 Regular Season;February;Rudy Gobert;5.0;7.5;66.7;0.0;0.0;0.0;2.3;3.5;64.3;5.0;7.5;66.7;1.633;0.67
+Utah Jazz;utah;2021 - 2022 Regular Season;February;Mike Conley;4.0;11.4;35.0;2.0;6.4;31.0;1.8;2.0;88.9;2.0;5.0;40.0;1.029;0.44
+Utah Jazz;utah;2021 - 2022 Regular Season;February;Udoka Azubuike;4.5;5.8;77.1;0.0;0.0;0.0;0.7;1.2;57.1;4.5;5.8;77.1;1.657;0.77
+Utah Jazz;utah;2021 - 2022 Regular Season;February;Royce O'Neale;3.2;6.2;51.8;1.9;4.6;41.5;0.8;0.8;100.0;1.3;1.7;80.0;1.464;0.67
+Utah Jazz;utah;2021 - 2022 Regular Season;February;Hassan Whiteside;3.4;4.9;69.2;0.0;0.0;0.0;2.0;2.9;69.6;3.4;4.9;69.2;1.795;0.69
+Utah Jazz;utah;2021 - 2022 Regular Season;February;Rudy Gay;3.0;7.3;40.9;0.7;3.0;22.2;1.0;2.3;42.9;2.3;4.3;53.8;1.045;0.45
+Utah Jazz;utah;2021 - 2022 Regular Season;February;Trent Forrest;2.8;5.1;54.3;0.2;1.1;20.0;1.1;1.2;90.9;2.6;4.0;63.9;1.348;0.57
+Utah Jazz;utah;2021 - 2022 Regular Season;February;Eric Paschall;2.4;4.6;51.4;1.0;2.8;36.4;0.9;1.1;77.8;1.4;1.9;73.3;1.432;0.62
+Utah Jazz;utah;2021 - 2022 Regular Season;February;Danuel House Jr.;1.8;3.0;58.3;1.3;2.3;55.6;0.8;1.0;75.0;0.5;0.8;66.7;1.833;0.79
+Utah Jazz;utah;2021 - 2022 Regular Season;February;Jared Butler;1.5;3.7;40.9;0.5;2.0;25.0;0.2;0.5;33.3;1.0;1.7;60.0;1.000;0.48
+Utah Jazz;utah;2021 - 2022 Regular Season;February;Elijah Hughes;1.0;3.0;33.3;0.5;2.5;20.0;0.0;0.0;0.0;0.5;0.5;100.0;0.833;0.42
+Utah Jazz;utah;2021 - 2022 Regular Season;February;Juancho Hernangomez;0.5;0.5;100.0;0.5;0.5;100.0;0.0;0.0;0.0;0.0;0.0;0.0;3.000;1.50
+Utah Jazz;utah;2021 - 2022 Regular Season;February;Nickeil Alexander-Walker;0.0;0.5;0.0;0.0;0.5;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;February;Total;42.2;86.4;48.8;14.2;39.8;35.8;16.8;20.8;80.7;28.0;46.7;60.0;1.335;0.57
+Utah Jazz;utah;2021 - 2022 Regular Season;March;Donovan Mitchell;9.4;21.2;44.5;3.8;10.8;34.9;4.0;5.0;80.0;5.7;10.4;54.5;1.257;0.53
+Utah Jazz;utah;2021 - 2022 Regular Season;March;Bojan Bogdanovic;6.6;13.6;48.4;4.4;9.4;47.0;2.9;3.4;83.3;2.1;4.1;51.7;1.505;0.65
+Utah Jazz;utah;2021 - 2022 Regular Season;March;Jordan Clarkson;6.9;15.1;45.5;2.1;6.6;31.3;2.3;2.9;79.6;4.8;8.5;56.6;1.198;0.52
+Utah Jazz;utah;2021 - 2022 Regular Season;March;Rudy Gobert;5.1;6.9;74.0;0.0;0.0;0.0;4.3;5.9;71.9;5.1;6.9;74.0;2.096;0.74
+Utah Jazz;utah;2021 - 2022 Regular Season;March;Mike Conley;4.3;10.2;42.0;2.1;5.1;41.7;1.6;2.3;71.9;2.1;5.1;42.3;1.210;0.52
+Utah Jazz;utah;2021 - 2022 Regular Season;March;Royce O'Neale;2.7;6.8;40.0;1.8;4.9;36.1;0.3;0.4;83.3;0.9;1.9;50.0;1.104;0.53
+Utah Jazz;utah;2021 - 2022 Regular Season;March;Rudy Gay;2.5;6.3;40.0;1.1;3.1;36.7;0.7;0.9;78.6;1.4;3.2;43.1;1.090;0.49
+Utah Jazz;utah;2021 - 2022 Regular Season;March;Hassan Whiteside;2.8;3.8;73.3;0.0;0.0;0.0;0.8;1.8;45.5;2.8;3.8;73.3;1.689;0.73
+Utah Jazz;utah;2021 - 2022 Regular Season;March;Juancho Hernangomez;2.1;4.5;46.9;1.4;3.4;40.5;0.5;1.3;42.9;0.7;1.1;66.7;1.367;0.62
+Utah Jazz;utah;2021 - 2022 Regular Season;March;Eric Paschall;2.1;4.5;46.9;0.5;1.5;35.3;1.3;1.5;82.4;1.5;2.9;53.1;1.347;0.53
+Utah Jazz;utah;2021 - 2022 Regular Season;March;Danuel House Jr.;1.8;4.2;42.1;1.2;2.9;42.3;0.6;0.9;62.5;0.6;1.3;41.7;1.263;0.57
+Utah Jazz;utah;2021 - 2022 Regular Season;March;Jared Butler;1.7;3.9;44.2;0.8;2.5;32.1;0.0;0.0;0.0;0.9;1.4;66.7;1.093;0.55
+Utah Jazz;utah;2021 - 2022 Regular Season;March;Greg Monroe;1.0;1.5;66.7;0.0;0.0;0.0;2.0;3.5;57.1;1.0;1.5;66.7;2.667;0.67
+Utah Jazz;utah;2021 - 2022 Regular Season;March;Udoka Azubuike;2.0;2.5;80.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;2.5;80.0;1.600;0.80
+Utah Jazz;utah;2021 - 2022 Regular Season;March;Nickeil Alexander-Walker;1.1;3.6;30.0;0.6;2.4;26.9;0.9;1.0;90.9;0.5;1.3;35.7;1.025;0.39
+Utah Jazz;utah;2021 - 2022 Regular Season;March;Trent Forrest;1.2;3.6;32.5;0.1;0.8;11.1;0.8;1.1;75.0;1.1;2.8;38.7;0.900;0.34
+Utah Jazz;utah;2021 - 2022 Regular Season;March;Xavier Sneed;0.4;1.0;40.0;0.2;0.8;25.0;0.0;0.0;0.0;0.2;0.2;100.0;1.000;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;March;Total;40.2;86.5;46.5;14.9;41.2;36.2;16.7;22.6;73.8;25.3;45.2;55.9;1.297;0.55
+Utah Jazz;utah;2021 - 2022 Regular Season;April;Donovan Mitchell;7.0;21.3;32.8;2.0;7.7;26.1;5.3;6.0;88.9;5.0;13.7;36.6;1.000;0.38
+Utah Jazz;utah;2021 - 2022 Regular Season;April;Bojan Bogdanovic;6.0;14.3;42.1;2.5;7.0;35.7;5.0;6.3;80.0;3.5;7.3;48.3;1.368;0.51
+Utah Jazz;utah;2021 - 2022 Regular Season;April;Rudy Gobert;5.6;7.8;71.8;0.0;0.4;0.0;6.8;10.4;65.4;5.6;7.4;75.7;2.308;0.72
+Utah Jazz;utah;2021 - 2022 Regular Season;April;Mike Conley;6.3;13.8;45.5;2.8;6.8;40.7;1.3;2.3;55.6;3.5;7.0;50.0;1.200;0.55
+Utah Jazz;utah;2021 - 2022 Regular Season;April;Jordan Clarkson;5.0;12.0;41.7;2.4;7.4;32.4;2.0;2.2;90.9;2.6;4.6;56.5;1.200;0.52
+Utah Jazz;utah;2021 - 2022 Regular Season;April;Hassan Whiteside;3.8;5.6;67.9;0.0;0.0;0.0;2.2;3.6;61.1;3.8;5.6;67.9;1.750;0.68
+Utah Jazz;utah;2021 - 2022 Regular Season;April;Juancho Hernangomez;3.3;5.8;56.5;1.3;2.5;50.0;1.0;1.8;57.1;2.0;3.3;61.5;1.522;0.67
+Utah Jazz;utah;2021 - 2022 Regular Season;April;Danuel House Jr.;2.6;6.8;38.2;1.6;4.6;34.8;1.8;2.6;69.2;1.0;2.2;45.5;1.265;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;April;Rudy Gay;3.0;6.0;50.0;0.7;2.7;25.0;0.7;1.0;66.7;2.3;3.3;70.0;1.222;0.56
+Utah Jazz;utah;2021 - 2022 Regular Season;April;Nickeil Alexander-Walker;2.0;3.5;57.1;1.5;3.0;50.0;0.5;0.5;100.0;0.5;0.5;100.0;1.714;0.79
+Utah Jazz;utah;2021 - 2022 Regular Season;April;Jared Butler;2.0;6.7;30.0;0.7;4.3;15.4;1.3;1.3;100.0;1.3;2.3;57.1;0.900;0.35
+Utah Jazz;utah;2021 - 2022 Regular Season;April;Eric Paschall;2.0;3.5;57.1;0.0;0.5;0.0;1.0;1.5;66.7;2.0;3.0;66.7;1.429;0.57
+Utah Jazz;utah;2021 - 2022 Regular Season;April;Greg Monroe;2.0;2.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;2.0;100.0;2.000;1.00
+Utah Jazz;utah;2021 - 2022 Regular Season;April;Trent Forrest;2.0;2.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;2.0;100.0;2.000;1.00
+Utah Jazz;utah;2021 - 2022 Regular Season;April;Royce O'Neale;1.0;5.0;20.0;0.8;3.5;21.4;0.8;1.0;75.0;0.3;1.5;16.7;0.700;0.28
+Utah Jazz;utah;2021 - 2022 Regular Season;April;Xavier Sneed;0.0;1.5;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.5;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;April;Total;39.8;87.8;45.3;12.4;38.8;32.0;24.2;33.6;72.0;27.4;49.0;55.9;1.323;0.52
+Utah Jazz;utah;2021 - 2022 Regular Season;Atlantic Division;Donovan Mitchell;9.4;18.9;50.0;4.1;10.0;41.1;4.9;5.3;91.7;5.3;8.9;60.0;1.476;0.61
+Utah Jazz;utah;2021 - 2022 Regular Season;Atlantic Division;Bojan Bogdanovic;5.8;11.3;51.5;2.5;6.2;40.5;3.0;3.2;94.7;3.3;5.2;64.5;1.515;0.63
+Utah Jazz;utah;2021 - 2022 Regular Season;Atlantic Division;Jordan Clarkson;5.9;14.8;39.8;2.9;8.6;33.3;0.6;1.1;55.6;3.0;6.1;49.0;1.034;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;Atlantic Division;Rudy Gobert;4.9;6.7;72.3;0.0;0.0;0.0;5.0;6.7;74.5;4.9;6.7;72.3;2.191;0.72
+Utah Jazz;utah;2021 - 2022 Regular Season;Atlantic Division;Mike Conley;5.1;10.8;47.7;2.5;5.3;47.6;1.8;2.1;82.4;2.6;5.5;47.7;1.349;0.59
+Utah Jazz;utah;2021 - 2022 Regular Season;Atlantic Division;Danuel House Jr.;4.0;7.0;57.1;3.0;6.0;50.0;2.0;2.0;100.0;1.0;1.0;100.0;1.857;0.79
+Utah Jazz;utah;2021 - 2022 Regular Season;Atlantic Division;Elijah Hughes;4.5;8.5;52.9;3.5;7.0;50.0;0.5;0.5;100.0;1.0;1.5;66.7;1.529;0.74
+Utah Jazz;utah;2021 - 2022 Regular Season;Atlantic Division;Eric Paschall;3.4;7.4;46.2;1.0;3.3;30.4;2.1;2.6;83.3;2.4;4.1;58.6;1.346;0.53
+Utah Jazz;utah;2021 - 2022 Regular Season;Atlantic Division;Rudy Gay;3.3;5.9;56.1;1.9;3.9;48.1;0.6;0.7;80.0;1.4;2.0;71.4;1.537;0.72
+Utah Jazz;utah;2021 - 2022 Regular Season;Atlantic Division;Joe Ingles;3.0;7.0;42.9;2.3;5.8;39.1;0.0;0.0;0.0;0.8;1.3;60.0;1.179;0.59
+Utah Jazz;utah;2021 - 2022 Regular Season;Atlantic Division;Royce O'Neale;2.8;5.7;49.0;1.9;4.6;41.5;0.6;0.6;100.0;0.9;1.1;80.0;1.412;0.66
+Utah Jazz;utah;2021 - 2022 Regular Season;Atlantic Division;Hassan Whiteside;2.8;4.3;65.1;0.0;0.0;0.0;1.8;2.3;78.3;2.8;4.3;65.1;1.721;0.65
+Utah Jazz;utah;2021 - 2022 Regular Season;Atlantic Division;Malik Fitts;2.0;8.0;25.0;2.0;4.0;50.0;0.0;0.0;0.0;0.0;4.0;0.0;0.750;0.38
+Utah Jazz;utah;2021 - 2022 Regular Season;Atlantic Division;Udoka Azubuike;2.0;3.0;66.7;0.0;0.0;0.0;0.2;0.8;25.0;2.0;3.0;66.7;1.400;0.67
+Utah Jazz;utah;2021 - 2022 Regular Season;Atlantic Division;Jared Butler;1.4;4.3;33.3;0.7;2.4;27.3;0.2;0.3;66.7;0.8;1.9;41.2;0.872;0.41
+Utah Jazz;utah;2021 - 2022 Regular Season;Atlantic Division;Trent Forrest;1.3;3.8;35.3;0.0;0.6;0.0;0.4;0.7;66.7;1.3;3.2;41.4;0.824;0.35
+Utah Jazz;utah;2021 - 2022 Regular Season;Atlantic Division;Juancho Hernangomez;1.0;3.3;30.0;0.7;2.7;25.0;0.3;0.7;50.0;0.3;0.7;50.0;0.900;0.40
+Utah Jazz;utah;2021 - 2022 Regular Season;Atlantic Division;Norvel Pelle;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Utah Jazz;utah;2021 - 2022 Regular Season;Atlantic Division;Nickeil Alexander-Walker;0.5;3.5;14.3;0.5;3.5;14.3;0.0;0.0;0.0;0.0;0.0;0.0;0.429;0.21
+Utah Jazz;utah;2021 - 2022 Regular Season;Atlantic Division;Miye Oni;0.3;0.7;50.0;0.0;0.3;0.0;0.0;0.3;0.0;0.3;0.3;100.0;1.000;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;Atlantic Division;Xavier Sneed;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;Atlantic Division;Total;41.0;84.5;48.5;16.2;42.0;38.6;16.9;21.0;80.5;24.8;42.5;58.4;1.362;0.58
+Utah Jazz;utah;2021 - 2022 Regular Season;Central Division;Donovan Mitchell;10.4;23.1;45.2;4.3;10.7;40.6;4.7;5.0;93.3;6.1;12.4;49.1;1.293;0.55
+Utah Jazz;utah;2021 - 2022 Regular Season;Central Division;Jordan Clarkson;6.0;15.6;38.5;2.2;7.8;28.2;1.7;1.9;89.5;3.8;7.8;48.7;1.019;0.46
+Utah Jazz;utah;2021 - 2022 Regular Season;Central Division;Rudy Gobert;5.4;7.9;69.1;0.0;0.0;0.0;4.4;6.0;73.8;5.4;7.9;69.1;1.945;0.69
+Utah Jazz;utah;2021 - 2022 Regular Season;Central Division;Mike Conley;4.7;9.9;47.2;2.6;5.7;45.1;2.9;3.6;81.3;2.1;4.2;50.0;1.494;0.60
+Utah Jazz;utah;2021 - 2022 Regular Season;Central Division;Bojan Bogdanovic;4.9;12.5;39.0;2.0;6.0;33.3;2.9;3.5;82.1;2.9;6.5;44.2;1.170;0.47
+Utah Jazz;utah;2021 - 2022 Regular Season;Central Division;Nickeil Alexander-Walker;2.0;4.0;50.0;1.5;2.5;60.0;2.5;3.0;83.3;0.5;1.5;33.3;2.000;0.69
+Utah Jazz;utah;2021 - 2022 Regular Season;Central Division;Royce O'Neale;2.7;5.6;48.2;1.7;3.6;47.2;0.6;0.7;85.7;1.0;2.0;50.0;1.375;0.63
+Utah Jazz;utah;2021 - 2022 Regular Season;Central Division;Hassan Whiteside;3.4;6.1;55.8;0.0;0.0;0.0;0.7;1.7;41.7;3.4;6.1;55.8;1.233;0.56
+Utah Jazz;utah;2021 - 2022 Regular Season;Central Division;Eric Paschall;2.3;4.1;56.8;0.6;1.4;38.5;1.0;1.1;90.0;1.8;2.7;66.7;1.514;0.64
+Utah Jazz;utah;2021 - 2022 Regular Season;Central Division;Rudy Gay;1.8;5.6;32.1;1.0;3.2;31.3;1.6;1.6;100.0;0.8;2.4;33.3;1.107;0.41
+Utah Jazz;utah;2021 - 2022 Regular Season;Central Division;Joe Ingles;2.2;6.5;33.3;1.2;5.0;23.3;0.3;0.3;100.0;1.0;1.5;66.7;0.897;0.42
+Utah Jazz;utah;2021 - 2022 Regular Season;Central Division;Denzel Valentine;2.0;4.0;50.0;1.0;3.0;33.3;0.0;0.0;0.0;1.0;1.0;100.0;1.250;0.63
+Utah Jazz;utah;2021 - 2022 Regular Season;Central Division;Norvel Pelle;1.0;2.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;2.0;50.0;1.000;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;Central Division;Danuel House Jr.;0.7;2.7;25.0;0.7;2.0;33.3;0.0;0.0;0.0;0.0;0.7;0.0;0.750;0.38
+Utah Jazz;utah;2021 - 2022 Regular Season;Central Division;Juancho Hernangomez;0.0;3.0;0.0;0.0;3.0;0.0;2.0;4.0;50.0;0.0;0.0;0.0;0.667;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;Central Division;Trent Forrest;0.8;1.0;75.0;0.0;0.0;0.0;0.5;0.8;66.7;0.8;1.0;75.0;2.000;0.75
+Utah Jazz;utah;2021 - 2022 Regular Season;Central Division;Jared Butler;0.4;1.0;40.0;0.0;0.2;0.0;0.0;0.0;0.0;0.4;0.8;50.0;0.800;0.40
+Utah Jazz;utah;2021 - 2022 Regular Season;Central Division;Zylan Cheatham;0.0;3.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;Central Division;Udoka Azubuike;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;Central Division;Xavier Sneed;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;Central Division;Elijah Hughes;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;Central Division;Miye Oni;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;Central Division;Total;38.2;85.0;44.9;14.0;38.8;36.1;17.8;21.8;81.7;24.2;46.2;52.4;1.273;0.53
+Utah Jazz;utah;2021 - 2022 Regular Season;Pacific Division;Donovan Mitchell;9.2;20.9;44.2;3.1;8.8;35.0;4.0;5.0;80.0;6.1;12.1;50.9;1.223;0.52
+Utah Jazz;utah;2021 - 2022 Regular Season;Pacific Division;Jordan Clarkson;6.4;15.3;42.2;2.5;8.1;30.8;1.8;2.2;80.0;3.9;7.2;55.0;1.124;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;Pacific Division;Rudy Gobert;5.8;8.7;66.4;0.0;0.3;0.0;4.5;6.4;70.0;5.8;8.4;68.6;1.844;0.66
+Utah Jazz;utah;2021 - 2022 Regular Season;Pacific Division;Bojan Bogdanovic;5.5;13.1;41.6;2.3;6.7;35.0;2.7;3.3;82.0;3.1;6.5;48.5;1.218;0.51
+Utah Jazz;utah;2021 - 2022 Regular Season;Pacific Division;Mike Conley;5.4;12.3;43.7;2.9;6.6;44.3;1.7;2.2;77.1;2.4;5.7;42.9;1.249;0.56
+Utah Jazz;utah;2021 - 2022 Regular Season;Pacific Division;Hassan Whiteside;3.6;5.5;65.2;0.0;0.0;0.0;2.3;3.4;65.9;3.6;5.5;65.2;1.712;0.65
+Utah Jazz;utah;2021 - 2022 Regular Season;Pacific Division;Rudy Gay;2.7;6.4;42.9;1.2;3.3;36.1;0.8;0.8;100.0;1.5;3.1;50.0;1.171;0.52
+Utah Jazz;utah;2021 - 2022 Regular Season;Pacific Division;Juancho Hernangomez;2.8;4.6;60.9;1.6;3.2;50.0;0.2;0.4;50.0;1.2;1.4;85.7;1.609;0.78
+Utah Jazz;utah;2021 - 2022 Regular Season;Pacific Division;Nickeil Alexander-Walker;2.5;6.5;38.5;1.0;3.5;28.6;0.5;0.5;100.0;1.5;3.0;50.0;1.000;0.46
+Utah Jazz;utah;2021 - 2022 Regular Season;Pacific Division;Royce O'Neale;2.3;5.8;39.4;1.3;3.9;32.8;0.5;0.6;81.8;1.0;1.9;53.1;1.101;0.51
+Utah Jazz;utah;2021 - 2022 Regular Season;Pacific Division;Danuel House Jr.;2.0;4.8;42.1;1.1;3.0;37.5;1.1;2.1;52.9;0.9;1.8;50.0;1.316;0.54
+Utah Jazz;utah;2021 - 2022 Regular Season;Pacific Division;Elijah Hughes;2.0;5.0;40.0;2.0;4.0;50.0;0.0;0.0;0.0;0.0;1.0;0.0;1.200;0.60
+Utah Jazz;utah;2021 - 2022 Regular Season;Pacific Division;Jared Butler;2.1;4.3;50.0;1.3;2.8;45.5;0.3;0.5;50.0;0.9;1.5;58.3;1.353;0.65
+Utah Jazz;utah;2021 - 2022 Regular Season;Pacific Division;Udoka Azubuike;2.5;3.0;83.3;0.0;0.0;0.0;0.5;1.0;50.0;2.5;3.0;83.3;1.833;0.83
+Utah Jazz;utah;2021 - 2022 Regular Season;Pacific Division;Joe Ingles;1.9;5.6;33.3;1.4;4.8;28.9;0.1;0.3;50.0;0.5;0.9;57.1;0.933;0.46
+Utah Jazz;utah;2021 - 2022 Regular Season;Pacific Division;Trent Forrest;2.1;3.5;59.0;0.1;0.6;14.3;0.8;1.0;81.8;2.0;2.9;68.8;1.436;0.60
+Utah Jazz;utah;2021 - 2022 Regular Season;Pacific Division;Eric Paschall;1.6;3.5;44.9;0.4;1.4;31.6;1.1;1.7;66.7;1.1;2.1;53.3;1.347;0.51
+Utah Jazz;utah;2021 - 2022 Regular Season;Pacific Division;Greg Monroe;1.0;1.5;66.7;0.0;0.0;0.0;2.0;3.5;57.1;1.0;1.5;66.7;2.667;0.67
+Utah Jazz;utah;2021 - 2022 Regular Season;Pacific Division;Xavier Sneed;0.5;0.5;100.0;0.5;0.5;100.0;0.0;0.0;0.0;0.0;0.0;0.0;3.000;1.50
+Utah Jazz;utah;2021 - 2022 Regular Season;Pacific Division;Miye Oni;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;Pacific Division;Total;40.4;87.4;46.3;14.2;40.0;35.4;17.1;23.1;74.0;26.3;47.4;55.4;1.283;0.54
+Utah Jazz;utah;2021 - 2022 Regular Season;Southeast Division;Donovan Mitchell;9.6;21.8;43.9;3.4;11.2;30.7;3.9;4.8;81.4;6.1;10.6;57.9;1.214;0.52
+Utah Jazz;utah;2021 - 2022 Regular Season;Southeast Division;Bojan Bogdanovic;5.7;14.0;40.5;2.7;7.1;37.5;3.8;4.2;89.5;3.0;6.9;43.5;1.270;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;Southeast Division;Jordan Clarkson;5.5;13.5;40.7;2.2;8.4;26.2;2.3;2.6;88.5;3.3;5.1;64.7;1.148;0.49
+Utah Jazz;utah;2021 - 2022 Regular Season;Southeast Division;Rudy Gobert;5.2;7.3;71.2;0.0;0.0;0.0;4.0;5.8;69.2;5.2;7.3;71.2;1.970;0.71
+Utah Jazz;utah;2021 - 2022 Regular Season;Southeast Division;Mike Conley;4.1;10.3;40.2;2.3;6.6;34.0;1.1;1.4;81.8;1.9;3.6;51.7;1.134;0.51
+Utah Jazz;utah;2021 - 2022 Regular Season;Southeast Division;Royce O'Neale;3.2;6.7;47.8;1.9;4.7;40.4;0.8;1.2;66.7;1.3;2.0;65.0;1.358;0.62
+Utah Jazz;utah;2021 - 2022 Regular Season;Southeast Division;Hassan Whiteside;3.3;4.9;68.2;0.0;0.0;0.0;1.1;2.0;55.6;3.3;4.9;68.2;1.591;0.68
+Utah Jazz;utah;2021 - 2022 Regular Season;Southeast Division;Juancho Hernangomez;2.5;4.5;55.6;2.0;3.0;66.7;0.0;1.0;0.0;0.5;1.5;33.3;1.556;0.78
+Utah Jazz;utah;2021 - 2022 Regular Season;Southeast Division;Joe Ingles;2.3;6.3;36.0;1.8;5.1;34.1;0.3;0.5;50.0;0.5;1.1;44.4;1.040;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;Southeast Division;Udoka Azubuike;3.0;3.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;3.0;3.0;100.0;2.000;1.00
+Utah Jazz;utah;2021 - 2022 Regular Season;Southeast Division;Eric Paschall;1.5;3.6;41.4;0.5;2.3;22.2;1.4;1.8;78.6;1.0;1.4;72.7;1.345;0.48
+Utah Jazz;utah;2021 - 2022 Regular Season;Southeast Division;Rudy Gay;1.5;7.8;19.4;1.0;5.0;20.0;0.8;1.3;60.0;0.5;2.8;18.2;0.613;0.26
+Utah Jazz;utah;2021 - 2022 Regular Season;Southeast Division;Jared Butler;0.8;1.3;60.0;0.5;0.8;66.7;0.0;0.0;0.0;0.3;0.5;50.0;1.600;0.80
+Utah Jazz;utah;2021 - 2022 Regular Season;Southeast Division;Trent Forrest;0.5;1.6;30.8;0.3;0.5;50.0;0.6;0.8;83.3;0.3;1.1;22.2;1.154;0.38
+Utah Jazz;utah;2021 - 2022 Regular Season;Southeast Division;Miye Oni;0.3;0.7;50.0;0.3;0.7;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.500;0.75
+Utah Jazz;utah;2021 - 2022 Regular Season;Southeast Division;Elijah Hughes;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;Southeast Division;Malik Fitts;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;Southeast Division;Nickeil Alexander-Walker;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;Southeast Division;Total;38.9;86.2;45.1;14.5;44.3;32.7;17.6;23.1;76.2;24.4;41.9;58.2;1.275;0.54
+Utah Jazz;utah;2021 - 2022 Regular Season;Southwest Division;Donovan Mitchell;8.0;19.7;40.5;3.1;8.9;34.3;4.0;4.8;83.3;4.9;10.8;45.7;1.169;0.48
+Utah Jazz;utah;2021 - 2022 Regular Season;Southwest Division;Bojan Bogdanovic;6.5;14.1;46.0;2.9;7.7;38.2;2.6;3.2;82.4;3.6;6.4;55.3;1.314;0.56
+Utah Jazz;utah;2021 - 2022 Regular Season;Southwest Division;Jordan Clarkson;5.7;12.9;44.0;2.2;6.1;35.8;2.0;2.4;83.7;3.5;6.8;51.2;1.203;0.52
+Utah Jazz;utah;2021 - 2022 Regular Season;Southwest Division;Rudy Gobert;5.2;7.1;72.8;0.0;0.0;0.0;4.7;6.6;70.8;5.2;7.1;72.8;2.114;0.73
+Utah Jazz;utah;2021 - 2022 Regular Season;Southwest Division;Mike Conley;4.5;11.3;39.9;1.9;5.6;34.7;2.1;2.7;77.6;2.6;5.7;45.1;1.158;0.49
+Utah Jazz;utah;2021 - 2022 Regular Season;Southwest Division;Hassan Whiteside;3.9;5.6;69.0;0.0;0.0;0.0;1.5;2.7;57.5;3.9;5.6;69.0;1.655;0.69
+Utah Jazz;utah;2021 - 2022 Regular Season;Southwest Division;Joe Ingles;3.0;6.6;45.5;1.8;4.7;38.3;0.6;0.7;85.7;1.2;1.9;63.2;1.273;0.59
+Utah Jazz;utah;2021 - 2022 Regular Season;Southwest Division;Danuel House Jr.;2.9;5.6;52.0;1.7;3.6;46.9;0.9;1.1;80.0;1.2;2.0;61.1;1.500;0.67
+Utah Jazz;utah;2021 - 2022 Regular Season;Southwest Division;Royce O'Neale;2.5;5.1;48.3;1.5;3.6;42.6;0.6;0.8;76.9;0.9;1.5;61.5;1.379;0.63
+Utah Jazz;utah;2021 - 2022 Regular Season;Southwest Division;Rudy Gay;2.4;6.4;38.2;1.0;2.7;36.8;1.0;1.5;66.7;1.4;3.6;39.2;1.079;0.46
+Utah Jazz;utah;2021 - 2022 Regular Season;Southwest Division;Eric Paschall;2.1;4.1;51.5;1.1;1.9;60.0;1.1;1.5;75.0;1.0;2.3;44.4;1.576;0.65
+Utah Jazz;utah;2021 - 2022 Regular Season;Southwest Division;Udoka Azubuike;2.0;2.7;75.0;0.0;0.0;0.0;0.7;0.7;100.0;2.0;2.7;75.0;1.750;0.75
+Utah Jazz;utah;2021 - 2022 Regular Season;Southwest Division;Juancho Hernangomez;1.3;2.7;50.0;0.7;2.0;33.3;0.7;1.3;50.0;0.7;0.7;100.0;1.500;0.63
+Utah Jazz;utah;2021 - 2022 Regular Season;Southwest Division;Jared Butler;1.2;3.2;37.5;0.6;1.8;33.3;0.2;0.4;50.0;0.6;1.4;42.9;1.000;0.47
+Utah Jazz;utah;2021 - 2022 Regular Season;Southwest Division;Trent Forrest;1.0;2.3;43.2;0.0;0.3;0.0;0.3;0.4;83.3;1.0;2.0;50.0;1.000;0.43
+Utah Jazz;utah;2021 - 2022 Regular Season;Southwest Division;Xavier Sneed;1.0;3.0;33.3;0.0;2.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;0.667;0.33
+Utah Jazz;utah;2021 - 2022 Regular Season;Southwest Division;Nickeil Alexander-Walker;0.5;2.3;22.2;0.3;1.0;25.0;0.5;0.5;100.0;0.3;1.3;20.0;0.778;0.28
+Utah Jazz;utah;2021 - 2022 Regular Season;Southwest Division;Elijah Hughes;0.0;0.3;0.0;0.0;0.3;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;Southwest Division;Malik Fitts;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;Southwest Division;Miye Oni;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;Southwest Division;Total;40.7;86.8;46.8;14.2;38.2;37.1;18.5;24.4;75.7;26.5;48.6;54.5;1.313;0.55
+Utah Jazz;utah;2021 - 2022 Regular Season;Northwest Division;Donovan Mitchell;9.4;19.5;48.1;3.3;10.0;32.7;2.7;3.2;85.7;6.1;9.5;64.4;1.271;0.57
+Utah Jazz;utah;2021 - 2022 Regular Season;Northwest Division;Bojan Bogdanovic;7.4;14.1;52.6;2.9;6.4;45.8;4.3;4.9;87.8;4.5;7.7;58.3;1.569;0.63
+Utah Jazz;utah;2021 - 2022 Regular Season;Northwest Division;Rudy Gobert;6.1;8.0;76.0;0.0;0.0;0.0;4.8;7.8;61.8;6.1;8.0;76.0;2.125;0.76
+Utah Jazz;utah;2021 - 2022 Regular Season;Northwest Division;Jordan Clarkson;5.7;13.1;43.7;2.6;7.4;35.1;2.1;2.5;83.8;3.1;5.7;54.7;1.228;0.54
+Utah Jazz;utah;2021 - 2022 Regular Season;Northwest Division;Mike Conley;4.7;10.3;45.5;2.0;4.7;42.6;1.2;1.4;83.3;2.7;5.6;47.9;1.216;0.55
+Utah Jazz;utah;2021 - 2022 Regular Season;Northwest Division;Rudy Gay;3.9;8.6;45.8;1.5;4.7;31.8;1.7;2.2;77.4;2.4;3.9;63.0;1.292;0.55
+Utah Jazz;utah;2021 - 2022 Regular Season;Northwest Division;Juancho Hernangomez;3.7;6.7;55.0;1.7;3.0;55.6;1.3;2.3;57.1;2.0;3.7;54.5;1.550;0.68
+Utah Jazz;utah;2021 - 2022 Regular Season;Northwest Division;Joe Ingles;3.0;6.3;47.4;2.1;5.1;41.3;0.7;0.8;85.7;0.9;1.2;72.7;1.386;0.64
+Utah Jazz;utah;2021 - 2022 Regular Season;Northwest Division;Royce O'Neale;2.7;6.0;45.2;1.3;3.9;33.3;0.5;0.6;87.5;1.4;2.1;66.7;1.202;0.56
+Utah Jazz;utah;2021 - 2022 Regular Season;Northwest Division;Hassan Whiteside;2.7;4.2;64.0;0.0;0.0;0.0;1.8;2.8;63.6;2.7;4.2;64.0;1.700;0.64
+Utah Jazz;utah;2021 - 2022 Regular Season;Northwest Division;Danuel House Jr.;1.8;5.0;35.0;1.3;3.5;35.7;2.0;2.5;80.0;0.5;1.5;33.3;1.350;0.48
+Utah Jazz;utah;2021 - 2022 Regular Season;Northwest Division;Udoka Azubuike;2.5;3.5;71.4;0.0;0.0;0.0;0.5;0.8;66.7;2.5;3.5;71.4;1.571;0.71
+Utah Jazz;utah;2021 - 2022 Regular Season;Northwest Division;Jared Butler;1.8;4.7;38.5;0.6;2.8;22.6;0.5;0.6;85.7;1.2;1.9;61.9;1.019;0.45
+Utah Jazz;utah;2021 - 2022 Regular Season;Northwest Division;Eric Paschall;1.5;2.9;51.4;0.8;1.7;45.0;0.5;0.7;75.0;0.8;1.3;60.0;1.457;0.64
+Utah Jazz;utah;2021 - 2022 Regular Season;Northwest Division;Trent Forrest;1.5;2.3;64.3;0.2;0.5;33.3;1.1;1.3;81.3;1.3;1.8;72.7;1.821;0.68
+Utah Jazz;utah;2021 - 2022 Regular Season;Northwest Division;Greg Monroe;2.0;2.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;2.0;100.0;2.000;1.00
+Utah Jazz;utah;2021 - 2022 Regular Season;Northwest Division;Nickeil Alexander-Walker;1.0;2.8;36.4;0.8;2.5;30.0;0.8;0.8;100.0;0.3;0.3;100.0;1.273;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;Northwest Division;Elijah Hughes;0.7;2.0;33.3;0.2;1.5;11.1;0.3;0.3;100.0;0.5;0.5;100.0;0.917;0.38
+Utah Jazz;utah;2021 - 2022 Regular Season;Northwest Division;Denzel Valentine;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;Northwest Division;Xavier Sneed;0.0;1.5;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.5;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;Northwest Division;Malik Fitts;0.0;0.3;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.3;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;Northwest Division;Miye Oni;0.0;0.8;0.0;0.0;0.8;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;Northwest Division;Total;42.9;85.8;50.0;14.7;40.6;36.2;19.1;25.1;76.3;28.2;45.3;62.3;1.393;0.59
+Utah Jazz;utah;2021 - 2022 Regular Season;Eastern Conference;Donovan Mitchell;9.8;21.3;46.2;4.0;10.6;37.3;4.5;5.0;89.0;5.9;10.6;55.1;1.321;0.55
+Utah Jazz;utah;2021 - 2022 Regular Season;Eastern Conference;Bojan Bogdanovic;5.4;12.8;42.5;2.4;6.5;36.9;3.3;3.7;88.2;3.0;6.3;48.3;1.293;0.52
+Utah Jazz;utah;2021 - 2022 Regular Season;Eastern Conference;Jordan Clarkson;5.8;14.6;39.6;2.4;8.3;29.0;1.6;1.9;83.3;3.4;6.4;53.4;1.066;0.48
+Utah Jazz;utah;2021 - 2022 Regular Season;Eastern Conference;Rudy Gobert;5.2;7.3;70.8;0.0;0.0;0.0;4.4;6.1;72.3;5.2;7.3;70.8;2.024;0.71
+Utah Jazz;utah;2021 - 2022 Regular Season;Eastern Conference;Mike Conley;4.6;10.3;45.1;2.4;5.8;41.8;2.0;2.4;81.7;2.2;4.4;49.5;1.331;0.57
+Utah Jazz;utah;2021 - 2022 Regular Season;Eastern Conference;Royce O'Neale;2.9;6.0;48.3;1.8;4.3;42.7;0.7;0.8;79.2;1.1;1.7;62.0;1.379;0.64
+Utah Jazz;utah;2021 - 2022 Regular Season;Eastern Conference;Hassan Whiteside;3.2;5.0;63.1;0.0;0.0;0.0;1.3;2.0;62.3;3.2;5.0;63.1;1.515;0.63
+Utah Jazz;utah;2021 - 2022 Regular Season;Eastern Conference;Rudy Gay;2.4;6.3;38.0;1.4;3.9;34.9;0.9;1.1;83.3;1.0;2.3;43.2;1.130;0.49
+Utah Jazz;utah;2021 - 2022 Regular Season;Eastern Conference;Eric Paschall;2.4;4.9;48.3;0.7;2.3;29.6;1.5;1.8;83.3;1.7;2.7;64.1;1.398;0.55
+Utah Jazz;utah;2021 - 2022 Regular Season;Eastern Conference;Joe Ingles;2.4;6.5;36.8;1.7;5.2;31.9;0.2;0.3;66.7;0.7;1.3;56.5;1.026;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;Eastern Conference;Elijah Hughes;2.3;4.5;50.0;1.8;3.5;50.0;0.3;0.3;100.0;0.5;1.0;50.0;1.444;0.69
+Utah Jazz;utah;2021 - 2022 Regular Season;Eastern Conference;Denzel Valentine;2.0;4.0;50.0;1.0;3.0;33.3;0.0;0.0;0.0;1.0;1.0;100.0;1.250;0.63
+Utah Jazz;utah;2021 - 2022 Regular Season;Eastern Conference;Danuel House Jr.;1.5;3.8;40.0;1.3;3.0;41.7;0.5;0.5;100.0;0.3;0.8;33.3;1.267;0.57
+Utah Jazz;utah;2021 - 2022 Regular Season;Eastern Conference;Juancho Hernangomez;1.3;3.7;36.4;1.0;2.8;35.3;0.5;1.3;37.5;0.3;0.8;40.0;1.136;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;Eastern Conference;Udoka Azubuike;2.0;2.6;76.2;0.0;0.0;0.0;0.1;0.5;25.0;2.0;2.6;76.2;1.571;0.76
+Utah Jazz;utah;2021 - 2022 Regular Season;Eastern Conference;Nickeil Alexander-Walker;1.0;3.0;33.3;0.8;2.4;33.3;1.0;1.2;83.3;0.2;0.6;33.3;1.267;0.47
+Utah Jazz;utah;2021 - 2022 Regular Season;Eastern Conference;Malik Fitts;1.0;4.0;25.0;1.0;2.0;50.0;0.0;0.0;0.0;0.0;2.0;0.0;0.750;0.38
+Utah Jazz;utah;2021 - 2022 Regular Season;Eastern Conference;Jared Butler;1.0;2.7;36.7;0.4;1.4;30.8;0.1;0.2;66.7;0.6;1.3;43.5;0.939;0.45
+Utah Jazz;utah;2021 - 2022 Regular Season;Eastern Conference;Trent Forrest;0.9;2.4;37.3;0.1;0.4;22.2;0.5;0.7;73.3;0.8;2.0;40.5;1.000;0.39
+Utah Jazz;utah;2021 - 2022 Regular Season;Eastern Conference;Norvel Pelle;1.0;1.7;60.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.7;60.0;1.200;0.60
+Utah Jazz;utah;2021 - 2022 Regular Season;Eastern Conference;Miye Oni;0.3;0.6;50.0;0.1;0.4;33.3;0.0;0.1;0.0;0.1;0.1;100.0;1.250;0.63
+Utah Jazz;utah;2021 - 2022 Regular Season;Eastern Conference;Zylan Cheatham;0.0;3.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;Eastern Conference;Xavier Sneed;0.0;0.5;0.0;0.0;0.5;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;Eastern Conference;Total;39.4;85.2;46.2;14.9;41.7;35.7;17.4;22.0;79.4;24.5;43.5;56.2;1.303;0.55
+Utah Jazz;utah;2021 - 2022 Regular Season;Western Conference;Donovan Mitchell;8.8;20.1;43.9;3.1;9.2;34.1;3.7;4.4;82.5;5.7;10.9;52.2;1.216;0.52
+Utah Jazz;utah;2021 - 2022 Regular Season;Western Conference;Bojan Bogdanovic;6.5;13.8;46.8;2.7;6.9;39.5;3.2;3.8;84.6;3.7;6.8;54.3;1.369;0.57
+Utah Jazz;utah;2021 - 2022 Regular Season;Western Conference;Jordan Clarkson;6.0;13.8;43.2;2.4;7.2;33.6;1.9;2.4;82.5;3.5;6.6;53.6;1.179;0.52
+Utah Jazz;utah;2021 - 2022 Regular Season;Western Conference;Rudy Gobert;5.7;7.9;71.5;0.0;0.1;0.0;4.7;6.9;67.4;5.7;7.8;72.3;2.021;0.71
+Utah Jazz;utah;2021 - 2022 Regular Season;Western Conference;Mike Conley;4.9;11.4;42.7;2.3;5.7;40.3;1.7;2.2;78.4;2.6;5.7;45.1;1.206;0.53
+Utah Jazz;utah;2021 - 2022 Regular Season;Western Conference;Hassan Whiteside;3.4;5.1;66.5;0.0;0.0;0.0;1.8;2.9;62.3;3.4;5.1;66.5;1.685;0.67
+Utah Jazz;utah;2021 - 2022 Regular Season;Western Conference;Rudy Gay;3.1;7.2;42.7;1.2;3.6;34.3;1.2;1.6;77.0;1.8;3.6;51.1;1.194;0.51
+Utah Jazz;utah;2021 - 2022 Regular Season;Western Conference;Joe Ingles;2.7;6.2;42.9;1.8;4.9;36.6;0.5;0.6;81.3;0.9;1.4;64.9;1.220;0.57
+Utah Jazz;utah;2021 - 2022 Regular Season;Western Conference;Juancho Hernangomez;2.6;4.6;56.9;1.4;2.8;48.4;0.6;1.2;53.8;1.3;1.8;70.0;1.569;0.72
+Utah Jazz;utah;2021 - 2022 Regular Season;Western Conference;Danuel House Jr.;2.3;5.1;45.4;1.4;3.3;41.4;1.2;1.8;67.6;1.0;1.8;52.6;1.407;0.59
+Utah Jazz;utah;2021 - 2022 Regular Season;Western Conference;Royce O'Neale;2.5;5.6;44.1;1.4;3.8;36.3;0.5;0.7;81.3;1.1;1.8;60.2;1.222;0.56
+Utah Jazz;utah;2021 - 2022 Regular Season;Western Conference;Udoka Azubuike;2.3;3.1;75.0;0.0;0.0;0.0;0.6;0.8;71.4;2.3;3.1;75.0;1.679;0.75
+Utah Jazz;utah;2021 - 2022 Regular Season;Western Conference;Eric Paschall;1.7;3.4;48.7;0.7;1.6;44.4;0.9;1.3;70.5;1.0;1.9;52.4;1.444;0.59
+Utah Jazz;utah;2021 - 2022 Regular Season;Western Conference;Jared Butler;1.8;4.3;42.2;0.8;2.6;32.3;0.4;0.5;69.2;1.0;1.7;57.5;1.127;0.52
+Utah Jazz;utah;2021 - 2022 Regular Season;Western Conference;Greg Monroe;1.3;1.7;80.0;0.0;0.0;0.0;1.3;2.3;57.1;1.3;1.7;80.0;2.400;0.80
+Utah Jazz;utah;2021 - 2022 Regular Season;Western Conference;Trent Forrest;1.5;2.7;54.8;0.1;0.5;16.7;0.7;0.8;81.8;1.4;2.2;62.8;1.385;0.56
+Utah Jazz;utah;2021 - 2022 Regular Season;Western Conference;Nickeil Alexander-Walker;1.1;3.3;33.3;0.6;2.1;28.6;0.6;0.6;100.0;0.5;1.2;41.7;1.030;0.42
+Utah Jazz;utah;2021 - 2022 Regular Season;Western Conference;Elijah Hughes;0.6;1.8;33.3;0.3;1.4;21.4;0.2;0.2;100.0;0.3;0.4;75.0;0.944;0.42
+Utah Jazz;utah;2021 - 2022 Regular Season;Western Conference;Xavier Sneed;0.4;1.4;28.6;0.2;1.0;20.0;0.0;0.0;0.0;0.2;0.4;50.0;0.714;0.36
+Utah Jazz;utah;2021 - 2022 Regular Season;Western Conference;Denzel Valentine;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;Western Conference;Malik Fitts;0.0;0.2;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.2;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;Western Conference;Miye Oni;0.0;0.6;0.0;0.0;0.6;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;Western Conference;Total;41.3;86.7;47.6;14.3;39.6;36.2;18.2;24.2;75.3;26.9;47.2;57.1;1.327;0.56
+Utah Jazz;utah;2021 - 2022 Regular Season;Pre All-Star;Donovan Mitchell;9.3;20.3;45.6;3.3;9.5;35.1;3.9;4.5;87.3;5.9;10.8;54.8;1.268;0.54
+Utah Jazz;utah;2021 - 2022 Regular Season;Pre All-Star;Bojan Bogdanovic;6.1;13.4;45.5;2.4;6.4;38.0;3.2;3.7;87.0;3.6;6.9;52.5;1.334;0.55
+Utah Jazz;utah;2021 - 2022 Regular Season;Pre All-Star;Rudy Gobert;5.6;7.9;71.1;0.0;0.0;0.0;4.5;6.5;68.9;5.6;7.8;71.5;1.991;0.71
+Utah Jazz;utah;2021 - 2022 Regular Season;Pre All-Star;Jordan Clarkson;5.6;13.9;40.3;2.5;7.9;32.0;1.7;2.1;83.2;3.1;6.0;51.4;1.111;0.49
+Utah Jazz;utah;2021 - 2022 Regular Season;Pre All-Star;Mike Conley;4.8;10.9;43.8;2.4;5.8;41.0;1.9;2.3;83.8;2.4;5.2;47.0;1.266;0.55
+Utah Jazz;utah;2021 - 2022 Regular Season;Pre All-Star;Rudy Gay;3.1;7.3;41.8;1.4;4.1;34.0;1.4;1.8;79.0;1.7;3.2;51.8;1.219;0.51
+Utah Jazz;utah;2021 - 2022 Regular Season;Pre All-Star;Hassan Whiteside;3.5;5.5;63.0;0.0;0.0;0.0;1.7;2.6;65.3;3.5;5.5;63.0;1.571;0.63
+Utah Jazz;utah;2021 - 2022 Regular Season;Pre All-Star;Royce O'Neale;2.7;5.6;49.0;1.5;3.7;40.6;0.6;0.8;79.5;1.2;1.8;66.3;1.370;0.63
+Utah Jazz;utah;2021 - 2022 Regular Season;Pre All-Star;Danuel House Jr.;2.4;5.0;48.9;1.3;3.1;42.9;1.1;1.6;71.4;1.1;1.9;58.8;1.467;0.62
+Utah Jazz;utah;2021 - 2022 Regular Season;Pre All-Star;Joe Ingles;2.6;6.3;40.4;1.7;5.0;34.7;0.4;0.5;77.3;0.8;1.3;61.7;1.140;0.54
+Utah Jazz;utah;2021 - 2022 Regular Season;Pre All-Star;Eric Paschall;2.0;4.1;48.6;0.8;2.0;37.8;1.1;1.5;75.8;1.2;2.0;59.6;1.441;0.58
+Utah Jazz;utah;2021 - 2022 Regular Season;Pre All-Star;Udoka Azubuike;2.2;2.9;75.0;0.0;0.0;0.0;0.4;0.7;54.5;2.2;2.9;75.0;1.636;0.75
+Utah Jazz;utah;2021 - 2022 Regular Season;Pre All-Star;Jared Butler;1.3;3.1;40.9;0.6;1.7;36.2;0.3;0.4;58.3;0.7;1.5;46.3;1.091;0.51
+Utah Jazz;utah;2021 - 2022 Regular Season;Pre All-Star;Trent Forrest;1.3;2.4;53.2;0.1;0.4;22.2;0.6;0.8;80.6;1.2;2.0;59.3;1.367;0.55
+Utah Jazz;utah;2021 - 2022 Regular Season;Pre All-Star;Elijah Hughes;1.1;2.6;41.7;0.7;2.0;35.7;0.2;0.2;100.0;0.4;0.6;62.5;1.194;0.56
+Utah Jazz;utah;2021 - 2022 Regular Season;Pre All-Star;Denzel Valentine;1.0;2.0;50.0;0.5;1.5;33.3;0.0;0.0;0.0;0.5;0.5;100.0;1.250;0.63
+Utah Jazz;utah;2021 - 2022 Regular Season;Pre All-Star;Norvel Pelle;1.0;1.7;60.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.7;60.0;1.200;0.60
+Utah Jazz;utah;2021 - 2022 Regular Season;Pre All-Star;Juancho Hernangomez;0.5;0.5;100.0;0.5;0.5;100.0;0.0;0.0;0.0;0.0;0.0;0.0;3.000;1.50
+Utah Jazz;utah;2021 - 2022 Regular Season;Pre All-Star;Malik Fitts;0.3;1.3;22.2;0.3;0.6;50.0;0.0;0.0;0.0;0.0;0.7;0.0;0.667;0.33
+Utah Jazz;utah;2021 - 2022 Regular Season;Pre All-Star;Miye Oni;0.1;0.6;22.2;0.1;0.5;12.5;0.0;0.1;0.0;0.1;0.1;100.0;0.556;0.28
+Utah Jazz;utah;2021 - 2022 Regular Season;Pre All-Star;Zylan Cheatham;0.0;3.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;Pre All-Star;Nickeil Alexander-Walker;0.0;0.5;0.0;0.0;0.5;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;Pre All-Star;Total;40.7;86.0;47.3;14.5;40.3;36.1;17.8;22.8;78.3;26.2;45.8;57.1;1.322;0.56
+Utah Jazz;utah;2021 - 2022 Regular Season;Post All-Star;Donovan Mitchell;9.1;21.0;43.2;3.8;10.4;36.2;4.2;5.1;81.5;5.3;10.7;50.0;1.242;0.52
+Utah Jazz;utah;2021 - 2022 Regular Season;Post All-Star;Bojan Bogdanovic;6.3;13.8;45.6;3.4;8.2;41.1;3.2;4.0;80.8;2.9;5.6;52.1;1.389;0.58
+Utah Jazz;utah;2021 - 2022 Regular Season;Post All-Star;Jordan Clarkson;6.5;14.5;45.2;2.1;6.8;31.5;2.1;2.5;82.0;4.4;7.7;57.3;1.196;0.53
+Utah Jazz;utah;2021 - 2022 Regular Season;Post All-Star;Rudy Gobert;5.3;7.4;71.6;0.0;0.1;0.0;4.8;7.0;69.3;5.3;7.3;72.5;2.086;0.72
+Utah Jazz;utah;2021 - 2022 Regular Season;Post All-Star;Mike Conley;4.8;11.2;42.6;2.3;5.7;40.4;1.6;2.3;68.9;2.5;5.5;45.0;1.197;0.53
+Utah Jazz;utah;2021 - 2022 Regular Season;Post All-Star;Hassan Whiteside;2.9;4.0;72.4;0.0;0.0;0.0;1.3;2.4;54.3;2.9;4.0;72.4;1.776;0.72
+Utah Jazz;utah;2021 - 2022 Regular Season;Post All-Star;Royce O'Neale;2.4;6.3;38.9;1.6;4.5;35.6;0.4;0.5;83.3;0.8;1.7;47.5;1.104;0.52
+Utah Jazz;utah;2021 - 2022 Regular Season;Post All-Star;Juancho Hernangomez;2.4;4.8;50.0;1.3;3.1;42.6;0.7;1.4;47.6;1.1;1.7;64.0;1.417;0.64
+Utah Jazz;utah;2021 - 2022 Regular Season;Post All-Star;Rudy Gay;2.5;6.2;40.7;1.1;3.0;35.6;0.7;0.9;76.5;1.5;3.2;45.3;1.089;0.49
+Utah Jazz;utah;2021 - 2022 Regular Season;Post All-Star;Danuel House Jr.;2.1;4.9;42.3;1.4;3.4;40.7;1.1;1.6;68.0;0.7;1.5;45.8;1.346;0.56
+Utah Jazz;utah;2021 - 2022 Regular Season;Post All-Star;Eric Paschall;1.9;4.0;48.2;0.4;1.3;33.3;1.1;1.4;80.0;1.5;2.7;55.3;1.357;0.54
+Utah Jazz;utah;2021 - 2022 Regular Season;Post All-Star;Jared Butler;1.8;4.5;39.7;0.8;2.9;26.8;0.3;0.3;100.0;1.0;1.6;63.6;1.032;0.48
+Utah Jazz;utah;2021 - 2022 Regular Season;Post All-Star;Nickeil Alexander-Walker;1.2;3.6;34.0;0.8;2.5;31.3;0.8;0.9;91.7;0.5;1.2;40.0;1.128;0.45
+Utah Jazz;utah;2021 - 2022 Regular Season;Post All-Star;Greg Monroe;1.3;1.7;80.0;0.0;0.0;0.0;1.3;2.3;57.1;1.3;1.7;80.0;2.400;0.80
+Utah Jazz;utah;2021 - 2022 Regular Season;Post All-Star;Udoka Azubuike;2.0;2.5;80.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;2.5;80.0;1.600;0.80
+Utah Jazz;utah;2021 - 2022 Regular Season;Post All-Star;Trent Forrest;1.3;3.3;39.1;0.1;0.6;11.1;0.6;0.9;75.0;1.2;2.6;45.9;1.000;0.40
+Utah Jazz;utah;2021 - 2022 Regular Season;Post All-Star;Xavier Sneed;0.3;1.1;25.0;0.1;0.9;16.7;0.0;0.0;0.0;0.1;0.3;50.0;0.625;0.31
+Utah Jazz;utah;2021 - 2022 Regular Season;Post All-Star;Total;40.3;86.5;46.6;14.5;40.5;35.9;18.2;24.8;73.3;25.8;46.0;56.0;1.309;0.55
+Utah Jazz;utah;2021 - 2022 Regular Season;3+ Days Rest;Donovan Mitchell;10.4;19.7;52.8;4.6;10.9;42.2;4.8;5.4;88.9;5.8;8.8;65.9;1.533;0.64
+Utah Jazz;utah;2021 - 2022 Regular Season;3+ Days Rest;Bojan Bogdanovic;6.6;13.1;50.0;2.4;6.1;39.5;2.0;2.6;77.8;4.1;7.0;59.2;1.337;0.59
+Utah Jazz;utah;2021 - 2022 Regular Season;3+ Days Rest;Rudy Gobert;6.3;7.5;83.3;0.0;0.0;0.0;4.0;7.0;57.1;6.3;7.5;83.3;2.200;0.83
+Utah Jazz;utah;2021 - 2022 Regular Season;3+ Days Rest;Jordan Clarkson;5.7;12.4;46.0;2.7;7.3;37.3;2.1;2.1;100.0;3.0;5.1;58.3;1.310;0.57
+Utah Jazz;utah;2021 - 2022 Regular Season;3+ Days Rest;Mike Conley;5.2;10.7;48.4;3.0;5.8;51.4;1.0;1.2;85.7;2.2;4.8;44.8;1.344;0.63
+Utah Jazz;utah;2021 - 2022 Regular Season;3+ Days Rest;Danuel House Jr.;2.7;5.2;51.6;1.3;3.3;40.0;1.7;2.5;66.7;1.3;1.8;72.7;1.613;0.65
+Utah Jazz;utah;2021 - 2022 Regular Season;3+ Days Rest;Royce O'Neale;2.7;4.8;55.2;1.2;3.3;35.0;0.8;0.8;100.0;1.5;1.5;100.0;1.517;0.67
+Utah Jazz;utah;2021 - 2022 Regular Season;3+ Days Rest;Joe Ingles;2.5;5.7;44.1;2.0;5.0;40.0;0.3;0.3;100.0;0.5;0.7;75.0;1.294;0.62
+Utah Jazz;utah;2021 - 2022 Regular Season;3+ Days Rest;Hassan Whiteside;2.7;4.6;58.8;0.0;0.0;0.0;1.8;2.3;80.0;2.7;4.6;58.8;1.569;0.59
+Utah Jazz;utah;2021 - 2022 Regular Season;3+ Days Rest;Rudy Gay;2.3;6.3;36.4;1.4;3.9;37.0;0.7;0.9;83.3;0.9;2.4;35.3;1.068;0.48
+Utah Jazz;utah;2021 - 2022 Regular Season;3+ Days Rest;Jared Butler;1.9;5.1;36.4;0.9;2.9;32.6;0.1;0.1;100.0;0.9;2.3;41.2;0.935;0.45
+Utah Jazz;utah;2021 - 2022 Regular Season;3+ Days Rest;Greg Monroe;1.5;2.0;75.0;0.0;0.0;0.0;1.0;1.0;100.0;1.5;2.0;75.0;2.000;0.75
+Utah Jazz;utah;2021 - 2022 Regular Season;3+ Days Rest;Elijah Hughes;1.3;3.1;42.9;1.0;2.4;40.9;0.3;0.3;100.0;0.3;0.7;50.0;1.286;0.59
+Utah Jazz;utah;2021 - 2022 Regular Season;3+ Days Rest;Eric Paschall;1.1;2.6;40.5;0.4;1.4;31.6;0.8;0.9;84.6;0.6;1.3;50.0;1.270;0.49
+Utah Jazz;utah;2021 - 2022 Regular Season;3+ Days Rest;Nickeil Alexander-Walker;1.0;2.4;41.7;0.6;1.4;42.9;0.6;0.6;100.0;0.4;1.0;40.0;1.333;0.54
+Utah Jazz;utah;2021 - 2022 Regular Season;3+ Days Rest;Trent Forrest;1.1;2.1;51.7;0.1;0.2;33.3;0.5;0.7;70.0;1.0;1.9;53.8;1.310;0.53
+Utah Jazz;utah;2021 - 2022 Regular Season;3+ Days Rest;Juancho Hernangomez;0.6;2.0;30.0;0.2;1.2;16.7;1.2;2.2;54.5;0.4;0.8;50.0;1.300;0.35
+Utah Jazz;utah;2021 - 2022 Regular Season;3+ Days Rest;Denzel Valentine;1.0;2.0;50.0;0.5;1.5;33.3;0.0;0.0;0.0;0.5;0.5;100.0;1.250;0.63
+Utah Jazz;utah;2021 - 2022 Regular Season;3+ Days Rest;Udoka Azubuike;1.1;1.6;69.2;0.0;0.0;0.0;0.3;0.4;66.7;1.1;1.6;69.2;1.538;0.69
+Utah Jazz;utah;2021 - 2022 Regular Season;3+ Days Rest;Norvel Pelle;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Utah Jazz;utah;2021 - 2022 Regular Season;3+ Days Rest;Malik Fitts;0.3;1.5;22.2;0.3;0.7;50.0;0.0;0.0;0.0;0.0;0.8;0.0;0.667;0.33
+Utah Jazz;utah;2021 - 2022 Regular Season;3+ Days Rest;Xavier Sneed;0.2;1.4;14.3;0.0;1.0;0.0;0.0;0.0;0.0;0.2;0.4;50.0;0.286;0.14
+Utah Jazz;utah;2021 - 2022 Regular Season;3+ Days Rest;Miye Oni;0.1;0.3;50.0;0.0;0.1;0.0;0.0;0.1;0.0;0.1;0.1;100.0;1.000;0.50
+Utah Jazz;utah;2021 - 2022 Regular Season;3+ Days Rest;Zylan Cheatham;0.0;3.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Utah Jazz;utah;2021 - 2022 Regular Season;3+ Days Rest;Total;43.3;84.0;51.6;16.5;41.8;39.4;18.3;23.0;79.7;26.8;42.2;63.6;1.446;0.61

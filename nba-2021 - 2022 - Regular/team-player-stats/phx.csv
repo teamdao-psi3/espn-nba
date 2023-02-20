@@ -1,0 +1,877 @@
+teamName;teamCode;season;split;player_name;GP;GS;MIN;PTS;ORB;DR;REB;AST;STL;BLK;TO;PF;AST_TO
+Phoenix Suns;phx;2021 - 2022 Regular Season;All Splits;Devin Booker;68;68;34.5;26.8;0.7;4.4;5.0;4.8;1.1;0.4;2.4;2.6;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;All Splits;Deandre Ayton;58;58;29.5;17.2;2.6;7.7;10.2;1.4;0.7;0.7;1.6;2.4;0.9
+Phoenix Suns;phx;2021 - 2022 Regular Season;All Splits;Chris Paul;65;65;32.9;14.7;0.3;4.0;4.4;10.8;1.9;0.3;2.4;2.1;4.6
+Phoenix Suns;phx;2021 - 2022 Regular Season;All Splits;Mikal Bridges;82;82;34.8;14.2;0.9;3.3;4.2;2.3;1.2;0.4;0.8;1.8;2.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;All Splits;Cameron Johnson;66;16;26.2;12.5;0.6;3.5;4.1;1.5;0.9;0.2;0.7;1.7;2.1
+Phoenix Suns;phx;2021 - 2022 Regular Season;All Splits;Cameron Payne;58;12;22.0;10.8;0.4;2.6;3.0;4.9;0.7;0.3;1.8;2.1;2.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;All Splits;Frank Kaminsky;9;0;20.1;10.6;1.2;3.3;4.6;1.4;0.9;0.8;0.6;1.6;2.6
+Phoenix Suns;phx;2021 - 2022 Regular Season;All Splits;Jae Crowder;67;67;28.1;9.4;0.4;4.8;5.3;1.9;1.4;0.4;0.8;2.6;2.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;All Splits;JaVale McGee;74;17;15.8;9.2;2.2;4.5;6.7;0.6;0.3;1.1;1.3;2.4;0.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;All Splits;Landry Shamet;69;14;20.8;8.3;0.2;1.6;1.8;1.6;0.4;0.1;0.6;1.3;2.6
+Phoenix Suns;phx;2021 - 2022 Regular Season;All Splits;Torrey Craig;27;2;20.8;6.9;1.0;3.3;4.3;1.2;0.8;0.6;1.0;2.1;1.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;All Splits;Aaron Holiday;22;1;16.3;6.8;0.7;1.8;2.5;3.4;0.8;0.0;1.3;1.5;2.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;All Splits;Jalen Smith;29;4;13.2;6.0;1.9;2.9;4.8;0.2;0.2;0.6;0.8;1.8;0.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;All Splits;Bismack Biyombo;36;3;14.1;5.8;1.8;2.9;4.6;0.6;0.3;0.7;0.7;1.9;0.9
+Phoenix Suns;phx;2021 - 2022 Regular Season;All Splits;Gabriel Lundberg;4;0;11.0;3.3;0.5;1.3;1.8;2.8;0.8;0.0;0.8;1.8;3.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;All Splits;Elfrid Payton;50;1;11.0;3.0;0.4;1.3;1.8;2.0;0.5;0.1;0.9;0.8;2.1
+Phoenix Suns;phx;2021 - 2022 Regular Season;All Splits;Paris Bass;2;0;3.5;3.0;1.0;1.0;2.0;0.0;0.5;0.0;1.0;1.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;All Splits;Abdel Nader;14;0;10.4;2.4;0.3;1.6;1.9;0.5;0.6;0.3;0.8;1.4;0.6
+Phoenix Suns;phx;2021 - 2022 Regular Season;All Splits;Ish Wainright;45;0;8.0;2.4;0.6;0.6;1.2;0.3;0.4;0.1;0.3;1.1;1.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;All Splits;Justin Jackson;6;0;5.8;2.2;0.2;1.0;1.2;0.3;0.0;0.0;0.2;0.5;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;All Splits;Chandler Hutchison;6;0;3.7;0.7;0.0;0.8;0.8;0.3;0.0;0.0;0.7;0.2;0.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;All Splits;MJ Walker;2;0;4.0;0.0;0.0;0.5;0.5;0.5;1.0;0.0;0.0;0.5;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;All Splits;Emanuel Terry;3;0;6.0;0.0;2.7;2.3;5.0;0.7;0.3;0.0;1.7;1.3;0.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;All Splits;Total;82;"";"";114.8;9.8;35.5;45.3;27.4;8.6;4.4;12.3;19.9;2.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;Home;Devin Booker;34;34;34.4;24.6;0.8;4.2;5.0;4.7;1.2;0.6;2.5;2.5;1.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;Home;Deandre Ayton;29;29;29.4;17.4;2.4;7.9;10.3;1.5;0.6;0.9;1.3;2.0;1.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;Home;Frank Kaminsky;4;0;23.8;16.5;0.8;3.3;4.0;2.5;1.3;0.8;0.8;1.3;3.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;Home;Chris Paul;33;33;33.4;14.7;0.5;4.4;4.9;11.6;1.8;0.4;2.3;2.1;5.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Home;Cameron Johnson;37;9;26.7;14.2;0.8;3.5;4.2;1.5;0.8;0.3;0.7;1.6;2.1
+Phoenix Suns;phx;2021 - 2022 Regular Season;Home;Mikal Bridges;41;41;34.5;13.5;1.0;3.5;4.5;2.3;1.0;0.4;0.9;1.8;2.6
+Phoenix Suns;phx;2021 - 2022 Regular Season;Home;Cameron Payne;26;5;20.5;10.3;0.4;2.5;2.9;5.0;0.6;0.3;2.0;2.3;2.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;Home;Jae Crowder;33;33;27.8;10.0;0.4;4.7;5.1;1.7;1.5;0.4;0.7;2.3;2.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;Home;JaVale McGee;38;9;15.4;9.2;2.0;4.5;6.5;0.6;0.2;1.2;1.4;2.5;0.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;Home;Landry Shamet;33;7;20.6;8.9;0.3;1.7;2.0;1.6;0.4;0.1;0.5;1.3;3.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;Home;Aaron Holiday;11;1;16.3;7.6;0.5;1.5;2.1;3.4;0.9;0.0;1.4;1.6;2.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;Home;Jalen Smith;12;1;15.1;6.9;2.6;3.4;6.0;0.3;0.3;0.6;0.8;1.7;0.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;Home;Torrey Craig;13;1;20.2;6.6;1.3;3.2;4.5;1.3;0.5;0.5;1.5;2.2;0.9
+Phoenix Suns;phx;2021 - 2022 Regular Season;Home;Bismack Biyombo;17;2;14.4;6.4;1.8;3.3;5.1;0.7;0.1;0.9;0.8;2.2;0.9
+Phoenix Suns;phx;2021 - 2022 Regular Season;Home;Gabriel Lundberg;2;0;14.0;5.0;0.5;2.0;2.5;2.5;1.0;0.0;0.5;2.0;5.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Home;Justin Jackson;3;0;5.3;4.3;0.3;1.0;1.3;0.0;0.0;0.0;0.0;0.3;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Home;Elfrid Payton;28;0;11.5;3.0;0.5;1.4;1.9;2.0;0.4;0.1;1.0;0.7;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Home;Paris Bass;1;0;2.0;2.0;1.0;1.0;2.0;0.0;0.0;0.0;0.0;1.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Home;Ish Wainright;22;0;8.4;2.0;0.5;0.7;1.1;0.3;0.5;0.2;0.4;1.1;0.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;Home;Abdel Nader;8;0;8.4;1.3;0.5;0.9;1.4;0.3;0.4;0.1;1.0;1.6;0.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;Home;Chandler Hutchison;4;0;3.3;0.0;0.0;0.8;0.8;0.5;0.0;0.0;0.5;0.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Home;Emanuel Terry;1;0;1.0;0.0;3.0;1.0;4.0;0.0;0.0;0.0;0.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Home;Total;41;"";"";115.5;10.2;36.1;46.2;28.0;8.0;4.9;12.6;19.2;2.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;Away;Devin Booker;34;34;34.5;29.0;0.5;4.6;5.1;5.0;1.1;0.2;2.2;2.8;2.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;Away;Deandre Ayton;29;29;29.7;16.9;2.7;7.4;10.1;1.4;0.8;0.4;1.9;2.9;0.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;Away;Mikal Bridges;41;41;35.1;14.8;0.8;3.1;3.9;2.2;1.4;0.4;0.8;1.9;2.9
+Phoenix Suns;phx;2021 - 2022 Regular Season;Away;Chris Paul;32;32;32.4;14.8;0.1;3.6;3.8;10.0;1.9;0.2;2.4;2.1;4.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;Away;Cameron Payne;32;7;23.2;11.2;0.4;2.7;3.1;4.8;0.8;0.3;1.6;1.8;3.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Away;Cameron Johnson;29;7;25.6;10.2;0.5;3.6;4.0;1.5;1.0;0.2;0.7;1.8;2.1
+Phoenix Suns;phx;2021 - 2022 Regular Season;Away;JaVale McGee;36;8;16.3;9.2;2.4;4.5;6.9;0.5;0.4;0.9;1.2;2.4;0.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;Away;Jae Crowder;34;34;28.4;8.9;0.5;4.9;5.4;2.0;1.3;0.5;1.0;2.8;2.1
+Phoenix Suns;phx;2021 - 2022 Regular Season;Away;Landry Shamet;36;7;21.0;7.8;0.2;1.5;1.7;1.6;0.4;0.2;0.7;1.4;2.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;Away;Torrey Craig;14;1;21.5;7.2;0.7;3.4;4.1;1.1;1.1;0.7;0.6;2.0;1.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;Away;Aaron Holiday;11;0;16.3;5.9;0.8;2.1;2.9;3.5;0.7;0.0;1.2;1.3;2.9
+Phoenix Suns;phx;2021 - 2022 Regular Season;Away;Frank Kaminsky;5;0;17.2;5.8;1.6;3.4;5.0;0.6;0.6;0.8;0.4;1.8;1.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;Away;Jalen Smith;17;3;11.8;5.4;1.4;2.5;3.9;0.2;0.1;0.6;0.7;1.9;0.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;Away;Bismack Biyombo;19;1;13.8;5.4;1.7;2.5;4.2;0.6;0.6;0.5;0.6;1.7;0.9
+Phoenix Suns;phx;2021 - 2022 Regular Season;Away;Abdel Nader;6;0;13.0;4.0;0.0;2.7;2.7;0.8;0.8;0.5;0.5;1.2;1.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;Away;Paris Bass;1;0;5.0;4.0;1.0;1.0;2.0;0.0;1.0;0.0;2.0;1.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Away;Elfrid Payton;22;1;10.4;3.0;0.3;1.2;1.5;2.0;0.7;0.2;0.9;0.8;2.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;Away;Ish Wainright;23;0;7.6;2.8;0.7;0.5;1.3;0.4;0.3;0.1;0.2;1.1;1.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;Away;Chandler Hutchison;2;0;4.5;2.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;0.5;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Away;Gabriel Lundberg;2;0;8.0;1.5;0.5;0.5;1.0;3.0;0.5;0.0;1.0;1.5;3.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Away;Justin Jackson;3;0;6.0;0.0;0.0;1.0;1.0;0.7;0.0;0.0;0.3;0.7;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Away;MJ Walker;2;0;4.0;0.0;0.0;0.5;0.5;0.5;1.0;0.0;0.0;0.5;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;Away;Emanuel Terry;2;0;8.5;0.0;2.5;3.0;5.5;1.0;0.5;0.0;2.5;2.0;0.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;Away;Total;41;"";"";114.2;9.4;35.0;44.3;26.8;9.1;3.9;12.1;20.6;2.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Boston Celtics;Devin Booker;1;1;38.0;22.0;0.0;6.0;6.0;4.0;2.0;0.0;2.0;2.0;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Boston Celtics;JaVale McGee;1;1;26.0;21.0;7.0;8.0;15.0;2.0;0.0;2.0;0.0;2.0;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Boston Celtics;Cameron Johnson;2;1;32.5;18.0;2.0;3.5;5.5;0.5;1.5;0.0;1.0;2.0;0.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Boston Celtics;Jae Crowder;1;1;31.0;16.0;0.0;9.0;9.0;2.0;1.0;1.0;2.0;1.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Boston Celtics;Cameron Payne;2;0;22.0;13.0;0.5;2.0;2.5;3.5;0.0;0.0;2.5;2.5;1.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Boston Celtics;Jalen Smith;2;1;24.0;13.0;3.5;4.5;8.0;0.5;0.5;1.5;0.5;4.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Boston Celtics;Chris Paul;2;2;32.0;12.0;1.0;3.0;4.0;10.0;1.5;1.0;1.5;3.0;6.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Boston Celtics;Mikal Bridges;2;2;32.0;12.0;1.5;2.0;3.5;1.5;1.0;1.0;0.5;3.0;3.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Boston Celtics;Landry Shamet;2;1;24.5;7.0;0.0;1.5;1.5;1.5;0.0;0.0;0.5;1.0;3.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Boston Celtics;Elfrid Payton;2;0;10.0;2.5;0.5;0.5;1.0;1.0;1.0;0.5;0.0;0.5;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Boston Celtics;Ish Wainright;2;0;9.5;2.5;0.5;0.0;0.5;0.0;0.0;0.0;1.0;2.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Boston Celtics;Chandler Hutchison;1;0;2.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Boston Celtics;MJ Walker;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Boston Celtics;Emanuel Terry;1;0;11.0;0.0;3.0;3.0;6.0;0.0;0.0;0.0;2.0;1.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Boston Celtics;Total;2;"";"";109.5;14.5;30.5;45.0;22.5;7.0;5.5;10.5;21.0;2.1
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Brooklyn Nets;Devin Booker;2;2;36.5;32.5;0.5;3.0;3.5;3.0;1.0;0.0;2.5;3.5;1.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Brooklyn Nets;Chris Paul;2;2;37.5;21.0;0.0;6.0;6.0;9.5;1.0;0.0;2.0;1.5;4.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Brooklyn Nets;Mikal Bridges;2;2;40.5;20.0;3.5;3.5;7.0;2.5;4.5;0.5;0.5;2.5;5.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Brooklyn Nets;Cameron Johnson;2;0;21.5;12.0;0.0;2.0;2.0;0.0;0.0;0.0;1.0;2.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Brooklyn Nets;Deandre Ayton;2;2;29.5;11.0;0.0;6.0;6.0;0.0;0.5;0.0;3.0;3.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Brooklyn Nets;Landry Shamet;1;0;15.0;8.0;1.0;1.0;2.0;1.0;0.0;0.0;1.0;0.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Brooklyn Nets;JaVale McGee;2;0;15.0;7.5;3.0;4.0;7.0;0.0;0.0;1.5;3.0;2.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Brooklyn Nets;Cameron Payne;1;0;20.0;7.0;0.0;2.0;2.0;3.0;1.0;0.0;0.0;1.0;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Brooklyn Nets;Jae Crowder;2;2;27.5;4.0;1.5;2.5;4.0;2.5;2.0;0.0;0.5;2.5;5.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Brooklyn Nets;Elfrid Payton;1;0;13.0;3.0;0.0;2.0;2.0;4.0;0.0;1.0;1.0;0.0;4.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Brooklyn Nets;Bismack Biyombo;1;0;6.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Brooklyn Nets;Ish Wainright;1;0;8.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Brooklyn Nets;Justin Jackson;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Brooklyn Nets;Jalen Smith;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Brooklyn Nets;Total;2;"";"";117.0;9.0;30.0;39.0;21.5;9.5;2.5;13.5;18.0;1.6
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. New York Knicks;Devin Booker;1;1;35.0;32.0;0.0;1.0;1.0;3.0;1.0;1.0;3.0;0.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. New York Knicks;Cameron Johnson;2;0;28.0;24.0;0.0;2.5;2.5;1.0;0.5;0.0;0.0;2.0;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. New York Knicks;Cameron Payne;2;1;25.0;15.0;0.0;2.5;2.5;11.0;1.0;0.0;2.5;3.5;4.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. New York Knicks;Mikal Bridges;2;2;38.5;15.0;0.5;3.5;4.0;3.5;2.5;0.0;0.5;2.0;7.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. New York Knicks;Chris Paul;1;1;30.0;14.0;0.0;4.0;4.0;10.0;1.0;0.0;2.0;1.0;5.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. New York Knicks;Jae Crowder;2;2;25.5;12.5;0.0;3.5;3.5;0.5;2.5;0.0;1.0;4.5;0.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. New York Knicks;Deandre Ayton;2;2;33.0;11.0;0.0;8.0;8.0;0.5;0.0;0.5;1.0;2.5;0.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. New York Knicks;Aaron Holiday;1;0;15.0;10.0;1.0;1.0;2.0;4.0;0.0;0.0;1.0;2.0;4.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. New York Knicks;Landry Shamet;2;1;24.0;7.0;0.0;1.5;1.5;2.0;0.5;0.0;1.0;1.5;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. New York Knicks;JaVale McGee;2;0;10.0;4.0;0.5;5.0;5.5;0.5;0.5;1.0;0.0;1.5;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. New York Knicks;Bismack Biyombo;1;0;8.0;0.0;0.0;2.0;2.0;1.0;0.0;1.0;1.0;1.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. New York Knicks;Torrey Craig;1;0;16.0;0.0;1.0;2.0;3.0;0.0;0.0;0.0;1.0;2.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. New York Knicks;Ish Wainright;2;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. New York Knicks;Jalen Smith;1;0;2.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. New York Knicks;Total;2;"";"";116.5;2.0;32.0;34.0;28.0;8.5;2.5;10.0;20.5;2.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Devin Booker;2;2;36.0;35.0;0.5;2.5;3.0;2.5;0.5;0.0;1.5;3.0;1.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Chris Paul;2;2;39.0;17.5;0.5;3.5;4.0;13.0;1.5;0.5;3.5;1.5;3.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Mikal Bridges;2;2;41.0;17.0;0.0;4.5;4.5;1.5;0.5;1.0;1.5;0.5;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Philadelphia 76ers;JaVale McGee;1;0;18.0;15.0;7.0;5.0;12.0;2.0;0.0;2.0;0.0;1.0;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Landry Shamet;1;0;17.0;12.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Deandre Ayton;2;2;30.5;12.0;2.0;7.0;9.0;1.0;1.0;0.5;1.5;3.5;0.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Cameron Johnson;1;0;20.0;7.0;0.0;1.0;1.0;1.0;0.0;1.0;0.0;1.0;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Bismack Biyombo;1;0;17.0;6.0;2.0;5.0;7.0;0.0;0.0;2.0;1.0;3.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Elfrid Payton;1;0;16.0;6.0;0.0;1.0;1.0;3.0;1.0;0.0;0.0;2.0;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Cameron Payne;1;0;15.0;5.0;0.0;1.0;1.0;3.0;0.0;0.0;0.0;2.0;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Jae Crowder;2;2;30.0;4.5;0.5;10.5;11.0;3.0;2.0;0.5;0.5;3.5;6.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Torrey Craig;1;0;19.0;3.0;0.0;1.0;1.0;0.0;0.0;0.0;2.0;2.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Jalen Smith;1;0;6.0;2.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Total;2;"";"";114.0;8.0;36.0;44.0;25.5;6.0;5.0;10.0;18.0;2.6
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Toronto Raptors;Devin Booker;2;2;36.5;19.0;0.5;3.5;4.0;5.0;1.0;0.5;3.0;4.5;1.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Toronto Raptors;Jae Crowder;2;2;29.5;16.0;0.0;4.5;4.5;3.0;2.0;0.0;1.0;1.0;3.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Toronto Raptors;Deandre Ayton;2;2;30.0;16.0;2.0;6.0;8.0;1.0;0.0;0.5;1.5;2.0;0.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Toronto Raptors;Chris Paul;1;1;33.0;15.0;0.0;2.0;2.0;12.0;5.0;0.0;2.0;3.0;6.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Toronto Raptors;Mikal Bridges;2;2;39.5;15.0;0.5;4.5;5.0;1.0;0.5;0.5;2.5;2.5;0.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Toronto Raptors;Cameron Payne;2;1;26.0;14.0;0.0;3.5;3.5;3.5;1.0;0.0;2.5;4.0;1.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Toronto Raptors;Aaron Holiday;1;0;11.0;7.0;0.0;1.0;1.0;2.0;1.0;0.0;0.0;0.0;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Toronto Raptors;Jalen Smith;1;0;18.0;7.0;3.0;2.0;5.0;1.0;0.0;1.0;3.0;4.0;0.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Toronto Raptors;Landry Shamet;2;0;17.5;4.0;0.0;1.0;1.0;2.0;0.5;0.0;1.0;1.0;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Toronto Raptors;JaVale McGee;2;0;16.0;3.5;1.5;4.0;5.5;0.5;0.5;2.0;1.5;1.5;0.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Toronto Raptors;Torrey Craig;1;0;14.0;3.0;0.0;1.0;1.0;4.0;0.0;0.0;1.0;2.0;4.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Toronto Raptors;Bismack Biyombo;2;0;7.5;2.0;1.5;2.0;3.5;0.5;0.0;1.0;2.0;2.0;0.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Toronto Raptors;Total;2;"";"";105.5;7.5;32.0;39.5;26.0;8.5;5.0;18.0;23.0;1.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Chicago Bulls;Devin Booker;2;2;35.0;33.0;0.5;3.5;4.0;4.0;0.5;0.0;2.0;2.5;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Chicago Bulls;Chris Paul;1;1;34.0;19.0;0.0;3.0;3.0;11.0;1.0;0.0;4.0;0.0;2.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Chicago Bulls;Deandre Ayton;2;2;23.5;16.5;2.5;8.0;10.5;1.0;0.0;0.5;1.0;4.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Chicago Bulls;Cameron Payne;1;1;30.0;15.0;1.0;1.0;2.0;7.0;0.0;0.0;1.0;0.0;7.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Chicago Bulls;JaVale McGee;2;0;20.0;14.0;3.0;4.5;7.5;0.0;0.0;2.0;1.0;1.5;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Chicago Bulls;Torrey Craig;1;1;31.0;14.0;3.0;6.0;9.0;2.0;2.0;0.0;2.0;5.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Chicago Bulls;Landry Shamet;1;0;27.0;14.0;0.0;2.0;2.0;2.0;0.0;0.0;1.0;2.0;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Chicago Bulls;Mikal Bridges;2;2;36.5;13.0;0.5;4.5;5.0;3.0;0.5;2.0;0.5;3.0;6.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Chicago Bulls;Jae Crowder;1;1;35.0;10.0;0.0;10.0;10.0;6.0;1.0;0.0;1.0;5.0;6.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Chicago Bulls;Aaron Holiday;1;0;6.0;9.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Chicago Bulls;Cameron Johnson;1;0;22.0;6.0;0.0;0.0;0.0;1.0;1.0;0.0;0.0;3.0;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Chicago Bulls;Elfrid Payton;2;0;18.0;4.0;1.0;2.5;3.5;4.0;0.5;0.0;1.0;1.5;4.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Chicago Bulls;Bismack Biyombo;2;0;3.5;3.0;0.5;0.0;0.5;0.0;0.0;0.0;0.0;0.5;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Chicago Bulls;Jalen Smith;1;0;9.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Chicago Bulls;Ish Wainright;2;0;5.0;0.0;0.0;1.0;1.0;0.0;0.5;0.0;0.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Chicago Bulls;Justin Jackson;1;0;1.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Chicago Bulls;Total;2;"";"";128.0;10.0;36.5;46.5;27.0;5.0;4.5;10.5;21.5;2.6
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Devin Booker;2;2;37.0;31.0;1.0;3.0;4.0;6.0;0.5;0.0;4.0;1.5;1.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Chris Paul;2;2;34.5;16.5;0.0;2.0;2.0;11.0;2.0;0.0;2.5;2.5;4.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Deandre Ayton;2;2;26.0;16.5;2.5;8.5;11.0;1.0;2.0;0.0;2.5;3.0;0.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Cameron Johnson;2;0;22.5;12.0;0.5;4.5;5.0;0.5;1.0;0.5;1.0;1.0;0.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;JaVale McGee;2;0;19.5;10.5;2.0;7.5;9.5;1.5;0.5;0.5;0.5;2.5;3.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Mikal Bridges;2;2;32.5;10.5;1.0;4.5;5.5;2.5;0.0;0.5;1.0;4.0;2.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Cameron Payne;1;0;22.0;7.0;0.0;1.0;1.0;2.0;0.0;0.0;1.0;1.0;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Jae Crowder;2;2;31.0;6.5;0.5;5.5;6.0;2.5;1.5;0.5;0.5;1.5;5.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Jalen Smith;1;0;9.0;4.0;2.0;3.0;5.0;0.0;1.0;1.0;1.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Landry Shamet;2;0;17.0;1.5;0.5;1.5;2.0;0.5;0.0;0.0;0.5;1.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Elfrid Payton;1;0;11.0;0.0;0.0;3.0;3.0;0.0;0.0;0.0;1.0;2.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Total;2;"";"";110.5;9.0;40.5;49.5;26.5;8.0;2.5;14.0;18.5;1.9
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Detroit Pistons;Devin Booker;1;1;30.0;30.0;1.0;3.0;4.0;4.0;0.0;0.0;1.0;1.0;4.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Detroit Pistons;Cameron Payne;2;0;26.0;19.5;0.0;5.5;5.5;4.0;0.0;0.5;3.0;1.5;1.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Detroit Pistons;Cameron Johnson;1;0;27.0;19.0;2.0;4.0;6.0;2.0;0.0;1.0;0.0;1.0;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Detroit Pistons;JaVale McGee;2;0;15.0;15.0;2.5;3.5;6.0;0.0;0.0;1.0;2.0;4.5;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Detroit Pistons;Mikal Bridges;2;2;35.5;14.0;1.0;3.0;4.0;2.5;2.0;0.0;2.5;2.5;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Detroit Pistons;Landry Shamet;2;1;28.5;12.5;0.0;1.5;1.5;3.0;0.0;0.5;0.5;4.0;6.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Detroit Pistons;Deandre Ayton;2;2;20.5;11.5;0.5;5.5;6.0;2.0;1.0;0.0;0.5;0.0;4.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Detroit Pistons;Chris Paul;2;2;30.0;11.0;0.0;3.5;3.5;9.0;1.5;0.5;2.5;4.0;3.6
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Detroit Pistons;Bismack Biyombo;1;0;14.0;7.0;1.0;3.0;4.0;0.0;0.0;1.0;1.0;1.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Detroit Pistons;Jae Crowder;2;2;23.5;7.0;0.5;7.0;7.5;1.5;1.0;0.0;1.0;1.0;1.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Detroit Pistons;Ish Wainright;2;0;9.5;3.5;1.0;1.0;2.0;0.5;0.5;0.5;0.0;1.5;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Detroit Pistons;Jalen Smith;1;0;15.0;3.0;2.0;5.0;7.0;0.0;0.0;2.0;1.0;5.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Detroit Pistons;Elfrid Payton;2;0;8.5;1.0;0.0;1.0;1.0;1.0;0.0;0.0;0.5;0.0;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Detroit Pistons;Total;2;"";"";124.5;8.5;39.0;47.5;26.5;6.0;5.0;14.0;23.0;1.9
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Indiana Pacers;Deandre Ayton;1;1;30.0;27.0;5.0;7.0;12.0;1.0;2.0;1.0;3.0;4.0;0.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Indiana Pacers;Devin Booker;2;2;37.0;23.0;1.5;4.0;5.5;3.0;1.0;1.5;2.5;3.0;1.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Indiana Pacers;Bismack Biyombo;1;0;30.0;21.0;6.0;7.0;13.0;5.0;1.0;2.0;2.0;3.0;2.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Indiana Pacers;Chris Paul;2;2;37.0;15.0;0.0;3.5;3.5;12.5;3.0;0.5;4.0;1.0;3.1
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Indiana Pacers;Mikal Bridges;2;2;32.5;13.5;0.0;5.0;5.0;3.0;0.5;0.0;0.5;0.5;6.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Indiana Pacers;JaVale McGee;2;1;17.5;10.0;3.5;4.5;8.0;1.5;0.5;2.0;0.5;2.5;3.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Indiana Pacers;Cameron Payne;2;0;15.5;9.0;0.0;0.5;0.5;4.0;0.0;0.5;0.5;2.5;8.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Indiana Pacers;Cameron Johnson;1;0;25.0;8.0;1.0;3.0;4.0;1.0;0.0;0.0;0.0;3.0;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Indiana Pacers;Landry Shamet;2;0;18.0;8.0;0.5;0.0;0.5;0.0;0.5;0.0;0.0;1.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Indiana Pacers;Jae Crowder;2;2;27.0;6.0;0.0;6.5;6.5;1.0;1.5;0.5;1.0;2.5;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Indiana Pacers;Elfrid Payton;2;0;4.0;0.0;0.0;1.0;1.0;0.5;0.5;0.0;0.0;0.0;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Indiana Pacers;Ish Wainright;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Indiana Pacers;Jalen Smith;1;0;17.0;0.0;3.0;9.0;12.0;0.0;1.0;1.0;2.0;1.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Indiana Pacers;Total;2;"";"";112.5;13.0;38.0;51.0;29.0;9.5;7.0;12.5;18.5;2.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Deandre Ayton;2;2;29.5;28.5;0.5;7.0;7.5;1.5;0.5;0.5;1.0;2.5;1.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Cameron Payne;1;1;36.0;23.0;1.0;1.0;2.0;8.0;0.0;1.0;3.0;2.0;2.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Chris Paul;1;1;37.0;17.0;0.0;7.0;7.0;19.0;2.0;0.0;2.0;1.0;9.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Devin Booker;1;1;34.0;17.0;1.0;3.0;4.0;7.0;1.0;0.0;2.0;4.0;3.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Landry Shamet;1;1;34.0;17.0;0.0;1.0;1.0;5.0;1.0;1.0;0.0;4.0;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Mikal Bridges;2;2;41.0;16.0;0.0;0.5;0.5;4.0;1.5;0.0;1.0;3.0;4.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Cameron Johnson;1;0;26.0;15.0;3.0;5.0;8.0;3.0;2.0;0.0;1.0;1.0;3.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Jae Crowder;2;2;33.5;14.5;1.0;5.5;6.5;4.5;0.0;0.0;0.5;3.0;9.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Milwaukee Bucks;JaVale McGee;2;0;12.0;9.0;1.5;1.0;2.5;0.0;1.5;0.0;1.0;1.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Aaron Holiday;1;0;18.0;8.0;1.0;2.0;3.0;4.0;2.0;0.0;1.0;1.0;4.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Torrey Craig;1;0;21.0;5.0;0.0;4.0;4.0;1.0;1.0;1.0;2.0;3.0;0.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Elfrid Payton;1;0;9.0;5.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Bismack Biyombo;2;0;12.0;4.5;1.5;1.0;2.5;0.0;1.0;0.5;0.5;3.5;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Ish Wainright;1;0;10.0;1.0;0.0;2.0;2.0;1.0;0.0;1.0;0.0;0.0;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Total;2;"";"";126.5;7.5;27.5;35.0;34.0;9.0;3.0;9.5;21.0;3.6
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Atlanta Hawks;Devin Booker;2;2;36.5;35.0;0.5;2.5;3.0;3.5;1.5;0.5;3.0;4.0;1.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Atlanta Hawks;Chris Paul;2;2;37.0;17.0;0.0;5.0;5.0;12.5;2.0;0.5;1.0;3.0;12.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Atlanta Hawks;Frank Kaminsky;1;0;29.0;16.0;0.0;6.0;6.0;4.0;0.0;1.0;1.0;1.0;4.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Atlanta Hawks;Mikal Bridges;2;2;35.5;16.0;1.5;4.0;5.5;3.0;1.5;0.5;1.5;2.5;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Atlanta Hawks;Jae Crowder;2;2;32.5;12.5;1.0;6.0;7.0;0.0;1.0;1.0;0.5;2.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Atlanta Hawks;Landry Shamet;1;0;18.0;12.0;0.0;3.0;3.0;2.0;0.0;0.0;0.0;2.0;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Atlanta Hawks;JaVale McGee;2;1;17.0;9.0;1.0;2.5;3.5;0.0;0.0;1.0;0.5;3.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Atlanta Hawks;Cameron Johnson;2;0;24.5;8.5;0.5;4.5;5.0;0.0;2.0;0.0;0.0;2.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Atlanta Hawks;Deandre Ayton;1;1;24.0;6.0;1.0;8.0;9.0;4.0;1.0;0.0;0.0;1.0;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Atlanta Hawks;Cameron Payne;1;0;13.0;4.0;0.0;1.0;1.0;1.0;1.0;0.0;2.0;3.0;0.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Atlanta Hawks;Abdel Nader;1;0;11.0;2.0;1.0;1.0;2.0;0.0;0.0;0.0;3.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Atlanta Hawks;Elfrid Payton;1;0;10.0;0.0;0.0;2.0;2.0;7.0;1.0;0.0;3.0;0.0;2.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Atlanta Hawks;Ish Wainright;1;0;6.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Atlanta Hawks;Jalen Smith;1;0;4.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Atlanta Hawks;Total;2;"";"";118.0;5.5;35.0;40.5;28.0;9.5;4.0;11.0;21.0;2.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Charlotte Hornets;Devin Booker;2;2;27.5;20.0;0.0;6.5;6.5;4.0;0.5;0.0;2.0;4.0;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Charlotte Hornets;JaVale McGee;1;0;16.0;19.0;1.0;6.0;7.0;1.0;1.0;1.0;2.0;4.0;0.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Charlotte Hornets;Landry Shamet;2;0;23.0;16.0;0.5;1.0;1.5;2.5;2.0;0.0;1.0;1.0;2.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Charlotte Hornets;Mikal Bridges;2;2;28.0;15.5;2.0;2.5;4.5;3.5;0.5;0.0;1.0;0.5;3.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Charlotte Hornets;Deandre Ayton;1;1;24.0;15.0;2.0;13.0;15.0;2.0;0.0;3.0;1.0;1.0;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Charlotte Hornets;Jae Crowder;1;1;21.0;14.0;0.0;6.0;6.0;1.0;0.0;1.0;1.0;2.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Charlotte Hornets;Cameron Johnson;2;1;25.5;13.0;1.0;2.0;3.0;2.0;0.0;0.5;1.0;1.0;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Charlotte Hornets;Cameron Payne;2;0;24.0;12.5;0.0;4.0;4.0;6.0;2.0;1.0;2.5;1.5;2.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Charlotte Hornets;Jalen Smith;2;1;16.0;12.0;2.5;5.0;7.5;0.0;0.0;1.0;0.5;1.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Charlotte Hornets;Bismack Biyombo;1;0;18.0;11.0;3.0;3.0;6.0;1.0;1.0;1.0;0.0;0.0;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Charlotte Hornets;Chris Paul;2;2;25.0;10.5;0.0;4.0;4.0;12.5;1.0;0.0;1.0;2.0;12.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Charlotte Hornets;Paris Bass;1;0;5.0;4.0;1.0;1.0;2.0;0.0;1.0;0.0;2.0;1.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Charlotte Hornets;Elfrid Payton;2;0;15.0;3.0;0.5;1.5;2.0;0.5;1.0;0.0;3.0;2.5;0.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Charlotte Hornets;Ish Wainright;2;0;7.0;1.0;1.0;0.0;1.0;0.5;0.0;0.5;0.5;1.5;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Charlotte Hornets;MJ Walker;1;0;8.0;0.0;0.0;1.0;1.0;1.0;2.0;0.0;0.0;1.0;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Charlotte Hornets;Emanuel Terry;1;0;6.0;0.0;2.0;3.0;5.0;2.0;1.0;0.0;3.0;3.0;0.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Charlotte Hornets;Total;2;"";"";135.0;12.0;43.0;55.0;35.5;10.0;6.0;17.0;21.0;2.1
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Miami Heat;Devin Booker;2;2;33.5;24.5;0.5;5.5;6.0;6.0;2.0;1.0;3.5;3.5;1.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Miami Heat;Mikal Bridges;2;2;32.5;20.5;0.5;4.5;5.0;4.5;0.5;0.5;1.5;1.5;3.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Miami Heat;Deandre Ayton;2;2;31.0;15.5;1.5;7.5;9.0;1.0;0.0;0.5;0.0;1.5;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Miami Heat;Cameron Johnson;1;0;32.0;15.0;0.0;5.0;5.0;2.0;0.0;0.0;0.0;0.0;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Miami Heat;Cameron Payne;2;1;26.5;9.5;1.0;2.0;3.0;7.0;0.5;0.5;2.5;3.5;2.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Miami Heat;Chris Paul;1;1;32.0;9.0;0.0;2.0;2.0;7.0;1.0;0.0;4.0;3.0;1.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Miami Heat;Landry Shamet;1;0;26.0;8.0;1.0;0.0;1.0;1.0;0.0;0.0;1.0;0.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Miami Heat;Jae Crowder;2;2;28.5;7.0;1.0;4.0;5.0;0.5;2.5;0.5;2.0;2.0;0.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Miami Heat;JaVale McGee;2;0;11.0;5.5;3.5;4.5;8.0;0.0;0.5;0.0;1.5;0.5;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Miami Heat;Justin Jackson;1;0;9.0;5.0;1.0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Miami Heat;Aaron Holiday;1;0;15.0;5.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;1.0;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Miami Heat;Bismack Biyombo;1;0;3.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Miami Heat;Jalen Smith;1;0;13.0;2.0;2.0;2.0;4.0;0.0;0.0;0.0;0.0;2.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Miami Heat;Torrey Craig;1;0;16.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;0.0;0.0;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Miami Heat;Elfrid Payton;1;0;3.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;1.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Miami Heat;Ish Wainright;2;0;3.5;0.0;0.0;0.5;0.5;0.0;1.5;0.0;0.5;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Miami Heat;Total;2;"";"";105.5;10.0;35.0;45.0;25.0;9.0;3.0;14.5;16.0;1.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Orlando Magic;Devin Booker;1;1;29.0;26.0;1.0;4.0;5.0;5.0;0.0;1.0;0.0;0.0;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Orlando Magic;Landry Shamet;1;1;39.0;21.0;0.0;3.0;3.0;2.0;0.0;0.0;2.0;2.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Orlando Magic;Deandre Ayton;2;2;30.5;19.0;3.0;11.5;14.5;1.0;0.0;0.0;1.5;2.0;0.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Orlando Magic;Cameron Payne;1;1;35.0;18.0;0.0;6.0;6.0;12.0;2.0;0.0;1.0;2.0;12.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Orlando Magic;Mikal Bridges;2;2;34.0;13.5;0.0;3.5;3.5;1.5;2.0;0.5;1.0;2.0;1.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Orlando Magic;Aaron Holiday;2;0;12.5;10.5;1.0;1.5;2.5;2.0;0.0;0.0;1.0;1.0;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Orlando Magic;Chris Paul;1;1;26.0;10.0;0.0;5.0;5.0;15.0;2.0;0.0;2.0;2.0;7.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Orlando Magic;Torrey Craig;2;0;21.5;10.0;0.5;3.0;3.5;2.5;2.0;1.0;0.5;0.5;5.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Orlando Magic;Elfrid Payton;1;0;22.0;10.0;2.0;4.0;6.0;9.0;1.0;0.0;1.0;2.0;9.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Orlando Magic;Cameron Johnson;1;0;26.0;10.0;1.0;1.0;2.0;1.0;0.0;0.0;0.0;2.0;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Orlando Magic;Jae Crowder;2;2;28.5;9.0;0.0;9.0;9.0;2.5;0.0;0.0;0.5;2.0;5.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Orlando Magic;JaVale McGee;2;0;13.0;6.5;0.5;4.0;4.5;0.5;0.5;1.5;0.5;5.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Orlando Magic;Bismack Biyombo;1;0;7.0;2.0;0.0;2.0;2.0;0.0;0.0;0.0;1.0;3.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Orlando Magic;Ish Wainright;2;0;8.0;0.0;0.0;0.0;0.0;0.0;0.5;0.5;0.0;0.5;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Orlando Magic;Total;2;"";"";117.0;7.0;45.0;52.0;32.0;7.5;4.0;8.5;19.5;3.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Washington Wizards;Deandre Ayton;2;2;24.0;17.5;4.0;9.0;13.0;3.0;1.0;0.5;1.0;0.0;3.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Washington Wizards;Landry Shamet;1;1;31.0;16.0;0.0;0.0;0.0;0.0;2.0;0.0;1.0;3.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Washington Wizards;Chris Paul;2;2;27.0;13.0;0.0;4.5;4.5;7.5;1.5;0.5;2.5;0.5;3.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Washington Wizards;Cameron Johnson;2;0;22.0;12.5;0.5;3.5;4.0;1.5;0.0;0.0;1.0;3.0;1.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Washington Wizards;JaVale McGee;2;0;15.0;11.5;2.5;6.5;9.0;1.5;1.5;1.5;1.0;2.0;1.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Washington Wizards;Mikal Bridges;2;2;27.0;11.5;0.5;3.0;3.5;3.0;1.0;0.5;0.5;1.0;6.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Washington Wizards;Cameron Payne;1;0;23.0;11.0;0.0;3.0;3.0;5.0;1.0;0.0;5.0;6.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Washington Wizards;Devin Booker;1;1;30.0;11.0;1.0;6.0;7.0;5.0;0.0;0.0;1.0;2.0;5.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Washington Wizards;Jae Crowder;2;2;24.5;8.5;0.5;5.0;5.5;0.0;0.0;0.5;0.5;1.5;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Washington Wizards;Jalen Smith;2;0;20.5;7.0;3.0;1.5;4.5;1.0;0.0;1.0;1.5;3.0;0.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Washington Wizards;Elfrid Payton;2;0;21.0;3.5;0.5;2.0;2.5;2.0;0.0;0.0;2.5;1.0;0.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Washington Wizards;Ish Wainright;2;0;7.5;2.0;1.0;0.0;1.0;0.0;0.5;0.0;0.0;0.5;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Washington Wizards;Bismack Biyombo;1;0;10.0;1.0;3.0;3.0;6.0;0.0;1.0;0.0;1.0;2.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Washington Wizards;Justin Jackson;1;0;9.0;0.0;0.0;0.0;0.0;2.0;0.0;0.0;0.0;1.0;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Washington Wizards;Total;2;"";"";106.5;14.5;41.0;55.5;25.5;7.5;4.5;14.5;19.5;1.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Denver Nuggets;Devin Booker;3;3;32.3;26.0;0.3;3.7;4.0;7.0;1.7;0.3;2.0;2.3;3.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Denver Nuggets;Deandre Ayton;3;3;30.3;17.3;2.7;4.3;7.0;1.0;1.0;0.7;2.0;3.3;0.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Denver Nuggets;Cameron Johnson;2;0;23.5;16.5;0.5;1.0;1.5;1.5;1.0;0.0;0.5;2.0;3.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Denver Nuggets;Mikal Bridges;3;3;35.0;15.3;0.3;3.7;4.0;2.0;0.7;0.3;0.3;1.0;6.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Denver Nuggets;Chris Paul;3;3;29.3;13.7;0.7;3.0;3.7;11.0;1.0;0.7;2.0;2.0;5.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Denver Nuggets;Jae Crowder;3;3;25.7;9.7;0.3;5.7;6.0;1.3;0.7;0.3;1.3;2.3;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Denver Nuggets;Cameron Payne;3;0;18.0;9.7;0.7;2.0;2.7;3.7;0.7;0.3;1.7;2.3;2.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Denver Nuggets;Torrey Craig;1;0;19.0;8.0;1.0;1.0;2.0;1.0;1.0;0.0;0.0;1.0;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Denver Nuggets;JaVale McGee;3;0;13.3;6.3;0.7;3.7;4.3;0.0;0.0;0.3;2.0;3.3;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Denver Nuggets;Landry Shamet;3;0;20.7;6.3;1.3;2.3;3.7;0.7;0.7;0.0;0.0;0.7;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Denver Nuggets;Jalen Smith;1;0;6.0;4.0;1.0;4.0;5.0;0.0;0.0;0.0;0.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Denver Nuggets;Bismack Biyombo;1;0;5.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Denver Nuggets;Elfrid Payton;1;0;8.0;2.0;0.0;2.0;2.0;2.0;0.0;0.0;0.0;0.0;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Denver Nuggets;Ish Wainright;1;0;5.0;2.0;1.0;1.0;2.0;1.0;0.0;0.0;1.0;1.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Denver Nuggets;Abdel Nader;1;0;13.0;0.0;1.0;2.0;3.0;1.0;1.0;0.0;1.0;2.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Denver Nuggets;Chandler Hutchison;1;0;2.0;0.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;0.0;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Denver Nuggets;Total;3;"";"";121.3;8.7;33.0;41.7;29.7;7.7;3.0;12.3;20.3;2.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Devin Booker;3;3;35.7;28.7;0.7;3.0;3.7;7.0;1.3;0.0;1.3;3.0;5.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Deandre Ayton;2;2;34.0;28.5;7.0;6.0;13.0;2.0;0.5;0.5;2.5;3.0;0.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Chris Paul;2;2;35.5;21.0;0.5;6.0;6.5;11.0;1.0;0.5;2.5;1.5;4.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Cameron Johnson;2;1;29.5;15.0;0.5;4.0;4.5;2.5;1.5;0.0;1.5;2.5;1.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Landry Shamet;3;0;21.0;14.0;0.3;2.3;2.7;2.0;0.3;0.3;1.0;0.3;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Mikal Bridges;3;3;37.7;13.7;1.0;4.0;5.0;2.0;0.7;0.0;0.7;1.3;3.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Jalen Smith;1;0;16.0;10.0;0.0;4.0;4.0;0.0;0.0;1.0;1.0;6.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Bismack Biyombo;2;1;16.5;7.0;2.0;4.5;6.5;0.0;0.0;0.0;1.0;3.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Cameron Payne;2;1;23.0;6.5;0.5;3.0;3.5;5.5;0.0;0.5;0.5;2.5;11.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Torrey Craig;1;0;26.0;5.0;0.0;5.0;5.0;4.0;1.0;0.0;0.0;2.0;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Jae Crowder;2;2;26.5;3.5;1.0;4.0;5.0;1.5;1.5;1.0;2.0;4.5;0.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Frank Kaminsky;1;0;4.0;3.0;1.0;2.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;JaVale McGee;2;0;10.0;2.0;1.0;3.5;4.5;0.5;0.0;3.0;2.0;2.5;0.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Aaron Holiday;1;0;9.0;2.0;1.0;2.0;3.0;1.0;0.0;0.0;1.0;0.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Ish Wainright;2;0;5.5;1.0;0.5;1.5;2.0;0.0;0.0;0.0;0.5;2.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Elfrid Payton;2;0;6.0;0.0;0.5;0.5;1.0;1.0;0.0;0.0;1.0;0.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Abdel Nader;1;0;9.0;0.0;0.0;2.0;2.0;1.0;1.0;0.0;1.0;0.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Total;3;"";"";119.3;11.7;36.3;48.0;29.0;6.0;4.3;13.0;21.7;2.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Devin Booker;3;3;36.3;31.0;1.0;5.3;6.3;8.0;2.7;1.0;2.3;1.7;3.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Cameron Johnson;4;3;27.5;17.0;1.5;4.3;5.8;3.0;1.0;0.3;1.3;2.5;2.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Deandre Ayton;2;2;30.5;12.5;2.0;8.0;10.0;1.5;1.0;1.5;3.0;3.0;0.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Chris Paul;3;3;31.3;12.3;0.7;3.3;4.0;7.0;2.7;0.0;2.0;3.0;3.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Mikal Bridges;4;4;30.8;12.3;1.0;3.8;4.8;1.5;0.8;0.3;1.0;2.0;1.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Jae Crowder;2;2;28.5;12.0;0.0;5.0;5.0;2.5;3.0;1.0;1.5;2.0;1.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Jalen Smith;1;0;25.0;11.0;5.0;9.0;14.0;0.0;1.0;2.0;2.0;1.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Cameron Payne;3;0;21.7;9.7;0.7;2.3;3.0;4.7;1.0;0.7;0.7;1.0;7.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;JaVale McGee;4;2;20.3;8.8;1.3;5.0;6.3;0.3;0.3;1.3;2.0;2.5;0.1
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Landry Shamet;4;1;24.5;7.5;0.5;3.0;3.5;0.8;0.5;0.5;0.5;0.5;1.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Bismack Biyombo;1;0;22.0;7.0;1.0;5.0;6.0;2.0;0.0;1.0;0.0;2.0;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Aaron Holiday;2;0;15.0;6.0;0.0;1.0;1.0;2.5;0.5;0.0;1.0;1.0;2.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Torrey Craig;2;0;21.0;5.5;0.5;2.0;2.5;0.5;1.5;1.5;1.0;1.5;0.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Elfrid Payton;2;0;8.5;5.0;0.0;1.0;1.0;1.5;0.0;0.0;1.0;0.5;1.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Ish Wainright;2;0;6.5;3.5;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Chandler Hutchison;1;0;8.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;1.0;0.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Emanuel Terry;1;0;1.0;0.0;3.0;1.0;4.0;0.0;0.0;0.0;0.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Gabriel Lundberg;1;0;4.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;1.0;0.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Total;4;"";"";112.0;9.5;36.5;46.0;25.5;11.0;6.3;13.3;16.5;1.9
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Deandre Ayton;3;3;32.0;18.0;2.0;6.0;8.0;1.0;1.0;0.3;1.7;2.7;0.6
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Frank Kaminsky;2;0;20.5;16.5;2.0;4.0;6.0;1.5;0.0;0.5;1.0;1.0;1.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Devin Booker;2;2;33.0;16.5;0.5;5.5;6.0;5.0;1.5;0.0;2.0;1.5;2.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Chris Paul;3;3;34.3;16.3;0.3;4.3;4.7;10.7;1.3;0.3;2.0;2.0;5.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Torrey Craig;1;0;23.0;13.0;0.0;4.0;4.0;1.0;1.0;0.0;3.0;0.0;0.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Mikal Bridges;4;4;32.0;11.8;0.3;1.5;1.8;2.5;0.8;0.3;0.3;1.3;10.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Jae Crowder;4;4;29.5;11.3;0.8;4.0;4.8;2.3;2.3;0.0;2.0;2.5;1.1
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Cameron Johnson;4;0;23.3;10.8;0.0;3.8;3.8;1.8;0.8;0.3;0.3;0.8;7.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Cameron Payne;3;1;23.3;10.3;0.7;1.3;2.0;4.7;1.0;0.7;1.3;3.0;3.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Aaron Holiday;1;0;28.0;9.0;1.0;2.0;3.0;9.0;1.0;0.0;4.0;3.0;2.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Portland Trail Blazers;JaVale McGee;4;1;12.5;8.8;1.5;5.5;7.0;0.5;0.0;1.0;0.8;3.5;0.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Landry Shamet;3;2;21.0;8.0;0.7;2.0;2.7;2.0;0.3;0.0;1.3;3.3;1.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Elfrid Payton;3;0;12.7;5.3;0.3;1.3;1.7;2.7;0.3;0.0;1.3;0.7;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Abdel Nader;2;0;14.0;5.0;1.0;1.5;2.5;0.5;0.5;0.5;0.0;1.5;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Jalen Smith;1;0;10.0;5.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;2.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Bismack Biyombo;1;0;9.0;3.0;1.0;3.0;4.0;1.0;0.0;1.0;1.0;1.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Ish Wainright;1;0;15.0;3.0;0.0;3.0;3.0;0.0;0.0;0.0;0.0;2.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Chandler Hutchison;1;0;6.0;2.0;0.0;2.0;2.0;0.0;0.0;0.0;2.0;1.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Total;4;"";"";113.8;7.8;35.3;43.0;29.0;8.3;3.3;13.0;21.0;2.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Utah Jazz;Devin Booker;4;4;38.8;34.8;0.8;6.8;7.5;4.3;1.3;0.5;2.5;3.0;1.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Utah Jazz;Chris Paul;3;3;38.3;21.3;0.7;5.3;6.0;11.3;1.0;0.0;3.7;2.7;3.1
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Utah Jazz;Deandre Ayton;2;2;34.5;21.0;3.5;5.0;8.5;3.0;1.0;2.0;1.0;3.5;3.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Utah Jazz;Cameron Johnson;4;3;33.0;14.3;1.0;4.5;5.5;1.8;1.5;0.3;0.5;1.8;3.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Utah Jazz;Bismack Biyombo;2;1;30.5;14.0;3.0;6.5;9.5;0.5;0.5;1.5;0.0;3.0;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Utah Jazz;Jae Crowder;2;2;30.0;10.5;0.0;5.5;5.5;2.0;2.0;0.5;0.5;3.5;4.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Utah Jazz;Mikal Bridges;4;4;38.0;10.0;1.0;3.0;4.0;3.0;1.0;0.3;0.3;2.5;12.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Utah Jazz;Jalen Smith;1;0;19.0;8.0;3.0;4.0;7.0;0.0;1.0;2.0;3.0;3.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Utah Jazz;JaVale McGee;3;1;14.7;5.3;4.0;3.3;7.3;0.3;0.0;1.7;2.3;3.0;0.1
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Utah Jazz;Torrey Craig;2;0;12.5;4.0;1.0;1.0;2.0;0.0;0.0;0.0;0.5;0.5;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Utah Jazz;Elfrid Payton;2;0;11.5;3.0;1.0;1.0;2.0;1.5;1.0;0.5;0.0;0.5;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Utah Jazz;Ish Wainright;2;0;10.5;3.0;1.5;0.0;1.5;0.0;0.5;0.0;0.0;1.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Utah Jazz;Aaron Holiday;2;0;15.5;2.5;0.0;0.5;0.5;1.5;0.5;0.0;2.0;1.0;0.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Utah Jazz;Landry Shamet;4;0;13.3;1.3;0.0;0.8;0.8;1.3;0.0;0.0;0.3;1.5;5.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Utah Jazz;Total;4;"";"";111.3;12.0;32.3;44.3;23.3;7.5;5.0;10.8;20.3;2.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Golden State Warriors;Deandre Ayton;4;4;33.0;20.3;3.8;6.3;10.0;1.3;0.5;1.3;2.3;1.0;0.6
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Golden State Warriors;Chris Paul;4;4;35.5;15.8;0.8;3.8;4.5;8.8;1.8;0.0;2.8;2.0;3.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Golden State Warriors;Devin Booker;3;3;31.0;15.0;0.7;2.7;3.3;2.0;0.7;0.0;1.0;2.7;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Golden State Warriors;Cameron Johnson;3;0;27.7;12.3;0.3;3.0;3.3;2.0;0.7;0.3;1.0;0.7;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Golden State Warriors;Mikal Bridges;4;4;37.5;12.0;1.0;3.3;4.3;1.8;1.5;0.3;1.3;1.0;1.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Golden State Warriors;Jae Crowder;4;4;31.3;10.8;0.0;5.3;5.3;2.0;1.8;0.3;0.3;2.8;8.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Golden State Warriors;Landry Shamet;4;1;19.8;7.5;0.0;1.5;1.5;2.0;0.5;0.0;0.3;1.0;8.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Golden State Warriors;JaVale McGee;3;0;10.0;7.3;2.0;3.3;5.3;0.0;0.3;0.3;1.7;1.3;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Golden State Warriors;Jalen Smith;1;0;3.0;7.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Golden State Warriors;Cameron Payne;4;0;18.8;6.5;0.5;2.0;2.5;3.0;0.0;0.3;3.0;2.8;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Golden State Warriors;Torrey Craig;1;0;18.0;6.0;1.0;2.0;3.0;0.0;3.0;0.0;0.0;4.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Golden State Warriors;Bismack Biyombo;1;0;9.0;2.0;4.0;0.0;4.0;0.0;0.0;0.0;2.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Golden State Warriors;Elfrid Payton;2;0;5.5;2.0;0.0;0.0;0.0;2.0;1.0;0.0;0.5;0.0;4.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Golden State Warriors;Ish Wainright;1;0;9.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;3.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Golden State Warriors;Total;4;"";"";103.5;9.5;29.5;39.0;22.8;8.8;2.5;13.3;15.8;1.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. LA Clippers;Jalen Smith;1;1;33.0;19.0;8.0;6.0;14.0;1.0;0.0;0.0;1.0;4.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. LA Clippers;Devin Booker;2;2;35.0;18.5;2.5;4.0;6.5;4.0;1.5;0.5;3.0;2.5;1.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. LA Clippers;Cameron Johnson;4;2;30.8;14.3;0.8;4.0;4.8;2.0;1.5;0.8;0.8;2.0;2.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. LA Clippers;Chris Paul;3;3;34.3;13.3;1.0;5.7;6.7;10.7;2.0;0.3;2.0;2.0;5.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. LA Clippers;Mikal Bridges;4;4;31.8;13.0;1.5;3.3;4.8;0.8;1.3;0.0;0.8;1.5;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. LA Clippers;Deandre Ayton;1;1;30.0;12.0;3.0;9.0;12.0;1.0;1.0;1.0;1.0;1.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. LA Clippers;Cameron Payne;3;1;22.7;11.7;1.0;3.3;4.3;4.0;0.7;0.7;3.0;1.0;1.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. LA Clippers;Ish Wainright;3;0;17.0;10.7;3.0;2.0;5.0;2.0;1.0;0.0;0.0;2.3;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. LA Clippers;Aaron Holiday;2;0;14.5;9.5;1.5;2.5;4.0;4.5;0.5;0.0;1.0;2.0;4.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. LA Clippers;JaVale McGee;3;2;20.0;9.0;2.0;5.3;7.3;0.7;0.0;0.3;1.7;2.3;0.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. LA Clippers;Justin Jackson;1;0;6.0;8.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;1.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. LA Clippers;Bismack Biyombo;2;0;21.5;7.0;2.0;5.5;7.5;1.0;0.5;2.0;0.0;1.5;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. LA Clippers;Landry Shamet;2;2;27.0;7.0;0.5;1.5;2.0;1.0;0.5;0.0;1.0;2.5;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. LA Clippers;Jae Crowder;2;2;27.5;5.5;1.0;3.0;4.0;1.0;2.0;1.0;0.0;3.0;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. LA Clippers;Torrey Craig;2;0;17.5;5.5;1.5;5.0;6.5;0.0;0.5;0.0;1.5;3.5;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. LA Clippers;Elfrid Payton;4;0;14.3;4.5;0.8;1.5;2.3;2.5;0.0;0.3;1.0;1.0;2.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. LA Clippers;Gabriel Lundberg;1;0;12.0;3.0;1.0;1.0;2.0;5.0;1.0;0.0;1.0;3.0;5.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. LA Clippers;Paris Bass;1;0;2.0;2.0;1.0;1.0;2.0;0.0;0.0;0.0;0.0;1.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. LA Clippers;Chandler Hutchison;1;0;3.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. LA Clippers;Total;4;"";"";103.3;16.0;36.5;52.5;25.8;8.8;4.0;11.5;20.3;2.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Devin Booker;4;4;31.8;27.0;0.8;5.0;5.8;6.3;1.5;0.0;3.0;2.8;2.1
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Deandre Ayton;4;4;28.3;18.0;3.5;10.3;13.8;2.0;1.3;0.5;0.8;2.3;2.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Mikal Bridges;4;4;31.3;15.8;1.3;3.8;5.0;2.3;1.8;0.8;0.3;1.5;9.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Chris Paul;3;3;27.3;13.3;0.7;3.3;4.0;11.7;1.7;0.0;2.7;2.0;4.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Cameron Johnson;3;0;23.3;11.3;1.0;4.0;5.0;1.7;1.3;0.0;1.0;2.7;1.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Torrey Craig;2;0;18.5;10.0;1.5;3.5;5.0;0.0;0.0;0.5;1.5;3.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Los Angeles Lakers;JaVale McGee;4;0;13.8;9.5;1.0;5.3;6.3;0.5;0.3;1.3;0.5;2.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Jae Crowder;4;4;28.3;8.8;0.8;3.0;3.8;2.0;1.0;0.8;0.5;2.8;4.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Cameron Payne;4;1;22.0;6.8;0.0;3.8;3.8;7.8;1.0;0.0;1.5;1.8;5.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Elfrid Payton;1;0;8.0;6.0;0.0;0.0;0.0;1.0;0.0;0.0;1.0;0.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Aaron Holiday;2;0;12.5;6.0;0.5;1.5;2.0;2.5;2.0;0.0;1.0;1.0;2.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Landry Shamet;4;0;18.0;5.3;0.0;0.8;0.8;0.8;0.3;0.0;0.3;1.0;3.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Abdel Nader;1;0;9.0;4.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;0.0;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Bismack Biyombo;2;0;8.0;1.5;0.5;1.5;2.0;0.0;0.0;0.5;1.0;2.5;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Ish Wainright;3;0;5.3;0.3;0.3;0.3;0.7;0.3;0.0;0.0;1.0;1.0;0.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Jalen Smith;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Gabriel Lundberg;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Total;4;"";"";121.0;10.0;41.0;51.0;33.5;10.3;3.8;12.5;21.5;2.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Sacramento Kings;Devin Booker;3;3;35.3;26.7;1.3;6.0;7.3;6.3;1.3;0.0;2.7;4.7;2.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Sacramento Kings;Cameron Payne;1;0;22.0;24.0;0.0;4.0;4.0;3.0;1.0;0.0;4.0;1.0;0.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Sacramento Kings;Deandre Ayton;2;2;30.5;16.5;3.0;12.5;15.5;1.5;0.5;0.5;1.5;3.5;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Sacramento Kings;Landry Shamet;4;1;24.5;15.3;0.0;2.3;2.3;1.8;0.5;0.5;0.5;1.3;3.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Sacramento Kings;Mikal Bridges;4;4;31.0;14.5;0.5;2.0;2.5;1.3;1.0;1.0;1.0;1.8;1.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Sacramento Kings;Chris Paul;2;2;28.0;11.0;1.5;3.0;4.5;6.5;2.5;0.0;1.5;1.5;4.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Sacramento Kings;Frank Kaminsky;1;0;22.0;10.0;1.0;4.0;5.0;0.0;1.0;1.0;1.0;5.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Sacramento Kings;Gabriel Lundberg;1;0;27.0;10.0;1.0;4.0;5.0;5.0;2.0;0.0;0.0;4.0;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Sacramento Kings;JaVale McGee;4;2;20.0;9.5;3.5;6.0;9.5;1.5;0.3;1.5;2.0;3.0;0.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Sacramento Kings;Aaron Holiday;2;1;28.0;9.5;2.0;3.0;5.0;6.0;1.0;0.0;2.0;3.5;3.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Sacramento Kings;Ish Wainright;2;0;16.0;7.5;1.0;0.5;1.5;0.0;2.0;0.0;0.0;3.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Sacramento Kings;Bismack Biyombo;2;0;17.0;7.0;1.0;3.5;4.5;0.5;0.0;1.0;0.5;3.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Sacramento Kings;Jae Crowder;3;3;27.0;7.0;0.3;2.3;2.7;3.0;2.0;0.7;0.3;2.3;9.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Sacramento Kings;Torrey Craig;2;0;29.0;7.0;2.0;4.5;6.5;3.0;1.0;1.0;1.5;2.0;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Sacramento Kings;Cameron Johnson;3;1;22.7;5.0;0.3;3.0;3.3;2.0;0.3;1.0;1.0;1.0;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Sacramento Kings;Elfrid Payton;3;1;14.3;4.3;0.7;1.3;2.0;2.0;1.3;0.7;2.0;0.3;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Sacramento Kings;Abdel Nader;2;0;8.5;2.5;0.0;1.0;1.0;1.0;0.5;1.0;0.5;0.0;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Sacramento Kings;Total;4;"";"";113.0;11.8;36.8;48.5;25.8;10.3;6.8;13.0;23.0;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Dallas Mavericks;Devin Booker;3;3;34.7;23.7;0.3;4.7;5.0;2.3;0.0;0.3;2.3;1.7;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Dallas Mavericks;Chris Paul;3;3;35.7;15.0;0.0;4.7;4.7;13.0;1.7;0.3;1.7;2.3;7.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Dallas Mavericks;Mikal Bridges;3;3;36.7;13.7;1.3;4.0;5.3;3.7;2.7;0.7;0.3;1.7;11.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Dallas Mavericks;Deandre Ayton;2;2;32.5;13.5;2.5;12.5;15.0;2.0;0.5;1.0;1.0;2.5;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Dallas Mavericks;JaVale McGee;3;1;15.3;10.7;2.3;3.0;5.3;0.7;0.3;1.0;1.3;1.7;0.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Dallas Mavericks;Jae Crowder;3;3;29.0;10.7;0.0;2.7;2.7;0.3;1.7;0.3;0.7;2.0;0.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Dallas Mavericks;Bismack Biyombo;1;0;28.0;9.0;2.0;2.0;4.0;1.0;2.0;0.0;2.0;3.0;0.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Dallas Mavericks;Cameron Payne;3;0;15.3;8.7;0.7;2.7;3.3;2.0;0.7;0.3;1.0;1.0;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Dallas Mavericks;Cameron Johnson;3;0;21.3;8.7;0.3;5.3;5.7;1.3;0.3;0.0;0.7;1.7;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Dallas Mavericks;Landry Shamet;3;0;16.0;5.7;0.0;2.7;2.7;1.7;0.3;0.3;0.3;1.3;5.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Dallas Mavericks;Abdel Nader;2;0;6.5;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.5;2.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Dallas Mavericks;Ish Wainright;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Dallas Mavericks;Chandler Hutchison;1;0;1.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Dallas Mavericks;Jalen Smith;1;0;1.0;0.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Dallas Mavericks;Total;3;"";"";108.7;7.7;39.7;47.3;26.7;8.7;4.0;10.3;17.3;2.6
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Houston Rockets;Devin Booker;4;4;36.3;28.3;0.3;5.0;5.3;5.8;1.5;1.0;2.0;2.0;2.9
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Houston Rockets;Deandre Ayton;3;3;28.0;20.7;4.0;6.3;10.3;0.0;0.3;1.0;1.3;4.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Houston Rockets;Mikal Bridges;4;4;36.0;18.3;0.8;4.0;4.8;1.3;0.8;0.3;0.5;0.8;2.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Houston Rockets;Torrey Craig;2;1;28.5;15.0;2.0;7.0;9.0;1.5;0.0;2.0;0.5;3.5;3.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Houston Rockets;Cameron Johnson;3;0;27.3;12.0;0.3;4.0;4.3;1.7;1.0;0.0;0.0;0.7;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Houston Rockets;JaVale McGee;4;1;16.8;11.8;3.3;4.3;7.5;0.3;0.3;1.8;0.8;1.8;0.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Houston Rockets;Chris Paul;3;3;27.7;11.7;0.0;2.7;2.7;7.7;4.7;0.7;2.3;2.0;3.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Houston Rockets;Landry Shamet;3;0;17.3;10.7;0.3;0.3;0.7;2.3;0.7;0.3;1.0;1.0;2.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Houston Rockets;Cameron Payne;2;1;25.0;9.5;1.0;3.5;4.5;7.5;1.0;0.0;2.5;2.5;3.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Houston Rockets;Jae Crowder;3;3;24.3;5.3;1.0;3.3;4.3;1.0;1.3;1.0;0.7;3.0;1.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Houston Rockets;Aaron Holiday;2;0;18.0;4.5;0.0;2.5;2.5;6.0;1.0;0.0;1.5;1.5;4.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Houston Rockets;Frank Kaminsky;2;0;14.5;4.0;1.5;1.5;3.0;1.0;1.0;0.5;0.0;1.5;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Houston Rockets;Bismack Biyombo;1;0;6.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Houston Rockets;Elfrid Payton;3;0;5.7;2.0;0.7;1.3;2.0;2.3;0.3;0.0;0.7;1.3;3.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Houston Rockets;Abdel Nader;2;0;12.0;1.5;0.0;3.0;3.0;0.0;1.0;0.0;1.0;4.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Houston Rockets;Ish Wainright;1;0;9.0;0.0;0.0;1.0;1.0;1.0;0.0;0.0;1.0;1.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Houston Rockets;Total;4;"";"";122.8;11.3;36.0;47.3;26.8;10.8;6.5;11.0;20.3;2.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Devin Booker;3;3;33.3;29.3;0.3;3.3;3.7;5.0;0.7;0.7;3.0;2.3;1.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Mikal Bridges;3;3;31.3;13.7;0.3;1.3;1.7;1.7;1.7;0.3;1.0;2.0;1.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Jae Crowder;2;2;26.5;12.5;0.0;3.0;3.0;1.0;0.5;1.0;0.5;3.0;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Chris Paul;3;3;31.7;12.0;0.0;3.7;3.7;12.0;3.7;0.0;2.3;2.3;5.1
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Cameron Payne;3;0;20.7;12.0;0.3;3.0;3.3;3.3;0.7;0.3;0.7;2.0;5.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Cameron Johnson;3;1;25.7;10.7;0.3;5.0;5.3;0.3;0.7;0.0;2.0;1.7;0.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Abdel Nader;1;0;18.0;10.0;0.0;4.0;4.0;1.0;2.0;1.0;1.0;3.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Deandre Ayton;1;1;25.0;9.0;0.0;12.0;12.0;1.0;0.0;0.0;2.0;4.0;0.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Frank Kaminsky;1;0;27.0;8.0;1.0;5.0;6.0;1.0;1.0;2.0;0.0;1.0;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Memphis Grizzlies;JaVale McGee;3;2;20.0;7.7;1.7;5.7;7.3;1.0;0.7;0.7;1.7;3.7;0.6
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Jalen Smith;2;0;17.0;7.5;3.0;2.0;5.0;0.0;0.5;0.0;1.0;1.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Landry Shamet;3;0;18.0;6.0;0.0;1.7;1.7;1.7;0.3;0.0;0.3;0.7;5.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Torrey Craig;1;0;11.0;3.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;1.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Elfrid Payton;1;0;9.0;2.0;0.0;2.0;2.0;0.0;1.0;0.0;1.0;2.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Total;3;"";"";115.3;5.3;34.7;40.0;26.7;10.3;4.0;13.3;21.0;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Devin Booker;4;4;33.3;27.0;0.5;5.8;6.3;5.0;1.0;0.8;3.5;2.8;1.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Deandre Ayton;2;2;27.5;19.0;1.0;4.0;5.0;1.5;1.0;1.5;1.5;3.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Mikal Bridges;4;4;39.8;18.3;0.8;2.3;3.0;2.5;0.5;0.5;1.3;3.3;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Frank Kaminsky;1;0;29.0;17.0;1.0;2.0;3.0;3.0;4.0;1.0;1.0;2.0;3.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. New Orleans Pelicans;JaVale McGee;3;1;17.0;13.0;2.0;2.3;4.3;0.3;0.0;0.3;1.7;3.3;0.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Cameron Johnson;3;2;28.3;13.0;0.7;3.0;3.7;0.3;1.0;0.3;0.3;2.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Chris Paul;2;2;35.5;12.5;0.0;6.0;6.0;16.5;0.5;0.5;3.5;2.0;4.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Jalen Smith;1;1;16.0;12.0;1.0;4.0;5.0;1.0;0.0;1.0;1.0;4.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Jae Crowder;3;3;28.0;11.3;0.0;5.3;5.3;4.0;0.7;0.0;0.3;2.0;12.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Cameron Payne;2;1;24.0;9.0;0.5;2.0;2.5;6.5;1.5;0.0;1.5;1.0;4.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Torrey Craig;2;0;26.5;6.5;1.5;4.5;6.0;2.0;1.0;1.5;1.5;2.5;1.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Bismack Biyombo;3;0;12.0;5.3;0.7;1.7;2.3;1.3;0.7;1.0;0.0;2.3;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Landry Shamet;3;0;16.3;4.7;0.0;2.0;2.0;1.3;0.0;0.0;0.7;1.0;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Ish Wainright;3;0;5.7;3.7;0.0;0.7;0.7;0.7;0.3;0.0;0.0;1.0;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Elfrid Payton;4;0;10.3;2.3;0.3;1.8;2.0;2.0;0.5;0.0;0.5;1.3;4.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Aaron Holiday;1;0;22.0;2.0;1.0;5.0;6.0;3.0;2.0;0.0;1.0;2.0;3.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Abdel Nader;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Justin Jackson;1;0;8.0;0.0;0.0;2.0;2.0;0.0;0.0;0.0;1.0;1.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Total;4;"";"";117.0;6.3;32.5;38.8;30.5;7.5;4.8;12.8;22.5;2.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. San Antonio Spurs;Devin Booker;3;3;35.7;33.0;0.3;3.7;4.0;3.7;1.3;0.0;2.3;2.3;1.6
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. San Antonio Spurs;Deandre Ayton;2;2;34.0;17.5;4.0;7.5;11.5;3.5;0.5;0.5;3.5;1.5;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. San Antonio Spurs;Chris Paul;4;4;34.5;17.0;0.0;3.8;3.8;11.3;1.3;1.0;2.0;1.8;5.6
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. San Antonio Spurs;Bismack Biyombo;2;1;23.5;13.5;7.0;5.5;12.5;1.5;0.5;0.5;1.0;2.0;1.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. San Antonio Spurs;Cameron Payne;3;0;20.3;12.7;0.3;2.3;2.7;3.7;0.7;0.0;0.7;0.7;5.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. San Antonio Spurs;Jae Crowder;3;3;27.0;11.0;0.7;4.0;4.7;0.7;1.3;0.3;0.7;4.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. San Antonio Spurs;Mikal Bridges;4;4;36.8;11.0;1.8;5.3;7.0;2.3;1.0;0.8;0.5;2.0;4.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. San Antonio Spurs;JaVale McGee;4;1;16.3;9.5;2.5;5.0;7.5;0.8;0.3;0.3;1.3;1.8;0.6
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. San Antonio Spurs;Cameron Johnson;4;1;27.0;8.8;0.3;2.3;2.5;1.8;1.0;0.3;0.8;2.0;2.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. San Antonio Spurs;Landry Shamet;4;1;20.3;6.5;0.0;2.0;2.0;2.3;0.5;0.0;0.8;1.5;3.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. San Antonio Spurs;Ish Wainright;3;0;9.3;3.3;1.0;0.7;1.7;0.3;0.3;0.7;1.0;1.0;0.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. San Antonio Spurs;Elfrid Payton;3;0;9.3;2.0;0.7;1.3;2.0;1.3;0.7;0.0;0.3;0.3;4.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. San Antonio Spurs;Jalen Smith;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;vs. San Antonio Spurs;Total;4;"";"";114.8;12.3;33.8;46.0;28.0;7.8;3.5;11.3;17.0;2.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;October;Devin Booker;5;5;32.8;22.6;1.4;3.2;4.6;5.8;0.8;0.0;2.2;2.4;2.6
+Phoenix Suns;phx;2021 - 2022 Regular Season;October;Mikal Bridges;5;5;31.6;15.2;0.6;3.8;4.4;1.6;0.8;0.8;1.4;2.4;1.1
+Phoenix Suns;phx;2021 - 2022 Regular Season;October;Deandre Ayton;5;5;29.8;13.8;2.6;8.8;11.4;1.4;1.4;0.6;1.2;1.8;1.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;October;Chris Paul;5;5;31.0;12.8;1.0;2.8;3.8;10.6;2.2;0.2;2.4;2.0;4.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;October;JaVale McGee;5;0;14.4;8.4;0.8;6.0;6.8;0.2;0.0;0.4;1.6;1.8;0.1
+Phoenix Suns;phx;2021 - 2022 Regular Season;October;Elfrid Payton;3;0;16.3;8.0;0.7;2.0;2.7;2.7;0.3;0.0;1.7;1.3;1.6
+Phoenix Suns;phx;2021 - 2022 Regular Season;October;Jae Crowder;5;5;29.6;7.6;0.6;4.8;5.4;1.4;1.2;0.4;1.0;2.0;1.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;October;Cameron Payne;2;0;16.5;7.0;0.5;2.0;2.5;3.5;0.5;0.0;2.0;1.5;1.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;October;Cameron Johnson;5;0;21.0;7.0;0.4;2.0;2.4;1.0;0.8;0.4;0.2;1.2;5.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;October;Landry Shamet;5;0;17.4;5.2;0.4;1.8;2.2;0.8;0.0;0.0;0.4;1.8;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;October;Jalen Smith;2;0;9.0;4.5;1.0;2.0;3.0;0.0;0.5;0.5;0.5;1.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;October;Abdel Nader;4;0;11.5;3.0;0.3;1.5;1.8;0.5;0.5;0.0;0.5;0.5;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;October;Frank Kaminsky;1;0;10.0;2.0;2.0;3.0;5.0;0.0;0.0;0.0;1.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;October;Chandler Hutchison;1;0;6.0;2.0;0.0;2.0;2.0;0.0;0.0;0.0;2.0;1.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;October;Total;5;"";"";105.2;9.4;38.2;47.6;26.2;8.2;3.0;13.4;17.8;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;November;Devin Booker;16;16;32.0;23.4;0.7;4.3;5.0;4.1;0.9;0.3;2.9;2.3;1.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;November;Deandre Ayton;10;10;30.7;17.1;3.5;8.0;11.5;1.2;0.6;0.7;1.9;3.0;0.6
+Phoenix Suns;phx;2021 - 2022 Regular Season;November;Chris Paul;16;16;32.6;15.1;0.1;4.3;4.3;10.0;2.1;0.3;2.3;1.9;4.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;November;Frank Kaminsky;8;0;21.4;11.6;1.1;3.4;4.5;1.6;1.0;0.9;0.5;1.8;3.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;November;Mikal Bridges;16;16;35.4;11.5;0.8;2.9;3.7;2.0;1.7;0.6;0.6;2.2;3.6
+Phoenix Suns;phx;2021 - 2022 Regular Season;November;JaVale McGee;16;6;16.4;10.6;2.7;4.4;7.1;0.8;0.4;1.1;1.6;2.7;0.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;November;Cameron Payne;14;0;17.7;9.8;0.3;2.1;2.4;2.9;0.6;0.3;1.4;1.6;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;November;Jae Crowder;16;16;27.3;9.3;0.4;4.1;4.5;1.4;1.3;0.5;0.7;2.4;2.1
+Phoenix Suns;phx;2021 - 2022 Regular Season;November;Cameron Johnson;16;0;22.9;9.3;0.3;3.2;3.4;1.3;0.7;0.2;0.8;1.4;1.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;November;Landry Shamet;15;0;18.9;7.9;0.2;2.2;2.4;1.9;0.4;0.1;0.5;0.7;4.1
+Phoenix Suns;phx;2021 - 2022 Regular Season;November;Elfrid Payton;4;0;9.5;3.5;0.8;2.0;2.8;2.5;0.5;0.0;0.8;1.0;3.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;November;Abdel Nader;10;0;10.0;2.2;0.3;1.7;2.0;0.5;0.6;0.4;0.9;1.8;0.6
+Phoenix Suns;phx;2021 - 2022 Regular Season;November;Jalen Smith;4;0;3.5;1.0;0.5;1.5;2.0;0.0;0.0;0.0;0.0;0.3;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;November;Ish Wainright;3;0;2.3;0.7;0.3;0.3;0.7;0.3;0.0;0.0;0.3;0.3;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;November;Chandler Hutchison;2;0;1.5;0.0;0.0;1.0;1.0;0.5;0.0;0.0;0.5;0.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;November;Total;16;"";"";114.4;8.6;35.9;44.5;26.4;9.4;4.4;12.8;19.3;2.1
+Phoenix Suns;phx;2021 - 2022 Regular Season;December;Devin Booker;7;7;34.9;24.7;0.7;5.0;5.7;5.0;1.4;0.7;2.3;2.1;2.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;December;Deandre Ayton;9;9;31.2;18.7;2.4;8.1;10.6;2.2;0.7;1.1;1.9;1.6;1.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;December;Cameron Johnson;14;3;28.4;15.1;1.2;4.4;5.6;1.4;1.1;0.2;0.9;2.1;1.6
+Phoenix Suns;phx;2021 - 2022 Regular Season;December;Chris Paul;14;14;32.3;14.2;0.4;3.7;4.1;9.2;1.8;0.2;2.4;2.4;3.9
+Phoenix Suns;phx;2021 - 2022 Regular Season;December;Cameron Payne;14;0;23.7;11.9;0.5;3.0;3.5;4.2;0.6;0.4;2.4;2.4;1.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;December;Mikal Bridges;14;14;33.1;11.2;1.3;3.1;4.4;1.6;1.1;0.3;0.7;1.7;2.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;December;JaVale McGee;13;4;16.8;11.2;2.6;5.3;7.9;0.8;0.3;0.8;1.5;3.0;0.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;December;Jae Crowder;11;11;28.6;10.0;0.2;4.3;4.5;1.3;0.7;0.6;1.3;2.6;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;December;Jalen Smith;8;1;17.0;8.8;2.8;3.1;5.9;0.3;0.4;0.8;0.9;1.6;0.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;December;Landry Shamet;14;7;23.4;8.0;0.3;1.6;1.9;1.3;0.6;0.1;0.6;1.3;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;December;Elfrid Payton;11;0;11.6;2.4;0.5;1.0;1.5;1.7;0.5;0.2;1.3;1.0;1.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;December;Ish Wainright;9;0;7.2;1.7;0.8;0.7;1.4;0.4;0.3;0.1;0.4;1.7;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;December;Chandler Hutchison;3;0;4.3;0.7;0.0;0.3;0.3;0.3;0.0;0.0;0.3;0.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;December;MJ Walker;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;December;Emanuel Terry;2;0;6.0;0.0;3.0;2.0;5.0;0.0;0.0;0.0;1.0;0.5;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;December;Total;14;"";"";111.0;11.1;35.2;46.3;25.1;7.9;4.1;13.8;19.7;1.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;January;Devin Booker;14;14;35.3;28.2;0.9;5.3;6.1;4.0;0.9;0.4;2.4;2.9;1.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;January;Chris Paul;14;14;34.6;15.7;0.4;5.2;5.6;11.8;1.6;0.6;2.4;2.2;5.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;January;Deandre Ayton;4;4;25.0;15.3;2.3;5.0;7.3;1.0;0.8;0.8;1.5;2.3;0.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;January;Cameron Johnson;11;7;31.5;14.2;0.5;4.3;4.8;1.4;1.0;0.3;0.5;1.8;3.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;January;Mikal Bridges;14;14;36.1;13.5;1.0;3.4;4.4;2.7;1.0;0.4;0.9;1.5;3.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;January;Bismack Biyombo;12;3;22.8;11.1;3.4;4.7;8.1;1.2;0.7;1.2;0.9;2.4;1.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;January;Cameron Payne;10;0;20.2;10.1;0.4;1.8;2.2;3.8;0.4;0.3;1.3;1.5;2.9
+Phoenix Suns;phx;2021 - 2022 Regular Season;January;Jae Crowder;7;7;28.1;9.1;0.1;5.9;6.0;1.4;2.0;0.1;0.9;2.0;1.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;January;Jalen Smith;10;3;17.2;8.0;2.5;4.5;7.0;0.3;0.2;1.0;1.3;3.1;0.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;January;JaVale McGee;9;4;15.8;7.7;2.2;3.8;6.0;0.7;0.2;0.9;0.9;2.4;0.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;January;Landry Shamet;11;0;17.5;6.7;0.2;0.9;1.1;1.8;0.6;0.1;0.5;1.4;3.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;January;Justin Jackson;3;0;7.7;4.3;0.3;1.7;2.0;0.0;0.0;0.0;0.3;0.7;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;January;Ish Wainright;11;0;9.4;3.1;0.9;0.8;1.7;0.4;0.5;0.3;0.5;1.2;0.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;January;Paris Bass;2;0;3.5;3.0;1.0;1.0;2.0;0.0;0.5;0.0;1.0;1.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;January;Elfrid Payton;11;0;9.5;2.3;0.4;1.5;1.8;1.3;0.7;0.1;0.5;0.5;2.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;January;MJ Walker;1;0;8.0;0.0;0.0;1.0;1.0;1.0;2.0;0.0;0.0;1.0;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;January;Emanuel Terry;1;0;6.0;0.0;2.0;3.0;5.0;2.0;1.0;0.0;3.0;3.0;0.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;January;Total;14;"";"";115.7;11.3;35.9;47.1;27.9;8.4;4.6;11.6;19.6;2.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;February;Devin Booker;12;12;36.8;27.4;0.5;3.8;4.3;5.5;1.7;0.5;2.2;2.4;2.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;February;Mikal Bridges;12;12;36.1;17.4;1.3;4.0;5.3;2.9;1.0;0.3;0.8;2.1;3.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;February;Chris Paul;9;9;33.6;15.8;0.0;4.0;4.0;12.4;1.8;0.1;2.7;1.4;4.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;February;Deandre Ayton;12;12;27.9;15.8;1.9;6.8;8.7;1.2;0.8;0.9;1.6;2.6;0.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;February;Cameron Johnson;12;3;26.0;13.4;0.6;2.8;3.4;2.2;0.6;0.3;0.4;1.8;5.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;February;Jae Crowder;12;12;28.9;9.1;0.8;5.7;6.5;2.4;1.6;0.3;0.4;2.7;5.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;February;JaVale McGee;12;0;15.3;8.8;2.1;4.1;6.2;0.5;0.4;1.6;1.3;1.7;0.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;February;Aaron Holiday;5;0;17.2;7.8;0.2;1.6;1.8;3.2;0.6;0.0;1.4;1.2;2.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;February;Landry Shamet;3;0;16.0;6.7;0.0;2.0;2.0;1.0;0.0;0.0;0.3;2.0;3.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;February;Torrey Craig;6;0;19.3;4.7;1.2;4.0;5.2;1.0;0.7;1.0;1.0;1.7;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;February;Elfrid Payton;10;0;13.8;4.0;0.5;1.5;2.0;3.4;0.3;0.1;1.2;1.0;2.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;February;Jalen Smith;5;0;8.4;2.4;0.8;0.8;1.6;0.2;0.0;0.2;0.2;1.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;February;Bismack Biyombo;6;0;6.2;2.0;0.8;1.2;2.0;0.0;0.2;0.0;0.3;1.7;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;February;Ish Wainright;8;0;5.9;0.8;0.1;0.3;0.4;0.1;0.1;0.1;0.0;0.5;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;February;Justin Jackson;3;0;3.7;0.0;0.0;0.3;0.3;0.7;0.0;0.0;0.0;0.3;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;February;Total;12;"";"";116.8;9.1;35.7;44.8;29.3;8.4;4.8;11.1;18.7;2.6
+Phoenix Suns;phx;2021 - 2022 Regular Season;March;Devin Booker;11;11;34.9;30.1;0.3;4.0;4.3;6.1;1.3;0.5;2.3;3.2;2.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;March;Cameron Johnson;2;0;26.0;29.0;0.0;3.0;3.0;2.0;1.0;0.0;0.5;1.0;4.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;March;Deandre Ayton;15;15;30.3;19.3;2.6;7.9;10.5;1.3;0.5;0.2;1.3;2.5;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;March;Mikal Bridges;15;15;38.4;18.3;0.7;3.5;4.3;2.7;1.2;0.6;0.9;1.7;2.9
+Phoenix Suns;phx;2021 - 2022 Regular Season;March;Chris Paul;3;3;33.0;17.0;1.0;2.7;3.7;11.7;1.0;0.7;2.3;1.3;5.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;March;Cameron Payne;14;11;27.4;12.5;0.4;3.0;3.4;8.3;0.9;0.3;1.8;2.7;4.6
+Phoenix Suns;phx;2021 - 2022 Regular Season;March;Jae Crowder;13;13;28.1;10.8;0.5;5.2;5.6;2.5;1.7;0.5;1.1;3.1;2.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;March;Landry Shamet;15;4;23.8;10.7;0.3;1.1;1.3;1.7;0.4;0.2;0.7;1.5;2.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;March;JaVale McGee;13;0;13.5;7.7;1.7;3.5;5.2;0.3;0.1;1.5;0.7;2.8;0.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;March;Torrey Craig;15;2;22.4;7.5;0.9;3.8;4.7;1.5;0.9;0.5;1.1;2.2;1.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;March;Aaron Holiday;12;0;17.0;7.0;0.8;2.1;2.9;3.9;1.1;0.0;1.3;1.3;3.1
+Phoenix Suns;phx;2021 - 2022 Regular Season;March;Bismack Biyombo;14;0;8.1;2.1;0.8;1.4;2.1;0.3;0.1;0.6;0.8;1.6;0.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;March;Elfrid Payton;8;1;7.1;1.1;0.1;1.0;1.1;1.1;0.6;0.3;0.8;0.1;1.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;March;Ish Wainright;10;0;6.7;0.9;0.0;0.6;0.6;0.1;0.2;0.1;0.2;0.8;0.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;March;Total;15;"";"";121.6;8.5;34.4;42.9;28.5;8.1;4.7;11.7;21.4;2.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;April;Devin Booker;3;3;35.0;35.3;0.3;4.7;5.0;3.7;0.3;0.0;1.7;3.7;2.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;April;Deandre Ayton;3;3;28.7;16.7;2.7;9.0;11.7;2.3;0.3;1.0;1.3;4.0;1.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;April;Mikal Bridges;6;6;25.3;12.2;0.2;2.5;2.7;1.7;1.0;0.2;1.0;1.2;1.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;April;Ish Wainright;4;0;17.5;10.5;2.0;0.8;2.8;1.0;2.3;0.0;0.3;2.0;4.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;April;Chris Paul;4;4;31.0;10.3;0.8;2.5;3.3;12.0;2.5;0.0;2.0;3.0;6.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;April;Landry Shamet;6;3;23.5;10.2;0.2;2.2;2.3;1.5;0.2;0.3;0.8;1.8;1.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;April;Bismack Biyombo;4;0;20.8;8.8;1.5;5.5;7.0;1.3;0.3;1.0;0.3;2.0;5.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;April;Cameron Johnson;6;3;25.2;8.7;1.0;3.5;4.5;1.7;1.2;0.3;1.8;1.8;0.9
+Phoenix Suns;phx;2021 - 2022 Regular Season;April;Cameron Payne;4;1;19.5;8.3;0.8;3.8;4.5;5.5;1.3;0.3;1.8;1.5;3.1
+Phoenix Suns;phx;2021 - 2022 Regular Season;April;JaVale McGee;6;3;19.3;8.0;2.5;5.8;8.3;0.5;0.5;1.0;2.0;2.0;0.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;April;Torrey Craig;6;0;18.3;7.8;1.2;1.2;2.3;0.8;0.7;0.7;1.0;2.2;0.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;April;Jae Crowder;3;3;25.7;7.0;0.3;4.0;4.3;2.7;1.7;0.3;0.0;3.0;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;April;Aaron Holiday;5;1;13.6;5.2;0.8;1.4;2.2;2.4;0.4;0.0;1.2;2.2;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;April;Elfrid Payton;3;0;11.7;4.0;0.0;1.0;1.0;1.7;0.3;0.0;0.7;0.7;2.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;April;Gabriel Lundberg;4;0;11.0;3.3;0.5;1.3;1.8;2.8;0.8;0.0;0.8;1.8;3.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;April;Total;6;"";"";110.0;11.0;34.8;45.8;28.3;9.8;4.0;12.8;23.3;2.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;Atlantic Division;Devin Booker;8;8;36.3;28.4;0.4;3.1;3.5;3.5;1.0;0.3;2.4;3.0;1.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;Atlantic Division;Cameron Johnson;7;1;26.1;16.4;0.6;2.4;3.0;0.6;0.6;0.1;0.6;1.9;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Atlantic Division;Chris Paul;8;8;35.0;16.3;0.4;3.9;4.3;10.9;1.8;0.4;2.3;2.0;4.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;Atlantic Division;Mikal Bridges;10;10;38.3;15.8;1.2;3.6;4.8;2.0;1.8;0.6;1.1;2.1;1.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;Atlantic Division;Deandre Ayton;8;8;30.9;12.5;1.0;6.8;7.8;0.6;0.4;0.4;1.8;2.8;0.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;Atlantic Division;Cameron Payne;8;2;22.8;12.0;0.1;2.4;2.5;5.3;0.6;0.0;1.9;2.9;2.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;Atlantic Division;Jae Crowder;9;9;28.3;10.0;0.4;5.7;6.1;2.2;2.0;0.2;0.9;2.7;2.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;Atlantic Division;Aaron Holiday;2;0;13.0;8.5;0.5;1.0;1.5;3.0;0.5;0.0;0.5;1.0;6.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Atlantic Division;JaVale McGee;8;1;15.8;8.3;3.0;4.9;7.9;0.8;0.3;1.6;1.1;1.6;0.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;Atlantic Division;Landry Shamet;8;2;20.5;7.0;0.1;1.1;1.3;1.5;0.3;0.0;0.8;1.0;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Atlantic Division;Jalen Smith;6;1;12.5;5.8;1.7;2.3;4.0;0.3;0.2;0.7;0.7;2.0;0.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;Atlantic Division;Elfrid Payton;4;0;12.3;3.5;0.3;1.0;1.3;2.3;0.8;0.5;0.3;0.8;9.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Atlantic Division;Bismack Biyombo;5;0;9.2;2.0;1.0;2.4;3.4;0.4;0.0;1.0;1.2;1.6;0.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;Atlantic Division;Torrey Craig;3;0;16.0;2.0;0.3;1.3;1.7;1.3;0.0;0.0;1.3;2.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Atlantic Division;Ish Wainright;5;0;6.0;1.0;0.2;0.0;0.2;0.0;0.0;0.0;0.4;1.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Atlantic Division;Justin Jackson;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Atlantic Division;Chandler Hutchison;1;0;2.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Atlantic Division;MJ Walker;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Atlantic Division;Emanuel Terry;1;0;11.0;0.0;3.0;3.0;6.0;0.0;0.0;0.0;2.0;1.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Atlantic Division;Total;10;"";"";112.5;8.2;32.1;40.3;24.7;7.9;4.1;0.0;20.1;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;Central Division;Devin Booker;8;8;35.3;27.6;1.0;3.4;4.4;4.6;0.6;0.4;2.5;2.4;1.9
+Phoenix Suns;phx;2021 - 2022 Regular Season;Central Division;Deandre Ayton;9;9;25.4;19.2;1.9;7.2;9.1;1.3;1.0;0.3;1.4;2.6;0.9
+Phoenix Suns;phx;2021 - 2022 Regular Season;Central Division;Chris Paul;8;8;34.3;15.1;0.0;3.5;3.5;11.9;2.0;0.3;3.0;2.0;4.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Central Division;Cameron Payne;7;2;24.3;14.6;0.3;2.1;2.4;4.7;0.0;0.4;1.7;1.6;2.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;Central Division;Mikal Bridges;10;10;35.6;13.4;0.5;3.5;4.0;3.0;0.9;0.5;1.1;2.6;2.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;Central Division;Cameron Johnson;6;0;24.2;12.0;1.2;3.5;4.7;1.3;0.8;0.3;0.5;1.7;2.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;Central Division;JaVale McGee;10;1;16.9;11.7;2.5;4.2;6.7;0.6;0.5;1.1;1.0;2.4;0.6
+Phoenix Suns;phx;2021 - 2022 Regular Season;Central Division;Torrey Craig;2;1;26.0;9.5;1.5;5.0;6.5;1.5;1.5;0.5;2.0;4.0;0.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;Central Division;Landry Shamet;8;2;23.5;9.4;0.3;1.1;1.4;1.8;0.3;0.3;0.4;2.3;4.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;Central Division;Jae Crowder;9;9;29.3;8.7;0.4;6.6;7.0;2.8;1.0;0.2;0.8;2.3;3.6
+Phoenix Suns;phx;2021 - 2022 Regular Season;Central Division;Aaron Holiday;2;0;12.0;8.5;0.5;1.5;2.0;2.5;1.5;0.0;1.0;1.0;2.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;Central Division;Bismack Biyombo;6;0;12.3;7.2;1.8;2.0;3.8;0.8;0.5;0.7;0.7;2.0;1.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;Central Division;Jalen Smith;4;0;12.5;2.3;1.8;4.5;6.3;0.0;0.5;1.0;1.0;1.8;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Central Division;Elfrid Payton;8;0;10.3;1.9;0.3;1.5;1.8;1.4;0.3;0.0;0.5;0.6;2.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;Central Division;Ish Wainright;6;0;6.8;1.3;0.3;1.0;1.3;0.3;0.3;0.3;0.0;0.5;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;Central Division;Justin Jackson;1;0;1.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Central Division;Total;10;"";"";120.4;9.6;36.3;45.9;28.6;7.5;4.4;0.0;20.5;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pacific Division;Devin Booker;12;12;33.0;22.5;1.2;4.5;5.7;4.8;1.3;0.1;2.4;3.2;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pacific Division;Deandre Ayton;11;11;30.5;18.0;3.5;9.1;12.5;1.5;0.8;0.8;1.5;1.9;1.1
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pacific Division;Mikal Bridges;16;16;32.9;13.8;1.1;3.1;4.1;1.5;1.4;0.5;0.8;1.4;1.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pacific Division;Chris Paul;12;12;31.9;13.8;0.9;4.0;4.9;9.6;1.9;0.1;2.3;1.9;4.1
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pacific Division;Cameron Johnson;13;3;26.4;11.0;0.6;3.5;4.2;1.9;1.0;0.5;0.9;1.6;2.1
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pacific Division;Frank Kaminsky;1;0;22.0;10.0;1.0;4.0;5.0;0.0;1.0;1.0;1.0;5.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pacific Division;Cameron Payne;12;2;21.1;9.3;0.4;3.1;3.5;4.8;0.6;0.3;2.6;1.8;1.9
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pacific Division;Landry Shamet;14;4;21.6;9.0;0.1;1.5;1.6;1.4;0.4;0.1;0.4;1.3;3.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pacific Division;JaVale McGee;14;4;16.1;8.9;2.1;5.1;7.2;0.7;0.2;0.9;1.4;2.2;0.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pacific Division;Jalen Smith;3;1;13.0;8.7;2.7;2.3;5.0;0.3;0.0;0.0;0.3;1.3;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pacific Division;Jae Crowder;13;13;28.8;8.5;0.5;3.5;4.0;2.1;1.6;0.6;0.3;2.7;6.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pacific Division;Aaron Holiday;6;1;18.3;8.3;1.3;2.3;3.7;4.3;1.2;0.0;1.3;2.2;3.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pacific Division;Justin Jackson;1;0;6.0;8.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;1.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pacific Division;Torrey Craig;7;0;21.0;7.3;1.6;4.0;5.6;0.9;0.9;0.4;1.3;3.0;0.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pacific Division;Ish Wainright;9;0;12.1;5.3;1.3;0.9;2.2;0.8;0.9;0.0;0.3;2.1;2.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pacific Division;Bismack Biyombo;7;0;14.6;4.7;1.6;3.0;4.6;0.4;0.1;1.0;0.7;2.0;0.6
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pacific Division;Gabriel Lundberg;3;0;13.3;4.3;0.7;1.7;2.3;3.3;1.0;0.0;0.7;2.3;5.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pacific Division;Elfrid Payton;10;1;11.9;4.1;0.5;1.0;1.5;2.1;0.6;0.3;1.2;0.5;1.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pacific Division;Abdel Nader;3;0;9.0;3.0;0.0;1.0;1.0;1.0;0.3;0.7;0.3;0.0;3.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pacific Division;Paris Bass;1;0;2.0;2.0;1.0;1.0;2.0;0.0;0.0;0.0;0.0;1.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pacific Division;Chandler Hutchison;1;0;3.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pacific Division;Total;16;"";"";110.2;11.8;35.9;47.8;26.9;9.5;4.3;0.0;20.1;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southeast Division;Devin Booker;8;8;31.8;24.5;0.5;4.9;5.4;4.6;1.0;0.5;2.3;3.1;2.1
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southeast Division;Frank Kaminsky;1;0;29.0;16.0;0.0;6.0;6.0;4.0;0.0;1.0;1.0;1.0;4.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southeast Division;Deandre Ayton;8;8;27.4;15.6;2.5;9.6;12.1;2.0;0.4;0.6;0.8;1.1;2.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southeast Division;Mikal Bridges;10;10;31.3;15.4;0.9;3.5;4.4;3.1;1.1;0.4;1.1;1.5;2.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southeast Division;Landry Shamet;6;2;26.7;14.8;0.3;1.3;1.7;1.7;1.0;0.0;1.0;1.5;1.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southeast Division;Chris Paul;8;8;29.6;12.5;0.0;4.3;4.3;10.9;1.5;0.3;1.9;2.0;5.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southeast Division;Cameron Johnson;8;1;25.1;11.6;0.6;3.3;3.9;1.3;0.5;0.1;0.5;1.8;2.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southeast Division;Cameron Payne;7;2;24.4;11.0;0.3;3.1;3.4;6.3;1.3;0.4;2.6;3.0;2.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southeast Division;Jae Crowder;9;9;27.7;9.8;0.6;6.0;6.6;0.8;0.8;0.6;0.9;1.9;0.9
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southeast Division;JaVale McGee;9;1;14.2;9.3;1.8;4.6;6.3;0.6;0.7;1.0;1.0;2.8;0.6
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southeast Division;Aaron Holiday;3;0;13.7;8.7;0.7;1.3;2.0;1.7;0.0;0.0;0.7;1.0;2.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southeast Division;Torrey Craig;3;0;19.7;6.7;0.3;2.3;2.7;2.0;1.7;0.7;0.3;0.3;6.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southeast Division;Jalen Smith;6;1;14.8;6.7;2.2;2.5;4.7;0.3;0.0;0.7;0.7;1.8;0.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southeast Division;Bismack Biyombo;4;0;9.5;4.0;1.5;2.3;3.8;0.3;0.5;0.3;0.5;1.5;0.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southeast Division;Paris Bass;1;0;5.0;4.0;1.0;1.0;2.0;0.0;1.0;0.0;2.0;1.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southeast Division;Elfrid Payton;7;0;15.0;3.3;0.6;1.9;2.4;3.0;0.7;0.0;2.3;1.3;1.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southeast Division;Justin Jackson;2;0;9.0;2.5;0.5;0.5;1.0;1.0;0.0;0.0;0.0;0.5;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southeast Division;Abdel Nader;1;0;11.0;2.0;1.0;1.0;2.0;0.0;0.0;0.0;3.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southeast Division;Ish Wainright;9;0;6.4;0.7;0.4;0.1;0.6;0.1;0.6;0.2;0.2;0.7;0.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southeast Division;MJ Walker;1;0;8.0;0.0;0.0;1.0;1.0;1.0;2.0;0.0;0.0;1.0;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southeast Division;Emanuel Terry;1;0;6.0;0.0;2.0;3.0;5.0;2.0;1.0;0.0;3.0;3.0;0.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southeast Division;Total;10;"";"";116.4;9.8;39.8;49.6;29.2;8.7;4.3;0.0;19.4;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southwest Division;Devin Booker;17;17;34.6;28.2;0.4;4.6;4.9;4.5;0.9;0.6;2.6;2.2;1.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southwest Division;Deandre Ayton;10;10;29.7;17.1;2.7;7.9;10.6;1.5;0.5;0.9;1.8;3.0;0.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southwest Division;Mikal Bridges;18;18;36.4;15.1;1.0;3.4;4.4;2.2;1.2;0.5;0.7;1.9;3.1
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southwest Division;Chris Paul;15;15;33.0;13.9;0.0;4.0;4.0;11.7;2.4;0.5;2.3;2.1;5.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southwest Division;Cameron Payne;13;2;20.5;10.5;0.5;2.7;3.2;4.2;0.8;0.2;1.2;1.4;3.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southwest Division;JaVale McGee;17;6;17.0;10.5;2.4;4.1;6.5;0.6;0.3;0.8;1.3;2.4;0.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southwest Division;Cameron Johnson;16;4;26.0;10.5;0.4;3.8;4.2;1.1;0.8;0.1;0.8;1.6;1.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southwest Division;Jae Crowder;14;14;27.1;10.0;0.4;3.7;4.1;1.4;1.1;0.5;0.6;2.8;2.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southwest Division;Torrey Craig;5;1;24.2;9.2;1.4;4.6;6.0;1.4;0.4;1.6;0.8;2.6;1.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southwest Division;Frank Kaminsky;4;0;21.3;8.3;1.3;2.5;3.8;1.5;1.8;1.0;0.3;1.5;6.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southwest Division;Bismack Biyombo;7;1;16.6;7.7;2.6;2.7;5.3;1.1;0.7;0.6;0.7;2.0;1.6
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southwest Division;Landry Shamet;16;1;17.8;6.7;0.1;1.8;1.8;1.9;0.4;0.1;0.6;1.1;3.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southwest Division;Jalen Smith;5;1;10.8;5.4;1.6;1.6;3.2;0.2;0.2;0.2;0.6;1.2;0.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southwest Division;Aaron Holiday;3;0;19.3;3.7;0.3;3.3;3.7;5.0;1.3;0.0;1.3;1.7;3.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southwest Division;Ish Wainright;8;0;6.9;2.6;0.4;0.6;1.0;0.5;0.3;0.3;0.5;0.9;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southwest Division;Abdel Nader;6;0;9.5;2.2;0.0;2.0;2.0;0.2;0.7;0.2;0.8;2.5;0.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southwest Division;Elfrid Payton;11;0;8.6;2.1;0.5;1.5;2.0;1.7;0.5;0.0;0.5;1.1;3.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southwest Division;Justin Jackson;1;0;8.0;0.0;0.0;2.0;2.0;0.0;0.0;0.0;1.0;1.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southwest Division;Chandler Hutchison;1;0;1.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Southwest Division;Total;18;"";"";116.1;8.8;35.1;43.9;27.8;8.9;4.6;0.0;19.7;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;Northwest Division;Devin Booker;15;15;35.6;28.6;0.7;4.9;5.6;6.2;1.7;0.4;2.1;2.4;3.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Northwest Division;Deandre Ayton;12;12;32.1;19.2;3.3;5.8;9.0;1.6;0.9;0.9;2.0;3.1;0.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;Northwest Division;Chris Paul;14;14;33.6;16.6;0.6;4.3;4.9;10.1;1.4;0.3;2.4;2.3;4.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;Northwest Division;Cameron Johnson;16;7;27.6;14.4;0.8;3.8;4.5;2.1;1.1;0.2;0.8;1.8;2.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;Northwest Division;Mikal Bridges;18;18;34.5;12.4;0.7;3.1;3.8;2.2;0.8;0.2;0.5;1.7;4.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;Northwest Division;Frank Kaminsky;3;0;15.0;12.0;1.7;3.3;5.0;1.0;0.0;0.3;0.7;0.7;1.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;Northwest Division;Jae Crowder;13;13;28.1;9.7;0.5;4.8;5.2;1.9;1.8;0.5;1.5;2.8;1.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;Northwest Division;Cameron Payne;11;2;21.4;9.3;0.6;2.1;2.7;4.5;0.7;0.5;1.1;2.2;4.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;Northwest Division;Bismack Biyombo;7;2;18.6;7.7;1.7;4.4;6.1;0.6;0.1;0.7;0.4;2.3;1.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;Northwest Division;Jalen Smith;5;0;15.0;7.6;1.8;4.4;6.2;0.0;0.4;1.0;1.2;2.4;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Northwest Division;Landry Shamet;17;3;19.9;7.1;0.5;2.1;2.6;1.3;0.4;0.2;0.6;1.2;2.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;Northwest Division;JaVale McGee;16;4;14.7;6.8;1.7;4.4;6.1;0.3;0.1;1.3;1.8;3.0;0.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;Northwest Division;Torrey Craig;7;0;19.3;6.4;0.6;2.3;2.9;1.0;0.9;0.4;0.9;1.0;1.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;Northwest Division;Aaron Holiday;6;0;16.5;4.7;0.3;1.2;1.5;3.0;0.5;0.0;1.8;1.2;1.6
+Phoenix Suns;phx;2021 - 2022 Regular Season;Northwest Division;Elfrid Payton;10;0;9.9;3.4;0.4;1.1;1.5;1.8;0.3;0.1;0.8;0.4;2.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;Northwest Division;Abdel Nader;4;0;12.5;2.5;0.8;1.8;2.5;0.8;0.8;0.3;0.5;1.3;1.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;Northwest Division;Ish Wainright;8;0;8.1;2.5;0.6;0.9;1.5;0.1;0.4;0.0;0.3;1.1;0.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;Northwest Division;Chandler Hutchison;3;0;5.7;0.7;0.0;1.0;1.0;0.7;0.0;0.0;1.0;0.3;0.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;Northwest Division;Emanuel Terry;1;0;1.0;0.0;3.0;1.0;4.0;0.0;0.0;0.0;0.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Northwest Division;Gabriel Lundberg;1;0;4.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;1.0;0.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Northwest Division;Total;18;"";"";115.0;9.9;34.7;44.6;27.1;8.2;4.4;0.0;19.8;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;Eastern Conference;Devin Booker;24;24;34.4;26.8;0.6;3.8;4.4;4.3;0.9;0.4;2.4;2.8;1.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;Eastern Conference;Frank Kaminsky;1;0;29.0;16.0;0.0;6.0;6.0;4.0;0.0;1.0;1.0;1.0;4.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Eastern Conference;Deandre Ayton;25;25;27.8;15.9;1.8;7.8;9.6;1.3;0.6;0.4;1.3;2.2;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Eastern Conference;Mikal Bridges;30;30;35.1;14.9;0.9;3.5;4.4;2.7;1.3;0.5;1.1;2.1;2.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;Eastern Conference;Chris Paul;24;24;33.0;14.6;0.1;3.9;4.0;11.2;1.8;0.3;2.4;2.0;4.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;Eastern Conference;Cameron Johnson;21;2;25.2;13.3;0.8;3.0;3.8;1.0;0.6;0.2;0.5;1.8;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Eastern Conference;Cameron Payne;22;6;23.8;12.5;0.2;2.5;2.8;5.4;0.6;0.3;2.0;2.5;2.6
+Phoenix Suns;phx;2021 - 2022 Regular Season;Eastern Conference;Landry Shamet;22;6;23.3;10.0;0.2;1.2;1.4;1.6;0.5;0.1;0.7;1.6;2.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;Eastern Conference;JaVale McGee;27;3;15.7;9.9;2.4;4.5;6.9;0.6;0.5;1.2;1.0;2.3;0.6
+Phoenix Suns;phx;2021 - 2022 Regular Season;Eastern Conference;Jae Crowder;27;27;28.4;9.5;0.5;6.1;6.6;1.9;1.3;0.3;0.9;2.3;2.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;Eastern Conference;Aaron Holiday;7;0;13.0;8.6;0.6;1.3;1.9;2.3;0.6;0.0;0.7;1.0;3.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;Eastern Conference;Torrey Craig;8;1;19.9;5.6;0.6;2.6;3.3;1.6;1.0;0.4;1.1;1.9;1.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;Eastern Conference;Jalen Smith;16;2;13.4;5.3;1.9;2.9;4.8;0.3;0.2;0.8;0.8;1.9;0.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;Eastern Conference;Bismack Biyombo;15;0;10.5;4.6;1.5;2.2;3.7;0.5;0.3;0.7;0.8;1.7;0.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;Eastern Conference;Paris Bass;1;0;5.0;4.0;1.0;1.0;2.0;0.0;1.0;0.0;2.0;1.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Eastern Conference;Elfrid Payton;19;0;12.4;2.7;0.4;1.5;1.9;2.2;0.5;0.1;1.1;0.9;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Eastern Conference;Abdel Nader;1;0;11.0;2.0;1.0;1.0;2.0;0.0;0.0;0.0;3.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Eastern Conference;Justin Jackson;4;0;5.0;1.3;0.3;0.5;0.8;0.5;0.0;0.0;0.0;0.3;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;Eastern Conference;Ish Wainright;20;0;6.5;1.0;0.4;0.4;0.7;0.2;0.4;0.2;0.2;0.7;0.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;Eastern Conference;Chandler Hutchison;1;0;2.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Eastern Conference;MJ Walker;2;0;4.0;0.0;0.0;0.5;0.5;0.5;1.0;0.0;0.0;0.5;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;Eastern Conference;Emanuel Terry;2;0;8.5;0.0;2.5;3.0;5.5;1.0;0.5;0.0;2.5;2.0;0.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;Eastern Conference;Total;30;"";"";116.4;9.2;36.1;45.3;27.5;8.0;4.3;0.0;20.0;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;Western Conference;Devin Booker;44;44;34.5;26.8;0.7;4.7;5.4;5.2;1.3;0.4;2.4;2.5;2.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;Western Conference;Deandre Ayton;33;33;30.8;18.2;3.2;7.5;10.7;1.5;0.8;0.9;1.8;2.7;0.9
+Phoenix Suns;phx;2021 - 2022 Regular Season;Western Conference;Chris Paul;41;41;32.9;14.8;0.5;4.1;4.6;10.6;1.9;0.3;2.3;2.1;4.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;Western Conference;Mikal Bridges;52;52;34.7;13.8;0.9;3.2;4.1;2.0;1.1;0.4;0.7;1.7;3.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Western Conference;Cameron Johnson;45;14;26.7;12.0;0.6;3.7;4.3;1.7;1.0;0.3;0.8;1.7;2.1
+Phoenix Suns;phx;2021 - 2022 Regular Season;Western Conference;Frank Kaminsky;8;0;19.0;9.9;1.4;3.0;4.4;1.1;1.0;0.8;0.5;1.6;2.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;Western Conference;Cameron Payne;36;6;20.9;9.8;0.5;2.6;3.2;4.5;0.7;0.3;1.6;1.8;2.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;Western Conference;Jae Crowder;40;40;28.0;9.4;0.4;4.0;4.4;1.8;1.5;0.5;0.8;2.8;2.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;Western Conference;JaVale McGee;47;14;15.9;8.8;2.1;4.5;6.6;0.5;0.2;1.0;1.5;2.5;0.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;Western Conference;Landry Shamet;47;8;19.7;7.5;0.2;1.8;2.0;1.5;0.4;0.1;0.6;1.2;2.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;Western Conference;Torrey Craig;19;1;21.2;7.5;1.2;3.5;4.7;1.1;0.7;0.7;1.0;2.2;1.1
+Phoenix Suns;phx;2021 - 2022 Regular Season;Western Conference;Jalen Smith;13;2;12.9;7.0;1.9;2.8;4.8;0.2;0.2;0.5;0.8;1.7;0.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;Western Conference;Bismack Biyombo;21;3;16.6;6.7;2.0;3.4;5.3;0.7;0.3;0.8;0.6;2.1;1.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;Western Conference;Aaron Holiday;15;1;17.8;5.9;0.7;2.1;2.8;3.9;0.9;0.0;1.5;1.7;2.6
+Phoenix Suns;phx;2021 - 2022 Regular Season;Western Conference;Justin Jackson;2;0;7.0;4.0;0.0;2.0;2.0;0.0;0.0;0.0;0.5;1.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Western Conference;Ish Wainright;25;0;9.2;3.6;0.8;0.8;1.6;0.5;0.5;0.1;0.4;1.4;1.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;Western Conference;Gabriel Lundberg;4;0;11.0;3.3;0.5;1.3;1.8;2.8;0.8;0.0;0.8;1.8;3.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;Western Conference;Elfrid Payton;31;1;10.1;3.2;0.5;1.2;1.7;1.9;0.5;0.1;0.8;0.7;2.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;Western Conference;Abdel Nader;13;0;10.3;2.5;0.2;1.7;1.9;0.5;0.6;0.3;0.6;1.5;0.9
+Phoenix Suns;phx;2021 - 2022 Regular Season;Western Conference;Paris Bass;1;0;2.0;2.0;1.0;1.0;2.0;0.0;0.0;0.0;0.0;1.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Western Conference;Chandler Hutchison;5;0;4.0;0.8;0.0;0.8;0.8;0.4;0.0;0.0;0.8;0.2;0.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;Western Conference;Emanuel Terry;1;0;1.0;0.0;3.0;1.0;4.0;0.0;0.0;0.0;0.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Western Conference;Total;52;"";"";113.9;10.1;35.2;45.3;27.3;8.9;4.4;0.0;19.9;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pre All-Star;Devin Booker;51;51;34.1;25.5;0.8;4.4;5.2;4.5;1.0;0.4;2.4;2.5;1.9
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pre All-Star;Deandre Ayton;37;37;29.1;16.5;2.6;7.6;10.3;1.4;0.8;0.8;1.6;2.2;0.9
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pre All-Star;Chris Paul;58;58;33.0;14.9;0.3;4.2;4.5;10.7;1.9;0.3;2.4;2.0;4.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pre All-Star;Mikal Bridges;58;58;34.8;13.4;1.0;3.3;4.3;2.1;1.2;0.4;0.8;1.9;2.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pre All-Star;Cameron Johnson;55;10;26.0;11.9;0.6;3.6;4.2;1.3;0.9;0.2;0.6;1.7;2.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pre All-Star;Frank Kaminsky;9;0;20.1;10.6;1.2;3.3;4.6;1.4;0.9;0.8;0.6;1.6;2.6
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pre All-Star;Cameron Payne;40;0;20.4;10.5;0.4;2.4;2.8;3.6;0.6;0.3;1.8;1.9;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pre All-Star;JaVale McGee;52;14;16.1;9.9;2.3;4.6;6.9;0.6;0.3;1.0;1.4;2.5;0.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pre All-Star;Jae Crowder;48;48;28.2;8.9;0.5;4.8;5.3;1.5;1.3;0.5;0.8;2.4;1.9
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pre All-Star;Bismack Biyombo;17;3;18.1;8.5;2.7;3.6;6.4;0.8;0.5;0.8;0.8;2.3;1.1
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pre All-Star;Torrey Craig;3;0;19.7;7.7;1.0;3.7;4.7;1.3;0.7;0.7;0.7;1.7;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pre All-Star;Landry Shamet;45;7;19.8;7.4;0.2;1.7;1.9;1.6;0.5;0.1;0.5;1.2;3.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pre All-Star;Aaron Holiday;3;0;13.3;7.3;0.3;1.7;2.0;2.7;0.3;0.0;1.3;1.3;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pre All-Star;Jalen Smith;29;4;13.2;6.0;1.9;2.9;4.8;0.2;0.2;0.6;0.8;1.8;0.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pre All-Star;Elfrid Payton;38;0;11.7;3.3;0.5;1.5;2.0;2.2;0.5;0.1;1.0;0.9;2.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pre All-Star;Paris Bass;2;0;3.5;3.0;1.0;1.0;2.0;0.0;0.5;0.0;1.0;1.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pre All-Star;Abdel Nader;14;0;10.4;2.4;0.3;1.6;1.9;0.5;0.6;0.3;0.8;1.4;0.6
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pre All-Star;Justin Jackson;6;0;5.8;2.2;0.2;1.0;1.2;0.3;0.0;0.0;0.2;0.5;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pre All-Star;Ish Wainright;29;0;7.4;1.9;0.7;0.6;1.3;0.3;0.3;0.2;0.3;1.1;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pre All-Star;Chandler Hutchison;6;0;3.7;0.7;0.0;0.8;0.8;0.3;0.0;0.0;0.7;0.2;0.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pre All-Star;MJ Walker;2;0;4.0;0.0;0.0;0.5;0.5;0.5;1.0;0.0;0.0;0.5;INF
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pre All-Star;Emanuel Terry;3;0;6.0;0.0;2.7;2.3;5.0;0.7;0.3;0.0;1.7;1.3;0.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;Pre All-Star;Total;58;"";"";113.7;10.1;36.1;46.2;27.0;8.5;4.2;12.4;19.2;2.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;Post All-Star;Devin Booker;17;17;35.5;30.7;0.2;4.3;4.5;6.0;1.4;0.4;2.4;3.1;2.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;Post All-Star;Deandre Ayton;21;21;30.3;18.5;2.4;7.7;10.1;1.5;0.6;0.6;1.5;2.8;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;Post All-Star;Mikal Bridges;24;24;34.8;16.1;0.7;3.3;4.0;2.6;1.1;0.5;0.9;1.7;2.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;Post All-Star;Cameron Johnson;11;6;27.2;15.4;0.7;3.1;3.8;2.3;0.9;0.4;1.3;1.8;1.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;Post All-Star;Chris Paul;7;7;31.9;13.1;0.9;2.6;3.4;11.9;1.9;0.3;2.1;2.3;5.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;Post All-Star;Cameron Payne;18;12;25.7;11.6;0.4;3.2;3.6;7.7;0.9;0.3;1.8;2.4;4.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;Post All-Star;Jae Crowder;19;19;28.0;10.9;0.4;4.8;5.2;2.7;1.8;0.4;0.8;3.0;3.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;Post All-Star;Landry Shamet;24;7;22.8;10.1;0.2;1.5;1.7;1.5;0.3;0.2;0.7;1.7;2.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;Post All-Star;JaVale McGee;22;3;15.1;7.4;2.0;4.2;6.1;0.4;0.2;1.3;1.1;2.4;0.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;Post All-Star;Torrey Craig;24;2;21.0;6.8;1.0;3.2;4.2;1.2;0.8;0.6;1.1;2.1;1.1
+Phoenix Suns;phx;2021 - 2022 Regular Season;Post All-Star;Aaron Holiday;19;1;16.7;6.7;0.7;1.8;2.6;3.5;0.9;0.0;1.3;1.5;2.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;Post All-Star;Bismack Biyombo;19;0;10.4;3.4;0.9;2.2;3.1;0.5;0.2;0.6;0.6;1.6;0.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;Post All-Star;Ish Wainright;16;0;8.9;3.4;0.5;0.6;1.1;0.3;0.7;0.1;0.2;1.1;1.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;Post All-Star;Gabriel Lundberg;4;0;11.0;3.3;0.5;1.3;1.8;2.8;0.8;0.0;0.8;1.8;3.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;Post All-Star;Elfrid Payton;12;1;8.8;1.9;0.1;0.9;1.0;1.4;0.5;0.2;0.8;0.3;1.9
+Phoenix Suns;phx;2021 - 2022 Regular Season;Post All-Star;Total;24;"";"";117.7;8.9;34.2;43.1;28.2;8.6;4.7;12.1;21.6;2.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;3+ Days Rest;Devin Booker;6;6;32.3;23.2;1.0;5.0;6.0;7.0;2.0;0.3;1.8;2.8;3.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;3+ Days Rest;Deandre Ayton;9;9;31.8;17.1;2.9;8.0;10.9;1.0;0.9;0.6;2.2;3.3;0.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;3+ Days Rest;Mikal Bridges;4;4;33.3;16.5;1.5;3.0;4.5;1.5;0.5;1.3;1.3;2.8;1.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;3+ Days Rest;Chris Paul;4;4;30.8;12.0;1.5;2.8;4.3;10.8;1.5;1.0;2.0;2.3;5.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;3+ Days Rest;Cameron Payne;5;2;20.2;9.8;0.6;2.0;2.6;5.2;0.8;0.4;2.4;3.0;2.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;3+ Days Rest;Cameron Johnson;6;1;24.3;9.7;0.2;2.3;2.5;1.2;0.5;0.3;1.0;1.3;1.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;3+ Days Rest;Frank Kaminsky;2;0;19.0;9.5;1.5;2.5;4.0;1.5;2.0;0.5;1.0;1.0;1.5
+Phoenix Suns;phx;2021 - 2022 Regular Season;3+ Days Rest;Torrey Craig;2;0;21.5;8.5;0.0;3.5;3.5;2.0;1.0;1.0;0.5;0.5;4.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;3+ Days Rest;Landry Shamet;6;1;20.3;8.2;0.2;2.5;2.7;1.3;0.0;0.0;0.3;0.5;4.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;3+ Days Rest;Jae Crowder;8;8;26.1;8.1;0.3;4.6;4.9;2.8;2.3;0.3;0.8;1.4;3.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;3+ Days Rest;JaVale McGee;7;1;16.6;8.0;2.1;6.7;8.9;0.7;0.1;1.0;2.0;1.1;0.4
+Phoenix Suns;phx;2021 - 2022 Regular Season;3+ Days Rest;Aaron Holiday;3;0;13.0;7.3;0.0;1.0;1.0;1.7;0.3;0.0;1.0;1.3;1.7
+Phoenix Suns;phx;2021 - 2022 Regular Season;3+ Days Rest;Jalen Smith;11;0;10.8;4.7;1.5;2.1;3.5;0.2;0.4;0.5;0.8;1.2;0.2
+Phoenix Suns;phx;2021 - 2022 Regular Season;3+ Days Rest;Bismack Biyombo;7;0;11.4;4.1;1.6;3.0;4.6;0.6;0.3;0.6;0.7;1.0;0.8
+Phoenix Suns;phx;2021 - 2022 Regular Season;3+ Days Rest;Elfrid Payton;15;0;8.9;3.7;0.2;0.9;1.1;1.4;0.4;0.1;0.7;0.5;1.9
+Phoenix Suns;phx;2021 - 2022 Regular Season;3+ Days Rest;Paris Bass;2;0;3.5;3.0;1.0;1.0;2.0;0.0;0.5;0.0;1.0;1.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;3+ Days Rest;Ish Wainright;12;0;7.4;1.3;0.2;0.3;0.4;0.1;0.3;0.1;0.3;1.0;0.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;3+ Days Rest;Abdel Nader;3;0;7.3;0.7;0.3;0.7;1.0;0.3;0.3;0.0;1.0;0.7;0.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;3+ Days Rest;Chandler Hutchison;4;0;4.3;0.5;0.0;1.0;1.0;0.3;0.0;0.0;1.0;0.3;0.3
+Phoenix Suns;phx;2021 - 2022 Regular Season;3+ Days Rest;Justin Jackson;3;0;6.0;0.0;0.0;0.7;0.7;0.7;0.0;0.0;0.3;0.7;2.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;3+ Days Rest;MJ Walker;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;3+ Days Rest;Emanuel Terry;1;0;1.0;0.0;3.0;1.0;4.0;0.0;0.0;0.0;0.0;0.0;0.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;3+ Days Rest;Gabriel Lundberg;1;0;4.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;1.0;0.0;1.0
+Phoenix Suns;phx;2021 - 2022 Regular Season;3+ Days Rest;Total;4;"";"";110.0;10.5;38.8;49.3;25.8;8.3;6.0;14.0;16.8;1.8

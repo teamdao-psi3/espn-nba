@@ -1,0 +1,822 @@
+teamName;teamCode;season;split;player_name;GP;GS;MIN;PTS;ORB;DR;REB;AST;STL;BLK;TO;PF;AST_TO
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;All Splits;Karl-Anthony Towns;74;74;33.4;24.6;2.6;7.2;9.8;3.6;1.0;1.1;3.1;3.6;1.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;All Splits;Anthony Edwards;72;72;34.3;21.3;0.9;3.9;4.8;3.8;1.5;0.6;2.6;2.3;1.4
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;All Splits;D'Angelo Russell;65;65;32.0;18.1;0.4;2.9;3.3;7.1;1.0;0.3;2.5;2.0;2.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;All Splits;Malik Beasley;79;18;25.0;12.1;0.3;2.5;2.9;1.5;0.5;0.2;0.5;1.1;2.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;All Splits;Jaden McDaniels;70;31;25.8;9.2;1.1;3.1;4.2;1.1;0.7;0.8;1.1;3.2;1.1
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;All Splits;Patrick Beverley;58;54;25.4;9.2;1.1;3.1;4.1;4.6;1.2;0.9;1.3;3.0;3.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;All Splits;Jaylen Nowell;62;1;15.7;8.5;0.4;1.6;2.0;2.1;0.4;0.2;0.6;1.2;3.6
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;All Splits;Naz Reid;77;6;15.8;8.3;1.3;2.6;3.9;0.9;0.5;0.9;1.1;2.2;0.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;All Splits;Taurean Prince;69;8;17.1;7.3;0.4;2.1;2.5;1.0;0.7;0.3;0.8;1.7;1.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;All Splits;Greg Monroe;4;0;20.3;7.3;1.5;4.5;6.0;4.0;1.0;1.5;1.8;2.3;2.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;All Splits;Jarred Vanderbilt;74;67;25.4;6.9;2.9;5.5;8.4;1.3;1.3;0.6;1.0;2.4;1.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;All Splits;Jordan McLaughlin;62;3;14.5;3.8;0.4;1.2;1.5;2.9;0.9;0.2;0.6;0.9;4.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;All Splits;Nathan Knight;37;2;7.2;3.7;0.9;1.4;2.3;0.6;0.2;0.2;0.5;1.1;1.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;All Splits;Josh Okogie;49;6;10.5;2.7;0.6;0.8;1.4;0.5;0.5;0.2;0.5;1.1;1.1
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;All Splits;Jake Layman;34;1;6.8;2.4;0.2;0.9;1.1;0.3;0.2;0.1;0.3;0.4;0.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;All Splits;Leandro Bolmaro;35;2;6.9;1.4;0.5;0.8;1.2;0.6;0.2;0.0;0.4;0.7;1.6
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;All Splits;McKinley Wright IV;5;0;3.8;1.0;0.0;0.0;0.0;0.6;0.0;0.0;0.2;0.2;3.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;All Splits;Chris Silva;1;0;3.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;All Splits;Total;82;"";"";115.9;11.2;32.9;44.2;25.7;8.8;5.6;13.7;21.8;1.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Home;Karl-Anthony Towns;38;38;32.9;24.8;2.7;7.6;10.2;3.4;0.8;1.2;2.9;3.7;1.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Home;Anthony Edwards;34;34;33.2;18.7;1.0;3.6;4.6;3.8;1.4;0.7;2.4;2.2;1.6
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Home;D'Angelo Russell;29;29;30.6;16.3;0.5;2.9;3.4;7.1;0.9;0.3;2.4;1.8;2.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Home;Malik Beasley;40;11;25.3;12.9;0.4;2.9;3.3;1.6;0.6;0.2;0.5;1.1;3.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Home;Patrick Beverley;31;28;25.2;9.3;1.2;3.3;4.4;4.3;0.8;0.9;1.4;3.1;3.1
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Home;Jaylen Nowell;31;0;16.3;9.2;0.3;1.5;1.9;2.2;0.2;0.1;0.7;1.1;3.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Home;Greg Monroe;3;0;22.0;9.0;1.3;4.7;6.0;5.0;1.3;2.0;2.0;2.7;2.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Home;Jaden McDaniels;36;15;25.1;8.9;1.1;2.6;3.7;1.0;0.8;0.9;1.1;2.9;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Home;Naz Reid;37;1;15.1;7.6;1.1;2.8;3.9;0.9;0.6;1.0;1.1;2.3;0.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Home;Taurean Prince;35;5;16.6;7.3;0.3;2.4;2.7;0.9;0.6;0.3;0.8;1.6;1.1
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Home;Jarred Vanderbilt;37;32;25.0;6.4;2.8;5.5;8.3;1.1;1.4;0.5;1.1;2.3;1.1
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Home;Nathan Knight;20;2;7.3;4.5;0.9;2.0;2.8;0.8;0.3;0.2;0.4;1.3;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Home;Jordan McLaughlin;35;3;16.2;4.3;0.3;1.5;1.9;2.9;1.0;0.1;0.9;1.0;3.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Home;Josh Okogie;26;6;10.8;3.0;0.6;1.1;1.7;0.6;0.7;0.3;0.5;1.0;1.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Home;Jake Layman;20;0;6.6;2.5;0.1;1.1;1.2;0.4;0.2;0.2;0.1;0.3;7.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Home;Leandro Bolmaro;18;1;7.0;1.4;0.4;0.9;1.3;0.5;0.3;0.0;0.5;0.7;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Home;McKinley Wright IV;5;0;3.8;1.0;0.0;0.0;0.0;0.6;0.0;0.0;0.2;0.2;3.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Home;Chris Silva;1;0;3.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Home;Total;41;"";"";113.4;11.3;34.6;45.9;25.5;8.7;5.9;13.7;21.6;1.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Away;Karl-Anthony Towns;36;36;34.1;24.4;2.6;6.8;9.4;3.9;1.1;1.0;3.2;3.6;1.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Away;Anthony Edwards;38;38;35.2;23.6;0.7;4.2;4.9;3.8;1.5;0.6;2.9;2.3;1.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Away;D'Angelo Russell;36;36;33.0;19.5;0.3;3.0;3.3;7.1;1.0;0.4;2.6;2.2;2.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Away;Malik Beasley;39;7;24.8;11.2;0.3;2.2;2.5;1.4;0.5;0.2;0.6;1.1;2.4
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Away;Jaden McDaniels;34;16;26.5;9.6;1.0;3.6;4.7;1.2;0.7;0.6;1.1;3.5;1.1
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Away;Patrick Beverley;27;26;25.8;9.1;1.0;2.9;3.8;5.0;1.5;0.9;1.1;2.9;4.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Away;Naz Reid;40;5;16.4;8.9;1.5;2.4;3.9;0.9;0.4;0.8;1.1;2.2;0.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Away;Jaylen Nowell;31;1;15.2;7.8;0.4;1.7;2.1;2.0;0.7;0.2;0.5;1.3;4.1
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Away;Jarred Vanderbilt;37;35;25.8;7.5;3.0;5.6;8.6;1.4;1.3;0.8;0.9;2.6;1.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Away;Taurean Prince;34;3;17.5;7.3;0.4;1.9;2.3;1.1;0.7;0.4;0.7;1.8;1.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Away;Jordan McLaughlin;27;0;12.4;3.1;0.4;0.7;1.1;2.9;0.8;0.2;0.2;0.7;12.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Away;Nathan Knight;17;0;7.1;2.8;0.9;0.8;1.7;0.4;0.1;0.3;0.6;0.9;0.6
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Away;Josh Okogie;23;0;10.2;2.4;0.6;0.5;1.1;0.4;0.4;0.2;0.5;1.1;0.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Away;Jake Layman;14;1;7.1;2.3;0.3;0.6;0.9;0.1;0.2;0.1;0.6;0.4;0.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Away;Greg Monroe;1;0;16.0;2.0;2.0;4.0;6.0;1.0;0.0;0.0;1.0;1.0;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Away;Leandro Bolmaro;17;1;6.8;1.5;0.5;0.6;1.1;0.7;0.1;0.0;0.2;0.8;3.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Away;Total;41;"";"";118.4;11.1;31.3;42.4;25.9;8.9;5.3;13.7;22.0;1.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Boston Celtics;Anthony Edwards;1;1;37.0;24.0;0.0;5.0;5.0;6.0;1.0;0.0;5.0;2.0;1.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Boston Celtics;Jaylen Nowell;2;0;31.0;21.0;1.0;3.0;4.0;2.5;0.5;0.5;0.5;1.5;5.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Boston Celtics;Karl-Anthony Towns;1;1;35.0;19.0;0.0;4.0;4.0;5.0;1.0;0.0;3.0;4.0;1.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Boston Celtics;Jaden McDaniels;1;1;36.0;17.0;1.0;4.0;5.0;2.0;1.0;0.0;2.0;3.0;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Boston Celtics;Malik Beasley;1;1;39.0;15.0;1.0;7.0;8.0;2.0;0.0;0.0;2.0;1.0;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Boston Celtics;Nathan Knight;2;1;17.0;12.5;1.5;5.0;6.5;2.0;0.5;0.5;1.0;2.5;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Boston Celtics;Greg Monroe;1;0;25.0;11.0;3.0;6.0;9.0;6.0;2.0;1.0;2.0;3.0;3.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Boston Celtics;Jarred Vanderbilt;1;1;18.0;11.0;2.0;2.0;4.0;0.0;0.0;0.0;0.0;2.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Boston Celtics;Taurean Prince;1;0;25.0;10.0;0.0;4.0;4.0;0.0;1.0;1.0;0.0;1.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Boston Celtics;Patrick Beverley;1;1;24.0;7.0;0.0;4.0;4.0;1.0;1.0;0.0;1.0;2.0;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Boston Celtics;Naz Reid;1;0;9.0;6.0;1.0;2.0;3.0;1.0;0.0;0.0;1.0;4.0;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Boston Celtics;Jordan McLaughlin;2;1;24.5;5.5;0.5;2.5;3.0;6.0;1.0;0.5;2.5;1.5;2.4
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Boston Celtics;Jake Layman;2;0;14.0;4.0;0.0;2.0;2.0;2.0;0.5;0.5;0.5;1.0;4.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Boston Celtics;D'Angelo Russell;1;1;31.0;4.0;0.0;1.0;1.0;6.0;2.0;0.0;2.0;2.0;3.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Boston Celtics;Josh Okogie;2;1;10.0;4.0;0.5;1.0;1.5;0.0;0.0;1.0;0.5;0.5;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Boston Celtics;Leandro Bolmaro;1;0;4.0;2.0;0.0;1.0;1.0;2.0;0.0;0.0;0.0;0.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Boston Celtics;Chris Silva;1;0;3.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Boston Celtics;Total;2;"";"";110.0;7.5;34.0;41.5;28.0;7.0;4.0;14.0;19.0;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Brooklyn Nets;Karl-Anthony Towns;1;1;32.0;23.0;0.0;7.0;7.0;2.0;2.0;2.0;3.0;3.0;0.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Brooklyn Nets;D'Angelo Russell;2;2;33.0;22.0;0.0;4.0;4.0;10.5;1.0;0.0;3.0;2.5;3.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Brooklyn Nets;Anthony Edwards;2;2;34.0;22.0;0.0;1.5;1.5;4.0;2.5;0.0;4.5;1.5;0.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Brooklyn Nets;Jaylen Nowell;1;0;22.0;16.0;0.0;2.0;2.0;3.0;0.0;0.0;1.0;1.0;3.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Brooklyn Nets;Jaden McDaniels;1;1;27.0;14.0;2.0;2.0;4.0;1.0;0.0;1.0;0.0;1.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Brooklyn Nets;Taurean Prince;2;1;19.5;13.0;0.0;0.0;0.0;0.0;0.0;0.5;1.0;2.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Brooklyn Nets;Naz Reid;2;1;24.5;11.5;2.5;3.5;6.0;1.0;0.5;1.5;0.5;2.5;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Brooklyn Nets;Malik Beasley;2;0;21.0;10.0;0.5;2.0;2.5;0.5;0.0;1.0;0.0;2.5;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Brooklyn Nets;Jarred Vanderbilt;2;2;30.5;9.5;4.0;8.0;12.0;2.5;3.0;0.5;0.5;2.5;5.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Brooklyn Nets;Leandro Bolmaro;1;0;25.0;4.0;3.0;2.0;5.0;2.0;0.0;0.0;0.0;2.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Brooklyn Nets;Josh Okogie;2;0;14.5;2.5;1.0;1.0;2.0;0.0;0.0;0.0;0.0;2.5;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Brooklyn Nets;Nathan Knight;2;0;7.5;1.5;2.5;1.0;3.5;0.0;0.0;0.5;0.5;1.5;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Brooklyn Nets;Jake Layman;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Brooklyn Nets;Jordan McLaughlin;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Brooklyn Nets;McKinley Wright IV;1;0;1.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Brooklyn Nets;Total;2;"";"";120.5;13.0;27.5;40.5;23.0;8.0;5.5;12.0;21.0;1.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. New York Knicks;Anthony Edwards;1;1;39.0;21.0;0.0;3.0;3.0;3.0;2.0;0.0;4.0;3.0;0.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. New York Knicks;Karl-Anthony Towns;1;1;36.0;20.0;1.0;4.0;5.0;3.0;1.0;0.0;2.0;4.0;1.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. New York Knicks;D'Angelo Russell;1;1;25.0;17.0;0.0;2.0;2.0;4.0;1.0;1.0;3.0;4.0;1.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. New York Knicks;Malik Beasley;2;1;28.5;15.0;0.0;3.5;3.5;0.5;0.5;0.0;0.0;1.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. New York Knicks;Jaden McDaniels;2;1;27.5;13.0;1.0;3.5;4.5;0.0;1.0;3.5;1.0;2.5;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. New York Knicks;Jaylen Nowell;2;0;26.0;12.5;1.0;4.0;5.0;4.5;1.0;0.5;1.0;1.5;4.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. New York Knicks;Jake Layman;1;0;17.0;9.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. New York Knicks;Jordan McLaughlin;1;1;24.0;9.0;1.0;2.0;3.0;2.0;1.0;0.0;1.0;1.0;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. New York Knicks;Nathan Knight;1;1;25.0;8.0;4.0;3.0;7.0;2.0;0.0;1.0;2.0;6.0;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. New York Knicks;Greg Monroe;1;0;22.0;7.0;0.0;6.0;6.0;4.0;0.0;3.0;1.0;3.0;4.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. New York Knicks;Naz Reid;2;0;12.0;6.0;1.0;3.0;4.0;1.0;0.0;1.5;0.0;0.5;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. New York Knicks;Patrick Beverley;2;2;30.0;5.0;1.5;4.5;6.0;6.5;2.0;0.5;1.5;4.0;4.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. New York Knicks;Jarred Vanderbilt;1;1;34.0;4.0;3.0;4.0;7.0;0.0;0.0;0.0;0.0;4.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. New York Knicks;Taurean Prince;1;0;4.0;2.0;0.0;1.0;1.0;0.0;1.0;0.0;1.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. New York Knicks;Josh Okogie;1;0;5.0;0.0;0.0;2.0;2.0;0.0;1.0;0.0;1.0;2.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. New York Knicks;Total;2;"";"";100.0;9.0;32.5;41.5;21.5;8.0;8.5;11.0;23.5;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Philadelphia 76ers;D'Angelo Russell;2;2;36.0;28.0;0.0;3.5;3.5;5.5;1.0;1.0;3.5;3.0;1.6
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Karl-Anthony Towns;2;2;35.5;26.5;1.5;7.0;8.5;1.5;0.0;0.5;2.0;4.5;0.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Anthony Edwards;2;2;42.5;17.0;0.5;4.0;4.5;6.0;2.0;1.0;3.0;2.0;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Naz Reid;2;0;17.5;10.0;1.0;2.5;3.5;1.0;0.5;0.5;3.0;4.0;0.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Jaden McDaniels;2;0;27.5;9.0;0.5;3.5;4.0;1.5;1.0;0.0;0.5;4.5;3.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Taurean Prince;2;1;27.5;6.5;0.5;3.5;4.0;3.0;0.0;0.0;0.5;3.0;6.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Malik Beasley;1;0;24.0;5.0;1.0;1.0;2.0;0.0;0.0;0.0;1.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Jaylen Nowell;1;0;16.0;5.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;1.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Jarred Vanderbilt;2;2;26.5;3.5;3.5;7.5;11.0;1.5;0.5;0.5;1.5;4.0;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Jordan McLaughlin;1;0;19.0;3.0;1.0;2.0;3.0;2.0;0.0;0.0;1.0;0.0;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Leandro Bolmaro;1;0;17.0;3.0;1.0;2.0;3.0;1.0;0.0;0.0;1.0;1.0;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Patrick Beverley;1;1;19.0;2.0;2.0;4.0;6.0;0.0;1.0;0.0;4.0;5.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Jake Layman;1;0;4.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Josh Okogie;1;0;4.0;2.0;0.0;2.0;2.0;1.0;0.0;0.0;2.0;1.0;0.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Total;2;"";"";111.5;10.0;37.5;47.5;22.5;5.5;3.5;18.5;29.0;1.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Toronto Raptors;Karl-Anthony Towns;2;2;33.0;20.0;2.0;8.5;10.5;3.0;2.5;0.5;4.5;4.0;0.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Toronto Raptors;Jaden McDaniels;1;0;30.0;18.0;2.0;5.0;7.0;1.0;1.0;1.0;3.0;3.0;0.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Toronto Raptors;Anthony Edwards;2;2;31.5;15.0;0.5;5.0;5.5;2.5;0.5;0.5;2.0;3.5;1.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Toronto Raptors;D'Angelo Russell;2;2;30.0;10.5;0.5;3.0;3.5;5.0;0.0;0.5;1.0;2.0;5.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Toronto Raptors;Patrick Beverley;2;2;26.0;10.0;0.0;2.0;2.0;3.0;0.5;1.0;2.0;4.0;1.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Toronto Raptors;Taurean Prince;2;0;16.5;7.0;1.5;2.0;3.5;0.5;0.5;1.0;2.0;1.5;0.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Toronto Raptors;Jarred Vanderbilt;2;2;19.5;7.0;3.0;2.0;5.0;3.0;0.5;1.0;1.0;0.0;3.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Toronto Raptors;Naz Reid;2;0;16.5;6.5;1.0;5.0;6.0;2.0;1.5;2.0;0.5;1.0;4.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Toronto Raptors;Jake Layman;1;0;5.0;6.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Toronto Raptors;Malik Beasley;1;0;18.0;6.0;1.0;1.0;2.0;1.0;0.0;0.0;0.0;0.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Toronto Raptors;Jordan McLaughlin;2;0;21.5;3.5;1.5;0.5;2.0;2.5;0.5;0.5;1.5;0.0;1.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Toronto Raptors;Jaylen Nowell;2;0;13.5;2.0;0.0;1.5;1.5;1.5;1.0;0.5;0.5;1.0;3.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Toronto Raptors;Josh Okogie;1;0;5.0;0.0;0.0;0.0;0.0;1.0;1.0;0.0;1.0;0.0;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Toronto Raptors;Leandro Bolmaro;1;0;4.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Toronto Raptors;Total;2;"";"";96.5;11.5;33.5;45.0;24.5;8.5;8.0;17.5;18.5;1.4
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Chicago Bulls;Karl-Anthony Towns;1;1;37.0;27.0;3.0;5.0;8.0;8.0;2.0;1.0;0.0;3.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Chicago Bulls;Anthony Edwards;2;2;27.5;19.5;0.0;3.0;3.0;4.5;0.5;0.5;2.5;1.5;1.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Chicago Bulls;D'Angelo Russell;1;1;29.0;18.0;0.0;1.0;1.0;3.0;1.0;0.0;3.0;2.0;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Chicago Bulls;Nathan Knight;1;0;16.0;17.0;2.0;6.0;8.0;3.0;0.0;0.0;1.0;4.0;3.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Chicago Bulls;Jaylen Nowell;1;0;21.0;15.0;0.0;0.0;0.0;2.0;0.0;1.0;1.0;0.0;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Chicago Bulls;Josh Okogie;1;0;21.0;13.0;3.0;0.0;3.0;2.0;2.0;1.0;0.0;4.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Chicago Bulls;Leandro Bolmaro;1;0;18.0;11.0;1.0;2.0;3.0;4.0;0.0;0.0;0.0;1.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Chicago Bulls;Jake Layman;1;0;17.0;10.0;0.0;3.0;3.0;0.0;1.0;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Chicago Bulls;Malik Beasley;2;1;19.5;9.5;0.5;2.0;2.5;1.0;0.5;0.5;0.0;0.5;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Chicago Bulls;Greg Monroe;1;0;18.0;9.0;1.0;2.0;3.0;5.0;2.0;2.0;3.0;2.0;1.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Chicago Bulls;Naz Reid;2;1;16.0;8.5;1.0;2.5;3.5;0.0;0.0;1.0;1.0;2.5;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Chicago Bulls;Jaden McDaniels;2;0;19.5;8.5;0.5;1.5;2.0;1.0;0.5;1.0;1.0;2.0;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Chicago Bulls;Patrick Beverley;2;2;22.5;7.5;0.5;0.5;1.0;5.0;0.5;0.5;0.5;1.5;10.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Chicago Bulls;Taurean Prince;1;0;13.0;3.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Chicago Bulls;Jordan McLaughlin;2;0;16.5;3.0;0.0;2.0;2.0;4.0;0.5;0.5;1.0;0.5;4.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Chicago Bulls;Jarred Vanderbilt;2;2;19.5;3.0;0.5;2.5;3.0;1.0;0.5;0.0;1.0;1.0;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Chicago Bulls;McKinley Wright IV;1;0;7.0;0.0;0.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Chicago Bulls;Total;2;"";"";121.0;8.0;24.0;32.0;31.0;7.0;6.5;11.0;17.5;2.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;D'Angelo Russell;1;1;35.0;25.0;1.0;3.0;4.0;3.0;1.0;1.0;4.0;3.0;0.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Karl-Anthony Towns;2;2;32.5;19.0;2.0;3.5;5.5;2.5;1.0;2.0;3.0;4.0;0.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Anthony Edwards;2;2;32.5;15.0;1.5;2.5;4.0;3.0;3.0;0.5;3.5;3.0;0.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Taurean Prince;2;1;15.5;12.0;0.5;0.5;1.0;1.5;1.5;0.0;0.5;2.0;3.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Malik Beasley;2;0;23.5;12.0;0.5;2.0;2.5;1.5;0.0;0.0;0.0;1.5;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Jaden McDaniels;2;0;19.5;11.0;0.0;2.5;2.5;1.0;0.0;0.0;1.5;4.0;0.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Jaylen Nowell;1;0;15.0;10.0;0.0;1.0;1.0;3.0;0.0;0.0;0.0;0.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Patrick Beverley;2;2;28.5;9.0;1.0;1.5;2.5;6.5;1.0;1.5;1.0;2.5;6.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Jarred Vanderbilt;2;2;28.5;8.5;1.0;7.5;8.5;2.0;1.5;1.0;0.5;3.0;4.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Naz Reid;2;0;14.0;7.0;0.0;1.0;1.0;1.0;0.5;0.0;1.5;2.0;0.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Nathan Knight;1;0;4.0;4.0;0.0;3.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Jake Layman;1;0;5.0;3.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;1.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Jordan McLaughlin;1;0;13.0;2.0;2.0;1.0;3.0;7.0;1.0;0.0;0.0;0.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Leandro Bolmaro;1;0;16.0;2.0;1.0;1.0;2.0;1.0;2.0;0.0;0.0;2.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Josh Okogie;1;0;4.0;0.0;1.0;1.0;2.0;1.0;0.0;0.0;0.0;0.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Total;2;"";"";116.5;9.0;26.5;35.5;27.0;10.5;5.5;13.5;25.0;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Detroit Pistons;Karl-Anthony Towns;2;2;37.0;22.5;3.0;10.0;13.0;3.0;0.0;1.5;4.0;1.0;0.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Detroit Pistons;D'Angelo Russell;1;1;30.0;22.0;1.0;4.0;5.0;8.0;1.0;0.0;1.0;1.0;8.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Detroit Pistons;Anthony Edwards;2;2;34.5;21.0;0.0;2.5;2.5;3.0;1.5;0.0;1.0;3.0;3.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Detroit Pistons;Malik Beasley;2;0;20.5;19.0;1.0;4.0;5.0;1.5;1.0;0.0;0.5;1.0;3.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Detroit Pistons;Taurean Prince;2;0;13.0;12.5;1.5;2.0;3.5;0.5;0.5;0.0;1.0;2.5;0.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Detroit Pistons;Jaden McDaniels;2;1;28.5;11.5;0.5;2.5;3.0;1.0;0.0;1.5;0.5;1.5;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Detroit Pistons;Patrick Beverley;2;2;29.5;10.5;0.5;5.5;6.0;4.5;1.5;0.0;1.0;3.0;4.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Detroit Pistons;Jarred Vanderbilt;2;2;24.5;7.5;1.5;4.0;5.5;0.5;1.0;1.0;1.5;2.5;0.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Detroit Pistons;Jordan McLaughlin;2;0;15.5;3.0;0.5;2.0;2.5;6.0;1.0;0.5;0.0;0.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Detroit Pistons;Naz Reid;2;0;11.0;2.5;1.0;1.0;2.0;1.5;0.5;0.5;2.0;1.5;0.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Detroit Pistons;Jaylen Nowell;2;0;10.0;2.0;0.0;1.0;1.0;2.5;1.0;0.0;0.0;2.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Detroit Pistons;Total;2;"";"";123.0;10.0;36.5;46.5;28.0;8.5;5.0;12.0;18.5;2.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Indiana Pacers;Anthony Edwards;2;2;39.0;29.0;0.5;6.5;7.0;4.5;3.5;0.5;1.5;2.0;3.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Indiana Pacers;Karl-Anthony Towns;2;2;27.5;23.5;3.5;7.0;10.5;2.5;0.0;0.0;7.5;5.5;0.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Indiana Pacers;D'Angelo Russell;2;2;37.0;22.0;1.0;4.0;5.0;8.5;1.0;0.0;1.0;3.5;8.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Indiana Pacers;Patrick Beverley;1;1;30.0;13.0;0.0;4.0;4.0;2.0;1.0;2.0;3.0;5.0;0.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Indiana Pacers;Naz Reid;2;0;23.0;13.0;0.5;2.0;2.5;1.5;0.0;2.0;0.0;2.5;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Indiana Pacers;Jaden McDaniels;1;0;30.0;11.0;0.0;2.0;2.0;0.0;1.0;1.0;0.0;4.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Indiana Pacers;Malik Beasley;2;0;24.0;9.5;0.0;4.5;4.5;1.5;0.5;0.0;1.0;2.0;1.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Indiana Pacers;Jarred Vanderbilt;1;1;23.0;4.0;2.0;5.0;7.0;1.0;0.0;1.0;0.0;1.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Indiana Pacers;Jordan McLaughlin;1;0;17.0;3.0;0.0;0.0;0.0;3.0;1.0;0.0;0.0;1.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Indiana Pacers;Josh Okogie;1;1;33.0;2.0;1.0;2.0;3.0;4.0;2.0;2.0;0.0;3.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Indiana Pacers;Jaylen Nowell;1;0;7.0;2.0;0.0;1.0;1.0;0.0;0.0;1.0;0.0;2.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Indiana Pacers;Taurean Prince;1;1;23.0;0.0;1.0;3.0;4.0;1.0;0.0;1.0;0.0;2.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Indiana Pacers;Leandro Bolmaro;1;0;15.0;0.0;1.0;4.0;5.0;0.0;1.0;0.0;1.0;1.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Indiana Pacers;Total;2;"";"";114.5;8.0;34.5;42.5;24.0;8.0;6.5;13.0;25.0;1.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Karl-Anthony Towns;2;2;35.0;25.0;1.5;5.5;7.0;5.0;1.5;1.5;5.0;2.0;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Anthony Edwards;2;2;33.0;25.0;0.5;5.5;6.0;3.5;2.0;0.0;1.5;1.5;2.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Milwaukee Bucks;D'Angelo Russell;2;2;33.0;22.5;0.5;3.5;4.0;7.5;0.0;0.0;4.0;2.0;1.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Naz Reid;2;0;11.0;10.5;1.5;0.5;2.0;0.5;0.5;0.0;1.0;2.0;0.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Jaylen Nowell;1;0;21.0;10.0;1.0;2.0;3.0;2.0;0.0;0.0;0.0;2.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Jarred Vanderbilt;2;2;31.0;9.5;3.0;7.5;10.5;2.0;1.0;0.0;0.5;3.5;4.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Taurean Prince;2;0;16.5;8.0;0.0;2.5;2.5;1.0;1.5;0.5;0.0;2.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Malik Beasley;2;0;19.5;7.5;0.5;2.5;3.0;2.5;0.5;0.0;0.0;0.5;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Nathan Knight;1;0;4.0;6.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Patrick Beverley;2;1;15.5;4.5;0.0;3.5;3.5;3.5;1.0;0.5;1.0;1.0;3.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Jordan McLaughlin;2;0;11.5;3.5;0.5;0.5;1.0;1.5;0.5;0.0;0.0;1.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Jaden McDaniels;1;1;32.0;3.0;1.0;10.0;11.0;2.0;0.0;1.0;2.0;4.0;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Jake Layman;1;0;4.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Josh Okogie;1;0;4.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Leandro Bolmaro;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Total;2;"";"";125.5;9.0;37.5;46.5;29.5;8.5;3.0;14.0;19.5;2.1
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Atlanta Hawks;D'Angelo Russell;1;1;35.0;31.0;0.0;2.0;2.0;5.0;2.0;1.0;4.0;2.0;1.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Atlanta Hawks;Karl-Anthony Towns;2;2;37.5;24.0;2.5;10.5;13.0;6.5;1.0;1.0;2.0;5.5;3.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Atlanta Hawks;Malik Beasley;2;0;29.5;20.0;1.0;3.0;4.0;2.0;0.0;0.0;0.0;1.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Atlanta Hawks;Anthony Edwards;2;2;32.0;20.0;1.0;2.0;3.0;3.5;1.0;1.5;2.0;1.5;1.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Atlanta Hawks;Jaylen Nowell;1;0;17.0;9.0;1.0;2.0;3.0;1.0;0.0;0.0;0.0;2.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Atlanta Hawks;Naz Reid;2;0;16.5;8.5;1.5;3.5;5.0;0.5;0.5;1.0;1.5;1.0;0.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Atlanta Hawks;Jarred Vanderbilt;2;2;26.0;8.0;4.5;6.0;10.5;2.0;2.0;0.0;0.5;3.0;4.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Atlanta Hawks;Jordan McLaughlin;1;0;22.0;7.0;1.0;2.0;3.0;4.0;1.0;0.0;0.0;1.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Atlanta Hawks;Taurean Prince;2;1;19.0;5.0;0.5;1.5;2.0;1.0;1.5;0.0;0.5;0.5;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Atlanta Hawks;Jaden McDaniels;2;0;19.5;4.5;1.5;1.0;2.5;0.0;1.0;0.0;1.5;3.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Atlanta Hawks;Leandro Bolmaro;1;1;18.0;2.0;2.0;1.0;3.0;0.0;1.0;0.0;1.0;3.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Atlanta Hawks;Josh Okogie;2;0;10.5;1.5;1.0;0.5;1.5;0.0;0.5;0.0;0.0;1.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Atlanta Hawks;Patrick Beverley;1;1;6.0;0.0;1.0;0.0;1.0;2.0;0.0;0.0;0.0;0.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Atlanta Hawks;Total;2;"";"";116.0;16.0;31.5;47.5;21.5;9.5;4.0;10.5;20.5;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Charlotte Hornets;Karl-Anthony Towns;2;2;36.5;32.0;2.5;8.5;11.0;4.5;1.0;0.5;3.0;3.5;1.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Charlotte Hornets;D'Angelo Russell;2;2;33.0;18.0;1.0;4.0;5.0;8.0;0.0;0.0;2.0;2.5;4.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Charlotte Hornets;Patrick Beverley;1;1;36.0;15.0;4.0;4.0;8.0;4.0;3.0;2.0;2.0;6.0;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Charlotte Hornets;Jaden McDaniels;2;1;29.5;11.0;2.5;3.0;5.5;1.5;2.0;1.5;2.0;3.0;0.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Charlotte Hornets;Anthony Edwards;2;2;22.5;10.0;1.5;3.0;4.5;1.5;1.0;0.5;1.0;1.5;1.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Charlotte Hornets;Malik Beasley;2;0;20.5;9.0;0.0;0.5;0.5;0.5;0.0;0.0;0.5;1.5;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Charlotte Hornets;Jarred Vanderbilt;2;2;31.0;7.5;2.5;8.5;11.0;0.0;1.5;0.5;1.5;2.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Charlotte Hornets;Jaylen Nowell;2;0;6.5;7.0;0.0;0.5;0.5;1.5;0.0;0.0;0.5;0.0;3.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Charlotte Hornets;Naz Reid;2;0;12.5;6.0;1.5;3.0;4.5;1.0;0.5;1.0;0.0;2.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Charlotte Hornets;Taurean Prince;2;0;15.0;4.0;1.0;1.5;2.5;1.0;1.0;1.5;0.5;0.5;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Charlotte Hornets;Josh Okogie;1;0;12.0;4.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;1.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Charlotte Hornets;Jordan McLaughlin;2;0;15.5;3.5;0.0;0.5;0.5;3.5;0.5;0.0;0.0;2.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Charlotte Hornets;Jake Layman;1;0;7.0;2.0;1.0;1.0;2.0;0.0;0.0;1.0;1.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Charlotte Hornets;Nathan Knight;1;0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Charlotte Hornets;Leandro Bolmaro;1;0;4.0;2.0;2.0;0.0;2.0;2.0;0.0;0.0;0.0;2.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Charlotte Hornets;Total;2;"";"";120.5;16.0;35.5;51.5;26.5;9.0;7.0;12.5;23.0;2.1
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Miami Heat;Anthony Edwards;2;2;40.0;24.0;0.5;10.5;11.0;5.5;3.0;1.0;3.0;2.5;1.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Miami Heat;Malik Beasley;2;1;34.0;20.5;0.5;2.5;3.0;0.5;1.0;0.5;0.5;3.5;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Miami Heat;D'Angelo Russell;2;2;35.0;17.0;0.0;4.5;4.5;7.5;1.0;1.0;4.5;0.0;1.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Miami Heat;Jaylen Nowell;1;0;22.0;16.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Miami Heat;Karl-Anthony Towns;2;2;27.0;13.0;1.5;6.5;8.0;2.0;0.0;1.0;2.5;4.0;0.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Miami Heat;Jaden McDaniels;2;1;24.0;10.5;2.0;3.0;5.0;0.0;0.5;1.0;2.0;5.5;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Miami Heat;Jarred Vanderbilt;1;1;25.0;8.0;7.0;8.0;15.0;3.0;4.0;0.0;1.0;5.0;3.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Miami Heat;Taurean Prince;2;0;17.5;7.0;0.0;1.5;1.5;0.5;0.5;0.0;0.5;2.0;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Miami Heat;Naz Reid;2;0;20.0;6.5;2.5;5.5;8.0;1.0;1.5;1.5;0.5;1.5;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Miami Heat;Jordan McLaughlin;2;0;16.0;2.5;0.0;0.5;0.5;3.0;1.5;0.0;1.0;0.5;3.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Miami Heat;Patrick Beverley;1;1;5.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;1.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Miami Heat;Josh Okogie;1;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Miami Heat;Total;2;"";"";113.0;10.5;38.5;49.0;22.5;11.0;6.0;15.0;22.5;1.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Orlando Magic;Anthony Edwards;2;2;35.5;24.5;1.0;3.5;4.5;4.0;1.5;0.0;1.0;2.0;4.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Orlando Magic;Karl-Anthony Towns;2;2;35.5;22.0;4.0;10.5;14.5;5.0;2.0;1.0;2.5;4.0;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Orlando Magic;Jaylen Nowell;1;0;13.0;12.0;0.0;2.0;2.0;3.0;0.0;0.0;0.0;2.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Orlando Magic;Malik Beasley;2;0;32.5;9.5;2.0;3.0;5.0;2.0;1.5;0.0;1.0;0.0;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Orlando Magic;Patrick Beverley;1;1;4.0;9.0;0.0;0.0;0.0;0.0;1.0;0.0;1.0;3.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Orlando Magic;Jaden McDaniels;2;1;24.5;8.5;1.0;1.5;2.5;1.0;1.0;1.5;1.5;4.0;0.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Orlando Magic;D'Angelo Russell;2;2;28.0;8.0;0.0;3.5;3.5;5.0;0.0;0.5;1.5;1.0;3.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Orlando Magic;Naz Reid;2;0;14.0;7.0;1.0;2.0;3.0;1.5;0.5;0.0;1.0;4.0;1.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Orlando Magic;Jordan McLaughlin;1;0;20.0;6.0;0.0;0.0;0.0;4.0;0.0;0.0;1.0;2.0;4.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Orlando Magic;Jarred Vanderbilt;2;2;25.0;6.0;1.0;6.0;7.0;0.0;0.5;0.0;0.0;2.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Orlando Magic;Taurean Prince;2;0;19.0;4.5;0.0;0.0;0.0;0.5;0.5;0.0;1.0;1.5;0.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Orlando Magic;Josh Okogie;1;0;12.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Orlando Magic;Nathan Knight;1;0;1.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Orlando Magic;Leandro Bolmaro;1;0;1.0;0.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Orlando Magic;Total;2;"";"";103.5;10.5;31.5;42.0;22.5;8.0;3.0;10.5;22.0;2.1
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Washington Wizards;Karl-Anthony Towns;2;2;34.0;30.0;4.0;6.0;10.0;2.5;0.5;1.5;1.5;2.5;1.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Washington Wizards;Anthony Edwards;2;2;35.0;21.5;0.5;4.0;4.5;3.5;0.5;0.5;2.5;1.0;1.4
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Washington Wizards;D'Angelo Russell;2;2;34.0;13.5;0.5;3.5;4.0;10.0;0.0;1.0;2.5;1.0;4.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Washington Wizards;Malik Beasley;2;1;27.5;11.0;0.0;2.5;2.5;0.5;0.0;0.0;0.5;1.0;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Washington Wizards;Naz Reid;2;0;16.0;8.5;1.0;1.5;2.5;0.0;0.5;0.0;2.0;3.5;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Washington Wizards;Taurean Prince;2;1;19.5;8.0;0.0;2.5;2.5;1.0;0.5;0.0;0.5;2.0;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Washington Wizards;Jaylen Nowell;2;0;9.0;6.5;0.0;1.5;1.5;0.5;0.5;0.0;0.0;0.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Washington Wizards;Jarred Vanderbilt;2;2;27.0;6.0;2.5;6.5;9.0;0.0;0.5;1.0;0.5;2.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Washington Wizards;Jordan McLaughlin;1;0;21.0;5.0;1.0;1.0;2.0;4.0;2.0;1.0;1.0;3.0;4.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Washington Wizards;Josh Okogie;2;0;11.0;2.0;0.0;0.0;0.0;0.5;0.5;0.0;0.0;2.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Washington Wizards;Leandro Bolmaro;1;0;16.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;5.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Washington Wizards;McKinley Wright IV;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Washington Wizards;Jaden McDaniels;1;0;15.0;0.0;0.0;2.0;2.0;1.0;0.0;0.0;0.0;1.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Washington Wizards;Total;2;"";"";110.5;9.0;29.5;38.5;21.0;4.5;4.5;10.5;19.5;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Denver Nuggets;Karl-Anthony Towns;4;4;32.0;25.5;1.8;6.0;7.8;3.5;1.8;1.0;2.8;4.3;1.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Denver Nuggets;Anthony Edwards;4;4;33.3;18.8;1.5;4.5;6.0;2.8;0.5;0.5;1.8;1.5;1.6
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Denver Nuggets;D'Angelo Russell;3;3;33.7;18.0;0.3;3.7;4.0;5.7;1.0;0.3;2.7;1.3;2.1
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Denver Nuggets;Taurean Prince;3;0;20.0;13.0;0.7;3.3;4.0;2.0;1.0;0.3;1.7;0.7;1.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Denver Nuggets;Malik Beasley;4;0;24.5;12.5;0.3;3.5;3.8;1.5;1.0;0.3;0.8;0.8;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Denver Nuggets;Naz Reid;4;0;16.5;9.8;1.3;1.5;2.8;1.0;0.5;1.5;1.0;2.3;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Denver Nuggets;Patrick Beverley;4;3;23.8;9.5;1.0;2.0;3.0;5.5;1.8;1.0;1.3;4.5;4.4
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Denver Nuggets;Jarred Vanderbilt;4;4;22.5;8.5;2.8;4.0;6.8;1.3;1.0;0.5;0.8;3.0;1.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Denver Nuggets;Jordan McLaughlin;3;0;15.7;6.0;0.3;2.0;2.3;3.3;0.7;0.0;0.0;0.7;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Denver Nuggets;Jaylen Nowell;2;0;15.0;5.0;0.0;1.0;1.0;1.5;0.0;0.0;1.5;1.5;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Denver Nuggets;Jaden McDaniels;3;2;24.7;5.0;1.0;4.0;5.0;2.0;1.0;0.7;0.7;3.7;3.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Denver Nuggets;Josh Okogie;2;0;12.5;2.5;1.5;1.5;3.0;1.0;1.5;0.0;0.5;0.5;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Denver Nuggets;Nathan Knight;1;0;3.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Denver Nuggets;Jake Layman;2;0;3.5;0.0;0.0;0.0;0.0;0.0;0.0;0.5;0.0;0.5;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Denver Nuggets;Leandro Bolmaro;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Denver Nuggets;Total;4;"";"";120.3;11.0;32.8;43.8;26.5;10.0;6.0;13.0;22.5;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Anthony Edwards;3;3;29.0;20.7;0.7;3.3;4.0;4.0;2.7;0.7;2.0;2.0;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Karl-Anthony Towns;4;4;29.8;17.3;2.5;8.3;10.8;3.8;1.3;2.3;4.5;3.5;0.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;D'Angelo Russell;4;4;29.0;14.0;0.3;1.8;2.0;8.5;1.8;0.0;2.5;0.8;3.4
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Patrick Beverley;2;2;25.0;13.5;0.5;2.0;2.5;7.0;1.0;0.5;2.0;3.5;3.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Malik Beasley;4;1;23.0;13.3;0.0;3.8;3.8;1.8;0.5;0.0;0.8;0.5;2.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Naz Reid;4;0;15.8;12.5;1.3;4.0;5.3;0.8;0.5;1.8;1.3;1.0;0.6
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Jaden McDaniels;4;3;22.0;12.0;0.8;2.0;2.8;1.5;0.8;0.3;1.0;2.8;1.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Taurean Prince;4;0;17.5;10.0;0.0;3.5;3.5;1.0;1.0;0.5;1.0;1.3;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Jaylen Nowell;4;0;18.8;9.8;0.5;2.3;2.8;4.0;0.5;0.0;0.5;1.3;8.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Jarred Vanderbilt;3;3;27.7;6.7;3.7;8.7;12.3;3.0;2.0;1.0;0.7;1.7;4.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Josh Okogie;3;0;12.3;5.0;0.0;1.7;1.7;0.0;0.7;0.0;0.3;1.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Leandro Bolmaro;2;0;5.0;3.0;0.0;0.5;0.5;0.5;0.5;0.0;0.0;0.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Jordan McLaughlin;3;0;13.7;2.7;0.0;0.3;0.3;2.0;1.0;0.7;0.0;1.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Nathan Knight;3;0;5.3;2.0;0.3;1.3;1.7;1.0;0.7;0.0;1.0;0.0;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Jake Layman;3;0;5.3;1.3;0.0;0.0;0.0;0.3;0.3;0.0;0.0;0.3;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Total;4;"";"";125.8;9.0;38.3;47.3;32.8;12.5;6.8;15.5;17.3;2.1
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Anthony Edwards;2;2;34.0;32.0;0.5;6.0;6.5;1.5;2.0;1.5;1.5;4.0;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Karl-Anthony Towns;4;4;32.8;25.8;4.0;9.8;13.8;3.0;0.3;2.3;2.5;2.5;1.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Portland Trail Blazers;D'Angelo Russell;3;3;35.0;18.0;0.7;2.7;3.3;8.0;1.0;0.0;2.7;2.7;3.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Jarred Vanderbilt;4;4;30.8;11.3;3.3;5.5;8.8;2.3;1.8;0.5;1.0;1.3;2.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Malik Beasley;4;2;23.0;11.0;0.0;1.0;1.0;1.3;0.8;0.5;0.0;0.5;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Jaylen Nowell;4;0;17.0;10.3;0.0;1.5;1.5;2.5;0.0;0.3;1.0;0.8;2.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Jaden McDaniels;4;3;26.8;9.3;1.0;4.8;5.8;0.5;0.5;1.0;1.3;2.8;0.4
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Naz Reid;4;0;13.5;8.3;1.3;2.8;4.0;0.8;0.5;0.3;2.5;3.3;0.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Patrick Beverley;2;2;28.0;8.0;0.5;6.5;7.0;5.5;1.5;0.5;2.0;3.5;2.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Jordan McLaughlin;2;0;20.5;6.5;1.0;1.5;2.5;6.5;4.0;0.5;1.5;2.5;4.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Jake Layman;1;0;12.0;5.0;2.0;5.0;7.0;1.0;0.0;1.0;1.0;1.0;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Taurean Prince;3;0;19.0;4.7;0.3;1.7;2.0;1.7;0.3;1.0;2.7;2.0;0.6
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Josh Okogie;2;0;12.0;4.5;0.5;0.5;1.0;0.0;1.0;0.0;0.5;1.5;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Nathan Knight;1;0;10.0;4.0;1.0;2.0;3.0;1.0;1.0;0.0;1.0;1.0;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Leandro Bolmaro;2;0;6.5;1.0;0.0;0.5;0.5;1.0;0.0;0.0;0.5;2.0;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Total;4;"";"";121.0;12.3;37.8;50.0;25.3;9.3;7.0;15.8;21.8;1.6
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Utah Jazz;Karl-Anthony Towns;2;2;34.0;26.5;3.0;6.0;9.0;7.5;1.0;0.5;2.5;3.0;3.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Utah Jazz;Anthony Edwards;3;3;33.7;19.7;0.0;2.7;2.7;3.7;0.7;0.0;2.7;3.0;1.4
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Utah Jazz;Malik Beasley;4;3;30.8;19.3;0.8;3.3;4.0;1.5;0.5;0.0;1.8;1.8;0.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Utah Jazz;D'Angelo Russell;1;1;41.0;19.0;1.0;6.0;7.0;14.0;0.0;0.0;3.0;3.0;4.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Utah Jazz;Jaden McDaniels;4;1;30.0;13.8;1.0;4.0;5.0;3.0;0.8;0.5;1.8;3.0;1.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Utah Jazz;Patrick Beverley;2;2;26.0;13.5;0.0;2.0;2.0;4.0;1.0;1.0;0.5;2.5;8.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Utah Jazz;Jaylen Nowell;3;0;21.0;10.0;0.0;1.3;1.3;4.0;0.7;0.0;1.0;2.7;4.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Utah Jazz;Taurean Prince;2;1;22.0;9.5;0.0;6.0;6.0;1.0;1.0;0.0;1.5;0.5;0.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Utah Jazz;Naz Reid;4;2;19.8;9.5;3.0;3.0;6.0;1.5;0.8;0.5;0.8;2.5;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Utah Jazz;Josh Okogie;1;0;6.0;6.0;1.0;1.0;2.0;0.0;0.0;0.0;1.0;1.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Utah Jazz;Jarred Vanderbilt;3;3;24.7;4.7;2.7;4.0;6.7;1.0;2.0;1.3;1.0;1.7;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Utah Jazz;Jake Layman;4;1;13.0;4.5;0.8;1.5;2.3;0.5;0.5;0.3;1.0;0.5;0.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Utah Jazz;Nathan Knight;4;0;10.0;4.5;1.0;0.8;1.8;0.8;0.0;0.5;0.5;1.0;1.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Utah Jazz;Jordan McLaughlin;4;1;14.8;4.0;0.0;0.8;0.8;2.0;2.3;0.0;0.8;1.8;2.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Utah Jazz;Greg Monroe;1;0;16.0;2.0;2.0;4.0;6.0;1.0;0.0;0.0;1.0;1.0;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Utah Jazz;Leandro Bolmaro;3;0;7.0;1.0;0.3;0.3;0.7;1.0;0.3;0.0;0.3;0.0;3.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Utah Jazz;Total;4;"";"";113.5;11.3;29.3;40.5;26.5;9.0;3.5;13.8;20.3;1.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Golden State Warriors;Karl-Anthony Towns;4;4;34.0;28.3;3.0;7.8;10.8;3.0;0.8;0.5;1.3;3.3;2.4
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Golden State Warriors;Anthony Edwards;3;3;35.7;28.0;1.3;3.0;4.3;4.3;1.3;1.0;3.7;1.0;1.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Golden State Warriors;D'Angelo Russell;4;4;26.5;13.8;0.3;2.5;2.8;7.8;1.3;0.3;3.5;1.8;2.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Golden State Warriors;Jaylen Nowell;3;0;23.3;10.7;1.0;1.7;2.7;3.0;1.0;0.3;0.3;2.3;9.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Golden State Warriors;Malik Beasley;4;0;23.5;10.5;0.0;2.3;2.3;2.0;0.3;0.3;0.8;1.3;2.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Golden State Warriors;Naz Reid;4;0;16.8;9.5;1.0;3.5;4.5;1.0;0.3;0.3;1.3;1.8;0.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Golden State Warriors;Patrick Beverley;3;3;27.3;8.3;1.0;2.7;3.7;6.0;0.7;0.7;0.7;3.3;9.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Golden State Warriors;Jaden McDaniels;4;3;23.0;8.3;0.5;2.3;2.8;0.8;1.0;1.0;1.3;3.5;0.6
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Golden State Warriors;Taurean Prince;3;0;16.3;6.3;0.0;3.0;3.0;0.7;1.0;0.3;0.7;1.0;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Golden State Warriors;Jarred Vanderbilt;4;3;24.3;5.8;2.3;4.8;7.0;1.5;1.3;0.8;1.8;2.3;0.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Golden State Warriors;McKinley Wright IV;1;0;3.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Golden State Warriors;Josh Okogie;3;0;5.0;1.3;0.0;0.0;0.0;0.0;0.0;0.0;0.3;0.3;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Golden State Warriors;Jordan McLaughlin;3;0;11.3;1.0;0.3;1.7;2.0;1.0;1.0;0.0;0.3;1.3;3.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Golden State Warriors;Jake Layman;1;0;3.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Golden State Warriors;Nathan Knight;2;0;2.0;0.0;0.0;1.5;1.5;0.0;0.5;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Golden State Warriors;Leandro Bolmaro;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Golden State Warriors;Total;4;"";"";118.3;9.8;32.8;42.5;27.3;9.0;4.8;14.3;21.0;1.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. LA Clippers;Anthony Edwards;4;4;34.3;23.5;1.0;3.3;4.3;4.0;1.5;1.3;4.0;1.8;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. LA Clippers;Karl-Anthony Towns;3;3;33.3;15.3;1.7;7.3;9.0;2.3;2.3;0.3;3.0;3.0;0.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. LA Clippers;D'Angelo Russell;1;1;30.0;15.0;0.0;2.0;2.0;8.0;1.0;1.0;0.0;0.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. LA Clippers;Malik Beasley;4;1;26.8;12.8;0.0;2.0;2.0;1.3;0.5;0.0;0.3;0.5;5.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. LA Clippers;Jaden McDaniels;4;2;25.8;10.8;1.5;1.5;3.0;1.8;0.8;0.3;1.0;3.8;1.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. LA Clippers;Naz Reid;4;1;16.8;9.8;0.8;2.0;2.8;1.3;0.5;1.0;1.0;2.0;1.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. LA Clippers;Patrick Beverley;4;4;25.8;7.8;1.5;3.0;4.5;6.3;0.8;0.3;1.8;3.0;3.6
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. LA Clippers;Jarred Vanderbilt;4;2;23.0;7.3;2.8;4.5;7.3;0.5;0.8;0.8;1.5;2.0;0.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. LA Clippers;Josh Okogie;3;1;11.7;6.7;0.7;0.7;1.3;0.3;0.3;0.7;1.7;1.0;0.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. LA Clippers;Taurean Prince;4;1;16.0;6.0;1.0;2.8;3.8;1.3;0.5;0.3;0.8;2.0;1.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. LA Clippers;Jaylen Nowell;4;0;12.8;3.5;0.5;1.3;1.8;2.8;0.8;0.0;0.8;0.3;3.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. LA Clippers;Jordan McLaughlin;3;0;11.0;2.3;0.0;1.0;1.0;3.0;0.7;0.0;1.0;0.3;3.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. LA Clippers;Nathan Knight;2;0;8.5;2.0;1.0;1.0;2.0;1.0;0.0;0.0;0.5;1.0;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. LA Clippers;Jake Layman;2;0;4.5;1.5;0.0;1.0;1.0;0.0;0.5;0.0;0.0;0.5;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. LA Clippers;Leandro Bolmaro;3;0;4.0;1.0;0.0;1.0;1.0;0.0;0.0;0.0;0.7;0.3;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. LA Clippers;Total;4;"";"";105.8;11.3;29.3;40.5;25.8;9.0;4.8;16.0;19.5;1.6
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Karl-Anthony Towns;3;3;29.7;29.0;2.3;6.0;8.3;2.3;1.0;1.7;2.7;3.7;0.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Anthony Edwards;3;3;34.0;18.0;1.3;4.0;5.3;3.0;1.3;0.7;5.3;2.7;0.6
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Los Angeles Lakers;D'Angelo Russell;3;3;30.7;15.0;0.0;3.0;3.0;6.3;1.3;0.0;3.0;1.7;2.1
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Naz Reid;3;1;20.3;13.0;3.0;3.7;6.7;1.3;0.3;0.0;1.3;2.7;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Patrick Beverley;4;4;28.8;12.5;2.3;5.5;7.8;4.5;1.3;1.3;1.3;2.5;3.6
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Malik Beasley;4;2;28.8;11.3;0.5;3.0;3.5;2.3;0.8;0.0;1.0;0.8;2.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Jaylen Nowell;4;0;15.8;10.8;0.3;2.5;2.8;1.3;1.0;0.5;0.8;1.0;1.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Jaden McDaniels;3;0;21.3;8.0;2.7;3.3;6.0;0.3;0.3;0.0;1.7;5.3;0.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Taurean Prince;3;0;14.0;5.3;0.3;2.0;2.3;0.3;0.3;0.3;0.3;1.0;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Nathan Knight;4;0;7.8;3.8;1.0;2.0;3.0;0.0;0.3;0.0;0.3;1.8;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Jarred Vanderbilt;4;4;26.5;3.8;4.0;6.8;10.8;1.3;2.5;0.8;1.8;2.8;0.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Josh Okogie;3;0;9.7;2.0;1.0;2.0;3.0;0.3;0.3;0.0;0.7;1.7;0.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Jake Layman;3;0;4.0;1.0;0.0;1.0;1.0;0.0;0.0;0.0;0.3;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Jordan McLaughlin;4;0;7.8;0.5;0.0;0.5;0.5;2.5;0.3;0.0;0.5;0.0;5.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Leandro Bolmaro;3;0;2.3;0.0;0.0;0.7;0.7;0.3;0.0;0.0;0.7;0.0;0.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Total;4;"";"";111.0;16.0;39.5;55.5;22.5;9.8;4.5;17.5;22.8;1.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Phoenix Suns;Karl-Anthony Towns;3;3;34.0;24.3;3.0;8.0;11.0;3.0;0.3;1.0;3.7;5.0;0.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Phoenix Suns;Anthony Edwards;3;3;37.0;18.3;1.3;5.7;7.0;6.7;2.0;1.3;3.7;3.7;1.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Phoenix Suns;Malik Beasley;3;0;24.7;17.7;0.0;4.7;4.7;1.3;0.7;0.3;0.7;0.7;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Phoenix Suns;D'Angelo Russell;2;2;31.0;14.0;0.5;2.0;2.5;5.5;1.0;0.0;0.5;2.5;11.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Phoenix Suns;Jaylen Nowell;2;1;13.5;12.5;0.0;0.5;0.5;0.0;0.0;0.0;0.0;2.5;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Phoenix Suns;Taurean Prince;2;0;21.0;12.0;0.0;3.5;3.5;1.0;0.5;0.5;0.0;2.5;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Phoenix Suns;Patrick Beverley;2;2;32.5;9.5;1.5;4.5;6.0;3.5;0.0;0.0;1.0;3.5;3.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Phoenix Suns;Naz Reid;2;0;17.0;8.0;2.0;1.5;3.5;1.0;0.5;1.5;0.5;4.0;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Phoenix Suns;Jarred Vanderbilt;3;3;26.3;7.7;3.7;4.7;8.3;0.3;0.7;0.3;1.7;2.3;0.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Phoenix Suns;Jordan McLaughlin;2;0;17.0;5.5;0.0;0.5;0.5;2.5;1.5;0.0;0.0;1.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Phoenix Suns;Jaden McDaniels;2;1;30.0;4.0;2.0;2.0;4.0;2.0;0.5;0.0;0.5;4.0;4.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Phoenix Suns;Leandro Bolmaro;1;0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Phoenix Suns;Jake Layman;1;0;1.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Phoenix Suns;Josh Okogie;3;0;9.3;0.0;0.0;0.7;0.7;0.0;0.3;0.3;1.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Phoenix Suns;Total;3;"";"";112.0;12.0;33.7;45.7;21.7;6.7;4.7;12.3;25.0;1.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Sacramento Kings;Karl-Anthony Towns;3;3;33.3;22.7;2.0;5.3;7.3;5.0;0.0;1.0;4.0;3.7;1.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Sacramento Kings;D'Angelo Russell;3;3;31.3;20.0;1.0;2.0;3.0;8.0;1.3;0.7;2.3;2.0;3.4
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Sacramento Kings;Anthony Edwards;3;3;34.3;19.0;0.7;2.3;3.0;1.7;0.3;0.7;1.7;3.3;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Sacramento Kings;Patrick Beverley;2;2;28.5;11.5;1.0;3.5;4.5;6.0;0.5;2.5;1.5;3.5;4.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Sacramento Kings;Malik Beasley;3;0;19.3;10.3;0.0;1.7;1.7;0.3;0.7;0.0;0.3;1.7;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Sacramento Kings;Jaden McDaniels;3;1;24.3;9.3;0.3;3.3;3.7;1.3;0.7;0.0;0.7;3.0;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Sacramento Kings;Naz Reid;3;0;13.7;9.0;1.0;2.3;3.3;0.7;0.3;1.3;0.7;1.0;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Sacramento Kings;Jarred Vanderbilt;3;3;26.7;7.0;3.3;6.3;9.7;0.7;1.0;1.0;0.7;2.0;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Sacramento Kings;Taurean Prince;3;0;16.0;6.0;0.0;0.7;0.7;0.7;2.0;0.0;1.0;2.3;0.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Sacramento Kings;Jordan McLaughlin;3;0;12.0;5.0;0.7;1.7;2.3;4.7;0.3;0.3;0.3;0.7;14.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Sacramento Kings;Jaylen Nowell;2;0;8.5;4.5;1.5;0.0;1.5;0.5;0.5;0.0;0.0;1.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Sacramento Kings;Nathan Knight;3;0;1.7;1.0;0.0;0.3;0.3;0.0;0.0;0.0;0.0;0.3;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Sacramento Kings;Jake Layman;1;0;3.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Sacramento Kings;Josh Okogie;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Sacramento Kings;Leandro Bolmaro;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Sacramento Kings;Total;3;"";"";120.0;10.7;28.7;39.3;27.3;7.3;6.7;13.0;23.0;2.1
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Dallas Mavericks;Karl-Anthony Towns;4;4;34.5;23.0;2.3;7.3;9.5;4.3;1.0;0.8;3.0;3.3;1.4
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Dallas Mavericks;D'Angelo Russell;4;4;32.5;17.3;0.0;3.3;3.3;6.8;0.5;0.0;1.8;2.0;3.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Dallas Mavericks;Taurean Prince;2;0;22.5;15.5;0.5;4.0;4.5;0.5;0.0;0.5;0.0;2.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Dallas Mavericks;Anthony Edwards;2;2;35.0;15.5;0.0;6.0;6.0;3.5;0.5;0.0;1.5;2.0;2.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Dallas Mavericks;Jaden McDaniels;2;1;35.5;11.5;0.5;4.0;4.5;2.0;1.0;0.0;0.5;3.0;4.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Dallas Mavericks;Malik Beasley;4;2;26.3;11.0;0.0;2.0;2.0;2.8;0.5;0.0;1.3;1.5;2.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Dallas Mavericks;Patrick Beverley;3;3;29.0;9.3;2.0;3.3;5.3;3.3;1.3;1.3;1.3;2.7;2.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Dallas Mavericks;Jaylen Nowell;4;0;18.3;8.3;0.3;2.3;2.5;1.8;0.3;0.0;0.5;1.3;3.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Dallas Mavericks;Jordan McLaughlin;3;0;17.3;7.3;0.7;3.0;3.7;2.3;0.3;0.0;1.0;1.3;2.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Dallas Mavericks;Jarred Vanderbilt;3;3;25.0;7.3;2.3;5.7;8.0;0.7;1.0;0.3;0.7;3.0;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Dallas Mavericks;Naz Reid;4;0;15.0;7.0;0.5;2.5;3.0;0.8;0.8;0.5;0.5;1.8;1.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Dallas Mavericks;Jake Layman;2;0;6.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;1.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Dallas Mavericks;Josh Okogie;1;0;4.0;3.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;1.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Dallas Mavericks;Nathan Knight;2;0;10.0;2.5;2.5;0.5;3.0;0.5;0.0;1.0;0.5;2.0;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Dallas Mavericks;Leandro Bolmaro;3;1;5.3;0.0;0.7;0.3;1.0;0.3;0.0;0.0;0.3;0.7;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Dallas Mavericks;Total;4;"";"";109.3;9.0;33.8;42.8;24.8;5.8;3.3;11.0;20.8;2.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Houston Rockets;Karl-Anthony Towns;3;3;32.7;32.7;4.3;5.7;10.0;4.7;1.3;0.7;2.7;3.3;1.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Houston Rockets;Anthony Edwards;3;3;33.7;27.0;0.7;3.7;4.3;4.7;1.7;1.0;2.7;2.3;1.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Houston Rockets;D'Angelo Russell;3;3;30.7;22.0;0.0;3.0;3.0;8.7;2.0;0.3;3.0;3.0;2.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Houston Rockets;Malik Beasley;3;1;23.0;11.3;0.3;1.0;1.3;3.0;1.3;1.0;0.0;1.3;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Houston Rockets;Jarred Vanderbilt;3;2;25.3;8.3;2.3;7.0;9.3;2.0;1.7;1.3;1.7;2.3;1.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Houston Rockets;Jaylen Nowell;3;0;12.7;7.7;0.3;2.7;3.0;3.3;1.0;0.3;1.0;1.3;3.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Houston Rockets;Josh Okogie;3;1;18.3;7.0;1.3;1.3;2.7;0.7;1.7;1.0;0.3;1.7;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Houston Rockets;Jaden McDaniels;2;2;27.0;5.5;0.5;3.0;3.5;1.0;2.0;3.0;0.5;3.5;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Houston Rockets;Naz Reid;3;0;14.7;4.3;2.0;3.7;5.7;0.7;0.3;1.7;2.0;2.3;0.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Houston Rockets;Jordan McLaughlin;3;0;11.3;4.0;0.3;0.3;0.7;2.0;1.0;0.0;0.3;0.7;6.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Houston Rockets;Taurean Prince;3;0;14.3;3.7;0.7;1.3;2.0;1.3;0.3;0.0;1.0;2.7;1.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Houston Rockets;McKinley Wright IV;1;0;4.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Houston Rockets;Nathan Knight;1;0;2.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;1.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Houston Rockets;Leandro Bolmaro;1;0;5.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Houston Rockets;Jake Layman;2;0;3.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Houston Rockets;Total;3;"";"";134.7;12.7;32.0;44.7;31.7;13.7;9.3;16.0;23.7;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Memphis Grizzlies;D'Angelo Russell;4;4;35.3;31.0;0.5;3.0;3.5;6.8;0.5;0.5;2.5;3.5;2.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Karl-Anthony Towns;4;4;33.8;23.3;3.3;6.0;9.3;2.8;0.8;2.0;2.5;4.0;1.1
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Anthony Edwards;4;4;34.8;21.3;0.8;2.0;2.8;4.0;1.0;0.5;2.8;2.3;1.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Patrick Beverley;4;4;27.5;9.0;2.0;2.8;4.8;4.5;1.8;1.3;1.3;2.8;3.6
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Malik Beasley;4;0;22.8;9.0;0.3;2.5;2.8;1.8;0.3;0.0;0.3;1.8;7.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Nathan Knight;1;0;9.0;6.0;1.0;2.0;3.0;3.0;1.0;0.0;1.0;0.0;3.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Jaden McDaniels;4;1;20.5;6.0;1.0;3.5;4.5;0.3;0.8;0.8;0.5;4.8;0.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Jarred Vanderbilt;4;3;23.5;5.5;3.3;5.5;8.8;1.0;1.3;0.8;1.0;4.0;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Naz Reid;4;0;15.3;5.5;1.8;2.3;4.0;0.8;0.3;2.0;1.0;1.8;0.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Leandro Bolmaro;1;0;7.0;5.0;0.0;4.0;4.0;0.0;0.0;0.0;1.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Taurean Prince;4;0;13.0;4.0;0.3;1.0;1.3;1.5;0.3;0.3;0.5;1.3;3.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Jordan McLaughlin;2;0;13.5;4.0;0.0;1.5;1.5;0.5;0.5;0.5;1.0;0.0;0.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Jaylen Nowell;1;0;8.0;4.0;1.0;2.0;3.0;1.0;0.0;0.0;0.0;0.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Josh Okogie;2;0;11.0;1.0;1.5;0.0;1.5;1.0;0.0;0.0;0.0;1.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Jake Layman;1;0;8.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Total;4;"";"";120.8;14.3;31.5;45.8;25.0;7.3;8.3;13.3;26.5;1.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Karl-Anthony Towns;4;4;36.3;27.8;3.8;5.3;9.0;4.0;1.5;1.8;3.5;4.0;1.1
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Anthony Edwards;4;4;36.8;23.3;2.0;5.3;7.3;3.5;1.5;0.5;2.5;2.5;1.4
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. New Orleans Pelicans;D'Angelo Russell;4;4;30.8;12.5;0.5;2.8;3.3;5.8;0.8;0.5;3.0;1.8;1.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Patrick Beverley;4;2;22.3;9.5;0.8;2.3;3.0;3.5;2.0;1.3;0.8;1.8;4.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Malik Beasley;4;0;25.0;9.0;0.5;2.0;2.5;1.0;0.5;0.0;0.3;0.8;4.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Jarred Vanderbilt;4;2;18.0;7.0;2.8;3.3;6.0;1.0;2.0;0.0;1.0;3.0;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Jaden McDaniels;4;2;29.3;6.5;1.8;3.8;5.5;1.0;0.5;1.3;1.0;1.8;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Naz Reid;4;0;11.0;5.5;0.5;0.8;1.3;0.0;1.3;0.8;0.3;3.3;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Taurean Prince;4;0;11.5;3.8;0.3;1.3;1.5;0.5;0.8;0.5;0.5;1.5;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Jordan McLaughlin;3;0;8.7;2.0;0.0;1.0;1.0;1.3;0.7;0.0;0.3;0.0;4.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Nathan Knight;1;0;3.0;2.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;1.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Jaylen Nowell;2;0;2.5;0.5;0.0;0.5;0.5;0.0;0.0;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Josh Okogie;3;2;12.0;0.3;0.7;1.7;2.3;1.3;1.0;0.3;0.3;1.7;4.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Jake Layman;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Leandro Bolmaro;1;0;3.0;0.0;1.0;0.0;1.0;1.0;0.0;0.0;1.0;1.0;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Total;4;"";"";107.3;13.5;28.8;42.3;22.5;12.0;7.0;13.5;22.0;1.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. San Antonio Spurs;Karl-Anthony Towns;3;3;35.7;35.3;2.0;12.0;14.0;3.7;0.3;0.3;3.3;3.7;1.1
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. San Antonio Spurs;Anthony Edwards;3;3;34.3;22.3;2.0;2.7;4.7;5.7;1.3;1.0;2.7;2.7;2.1
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. San Antonio Spurs;D'Angelo Russell;2;2;30.0;20.5;1.0;1.5;2.5;5.5;2.0;0.5;2.0;1.0;2.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. San Antonio Spurs;Patrick Beverley;3;3;29.0;12.0;0.7;3.3;4.0;7.7;1.0;1.7;1.0;3.7;7.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. San Antonio Spurs;Jaden McDaniels;3;1;28.3;11.3;1.0;3.7;4.7;0.7;0.7;0.7;0.7;0.7;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. San Antonio Spurs;Taurean Prince;3;0;17.3;8.7;0.3;2.3;2.7;1.3;0.3;0.0;0.0;3.7;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. San Antonio Spurs;Malik Beasley;3;1;25.0;8.7;0.0;1.7;1.7;0.7;0.7;0.0;0.3;1.3;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. San Antonio Spurs;Jaylen Nowell;3;0;13.0;8.7;0.7;1.7;2.3;1.0;0.0;0.0;1.7;1.3;0.6
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. San Antonio Spurs;Jarred Vanderbilt;2;2;30.5;6.0;4.5;6.0;10.5;1.5;1.5;1.0;0.0;3.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. San Antonio Spurs;Jordan McLaughlin;2;0;13.0;4.0;0.5;1.0;1.5;2.5;0.5;0.0;1.0;1.5;2.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. San Antonio Spurs;Nathan Knight;2;0;4.5;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;0.5;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. San Antonio Spurs;Naz Reid;1;0;15.0;3.0;0.0;3.0;3.0;2.0;0.0;0.0;1.0;3.0;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. San Antonio Spurs;Josh Okogie;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;vs. San Antonio Spurs;Total;3;"";"";130.3;10.7;34.0;44.7;27.7;7.0;4.7;12.3;22.0;2.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;October;Karl-Anthony Towns;5;5;34.0;25.2;3.2;4.6;7.8;3.8;1.2;2.0;4.6;3.4;0.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;October;Anthony Edwards;5;5;35.2;23.0;2.2;6.2;8.4;3.0;0.8;0.2;2.6;2.2;1.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;October;D'Angelo Russell;5;5;30.2;17.2;0.2;3.4;3.6;4.8;1.0;0.6;3.6;2.0;1.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;October;Malik Beasley;5;0;22.4;8.8;0.4;1.6;2.0;2.2;1.0;0.4;0.4;0.8;5.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;October;Patrick Beverley;4;0;21.5;7.8;0.5;3.0;3.5;5.0;1.0;1.0;1.0;3.0;5.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;October;Naz Reid;5;0;15.0;7.6;1.0;2.0;3.0;0.4;1.0;1.4;1.0;2.8;0.4
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;October;Jarred Vanderbilt;5;2;16.6;4.4;2.0;4.0;6.0;1.0;1.2;0.2;0.8;2.4;1.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;October;Jaden McDaniels;5;5;28.4;3.2;1.2;4.2;5.4;0.8;1.0;1.4;1.0;3.0;0.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;October;Taurean Prince;5;0;13.0;3.0;0.2;1.4;1.6;0.6;0.4;0.0;0.8;1.2;0.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;October;McKinley Wright IV;1;0;4.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;October;Josh Okogie;4;3;17.5;2.8;1.5;2.8;4.3;1.5;1.8;0.5;0.5;1.3;3.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;October;Jake Layman;1;0;5.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;October;Jaylen Nowell;1;0;6.0;2.0;1.0;1.0;2.0;1.0;0.0;0.0;1.0;1.0;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;October;Leandro Bolmaro;1;0;5.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;October;Jordan McLaughlin;5;0;10.2;1.8;0.2;1.2;1.4;1.6;1.0;0.0;0.4;0.4;4.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;October;Total;5;"";"";104.4;12.4;33.4;45.8;23.6;10.8;7.4;17.0;21.8;1.4
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;November;Karl-Anthony Towns;16;16;34.4;22.9;2.6;6.8;9.4;3.1;1.1;0.8;3.3;3.7;0.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;November;Anthony Edwards;16;16;36.6;21.7;1.3;4.8;6.1;3.8;1.8;0.8;3.4;2.6;1.1
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;November;D'Angelo Russell;14;14;33.0;20.1;0.6;3.4;3.9;6.5;0.9;0.8;2.2;2.3;2.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;November;Malik Beasley;16;0;26.5;10.8;0.4;2.8;3.2;1.3;0.6;0.1;0.8;1.1;1.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;November;Naz Reid;14;0;16.2;8.8;1.4;2.2;3.6;0.9;0.4;0.9;0.6;2.4;1.4
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;November;Patrick Beverley;12;12;26.7;8.2;1.8;2.9;4.7;4.3;0.8;1.0;1.3;3.2;3.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;November;Jaden McDaniels;15;6;24.3;7.1;1.7;2.5;4.1;0.9;0.9;0.3;0.9;4.1;0.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;November;Jarred Vanderbilt;15;11;23.5;6.1;3.3;5.0;8.3;1.2;1.5;0.9;1.3;3.3;0.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;November;Taurean Prince;14;3;15.7;4.1;0.6;1.8;2.4;0.9;0.4;0.3;0.4;1.4;2.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;November;Josh Okogie;9;2;15.1;2.9;0.8;1.1;1.9;1.0;0.3;0.3;0.7;1.3;1.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;November;Jaylen Nowell;9;0;5.8;2.6;0.2;0.7;0.9;0.9;0.3;0.3;0.0;0.2;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;November;Jordan McLaughlin;11;0;10.4;1.9;0.1;0.5;0.5;2.4;0.4;0.0;0.8;0.4;2.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;November;Nathan Knight;8;0;2.6;1.8;0.1;0.5;0.6;0.4;0.1;0.1;0.3;0.3;1.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;November;Leandro Bolmaro;9;0;6.3;1.4;0.7;1.4;2.1;0.4;0.1;0.0;0.7;0.6;0.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;November;Jake Layman;6;0;5.0;0.8;0.2;0.7;0.8;0.0;0.2;0.2;0.3;0.2;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;November;Total;16;"";"";109.3;13.7;32.6;46.3;23.7;8.8;5.8;14.9;23.6;1.6
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;December;Karl-Anthony Towns;9;9;34.8;26.8;3.0;6.4;9.4;4.3;0.8;1.3;3.3;3.9;1.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;December;Anthony Edwards;8;8;34.5;22.9;0.1;2.9;3.0;3.4;1.4;0.8;3.1;2.3;1.1
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;December;D'Angelo Russell;8;8;35.0;17.1;0.4;3.9;4.3;8.4;0.9;0.3;2.8;2.0;3.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;December;Malik Beasley;14;7;30.9;16.6;0.4;3.7;4.1;2.1;0.5;0.1;1.1;1.8;1.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;December;Jaden McDaniels;12;4;29.5;10.7;1.1;4.0;5.1;1.3;0.9;0.6;1.2;3.1;1.1
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;December;Jaylen Nowell;11;0;18.3;10.5;0.3;1.8;2.1;2.4;0.6;0.2;0.6;1.5;3.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;December;Patrick Beverley;8;8;29.5;9.6;0.8;3.9;4.6;5.6;1.1;0.8;1.0;2.9;5.6
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;December;Naz Reid;13;3;17.5;9.2;1.5;2.8;4.2;0.6;0.5;0.5;1.1;2.2;0.6
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;December;Taurean Prince;5;5;16.8;7.8;0.2;1.4;1.6;0.6;0.4;0.2;0.6;2.0;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;December;Jarred Vanderbilt;10;10;30.7;6.8;3.4;6.7;10.1;1.2;1.7;1.0;0.9;2.3;1.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;December;Greg Monroe;3;0;21.0;6.7;1.7;5.3;7.0;3.7;0.7;1.3;1.3;2.3;2.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;December;Nathan Knight;9;2;14.1;6.2;1.8;2.6;4.3;1.0;0.1;0.7;0.8;2.3;1.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;December;Jake Layman;9;1;12.6;4.1;0.3;1.7;2.0;0.4;0.3;0.2;0.6;0.8;0.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;December;Jordan McLaughlin;8;2;16.5;3.6;0.5;1.6;2.1;2.8;1.0;0.0;1.0;0.8;2.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;December;Josh Okogie;9;1;10.2;2.2;0.8;0.9;1.7;0.2;0.4;0.2;0.4;1.6;0.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;December;Leandro Bolmaro;12;2;9.9;1.1;0.8;0.5;1.3;0.6;0.3;0.0;0.4;1.3;1.4
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;December;Chris Silva;1;0;3.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;December;Total;14;"";"";108.2;11.1;32.5;43.6;23.4;7.6;4.9;12.9;21.6;1.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;January;Karl-Anthony Towns;13;13;34.5;24.2;2.8;7.3;10.2;4.5;1.2;1.3;2.9;3.8;1.6
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;January;Anthony Edwards;15;15;34.1;23.5;0.7;3.4;4.1;4.1;1.7;0.8;2.6;2.1;1.6
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;January;D'Angelo Russell;11;11;30.1;19.1;0.0;2.7;2.7;7.4;1.1;0.3;2.7;2.3;2.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;January;Jaylen Nowell;14;1;20.1;11.2;0.4;2.4;2.9;2.9;0.7;0.1;0.8;1.5;3.6
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;January;Malik Beasley;15;3;23.1;10.1;0.4;1.7;2.1;1.1;0.3;0.2;0.3;0.9;3.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;January;Jaden McDaniels;15;6;23.7;9.5;1.0;2.5;3.5;1.2;0.6;0.7;1.3;2.8;0.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;January;Patrick Beverley;8;8;24.0;9.1;1.1;3.5;4.6;5.5;1.8;0.9;1.3;2.3;4.4
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;January;Jarred Vanderbilt;15;15;29.1;8.7;3.3;6.9;10.2;1.9;1.8;0.5;0.9;2.5;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;January;Naz Reid;15;2;15.4;7.3;1.7;2.6;4.3;0.9;0.2;1.3;1.3;1.9;0.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;January;Taurean Prince;15;0;15.5;5.7;0.2;2.2;2.4;1.0;0.5;0.3;0.8;1.1;1.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;January;Josh Okogie;10;0;10.6;2.8;0.5;0.6;1.1;0.1;0.3;0.3;0.4;0.8;0.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;January;Jordan McLaughlin;8;1;7.9;2.6;0.0;0.4;0.4;1.9;0.8;0.1;0.1;0.8;15.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;January;Nathan Knight;8;0;4.9;1.6;0.6;1.0;1.6;0.3;0.3;0.0;0.4;0.5;0.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;January;McKinley Wright IV;2;0;2.0;1.0;0.0;0.0;0.0;0.5;0.0;0.0;0.0;0.5;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;January;Jake Layman;5;0;2.8;0.4;0.0;0.0;0.0;0.6;0.4;0.0;0.0;0.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;January;Leandro Bolmaro;2;0;2.5;0.0;0.0;0.5;0.5;0.0;0.0;0.0;0.0;0.5;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;January;Total;15;"";"";119.7;11.5;32.9;44.3;26.5;9.4;6.0;13.7;20.3;1.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;February;Karl-Anthony Towns;12;12;32.9;23.7;2.3;7.8;10.1;4.2;0.8;0.9;2.3;3.3;1.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;February;D'Angelo Russell;10;10;32.5;21.5;0.6;2.3;2.9;6.7;0.7;0.3;2.3;2.2;2.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;February;Anthony Edwards;12;12;32.1;16.5;0.6;2.6;3.2;3.5;1.2;0.7;1.9;2.3;1.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;February;Malik Beasley;11;0;19.5;11.8;0.4;2.2;2.5;0.8;0.4;0.1;0.3;1.2;3.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;February;Jaden McDaniels;12;3;26.0;11.5;0.8;3.2;3.9;1.5;0.7;0.8;0.9;3.3;1.6
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;February;Patrick Beverley;11;11;27.0;10.5;1.0;2.9;3.9;4.0;1.2;1.1;1.8;3.9;2.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;February;Taurean Prince;11;0;16.5;9.2;0.5;2.2;2.6;1.1;1.1;0.4;0.9;1.7;1.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;February;Jarred Vanderbilt;12;12;24.9;7.6;2.7;5.5;8.2;1.2;0.8;0.6;0.7;2.1;1.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;February;Naz Reid;12;0;14.9;6.8;0.9;2.1;3.0;1.4;0.5;1.2;0.9;1.8;1.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;February;Jaylen Nowell;8;0;11.0;4.1;0.4;0.9;1.3;1.6;0.4;0.0;0.4;1.0;4.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;February;Jordan McLaughlin;12;0;16.5;4.1;0.5;1.8;2.3;4.3;0.6;0.3;0.3;0.6;17.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;February;Nathan Knight;3;0;2.3;1.7;0.0;0.7;0.7;0.0;0.0;0.0;0.0;0.7;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;February;Josh Okogie;2;0;4.0;1.0;0.0;1.0;1.0;0.5;0.0;0.0;1.5;0.5;0.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;February;Jake Layman;3;0;4.0;0.7;0.0;0.3;0.3;0.0;0.0;0.3;0.0;0.3;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;February;Leandro Bolmaro;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;February;Total;12;"";"";120.4;10.2;32.5;42.7;28.3;7.7;6.2;12.2;22.4;2.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;March;Karl-Anthony Towns;15;15;30.9;25.2;2.2;8.3;10.5;2.7;1.0;1.1;3.1;3.3;0.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;March;Anthony Edwards;11;11;33.3;19.2;0.5;4.5;5.0;4.1;1.5;0.5;2.4;2.3;1.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;March;D'Angelo Russell;14;14;30.5;13.1;0.4;2.6;3.1;7.6;1.0;0.0;2.2;1.4;3.4
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;March;Malik Beasley;13;4;24.5;12.5;0.2;2.9;3.1;1.7;0.5;0.2;0.4;0.8;4.4
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;March;Jaden McDaniels;8;7;27.9;12.1;1.0;3.8;4.8;1.0;0.5;1.5;1.3;3.3;0.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;March;Taurean Prince;15;0;20.7;11.4;0.3;3.0;3.3;0.9;1.0;0.7;1.0;2.1;0.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;March;Jaylen Nowell;15;0;19.0;10.0;0.4;1.9;2.3;2.3;0.2;0.1;0.6;1.3;3.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;March;Naz Reid;13;0;15.3;9.8;1.4;3.5;4.9;1.1;0.9;0.5;1.2;2.2;0.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;March;Patrick Beverley;12;12;22.9;9.8;0.8;2.7;3.5;3.9;0.8;0.8;1.2;2.5;3.4
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;March;Jarred Vanderbilt;12;12;23.8;7.3;2.7;4.8;7.5;1.1;1.0;0.3;1.1;1.8;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;March;Jordan McLaughlin;13;0;19.5;5.5;0.6;1.4;2.0;3.3;1.8;0.3;0.8;1.5;3.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;March;Nathan Knight;8;0;7.3;4.1;1.0;1.3;2.3;0.6;0.4;0.1;0.6;1.1;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;March;Jake Layman;9;0;4.6;2.6;0.2;0.8;1.0;0.2;0.0;0.1;0.3;0.3;0.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;March;Josh Okogie;12;0;5.1;1.8;0.1;0.3;0.4;0.3;0.4;0.0;0.3;0.5;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;March;Leandro Bolmaro;9;0;3.9;1.2;0.0;0.6;0.6;0.7;0.1;0.0;0.1;0.4;6.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;March;Total;15;"";"";123.1;9.7;35.4;45.1;26.9;9.3;4.9;13.9;20.4;1.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;April;Karl-Anthony Towns;4;4;33.5;26.8;2.8;8.0;10.8;3.0;0.5;1.0;2.0;4.3;1.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;April;Anthony Edwards;5;5;33.0;25.2;1.0;3.8;4.8;5.0;1.0;0.2;1.8;1.8;2.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;April;D'Angelo Russell;3;3;33.3;21.0;0.3;2.0;2.3;8.0;1.7;0.0;3.3;1.7;2.4
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;April;Nathan Knight;1;0;16.0;17.0;2.0;6.0;8.0;3.0;0.0;0.0;1.0;4.0;3.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;April;Malik Beasley;5;4;25.4;12.0;0.2;1.8;2.0;1.6;1.2;0.2;0.0;0.8;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;April;Jaylen Nowell;4;0;15.0;11.8;0.3;1.3;1.5;1.8;0.3;0.5;1.3;1.0;1.4
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;April;Leandro Bolmaro;1;0;18.0;11.0;1.0;2.0;3.0;4.0;0.0;0.0;0.0;1.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;April;Jake Layman;1;0;17.0;10.0;0.0;3.0;3.0;0.0;1.0;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;April;Greg Monroe;1;0;18.0;9.0;1.0;2.0;3.0;5.0;2.0;2.0;3.0;2.0;1.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;April;Taurean Prince;4;0;20.3;8.3;0.5;1.8;2.3;2.0;0.5;0.0;0.8;3.3;2.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;April;Josh Okogie;3;0;14.0;8.0;1.0;0.0;1.0;1.0;1.3;0.7;0.3;2.3;3.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;April;Patrick Beverley;3;3;23.3;7.3;1.0;2.7;3.7;5.3;2.3;0.7;0.7;3.3;8.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;April;Naz Reid;5;1;15.6;7.2;0.8;2.4;3.2;0.6;0.4;0.6;1.6;3.2;0.4
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;April;Jordan McLaughlin;5;0;18.2;6.6;0.4;1.0;1.4;2.8;0.8;0.4;0.8;1.8;3.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;April;Jaden McDaniels;3;0;17.7;6.0;0.0;2.0;2.0;0.7;0.3;0.7;0.7;1.3;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;April;Jarred Vanderbilt;5;5;23.8;4.0;1.6;4.0;5.6;0.8;1.2;0.6;1.2;2.6;0.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;April;McKinley Wright IV;2;0;5.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;April;Total;5;"";"";127.2;9.0;28.4;37.4;28.0;9.6;4.8;12.4;23.6;2.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Atlantic Division;Karl-Anthony Towns;7;7;34.4;22.1;1.1;6.6;7.7;2.7;1.3;0.6;3.0;4.0;0.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Atlantic Division;Anthony Edwards;8;8;36.6;19.1;0.3;3.6;3.9;4.3;1.6;0.4;3.5;2.4;1.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Atlantic Division;D'Angelo Russell;8;8;31.6;17.8;0.1;3.0;3.1;6.5;0.9;0.5;2.5;2.6;2.6
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Atlantic Division;Jaden McDaniels;7;3;29.1;13.3;1.1;3.6;4.7;1.0;0.9;1.3;1.1;3.0;0.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Atlantic Division;Jaylen Nowell;8;0;22.5;11.5;0.5;2.5;3.0;2.6;0.6;0.4;0.6;1.3;4.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Atlantic Division;Malik Beasley;7;2;25.9;10.9;0.6;2.9;3.4;0.7;0.1;0.3;0.4;1.1;1.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Atlantic Division;Greg Monroe;2;0;23.5;9.0;1.5;6.0;7.5;5.0;1.0;2.0;1.5;3.0;3.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Atlantic Division;Naz Reid;9;1;16.7;8.2;1.3;3.3;4.7;1.2;0.6;1.2;1.0;2.2;1.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Atlantic Division;Taurean Prince;8;2;19.5;8.1;0.5;2.0;2.5;0.9;0.4;0.5;1.0;1.8;0.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Atlantic Division;Nathan Knight;5;2;14.8;7.2;2.4;3.0;5.4;1.2;0.2;0.6;1.0;2.8;1.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Atlantic Division;Jarred Vanderbilt;8;8;25.6;6.9;3.3;5.1;8.4;1.8;1.0;0.5;0.8;2.4;2.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Atlantic Division;Patrick Beverley;6;6;25.7;6.5;0.8;3.5;4.3;3.3;1.2;0.5;2.0;3.8;1.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Atlantic Division;Jordan McLaughlin;7;2;19.4;4.3;0.9;1.4;2.3;3.0;0.6;0.3;1.4;0.6;2.1
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Atlantic Division;Jake Layman;6;0;9.3;4.2;0.0;1.0;1.0;0.7;0.2;0.2;0.3;0.5;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Atlantic Division;Leandro Bolmaro;4;0;12.5;2.3;1.0;1.5;2.5;1.3;0.0;0.0;0.3;0.8;5.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Atlantic Division;Josh Okogie;7;1;9.1;2.1;0.4;1.1;1.6;0.3;0.3;0.3;0.7;1.3;0.4
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Atlantic Division;Chris Silva;1;0;3.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Atlantic Division;McKinley Wright IV;1;0;1.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Atlantic Division;Total;10;"";"";107.7;10.2;33.0;43.2;23.9;7.4;5.9;0.0;22.2;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Central Division;Karl-Anthony Towns;9;9;33.3;23.0;2.6;6.3;8.9;3.8;0.8;1.2;4.3;3.1;0.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Central Division;D'Angelo Russell;7;7;33.4;22.0;0.7;3.3;4.0;6.6;0.7;0.1;2.6;2.4;2.6
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Central Division;Anthony Edwards;10;10;33.4;21.9;0.5;4.0;4.5;3.7;2.1;0.3;2.0;2.2;1.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Central Division;Malik Beasley;10;1;21.4;11.5;0.5;3.0;3.5;1.6;0.5;0.1;0.3;1.1;5.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Central Division;Jaden McDaniels;8;2;24.6;9.5;0.4;3.1;3.5;1.0;0.3;0.9;1.0;2.9;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Central Division;Greg Monroe;1;0;18.0;9.0;1.0;2.0;3.0;5.0;2.0;2.0;3.0;2.0;1.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Central Division;Nathan Knight;3;0;7.7;9.0;0.7;3.0;3.7;1.0;0.0;0.0;0.3;1.7;3.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Central Division;Taurean Prince;8;2;15.9;8.5;0.6;1.8;2.4;0.9;0.9;0.3;0.4;1.9;2.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Central Division;Patrick Beverley;9;8;24.6;8.4;0.4;2.9;3.3;4.6;1.0;0.8;1.1;2.3;4.1
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Central Division;Naz Reid;10;1;15.1;8.3;0.8;1.4;2.2;0.9;0.3;0.7;1.1;2.1;0.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Central Division;Jaylen Nowell;6;0;14.2;6.8;0.2;1.0;1.2;2.0;0.3;0.3;0.2;1.3;12.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Central Division;Jarred Vanderbilt;9;9;25.8;6.8;1.6;5.3;6.9;1.3;0.9;0.6;0.8;2.3;1.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Central Division;Jake Layman;3;0;8.3;4.3;0.0;1.3;1.3;0.3;0.3;0.0;0.0;0.3;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Central Division;Josh Okogie;4;1;15.5;3.8;1.3;0.8;2.0;2.0;1.0;0.8;0.0;1.8;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Central Division;Leandro Bolmaro;4;0;12.8;3.3;0.8;1.8;2.5;1.3;0.8;0.0;0.3;1.3;5.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Central Division;Jordan McLaughlin;8;0;14.8;3.0;0.5;1.3;1.8;4.1;0.8;0.3;0.3;0.5;16.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Central Division;McKinley Wright IV;1;0;7.0;0.0;0.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Central Division;Total;10;"";"";120.1;8.8;31.8;40.6;27.9;8.5;5.3;0.0;21.1;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Pacific Division;Karl-Anthony Towns;16;16;32.8;24.2;2.4;6.9;9.4;3.1;0.9;0.9;2.8;3.7;1.1
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Pacific Division;Anthony Edwards;16;16;35.0;21.5;1.1;3.6;4.8;3.9;1.3;1.0;3.7;2.4;1.1
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Pacific Division;D'Angelo Russell;13;13;29.5;15.6;0.4;2.4;2.8;7.2;1.2;0.3;2.4;1.8;3.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Pacific Division;Malik Beasley;18;3;24.8;12.3;0.1;2.7;2.8;1.5;0.6;0.1;0.6;0.9;2.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Pacific Division;Naz Reid;16;2;16.9;9.9;1.4;2.7;4.1;1.1;0.4;0.8;1.0;2.1;1.1
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Pacific Division;Patrick Beverley;15;15;28.2;9.9;1.5;3.9;5.4;5.3;0.7;0.9;1.3;3.1;4.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Pacific Division;Jaden McDaniels;16;7;24.5;8.5;1.3;2.4;3.8;1.2;0.7;0.3;1.1;3.9;1.1
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Pacific Division;Jaylen Nowell;15;1;15.3;8.2;0.6;1.4;2.0;1.7;0.7;0.2;0.5;1.3;3.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Pacific Division;Taurean Prince;15;1;16.3;6.7;0.3;2.3;2.7;0.8;0.9;0.3;0.6;1.7;1.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Pacific Division;Jarred Vanderbilt;18;15;25.2;6.2;3.2;5.4;8.6;0.9;1.3;0.7;1.5;2.3;0.6
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Pacific Division;Jordan McLaughlin;15;0;11.3;2.5;0.2;1.1;1.3;2.7;0.7;0.1;0.5;0.6;5.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Pacific Division;Josh Okogie;13;1;8.5;2.3;0.4;0.8;1.2;0.2;0.2;0.2;0.9;0.7;0.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Pacific Division;Nathan Knight;11;0;5.2;2.0;0.5;1.3;1.8;0.2;0.2;0.0;0.2;0.9;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Pacific Division;McKinley Wright IV;1;0;3.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Pacific Division;Jake Layman;8;0;3.5;0.8;0.0;0.9;0.9;0.0;0.3;0.0;0.1;0.1;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Pacific Division;Leandro Bolmaro;9;0;2.7;0.4;0.0;0.6;0.6;0.1;0.0;0.0;0.4;0.1;0.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Pacific Division;Total;18;"";"";113.1;12.0;32.9;44.9;24.9;8.5;5.0;0.0;22.1;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Southeast Division;Karl-Anthony Towns;10;10;34.1;24.2;2.9;8.4;11.3;4.1;0.9;1.0;2.3;3.9;1.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Southeast Division;Anthony Edwards;10;10;33.0;20.0;0.9;4.6;5.5;3.6;1.4;0.7;1.9;1.7;1.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Southeast Division;D'Angelo Russell;9;9;32.8;16.0;0.3;3.7;4.0;7.3;0.4;0.7;2.8;1.2;2.6
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Southeast Division;Malik Beasley;10;2;28.8;14.0;0.7;2.3;3.0;1.1;0.5;0.1;0.5;1.4;2.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Southeast Division;Jaylen Nowell;7;0;11.7;9.1;0.1;1.1;1.3;1.3;0.1;0.0;0.1;0.6;9.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Southeast Division;Jaden McDaniels;9;3;23.3;7.7;1.6;2.1;3.7;0.7;1.0;0.9;1.6;3.6;0.4
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Southeast Division;Naz Reid;10;0;15.7;7.3;1.5;3.1;4.6;0.8;0.7;0.7;1.0;2.4;0.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Southeast Division;Jarred Vanderbilt;9;9;26.9;7.0;3.1;6.9;10.0;0.8;1.4;0.3;0.7;2.6;1.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Southeast Division;Patrick Beverley;4;4;12.8;6.0;1.3;1.0;2.3;1.8;1.0;0.5;0.8;2.5;2.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Southeast Division;Taurean Prince;10;2;17.9;5.7;0.3;1.4;1.7;0.8;0.8;0.3;0.6;1.3;1.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Southeast Division;Jordan McLaughlin;7;0;18.3;4.3;0.3;0.7;1.0;3.6;1.0;0.1;0.6;1.6;6.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Southeast Division;Jake Layman;1;0;7.0;2.0;1.0;1.0;2.0;0.0;0.0;1.0;1.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Southeast Division;Josh Okogie;7;0;9.7;1.6;0.3;0.1;0.4;0.3;0.3;0.0;0.0;1.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Southeast Division;Leandro Bolmaro;4;1;9.8;1.5;1.3;0.3;1.5;0.5;0.3;0.0;0.3;2.5;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Southeast Division;Nathan Knight;2;0;1.5;1.0;0.0;0.5;0.5;0.0;0.0;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Southeast Division;McKinley Wright IV;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Southeast Division;Total;10;"";"";112.7;12.4;33.3;45.7;22.8;8.4;4.9;0.0;21.5;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Southwest Division;Karl-Anthony Towns;18;18;34.6;27.8;3.1;7.1;10.2;3.8;1.0;1.2;3.0;3.7;1.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Southwest Division;Anthony Edwards;16;16;35.0;22.3;1.2;3.8;4.9;4.3;1.3;0.6;2.5;2.4;1.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Southwest Division;D'Angelo Russell;17;17;32.2;20.6;0.4;2.8;3.2;6.7;1.0;0.4;2.5;2.4;2.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Southwest Division;Patrick Beverley;14;12;26.6;9.9;1.4;2.9;4.2;4.6;1.6;1.4;1.1;2.6;4.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Southwest Division;Malik Beasley;18;4;24.4;9.8;0.2;1.9;2.1;1.8;0.6;0.2;0.4;1.3;4.1
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Southwest Division;Jaden McDaniels;15;7;27.3;7.9;1.1;3.6;4.7;0.9;0.9;1.1;0.7;2.7;1.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Southwest Division;Jarred Vanderbilt;16;12;23.6;6.8;2.9;5.3;8.3;1.2;1.5;0.6;0.9;3.1;1.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Southwest Division;Jaylen Nowell;13;0;12.5;6.7;0.4;1.9;2.3;1.6;0.3;0.1;0.8;1.0;2.1
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Southwest Division;Taurean Prince;16;0;14.9;6.2;0.4;1.8;2.1;1.1;0.4;0.3;0.4;2.1;2.4
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Southwest Division;Naz Reid;16;0;14.0;5.5;1.1;2.3;3.3;0.6;0.6;1.1;0.9;2.3;0.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Southwest Division;Jordan McLaughlin;13;0;12.7;4.3;0.3;1.4;1.7;1.8;0.6;0.1;0.7;0.7;2.6
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Southwest Division;Nathan Knight;7;0;6.0;3.0;0.9;0.6;1.4;0.6;0.1;0.4;0.6;1.0;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Southwest Division;McKinley Wright IV;1;0;4.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Southwest Division;Josh Okogie;10;3;11.8;2.7;0.9;0.9;1.8;0.9;0.8;0.4;0.2;1.3;4.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Southwest Division;Jake Layman;6;0;4.8;1.3;0.0;0.2;0.2;0.0;0.0;0.0;0.2;0.3;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Southwest Division;Leandro Bolmaro;6;1;5.2;1.2;0.5;0.8;1.3;0.3;0.0;0.0;0.7;0.5;0.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Southwest Division;Total;18;"";"";119.1;12.1;31.9;43.9;25.9;9.0;6.4;0.0;23.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Northwest Division;Karl-Anthony Towns;14;14;31.8;23.4;2.8;7.7;10.5;4.0;1.1;1.6;3.1;3.4;1.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Northwest Division;Anthony Edwards;12;12;32.4;21.7;0.8;4.0;4.8;3.1;1.3;0.6;2.0;2.4;1.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Northwest Division;D'Angelo Russell;11;11;33.0;16.6;0.5;2.9;3.4;8.1;1.2;0.1;2.6;1.6;3.1
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Northwest Division;Malik Beasley;16;6;25.3;14.0;0.3;2.9;3.1;1.5;0.7;0.2;0.8;0.9;1.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Northwest Division;Patrick Beverley;10;9;25.3;10.8;0.6;2.9;3.5;5.5;1.4;0.8;1.4;3.7;3.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Northwest Division;Jaden McDaniels;15;9;25.9;10.3;0.9;3.7;4.6;1.7;0.7;0.6;1.2;3.0;1.4
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Northwest Division;Naz Reid;16;2;16.4;10.0;1.7;2.8;4.5;1.0;0.6;1.0;1.4;2.3;0.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Northwest Division;Taurean Prince;12;1;19.3;9.3;0.3;3.4;3.7;1.4;0.8;0.5;1.7;1.2;0.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Northwest Division;Jaylen Nowell;13;0;18.2;9.2;0.2;1.6;1.8;3.2;0.3;0.1;0.9;1.5;3.4
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Northwest Division;Jarred Vanderbilt;14;14;26.4;8.1;3.1;5.4;8.5;1.9;1.6;0.8;0.9;1.9;2.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Northwest Division;Jordan McLaughlin;12;1;15.6;4.6;0.3;1.1;1.3;3.1;1.8;0.3;0.5;1.4;6.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Northwest Division;Josh Okogie;8;0;11.5;4.4;0.6;1.3;1.9;0.3;0.9;0.0;0.5;1.0;0.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Northwest Division;Nathan Knight;9;0;7.7;3.3;0.7;1.1;1.8;0.8;0.3;0.2;0.7;0.7;1.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Northwest Division;Jake Layman;10;1;8.6;2.7;0.5;1.1;1.6;0.4;0.3;0.3;0.5;0.5;0.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Northwest Division;Greg Monroe;1;0;16.0;2.0;2.0;4.0;6.0;1.0;0.0;0.0;1.0;1.0;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Northwest Division;Leandro Bolmaro;8;0;5.8;1.4;0.1;0.4;0.5;0.8;0.3;0.0;0.3;0.5;3.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Northwest Division;Total;16;"";"";120.1;10.9;34.5;45.4;27.8;10.2;5.8;0.0;20.4;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Eastern Conference;Karl-Anthony Towns;26;26;33.9;23.2;2.3;7.2;9.5;3.6;1.0;1.0;3.2;3.7;1.1
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Eastern Conference;Anthony Edwards;28;28;34.2;20.4;0.6;4.1;4.7;3.8;1.7;0.5;2.4;2.1;1.6
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Eastern Conference;D'Angelo Russell;24;24;32.6;18.3;0.4;3.3;3.7;6.8;0.7;0.5;2.6;2.0;2.6
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Eastern Conference;Malik Beasley;27;5;25.3;12.3;0.6;2.7;3.3;1.2;0.4;0.1;0.4;1.2;2.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Eastern Conference;Jaden McDaniels;24;8;25.5;9.9;1.0;2.9;3.9;0.9;0.7;1.0;1.3;3.2;0.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Eastern Conference;Jaylen Nowell;21;0;16.5;9.4;0.3;1.6;1.9;2.0;0.4;0.2;0.3;1.0;6.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Eastern Conference;Greg Monroe;3;0;22.0;9.0;1.3;4.7;6.0;5.0;1.3;2.0;2.0;2.7;2.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Eastern Conference;Naz Reid;29;2;15.8;7.9;1.2;2.6;3.8;1.0;0.5;0.9;1.0;2.2;0.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Eastern Conference;Patrick Beverley;19;18;22.5;7.3;0.7;2.7;3.4;3.6;1.1;0.6;1.3;2.8;2.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Eastern Conference;Taurean Prince;26;6;17.8;7.3;0.5;1.7;2.2;0.8;0.7;0.3;0.7;1.6;1.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Eastern Conference;Jarred Vanderbilt;26;26;26.2;6.9;2.6;5.8;8.4;1.3;1.1;0.5;0.7;2.4;1.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Eastern Conference;Nathan Knight;10;2;10.0;6.5;1.4;2.5;3.9;0.9;0.1;0.3;0.6;1.9;1.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Eastern Conference;Jake Layman;10;0;8.8;4.0;0.1;1.1;1.2;0.5;0.2;0.2;0.3;0.4;1.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Eastern Conference;Jordan McLaughlin;22;2;17.3;3.8;0.5;1.1;1.7;3.6;0.8;0.2;0.7;0.9;4.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Eastern Conference;Leandro Bolmaro;12;1;11.7;2.3;1.0;1.2;2.2;1.0;0.3;0.0;0.3;1.5;4.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Eastern Conference;Josh Okogie;18;2;10.8;2.3;0.6;0.7;1.2;0.7;0.4;0.3;0.3;1.3;2.4
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Eastern Conference;Chris Silva;1;0;3.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Eastern Conference;McKinley Wright IV;3;0;3.7;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Eastern Conference;Total;30;"";"";113.5;10.5;32.7;43.2;24.9;8.1;5.4;0.0;21.6;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Western Conference;Karl-Anthony Towns;48;48;33.2;25.3;2.8;7.2;10.0;3.6;1.0;1.2;3.0;3.6;1.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Western Conference;Anthony Edwards;44;44;34.3;21.8;1.0;3.8;4.8;3.8;1.3;0.8;2.8;2.4;1.4
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Western Conference;D'Angelo Russell;41;41;31.6;18.0;0.4;2.7;3.1;7.2;1.1;0.3;2.5;2.0;2.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Western Conference;Malik Beasley;52;13;24.8;12.0;0.2;2.5;2.7;1.6;0.6;0.2;0.6;1.1;2.6
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Western Conference;Patrick Beverley;39;36;26.9;10.1;1.2;3.3;4.5;5.1;1.2;1.0;1.2;3.1;4.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Western Conference;Jaden McDaniels;46;23;25.9;8.9;1.1;3.2;4.3;1.3;0.8;0.7;1.0;3.2;1.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Western Conference;Naz Reid;48;4;15.8;8.5;1.4;2.6;4.0;0.9;0.5;1.0;1.1;2.2;0.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Western Conference;Jaylen Nowell;41;1;15.3;8.0;0.4;1.6;2.0;2.1;0.5;0.1;0.7;1.2;3.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Western Conference;Taurean Prince;43;2;16.6;7.3;0.3;2.4;2.7;1.1;0.7;0.3;0.8;1.7;1.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Western Conference;Jarred Vanderbilt;48;41;25.0;6.9;3.1;5.4;8.4;1.3;1.5;0.7;1.1;2.5;1.1
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Western Conference;Jordan McLaughlin;40;1;13.0;3.7;0.3;1.2;1.4;2.5;1.0;0.1;0.6;0.9;4.6
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Western Conference;Josh Okogie;31;4;10.4;3.0;0.6;0.9;1.5;0.4;0.6;0.2;0.6;1.0;0.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Western Conference;Nathan Knight;27;0;6.2;2.7;0.7;1.0;1.7;0.5;0.2;0.2;0.4;0.9;1.1
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Western Conference;McKinley Wright IV;2;0;3.5;2.5;0.0;0.0;0.0;0.0;0.0;0.0;0.5;0.5;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Western Conference;Greg Monroe;1;0;16.0;2.0;2.0;4.0;6.0;1.0;0.0;0.0;1.0;1.0;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Western Conference;Jake Layman;24;1;6.0;1.7;0.2;0.8;1.0;0.2;0.2;0.1;0.3;0.3;0.6
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Western Conference;Leandro Bolmaro;23;1;4.4;1.0;0.2;0.6;0.7;0.4;0.1;0.0;0.4;0.3;0.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Western Conference;Total;52;"";"";117.3;11.7;33.1;44.7;26.2;9.2;5.8;0.0;21.9;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Pre All-Star;Karl-Anthony Towns;52;52;34.3;24.4;2.8;6.9;9.7;4.0;1.0;1.1;3.3;3.6;1.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Pre All-Star;Anthony Edwards;53;53;34.6;21.9;0.9;3.9;4.8;3.6;1.5;0.7;2.8;2.3;1.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Pre All-Star;D'Angelo Russell;45;45;32.2;18.8;0.4;3.1;3.5;7.0;0.9;0.5;2.5;2.2;2.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Pre All-Star;Malik Beasley;59;10;25.3;11.9;0.4;2.6;3.0;1.5;0.5;0.2;0.6;1.2;2.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Pre All-Star;Patrick Beverley;40;36;26.4;9.2;1.1;3.3;4.4;4.9;1.2;1.0;1.3;3.1;3.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Pre All-Star;Jaden McDaniels;56;24;26.3;8.9;1.2;3.1;4.3;1.2;0.8;0.7;1.1;3.2;1.1
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Pre All-Star;Naz Reid;56;5;15.9;8.1;1.4;2.5;3.9;0.9;0.4;1.0;1.0;2.1;0.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Pre All-Star;Jaylen Nowell;42;1;14.6;7.7;0.4;1.6;2.0;2.1;0.5;0.1;0.5;1.1;4.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Pre All-Star;Jarred Vanderbilt;54;47;26.0;7.2;3.1;5.7;8.8;1.4;1.5;0.7;1.0;2.5;1.4
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Pre All-Star;Greg Monroe;3;0;21.0;6.7;1.7;5.3;7.0;3.7;0.7;1.3;1.3;2.3;2.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Pre All-Star;Taurean Prince;47;8;15.3;5.7;0.4;2.0;2.3;0.9;0.6;0.3;0.7;1.4;1.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Pre All-Star;Nathan Knight;28;2;6.9;3.1;0.8;1.3;2.1;0.5;0.1;0.3;0.4;1.0;1.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Pre All-Star;Jordan McLaughlin;41;3;12.5;3.0;0.2;1.1;1.3;2.8;0.7;0.1;0.5;0.6;5.4
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Pre All-Star;Josh Okogie;33;6;12.4;2.6;0.8;1.1;1.8;0.5;0.5;0.3;0.5;1.2;1.1
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Pre All-Star;Jake Layman;23;1;7.3;2.0;0.2;0.9;1.0;0.3;0.3;0.2;0.3;0.4;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Pre All-Star;McKinley Wright IV;3;0;3.0;1.7;0.0;0.0;0.0;0.3;0.0;0.0;0.3;0.3;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Pre All-Star;Leandro Bolmaro;25;2;7.5;1.1;0.6;0.8;1.4;0.4;0.2;0.0;0.5;0.8;0.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Pre All-Star;Chris Silva;1;0;3.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Pre All-Star;Total;59;"";"";113.2;11.9;32.9;44.8;25.1;8.7;5.8;13.8;21.6;1.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Post All-Star;Karl-Anthony Towns;22;22;31.5;25.0;2.2;7.9;10.1;2.8;0.8;1.1;2.6;3.6;1.1
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Post All-Star;Anthony Edwards;19;19;33.3;19.7;0.8;3.9;4.7;4.5;1.4;0.5;2.3;2.2;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Post All-Star;D'Angelo Russell;20;20;31.4;16.5;0.4;2.6;3.0;7.3;1.1;0.1;2.6;1.6;2.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Post All-Star;Malik Beasley;20;8;24.1;12.5;0.2;2.4;2.6;1.5;0.7;0.2;0.3;0.9;5.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Post All-Star;Jaden McDaniels;14;7;23.7;10.6;0.7;3.1;3.9;0.9;0.4;1.1;1.1;3.1;0.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Post All-Star;Taurean Prince;22;0;20.7;10.5;0.4;2.5;2.9;1.3;1.0;0.5;0.9;2.3;1.5
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Post All-Star;Jaylen Nowell;20;0;18.1;10.1;0.4;1.7;2.1;2.2;0.2;0.2;0.7;1.3;3.1
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Post All-Star;Patrick Beverley;18;18;23.4;9.2;0.9;2.6;3.6;4.1;1.2;0.8;1.3;2.9;3.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Post All-Star;Greg Monroe;1;0;18.0;9.0;1.0;2.0;3.0;5.0;2.0;2.0;3.0;2.0;1.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Post All-Star;Naz Reid;21;1;15.5;8.7;1.1;2.9;4.0;1.0;0.8;0.6;1.2;2.6;0.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Post All-Star;Jarred Vanderbilt;20;20;23.8;6.3;2.4;5.0;7.4;1.0;1.0;0.4;1.0;2.4;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Post All-Star;Nathan Knight;9;0;8.2;5.6;1.1;1.8;2.9;0.9;0.3;0.1;0.7;1.4;1.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Post All-Star;Jordan McLaughlin;21;0;18.4;5.2;0.6;1.3;2.0;3.2;1.3;0.3;0.8;1.4;3.9
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Post All-Star;Jake Layman;11;0;5.6;3.2;0.2;0.9;1.1;0.2;0.1;0.1;0.3;0.3;0.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Post All-Star;Josh Okogie;16;0;6.8;3.0;0.3;0.4;0.6;0.4;0.6;0.1;0.4;0.9;1.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Post All-Star;Leandro Bolmaro;10;0;5.3;2.2;0.1;0.7;0.8;1.0;0.1;0.0;0.1;0.5;10.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Post All-Star;McKinley Wright IV;2;0;5.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;Post All-Star;Total;23;"";"";123.0;9.5;33.0;42.5;27.1;9.1;5.0;13.5;22.1;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;3+ Days Rest;Karl-Anthony Towns;5;5;33.6;24.6;3.4;8.6;12.0;3.2;1.0;2.0;2.4;4.4;1.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;3+ Days Rest;D'Angelo Russell;8;8;32.5;20.5;0.3;3.5;3.8;7.6;1.1;0.3;2.4;2.0;3.2
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;3+ Days Rest;Anthony Edwards;5;5;30.2;20.2;0.6;2.4;3.0;3.8;1.0;0.6;2.8;2.4;1.4
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;3+ Days Rest;Malik Beasley;6;1;22.2;11.2;0.3;2.2;2.5;1.3;0.7;0.5;0.5;1.0;2.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;3+ Days Rest;Greg Monroe;1;0;25.0;11.0;3.0;6.0;9.0;6.0;2.0;1.0;2.0;3.0;3.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;3+ Days Rest;Patrick Beverley;9;8;22.4;9.4;1.4;2.4;3.9;4.7;1.0;0.7;1.6;2.8;3.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;3+ Days Rest;Jaylen Nowell;13;0;13.5;8.6;0.3;1.4;1.7;2.2;0.2;0.3;0.5;0.9;4.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;3+ Days Rest;Jaden McDaniels;6;3;23.5;7.8;1.2;2.5;3.7;0.8;1.0;0.7;0.8;2.7;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;3+ Days Rest;Naz Reid;6;0;15.2;6.7;1.7;2.5;4.2;0.7;0.5;2.0;0.7;2.7;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;3+ Days Rest;Taurean Prince;7;0;14.0;4.7;0.0;1.3;1.3;0.7;0.4;0.3;0.9;0.6;0.8
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;3+ Days Rest;Jarred Vanderbilt;7;6;25.1;4.7;2.4;5.9;8.3;0.7;1.9;0.6;0.6;2.7;1.3
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;3+ Days Rest;Josh Okogie;15;2;11.5;3.8;0.7;1.0;1.7;0.5;0.6;0.4;0.7;1.1;0.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;3+ Days Rest;Nathan Knight;18;1;5.9;2.7;0.7;1.3;2.0;0.3;0.2;0.2;0.5;0.9;0.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;3+ Days Rest;Jordan McLaughlin;12;1;11.5;1.8;0.3;1.2;1.5;2.3;0.5;0.2;0.8;0.3;2.7
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;3+ Days Rest;Leandro Bolmaro;12;0;3.1;1.6;0.3;0.6;0.8;0.5;0.1;0.0;0.3;0.2;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;3+ Days Rest;McKinley Wright IV;4;0;3.0;1.3;0.0;0.0;0.0;0.3;0.0;0.0;0.3;0.3;1.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;3+ Days Rest;Jake Layman;18;0;5.1;1.1;0.1;0.6;0.6;0.3;0.2;0.1;0.2;0.2;2.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;3+ Days Rest;Chris Silva;1;0;3.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Minnesota Timberwolves;min;2021 - 2022 Regular Season;3+ Days Rest;Total;4;"";"";121.8;11.5;33.0;44.5;26.5;10.5;8.8;13.3;20.8;2.0

@@ -1,0 +1,878 @@
+teamName;teamCode;season;split;player_name;GP;GS;MIN;PTS;ORB;DR;REB;AST;STL;BLK;TO;PF;AST_TO
+Chicago Bulls;chi;2021 - 2022 Regular Season;All Splits;DeMar DeRozan;76;76;36.1;27.9;0.7;4.4;5.2;4.9;0.9;0.3;2.4;2.3;2.1
+Chicago Bulls;chi;2021 - 2022 Regular Season;All Splits;Zach LaVine;67;67;34.7;24.4;0.3;4.3;4.6;4.5;0.6;0.3;2.6;1.8;1.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;All Splits;Nikola Vucevic;73;73;33.1;17.6;1.9;9.1;11.0;3.2;1.0;1.0;1.9;2.5;1.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;All Splits;Lonzo Ball;35;35;34.6;13.0;1.0;4.4;5.4;5.1;1.8;0.9;2.3;2.4;2.2
+Chicago Bulls;chi;2021 - 2022 Regular Season;All Splits;Coby White;61;17;27.5;12.7;0.3;2.7;3.0;2.9;0.5;0.2;1.1;2.2;2.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;All Splits;Patrick Williams;17;9;24.8;9.0;1.0;3.1;4.1;0.9;0.5;0.5;0.9;1.6;0.9
+Chicago Bulls;chi;2021 - 2022 Regular Season;All Splits;Ayo Dosunmu;77;40;27.4;8.8;0.4;2.4;2.8;3.3;0.8;0.4;1.4;2.4;2.4
+Chicago Bulls;chi;2021 - 2022 Regular Season;All Splits;Alex Caruso;41;18;28.0;7.4;0.8;2.8;3.6;4.0;1.7;0.4;1.4;2.6;2.9
+Chicago Bulls;chi;2021 - 2022 Regular Season;All Splits;Javonte Green;65;45;23.4;7.2;1.4;2.8;4.2;0.9;1.0;0.5;0.5;2.0;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;All Splits;Tristan Thompson;23;3;16.3;5.7;1.8;3.0;4.7;0.6;0.5;0.3;0.5;1.7;1.2
+Chicago Bulls;chi;2021 - 2022 Regular Season;All Splits;Derrick Jones Jr.;51;8;17.6;5.6;1.2;2.1;3.3;0.6;0.5;0.6;0.6;2.1;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;All Splits;Troy Brown Jr.;66;7;16.0;4.3;0.6;2.5;3.1;1.0;0.5;0.1;0.4;0.9;2.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;All Splits;Matt Thomas;40;0;11.5;4.0;0.1;1.2;1.3;0.5;0.2;0.1;0.2;0.5;2.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;All Splits;Alfonzo McKinnie;17;3;12.1;3.5;0.8;1.2;1.9;0.3;0.1;0.2;0.4;1.5;0.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;All Splits;Malcolm Hill;16;0;10.4;3.4;0.6;1.3;1.8;0.4;0.2;0.1;0.2;1.1;2.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;All Splits;Tyler Cook;20;2;10.0;3.4;0.8;1.9;2.7;0.2;0.2;0.2;0.4;1.4;0.4
+Chicago Bulls;chi;2021 - 2022 Regular Season;All Splits;Tony Bradley;55;7;10.0;3.0;1.2;2.2;3.4;0.5;0.2;0.6;0.6;1.1;0.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;All Splits;Devon Dotson;11;0;7.7;2.6;0.1;0.7;0.8;1.4;0.1;0.0;0.5;1.0;3.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;All Splits;Mac McClung;1;0;3.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;All Splits;Marko Simonovic;9;0;3.9;1.9;0.6;0.6;1.1;0.0;0.1;0.1;0.2;0.7;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;All Splits;Alize Johnson;16;0;7.6;1.8;1.0;1.3;2.3;0.5;0.2;0.0;0.5;0.9;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;All Splits;Jordan Bell;1;0;2.0;0.0;1.0;0.0;1.0;0.0;1.0;0.0;0.0;2.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;All Splits;Total;82;"";"";111.6;8.7;33.7;42.3;23.9;7.1;4.1;12.1;18.8;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Home;DeMar DeRozan;40;40;35.6;28.1;0.9;3.9;4.8;4.9;1.0;0.4;2.2;2.1;2.2
+Chicago Bulls;chi;2021 - 2022 Regular Season;Home;Zach LaVine;32;32;33.4;22.8;0.4;4.0;4.4;4.5;0.5;0.3;2.3;1.9;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Home;Nikola Vucevic;39;39;33.1;17.3;2.0;9.5;11.5;3.1;1.1;1.0;1.9;2.3;1.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;Home;Coby White;32;9;28.3;13.2;0.3;2.7;3.1;3.0;0.5;0.2;1.3;2.2;2.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;Home;Lonzo Ball;19;19;33.6;12.9;1.1;4.6;5.7;5.1;1.6;0.8;1.8;2.7;2.9
+Chicago Bulls;chi;2021 - 2022 Regular Season;Home;Patrick Williams;9;6;26.7;10.0;1.2;3.8;5.0;0.7;0.6;0.6;0.8;1.9;0.9
+Chicago Bulls;chi;2021 - 2022 Regular Season;Home;Alex Caruso;18;7;27.1;9.0;0.8;2.1;2.9;4.2;1.4;0.2;1.3;1.8;3.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;Home;Javonte Green;33;22;23.8;8.7;1.4;2.9;4.3;1.1;1.0;0.5;0.4;2.2;2.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;Home;Ayo Dosunmu;39;19;26.4;8.2;0.3;2.5;2.8;3.2;0.8;0.4;1.3;2.4;2.4
+Chicago Bulls;chi;2021 - 2022 Regular Season;Home;Tristan Thompson;10;1;15.4;5.6;2.0;2.9;4.9;0.5;0.3;0.4;0.5;1.6;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Home;Derrick Jones Jr.;27;5;16.1;5.0;1.3;2.1;3.4;0.6;0.2;0.4;0.3;1.9;1.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;Home;Tyler Cook;8;0;9.1;4.5;0.8;1.4;2.1;0.0;0.0;0.3;0.4;1.4;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Home;Alfonzo McKinnie;11;1;10.6;3.9;0.9;1.1;2.0;0.2;0.2;0.2;0.5;1.4;0.4
+Chicago Bulls;chi;2021 - 2022 Regular Season;Home;Matt Thomas;21;0;11.7;3.7;0.0;1.3;1.4;0.6;0.2;0.0;0.2;0.5;2.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;Home;Troy Brown Jr.;34;3;15.7;3.6;0.6;2.6;3.2;1.1;0.6;0.0;0.3;0.9;4.1
+Chicago Bulls;chi;2021 - 2022 Regular Season;Home;Tony Bradley;28;2;9.8;3.2;1.4;2.1;3.5;0.4;0.3;0.6;0.3;0.9;1.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;Home;Malcolm Hill;7;0;7.0;2.7;0.3;1.1;1.4;0.0;0.0;0.1;0.0;0.4;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Home;Devon Dotson;7;0;6.1;2.1;0.0;0.7;0.7;1.6;0.1;0.0;0.4;0.9;3.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;Home;Marko Simonovic;7;0;3.9;2.1;0.6;0.7;1.3;0.0;0.1;0.1;0.3;0.9;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Home;Mac McClung;1;0;3.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Home;Alize Johnson;7;0;6.1;1.7;0.9;1.3;2.1;0.4;0.3;0.0;0.3;0.6;1.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;Home;Jordan Bell;1;0;2.0;0.0;1.0;0.0;1.0;0.0;1.0;0.0;0.0;2.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Home;Total;41;"";"";114.2;9.3;34.3;43.7;24.3;7.0;4.1;11.3;18.3;2.2
+Chicago Bulls;chi;2021 - 2022 Regular Season;Away;DeMar DeRozan;36;36;36.7;27.6;0.6;5.1;5.6;5.0;0.8;0.3;2.6;2.6;1.9
+Chicago Bulls;chi;2021 - 2022 Regular Season;Away;Zach LaVine;35;35;36.0;25.8;0.3;4.5;4.7;4.5;0.7;0.4;2.8;1.7;1.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;Away;Nikola Vucevic;34;34;33.2;18.0;1.9;8.6;10.5;3.4;0.8;0.9;1.8;2.6;1.9
+Chicago Bulls;chi;2021 - 2022 Regular Season;Away;Lonzo Ball;16;16;35.9;13.1;0.9;4.2;5.1;5.1;2.1;0.9;3.0;2.1;1.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;Away;Coby White;29;8;26.5;12.1;0.2;2.7;2.9;2.7;0.4;0.2;1.0;2.3;2.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;Away;Ayo Dosunmu;38;21;28.4;9.5;0.4;2.3;2.7;3.4;0.7;0.3;1.5;2.4;2.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;Away;Patrick Williams;8;3;22.9;7.9;0.8;2.3;3.0;1.1;0.5;0.5;1.1;1.4;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Away;Derrick Jones Jr.;24;3;19.4;6.3;1.1;2.1;3.2;0.6;0.8;0.9;0.9;2.3;0.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;Away;Alex Caruso;23;11;28.7;6.2;0.8;3.3;4.2;3.9;2.0;0.5;1.5;3.2;2.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;Away;Tristan Thompson;13;2;17.1;5.7;1.6;3.0;4.6;0.7;0.7;0.2;0.5;1.8;1.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;Away;Javonte Green;32;23;23.0;5.6;1.4;2.8;4.2;0.8;1.1;0.4;0.5;1.8;1.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;Away;Troy Brown Jr.;32;4;16.3;5.0;0.6;2.3;2.9;0.9;0.5;0.1;0.5;1.0;1.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;Away;Matt Thomas;19;0;11.3;4.4;0.1;1.0;1.1;0.4;0.2;0.1;0.2;0.4;2.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;Away;Malcolm Hill;9;0;13.1;4.0;0.8;1.3;2.1;0.8;0.3;0.1;0.3;1.6;2.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;Away;Devon Dotson;4;0;10.5;3.5;0.3;0.8;1.0;1.0;0.0;0.0;0.5;1.3;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Away;Tony Bradley;27;5;10.1;2.7;1.1;2.2;3.3;0.6;0.1;0.6;0.9;1.4;0.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;Away;Alfonzo McKinnie;6;2;14.8;2.7;0.5;1.3;1.8;0.5;0.0;0.2;0.3;1.8;1.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;Away;Tyler Cook;12;2;10.6;2.6;0.8;2.2;3.0;0.3;0.3;0.2;0.3;1.4;0.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;Away;Alize Johnson;9;0;8.6;1.8;1.1;1.2;2.3;0.6;0.1;0.0;0.7;1.2;0.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;Away;Marko Simonovic;2;0;4.0;1.0;0.5;0.0;0.5;0.0;0.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Away;Total;41;"";"";109.0;8.0;33.0;41.0;23.5;7.3;4.1;13.0;19.2;1.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Boston Celtics;DeMar DeRozan;3;3;34.7;25.3;0.3;5.0;5.3;4.7;1.0;0.7;1.7;2.0;2.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Boston Celtics;Nikola Vucevic;3;3;31.7;17.0;1.3;6.3;7.7;5.3;1.0;1.0;2.3;2.0;2.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Boston Celtics;Zach LaVine;2;2;33.0;16.5;0.0;2.5;2.5;5.5;0.5;0.5;1.5;2.5;3.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Boston Celtics;Coby White;2;1;32.5;14.5;0.0;3.0;3.0;3.5;1.0;0.5;0.5;4.0;7.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Boston Celtics;Ayo Dosunmu;3;2;28.0;14.0;0.7;2.7;3.3;5.0;0.3;0.0;1.7;1.7;3.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Boston Celtics;Lonzo Ball;1;1;32.0;12.0;0.0;6.0;6.0;4.0;1.0;0.0;3.0;2.0;1.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Boston Celtics;Tristan Thompson;1;0;21.0;10.0;2.0;4.0;6.0;1.0;0.0;0.0;1.0;2.0;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Boston Celtics;Alex Caruso;1;0;23.0;9.0;0.0;3.0;3.0;6.0;2.0;1.0;3.0;4.0;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Boston Celtics;Derrick Jones Jr.;2;0;22.0;9.0;1.0;3.0;4.0;0.5;0.5;1.5;0.5;1.5;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Boston Celtics;Javonte Green;2;1;21.5;7.5;2.5;4.5;7.0;0.0;1.0;1.0;1.0;1.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Boston Celtics;Matt Thomas;1;0;17.0;5.0;1.0;1.0;2.0;0.0;0.0;0.0;0.0;2.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Boston Celtics;Tony Bradley;3;0;10.7;5.0;1.0;2.0;3.0;0.0;0.0;0.7;0.7;0.7;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Boston Celtics;Patrick Williams;1;1;26.0;5.0;1.0;4.0;5.0;0.0;0.0;0.0;2.0;5.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Boston Celtics;Alfonzo McKinnie;1;1;27.0;4.0;1.0;2.0;3.0;1.0;0.0;0.0;0.0;4.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Boston Celtics;Malcolm Hill;2;0;10.5;2.5;0.0;0.5;0.5;0.5;0.0;0.0;0.0;1.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Boston Celtics;Troy Brown Jr.;2;0;9.5;2.5;1.0;1.5;2.5;1.5;0.5;0.0;1.0;1.0;1.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Boston Celtics;Total;3;"";"";111.3;8.0;32.7;40.7;26.7;5.7;5.0;12.3;20.0;2.2
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Brooklyn Nets;Zach LaVine;3;3;34.7;25.7;0.3;4.3;4.7;5.7;0.7;1.0;2.0;0.7;2.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Brooklyn Nets;DeMar DeRozan;3;3;35.0;25.3;1.0;3.7;4.7;2.3;0.7;0.0;2.3;2.3;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Brooklyn Nets;Coby White;1;0;25.0;16.0;0.0;2.0;2.0;0.0;2.0;0.0;1.0;3.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Brooklyn Nets;Nikola Vucevic;3;3;33.0;12.0;1.7;6.0;7.7;3.3;0.7;1.3;0.7;1.0;5.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Brooklyn Nets;Javonte Green;1;1;29.0;11.0;2.0;5.0;7.0;2.0;3.0;0.0;1.0;3.0;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Brooklyn Nets;Ayo Dosunmu;3;0;22.0;10.3;1.3;2.3;3.7;0.3;0.0;1.0;1.3;2.0;0.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Brooklyn Nets;Lonzo Ball;3;3;34.0;9.3;1.7;5.3;7.0;5.7;1.0;1.3;1.3;1.7;4.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Brooklyn Nets;Alex Caruso;2;1;16.0;5.5;0.5;2.0;2.5;1.0;1.5;0.0;1.0;0.5;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Brooklyn Nets;Alfonzo McKinnie;1;0;20.0;5.0;4.0;1.0;5.0;0.0;0.0;0.0;3.0;5.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Brooklyn Nets;Derrick Jones Jr.;3;1;16.7;5.0;0.3;1.7;2.0;0.3;0.0;1.3;0.7;2.0;0.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Brooklyn Nets;Troy Brown Jr.;3;0;10.3;5.0;0.0;3.3;3.3;1.3;0.0;0.0;0.3;1.7;4.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Brooklyn Nets;Matt Thomas;2;0;4.5;4.0;0.0;0.5;0.5;0.0;0.0;0.0;0.5;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Brooklyn Nets;Marko Simonovic;1;0;3.0;4.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Brooklyn Nets;Tony Bradley;3;0;11.7;2.7;1.7;3.7;5.3;0.3;0.0;1.0;0.0;1.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Brooklyn Nets;Alize Johnson;2;0;3.5;0.0;0.5;0.5;1.0;0.0;0.0;0.0;0.5;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Brooklyn Nets;Devon Dotson;1;0;4.0;0.0;0.0;1.0;1.0;3.0;0.0;0.0;0.0;0.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Brooklyn Nets;Total;3;"";"";113.7;10.7;35.3;46.0;21.7;5.7;7.0;11.7;16.3;1.9
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. New York Knicks;DeMar DeRozan;4;4;38.0;30.5;0.3;5.0;5.3;5.0;1.3;0.5;2.8;2.8;1.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. New York Knicks;Zach LaVine;4;4;35.5;25.0;0.3;5.3;5.5;3.8;0.5;0.8;2.0;2.0;1.9
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. New York Knicks;Nikola Vucevic;3;3;34.3;21.7;1.7;7.7;9.3;3.3;1.0;0.7;1.3;2.7;2.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. New York Knicks;Coby White;2;0;21.0;10.0;0.0;3.5;3.5;1.0;0.0;0.0;1.0;2.0;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. New York Knicks;Lonzo Ball;3;3;34.3;8.3;1.3;4.3;5.7;5.0;0.3;1.3;2.0;4.0;2.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. New York Knicks;Derrick Jones Jr.;2;0;17.5;7.0;2.0;2.0;4.0;0.0;1.0;1.0;0.5;2.5;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. New York Knicks;Alex Caruso;4;2;31.0;6.5;0.8;3.3;4.0;4.5;2.0;0.3;1.3;4.5;3.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. New York Knicks;Troy Brown Jr.;2;0;13.5;5.0;0.5;2.5;3.0;0.0;0.5;0.0;0.5;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. New York Knicks;Tony Bradley;2;1;12.0;4.5;2.5;1.0;3.5;0.0;0.0;0.0;0.5;0.5;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. New York Knicks;Javonte Green;4;1;18.8;4.3;1.5;3.3;4.8;0.3;0.3;0.5;0.5;2.5;0.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. New York Knicks;Ayo Dosunmu;4;1;20.5;4.3;0.5;1.0;1.5;1.3;0.5;0.0;0.3;2.3;5.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. New York Knicks;Patrick Williams;2;1;14.5;3.0;0.5;1.5;2.0;0.0;1.0;0.5;0.5;0.5;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. New York Knicks;Tristan Thompson;1;0;14.0;2.0;2.0;4.0;6.0;0.0;0.0;0.0;0.0;1.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. New York Knicks;Alize Johnson;2;0;4.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. New York Knicks;Total;4;"";"";108.8;8.8;33.0;41.8;21.5;6.8;4.3;10.8;22.5;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Philadelphia 76ers;DeMar DeRozan;4;4;38.0;32.5;1.8;6.8;8.5;5.0;1.0;0.0;2.3;2.5;2.2
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Zach LaVine;3;3;37.7;27.7;1.0;7.7;8.7;3.0;0.3;0.0;4.7;2.0;0.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Coby White;1;0;34.0;19.0;1.0;3.0;4.0;2.0;0.0;1.0;0.0;1.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Tristan Thompson;1;1;29.0;13.0;2.0;7.0;9.0;0.0;0.0;0.0;1.0;5.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Nikola Vucevic;3;3;35.7;12.7;2.0;7.3;9.3;4.3;0.0;0.0;1.3;3.7;3.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Lonzo Ball;2;2;35.5;10.5;1.0;4.0;5.0;5.0;2.0;0.5;3.5;4.0;1.4
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Derrick Jones Jr.;3;0;18.3;8.0;2.0;1.7;3.7;0.0;1.3;2.0;0.7;2.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Alex Caruso;2;0;32.0;7.5;1.0;2.0;3.0;5.0;1.5;0.0;1.0;3.5;5.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Javonte Green;4;4;27.5;7.0;2.8;1.8;4.5;0.8;1.8;0.5;0.3;1.8;3.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Ayo Dosunmu;4;2;23.8;6.0;0.0;1.3;1.3;3.0;0.8;0.0;1.3;2.3;2.4
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Malcolm Hill;1;0;22.0;5.0;1.0;2.0;3.0;0.0;0.0;1.0;0.0;1.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Matt Thomas;1;0;34.0;5.0;0.0;6.0;6.0;1.0;0.0;0.0;0.0;0.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Troy Brown Jr.;2;1;14.0;4.0;0.0;2.5;2.5;0.0;0.0;0.0;0.0;0.5;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Tony Bradley;4;0;10.5;1.0;1.5;1.8;3.3;0.5;0.0;0.5;0.0;1.5;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Alfonzo McKinnie;1;0;3.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Total;4;"";"";104.3;11.8;33.0;44.8;20.5;6.5;3.3;11.3;19.8;1.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Toronto Raptors;DeMar DeRozan;4;4;38.0;27.3;0.8;5.0;5.8;5.3;0.8;0.8;2.8;2.5;1.9
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Toronto Raptors;Zach LaVine;4;4;37.5;21.5;0.5;5.3;5.8;6.5;1.3;0.3;1.8;2.5;3.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Toronto Raptors;Nikola Vucevic;4;4;35.0;20.8;3.3;10.3;13.5;4.0;1.3;0.5;2.5;3.0;1.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Toronto Raptors;Lonzo Ball;1;1;38.0;15.0;0.0;3.0;3.0;5.0;2.0;1.0;4.0;0.0;1.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Toronto Raptors;Ayo Dosunmu;3;2;35.0;9.7;0.3;2.3;2.7;6.0;0.3;0.7;1.0;3.3;6.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Toronto Raptors;Coby White;3;0;20.0;9.0;0.0;1.3;1.3;2.3;0.0;0.3;1.0;2.0;2.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Toronto Raptors;Javonte Green;4;3;25.0;8.5;1.3;3.5;4.8;1.3;1.0;0.3;0.3;1.3;5.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Toronto Raptors;Alex Caruso;2;1;30.0;7.5;0.5;1.5;2.0;4.0;2.5;0.0;2.0;3.0;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Toronto Raptors;Troy Brown Jr.;4;0;14.3;6.8;1.5;1.0;2.5;0.8;0.0;0.0;0.3;1.0;3.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Toronto Raptors;Alize Johnson;1;0;14.0;6.0;1.0;1.0;2.0;1.0;0.0;0.0;0.0;2.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Toronto Raptors;Patrick Williams;2;1;22.5;5.5;0.5;0.5;1.0;1.0;1.0;1.0;0.5;1.5;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Toronto Raptors;Tristan Thompson;1;0;13.0;4.0;0.0;4.0;4.0;1.0;0.0;2.0;1.0;0.0;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Toronto Raptors;Tyler Cook;2;0;8.0;2.5;1.5;0.0;1.5;0.0;0.0;0.0;0.0;0.5;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Toronto Raptors;Matt Thomas;3;0;6.7;1.0;0.0;1.3;1.3;0.3;0.0;0.3;0.0;0.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Toronto Raptors;Tony Bradley;2;0;6.5;0.5;1.5;0.5;2.0;0.0;0.0;1.0;1.0;1.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Toronto Raptors;Total;4;"";"";113.8;9.8;32.0;41.8;28.5;6.8;4.5;12.0;17.8;2.4
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;DeMar DeRozan;3;3;37.0;25.0;0.3;3.3;3.7;5.0;0.7;0.7;3.7;3.0;1.4
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Zach LaVine;2;2;37.0;24.0;0.0;2.5;2.5;6.0;0.5;0.0;3.0;1.5;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Nikola Vucevic;4;4;34.3;19.5;2.3;9.5;11.8;1.8;0.5;1.3;2.3;3.3;0.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Lonzo Ball;1;1;39.0;19.0;1.0;3.0;4.0;7.0;3.0;0.0;5.0;0.0;1.4
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Ayo Dosunmu;4;4;35.3;12.8;0.0;1.8;1.8;4.8;1.0;0.5;1.0;4.3;4.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Alex Caruso;3;1;30.0;10.0;0.7;3.3;4.0;4.3;2.0;0.7;0.7;2.0;6.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Javonte Green;2;1;20.5;9.5;1.5;3.5;5.0;0.0;1.0;0.5;1.0;3.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Coby White;3;2;31.0;8.3;0.7;3.7;4.3;3.3;2.3;0.0;1.7;0.3;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Matt Thomas;1;0;24.0;8.0;0.0;1.0;1.0;2.0;0.0;0.0;0.0;1.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Derrick Jones Jr.;2;1;21.5;6.5;0.5;1.5;2.0;0.0;0.5;0.0;0.5;1.5;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Devon Dotson;1;0;19.0;6.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;2.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Tristan Thompson;2;0;13.5;5.0;1.5;3.5;5.0;0.5;0.5;0.0;0.0;1.5;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Troy Brown Jr.;3;0;20.7;4.3;0.7;3.3;4.0;0.3;0.7;0.3;0.7;1.3;0.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Patrick Williams;1;0;14.0;4.0;0.0;4.0;4.0;1.0;0.0;0.0;1.0;0.0;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Tony Bradley;2;0;13.0;3.0;2.5;4.0;6.5;0.5;0.0;0.0;1.0;2.0;0.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Alfonzo McKinnie;1;1;5.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Alize Johnson;1;0;12.0;1.0;2.0;1.0;3.0;0.0;0.0;0.0;1.0;1.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Malcolm Hill;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Total;4;"";"";102.0;8.0;31.3;39.3;22.3;7.8;3.3;12.8;18.5;1.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Detroit Pistons;DeMar DeRozan;4;4;35.0;23.5;0.8;7.5;8.3;4.8;1.3;0.5;2.3;1.3;2.1
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Detroit Pistons;Zach LaVine;4;4;33.8;20.8;0.3;6.0;6.3;4.3;0.8;0.3;1.8;1.5;2.4
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Detroit Pistons;Nikola Vucevic;4;4;31.3;18.3;2.5;9.5;12.0;3.3;1.5;0.8;2.5;2.0;1.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Detroit Pistons;Lonzo Ball;3;3;32.7;14.3;1.3;4.0;5.3;3.3;2.0;2.0;2.3;2.0;1.4
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Detroit Pistons;Coby White;2;0;25.5;10.5;0.0;3.0;3.0;3.0;0.0;0.0;2.0;3.0;1.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Detroit Pistons;Alfonzo McKinnie;1;0;12.0;10.0;1.0;1.0;2.0;0.0;1.0;0.0;1.0;1.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Detroit Pistons;Matt Thomas;1;0;7.0;10.0;0.0;2.0;2.0;0.0;0.0;0.0;1.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Detroit Pistons;Alex Caruso;2;0;27.0;7.5;0.0;1.5;1.5;3.5;4.5;1.5;2.0;3.0;1.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Detroit Pistons;Patrick Williams;2;2;29.0;7.5;0.0;2.5;2.5;0.5;0.0;0.0;1.0;1.0;0.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Detroit Pistons;Ayo Dosunmu;4;1;21.8;7.0;0.0;2.0;2.0;2.5;1.0;0.8;1.0;1.3;2.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Detroit Pistons;Derrick Jones Jr.;2;1;18.0;6.0;0.0;1.5;1.5;0.0;0.5;0.0;0.0;2.5;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Detroit Pistons;Tristan Thompson;1;0;19.0;5.0;1.0;3.0;4.0;1.0;1.0;0.0;1.0;2.0;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Detroit Pistons;Tony Bradley;1;0;10.0;5.0;4.0;3.0;7.0;0.0;0.0;1.0;1.0;2.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Detroit Pistons;Javonte Green;3;1;16.7;4.7;0.0;2.3;2.3;0.7;1.0;0.0;0.3;2.7;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Detroit Pistons;Troy Brown Jr.;4;0;12.3;2.0;0.5;1.3;1.8;1.5;1.8;0.0;0.3;1.0;6.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Detroit Pistons;Devon Dotson;1;0;6.0;2.0;0.0;1.0;1.0;2.0;0.0;0.0;2.0;0.0;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Detroit Pistons;Alize Johnson;2;0;8.5;0.0;0.5;1.5;2.0;0.0;0.5;0.0;1.0;2.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Detroit Pistons;Marko Simonovic;1;0;6.0;0.0;1.0;2.0;3.0;0.0;0.0;1.0;0.0;4.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Detroit Pistons;Total;4;"";"";109.5;7.0;39.0;46.0;23.5;11.8;5.0;14.3;18.5;1.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Indiana Pacers;DeMar DeRozan;4;4;34.0;25.3;1.0;2.0;3.0;4.5;1.8;0.3;3.8;3.0;1.2
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Indiana Pacers;Nikola Vucevic;3;3;34.7;22.0;2.0;14.0;16.0;3.7;0.7;1.7;1.3;2.7;2.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Indiana Pacers;Zach LaVine;3;3;31.7;22.0;0.7;3.3;4.0;4.0;0.7;1.0;3.7;1.7;1.1
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Indiana Pacers;Coby White;3;3;30.3;12.0;0.0;3.0;3.0;2.7;1.0;0.7;1.0;3.7;2.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Indiana Pacers;Javonte Green;4;3;26.8;8.5;1.0;2.8;3.8;1.3;1.3;0.8;0.3;2.0;5.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Indiana Pacers;Ayo Dosunmu;4;1;26.5;7.8;0.0;1.3;1.3;4.3;0.5;0.8;1.3;1.8;3.4
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Indiana Pacers;Derrick Jones Jr.;2;0;16.5;7.5;1.0;2.5;3.5;0.0;0.5;0.0;0.0;1.5;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Indiana Pacers;Matt Thomas;4;0;19.5;7.0;0.0;2.0;2.0;0.8;0.3;0.0;0.0;0.5;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Indiana Pacers;Malcolm Hill;1;0;19.0;5.0;2.0;2.0;4.0;0.0;0.0;0.0;0.0;2.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Indiana Pacers;Troy Brown Jr.;4;1;22.3;5.0;0.3;3.0;3.3;1.3;0.3;0.0;0.0;1.3;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Indiana Pacers;Tony Bradley;2;1;12.5;3.0;1.5;4.0;5.5;0.5;0.0;0.0;0.0;1.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Indiana Pacers;Tyler Cook;3;0;10.7;3.0;0.3;3.0;3.3;0.0;0.7;0.3;0.3;2.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Indiana Pacers;Devon Dotson;1;0;7.0;2.0;0.0;3.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Indiana Pacers;Marko Simonovic;1;0;7.0;1.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Indiana Pacers;Lonzo Ball;1;1;25.0;0.0;0.0;5.0;5.0;2.0;0.0;1.0;1.0;1.0;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Indiana Pacers;Alize Johnson;1;0;5.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Indiana Pacers;Total;4;"";"";105.0;6.3;34.5;40.8;20.5;6.8;4.8;10.5;18.0;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Milwaukee Bucks;DeMar DeRozan;4;4;37.5;31.3;1.0;3.0;4.0;4.0;0.8;0.5;2.0;2.3;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Zach LaVine;2;2;36.0;25.5;0.0;5.5;5.5;6.5;1.0;0.0;1.5;2.0;4.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Nikola Vucevic;4;4;32.0;16.8;1.0;7.3;8.3;2.5;1.0;0.5;2.0;3.5;1.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Patrick Williams;2;1;25.0;12.0;2.5;2.5;5.0;0.5;0.5;0.0;0.5;1.5;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Matt Thomas;1;0;19.0;11.0;0.0;3.0;3.0;0.0;0.0;0.0;0.0;2.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Ayo Dosunmu;4;3;31.5;7.3;0.0;4.0;4.0;3.8;1.0;0.0;2.0;1.5;1.9
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Coby White;4;1;28.5;7.0;0.5;2.3;2.8;2.3;0.5;0.0;1.3;1.3;1.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Javonte Green;3;1;22.0;6.7;0.3;3.7;4.0;0.7;1.7;1.0;0.0;2.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Derrick Jones Jr.;2;0;18.5;5.5;0.5;2.5;3.0;1.5;0.5;0.5;1.0;2.5;1.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Tristan Thompson;3;1;17.3;4.3;2.3;2.3;4.7;0.3;0.3;0.3;0.3;3.0;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Tyler Cook;1;1;26.0;4.0;1.0;6.0;7.0;0.0;1.0;1.0;1.0;5.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Alex Caruso;3;2;25.3;3.3;0.7;4.7;5.3;6.0;0.7;0.3;0.7;2.3;9.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Troy Brown Jr.;4;0;9.3;2.8;0.5;1.3;1.8;0.3;0.0;0.3;0.5;0.5;0.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Tony Bradley;1;0;4.0;2.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Malcolm Hill;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Total;4;"";"";101.5;7.3;33.8;41.0;22.3;6.5;3.0;10.3;19.3;2.2
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Atlanta Hawks;DeMar DeRozan;4;4;37.3;28.5;0.8;4.8;5.5;7.3;0.8;0.3;2.3;3.0;3.2
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Atlanta Hawks;Zach LaVine;4;4;35.0;24.3;0.3;3.3;3.5;6.0;0.3;0.3;2.8;1.3;2.2
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Atlanta Hawks;Nikola Vucevic;4;4;34.3;18.3;2.5;12.0;14.5;3.8;1.3;1.8;1.8;2.3;2.1
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Atlanta Hawks;Coby White;4;2;26.5;13.5;0.0;2.0;2.0;4.8;0.5;0.3;1.0;3.5;4.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Atlanta Hawks;Ayo Dosunmu;4;2;28.5;12.3;0.5;1.5;2.0;2.5;0.5;1.8;1.8;3.3;1.4
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Atlanta Hawks;Tristan Thompson;2;0;17.0;9.5;1.5;4.0;5.5;1.0;1.0;0.0;0.5;0.5;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Atlanta Hawks;Javonte Green;4;4;25.3;7.0;0.5;3.0;3.5;1.0;0.8;0.8;0.3;2.5;4.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Atlanta Hawks;Matt Thomas;2;0;17.5;7.0;0.5;0.5;1.0;1.0;0.5;0.0;0.0;0.5;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Atlanta Hawks;Troy Brown Jr.;4;0;18.5;6.3;0.3;2.3;2.5;1.8;1.3;0.0;0.0;0.8;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Atlanta Hawks;Tyler Cook;2;0;13.0;6.0;1.5;2.0;3.5;0.0;0.0;0.0;0.0;1.5;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Atlanta Hawks;Derrick Jones Jr.;3;0;12.7;2.7;0.0;2.0;2.0;0.3;0.0;0.7;0.0;1.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Atlanta Hawks;Devon Dotson;1;0;3.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Atlanta Hawks;Mac McClung;1;0;3.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Atlanta Hawks;Total;4;"";"";124.3;6.5;33.5;40.0;28.3;6.0;5.5;10.3;19.0;2.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Charlotte Hornets;DeMar DeRozan;3;3;34.0;27.0;0.0;3.7;3.7;3.7;0.3;0.0;3.3;3.0;1.1
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Charlotte Hornets;Zach LaVine;3;3;35.3;25.0;0.0;5.3;5.3;5.7;0.0;0.0;1.7;1.7;3.4
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Charlotte Hornets;Nikola Vucevic;3;3;31.7;18.0;1.0;10.7;11.7;5.3;0.0;1.7;2.3;2.0;2.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Charlotte Hornets;Lonzo Ball;1;1;33.0;16.0;0.0;1.0;1.0;8.0;1.0;1.0;2.0;4.0;4.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Charlotte Hornets;Patrick Williams;1;1;26.0;15.0;1.0;3.0;4.0;3.0;0.0;1.0;1.0;0.0;3.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Charlotte Hornets;Alex Caruso;1;0;25.0;14.0;1.0;2.0;3.0;7.0;0.0;1.0;3.0;1.0;2.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Charlotte Hornets;Coby White;3;2;32.0;14.0;0.0;2.3;2.3;2.3;0.3;0.3;0.7;2.7;3.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Charlotte Hornets;Ayo Dosunmu;2;0;17.0;10.0;0.0;1.5;1.5;1.5;1.0;0.0;1.0;2.0;1.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Charlotte Hornets;Tristan Thompson;1;0;14.0;7.0;4.0;0.0;4.0;0.0;0.0;0.0;0.0;1.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Charlotte Hornets;Troy Brown Jr.;2;0;23.5;7.0;1.0;3.5;4.5;4.0;2.5;0.0;0.0;0.5;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Charlotte Hornets;Malcolm Hill;1;0;10.0;6.0;0.0;2.0;2.0;0.0;1.0;1.0;1.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Charlotte Hornets;Javonte Green;3;2;28.3;4.7;0.7;3.0;3.7;2.0;1.0;0.3;0.0;1.3;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Charlotte Hornets;Derrick Jones Jr.;2;0;16.5;4.0;1.0;1.5;2.5;0.5;0.0;0.0;0.5;1.0;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Charlotte Hornets;Matt Thomas;1;0;4.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Charlotte Hornets;Tony Bradley;1;0;10.0;2.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;2.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Charlotte Hornets;Total;3;"";"";123.7;5.3;32.0;37.3;29.0;4.7;3.7;11.3;16.0;2.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Miami Heat;Zach LaVine;4;4;35.5;26.0;0.8;4.3;5.0;3.0;0.8;0.0;2.5;3.3;1.2
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Miami Heat;DeMar DeRozan;3;3;37.3;24.0;0.7;4.3;5.0;2.0;1.7;0.3;2.3;2.0;0.9
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Miami Heat;Lonzo Ball;2;2;38.5;13.0;1.0;7.0;8.0;4.5;1.0;0.5;4.5;2.5;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Miami Heat;Patrick Williams;1;0;30.0;12.0;0.0;6.0;6.0;2.0;1.0;2.0;1.0;2.0;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Miami Heat;Nikola Vucevic;4;4;30.3;10.8;1.5;8.0;9.5;3.0;1.0;0.8;1.5;1.8;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Miami Heat;Ayo Dosunmu;3;2;25.3;10.3;0.3;2.3;2.7;3.0;0.7;0.3;1.3;3.0;2.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Miami Heat;Alex Caruso;3;2;27.7;9.3;1.3;1.0;2.3;5.0;1.0;0.0;1.7;1.7;3.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Miami Heat;Javonte Green;3;2;17.0;6.3;1.3;1.0;2.3;0.3;0.3;0.3;0.3;2.3;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Miami Heat;Alfonzo McKinnie;1;0;29.0;6.0;0.0;0.0;0.0;1.0;0.0;1.0;1.0;2.0;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Miami Heat;Devon Dotson;1;0;15.0;6.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;1.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Miami Heat;Coby White;3;0;23.7;5.0;0.7;3.7;4.3;3.3;0.0;0.3;2.0;2.0;1.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Miami Heat;Matt Thomas;1;0;3.0;4.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Miami Heat;Derrick Jones Jr.;3;0;13.3;4.0;0.3;1.3;1.7;0.7;0.0;0.3;0.3;2.0;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Miami Heat;Troy Brown Jr.;3;1;16.3;4.0;0.7;1.0;1.7;1.3;1.0;0.0;0.0;0.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Miami Heat;Tony Bradley;3;0;5.7;2.7;1.0;2.7;3.7;0.7;0.0;0.7;0.7;0.7;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Miami Heat;Tristan Thompson;2;0;15.0;2.0;1.0;1.0;2.0;0.0;0.5;0.5;1.0;2.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Miami Heat;Marko Simonovic;1;0;5.0;2.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Miami Heat;Malcolm Hill;1;0;1.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;1.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Miami Heat;Tyler Cook;1;0;5.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Miami Heat;Alize Johnson;1;0;5.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;2.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Miami Heat;Total;4;"";"";101.0;8.3;31.3;39.5;22.0;6.3;3.8;13.8;19.5;1.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Orlando Magic;DeMar DeRozan;4;4;35.0;30.5;1.8;4.0;5.8;3.5;1.3;0.3;1.8;2.3;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Orlando Magic;Zach LaVine;3;3;33.0;24.7;0.0;4.0;4.0;2.7;0.3;0.0;2.0;1.0;1.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Orlando Magic;Coby White;4;1;30.8;17.0;0.5;2.8;3.3;2.3;0.5;0.5;1.5;1.5;1.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Orlando Magic;Nikola Vucevic;4;4;32.5;15.0;2.0;10.8;12.8;2.3;0.5;1.5;2.5;4.0;0.9
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Orlando Magic;Javonte Green;2;2;24.5;8.0;2.0;5.5;7.5;0.0;1.5;0.5;2.5;1.5;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Orlando Magic;Lonzo Ball;2;2;32.0;8.0;0.5;5.0;5.5;6.5;4.0;0.0;2.5;2.0;2.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Orlando Magic;Ayo Dosunmu;4;2;28.5;7.8;0.3;2.0;2.3;3.0;0.3;0.3;1.8;2.0;1.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Orlando Magic;Troy Brown Jr.;4;0;18.0;5.0;0.8;3.5;4.3;2.0;0.5;0.3;0.8;1.5;2.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Orlando Magic;Derrick Jones Jr.;2;1;15.5;4.5;2.0;1.5;3.5;0.0;0.5;0.0;0.0;4.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Orlando Magic;Alex Caruso;1;0;25.0;4.0;1.0;4.0;5.0;3.0;4.0;0.0;0.0;1.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Orlando Magic;Tyler Cook;2;1;18.0;4.0;2.0;5.0;7.0;0.0;0.0;1.0;0.5;1.5;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Orlando Magic;Matt Thomas;3;0;12.3;3.3;0.0;1.0;1.0;0.0;0.0;0.0;0.3;0.3;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Orlando Magic;Malcolm Hill;1;0;8.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Orlando Magic;Tony Bradley;3;0;4.7;2.0;0.3;0.7;1.0;0.7;0.0;0.3;1.3;1.3;0.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Orlando Magic;Alfonzo McKinnie;2;0;6.0;0.0;0.5;1.0;1.5;0.5;0.0;0.0;0.0;0.5;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Orlando Magic;Alize Johnson;1;0;2.0;0.0;1.0;0.0;1.0;2.0;0.0;0.0;0.0;2.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Orlando Magic;Devon Dotson;1;0;6.0;0.0;0.0;2.0;2.0;3.0;0.0;0.0;1.0;2.0;3.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Orlando Magic;Total;4;"";"";111.5;9.5;37.8;47.3;21.0;7.3;3.8;14.0;19.3;1.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Washington Wizards;Zach LaVine;3;3;35.0;25.3;0.0;3.3;3.3;2.3;0.3;0.0;3.7;2.0;0.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Washington Wizards;DeMar DeRozan;3;3;34.3;25.0;1.3;5.7;7.0;5.7;0.7;0.3;3.0;3.0;1.9
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Washington Wizards;Nikola Vucevic;3;3;33.3;21.7;2.0;8.3;10.3;4.0;1.7;0.3;2.0;2.0;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Washington Wizards;Lonzo Ball;1;1;35.0;18.0;1.0;4.0;5.0;6.0;2.0;0.0;1.0;1.0;6.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Washington Wizards;Coby White;3;1;33.0;16.7;0.0;2.7;2.7;4.3;0.3;0.0;1.3;2.7;3.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Washington Wizards;Javonte Green;1;0;13.0;9.0;0.0;2.0;2.0;0.0;2.0;0.0;0.0;1.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Washington Wizards;Ayo Dosunmu;3;1;26.3;8.7;0.3;3.3;3.7;3.7;1.3;0.3;0.7;2.7;5.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Washington Wizards;Tony Bradley;1;0;11.0;8.0;1.0;3.0;4.0;1.0;0.0;2.0;0.0;1.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Washington Wizards;Patrick Williams;1;0;25.0;6.0;3.0;4.0;7.0;0.0;1.0;0.0;0.0;1.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Washington Wizards;Derrick Jones Jr.;2;2;22.0;5.5;0.5;3.0;3.5;1.5;0.5;1.0;1.5;3.5;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Washington Wizards;Tristan Thompson;1;0;17.0;4.0;2.0;1.0;3.0;2.0;0.0;1.0;0.0;1.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Washington Wizards;Troy Brown Jr.;2;0;21.5;3.5;0.5;3.0;3.5;0.5;0.0;0.0;0.0;2.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Washington Wizards;Alex Caruso;1;1;28.0;2.0;0.0;3.0;3.0;4.0;3.0;0.0;1.0;1.0;4.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Washington Wizards;Alfonzo McKinnie;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Washington Wizards;Matt Thomas;1;0;12.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Washington Wizards;Jordan Bell;1;0;2.0;0.0;1.0;0.0;1.0;0.0;1.0;0.0;0.0;2.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Washington Wizards;Tyler Cook;1;0;3.0;0.0;1.0;0.0;1.0;0.0;1.0;0.0;0.0;1.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Washington Wizards;Marko Simonovic;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Washington Wizards;Total;3;"";"";119.0;7.3;33.0;40.3;25.7;8.0;2.7;12.7;19.7;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Denver Nuggets;Zach LaVine;2;2;38.0;34.0;0.0;4.0;4.0;6.0;1.0;0.0;2.5;2.0;2.4
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Denver Nuggets;DeMar DeRozan;1;1;36.0;26.0;0.0;6.0;6.0;4.0;2.0;0.0;0.0;1.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Denver Nuggets;Nikola Vucevic;1;1;35.0;20.0;1.0;9.0;10.0;2.0;1.0;1.0;2.0;2.0;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Denver Nuggets;Derrick Jones Jr.;2;1;25.5;14.0;3.5;5.0;8.5;0.5;0.0;1.0;1.0;4.0;0.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Denver Nuggets;Lonzo Ball;2;2;39.0;13.5;2.5;4.0;6.5;5.0;0.5;2.0;1.5;1.0;3.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Denver Nuggets;Ayo Dosunmu;2;1;32.5;10.5;2.5;4.5;7.0;4.0;1.0;0.0;2.0;2.0;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Denver Nuggets;Troy Brown Jr.;1;0;24.0;6.0;2.0;6.0;8.0;1.0;0.0;0.0;0.0;1.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Denver Nuggets;Tony Bradley;2;1;14.0;5.5;1.5;4.0;5.5;1.5;0.0;0.5;1.0;1.5;1.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Denver Nuggets;Javonte Green;1;0;22.0;5.0;6.0;3.0;9.0;1.0;1.0;1.0;2.0;4.0;0.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Denver Nuggets;Alex Caruso;1;1;34.0;4.0;1.0;3.0;4.0;2.0;1.0;1.0;0.0;3.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Denver Nuggets;Matt Thomas;1;0;19.0;3.0;0.0;3.0;3.0;0.0;1.0;0.0;0.0;2.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Denver Nuggets;Coby White;1;0;11.0;2.0;0.0;2.0;2.0;0.0;0.0;0.0;2.0;1.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Denver Nuggets;Devon Dotson;1;0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Denver Nuggets;Marko Simonovic;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Denver Nuggets;Total;2;"";"";111.5;15.0;37.5;52.5;22.0;5.5;5.0;11.0;17.5;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;DeMar DeRozan;1;1;38.0;35.0;0.0;6.0;6.0;6.0;1.0;0.0;0.0;1.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Patrick Williams;1;1;41.0;35.0;0.0;4.0;4.0;4.0;0.0;1.0;5.0;2.0;0.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Nikola Vucevic;1;1;35.0;26.0;0.0;8.0;8.0;7.0;0.0;0.0;1.0;5.0;7.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Coby White;1;0;29.0;22.0;1.0;5.0;6.0;1.0;2.0;0.0;3.0;3.0;0.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Ayo Dosunmu;2;2;43.5;20.0;1.0;3.5;4.5;8.0;2.5;0.0;4.0;2.0;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Javonte Green;2;2;35.5;15.5;1.0;4.5;5.5;1.5;1.0;0.0;1.5;2.0;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Zach LaVine;1;1;37.0;12.0;0.0;4.0;4.0;6.0;0.0;1.0;4.0;2.0;1.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Derrick Jones Jr.;1;0;29.0;12.0;3.0;1.0;4.0;2.0;2.0;1.0;3.0;4.0;0.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Tristan Thompson;1;1;15.0;10.0;2.0;3.0;5.0;0.0;0.0;0.0;0.0;2.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Troy Brown Jr.;2;1;25.0;8.5;1.5;6.5;8.0;2.0;1.0;0.0;1.5;1.0;1.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Tony Bradley;2;0;14.0;6.5;4.0;2.0;6.0;1.0;0.0;1.5;1.5;2.0;0.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Tyler Cook;1;0;4.0;3.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;2.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Malcolm Hill;2;0;8.5;1.0;0.5;2.0;2.5;1.5;0.5;0.0;0.5;1.0;3.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Total;2;"";"";129.0;11.0;34.5;45.5;27.0;7.5;3.0;17.0;18.5;1.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;DeMar DeRozan;1;1;40.0;38.0;1.0;5.0;6.0;5.0;1.0;0.0;2.0;2.0;2.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Nikola Vucevic;2;2;37.5;28.5;5.0;10.0;15.0;2.0;1.5;2.5;5.0;2.0;0.4
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Zach LaVine;1;1;35.0;23.0;0.0;7.0;7.0;7.0;2.0;1.0;3.0;0.0;2.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Ayo Dosunmu;2;2;38.0;18.0;0.0;6.5;6.5;8.5;0.5;0.5;3.0;4.5;2.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Coby White;2;1;34.0;12.5;1.5;6.5;8.0;6.0;0.5;0.5;2.0;3.0;3.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Javonte Green;1;1;25.0;5.0;0.0;2.0;2.0;1.0;2.0;1.0;0.0;0.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Malcolm Hill;2;0;16.5;5.0;0.5;1.5;2.0;0.5;0.5;0.0;0.0;1.5;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Troy Brown Jr.;2;2;29.5;5.0;1.5;5.5;7.0;1.0;0.5;0.5;0.5;2.0;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Derrick Jones Jr.;1;0;23.0;3.0;1.0;1.0;2.0;1.0;1.0;0.0;0.0;6.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Tyler Cook;2;0;6.0;2.5;1.0;2.0;3.0;0.0;0.0;0.0;0.0;1.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Alfonzo McKinnie;1;0;11.0;2.0;0.0;4.0;4.0;0.0;0.0;0.0;1.0;4.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Matt Thomas;2;0;10.5;1.5;0.0;1.5;1.5;0.5;0.0;0.5;0.5;0.5;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Tony Bradley;2;0;1.5;0.0;0.0;0.5;0.5;0.0;0.0;0.5;0.5;0.5;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Total;2;"";"";108.5;10.5;43.5;54.0;25.5;6.5;6.0;14.5;21.0;1.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Zach LaVine;2;2;35.0;25.0;0.0;4.0;4.0;3.0;0.5;1.0;2.0;1.0;1.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Nikola Vucevic;1;1;32.0;24.0;1.0;13.0;14.0;3.0;1.0;1.0;1.0;2.0;3.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Portland Trail Blazers;DeMar DeRozan;2;2;35.5;22.5;0.5;3.5;4.0;7.5;1.5;1.0;3.0;1.5;2.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Lonzo Ball;1;1;37.0;17.0;1.0;3.0;4.0;4.0;2.0;2.0;1.0;5.0;4.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Alex Caruso;1;1;38.0;12.0;4.0;6.0;10.0;9.0;2.0;2.0;1.0;4.0;9.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Javonte Green;2;1;22.0;11.0;1.0;1.0;2.0;1.0;0.5;0.5;0.0;2.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Matt Thomas;1;0;17.0;9.0;1.0;1.0;2.0;0.0;0.0;0.0;0.0;2.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Coby White;2;0;20.5;9.0;0.5;1.5;2.0;3.5;0.0;0.0;0.5;1.0;7.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Tony Bradley;2;1;18.5;8.0;1.5;3.5;5.0;0.0;1.0;0.5;0.5;1.5;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Ayo Dosunmu;2;1;25.5;7.5;0.0;4.0;4.0;5.5;1.5;0.0;1.5;1.0;3.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Derrick Jones Jr.;1;0;20.0;6.0;2.0;1.0;3.0;1.0;1.0;1.0;2.0;5.0;0.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Troy Brown Jr.;1;0;18.0;3.0;1.0;2.0;3.0;1.0;1.0;0.0;1.0;4.0;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Alfonzo McKinnie;1;0;1.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Malcolm Hill;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Alize Johnson;1;0;2.0;0.0;1.0;0.0;1.0;0.0;0.0;0.0;1.0;1.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Total;2;"";"";118.5;9.0;31.0;40.0;29.5;8.5;6.0;11.0;19.5;2.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Utah Jazz;Zach LaVine;2;2;34.0;29.5;1.5;2.0;3.5;5.0;1.5;0.5;0.5;3.0;10.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Utah Jazz;DeMar DeRozan;2;2;35.0;28.5;0.5;5.0;5.5;5.0;0.0;0.0;2.5;2.0;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Utah Jazz;Nikola Vucevic;2;2;31.5;13.0;0.5;11.0;11.5;1.5;1.0;0.0;0.0;3.5;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Utah Jazz;Coby White;1;0;20.0;12.0;0.0;1.0;1.0;3.0;0.0;0.0;0.0;4.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Utah Jazz;Lonzo Ball;1;1;33.0;11.0;1.0;4.0;5.0;2.0;4.0;0.0;4.0;2.0;0.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Utah Jazz;Ayo Dosunmu;2;1;26.0;9.5;0.5;2.5;3.0;3.5;0.5;0.0;1.0;2.5;3.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Utah Jazz;Tristan Thompson;1;0;16.0;5.0;2.0;3.0;5.0;1.0;2.0;0.0;0.0;1.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Utah Jazz;Javonte Green;2;2;22.0;5.0;0.5;2.5;3.0;1.0;1.0;0.0;0.5;2.0;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Utah Jazz;Alex Caruso;2;0;25.0;4.5;0.5;2.5;3.0;2.0;1.0;0.5;3.5;3.0;0.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Utah Jazz;Derrick Jones Jr.;2;0;19.0;2.5;1.0;1.0;2.0;1.0;1.0;1.5;0.0;0.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Utah Jazz;Tony Bradley;2;0;8.0;1.0;0.5;1.5;2.0;0.0;0.0;1.0;0.5;1.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Utah Jazz;Troy Brown Jr.;2;0;3.5;1.0;0.0;1.5;1.5;0.0;0.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Utah Jazz;Matt Thomas;1;0;3.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Utah Jazz;Total;2;"";"";108.5;7.0;34.0;41.0;22.0;9.0;3.5;10.5;20.5;2.1
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Golden State Warriors;Coby White;1;0;29.0;20.0;0.0;1.0;1.0;1.0;1.0;0.0;2.0;2.0;0.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Golden State Warriors;Nikola Vucevic;1;1;30.0;19.0;2.0;12.0;14.0;5.0;0.0;3.0;2.0;1.0;2.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Golden State Warriors;DeMar DeRozan;2;2;32.5;17.5;0.5;1.5;2.0;6.0;1.0;0.0;1.5;2.0;4.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Golden State Warriors;Zach LaVine;2;2;19.0;11.5;0.5;3.0;3.5;0.0;0.5;0.0;4.0;1.5;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Golden State Warriors;Lonzo Ball;2;2;30.0;10.0;0.5;2.0;2.5;3.0;2.0;0.5;3.5;1.5;0.9
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Golden State Warriors;Derrick Jones Jr.;1;0;21.0;9.0;2.0;4.0;6.0;1.0;1.0;0.0;1.0;1.0;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Golden State Warriors;Alize Johnson;1;0;21.0;9.0;3.0;4.0;7.0;0.0;1.0;0.0;1.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Golden State Warriors;Marko Simonovic;1;0;7.0;8.0;2.0;2.0;4.0;0.0;1.0;0.0;0.0;1.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Golden State Warriors;Alfonzo McKinnie;1;0;19.0;7.0;1.0;2.0;3.0;0.0;0.0;1.0;0.0;2.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Golden State Warriors;Tyler Cook;1;0;12.0;6.0;0.0;2.0;2.0;2.0;0.0;0.0;1.0;1.0;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Golden State Warriors;Alex Caruso;1;0;25.0;4.0;0.0;3.0;3.0;5.0;1.0;0.0;1.0;4.0;5.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Golden State Warriors;Matt Thomas;2;0;11.5;4.0;0.0;1.5;1.5;1.5;0.5;0.5;0.5;0.0;3.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Golden State Warriors;Javonte Green;1;1;16.0;3.0;0.0;4.0;4.0;0.0;0.0;0.0;1.0;3.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Golden State Warriors;Ayo Dosunmu;2;0;24.0;3.0;0.5;0.5;1.0;0.5;0.0;0.0;1.0;2.5;0.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Golden State Warriors;Tony Bradley;2;1;14.0;2.5;1.5;2.5;4.0;1.5;0.0;0.5;1.0;0.5;1.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Golden State Warriors;Troy Brown Jr.;2;1;15.5;2.5;0.0;0.5;0.5;1.5;0.0;0.0;1.0;1.0;1.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Golden State Warriors;Devon Dotson;1;0;8.0;2.0;0.0;0.0;0.0;2.0;0.0;0.0;0.0;2.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Golden State Warriors;Total;2;"";"";94.5;8.5;28.5;37.0;22.0;6.5;3.5;17.0;17.5;1.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. LA Clippers;DeMar DeRozan;2;2;40.5;42.5;0.5;5.5;6.0;5.5;0.5;0.0;2.0;3.5;2.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. LA Clippers;Zach LaVine;2;2;39.5;25.0;0.0;6.0;6.0;3.5;0.5;0.0;3.0;1.5;1.2
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. LA Clippers;Nikola Vucevic;1;1;40.0;22.0;5.0;9.0;14.0;1.0;0.0;0.0;2.0;2.0;0.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. LA Clippers;Coby White;1;0;23.0;11.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;2.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. LA Clippers;Lonzo Ball;1;1;34.0;10.0;1.0;4.0;5.0;3.0;3.0;0.0;2.0;4.0;1.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. LA Clippers;Patrick Williams;1;0;37.0;10.0;3.0;9.0;12.0;0.0;1.0;2.0;0.0;2.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. LA Clippers;Alex Caruso;2;2;36.0;7.0;2.0;4.0;6.0;6.0;1.5;0.5;0.5;2.5;12.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. LA Clippers;Ayo Dosunmu;2;1;21.0;6.0;0.0;3.0;3.0;2.0;1.0;0.5;2.0;2.0;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. LA Clippers;Javonte Green;2;0;17.0;5.5;1.0;1.0;2.0;1.0;1.0;0.5;0.0;1.5;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. LA Clippers;Tristan Thompson;1;0;12.0;4.0;3.0;3.0;6.0;1.0;0.0;0.0;0.0;0.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. LA Clippers;Tony Bradley;1;1;24.0;4.0;1.0;4.0;5.0;0.0;1.0;1.0;2.0;3.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. LA Clippers;Derrick Jones Jr.;1;0;18.0;2.0;0.0;1.0;1.0;1.0;1.0;1.0;2.0;2.0;0.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. LA Clippers;Troy Brown Jr.;1;0;9.0;0.0;0.0;5.0;5.0;0.0;0.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. LA Clippers;Total;2;"";"";117.5;10.0;37.5;47.5;21.5;7.5;3.5;11.5;18.5;1.9
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Los Angeles Lakers;DeMar DeRozan;2;2;34.5;38.0;0.5;3.0;3.5;6.0;1.0;0.5;3.0;2.0;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Zach LaVine;1;1;34.0;26.0;1.0;4.0;5.0;5.0;0.0;0.0;2.0;2.0;2.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Lonzo Ball;2;2;38.0;23.0;1.5;4.0;5.5;6.0;1.5;0.5;2.5;2.5;2.4
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Nikola Vucevic;1;1;35.0;19.0;4.0;9.0;13.0;2.0;1.0;1.0;1.0;0.0;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Alex Caruso;2;2;36.0;8.5;1.0;6.5;7.5;3.5;1.5;0.0;2.0;3.0;1.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Derrick Jones Jr.;2;0;11.0;6.5;0.0;2.0;2.0;1.0;0.5;0.5;0.5;2.5;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Javonte Green;2;1;24.5;5.5;2.5;1.0;3.5;1.0;1.5;0.5;0.5;1.5;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Tony Bradley;2;1;19.0;5.0;1.5;4.5;6.0;1.0;1.5;0.0;1.5;1.5;0.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Ayo Dosunmu;1;0;21.0;5.0;0.0;1.0;1.0;2.0;0.0;0.0;1.0;4.0;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Troy Brown Jr.;1;0;3.0;4.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Coby White;2;0;17.5;2.5;0.0;1.0;1.0;1.0;0.5;0.0;0.5;1.0;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Alfonzo McKinnie;1;0;17.0;2.0;1.0;1.0;2.0;1.0;1.0;0.0;1.0;3.0;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Tyler Cook;1;0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Matt Thomas;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Alize Johnson;1;0;3.0;0.0;0.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Total;2;"";"";118.0;10.0;29.5;39.5;25.5;9.5;2.5;13.0;19.0;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Phoenix Suns;DeMar DeRozan;2;2;34.5;28.5;1.0;2.0;3.0;3.0;1.0;0.0;2.5;3.0;1.2
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Phoenix Suns;Zach LaVine;2;2;33.5;22.0;0.5;3.5;4.0;8.5;0.0;0.0;2.0;1.0;4.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Phoenix Suns;Nikola Vucevic;2;2;30.0;14.5;3.5;6.0;9.5;0.5;2.0;0.0;1.5;1.5;0.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Phoenix Suns;Coby White;2;0;25.5;13.5;0.0;1.5;1.5;1.0;0.0;0.0;0.5;2.5;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Phoenix Suns;Tristan Thompson;1;0;15.0;11.0;4.0;1.0;5.0;1.0;1.0;0.0;1.0;1.0;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Phoenix Suns;Alex Caruso;1;0;25.0;8.0;1.0;2.0;3.0;3.0;1.0;0.0;1.0;3.0;3.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Phoenix Suns;Malcolm Hill;1;0;2.0;8.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Phoenix Suns;Matt Thomas;2;0;8.0;6.5;0.0;1.0;1.0;1.0;0.5;0.0;0.0;0.5;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Phoenix Suns;Javonte Green;2;2;22.5;5.0;3.5;4.0;7.5;1.5;0.5;0.5;0.0;2.5;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Phoenix Suns;Tony Bradley;2;0;9.0;3.5;0.0;1.0;1.0;0.5;0.5;0.5;0.0;0.5;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Phoenix Suns;Ayo Dosunmu;2;2;31.0;3.0;0.5;1.5;2.0;0.5;0.5;0.0;0.5;3.0;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Phoenix Suns;Derrick Jones Jr.;1;0;19.0;2.0;1.0;3.0;4.0;1.0;0.0;0.0;2.0;1.0;0.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Phoenix Suns;Troy Brown Jr.;2;0;14.0;1.5;0.0;1.5;1.5;0.0;0.5;0.0;1.0;1.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Phoenix Suns;Alfonzo McKinnie;1;0;2.0;1.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Phoenix Suns;Tyler Cook;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Phoenix Suns;Total;2;"";"";113.0;12.0;26.5;38.5;19.0;6.5;1.0;10.0;18.0;1.9
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Sacramento Kings;DeMar DeRozan;2;2;40.5;29.5;1.0;5.5;6.5;6.0;0.5;0.0;3.0;3.0;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Sacramento Kings;Zach LaVine;1;1;36.0;27.0;1.0;2.0;3.0;6.0;0.0;1.0;2.0;1.0;3.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Sacramento Kings;Nikola Vucevic;2;2;35.5;22.0;2.0;8.0;10.0;2.5;1.0;0.0;0.5;2.5;5.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Sacramento Kings;Coby White;2;1;31.5;22.0;0.5;2.0;2.5;4.5;0.5;0.0;1.0;2.0;4.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Sacramento Kings;Javonte Green;2;2;23.0;10.0;2.0;4.0;6.0;0.0;0.5;0.5;0.0;2.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Sacramento Kings;Ayo Dosunmu;2;2;35.5;9.0;0.5;3.5;4.0;4.0;1.0;0.5;3.0;1.5;1.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Sacramento Kings;Alex Caruso;1;0;27.0;6.0;0.0;1.0;1.0;2.0;0.0;1.0;4.0;3.0;0.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Sacramento Kings;Derrick Jones Jr.;2;0;17.5;3.5;2.5;2.5;5.0;1.0;1.0;0.5;0.5;1.5;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Sacramento Kings;Matt Thomas;1;0;11.0;3.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Sacramento Kings;Tristan Thompson;1;0;15.0;0.0;0.0;5.0;5.0;0.0;2.0;2.0;1.0;5.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Sacramento Kings;Tony Bradley;1;0;8.0;0.0;2.0;2.0;4.0;0.0;0.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Sacramento Kings;Troy Brown Jr.;1;0;17.0;0.0;2.0;3.0;5.0;2.0;1.0;0.0;0.0;1.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Sacramento Kings;Total;2;"";"";114.0;11.0;32.5;43.5;23.5;6.5;3.5;12.0;18.0;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Dallas Mavericks;Zach LaVine;2;2;33.0;21.5;0.0;2.5;2.5;2.5;1.5;0.0;2.5;3.0;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Dallas Mavericks;DeMar DeRozan;2;2;35.0;18.5;0.0;5.5;5.5;7.0;0.0;1.0;2.0;3.0;3.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Dallas Mavericks;Alex Caruso;1;0;23.0;16.0;0.0;2.0;2.0;1.0;6.0;0.0;2.0;2.0;0.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Dallas Mavericks;Nikola Vucevic;2;2;33.0;15.5;2.0;6.0;8.0;3.0;1.0;0.5;1.0;0.0;3.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Dallas Mavericks;Lonzo Ball;2;2;35.5;15.0;0.5;5.5;6.0;5.5;2.0;0.0;0.5;3.0;11.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Dallas Mavericks;Coby White;1;0;27.0;13.0;0.0;4.0;4.0;2.0;0.0;0.0;0.0;0.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Dallas Mavericks;Derrick Jones Jr.;2;1;22.0;7.5;2.5;5.0;7.5;1.0;0.5;0.0;0.0;2.5;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Dallas Mavericks;Javonte Green;1;1;21.0;7.0;1.0;2.0;3.0;2.0;0.0;0.0;1.0;2.0;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Dallas Mavericks;Ayo Dosunmu;2;0;21.0;6.5;0.0;1.0;1.0;1.0;0.0;0.0;0.5;1.0;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Dallas Mavericks;Alfonzo McKinnie;1;0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Dallas Mavericks;Alize Johnson;1;0;10.0;2.0;4.0;3.0;7.0;1.0;0.0;0.0;1.0;0.0;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Dallas Mavericks;Devon Dotson;1;0;2.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Dallas Mavericks;Troy Brown Jr.;2;0;7.0;1.5;0.5;0.5;1.0;0.0;0.5;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Dallas Mavericks;Tony Bradley;2;0;8.5;1.0;0.0;2.5;2.5;0.5;0.0;1.0;0.0;0.5;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Dallas Mavericks;Matt Thomas;2;0;1.5;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Dallas Mavericks;Total;2;"";"";108.0;8.0;34.5;42.5;24.5;8.5;2.5;9.0;15.0;2.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Houston Rockets;Zach LaVine;1;1;36.0;28.0;0.0;2.0;2.0;4.0;1.0;1.0;3.0;2.0;1.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Houston Rockets;DeMar DeRozan;2;2;34.0;21.5;0.0;4.0;4.0;6.5;0.5;0.0;1.0;1.0;6.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Houston Rockets;Lonzo Ball;2;2;36.0;19.0;0.0;5.0;5.0;6.5;3.5;1.5;2.5;4.0;2.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Houston Rockets;Nikola Vucevic;2;2;28.0;16.0;1.0;8.5;9.5;4.0;0.5;1.5;1.0;4.0;4.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Houston Rockets;Alfonzo McKinnie;1;0;29.0;16.0;2.0;3.0;5.0;1.0;0.0;1.0;0.0;3.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Houston Rockets;Coby White;2;0;23.0;13.5;1.0;2.0;3.0;2.0;0.0;0.0;1.0;1.5;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Houston Rockets;Tyler Cook;1;0;17.0;11.0;1.0;0.0;1.0;0.0;0.0;0.0;2.0;2.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Houston Rockets;Ayo Dosunmu;1;0;17.0;8.0;0.0;0.0;0.0;0.0;2.0;0.0;1.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Houston Rockets;Alex Caruso;2;1;19.5;7.5;1.0;1.5;2.5;2.0;1.5;0.0;0.0;1.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Houston Rockets;Javonte Green;2;2;27.0;6.5;2.0;2.5;4.5;2.5;1.0;0.5;1.0;4.0;2.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Houston Rockets;Devon Dotson;1;0;14.0;5.0;0.0;0.0;0.0;4.0;1.0;0.0;1.0;2.0;4.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Houston Rockets;Tony Bradley;2;0;8.5;4.0;1.0;2.0;3.0;1.0;0.5;0.5;0.5;2.0;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Houston Rockets;Marko Simonovic;1;0;3.0;2.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Houston Rockets;Derrick Jones Jr.;1;0;11.0;0.0;1.0;1.0;2.0;1.0;0.0;1.0;0.0;1.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Houston Rockets;Total;2;"";"";123.0;8.5;28.5;37.0;29.5;9.5;5.5;10.5;22.5;2.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Zach LaVine;1;1;38.0;28.0;0.0;4.0;4.0;6.0;1.0;0.0;3.0;4.0;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Memphis Grizzlies;DeMar DeRozan;2;2;37.0;27.5;0.5;3.0;3.5;4.0;1.0;0.5;2.5;2.0;1.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Coby White;2;1;33.5;15.5;0.0;5.0;5.0;5.0;0.0;0.0;1.0;2.0;5.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Javonte Green;1;1;29.0;12.0;1.0;1.0;2.0;0.0;3.0;0.0;0.0;1.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Malcolm Hill;1;0;30.0;12.0;4.0;4.0;8.0;1.0;0.0;0.0;1.0;5.0;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Nikola Vucevic;2;2;31.0;9.0;1.5;9.5;11.0;1.5;1.0;1.5;1.5;2.0;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Derrick Jones Jr.;1;0;19.0;8.0;2.0;4.0;6.0;0.0;0.0;1.0;0.0;1.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Ayo Dosunmu;2;2;30.5;7.5;0.0;6.0;6.0;4.5;3.0;1.0;3.5;2.5;1.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Troy Brown Jr.;2;0;14.0;7.0;0.5;2.0;2.5;0.0;0.0;0.5;1.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Matt Thomas;2;0;12.0;6.5;0.0;0.5;0.5;1.0;1.0;0.0;1.0;0.0;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Tristan Thompson;1;0;16.0;5.0;1.0;3.0;4.0;0.0;1.0;0.0;1.0;1.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Tony Bradley;1;0;14.0;3.0;0.0;0.0;0.0;2.0;2.0;2.0;1.0;3.0;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Alfonzo McKinnie;1;1;15.0;2.0;2.0;1.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Marko Simonovic;1;0;4.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Total;2;"";"";108.0;7.5;34.5;42.0;20.5;9.5;5.0;13.5;16.0;1.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Zach LaVine;2;2;35.5;35.5;0.5;4.0;4.5;4.0;0.5;1.0;5.5;0.5;0.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. New Orleans Pelicans;DeMar DeRozan;1;1;32.0;26.0;2.0;4.0;6.0;4.0;0.0;0.0;1.0;2.0;4.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Coby White;1;0;29.0;23.0;0.0;3.0;3.0;6.0;1.0;0.0;3.0;6.0;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Lonzo Ball;1;1;35.0;17.0;2.0;8.0;10.0;11.0;3.0;1.0;0.0;2.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Nikola Vucevic;2;2;31.5;13.0;0.5;6.0;6.5;3.5;3.0;2.0;2.5;2.5;1.4
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Alex Caruso;2;1;28.5;10.0;0.5;1.5;2.0;2.5;0.5;0.0;1.5;2.5;1.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Alize Johnson;1;0;14.0;8.0;2.0;6.0;8.0;2.0;0.0;0.0;1.0;1.0;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Javonte Green;2;1;21.5;7.5;1.0;2.5;3.5;1.5;0.5;1.5;0.0;0.5;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Patrick Williams;2;1;21.0;5.0;1.0;2.0;3.0;0.5;0.5;0.0;0.5;3.5;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Troy Brown Jr.;2;0;15.0;4.5;0.0;1.0;1.0;0.5;0.0;0.0;0.5;1.0;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Tristan Thompson;1;0;15.0;4.0;1.0;3.0;4.0;2.0;0.0;0.0;1.0;0.0;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Ayo Dosunmu;2;1;17.5;2.0;0.5;2.0;2.5;3.0;0.0;0.0;0.5;2.0;6.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Derrick Jones Jr.;2;0;4.5;1.0;0.0;0.5;0.5;0.0;0.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Tony Bradley;2;0;1.5;1.0;0.0;0.5;0.5;0.5;0.0;0.5;0.5;1.0;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Matt Thomas;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Total;2;"";"";118.5;7.5;32.0;39.5;28.5;7.0;5.5;14.5;19.0;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. San Antonio Spurs;DeMar DeRozan;2;2;36.0;36.0;0.0;4.5;4.5;7.5;0.0;0.0;2.0;1.0;3.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. San Antonio Spurs;Zach LaVine;1;1;35.0;30.0;0.0;4.0;4.0;4.0;0.0;1.0;2.0;1.0;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. San Antonio Spurs;Nikola Vucevic;2;2;36.5;21.5;1.0;11.0;12.0;4.5;1.0;0.5;3.5;3.0;1.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. San Antonio Spurs;Coby White;2;1;32.0;21.0;0.0;3.5;3.5;3.5;0.0;0.0;0.5;3.0;7.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. San Antonio Spurs;Ayo Dosunmu;2;2;36.5;11.0;0.5;4.0;4.5;3.5;1.5;0.5;0.0;4.5;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. San Antonio Spurs;Javonte Green;2;2;29.0;7.5;2.5;3.0;5.5;1.5;1.0;0.5;0.5;3.0;3.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. San Antonio Spurs;Troy Brown Jr.;2;0;27.0;6.0;0.5;6.0;6.5;0.5;0.5;0.0;0.5;1.5;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. San Antonio Spurs;Derrick Jones Jr.;1;0;22.0;4.0;4.0;3.0;7.0;1.0;0.0;0.0;2.0;1.0;0.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. San Antonio Spurs;Tyler Cook;1;0;9.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;1.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. San Antonio Spurs;Matt Thomas;2;0;8.0;0.0;0.0;0.5;0.5;0.0;0.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. San Antonio Spurs;Tony Bradley;2;0;3.0;0.0;0.5;1.5;2.0;0.0;0.0;0.5;1.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;vs. San Antonio Spurs;Total;2;"";"";121.0;7.0;38.0;45.0;23.5;4.0;2.5;10.5;17.5;2.2
+Chicago Bulls;chi;2021 - 2022 Regular Season;October;Zach LaVine;6;6;34.2;25.5;0.7;4.5;5.2;4.5;0.3;0.5;2.5;1.7;1.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;October;DeMar DeRozan;6;6;34.8;23.7;0.7;4.8;5.5;4.3;0.8;0.5;1.7;1.8;2.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;October;Nikola Vucevic;6;6;34.0;15.8;1.5;9.5;11.0;3.5;1.8;0.8;1.7;2.3;2.1
+Chicago Bulls;chi;2021 - 2022 Regular Season;October;Lonzo Ball;6;6;35.2;12.3;1.0;4.7;5.7;4.5;2.0;1.3;2.7;1.8;1.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;October;Alex Caruso;6;0;28.0;8.2;0.5;1.7;2.2;3.5;2.7;0.5;2.0;2.3;1.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;October;Patrick Williams;5;5;25.0;6.6;0.2;2.0;2.2;0.6;0.6;0.4;0.4;1.8;1.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;October;Javonte Green;6;1;16.8;5.3;0.5;2.2;2.7;0.7;0.3;0.7;0.2;2.2;4.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;October;Troy Brown Jr.;6;0;11.3;3.8;0.3;1.2;1.5;0.3;0.2;0.0;0.2;1.2;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;October;Alize Johnson;5;0;9.8;3.2;0.8;2.0;2.8;0.6;0.2;0.0;0.6;1.4;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;October;Ayo Dosunmu;5;0;11.0;2.6;0.2;1.6;1.8;1.0;0.2;0.4;0.2;0.6;5.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;October;Derrick Jones Jr.;2;0;10.5;2.0;0.5;1.0;1.5;0.0;0.5;1.5;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;October;Tony Bradley;3;0;7.3;2.0;1.3;1.3;2.7;0.0;0.0;1.0;0.3;1.3;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;October;Matt Thomas;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;October;Total;6;"";"";106.7;7.0;34.2;41.2;23.2;9.2;6.0;12.0;17.2;1.9
+Chicago Bulls;chi;2021 - 2022 Regular Season;November;DeMar DeRozan;16;16;35.1;26.8;0.7;4.4;5.1;4.1;1.0;0.3;2.2;2.3;1.9
+Chicago Bulls;chi;2021 - 2022 Regular Season;November;Zach LaVine;16;16;34.9;25.3;0.3;4.9;5.2;3.4;0.6;0.3;2.7;1.4;1.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;November;Nikola Vucevic;9;9;32.3;13.6;1.9;9.4;11.3;4.6;0.6;1.2;1.7;2.4;2.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;November;Lonzo Ball;16;16;34.6;12.6;0.7;4.3;5.0;4.9;1.8;0.5;2.2;2.8;2.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;November;Alex Caruso;15;5;30.1;8.9;1.0;3.4;4.4;4.5;2.0;0.4;1.2;2.9;3.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;November;Derrick Jones Jr.;16;0;17.7;7.1;1.4;2.3;3.7;0.6;0.5;0.7;0.5;2.6;1.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;November;Ayo Dosunmu;16;0;17.3;6.8;0.6;1.6;2.1;0.8;0.4;0.1;0.9;1.5;0.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;November;Coby White;9;1;17.6;6.1;0.1;2.4;2.6;1.3;0.1;0.1;0.9;1.7;1.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;November;Tyler Cook;1;0;12.0;6.0;0.0;2.0;2.0;2.0;0.0;0.0;1.0;1.0;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;November;Javonte Green;16;10;21.5;5.5;1.8;3.1;4.8;0.8;1.1;0.3;0.9;1.9;0.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;November;Tony Bradley;14;7;14.3;4.0;1.5;3.0;4.5;0.5;0.1;0.5;0.8;1.5;0.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;November;Troy Brown Jr.;7;0;8.0;3.1;0.1;1.6;1.7;0.6;0.1;0.0;0.3;0.4;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;November;Matt Thomas;6;0;4.5;1.5;0.0;0.3;0.3;0.0;0.2;0.2;0.0;0.2;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;November;Alize Johnson;8;0;6.1;1.4;1.1;0.9;2.0;0.6;0.3;0.0;0.4;0.6;1.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;November;Devon Dotson;2;0;6.5;1.0;0.0;2.5;2.5;1.5;0.0;0.0;0.5;1.0;3.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;November;Marko Simonovic;1;0;7.0;1.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;November;Total;16;"";"";110.0;9.4;34.8;44.2;23.4;7.9;3.7;13.2;19.6;1.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;December;DeMar DeRozan;8;8;35.9;29.3;0.6;3.6;4.3;5.6;0.9;0.3;1.9;2.5;3.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;December;Zach LaVine;9;9;35.8;27.8;0.3;4.7;5.0;6.1;0.7;0.6;3.1;1.8;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;December;Nikola Vucevic;11;11;33.4;17.5;2.0;9.7;11.7;2.6;0.8;1.3;1.2;2.1;2.2
+Chicago Bulls;chi;2021 - 2022 Regular Season;December;Lonzo Ball;7;7;38.0;15.4;1.6;4.6;6.1;5.6;1.7;1.9;2.9;2.0;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;December;Coby White;6;4;30.5;15.2;0.3;2.5;2.8;3.5;1.0;0.5;1.7;3.0;2.1
+Chicago Bulls;chi;2021 - 2022 Regular Season;December;Alfonzo McKinnie;3;0;25.0;8.0;1.0;1.3;2.3;1.0;0.3;0.7;0.7;2.7;1.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;December;Ayo Dosunmu;8;2;25.6;7.5;0.3;1.6;1.9;2.1;0.4;0.9;1.4;2.1;1.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;December;Alex Caruso;5;4;22.0;7.0;1.4;2.2;3.6;3.0;1.4;0.0;1.8;1.8;1.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;December;Javonte Green;7;7;28.3;6.9;1.9;2.4;4.3;1.7;0.7;0.6;0.1;2.6;12.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;December;Derrick Jones Jr.;7;2;18.1;6.6;0.9;2.0;2.9;0.4;0.4;1.0;0.6;2.1;0.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;December;Matt Thomas;5;0;18.8;6.0;0.2;1.8;2.0;0.8;0.4;0.0;0.0;0.6;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;December;Troy Brown Jr.;9;1;19.0;5.4;0.6;2.9;3.4;2.0;0.9;0.1;0.4;0.9;4.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;December;Tyler Cook;7;0;11.3;4.9;0.7;1.9;2.6;0.1;0.3;0.1;0.4;1.7;0.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;December;Devon Dotson;5;0;10.4;4.2;0.2;0.0;0.2;1.0;0.2;0.0;0.2;1.4;5.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;December;Tony Bradley;6;0;11.5;3.8;1.7;3.3;5.0;1.0;0.7;0.5;0.7;1.0;1.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;December;Mac McClung;1;0;3.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;December;Marko Simonovic;3;0;2.7;1.3;0.7;0.0;0.7;0.0;0.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;December;Alize Johnson;3;0;7.7;0.3;1.0;1.0;2.0;0.0;0.0;0.0;0.7;1.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;December;Total;11;"";"";113.9;9.2;32.3;41.5;24.8;6.9;5.6;11.6;17.9;2.1
+Chicago Bulls;chi;2021 - 2022 Regular Season;January;DeMar DeRozan;15;15;34.3;25.7;1.1;4.1;5.1;5.9;0.5;0.3;2.5;2.0;2.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;January;Zach LaVine;11;11;31.5;21.5;0.1;3.8;3.9;4.0;0.9;0.4;2.7;1.7;1.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;January;Nikola Vucevic;16;16;33.6;18.4;2.2;9.1;11.3;3.8;1.1;1.1;2.2;2.6;1.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;January;Coby White;16;6;31.6;15.9;0.4;2.6;3.0;3.0;0.6;0.3;1.3;2.3;2.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;January;Lonzo Ball;6;6;30.3;12.0;1.2;4.3;5.5;5.5;2.0;0.3;1.8;2.5;3.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;January;Javonte Green;4;4;23.8;10.3;1.3;2.0;3.3;1.3;1.0;0.8;0.0;2.5;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;January;Ayo Dosunmu;16;9;32.3;10.0;0.3;3.7;3.9;4.1;1.0;0.4;1.5;2.9;2.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;January;Alex Caruso;2;0;23.0;8.0;0.0;5.5;5.5;3.0;0.5;1.0;0.5;1.0;6.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;January;Matt Thomas;14;0;13.9;5.8;0.1;1.2;1.4;0.8;0.2;0.0;0.4;0.6;1.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;January;Derrick Jones Jr.;6;6;17.0;5.5;1.2;2.5;3.7;0.5;0.5;0.3;0.7;2.5;0.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;January;Troy Brown Jr.;16;2;21.8;5.0;1.1;3.2;4.3;1.4;0.8;0.2;0.8;1.5;1.9
+Chicago Bulls;chi;2021 - 2022 Regular Season;January;Tony Bradley;12;0;10.4;3.5;1.0;2.3;3.3;0.5;0.3;0.9;0.6;1.2;0.9
+Chicago Bulls;chi;2021 - 2022 Regular Season;January;Malcolm Hill;7;0;11.1;3.3;0.7;0.7;1.4;0.4;0.1;0.0;0.1;1.4;3.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;January;Alfonzo McKinnie;12;3;10.5;2.8;0.8;1.2;2.0;0.2;0.1;0.1;0.4;1.4;0.4
+Chicago Bulls;chi;2021 - 2022 Regular Season;January;Tyler Cook;6;2;14.2;2.7;1.5;2.7;4.2;0.0;0.3;0.3;0.5;1.8;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;January;Marko Simonovic;5;0;4.0;2.4;0.6;0.8;1.4;0.0;0.2;0.2;0.2;1.2;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;January;Devon Dotson;4;0;5.0;1.5;0.0;0.8;0.8;1.8;0.0;0.0;0.8;0.5;2.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;January;Jordan Bell;1;0;2.0;0.0;1.0;0.0;1.0;0.0;1.0;0.0;0.0;2.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;January;Total;16;"";"";111.6;8.8;34.2;42.9;25.3;6.6;4.1;12.6;19.4;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;February;DeMar DeRozan;13;13;38.5;34.2;0.9;5.3;6.2;5.2;1.3;0.3;2.8;2.2;1.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;February;Zach LaVine;8;8;37.4;22.8;0.3;4.6;4.9;5.3;0.4;0.3;2.5;2.6;2.1
+Chicago Bulls;chi;2021 - 2022 Regular Season;February;Nikola Vucevic;13;13;35.1;21.4;2.0;10.4;12.4;3.3;0.8;1.2;2.5;2.8;1.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;February;Coby White;11;4;31.0;16.3;0.4;3.4;3.7;3.8;0.4;0.1;0.9;2.6;4.2
+Chicago Bulls;chi;2021 - 2022 Regular Season;February;Javonte Green;12;12;29.7;11.0;1.8;3.0;4.8;1.2;1.2;0.8;0.6;1.9;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;February;Ayo Dosunmu;12;12;36.7;10.8;0.3;3.3;3.5;6.5;1.3;0.6;1.9;3.5;3.4
+Chicago Bulls;chi;2021 - 2022 Regular Season;February;Tristan Thompson;3;0;15.3;6.0;1.3;2.3;3.7;0.3;0.7;0.0;0.7;1.7;0.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;February;Malcolm Hill;7;0;10.4;4.3;0.6;1.7;2.3;0.1;0.1;0.3;0.1;0.7;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;February;Troy Brown Jr.;13;3;20.2;4.2;0.8;3.4;4.2;0.6;0.6;0.0;0.2;1.0;2.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;February;Derrick Jones Jr.;6;0;20.2;4.0;1.7;2.5;4.2;0.7;0.2;0.5;0.5;2.5;1.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;February;Matt Thomas;11;0;12.3;3.0;0.0;1.6;1.6;0.5;0.2;0.2;0.2;0.5;2.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;February;Tyler Cook;5;0;4.0;1.6;0.4;1.0;1.4;0.0;0.0;0.2;0.0;0.4;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;February;Tony Bradley;11;0;8.3;1.4;1.1;1.5;2.6;0.4;0.1;0.7;0.5;0.9;0.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;February;Alfonzo McKinnie;2;0;2.5;0.5;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.5;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;February;Total;13;"";"";117.5;8.5;36.4;44.8;23.8;6.0;4.3;11.3;18.1;2.1
+Chicago Bulls;chi;2021 - 2022 Regular Season;March;DeMar DeRozan;14;14;38.1;27.6;0.4;5.1;5.6;4.9;0.8;0.4;2.5;3.0;1.9
+Chicago Bulls;chi;2021 - 2022 Regular Season;March;Zach LaVine;14;14;36.1;24.7;0.4;3.6;4.0;4.8;0.7;0.3;2.2;1.7;2.2
+Chicago Bulls;chi;2021 - 2022 Regular Season;March;Nikola Vucevic;14;14;32.6;19.1;2.0;7.9;9.9;2.1;1.1;0.4;1.6;2.6;1.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;March;Coby White;15;1;24.9;9.9;0.2;2.7;2.9;2.9;0.4;0.1;1.0;1.9;2.9
+Chicago Bulls;chi;2021 - 2022 Regular Season;March;Ayo Dosunmu;15;13;31.2;9.3;0.4;1.9;2.3;4.1;0.7;0.3;1.3;2.7;3.1
+Chicago Bulls;chi;2021 - 2022 Regular Season;March;Alex Caruso;11;7;29.8;6.4;0.5;2.6;3.1;4.0;1.5;0.4;1.5;2.9;2.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;March;Javonte Green;15;10;20.9;6.1;1.1;3.0;4.1;0.7;1.2;0.3;0.3;1.9;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;March;Tristan Thompson;15;2;16.7;5.3;1.7;3.2;4.9;0.8;0.6;0.3;0.5;1.7;1.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;March;Patrick Williams;7;0;20.4;5.0;1.4;3.3;4.7;0.4;0.7;0.4;0.6;1.1;0.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;March;Derrick Jones Jr.;9;0;16.7;3.6;0.8;2.1;2.9;0.6;0.7;0.4;0.7;1.3;0.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;March;Troy Brown Jr.;10;0;7.9;2.9;0.2;0.8;1.0;0.1;0.1;0.1;0.1;0.6;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;March;Matt Thomas;3;0;2.7;2.7;0.0;0.3;0.3;0.0;0.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;March;Tony Bradley;5;0;3.4;0.6;0.2;0.6;0.8;0.6;0.0;0.0;0.2;0.6;3.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;March;Total;15;"";"";109.1;7.7;31.7;39.4;23.3;7.2;2.9;11.0;19.0;2.1
+Chicago Bulls;chi;2021 - 2022 Regular Season;April;DeMar DeRozan;4;4;34.5;24.8;0.5;1.3;1.8;3.5;1.0;0.0;2.8;2.5;1.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;April;Zach LaVine;3;3;30.7;21.0;0.7;3.0;3.7;4.3;0.3;0.3;1.3;2.3;3.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;April;Patrick Williams;5;4;31.0;17.0;1.2;3.8;5.0;1.8;0.2;0.8;2.0;2.2;0.9
+Chicago Bulls;chi;2021 - 2022 Regular Season;April;Ayo Dosunmu;5;4;30.2;13.8;0.4;3.0;3.4;3.4;1.4;0.0;2.8;2.0;1.2
+Chicago Bulls;chi;2021 - 2022 Regular Season;April;Coby White;4;1;28.5;11.0;0.3;2.3;2.5;2.3;0.8;0.0;1.5;2.8;1.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;April;Nikola Vucevic;4;4;26.3;9.5;1.3;5.8;7.0;3.0;0.5;0.3;1.8;2.0;1.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;April;Javonte Green;5;1;22.2;7.2;1.0;3.4;4.4;0.6;1.4;0.4;0.2;1.6;3.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;April;Derrick Jones Jr.;5;0;18.8;6.8;1.2;1.6;2.8;1.0;0.6;0.6;1.0;1.4;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;April;Tristan Thompson;5;1;16.0;6.6;2.4;2.6;5.0;0.2;0.2;0.4;0.4;1.8;0.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;April;Troy Brown Jr.;5;1;14.2;5.2;0.4;3.4;3.8;2.0;1.0;0.0;0.6;0.2;3.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;April;Tony Bradley;4;0;6.5;4.5;1.8;1.3;3.0;0.3;0.0;0.3;1.0;1.0;0.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;April;Tyler Cook;1;0;4.0;3.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;2.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;April;Malcolm Hill;2;0;7.5;1.0;0.0;1.5;1.5;1.5;0.5;0.0;0.5;1.0;3.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;April;Alex Caruso;2;2;22.0;0.0;1.5;1.5;3.0;6.0;0.5;0.0;0.5;3.0;12.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;April;Total;5;"";"";110.0;10.6;29.4;40.0;21.8;7.2;2.8;13.8;19.2;1.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;Atlantic Division;DeMar DeRozan;18;18;36.9;28.5;0.8;5.2;6.0;4.6;0.9;0.4;2.4;2.4;1.9
+Chicago Bulls;chi;2021 - 2022 Regular Season;Atlantic Division;Zach LaVine;16;16;35.9;23.7;0.4;5.2;5.6;4.9;0.7;0.5;2.4;1.9;2.1
+Chicago Bulls;chi;2021 - 2022 Regular Season;Atlantic Division;Nikola Vucevic;16;16;34.1;17.1;2.1;7.7;9.8;4.1;0.8;0.7;1.7;2.5;2.4
+Chicago Bulls;chi;2021 - 2022 Regular Season;Atlantic Division;Coby White;9;1;25.2;12.3;0.1;2.4;2.6;2.0;0.4;0.3;0.8;2.4;2.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;Atlantic Division;Lonzo Ball;10;10;34.6;10.1;1.1;4.6;5.7;5.1;1.1;1.0;2.4;2.7;2.1
+Chicago Bulls;chi;2021 - 2022 Regular Season;Atlantic Division;Ayo Dosunmu;17;7;25.4;8.4;0.5;1.8;2.4;3.0;0.4;0.3;1.1;2.3;2.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;Atlantic Division;Tristan Thompson;4;1;19.5;7.3;1.5;4.8;6.3;0.5;0.0;0.5;0.8;2.0;0.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;Atlantic Division;Derrick Jones Jr.;10;1;18.5;7.1;1.3;2.0;3.3;0.2;0.7;1.5;0.6;2.0;0.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;Atlantic Division;Javonte Green;15;10;23.7;7.0;1.9;3.2;5.1;0.7;1.1;0.5;0.5;1.8;1.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;Atlantic Division;Alex Caruso;11;4;27.5;6.9;0.6;2.5;3.1;4.0;1.9;0.2;1.5;3.3;2.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;Atlantic Division;Troy Brown Jr.;13;1;12.4;5.0;0.7;2.1;2.8;0.8;0.2;0.0;0.4;0.9;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Atlantic Division;Patrick Williams;5;3;20.0;4.4;0.6;1.6;2.2;0.4;0.8;0.6;0.8;1.8;0.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;Atlantic Division;Marko Simonovic;1;0;3.0;4.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Atlantic Division;Malcolm Hill;3;0;14.0;3.3;0.3;1.0;1.3;0.3;0.0;0.3;0.0;1.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;Atlantic Division;Alfonzo McKinnie;3;1;16.7;3.0;1.7;1.3;3.0;0.3;0.0;0.0;1.0;3.3;0.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;Atlantic Division;Matt Thomas;7;0;11.6;3.0;0.1;1.7;1.9;0.3;0.0;0.1;0.1;0.3;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Atlantic Division;Tony Bradley;14;1;10.4;2.6;1.6;1.9;3.5;0.2;0.0;0.6;0.4;1.0;0.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;Atlantic Division;Tyler Cook;2;0;8.0;2.5;1.5;0.0;1.5;0.0;0.0;0.0;0.0;0.5;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Atlantic Division;Alize Johnson;5;0;5.6;1.6;0.4;0.4;0.8;0.2;0.0;0.0;0.2;0.8;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Atlantic Division;Devon Dotson;1;0;4.0;0.0;0.0;1.0;1.0;3.0;0.0;0.0;0.0;0.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;Atlantic Division;Total;18;"";"";110.1;9.8;33.1;42.9;23.7;6.3;4.7;0.0;19.4;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;Central Division;DeMar DeRozan;15;15;35.8;26.3;0.8;4.0;4.8;4.5;1.1;0.5;2.9;2.3;1.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;Central Division;Zach LaVine;11;11;34.3;22.5;0.3;4.5;4.8;4.9;0.7;0.4;2.5;1.6;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Central Division;Nikola Vucevic;15;15;32.9;18.9;1.9;9.8;11.7;2.7;0.9;1.0;2.1;2.9;1.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;Central Division;Lonzo Ball;5;5;32.6;12.4;1.0;4.0;5.0;3.8;1.8;1.4;2.6;1.4;1.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;Central Division;Coby White;12;6;29.2;9.2;0.3;2.9;3.3;2.8;1.0;0.2;1.4;1.9;1.9
+Chicago Bulls;chi;2021 - 2022 Regular Season;Central Division;Ayo Dosunmu;16;9;28.8;8.7;0.0;2.3;2.3;3.8;0.9;0.5;1.3;2.2;2.9
+Chicago Bulls;chi;2021 - 2022 Regular Season;Central Division;Patrick Williams;5;3;24.4;8.6;1.0;2.8;3.8;0.6;0.2;0.0;0.8;1.0;0.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;Central Division;Matt Thomas;7;0;18.3;8.1;0.0;2.0;2.0;0.7;0.1;0.0;0.1;0.7;5.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Central Division;Javonte Green;12;6;22.0;7.3;0.7;3.0;3.7;0.8;1.3;0.6;0.3;2.3;2.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;Central Division;Alex Caruso;8;3;27.4;6.9;0.5;3.4;3.9;4.8;2.1;0.8;1.0;2.4;4.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;Central Division;Derrick Jones Jr.;8;2;18.6;6.4;0.5;2.0;2.5;0.4;0.5;0.1;0.4;2.0;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Central Division;Alfonzo McKinnie;2;1;8.5;6.0;0.5;0.5;1.0;0.0;0.5;0.0;0.5;0.5;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Central Division;Tristan Thompson;6;1;16.3;4.7;1.8;2.8;4.7;0.5;0.5;0.2;0.3;2.3;1.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;Central Division;Troy Brown Jr.;15;1;15.8;3.5;0.5;2.1;2.6;0.9;0.7;0.1;0.3;1.0;2.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;Central Division;Devon Dotson;3;0;10.7;3.3;0.3;1.3;1.7;0.7;0.0;0.0;0.7;0.7;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Central Division;Tyler Cook;4;1;14.3;3.3;0.5;3.8;4.3;0.0;0.8;0.5;0.5;2.8;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Central Division;Tony Bradley;6;1;10.8;3.2;2.0;3.5;5.5;0.3;0.0;0.2;0.5;1.3;0.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;Central Division;Malcolm Hill;3;0;7.7;1.7;0.7;0.7;1.3;0.0;0.0;0.0;0.0;1.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Central Division;Marko Simonovic;2;0;6.5;0.5;0.5;1.5;2.0;0.0;0.0;0.5;0.5;2.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Central Division;Alize Johnson;4;0;8.8;0.3;0.8;1.0;1.8;0.0;0.5;0.0;0.8;1.3;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Central Division;Total;16;"";"";104.5;7.1;34.6;41.8;22.1;8.2;4.0;0.0;18.6;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pacific Division;DeMar DeRozan;10;10;36.5;31.2;0.7;3.5;4.2;5.3;0.8;0.1;2.4;2.7;2.2
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pacific Division;Zach LaVine;8;8;31.8;21.3;0.5;3.9;4.4;4.4;0.3;0.1;2.8;1.4;1.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pacific Division;Nikola Vucevic;7;7;33.6;19.0;3.1;8.3;11.4;2.0;1.0;0.6;1.3;1.6;1.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pacific Division;Lonzo Ball;5;5;34.0;15.2;1.0;3.2;4.2;4.2;2.0;0.4;2.8;2.4;1.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pacific Division;Coby White;8;1;25.1;13.4;0.1;1.4;1.5;1.9;0.4;0.0;0.8;1.9;2.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pacific Division;Patrick Williams;1;0;37.0;10.0;3.0;9.0;12.0;0.0;1.0;2.0;0.0;2.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pacific Division;Malcolm Hill;1;0;2.0;8.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pacific Division;Marko Simonovic;1;0;7.0;8.0;2.0;2.0;4.0;0.0;1.0;0.0;0.0;1.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pacific Division;Alex Caruso;7;4;31.7;7.0;1.0;3.9;4.9;4.1;1.1;0.3;1.6;3.0;2.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pacific Division;Javonte Green;9;6;21.1;6.1;2.0;2.7;4.7;0.8;0.8;0.4;0.2;2.0;3.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pacific Division;Ayo Dosunmu;9;5;27.1;5.2;0.3;2.0;2.3;1.8;0.6;0.2;1.6;2.4;1.1
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pacific Division;Tristan Thompson;3;0;14.3;5.0;2.3;3.0;5.3;0.7;1.0;0.7;0.7;2.0;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pacific Division;Derrick Jones Jr.;7;0;16.3;4.7;1.1;2.4;3.6;1.0;0.7;0.4;1.0;1.7;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pacific Division;Alize Johnson;2;0;12.0;4.5;1.5;2.0;3.5;1.0;0.5;0.0;0.5;0.0;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pacific Division;Matt Thomas;6;0;8.7;4.0;0.0;1.0;1.0;1.0;0.5;0.2;0.3;0.3;3.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pacific Division;Alfonzo McKinnie;3;0;12.7;3.3;0.7;1.3;2.0;0.3;0.3;0.3;0.3;1.7;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pacific Division;Tony Bradley;8;3;14.5;3.3;1.1;2.8;3.9;0.8;0.6;0.4;0.9;1.0;0.9
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pacific Division;Tyler Cook;3;0;5.3;2.7;0.0;0.7;0.7;0.7;0.0;0.0;0.3;0.7;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pacific Division;Devon Dotson;1;0;8.0;2.0;0.0;0.0;0.0;2.0;0.0;0.0;0.0;2.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pacific Division;Troy Brown Jr.;7;1;12.7;1.7;0.3;1.7;2.0;0.7;0.4;0.0;0.6;0.7;1.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pacific Division;Total;10;"";"";111.4;10.3;30.9;41.2;22.3;7.3;2.8;0.0;18.2;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southeast Division;DeMar DeRozan;17;17;35.6;27.3;0.9;4.5;5.4;4.5;0.9;0.2;2.5;2.6;1.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southeast Division;Zach LaVine;17;17;34.8;25.1;0.2;4.0;4.2;4.0;0.4;0.1;2.5;1.9;1.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southeast Division;Nikola Vucevic;18;18;32.4;16.4;1.8;10.0;11.8;3.6;0.9;1.2;2.0;2.4;1.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southeast Division;Coby White;17;6;29.1;13.5;0.2;2.6;2.9;3.4;0.4;0.3;1.3;2.5;2.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southeast Division;Lonzo Ball;6;6;34.5;12.7;0.7;4.8;5.5;6.0;2.2;0.3;2.8;2.3;2.1
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southeast Division;Patrick Williams;3;1;27.0;11.0;1.3;4.3;5.7;1.7;0.7;1.0;0.7;1.0;2.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southeast Division;Ayo Dosunmu;16;7;26.1;9.8;0.3;2.1;2.4;2.8;0.7;0.6;1.4;2.6;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southeast Division;Alex Caruso;6;3;27.0;8.0;1.0;2.0;3.0;4.8;1.7;0.2;1.5;1.3;3.2
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southeast Division;Javonte Green;13;10;23.0;6.6;0.9;2.8;3.8;0.8;0.9;0.5;0.5;1.9;1.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southeast Division;Tristan Thompson;6;0;15.8;5.7;1.8;1.8;3.7;0.7;0.5;0.3;0.5;1.2;1.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southeast Division;Troy Brown Jr.;15;1;19.0;5.2;0.6;2.6;3.2;1.9;1.0;0.1;0.2;0.9;9.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southeast Division;Derrick Jones Jr.;12;3;15.4;4.0;0.7;1.8;2.5;0.6;0.2;0.4;0.4;2.2;1.4
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southeast Division;Matt Thomas;8;0;11.5;3.9;0.1;0.6;0.8;0.3;0.1;0.0;0.1;0.5;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southeast Division;Tyler Cook;6;1;11.5;3.3;1.3;2.3;3.7;0.2;0.2;0.3;0.2;1.2;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southeast Division;Tony Bradley;8;0;6.5;3.0;0.8;1.6;2.4;0.6;0.0;0.6;0.8;1.1;0.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southeast Division;Malcolm Hill;3;0;6.3;2.7;0.0;0.7;0.7;0.3;0.3;0.3;0.3;0.3;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southeast Division;Devon Dotson;3;0;8.0;2.7;0.0;0.7;0.7;1.3;0.0;0.0;0.3;1.7;4.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southeast Division;Mac McClung;1;0;3.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southeast Division;Alfonzo McKinnie;4;0;10.5;1.5;0.3;0.5;0.8;0.5;0.0;0.3;0.3;0.8;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southeast Division;Marko Simonovic;2;0;3.0;1.0;0.5;0.0;0.5;0.0;0.0;0.0;0.5;0.5;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southeast Division;Jordan Bell;1;0;2.0;0.0;1.0;0.0;1.0;0.0;1.0;0.0;0.0;2.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southeast Division;Alize Johnson;2;0;3.5;0.0;0.5;0.5;1.0;1.0;0.0;0.0;0.0;2.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southeast Division;Total;18;"";"";115.3;7.5;33.6;41.1;24.9;6.4;3.9;0.0;18.8;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southwest Division;Zach LaVine;7;7;35.3;28.6;0.1;3.3;3.4;3.9;0.9;0.6;3.4;2.0;1.1
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southwest Division;DeMar DeRozan;9;9;35.1;25.9;0.3;4.2;4.6;6.0;0.3;0.3;1.8;1.8;3.4
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southwest Division;Lonzo Ball;5;5;35.6;17.0;0.6;5.8;6.4;7.0;2.8;0.8;1.2;3.2;5.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southwest Division;Coby White;8;2;29.1;17.0;0.3;3.5;3.8;3.6;0.1;0.0;1.0;2.4;3.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southwest Division;Nikola Vucevic;10;10;32.0;15.0;1.2;8.2;9.4;3.3;1.3;1.2;1.9;2.3;1.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southwest Division;Malcolm Hill;1;0;30.0;12.0;4.0;4.0;8.0;1.0;0.0;0.0;1.0;5.0;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southwest Division;Alex Caruso;5;2;23.6;10.2;0.6;1.6;2.2;2.0;2.0;0.0;1.0;1.8;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southwest Division;Javonte Green;8;7;25.4;7.8;1.6;2.4;4.0;1.6;1.0;0.6;0.5;2.3;3.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southwest Division;Ayo Dosunmu;9;5;25.3;6.9;0.2;2.9;3.1;2.7;1.2;0.3;1.1;2.2;2.4
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southwest Division;Alfonzo McKinnie;3;1;15.7;6.7;1.3;1.3;2.7;0.3;0.0;0.3;0.0;1.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southwest Division;Tyler Cook;2;0;13.0;6.5;0.5;0.5;1.0;0.0;0.0;0.0;1.5;1.5;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southwest Division;Alize Johnson;2;0;12.5;5.0;3.0;4.5;7.5;1.5;0.0;0.0;1.0;0.5;1.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southwest Division;Patrick Williams;2;1;21.0;5.0;1.0;2.0;3.0;0.5;0.5;0.0;0.5;3.5;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southwest Division;Troy Brown Jr.;8;0;15.8;4.8;0.4;2.4;2.8;0.3;0.3;0.1;0.5;0.6;0.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southwest Division;Tristan Thompson;2;0;16.0;4.5;1.0;3.0;4.0;1.0;0.5;0.0;1.0;0.5;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southwest Division;Derrick Jones Jr.;7;1;15.0;4.1;1.7;2.7;4.4;0.6;0.1;0.3;0.3;1.1;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southwest Division;Devon Dotson;2;0;8.5;3.5;0.0;0.5;0.5;2.0;0.5;0.0;1.0;1.0;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southwest Division;Matt Thomas;7;0;6.4;1.9;0.0;0.3;0.3;0.6;0.3;0.0;0.3;0.0;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southwest Division;Tony Bradley;9;0;6.4;1.7;0.3;1.4;1.8;0.7;0.3;0.8;0.6;1.1;1.2
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southwest Division;Marko Simonovic;2;0;3.0;1.0;0.5;0.0;0.5;0.0;0.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Southwest Division;Total;10;"";"";115.7;7.7;33.5;41.2;25.3;7.7;4.2;0.0;18.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;Northwest Division;Patrick Williams;1;1;41.0;35.0;0.0;4.0;4.0;4.0;0.0;1.0;5.0;2.0;0.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;Northwest Division;DeMar DeRozan;7;7;36.4;28.7;0.4;4.9;5.3;5.7;1.0;0.3;1.9;1.6;3.1
+Chicago Bulls;chi;2021 - 2022 Regular Season;Northwest Division;Zach LaVine;8;8;35.6;26.5;0.4;3.9;4.3;5.1;1.0;0.6;2.1;1.8;2.4
+Chicago Bulls;chi;2021 - 2022 Regular Season;Northwest Division;Nikola Vucevic;7;7;34.3;21.9;1.9;10.3;12.1;2.7;1.0;1.0;2.0;2.9;1.4
+Chicago Bulls;chi;2021 - 2022 Regular Season;Northwest Division;Lonzo Ball;4;4;37.0;13.8;1.8;3.8;5.5;4.0;1.8;1.5;2.0;2.3;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Northwest Division;Ayo Dosunmu;10;7;33.0;13.1;0.8;4.2;5.0;5.9;1.2;0.1;2.3;2.4;2.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;Northwest Division;Coby White;7;1;24.1;11.3;0.7;3.4;4.1;3.3;0.4;0.1;1.4;2.3;2.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;Northwest Division;Javonte Green;8;6;25.8;9.1;1.4;2.6;4.0;1.1;1.0;0.4;0.8;2.0;1.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;Northwest Division;Derrick Jones Jr.;7;1;23.0;7.7;2.1;2.1;4.3;1.0;0.9;1.0;1.0;3.3;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Northwest Division;Tristan Thompson;2;1;15.5;7.5;2.0;3.0;5.0;0.5;1.0;0.0;0.0;1.5;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;Northwest Division;Alex Caruso;4;2;30.5;6.3;1.5;3.5;5.0;3.8;1.3;1.0;2.0;3.3;1.9
+Chicago Bulls;chi;2021 - 2022 Regular Season;Northwest Division;Troy Brown Jr.;8;3;19.6;4.8;1.1;4.4;5.5;1.0;0.5;0.1;0.6;1.4;1.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;Northwest Division;Tony Bradley;10;2;11.2;4.2;1.5;2.3;3.8;0.5;0.2;0.8;0.8;1.3;0.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;Northwest Division;Matt Thomas;5;0;12.0;3.0;0.2;1.6;1.8;0.2;0.2;0.2;0.2;1.0;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Northwest Division;Tyler Cook;3;0;5.0;2.7;0.7;1.7;2.3;0.0;0.0;0.0;0.0;1.3;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Northwest Division;Malcolm Hill;5;0;10.2;2.4;0.4;1.4;1.8;0.8;0.4;0.0;0.2;1.0;4.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Northwest Division;Devon Dotson;1;0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Northwest Division;Alfonzo McKinnie;2;0;6.0;1.0;0.0;2.5;2.5;0.0;0.0;0.0;0.5;2.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Northwest Division;Alize Johnson;1;0;2.0;0.0;1.0;0.0;1.0;0.0;0.0;0.0;1.0;1.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Northwest Division;Marko Simonovic;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Northwest Division;Total;10;"";"";115.2;10.5;36.1;46.6;25.2;7.4;4.7;0.0;19.4;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;Eastern Conference;DeMar DeRozan;50;50;36.1;27.4;0.9;4.6;5.4;4.5;1.0;0.4;2.6;2.5;1.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;Eastern Conference;Zach LaVine;44;44;35.1;23.9;0.3;4.6;4.9;4.5;0.6;0.3;2.5;1.8;1.9
+Chicago Bulls;chi;2021 - 2022 Regular Season;Eastern Conference;Nikola Vucevic;49;49;33.1;17.4;1.9;9.2;11.1;3.5;0.9;1.0;1.9;2.6;1.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;Eastern Conference;Coby White;38;13;28.2;11.8;0.2;2.7;2.9;2.9;0.6;0.3;1.2;2.3;2.4
+Chicago Bulls;chi;2021 - 2022 Regular Season;Eastern Conference;Lonzo Ball;21;21;34.1;11.4;1.0;4.5;5.5;5.0;1.6;0.9;2.6;2.3;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Eastern Conference;Ayo Dosunmu;49;23;26.7;9.0;0.3;2.1;2.3;3.2;0.7;0.5;1.2;2.4;2.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;Eastern Conference;Patrick Williams;13;7;23.3;7.5;0.9;2.7;3.6;0.8;0.5;0.5;0.8;1.3;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Eastern Conference;Alex Caruso;25;10;27.4;7.2;0.7;2.6;3.3;4.4;1.9;0.4;1.3;2.5;3.4
+Chicago Bulls;chi;2021 - 2022 Regular Season;Eastern Conference;Javonte Green;40;26;23.0;7.0;1.2;3.0;4.3;0.8;1.1;0.5;0.5;2.0;1.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;Eastern Conference;Tristan Thompson;16;2;16.9;5.7;1.8;2.9;4.7;0.6;0.4;0.3;0.5;1.8;1.1
+Chicago Bulls;chi;2021 - 2022 Regular Season;Eastern Conference;Derrick Jones Jr.;30;6;17.3;5.7;0.8;1.9;2.8;0.4;0.4;0.7;0.5;2.1;0.9
+Chicago Bulls;chi;2021 - 2022 Regular Season;Eastern Conference;Matt Thomas;22;0;13.7;5.0;0.1;1.4;1.5;0.4;0.1;0.0;0.1;0.5;3.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Eastern Conference;Troy Brown Jr.;43;3;15.9;4.5;0.6;2.3;2.9;1.2;0.6;0.1;0.3;1.0;3.9
+Chicago Bulls;chi;2021 - 2022 Regular Season;Eastern Conference;Tyler Cook;12;2;11.9;3.2;1.1;2.4;3.5;0.1;0.3;0.3;0.3;1.6;0.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;Eastern Conference;Alfonzo McKinnie;9;2;12.1;3.0;0.8;0.8;1.6;0.3;0.1;0.1;0.6;1.6;0.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;Eastern Conference;Tony Bradley;28;2;9.4;2.9;1.4;2.2;3.6;0.4;0.0;0.5;0.5;1.1;0.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;Eastern Conference;Devon Dotson;7;0;8.6;2.6;0.1;1.0;1.1;1.3;0.0;0.0;0.4;1.0;3.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Eastern Conference;Malcolm Hill;9;0;9.3;2.6;0.3;0.8;1.1;0.2;0.1;0.2;0.1;0.8;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Eastern Conference;Mac McClung;1;0;3.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Eastern Conference;Marko Simonovic;5;0;4.2;1.4;0.4;0.6;1.0;0.0;0.0;0.2;0.4;1.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Eastern Conference;Alize Johnson;11;0;6.4;0.8;0.5;0.6;1.2;0.3;0.2;0.0;0.4;1.2;0.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;Eastern Conference;Jordan Bell;1;0;2.0;0.0;1.0;0.0;1.0;0.0;1.0;0.0;0.0;2.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Eastern Conference;Total;52;"";"";110.2;8.2;33.8;41.9;23.7;6.9;4.2;0.0;18.9;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;Western Conference;DeMar DeRozan;26;26;36.0;28.7;0.5;4.1;4.6;5.7;0.7;0.2;2.0;2.1;2.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;Western Conference;Zach LaVine;23;23;34.1;25.3;0.3;3.7;4.0;4.5;0.7;0.4;2.7;1.7;1.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;Western Conference;Nikola Vucevic;24;24;33.2;18.2;2.0;8.8;10.8;2.8;1.1;1.0;1.8;2.3;1.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;Western Conference;Lonzo Ball;14;14;35.4;15.4;1.1;4.3;5.4;5.1;2.2;0.9;2.0;2.6;2.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;Western Conference;Coby White;23;4;26.2;14.0;0.3;2.7;3.1;2.9;0.3;0.0;1.0;2.2;2.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;Western Conference;Patrick Williams;4;2;30.0;13.8;1.3;4.3;5.5;1.3;0.5;0.8;1.5;2.8;0.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;Western Conference;Ayo Dosunmu;28;17;28.6;8.6;0.5;3.1;3.5;3.5;1.0;0.2;1.7;2.4;2.1
+Chicago Bulls;chi;2021 - 2022 Regular Season;Western Conference;Alex Caruso;16;8;28.9;7.8;1.0;3.1;4.1;3.4;1.4;0.4;1.5;2.7;2.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;Western Conference;Javonte Green;25;19;24.0;7.6;1.7;2.6;4.2;1.2;0.9;0.5;0.5;2.1;2.4
+Chicago Bulls;chi;2021 - 2022 Regular Season;Western Conference;Tristan Thompson;7;1;15.0;5.6;1.9;3.0;4.9;0.7;0.9;0.3;0.6;1.4;1.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;Western Conference;Derrick Jones Jr.;21;2;18.1;5.5;1.7;2.4;4.1;0.9;0.6;0.6;0.8;2.0;1.1
+Chicago Bulls;chi;2021 - 2022 Regular Season;Western Conference;Malcolm Hill;7;0;11.7;4.6;0.9;1.9;2.7;0.7;0.3;0.0;0.3;1.4;2.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;Western Conference;Alfonzo McKinnie;8;1;12.1;4.0;0.8;1.6;2.4;0.3;0.1;0.3;0.3;1.5;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Western Conference;Troy Brown Jr.;23;4;16.2;3.8;0.6;2.9;3.5;0.7;0.4;0.1;0.6;0.9;1.2
+Chicago Bulls;chi;2021 - 2022 Regular Season;Western Conference;Alize Johnson;5;0;10.2;3.8;2.0;2.6;4.6;1.0;0.2;0.0;0.8;0.4;1.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;Western Conference;Tyler Cook;8;0;7.1;3.6;0.4;1.0;1.4;0.3;0.0;0.0;0.5;1.1;0.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;Western Conference;Tony Bradley;27;5;10.6;3.1;1.0;2.1;3.1;0.6;0.4;0.7;0.7;1.1;0.9
+Chicago Bulls;chi;2021 - 2022 Regular Season;Western Conference;Matt Thomas;18;0;8.8;2.9;0.1;0.9;0.9;0.6;0.3;0.1;0.3;0.4;2.2
+Chicago Bulls;chi;2021 - 2022 Regular Season;Western Conference;Devon Dotson;4;0;6.3;2.8;0.0;0.3;0.3;1.5;0.3;0.0;0.5;1.0;3.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Western Conference;Marko Simonovic;4;0;3.5;2.5;0.8;0.5;1.3;0.0;0.3;0.0;0.0;0.3;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Western Conference;Total;30;"";"";114.1;9.5;33.5;43.0;24.3;7.5;3.9;0.0;18.5;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pre All-Star;DeMar DeRozan;55;55;35.6;28.1;0.8;4.4;5.2;5.1;0.9;0.3;2.3;2.2;2.2
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pre All-Star;Zach LaVine;47;47;34.6;24.6;0.3;4.6;4.9;4.5;0.6;0.4;2.7;1.7;1.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pre All-Star;Nikola Vucevic;52;52;33.9;18.2;2.0;9.7;11.7;3.6;1.0;1.2;1.9;2.5;1.9
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pre All-Star;Coby White;39;15;28.2;14.0;0.3;2.8;3.1;2.8;0.5;0.3;1.3;2.3;2.2
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pre All-Star;Lonzo Ball;35;35;34.6;13.0;1.0;4.4;5.4;5.1;1.8;0.9;2.3;2.4;2.2
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pre All-Star;Alex Caruso;28;9;27.7;8.4;0.9;3.0;3.9;3.9;1.9;0.4;1.4;2.4;2.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pre All-Star;Ayo Dosunmu;54;20;25.9;8.1;0.3;2.5;2.8;3.1;0.7;0.4;1.2;2.2;2.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pre All-Star;Javonte Green;42;31;24.2;7.6;1.6;2.8;4.4;1.1;0.9;0.5;0.6;2.1;1.9
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pre All-Star;Patrick Williams;5;5;25.0;6.6;0.2;2.0;2.2;0.6;0.6;0.4;0.4;1.8;1.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pre All-Star;Derrick Jones Jr.;34;8;17.5;6.1;1.3;2.1;3.4;0.6;0.5;0.7;0.5;2.4;1.1
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pre All-Star;Troy Brown Jr.;48;6;18.1;4.6;0.7;2.8;3.5;1.1;0.6;0.1;0.5;1.1;2.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pre All-Star;Matt Thomas;35;0;12.8;4.3;0.1;1.3;1.4;0.6;0.2;0.1;0.2;0.5;2.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pre All-Star;Malcolm Hill;13;0;11.5;4.1;0.7;1.3;2.0;0.2;0.2;0.2;0.2;1.1;1.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pre All-Star;Alfonzo McKinnie;17;3;12.1;3.5;0.8;1.2;1.9;0.3;0.1;0.2;0.4;1.5;0.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pre All-Star;Tyler Cook;19;2;10.3;3.4;0.8;1.9;2.7;0.2;0.2;0.2;0.4;1.4;0.4
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pre All-Star;Tony Bradley;45;7;11.1;3.1;1.3;2.4;3.7;0.5;0.2;0.7;0.6;1.2;0.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pre All-Star;Devon Dotson;11;0;7.7;2.6;0.1;0.7;0.8;1.4;0.1;0.0;0.5;1.0;3.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pre All-Star;Mac McClung;1;0;3.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pre All-Star;Marko Simonovic;9;0;3.9;1.9;0.6;0.6;1.1;0.0;0.1;0.1;0.2;0.7;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pre All-Star;Alize Johnson;16;0;7.6;1.8;1.0;1.3;2.3;0.5;0.2;0.0;0.5;0.9;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pre All-Star;Jordan Bell;1;0;2.0;0.0;1.0;0.0;1.0;0.0;1.0;0.0;0.0;2.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Pre All-Star;Total;59;"";"";112.6;8.9;34.4;43.4;24.5;7.1;4.5;12.4;18.6;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Post All-Star;DeMar DeRozan;21;21;37.3;27.2;0.5;4.5;5.0;4.3;1.0;0.3;2.5;2.8;1.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;Post All-Star;Zach LaVine;20;20;35.2;24.0;0.5;3.6;4.0;4.7;0.6;0.3;2.1;2.0;2.2
+Chicago Bulls;chi;2021 - 2022 Regular Season;Post All-Star;Nikola Vucevic;21;21;31.1;16.3;1.7;7.6;9.3;2.2;1.0;0.5;1.7;2.4;1.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;Post All-Star;Ayo Dosunmu;23;20;30.9;10.4;0.4;2.3;2.7;3.9;1.0;0.4;1.8;2.7;2.1
+Chicago Bulls;chi;2021 - 2022 Regular Season;Post All-Star;Coby White;22;2;26.1;10.3;0.2;2.6;2.8;3.0;0.4;0.0;1.0;2.1;3.1
+Chicago Bulls;chi;2021 - 2022 Regular Season;Post All-Star;Patrick Williams;12;4;24.8;10.0;1.3;3.5;4.8;1.0;0.5;0.6;1.2;1.6;0.9
+Chicago Bulls;chi;2021 - 2022 Regular Season;Post All-Star;Javonte Green;23;14;21.8;6.4;1.0;3.0;4.0;0.6;1.3;0.4;0.3;1.8;2.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;Post All-Star;Tristan Thompson;23;3;16.3;5.7;1.8;3.0;4.7;0.6;0.5;0.3;0.5;1.7;1.2
+Chicago Bulls;chi;2021 - 2022 Regular Season;Post All-Star;Alex Caruso;13;9;28.5;5.4;0.6;2.5;3.1;4.3;1.3;0.3;1.3;2.9;3.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;Post All-Star;Derrick Jones Jr.;17;0;17.9;4.6;0.9;2.2;3.1;0.6;0.5;0.6;0.7;1.4;0.9
+Chicago Bulls;chi;2021 - 2022 Regular Season;Post All-Star;Troy Brown Jr.;18;1;10.4;3.4;0.2;1.6;1.8;0.6;0.4;0.1;0.2;0.5;2.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;Post All-Star;Tyler Cook;1;0;4.0;3.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;2.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Post All-Star;Tony Bradley;10;0;4.9;2.5;0.8;1.1;1.9;0.5;0.0;0.2;0.6;0.8;0.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;Post All-Star;Matt Thomas;5;0;2.2;2.4;0.0;0.4;0.4;0.0;0.0;0.0;0.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Post All-Star;Malcolm Hill;3;0;5.3;0.7;0.0;1.0;1.0;1.3;0.3;0.0;0.3;1.0;4.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;Post All-Star;Total;23;"";"";109.0;8.0;31.7;39.7;22.3;7.3;3.1;11.5;19.2;1.9
+Chicago Bulls;chi;2021 - 2022 Regular Season;3+ Days Rest;Zach LaVine;8;8;34.1;25.3;0.3;4.1;4.4;5.0;0.6;0.6;2.5;1.6;2.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;3+ Days Rest;DeMar DeRozan;6;6;35.2;25.2;0.8;4.2;5.0;4.0;1.2;0.2;2.8;2.8;1.4
+Chicago Bulls;chi;2021 - 2022 Regular Season;3+ Days Rest;Nikola Vucevic;7;7;32.4;16.1;2.3;10.0;12.3;3.6;1.7;0.9;2.1;2.3;1.7
+Chicago Bulls;chi;2021 - 2022 Regular Season;3+ Days Rest;Lonzo Ball;4;4;34.5;13.0;1.5;4.0;5.5;5.3;1.5;0.5;2.0;1.5;2.6
+Chicago Bulls;chi;2021 - 2022 Regular Season;3+ Days Rest;Tristan Thompson;1;0;13.0;11.0;2.0;4.0;6.0;1.0;1.0;0.0;0.0;1.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;3+ Days Rest;Ayo Dosunmu;6;2;25.2;9.5;0.5;3.0;3.5;2.8;1.0;0.8;1.3;2.0;2.1
+Chicago Bulls;chi;2021 - 2022 Regular Season;3+ Days Rest;Coby White;6;1;24.3;9.3;0.0;1.2;1.2;1.5;0.2;0.2;1.0;2.7;1.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;3+ Days Rest;Alex Caruso;5;2;28.8;9.2;0.4;3.0;3.4;3.2;2.0;0.8;1.8;2.8;1.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;3+ Days Rest;Patrick Williams;2;1;23.5;6.5;0.5;1.0;1.5;0.0;0.5;0.0;1.0;1.5;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;3+ Days Rest;Javonte Green;5;4;26.0;6.2;1.0;2.8;3.8;1.2;0.8;0.6;0.2;1.0;6.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;3+ Days Rest;Troy Brown Jr.;10;0;10.7;3.5;0.3;1.4;1.7;0.6;0.1;0.0;0.2;1.2;3.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;3+ Days Rest;Tyler Cook;7;1;10.3;3.1;0.3;2.6;2.9;0.4;0.1;0.4;0.4;1.7;1.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;3+ Days Rest;Devon Dotson;6;0;5.7;2.2;0.0;1.0;1.0;1.2;0.2;0.0;0.5;1.0;2.3
+Chicago Bulls;chi;2021 - 2022 Regular Season;3+ Days Rest;Malcolm Hill;5;0;8.4;2.0;0.4;0.6;1.0;0.4;0.0;0.0;0.0;1.0;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;3+ Days Rest;Derrick Jones Jr.;9;1;11.1;2.0;0.3;1.4;1.8;0.4;0.2;0.6;0.1;1.3;4.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;3+ Days Rest;Tony Bradley;11;0;5.5;2.0;0.6;1.2;1.8;0.5;0.3;0.5;0.5;0.8;0.8
+Chicago Bulls;chi;2021 - 2022 Regular Season;3+ Days Rest;Mac McClung;1;0;3.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;3+ Days Rest;Matt Thomas;9;0;7.2;1.7;0.0;1.0;1.0;0.4;0.2;0.0;0.0;0.3;INF
+Chicago Bulls;chi;2021 - 2022 Regular Season;3+ Days Rest;Alfonzo McKinnie;7;0;9.0;1.1;0.3;0.7;1.0;0.4;0.1;0.1;0.3;1.0;1.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;3+ Days Rest;Marko Simonovic;6;0;3.7;0.8;0.5;0.5;1.0;0.0;0.0;0.2;0.3;0.8;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;3+ Days Rest;Alize Johnson;6;0;6.2;0.2;0.8;0.8;1.7;0.3;0.0;0.0;0.7;1.3;0.5
+Chicago Bulls;chi;2021 - 2022 Regular Season;3+ Days Rest;Jordan Bell;1;0;2.0;0.0;1.0;0.0;1.0;0.0;1.0;0.0;0.0;2.0;0.0
+Chicago Bulls;chi;2021 - 2022 Regular Season;3+ Days Rest;Total;5;"";"";112.8;8.6;34.4;43.0;21.0;7.8;5.0;13.0;19.4;1.6

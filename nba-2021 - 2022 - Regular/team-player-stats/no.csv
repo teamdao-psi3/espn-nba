@@ -1,0 +1,887 @@
+teamName;teamCode;season;split;player_name;GP;GS;MIN;PTS;ORB;DR;REB;AST;STL;BLK;TO;PF;AST_TO
+New Orleans Pelicans;no;2021 - 2022 Regular Season;All Splits;CJ McCollum;26;26;33.8;24.3;0.7;3.7;4.5;5.8;1.3;0.0;2.2;1.7;2.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;All Splits;Brandon Ingram;55;55;34.0;22.7;0.6;5.2;5.8;5.6;0.6;0.5;2.7;2.2;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;All Splits;Jonas Valanciunas;74;74;30.3;17.8;3.1;8.3;11.4;2.6;0.6;0.8;2.4;3.3;1.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;All Splits;Josh Hart;41;40;33.5;13.4;1.3;6.5;7.8;4.1;1.1;0.3;2.0;2.9;2.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;All Splits;Nickeil Alexander-Walker;50;19;26.3;12.8;0.7;2.6;3.3;2.8;0.8;0.4;1.7;1.8;1.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;All Splits;Devonte' Graham;76;63;28.4;11.9;0.5;1.8;2.3;4.2;0.9;0.2;1.4;1.3;3.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;All Splits;Herbert Jones;78;69;29.9;9.5;1.3;2.5;3.8;2.1;1.7;0.8;1.3;3.1;1.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;All Splits;Jaxson Hayes;70;28;20.0;9.3;1.6;2.9;4.5;0.6;0.5;0.8;0.8;2.2;0.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;All Splits;Willy Hernangomez;50;8;16.8;9.1;2.9;3.9;6.8;1.3;0.4;0.4;1.0;1.9;1.2
+New Orleans Pelicans;no;2021 - 2022 Regular Season;All Splits;Jared Harper;5;0;8.6;7.4;0.4;0.0;0.4;2.8;0.8;0.2;0.4;1.0;7.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;All Splits;Larry Nance Jr.;9;0;20.2;7.3;1.6;2.8;4.3;0.9;0.6;0.8;1.1;1.9;0.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;All Splits;Jose Alvarado;54;1;15.4;6.1;0.5;1.4;1.9;2.8;1.3;0.1;0.7;1.4;3.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;All Splits;Kira Lewis Jr.;24;0;14.2;5.9;0.4;1.3;1.6;2.0;0.5;0.0;1.1;0.7;1.9
+New Orleans Pelicans;no;2021 - 2022 Regular Season;All Splits;Tony Snell;15;2;18.5;5.9;0.3;1.7;2.1;0.5;0.5;0.1;0.5;1.7;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;All Splits;Naji Marshall;55;4;13.4;5.7;0.7;1.9;2.6;1.1;0.6;0.1;0.8;1.3;1.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;All Splits;Trey Murphy III;62;1;13.9;5.4;0.8;1.6;2.4;0.6;0.4;0.1;0.3;1.0;2.4
+New Orleans Pelicans;no;2021 - 2022 Regular Season;All Splits;Garrett Temple;59;16;18.6;5.2;0.5;1.9;2.4;1.3;0.7;0.4;0.7;1.4;1.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;All Splits;Tyrone Wallace;6;0;12.5;2.8;0.0;1.3;1.3;0.2;0.5;0.2;0.3;1.2;0.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;All Splits;Tomas Satoransky;32;3;15.0;2.8;0.6;1.4;2.0;2.4;0.4;0.0;0.7;1.0;3.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;All Splits;Gary Clark;38;1;9.9;2.7;0.6;1.8;2.4;0.5;0.3;0.2;0.3;0.5;1.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;All Splits;Alize Johnson;4;0;7.0;2.3;1.8;1.5;3.3;0.3;0.5;0.0;0.3;0.8;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;All Splits;Didi Louzada;2;0;3.5;0.0;1.0;0.0;1.0;0.5;0.0;0.0;0.0;0.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;All Splits;Total;82;"";"";109.3;12.0;33.2;45.2;25.0;8.3;4.0;13.3;19.7;1.9
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Home;CJ McCollum;14;14;32.7;23.9;0.7;4.1;4.9;5.8;1.1;0.1;2.1;1.6;2.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Home;Brandon Ingram;26;26;34.4;21.7;0.6;5.2;5.8;5.1;0.6;0.6;3.0;2.3;1.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Home;Jonas Valanciunas;38;38;30.5;17.8;3.1;8.2;11.3;2.7;0.4;0.9;2.5;3.3;1.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Home;Nickeil Alexander-Walker;23;8;26.4;13.7;0.7;2.7;3.4;3.0;0.7;0.3;1.4;1.6;2.2
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Home;Josh Hart;21;20;32.9;13.3;1.4;6.3;7.7;4.1;1.0;0.3;2.0;3.2;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Home;Devonte' Graham;38;33;28.8;12.7;0.7;2.0;2.7;4.5;1.0;0.2;1.3;1.3;3.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Home;Herbert Jones;40;34;30.0;10.5;1.4;2.8;4.3;2.4;1.6;0.7;1.3;3.2;1.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Home;Jaxson Hayes;36;13;19.4;8.6;1.5;2.2;3.8;0.7;0.4;0.7;0.8;2.0;0.9
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Home;Jared Harper;3;0;11.0;8.3;0.7;0.0;0.7;4.0;0.3;0.3;0.3;1.3;12.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Home;Larry Nance Jr.;4;0;18.5;8.0;1.8;3.0;4.8;0.5;0.3;1.0;0.5;2.0;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Home;Willy Hernangomez;25;3;15.3;8.0;2.1;3.6;5.8;1.1;0.5;0.4;1.0;1.7;1.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Home;Jose Alvarado;28;0;15.9;6.7;0.4;1.6;2.0;2.8;1.3;0.1;0.8;1.5;3.4
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Home;Kira Lewis Jr.;11;0;15.7;6.6;0.5;1.9;2.5;2.7;0.8;0.0;0.9;0.6;3.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Home;Trey Murphy III;29;1;14.6;6.6;1.0;1.3;2.3;0.7;0.4;0.1;0.2;1.0;2.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Home;Naji Marshall;26;3;13.9;6.1;0.7;1.8;2.6;1.5;0.5;0.1;0.8;1.4;1.9
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Home;Tony Snell;9;1;19.0;5.8;0.2;1.6;1.8;0.6;0.8;0.0;0.8;1.7;0.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Home;Garrett Temple;31;8;17.8;4.8;0.5;1.7;2.2;1.2;0.7;0.2;0.8;1.1;1.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Home;Gary Clark;20;1;10.4;3.4;0.7;2.1;2.7;0.6;0.4;0.3;0.2;0.4;3.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Home;Tyrone Wallace;3;0;12.7;3.3;0.0;1.7;1.7;0.0;0.0;0.3;0.0;1.3;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Home;Tomas Satoransky;14;2;15.0;2.7;0.6;1.6;2.2;2.4;0.4;0.0;0.8;1.1;3.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Home;Alize Johnson;3;0;4.0;1.7;1.3;0.7;2.0;0.3;0.3;0.0;0.0;0.3;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Home;Total;41;"";"";111.4;12.1;33.2;45.3;25.9;8.1;4.0;13.2;19.8;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Away;CJ McCollum;12;12;35.1;24.8;0.8;3.3;4.0;5.9;1.5;0.0;2.3;1.8;2.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Away;Brandon Ingram;29;29;33.7;23.5;0.7;5.1;5.8;6.0;0.7;0.3;2.5;2.0;2.4
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Away;Jonas Valanciunas;36;36;30.0;17.7;3.0;8.5;11.5;2.5;0.7;0.7;2.3;3.4;1.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Away;Josh Hart;20;20;34.2;13.5;1.2;6.6;7.8;4.1;1.2;0.2;1.9;2.5;2.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Away;Nickeil Alexander-Walker;27;11;26.3;12.0;0.7;2.4;3.2;2.6;0.9;0.4;2.0;1.9;1.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Away;Devonte' Graham;38;30;28.1;11.0;0.3;1.7;2.0;3.8;0.8;0.1;1.5;1.2;2.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Away;Willy Hernangomez;25;5;18.3;10.2;3.6;4.2;7.8;1.4;0.4;0.4;1.1;2.2;1.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Away;Jaxson Hayes;34;15;20.5;10.1;1.8;3.5;5.3;0.5;0.5;0.9;0.8;2.4;0.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Away;Herbert Jones;38;35;29.8;8.5;1.1;2.2;3.3;1.9;1.8;0.8;1.2;2.9;1.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Away;Larry Nance Jr.;5;0;21.4;6.8;1.4;2.6;4.0;1.2;0.8;0.6;1.6;1.8;0.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Away;Tony Snell;6;1;17.7;6.0;0.5;2.0;2.5;0.5;0.2;0.3;0.2;1.8;3.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Away;Jared Harper;2;0;5.0;6.0;0.0;0.0;0.0;1.0;1.5;0.0;0.5;0.5;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Away;Garrett Temple;28;8;19.5;5.7;0.5;2.2;2.7;1.3;0.8;0.6;0.6;1.7;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Away;Jose Alvarado;26;1;15.0;5.5;0.5;1.2;1.7;2.8;1.3;0.2;0.7;1.2;4.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Away;Naji Marshall;29;1;12.9;5.3;0.7;1.9;2.6;0.8;0.7;0.2;0.9;1.1;0.9
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Away;Kira Lewis Jr.;13;0;12.9;5.2;0.2;0.7;0.9;1.5;0.2;0.1;1.2;0.8;1.2
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Away;Trey Murphy III;33;0;13.4;4.4;0.5;1.9;2.4;0.6;0.4;0.1;0.3;0.9;2.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Away;Alize Johnson;1;0;17.0;4.0;3.0;4.0;7.0;0.0;1.0;0.0;1.0;2.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Away;Tomas Satoransky;18;1;15.1;2.8;0.5;1.3;1.8;2.3;0.4;0.1;0.7;0.9;3.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Away;Tyrone Wallace;3;0;12.0;2.3;0.0;1.0;1.0;0.3;1.0;0.0;0.7;1.0;0.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Away;Gary Clark;18;0;9.4;1.9;0.6;1.4;2.0;0.4;0.3;0.1;0.4;0.7;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Away;Didi Louzada;2;0;3.5;0.0;1.0;0.0;1.0;0.5;0.0;0.0;0.0;0.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Away;Total;41;"";"";107.2;11.8;33.3;45.1;24.1;8.5;4.0;13.4;19.5;1.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Boston Celtics;Jonas Valanciunas;1;1;33.0;22.0;2.0;12.0;14.0;4.0;0.0;0.0;3.0;4.0;1.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Boston Celtics;Brandon Ingram;1;1;35.0;15.0;2.0;8.0;10.0;6.0;1.0;0.0;1.0;2.0;6.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Boston Celtics;Willy Hernangomez;1;1;30.0;14.0;3.0;2.0;5.0;2.0;0.0;0.0;4.0;4.0;0.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Boston Celtics;Herbert Jones;2;2;35.0;13.5;0.5;2.0;2.5;2.0;1.0;0.5;0.5;3.0;4.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Boston Celtics;Josh Hart;2;2;37.0;11.5;1.0;10.0;11.0;3.0;2.0;0.0;2.5;1.0;1.2
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Boston Celtics;Devonte' Graham;2;2;31.0;11.5;1.0;1.0;2.0;4.0;1.0;0.5;2.0;1.0;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Boston Celtics;Jose Alvarado;2;0;17.0;11.5;1.0;1.5;2.5;2.0;3.0;0.0;0.5;0.5;4.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Boston Celtics;Nickeil Alexander-Walker;2;0;20.0;7.0;0.5;2.0;2.5;3.5;0.0;0.0;0.5;0.5;7.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Boston Celtics;Naji Marshall;1;0;11.0;7.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;1.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Boston Celtics;Garrett Temple;2;1;26.0;6.0;0.5;2.0;2.5;2.0;1.0;0.0;1.0;1.5;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Boston Celtics;Jaxson Hayes;2;0;16.0;3.5;0.5;1.5;2.0;0.0;0.5;1.0;1.0;1.5;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Boston Celtics;Gary Clark;1;0;7.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Boston Celtics;Total;2;"";"";94.5;8.5;32.0;40.5;22.5;9.0;2.0;12.0;14.5;1.9
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Brooklyn Nets;Brandon Ingram;1;1;34.0;22.0;1.0;3.0;4.0;8.0;0.0;1.0;1.0;1.0;8.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Brooklyn Nets;Jonas Valanciunas;2;2;30.0;16.5;3.5;5.0;8.5;2.5;0.0;0.5;1.0;4.0;2.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Brooklyn Nets;Josh Hart;2;2;36.0;13.5;2.0;7.0;9.0;3.5;1.5;0.5;2.0;2.0;1.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Brooklyn Nets;Nickeil Alexander-Walker;2;1;23.0;13.0;0.5;2.5;3.0;1.0;0.5;0.0;3.0;4.0;0.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Brooklyn Nets;Devonte' Graham;2;2;29.5;12.0;0.5;1.5;2.0;5.0;2.0;0.5;3.5;2.0;1.4
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Brooklyn Nets;Herbert Jones;2;1;26.0;12.0;0.5;3.5;4.0;2.0;1.0;0.0;1.5;5.5;1.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Brooklyn Nets;Garrett Temple;2;1;28.5;10.0;0.0;3.5;3.5;2.5;0.5;1.0;0.0;1.5;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Brooklyn Nets;Jaxson Hayes;2;0;18.0;10.0;2.0;0.5;2.5;1.0;0.0;1.0;1.0;1.5;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Brooklyn Nets;Jose Alvarado;1;0;16.0;7.0;0.0;0.0;0.0;2.0;1.0;0.0;1.0;0.0;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Brooklyn Nets;Trey Murphy III;2;0;10.0;4.0;2.0;1.0;3.0;0.5;1.0;0.0;0.0;0.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Brooklyn Nets;Tomas Satoransky;1;0;16.0;2.0;0.0;1.0;1.0;6.0;1.0;0.0;0.0;2.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Brooklyn Nets;Naji Marshall;1;0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Brooklyn Nets;Kira Lewis Jr.;1;0;5.0;2.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Brooklyn Nets;Gary Clark;1;0;5.0;0.0;1.0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Brooklyn Nets;Total;2;"";"";108.5;12.0;27.0;39.0;26.5;7.5;4.0;13.0;22.0;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. New York Knicks;Jonas Valanciunas;2;2;33.0;22.5;2.5;9.5;12.0;3.0;0.5;1.0;2.5;3.0;1.2
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. New York Knicks;Josh Hart;2;2;33.0;16.5;1.0;6.5;7.5;3.0;0.5;0.0;0.5;4.5;6.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. New York Knicks;Devonte' Graham;2;2;30.0;16.0;0.5;2.5;3.0;4.5;1.5;0.0;1.0;1.5;4.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. New York Knicks;Brandon Ingram;1;1;27.0;15.0;0.0;5.0;5.0;6.0;1.0;0.0;3.0;2.0;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. New York Knicks;Jose Alvarado;1;0;20.0;13.0;0.0;0.0;0.0;4.0;4.0;0.0;0.0;3.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. New York Knicks;Kira Lewis Jr.;1;0;16.0;12.0;0.0;3.0;3.0;3.0;0.0;0.0;2.0;1.0;1.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. New York Knicks;Herbert Jones;2;2;36.5;11.5;1.0;2.5;3.5;4.5;3.0;0.0;1.5;3.5;3.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. New York Knicks;Nickeil Alexander-Walker;2;1;28.0;8.5;2.0;1.5;3.5;5.0;0.0;0.0;0.0;2.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. New York Knicks;Trey Murphy III;1;0;18.0;7.0;0.0;1.0;1.0;1.0;0.0;1.0;1.0;4.0;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. New York Knicks;Jaxson Hayes;2;0;16.0;6.0;0.5;3.0;3.5;1.0;0.5;1.0;1.5;3.5;0.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. New York Knicks;Naji Marshall;1;0;11.0;4.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;3.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. New York Knicks;Tomas Satoransky;1;0;16.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. New York Knicks;Gary Clark;1;0;8.0;3.0;0.0;0.0;0.0;1.0;0.0;0.0;1.0;0.0;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. New York Knicks;Garrett Temple;1;0;11.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. New York Knicks;Total;2;"";"";109.5;7.5;31.5;39.0;28.5;8.5;2.5;11.5;25.0;2.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Willy Hernangomez;1;1;30.0;29.0;5.0;5.0;10.0;1.0;0.0;1.0;2.0;3.0;0.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Nickeil Alexander-Walker;2;2;35.5;27.0;0.0;4.5;4.5;3.0;0.5;1.0;1.0;2.5;3.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Brandon Ingram;1;1;37.0;25.0;0.0;7.0;7.0;6.0;0.0;1.0;4.0;1.0;1.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Devonte' Graham;1;1;29.0;18.0;0.0;1.0;1.0;5.0;1.0;1.0;3.0;0.0;1.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Jose Alvarado;1;1;33.0;11.0;0.0;3.0;3.0;5.0;2.0;2.0;0.0;4.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Jaxson Hayes;2;0;20.5;9.5;3.0;2.5;5.5;0.5;1.0;0.0;1.0;2.5;0.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Jonas Valanciunas;1;1;30.0;9.0;5.0;7.0;12.0;3.0;0.0;1.0;1.0;4.0;3.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Herbert Jones;2;1;21.0;6.0;1.0;2.0;3.0;2.0;0.5;1.0;0.5;1.0;4.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Trey Murphy III;1;0;18.0;6.0;0.0;0.0;0.0;2.0;0.0;0.0;0.0;1.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Josh Hart;1;1;10.0;5.0;0.0;2.0;2.0;1.0;0.0;0.0;0.0;1.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Kira Lewis Jr.;1;0;17.0;5.0;1.0;3.0;4.0;5.0;1.0;0.0;1.0;1.0;5.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Gary Clark;1;0;13.0;3.0;2.0;2.0;4.0;1.0;0.0;0.0;1.0;4.0;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Naji Marshall;2;0;21.0;3.0;0.0;2.5;2.5;1.5;0.5;1.0;1.0;2.0;1.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Garrett Temple;2;1;20.0;1.0;0.0;3.0;3.0;2.0;0.0;0.5;0.5;2.0;4.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Tomas Satoransky;2;0;14.0;0.0;0.0;1.5;1.5;3.5;0.5;0.0;0.5;1.0;7.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Total;2;"";"";102.0;10.5;31.0;41.5;27.0;5.0;6.5;10.5;20.5;2.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Toronto Raptors;CJ McCollum;1;1;32.0;23.0;0.0;4.0;4.0;5.0;2.0;0.0;0.0;2.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Toronto Raptors;Jonas Valanciunas;2;2;31.0;19.0;1.5;11.5;13.0;2.5;0.5;1.5;3.0;2.0;0.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Toronto Raptors;Brandon Ingram;2;2;32.0;16.0;1.0;7.0;8.0;6.0;0.5;1.0;1.5;2.5;4.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Toronto Raptors;Herbert Jones;2;2;32.0;12.0;0.0;1.5;1.5;3.0;0.5;0.5;1.5;3.0;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Toronto Raptors;Nickeil Alexander-Walker;1;0;18.0;11.0;0.0;1.0;1.0;2.0;0.0;1.0;1.0;3.0;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Toronto Raptors;Garrett Temple;2;1;24.0;9.5;0.0;2.5;2.5;4.0;0.5;0.0;0.5;2.0;8.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Toronto Raptors;Jaxson Hayes;2;0;19.5;8.5;1.5;1.5;3.0;0.5;0.0;1.0;0.0;1.5;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Toronto Raptors;Tony Snell;1;0;14.0;8.0;0.0;2.0;2.0;1.0;0.0;0.0;1.0;3.0;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Toronto Raptors;Devonte' Graham;2;2;28.5;7.0;0.0;1.5;1.5;4.0;0.0;0.0;1.5;1.5;2.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Toronto Raptors;Jose Alvarado;2;0;14.5;6.0;0.5;1.0;1.5;3.0;1.0;1.0;1.5;1.0;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Toronto Raptors;Gary Clark;2;0;16.5;5.5;0.5;3.5;4.0;1.0;0.0;0.0;1.0;1.0;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Toronto Raptors;Naji Marshall;2;0;4.5;5.0;0.0;0.5;0.5;0.0;0.5;0.0;1.5;1.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Toronto Raptors;Willy Hernangomez;1;0;7.0;2.0;1.0;2.0;3.0;0.0;0.0;1.0;0.0;1.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Toronto Raptors;Trey Murphy III;1;0;5.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;2.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Toronto Raptors;Total;2;"";"";110.5;5.5;35.5;41.0;28.0;4.5;6.0;13.0;21.0;2.2
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Chicago Bulls;Brandon Ingram;1;1;34.0;26.0;0.0;8.0;8.0;8.0;0.0;0.0;2.0;4.0;4.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Chicago Bulls;Devonte' Graham;2;2;29.5;25.5;1.0;3.0;4.0;5.0;0.5;0.0;1.5;1.0;3.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Chicago Bulls;CJ McCollum;1;1;33.0;25.0;1.0;2.0;3.0;6.0;1.0;0.0;2.0;0.0;3.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Chicago Bulls;Jonas Valanciunas;2;2;34.0;17.0;2.0;11.5;13.5;2.5;0.5;1.0;2.5;2.5;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Chicago Bulls;Jose Alvarado;1;0;30.0;15.0;1.0;0.0;1.0;7.0;3.0;0.0;0.0;0.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Chicago Bulls;Nickeil Alexander-Walker;1;1;32.0;15.0;2.0;3.0;5.0;1.0;4.0;2.0;3.0;2.0;0.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Chicago Bulls;Larry Nance Jr.;1;0;18.0;9.0;0.0;4.0;4.0;0.0;0.0;1.0;1.0;1.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Chicago Bulls;Jaxson Hayes;2;1;22.5;7.5;1.0;2.5;3.5;0.0;0.5;0.5;0.0;2.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Chicago Bulls;Kira Lewis Jr.;1;0;11.0;7.0;1.0;1.0;2.0;3.0;0.0;0.0;1.0;0.0;3.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Chicago Bulls;Herbert Jones;2;2;26.5;6.5;0.5;1.5;2.0;3.0;1.5;0.5;2.0;3.5;1.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Chicago Bulls;Willy Hernangomez;1;0;13.0;6.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Chicago Bulls;Trey Murphy III;2;0;19.0;6.0;1.0;1.0;2.0;1.0;0.0;0.0;1.0;1.5;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Chicago Bulls;Naji Marshall;2;0;12.5;3.5;1.0;3.0;4.0;0.5;1.0;0.0;1.0;3.5;0.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Chicago Bulls;Garrett Temple;1;0;10.0;3.0;1.0;0.0;1.0;0.0;1.0;0.0;0.0;2.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Chicago Bulls;Tomas Satoransky;1;0;7.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Chicago Bulls;Tyrone Wallace;1;0;3.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Chicago Bulls;Total;2;"";"";119.0;9.5;33.0;42.5;24.5;8.5;3.5;13.0;18.5;1.9
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Devonte' Graham;2;2;31.0;19.0;0.5;3.0;3.5;4.5;0.0;0.5;1.5;1.0;3.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Jonas Valanciunas;2;2;31.0;15.5;5.0;4.5;9.5;3.0;0.0;1.5;3.5;3.0;0.9
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Herbert Jones;2;2;34.0;14.5;0.0;4.5;4.5;3.5;0.5;2.0;1.0;3.0;3.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Jaxson Hayes;2;1;28.0;13.0;1.0;6.5;7.5;1.0;0.5;2.0;1.0;3.0;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Josh Hart;1;1;37.0;10.0;1.0;9.0;10.0;3.0;2.0;0.0;2.0;3.0;1.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Garrett Temple;2;1;24.5;9.5;0.0;2.0;2.0;2.0;0.5;0.5;1.5;1.5;1.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Nickeil Alexander-Walker;1;0;19.0;8.0;0.0;2.0;2.0;5.0;1.0;0.0;3.0;1.0;1.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Gary Clark;2;1;21.0;7.5;0.0;3.5;3.5;0.5;1.0;1.0;0.0;1.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Jared Harper;1;0;8.0;7.0;1.0;0.0;1.0;3.0;0.0;1.0;1.0;1.0;3.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Willy Hernangomez;2;0;11.0;3.5;4.0;2.5;6.5;1.0;0.0;0.0;0.5;1.5;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Tomas Satoransky;1;0;17.0;3.0;0.0;2.0;2.0;5.0;0.0;0.0;1.0;0.0;5.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Trey Murphy III;1;0;20.0;3.0;0.0;1.0;1.0;0.0;1.0;0.0;0.0;1.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Jose Alvarado;1;0;19.0;2.0;1.0;4.0;5.0;3.0;0.0;0.0;0.0;0.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Total;2;"";"";99.0;12.0;35.5;47.5;25.0;4.5;8.0;12.5;17.0;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Detroit Pistons;Brandon Ingram;2;2;33.0;26.0;0.0;3.0;3.0;4.5;0.5;1.5;0.0;0.5;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Detroit Pistons;Jonas Valanciunas;2;2;28.0;15.0;5.0;7.0;12.0;2.5;0.5;0.5;3.0;1.5;0.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Detroit Pistons;Josh Hart;1;1;32.0;14.0;4.0;9.0;13.0;5.0;1.0;0.0;4.0;4.0;1.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Detroit Pistons;Nickeil Alexander-Walker;2;0;20.5;14.0;1.0;1.0;2.0;3.0;2.0;0.5;2.5;1.0;1.2
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Detroit Pistons;Willy Hernangomez;2;0;17.5;8.5;1.0;4.5;5.5;0.5;0.5;0.0;0.5;1.5;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Detroit Pistons;Herbert Jones;2;2;26.0;8.0;1.0;5.0;6.0;3.0;0.5;0.5;1.0;4.0;3.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Detroit Pistons;Devonte' Graham;2;2;28.5;7.5;0.0;2.5;2.5;4.5;0.5;0.0;2.0;1.0;2.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Detroit Pistons;Trey Murphy III;2;0;8.5;6.0;1.5;1.0;2.5;0.0;0.0;0.0;0.0;0.5;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Detroit Pistons;Garrett Temple;2;0;18.5;5.5;1.5;2.5;4.0;0.5;1.0;0.5;0.5;1.0;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Detroit Pistons;Jose Alvarado;2;0;11.0;5.0;0.0;0.5;0.5;3.0;1.0;0.0;1.0;1.5;3.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Detroit Pistons;Tomas Satoransky;1;0;20.0;4.0;0.0;4.0;4.0;3.0;0.0;0.0;2.0;1.0;1.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Detroit Pistons;Jaxson Hayes;2;1;14.5;3.0;1.0;3.5;4.5;1.0;0.0;0.5;0.5;1.5;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Detroit Pistons;Gary Clark;2;0;7.5;2.5;1.0;0.5;1.5;0.0;0.0;0.5;0.0;0.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Detroit Pistons;Naji Marshall;1;0;3.0;0.0;1.0;0.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Detroit Pistons;Total;2;"";"";110.0;15.5;37.5;53.0;26.5;7.0;4.5;14.5;16.5;1.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Indiana Pacers;Devonte' Graham;1;1;35.0;25.0;0.0;3.0;3.0;6.0;1.0;0.0;1.0;1.0;6.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Indiana Pacers;Jonas Valanciunas;2;2;27.0;17.5;5.0;7.5;12.5;4.0;0.0;1.0;3.0;3.5;1.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Indiana Pacers;Josh Hart;2;2;30.0;14.5;0.5;5.5;6.0;1.0;1.0;0.5;3.0;3.5;0.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Indiana Pacers;Naji Marshall;1;0;12.0;14.0;1.0;5.0;6.0;3.0;0.0;0.0;0.0;0.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Indiana Pacers;Brandon Ingram;1;1;26.0;12.0;1.0;2.0;3.0;4.0;0.0;0.0;1.0;1.0;4.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Indiana Pacers;Kira Lewis Jr.;1;0;27.0;12.0;0.0;3.0;3.0;0.0;0.0;0.0;2.0;1.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Indiana Pacers;Nickeil Alexander-Walker;2;1;30.0;10.0;1.5;1.0;2.5;5.0;1.0;1.0;3.0;1.5;1.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Indiana Pacers;Jaxson Hayes;2;0;18.0;9.0;1.0;4.5;5.5;0.0;1.0;0.0;1.0;3.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Indiana Pacers;Trey Murphy III;1;0;21.0;8.0;0.0;6.0;6.0;1.0;2.0;1.0;0.0;0.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Indiana Pacers;Garrett Temple;2;1;18.0;7.0;0.5;2.0;2.5;0.0;0.0;0.0;0.0;1.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Indiana Pacers;Willy Hernangomez;1;0;6.0;6.0;1.0;4.0;5.0;1.0;0.0;0.0;0.0;0.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Indiana Pacers;Herbert Jones;2;1;26.0;5.5;0.5;2.0;2.5;2.0;1.5;1.5;0.5;2.5;4.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Indiana Pacers;Jose Alvarado;2;0;12.0;2.5;0.5;0.5;1.0;0.5;1.0;0.0;0.0;1.5;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Indiana Pacers;Tomas Satoransky;1;1;21.0;2.0;1.0;3.0;4.0;0.0;0.0;0.0;2.0;0.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Indiana Pacers;Gary Clark;1;0;12.0;0.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Indiana Pacers;Total;2;"";"";105.5;11.5;37.0;48.5;20.0;7.0;4.5;13.5;18.0;1.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Jonas Valanciunas;1;1;40.0;24.0;2.0;5.0;7.0;3.0;1.0;2.0;5.0;3.0;0.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Jaxson Hayes;1;0;28.0;23.0;3.0;4.0;7.0;1.0;0.0;1.0;1.0;3.0;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Brandon Ingram;1;1;43.0;22.0;0.0;5.0;5.0;5.0;3.0;0.0;3.0;0.0;1.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Devonte' Graham;2;2;33.0;20.0;0.0;3.5;3.5;3.5;2.0;0.0;1.0;1.5;3.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Herbert Jones;2;2;34.5;15.5;2.0;5.5;7.5;3.5;2.0;2.0;2.5;2.5;1.4
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Josh Hart;2;2;38.5;12.5;3.0;10.0;13.0;8.5;1.0;0.5;3.0;2.5;2.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Nickeil Alexander-Walker;2;0;28.5;12.5;0.5;3.0;3.5;2.0;0.5;0.0;2.5;2.5;0.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Garrett Temple;2;1;20.0;7.0;0.5;3.0;3.5;3.0;0.5;0.0;2.0;0.5;1.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Willy Hernangomez;2;1;15.0;6.5;3.5;4.0;7.5;0.5;0.0;0.0;1.0;1.0;0.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Tomas Satoransky;2;0;13.0;3.5;0.5;2.5;3.0;4.0;1.5;0.0;0.0;1.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Gary Clark;1;0;17.0;3.0;2.0;1.0;3.0;1.0;1.0;0.0;0.0;0.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Trey Murphy III;2;0;3.5;1.0;0.0;0.5;0.5;1.0;0.0;0.0;0.5;0.0;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Jose Alvarado;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Naji Marshall;1;0;3.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Total;2;"";"";114.5;13.5;40.0;53.5;31.0;10.0;4.0;17.5;14.5;1.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Atlanta Hawks;CJ McCollum;1;1;39.0;25.0;0.0;4.0;4.0;8.0;1.0;0.0;2.0;1.0;4.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Atlanta Hawks;Jonas Valanciunas;2;2;34.5;21.0;5.0;8.5;13.5;3.5;1.0;0.5;2.0;2.5;1.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Atlanta Hawks;Devonte' Graham;1;1;32.0;21.0;1.0;4.0;5.0;6.0;1.0;0.0;0.0;2.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Atlanta Hawks;Brandon Ingram;1;1;39.0;20.0;1.0;7.0;8.0;4.0;1.0;2.0;2.0;3.0;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Atlanta Hawks;Willy Hernangomez;1;0;15.0;17.0;7.0;3.0;10.0;2.0;1.0;0.0;3.0;4.0;0.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Atlanta Hawks;Jose Alvarado;1;0;24.0;15.0;0.0;4.0;4.0;4.0;3.0;0.0;2.0;3.0;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Atlanta Hawks;Jaxson Hayes;2;1;24.5;10.0;3.0;4.0;7.0;0.5;0.0;1.0;1.5;1.5;0.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Atlanta Hawks;Herbert Jones;2;2;29.5;9.5;0.0;2.0;2.0;1.5;2.0;0.5;1.0;3.0;1.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Atlanta Hawks;Garrett Temple;1;0;9.0;6.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;2.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Atlanta Hawks;Nickeil Alexander-Walker;1;1;30.0;6.0;0.0;3.0;3.0;3.0;0.0;1.0;0.0;1.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Atlanta Hawks;Kira Lewis Jr.;1;0;16.0;6.0;0.0;1.0;1.0;3.0;0.0;0.0;1.0;2.0;3.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Atlanta Hawks;Tyrone Wallace;1;0;9.0;4.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Atlanta Hawks;Trey Murphy III;2;0;20.0;4.0;0.5;1.5;2.0;0.0;0.5;0.0;1.0;1.5;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Atlanta Hawks;Naji Marshall;2;1;23.0;3.5;0.5;5.5;6.0;2.5;1.0;0.0;1.0;3.0;2.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Atlanta Hawks;Gary Clark;1;0;4.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Atlanta Hawks;Total;2;"";"";108.0;13.5;35.5;49.0;23.0;8.5;3.5;12.0;21.0;1.9
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Charlotte Hornets;CJ McCollum;1;1;34.0;27.0;0.0;0.0;0.0;6.0;1.0;0.0;4.0;3.0;1.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Charlotte Hornets;Trey Murphy III;2;0;23.5;19.0;2.0;3.5;5.5;2.5;0.5;0.0;0.0;2.5;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Charlotte Hornets;Jonas Valanciunas;2;2;27.0;17.0;3.5;9.5;13.0;3.0;1.0;1.0;2.0;3.5;1.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Charlotte Hornets;Naji Marshall;2;1;27.0;14.0;0.5;4.0;4.5;4.0;1.5;0.0;1.5;0.5;2.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Charlotte Hornets;Willy Hernangomez;2;0;20.5;12.0;2.5;4.0;6.5;0.5;1.0;0.5;1.5;2.5;0.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Charlotte Hornets;Jaxson Hayes;2;2;36.5;11.0;2.0;4.0;6.0;1.5;0.0;1.0;1.5;1.5;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Charlotte Hornets;Devonte' Graham;2;2;29.5;10.5;0.5;2.5;3.0;5.0;2.0;0.0;2.5;1.0;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Charlotte Hornets;Herbert Jones;2;2;26.5;8.5;0.5;1.5;2.0;5.0;1.5;0.5;1.5;2.0;3.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Charlotte Hornets;Jose Alvarado;2;0;22.5;6.0;2.5;0.5;3.0;2.5;0.0;0.0;2.0;2.0;1.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Charlotte Hornets;Tony Snell;1;0;12.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;1.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Charlotte Hornets;Tyrone Wallace;1;0;9.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0;1.0;2.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Charlotte Hornets;Total;2;"";"";111.5;14.0;29.5;43.5;27.0;9.0;3.0;16.0;18.5;1.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Miami Heat;Nickeil Alexander-Walker;1;1;28.0;24.0;4.0;0.0;4.0;2.0;1.0;0.0;0.0;4.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Miami Heat;Josh Hart;1;1;38.0;18.0;1.0;6.0;7.0;4.0;2.0;0.0;2.0;1.0;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Miami Heat;Brandon Ingram;2;2;35.5;17.0;0.5;3.0;3.5;3.0;0.0;0.5;5.0;3.5;0.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Miami Heat;Jose Alvarado;1;0;20.0;17.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;1.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Miami Heat;CJ McCollum;1;1;37.0;15.0;1.0;6.0;7.0;5.0;1.0;0.0;2.0;3.0;2.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Miami Heat;Jonas Valanciunas;2;2;31.0;14.5;1.5;7.0;8.5;1.5;0.0;1.0;2.5;4.0;0.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Miami Heat;Devonte' Graham;2;2;31.5;13.5;1.0;1.5;2.5;4.0;1.5;0.0;3.0;2.5;1.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Miami Heat;Herbert Jones;2;1;26.5;5.5;2.0;2.0;4.0;1.5;1.5;2.0;2.0;4.0;0.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Miami Heat;Jaxson Hayes;2;0;15.0;4.0;0.5;2.5;3.0;0.0;0.0;0.0;0.0;1.5;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Miami Heat;Tomas Satoransky;1;0;17.0;3.0;1.0;2.0;3.0;1.0;0.0;0.0;0.0;1.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Miami Heat;Garrett Temple;2;0;14.0;2.5;1.0;0.0;1.0;2.0;0.5;1.0;2.0;0.5;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Miami Heat;Gary Clark;1;0;20.0;2.0;1.0;8.0;9.0;0.0;3.0;0.0;0.0;1.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Miami Heat;Naji Marshall;1;0;6.0;2.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Miami Heat;Trey Murphy III;1;0;8.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Miami Heat;Total;2;"";"";97.5;11.0;27.5;38.5;18.5;7.0;4.5;16.5;22.0;1.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Orlando Magic;CJ McCollum;1;1;38.0;32.0;0.0;4.0;4.0;8.0;0.0;0.0;4.0;2.0;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Orlando Magic;Brandon Ingram;1;1;36.0;31.0;1.0;5.0;6.0;4.0;0.0;0.0;2.0;0.0;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Orlando Magic;Jonas Valanciunas;1;1;34.0;30.0;5.0;10.0;15.0;3.0;2.0;2.0;1.0;3.0;3.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Orlando Magic;Josh Hart;1;1;38.0;22.0;0.0;5.0;5.0;5.0;1.0;0.0;2.0;1.0;2.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Orlando Magic;Devonte' Graham;2;1;31.0;13.5;0.5;3.5;4.0;5.0;1.5;0.0;1.0;1.5;5.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Orlando Magic;Herbert Jones;2;2;28.0;11.5;2.0;2.0;4.0;2.0;0.5;0.5;2.0;4.5;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Orlando Magic;Tomas Satoransky;1;0;15.0;9.0;0.0;0.0;0.0;3.0;1.0;1.0;1.0;0.0;3.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Orlando Magic;Garrett Temple;1;0;22.0;8.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Orlando Magic;Jose Alvarado;1;0;19.0;7.0;1.0;3.0;4.0;3.0;1.0;0.0;1.0;4.0;3.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Orlando Magic;Trey Murphy III;2;0;19.0;5.0;1.0;2.5;3.5;0.5;1.0;0.0;0.0;0.5;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Orlando Magic;Jaxson Hayes;2;1;19.5;4.5;0.0;3.5;3.5;0.5;0.5;0.0;0.5;4.0;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Orlando Magic;Willy Hernangomez;2;1;18.5;1.5;4.0;5.5;9.5;0.0;0.5;0.0;0.5;1.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Orlando Magic;Gary Clark;1;0;4.0;1.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Orlando Magic;Tony Snell;1;1;31.0;0.0;0.0;1.0;1.0;0.0;2.0;0.0;1.0;1.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Orlando Magic;Naji Marshall;1;0;11.0;0.0;0.0;1.0;1.0;1.0;0.0;0.0;1.0;1.0;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Orlando Magic;Total;2;"";"";106.0;11.0;32.5;43.5;22.0;7.5;2.0;10.5;17.5;2.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Washington Wizards;Brandon Ingram;2;2;32.0;28.5;1.0;4.0;5.0;3.5;0.5;0.0;0.5;1.5;7.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Washington Wizards;Jonas Valanciunas;2;2;31.0;18.5;2.5;7.5;10.0;3.5;0.0;0.5;2.0;3.0;1.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Washington Wizards;Josh Hart;2;2;35.0;14.5;2.0;7.5;9.5;4.5;1.5;0.0;1.5;3.5;3.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Washington Wizards;Willy Hernangomez;1;0;22.0;13.0;1.0;6.0;7.0;4.0;3.0;2.0;1.0;2.0;4.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Washington Wizards;Devonte' Graham;2;2;26.0;13.0;0.5;1.0;1.5;1.5;0.0;0.0;1.5;2.5;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Washington Wizards;Nickeil Alexander-Walker;2;1;26.0;8.0;0.0;5.0;5.0;4.5;1.0;0.0;2.5;2.0;1.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Washington Wizards;Jaxson Hayes;1;0;11.0;7.0;2.0;4.0;6.0;0.0;0.0;0.0;0.0;4.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Washington Wizards;Garrett Temple;2;0;16.0;6.0;0.0;1.5;1.5;0.0;0.0;0.5;0.0;1.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Washington Wizards;Trey Murphy III;2;0;7.0;5.5;0.5;1.5;2.0;0.0;0.0;0.0;0.5;0.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Washington Wizards;Naji Marshall;1;0;5.0;5.0;1.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Washington Wizards;Herbert Jones;2;1;24.5;4.0;0.5;4.0;4.5;1.5;2.0;0.5;0.5;4.5;3.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Washington Wizards;Tomas Satoransky;2;0;15.5;2.0;0.5;0.5;1.0;3.5;0.5;0.0;1.0;3.0;3.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Washington Wizards;Kira Lewis Jr.;1;0;13.0;2.0;0.0;2.0;2.0;1.0;1.0;0.0;1.0;0.0;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Washington Wizards;Jose Alvarado;1;0;4.0;0.0;0.0;1.0;1.0;2.0;0.0;0.0;0.0;2.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Washington Wizards;Total;2;"";"";113.5;9.5;39.0;48.5;26.5;7.5;2.5;11.0;25.5;2.4
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Denver Nuggets;Brandon Ingram;3;3;40.7;25.7;0.0;5.7;5.7;8.7;1.7;1.0;4.0;3.3;2.2
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Denver Nuggets;CJ McCollum;1;1;43.0;24.0;3.0;2.0;5.0;9.0;1.0;0.0;1.0;3.0;9.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Denver Nuggets;Jonas Valanciunas;3;3;34.0;21.3;3.3;7.3;10.7;3.0;0.0;1.0;2.7;5.0;1.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Denver Nuggets;Herbert Jones;4;4;37.5;17.5;1.3;3.8;5.0;2.0;2.8;0.5;1.8;2.5;1.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Denver Nuggets;Nickeil Alexander-Walker;3;0;25.7;14.3;0.3;3.3;3.7;3.3;0.7;1.0;2.7;2.7;1.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Denver Nuggets;Josh Hart;2;2;39.5;14.0;1.0;7.0;8.0;5.0;0.5;0.0;4.5;4.0;1.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Denver Nuggets;Jaxson Hayes;3;2;25.0;13.7;2.0;4.7;6.7;0.7;0.7;0.7;1.0;3.0;0.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Denver Nuggets;Devonte' Graham;4;3;31.0;11.3;0.3;2.5;2.8;4.5;0.8;0.0;1.8;1.3;2.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Denver Nuggets;Willy Hernangomez;3;1;23.0;10.7;4.0;5.3;9.3;2.0;0.7;1.7;1.3;1.7;1.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Denver Nuggets;Tony Snell;1;0;22.0;6.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;1.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Denver Nuggets;Kira Lewis Jr.;1;0;9.0;5.0;0.0;0.0;0.0;3.0;1.0;0.0;1.0;0.0;3.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Denver Nuggets;Jose Alvarado;3;0;13.7;4.3;0.3;0.3;0.7;1.3;1.0;0.0;0.3;2.3;4.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Denver Nuggets;Naji Marshall;3;0;7.0;2.7;0.7;1.0;1.7;0.3;0.7;0.0;0.0;1.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Denver Nuggets;Tomas Satoransky;1;0;6.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Denver Nuggets;Trey Murphy III;1;0;17.0;2.0;0.0;3.0;3.0;0.0;1.0;0.0;1.0;1.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Denver Nuggets;Gary Clark;2;0;9.5;1.0;0.0;1.5;1.5;0.0;0.0;0.0;0.0;1.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Denver Nuggets;Garrett Temple;2;1;17.0;0.0;0.0;1.0;1.0;2.5;2.5;0.0;0.0;0.5;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Denver Nuggets;Total;4;"";"";115.5;10.8;33.3;44.0;28.0;9.8;4.5;15.8;22.3;1.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Brandon Ingram;4;4;37.5;24.8;1.5;5.3;6.8;4.5;0.5;0.5;5.5;3.3;0.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Willy Hernangomez;1;0;22.0;19.0;3.0;8.0;11.0;0.0;1.0;0.0;2.0;4.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Jonas Valanciunas;4;4;30.5;17.0;4.8;9.8;14.5;2.8;0.8;1.0;2.0;4.5;1.4
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Josh Hart;2;2;34.0;17.0;2.5;4.5;7.0;5.0;2.0;1.5;2.5;3.0;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Devonte' Graham;3;3;35.3;14.3;0.7;2.7;3.3;4.3;1.3;0.0;3.0;1.0;1.4
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Nickeil Alexander-Walker;4;2;30.0;13.5;2.0;5.0;7.0;3.5;1.0;0.0;2.8;1.3;1.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Jaxson Hayes;3;0;13.3;6.7;0.7;1.7;2.3;0.0;0.7;0.7;1.3;3.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Gary Clark;1;0;6.0;6.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Garrett Temple;4;1;15.8;5.8;1.0;3.0;4.0;0.5;0.3;0.8;1.8;1.0;0.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Herbert Jones;4;3;29.0;5.5;1.8;2.0;3.8;1.8;0.5;0.8;1.5;3.3;1.2
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Trey Murphy III;3;0;15.0;4.0;0.3;2.7;3.0;0.0;0.7;0.0;0.0;1.7;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Kira Lewis Jr.;3;0;17.7;3.3;0.0;1.3;1.3;3.3;0.3;0.0;2.0;0.7;1.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Tomas Satoransky;1;1;13.0;2.0;1.0;0.0;1.0;0.0;0.0;0.0;1.0;2.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Naji Marshall;3;0;7.0;1.7;0.3;1.3;1.7;1.0;0.0;0.0;1.7;1.0;0.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Jose Alvarado;2;0;7.5;1.5;0.5;0.0;0.5;1.5;0.5;0.0;0.0;2.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Total;4;"";"";105.0;15.0;36.8;51.8;22.8;6.8;4.3;21.5;22.8;1.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Jonas Valanciunas;2;2;36.5;22.0;4.5;11.0;15.5;1.0;1.5;1.0;2.0;2.0;0.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Nickeil Alexander-Walker;2;1;28.0;20.5;1.5;5.5;7.0;3.0;1.5;0.5;0.5;2.0;6.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Brandon Ingram;2;2;23.0;17.0;0.0;5.0;5.0;3.0;1.0;0.0;1.5;1.0;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Devonte' Graham;3;3;33.0;16.0;0.7;2.0;2.7;6.7;1.0;0.0;0.7;1.3;10.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Josh Hart;3;3;29.3;14.7;0.3;6.3;6.7;3.3;1.3;0.3;2.3;2.7;1.4
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Garrett Temple;3;1;27.0;11.0;0.3;3.3;3.7;2.0;1.3;0.7;0.7;3.3;3.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Willy Hernangomez;2;1;18.0;10.5;1.0;3.5;4.5;1.0;0.0;0.5;0.5;1.0;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Jaxson Hayes;2;0;14.0;10.0;2.0;2.5;4.5;0.5;0.5;1.0;1.5;2.5;0.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Herbert Jones;3;2;33.7;9.0;2.7;2.0;4.7;2.3;1.0;1.0;1.0;4.3;2.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Kira Lewis Jr.;1;0;13.0;2.0;0.0;1.0;1.0;2.0;2.0;0.0;1.0;1.0;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Trey Murphy III;3;0;12.0;2.0;2.0;1.3;3.3;1.0;0.3;0.0;0.0;0.3;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Tomas Satoransky;3;0;15.7;1.7;1.3;2.0;3.3;2.3;0.7;0.0;1.0;1.0;2.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Gary Clark;1;0;13.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;0.0;0.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Jared Harper;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Total;3;"";"";108.3;13.3;36.0;49.3;24.3;9.7;4.0;10.0;19.3;2.4
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Nickeil Alexander-Walker;1;0;26.0;27.0;1.0;2.0;3.0;4.0;0.0;0.0;4.0;1.0;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Portland Trail Blazers;CJ McCollum;2;2;33.0;24.0;0.0;3.5;3.5;5.5;1.5;0.0;3.5;1.0;1.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Brandon Ingram;2;2;32.5;23.5;1.0;6.0;7.0;7.0;0.5;0.0;2.0;1.5;3.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Josh Hart;1;1;41.0;20.0;1.0;4.0;5.0;5.0;3.0;1.0;3.0;4.0;1.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Willy Hernangomez;2;0;21.5;15.0;2.5;7.5;10.0;1.5;0.5;0.0;0.5;2.0;3.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Jaxson Hayes;2;2;23.0;14.5;2.0;1.0;3.0;0.0;1.0;1.0;0.0;1.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Jonas Valanciunas;3;3;29.3;14.3;4.0;7.7;11.7;2.3;1.3;0.3;2.7;4.0;0.9
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Larry Nance Jr.;2;0;19.5;10.0;2.5;2.0;4.5;0.5;0.0;0.5;0.0;1.5;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Jared Harper;1;0;5.0;8.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Trey Murphy III;3;0;18.0;7.3;1.3;1.7;3.0;0.0;0.7;0.0;0.7;1.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Jose Alvarado;2;0;18.5;6.5;0.5;1.5;2.0;6.0;4.0;0.0;2.0;0.5;3.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Devonte' Graham;3;2;21.0;6.0;0.3;1.0;1.3;3.7;1.0;0.3;0.7;0.3;5.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Naji Marshall;2;0;12.0;5.5;0.0;1.0;1.0;2.5;1.0;0.5;1.5;0.5;1.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Tony Snell;1;0;7.0;5.0;1.0;1.0;2.0;0.0;0.0;0.0;0.0;1.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Herbert Jones;3;3;27.3;4.7;1.7;1.7;3.3;2.7;1.3;1.0;0.3;3.3;8.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Garrett Temple;2;0;8.5;0.0;0.0;1.0;1.0;0.5;0.5;0.0;0.0;0.5;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Tomas Satoransky;1;0;11.0;0.0;0.0;0.0;0.0;1.0;1.0;0.0;1.0;0.0;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Gary Clark;1;0;7.0;0.0;1.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Total;3;"";"";118.3;14.3;30.0;44.3;28.0;12.0;3.3;13.3;16.3;2.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Utah Jazz;CJ McCollum;1;1;29.0;24.0;1.0;4.0;5.0;4.0;1.0;0.0;1.0;2.0;4.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Utah Jazz;Brandon Ingram;4;4;31.3;17.8;0.5;5.5;6.0;5.3;0.5;0.8;3.5;1.5;1.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Utah Jazz;Jonas Valanciunas;4;4;24.8;13.0;2.3;7.0;9.3;1.5;0.0;0.5;2.3;3.5;0.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Utah Jazz;Nickeil Alexander-Walker;3;0;23.3;12.7;0.7;2.0;2.7;1.7;0.7;0.7;1.3;1.0;1.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Utah Jazz;Tony Snell;1;0;19.0;11.0;0.0;4.0;4.0;0.0;0.0;0.0;0.0;1.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Utah Jazz;Naji Marshall;2;0;10.5;10.0;1.5;1.0;2.5;0.5;0.0;0.0;0.0;0.5;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Utah Jazz;Josh Hart;3;3;32.7;9.7;0.7;5.3;6.0;3.7;0.0;0.3;1.3;3.0;2.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Utah Jazz;Willy Hernangomez;4;0;16.3;9.5;3.0;4.0;7.0;2.0;0.5;0.3;1.8;2.0;1.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Utah Jazz;Jaxson Hayes;3;1;14.7;9.3;2.3;2.7;5.0;1.0;0.3;0.7;0.0;0.7;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Utah Jazz;Devonte' Graham;4;3;25.3;8.0;0.8;1.3;2.0;3.5;1.0;0.8;0.3;1.5;14.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Utah Jazz;Kira Lewis Jr.;2;0;9.5;7.0;0.0;0.0;0.0;1.0;0.5;0.0;0.0;0.5;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Utah Jazz;Herbert Jones;4;4;29.8;6.0;1.3;1.8;3.0;2.3;3.5;0.8;1.0;2.3;2.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Utah Jazz;Alize Johnson;1;0;5.0;5.0;3.0;1.0;4.0;1.0;0.0;0.0;0.0;1.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Utah Jazz;Garrett Temple;4;0;12.0;4.8;0.3;1.0;1.3;0.8;1.0;0.0;0.3;1.8;3.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Utah Jazz;Trey Murphy III;2;0;11.0;4.5;0.5;0.5;1.0;0.5;0.0;0.0;0.0;1.5;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Utah Jazz;Tomas Satoransky;2;0;13.5;3.0;0.0;1.0;1.0;2.5;0.0;0.0;0.5;2.0;5.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Utah Jazz;Jose Alvarado;3;0;12.3;2.7;0.0;1.3;1.3;3.0;1.0;0.0;0.0;2.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Utah Jazz;Gary Clark;2;0;6.0;1.5;0.5;0.5;1.0;0.5;0.0;0.0;0.0;1.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Utah Jazz;Total;4;"";"";107.8;13.0;32.8;45.8;26.0;8.5;4.3;11.5;21.3;2.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Golden State Warriors;Brandon Ingram;1;1;35.0;32.0;2.0;9.0;11.0;6.0;0.0;0.0;2.0;2.0;3.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Golden State Warriors;Jonas Valanciunas;2;2;31.5;14.0;3.5;9.0;12.5;4.0;0.5;1.0;4.0;2.5;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Golden State Warriors;Gary Clark;2;0;21.5;13.5;2.5;4.0;6.5;1.5;0.5;0.5;1.0;0.5;1.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Golden State Warriors;Naji Marshall;2;1;27.0;13.5;1.5;2.5;4.0;3.0;0.5;0.0;2.5;1.5;1.2
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Golden State Warriors;Herbert Jones;1;1;37.0;13.0;1.0;5.0;6.0;2.0;5.0;0.0;0.0;1.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Golden State Warriors;Josh Hart;2;2;32.5;12.0;1.5;6.0;7.5;2.0;0.5;0.0;2.0;4.0;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Golden State Warriors;Trey Murphy III;2;1;22.5;10.5;0.5;3.0;3.5;1.0;1.0;1.0;0.5;0.5;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Golden State Warriors;Jared Harper;1;0;20.0;10.0;1.0;0.0;1.0;9.0;1.0;0.0;0.0;3.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Golden State Warriors;Devonte' Graham;2;2;29.0;9.5;0.5;1.5;2.0;2.0;0.5;0.5;3.0;1.0;0.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Golden State Warriors;Tomas Satoransky;1;0;21.0;9.0;0.0;1.0;1.0;4.0;2.0;0.0;0.0;0.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Golden State Warriors;Tony Snell;1;0;25.0;8.0;0.0;1.0;1.0;2.0;2.0;0.0;0.0;3.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Golden State Warriors;Nickeil Alexander-Walker;2;1;22.5;7.5;0.0;0.5;0.5;2.0;0.0;0.0;1.5;1.5;1.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Golden State Warriors;Larry Nance Jr.;1;0;20.0;7.0;1.0;2.0;3.0;0.0;1.0;0.0;1.0;3.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Golden State Warriors;Jose Alvarado;3;0;13.0;5.7;0.7;1.7;2.3;0.7;0.7;0.0;0.3;1.0;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Golden State Warriors;Garrett Temple;3;1;23.0;5.3;0.7;2.0;2.7;1.7;0.0;0.0;1.3;2.0;1.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Golden State Warriors;Jaxson Hayes;2;1;14.0;5.0;1.5;0.5;2.0;0.0;0.5;1.0;1.0;1.5;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Golden State Warriors;Willy Hernangomez;2;1;11.5;4.0;1.5;4.0;5.5;1.5;0.5;0.0;1.0;2.0;1.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Golden State Warriors;Kira Lewis Jr.;1;0;18.0;2.0;0.0;1.0;1.0;2.0;1.0;0.0;4.0;2.0;0.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Golden State Warriors;CJ McCollum;1;1;6.0;0.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;0.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Golden State Warriors;Didi Louzada;1;0;6.0;0.0;2.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Golden State Warriors;Total;3;"";"";97.7;12.3;31.0;43.3;22.3;7.7;2.7;15.0;17.7;1.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. LA Clippers;Jonas Valanciunas;4;4;31.3;22.8;4.3;9.0;13.3;1.5;0.8;0.0;1.5;1.3;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. LA Clippers;Brandon Ingram;4;4;35.5;20.8;0.5;7.5;8.0;4.8;0.3;0.0;3.5;2.0;1.4
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. LA Clippers;CJ McCollum;1;1;37.0;19.0;1.0;2.0;3.0;4.0;2.0;0.0;2.0;0.0;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. LA Clippers;Josh Hart;3;3;34.0;11.7;1.0;8.0;9.0;5.3;1.7;0.0;1.7;3.7;3.2
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. LA Clippers;Herbert Jones;4;3;31.3;10.8;1.8;3.5;5.3;1.8;1.8;1.0;1.0;1.8;1.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. LA Clippers;Larry Nance Jr.;1;0;28.0;10.0;3.0;5.0;8.0;2.0;0.0;1.0;3.0;4.0;0.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. LA Clippers;Jaxson Hayes;3;1;16.0;9.7;3.3;1.7;5.0;1.0;0.3;1.0;0.0;1.7;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. LA Clippers;Willy Hernangomez;1;0;16.0;9.0;2.0;4.0;6.0;0.0;0.0;0.0;1.0;3.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. LA Clippers;Kira Lewis Jr.;2;0;17.5;9.0;1.0;1.0;2.0;3.5;1.5;0.0;0.5;0.5;7.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. LA Clippers;Devonte' Graham;3;2;27.0;7.7;0.3;2.3;2.7;4.0;1.0;0.0;0.3;1.7;12.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. LA Clippers;Nickeil Alexander-Walker;3;1;24.0;7.0;0.3;2.0;2.3;0.7;0.3;0.3;0.7;0.7;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. LA Clippers;Naji Marshall;3;0;7.0;5.0;0.3;0.3;0.7;1.0;0.0;0.3;0.0;1.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. LA Clippers;Trey Murphy III;4;0;6.0;3.3;1.3;1.0;2.3;0.3;0.0;0.3;0.0;0.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. LA Clippers;Garrett Temple;3;0;12.3;3.0;0.0;0.3;0.3;0.3;1.0;0.0;0.3;0.7;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. LA Clippers;Jose Alvarado;2;0;11.0;3.0;0.5;3.5;4.0;3.0;1.5;0.0;0.0;1.5;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. LA Clippers;Tomas Satoransky;2;1;18.0;2.0;1.0;2.0;3.0;2.5;0.0;0.0;0.5;2.0;5.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. LA Clippers;Tony Snell;1;0;3.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. LA Clippers;Gary Clark;2;0;4.0;0.0;0.0;1.5;1.5;0.0;0.0;0.0;0.0;0.5;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. LA Clippers;Total;4;"";"";107.5;14.5;38.8;53.3;23.5;8.0;2.8;10.3;16.0;2.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Brandon Ingram;3;3;30.7;24.7;0.7;6.0;6.7;6.7;1.0;0.7;3.0;2.0;2.2
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Los Angeles Lakers;CJ McCollum;3;3;37.3;24.0;0.7;4.7;5.3;6.0;1.7;0.0;2.0;2.0;3.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Jonas Valanciunas;3;3;34.3;18.3;1.0;10.3;11.3;3.7;1.0;0.7;2.0;4.3;1.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Herbert Jones;3;3;35.0;13.0;1.0;2.0;3.0;2.0;3.3;0.3;0.7;3.0;3.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Tony Snell;1;0;22.0;9.0;2.0;4.0;6.0;0.0;1.0;0.0;0.0;5.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Jaxson Hayes;3;3;24.0;8.3;1.0;2.7;3.7;0.7;1.3;0.3;1.7;1.0;0.4
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Trey Murphy III;3;0;14.3;8.0;0.7;1.3;2.0;0.3;0.0;0.0;0.0;0.7;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Devonte' Graham;3;0;17.3;6.3;0.3;1.0;1.3;1.7;0.7;0.3;0.3;0.0;5.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Gary Clark;1;0;3.0;6.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Naji Marshall;3;0;18.0;4.7;2.3;2.3;4.7;1.3;1.0;0.3;0.3;1.7;4.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Larry Nance Jr.;1;0;16.0;4.0;1.0;0.0;1.0;1.0;1.0;0.0;0.0;1.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Jose Alvarado;3;0;13.0;3.3;0.3;1.3;1.7;2.7;0.3;0.0;1.3;0.7;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Willy Hernangomez;2;0;3.5;1.0;0.5;0.5;1.0;0.5;0.5;0.0;0.5;0.5;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Total;3;"";"";117.7;9.3;33.7;43.0;25.7;11.3;2.7;11.7;17.7;2.2
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Phoenix Suns;CJ McCollum;2;2;33.5;26.5;0.5;5.0;5.5;6.5;1.0;0.0;3.5;1.5;1.9
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Phoenix Suns;Brandon Ingram;2;2;33.5;22.0;0.5;5.0;5.5;6.0;0.5;0.0;3.0;2.5;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Phoenix Suns;Jonas Valanciunas;4;4;33.5;20.8;3.3;11.5;14.8;1.8;0.8;0.8;3.3;2.3;0.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Phoenix Suns;Josh Hart;2;2;33.5;15.5;3.0;7.0;10.0;4.0;0.0;0.5;1.5;4.0;2.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Phoenix Suns;Devonte' Graham;4;3;31.0;15.3;1.0;1.5;2.5;5.3;1.0;0.3;1.5;1.0;3.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Phoenix Suns;Herbert Jones;4;4;29.5;10.3;2.3;1.8;4.0;1.8;2.0;0.8;0.8;2.8;2.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Phoenix Suns;Tony Snell;1;0;25.0;9.0;1.0;6.0;7.0;1.0;0.0;0.0;0.0;2.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Phoenix Suns;Jaxson Hayes;4;2;18.0;9.0;2.0;2.3;4.3;0.5;0.5;0.8;0.8;1.8;0.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Phoenix Suns;Nickeil Alexander-Walker;2;1;22.5;7.5;0.0;1.0;1.0;2.5;1.5;0.0;0.5;1.5;5.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Phoenix Suns;Willy Hernangomez;2;0;9.5;6.5;2.0;1.5;3.5;0.0;0.0;0.5;1.0;1.5;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Phoenix Suns;Trey Murphy III;3;0;16.7;6.3;0.7;2.7;3.3;0.3;0.7;0.3;0.3;1.0;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Phoenix Suns;Garrett Temple;2;0;21.0;5.5;1.5;1.5;3.0;1.5;2.0;1.0;1.5;0.0;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Phoenix Suns;Naji Marshall;3;0;16.7;4.0;0.7;1.3;2.0;2.0;2.3;0.3;1.0;2.3;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Phoenix Suns;Kira Lewis Jr.;1;0;14.0;4.0;0.0;0.0;0.0;2.0;0.0;0.0;2.0;2.0;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Phoenix Suns;Tyrone Wallace;1;0;16.0;3.0;0.0;2.0;2.0;0.0;0.0;1.0;0.0;3.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Phoenix Suns;Jose Alvarado;3;0;13.7;2.3;0.7;0.0;0.7;3.0;1.3;0.0;1.0;1.3;3.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Phoenix Suns;Gary Clark;2;0;4.5;0.0;1.0;0.5;1.5;1.0;0.5;0.0;0.0;0.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Phoenix Suns;Total;4;"";"";110.5;14.5;32.8;47.3;24.8;10.3;4.3;14.0;18.5;1.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Sacramento Kings;Brandon Ingram;3;3;33.7;24.0;0.3;5.7;6.0;6.7;0.0;0.0;2.3;2.3;2.9
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Sacramento Kings;CJ McCollum;2;2;32.5;20.0;1.0;4.0;5.0;7.0;2.5;0.0;2.0;2.5;3.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Sacramento Kings;Jonas Valanciunas;3;3;31.0;18.3;2.0;10.7;12.7;1.7;0.7;1.0;3.0;4.0;0.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Sacramento Kings;Nickeil Alexander-Walker;2;2;30.5;13.5;0.5;3.5;4.0;3.0;1.0;1.0;1.5;2.5;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Sacramento Kings;Devonte' Graham;4;2;25.8;12.3;0.5;1.0;1.5;3.5;0.8;0.0;1.0;1.3;3.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Sacramento Kings;Garrett Temple;1;1;34.0;12.0;3.0;5.0;8.0;2.0;0.0;2.0;1.0;1.0;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Sacramento Kings;Herbert Jones;3;3;29.7;11.3;0.7;1.7;2.3;0.3;2.7;1.0;1.3;3.0;0.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Sacramento Kings;Jaxson Hayes;4;2;18.8;11.3;2.0;4.3;6.3;1.3;0.3;0.8;0.5;2.0;2.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Sacramento Kings;Larry Nance Jr.;1;0;22.0;10.0;1.0;3.0;4.0;3.0;1.0;1.0;4.0;1.0;0.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Sacramento Kings;Kira Lewis Jr.;2;0;16.0;8.0;0.0;4.0;4.0;0.5;0.0;0.0;1.5;1.5;0.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Sacramento Kings;Josh Hart;2;1;27.0;7.5;1.0;3.0;4.0;2.5;0.5;0.5;1.0;1.0;2.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Sacramento Kings;Willy Hernangomez;3;1;12.0;6.7;3.0;1.7;4.7;1.3;0.0;0.3;0.3;2.0;4.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Sacramento Kings;Naji Marshall;4;0;15.5;6.5;1.3;2.3;3.5;1.0;0.3;0.0;0.8;1.8;1.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Sacramento Kings;Tomas Satoransky;1;0;13.0;5.0;0.0;0.0;0.0;2.0;0.0;0.0;2.0;1.0;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Sacramento Kings;Trey Murphy III;4;0;14.5;5.0;0.0;1.8;1.8;1.3;0.3;0.0;0.5;0.8;2.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Sacramento Kings;Tony Snell;1;0;23.0;4.0;0.0;2.0;2.0;1.0;1.0;0.0;0.0;4.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Sacramento Kings;Jose Alvarado;3;0;10.3;2.0;0.0;1.0;1.0;1.7;0.7;0.0;1.0;0.7;1.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Sacramento Kings;Gary Clark;1;0;3.0;0.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Sacramento Kings;Alize Johnson;1;0;3.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Sacramento Kings;Didi Louzada;1;0;1.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Sacramento Kings;Total;4;"";"";114.0;10.5;35.3;45.8;24.5;7.0;4.0;13.5;20.3;1.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Dallas Mavericks;CJ McCollum;1;1;40.0;38.0;2.0;0.0;2.0;5.0;2.0;0.0;4.0;2.0;1.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Dallas Mavericks;Josh Hart;1;1;37.0;22.0;1.0;5.0;6.0;5.0;1.0;0.0;3.0;3.0;1.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Dallas Mavericks;Brandon Ingram;3;3;34.7;21.7;1.0;4.0;5.0;7.7;1.0;0.0;1.7;1.0;4.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Dallas Mavericks;Jonas Valanciunas;4;4;29.3;14.5;2.0;9.3;11.3;2.8;1.0;0.0;2.0;3.5;1.4
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Dallas Mavericks;Nickeil Alexander-Walker;3;1;31.0;13.0;0.0;2.0;2.0;3.3;0.7;0.0;2.0;0.7;1.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Dallas Mavericks;Devonte' Graham;4;3;29.8;11.5;0.3;2.0;2.3;4.3;1.0;0.0;1.3;1.0;3.4
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Dallas Mavericks;Tony Snell;1;0;29.0;11.0;1.0;3.0;4.0;1.0;1.0;0.0;1.0;1.0;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Dallas Mavericks;Jaxson Hayes;3;1;15.7;10.0;2.0;1.0;3.0;0.0;0.0;0.0;0.7;3.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Dallas Mavericks;Herbert Jones;3;3;31.7;8.3;2.0;2.0;4.0;2.7;0.7;0.7;1.7;3.3;1.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Dallas Mavericks;Willy Hernangomez;2;0;17.5;8.0;5.5;4.5;10.0;2.5;0.0;0.5;0.5;2.5;5.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Dallas Mavericks;Jose Alvarado;1;0;5.0;7.0;1.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Dallas Mavericks;Garrett Temple;4;3;24.3;6.5;1.0;3.8;4.8;1.5;1.8;0.5;0.5;2.5;3.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Dallas Mavericks;Kira Lewis Jr.;3;0;11.0;5.3;1.3;0.0;1.3;0.7;0.0;0.3;0.0;0.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Dallas Mavericks;Trey Murphy III;3;0;12.7;4.7;0.3;1.0;1.3;0.7;0.0;0.0;0.3;2.3;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Dallas Mavericks;Tomas Satoransky;3;0;16.0;3.0;1.3;2.7;4.0;1.3;0.3;0.0;0.3;0.7;4.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Dallas Mavericks;Naji Marshall;3;0;7.0;0.7;0.7;1.3;2.0;0.3;0.3;0.0;1.7;0.0;0.2
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Dallas Mavericks;Gary Clark;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Dallas Mavericks;Total;4;"";"";106.0;13.8;29.8;43.5;25.3;7.3;1.5;12.3;18.0;2.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Houston Rockets;Brandon Ingram;3;3;36.0;33.0;0.3;3.0;3.3;6.0;1.3;1.7;3.0;3.3;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Houston Rockets;Jonas Valanciunas;4;4;27.5;20.0;2.5;5.8;8.3;3.0;0.8;1.5;2.3;4.8;1.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Houston Rockets;Jaxson Hayes;3;2;30.0;18.7;0.7;6.0;6.7;1.0;1.7;1.3;1.0;3.7;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Houston Rockets;Josh Hart;1;1;36.0;13.0;1.0;6.0;7.0;4.0;3.0;0.0;0.0;2.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Houston Rockets;Jose Alvarado;3;0;21.7;12.3;0.0;2.0;2.0;5.7;2.7;0.0;1.3;2.0;4.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Houston Rockets;Willy Hernangomez;2;0;16.5;11.0;5.5;4.0;9.5;2.5;1.5;0.5;0.5;1.5;5.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Houston Rockets;Naji Marshall;3;1;19.0;10.3;1.0;3.3;4.3;1.3;1.3;0.3;1.0;1.7;1.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Houston Rockets;Nickeil Alexander-Walker;2;0;23.0;9.5;0.0;1.5;1.5;2.5;0.5;0.5;1.0;2.5;2.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Houston Rockets;Devonte' Graham;4;4;30.5;8.5;0.3;1.8;2.0;5.5;1.0;0.0;0.3;1.5;22.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Houston Rockets;Kira Lewis Jr.;1;0;11.0;8.0;1.0;1.0;2.0;2.0;0.0;0.0;0.0;0.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Houston Rockets;Herbert Jones;4;4;28.5;7.8;1.8;2.5;4.3;2.0;1.5;0.8;3.0;4.5;0.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Houston Rockets;Tyrone Wallace;1;0;20.0;7.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;1.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Houston Rockets;Trey Murphy III;4;0;15.0;4.8;1.3;2.0;3.3;0.5;0.5;0.3;0.0;1.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Houston Rockets;Tomas Satoransky;1;0;12.0;4.0;1.0;2.0;3.0;0.0;0.0;0.0;1.0;0.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Houston Rockets;Garrett Temple;2;1;20.5;2.5;1.0;2.0;3.0;0.5;1.0;1.0;0.5;2.5;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Houston Rockets;Gary Clark;2;0;15.0;1.5;1.5;2.5;4.0;1.0;1.0;1.0;0.0;1.5;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Houston Rockets;Alize Johnson;1;0;4.0;0.0;1.0;0.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Houston Rockets;Total;4;"";"";117.0;12.3;30.5;42.8;26.3;12.0;6.5;11.5;24.5;2.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Memphis Grizzlies;CJ McCollum;3;3;33.0;26.0;0.3;4.0;4.3;7.3;1.0;0.0;1.3;1.7;5.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Nickeil Alexander-Walker;1;1;26.0;21.0;0.0;3.0;3.0;1.0;2.0;0.0;0.0;0.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Brandon Ingram;2;2;31.5;18.5;0.5;3.0;3.5;4.0;0.0;0.5;3.5;4.0;1.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Willy Hernangomez;3;0;26.3;14.7;3.3;4.7;8.0;1.7;0.7;0.0;1.3;2.7;1.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Jonas Valanciunas;4;4;21.8;13.0;0.5;3.5;4.0;1.3;0.3;1.0;2.5;3.8;0.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Jared Harper;1;0;7.0;12.0;0.0;0.0;0.0;2.0;3.0;0.0;1.0;0.0;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Naji Marshall;2;0;21.5;10.5;0.0;2.0;2.0;0.5;0.5;0.5;1.5;1.0;0.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Devonte' Graham;4;3;23.8;10.0;0.3;1.8;2.0;4.0;0.5;0.0;2.5;0.8;1.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Herbert Jones;4;3;25.3;9.8;2.0;1.8;3.8;0.5;1.0;0.5;0.5;3.0;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Trey Murphy III;2;0;13.0;8.0;1.0;1.0;2.0;0.0;0.0;0.0;0.5;1.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Jaxson Hayes;4;2;20.8;7.8;1.8;2.0;3.8;1.0;0.3;1.0;0.8;2.8;1.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Jose Alvarado;3;0;17.0;5.7;0.3;1.3;1.7;3.3;1.7;0.7;1.0;1.0;3.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Tomas Satoransky;1;0;18.0;5.0;2.0;2.0;4.0;5.0;0.0;0.0;0.0;1.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Tony Snell;3;1;15.3;5.0;0.0;0.3;0.3;0.3;0.3;0.7;1.0;1.0;0.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Josh Hart;1;1;33.0;5.0;0.0;3.0;3.0;11.0;1.0;0.0;0.0;4.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Alize Johnson;1;0;17.0;4.0;3.0;4.0;7.0;0.0;1.0;0.0;1.0;2.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Garrett Temple;3;0;13.3;2.3;0.0;1.3;1.3;0.7;0.3;0.3;0.7;1.3;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Larry Nance Jr.;1;0;19.0;2.0;1.0;2.0;3.0;0.0;2.0;0.0;1.0;2.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Gary Clark;3;0;9.7;0.0;0.3;2.7;3.0;0.3;0.3;0.0;1.0;0.0;0.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Total;4;"";"";111.5;10.0;26.3;36.3;24.0;7.8;4.3;14.5;21.3;1.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. San Antonio Spurs;CJ McCollum;3;3;33.3;29.3;1.3;5.7;7.0;4.3;1.3;0.3;2.3;1.7;1.9
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. San Antonio Spurs;Brandon Ingram;2;2;37.0;24.5;0.5;4.0;4.5;5.5;0.5;0.0;2.0;3.0;2.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. San Antonio Spurs;Jonas Valanciunas;4;4;28.8;17.0;3.3;8.5;11.8;3.5;0.0;0.8;2.3;3.3;1.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. San Antonio Spurs;Nickeil Alexander-Walker;1;0;31.0;15.0;1.0;1.0;2.0;0.0;2.0;0.0;3.0;4.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. San Antonio Spurs;Josh Hart;1;1;33.0;13.0;1.0;9.0;10.0;4.0;0.0;0.0;1.0;1.0;4.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. San Antonio Spurs;Jose Alvarado;3;0;23.0;12.3;0.7;4.7;5.3;4.3;1.3;0.3;0.7;0.7;6.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. San Antonio Spurs;Naji Marshall;3;0;15.3;9.7;0.3;2.3;2.7;0.3;0.7;0.0;0.3;0.7;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. San Antonio Spurs;Jaxson Hayes;3;2;26.0;8.3;2.0;3.0;5.0;0.7;0.3;2.0;0.7;2.3;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. San Antonio Spurs;Herbert Jones;4;4;30.0;8.0;0.3;3.5;3.8;1.8;1.8;0.8;2.0;1.8;0.9
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. San Antonio Spurs;Willy Hernangomez;4;0;17.3;7.0;2.5;4.0;6.5;1.5;0.0;0.8;1.3;3.0;1.2
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. San Antonio Spurs;Devonte' Graham;4;4;25.3;5.8;0.8;0.3;1.0;2.8;0.8;0.3;0.5;2.0;5.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. San Antonio Spurs;Gary Clark;2;0;7.5;4.5;0.5;1.0;1.5;0.5;0.0;0.5;0.0;0.5;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. San Antonio Spurs;Larry Nance Jr.;1;0;19.0;4.0;2.0;5.0;7.0;1.0;0.0;3.0;0.0;2.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. San Antonio Spurs;Trey Murphy III;3;0;11.7;4.0;0.0;1.0;1.0;1.7;0.3;0.0;0.0;1.3;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. San Antonio Spurs;Tyrone Wallace;1;0;18.0;3.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. San Antonio Spurs;Garrett Temple;2;0;11.0;1.5;0.0;0.5;0.5;0.0;0.0;0.5;0.5;0.5;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. San Antonio Spurs;Tomas Satoransky;1;0;17.0;0.0;0.0;0.0;0.0;3.0;1.0;0.0;0.0;0.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;vs. San Antonio Spurs;Total;4;"";"";109.5;11.5;35.5;47.0;23.3;6.8;5.8;11.5;19.0;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;October;Brandon Ingram;6;6;37.0;25.0;1.0;6.3;7.3;4.8;0.3;0.5;3.5;2.8;1.4
+New Orleans Pelicans;no;2021 - 2022 Regular Season;October;Jonas Valanciunas;7;7;34.1;19.4;4.7;9.9;14.6;2.7;0.9;1.1;1.7;3.6;1.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;October;Devonte' Graham;7;7;32.9;17.9;0.6;2.9;3.4;5.1;1.4;0.1;2.0;1.4;2.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;October;Nickeil Alexander-Walker;7;7;31.7;14.1;1.9;4.1;6.0;2.6;1.3;0.9;1.4;1.3;1.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;October;Josh Hart;3;2;21.0;9.0;1.0;4.0;5.0;2.0;0.3;0.3;0.7;2.0;3.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;October;Jaxson Hayes;7;0;13.4;6.1;1.4;2.4;3.9;0.1;0.4;1.0;0.9;1.6;0.2
+New Orleans Pelicans;no;2021 - 2022 Regular Season;October;Trey Murphy III;7;0;21.4;5.9;0.3;1.9;2.1;0.7;0.3;0.1;0.9;2.1;0.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;October;Herbert Jones;7;6;25.1;5.7;1.0;1.3;2.3;1.7;1.1;0.6;1.6;3.3;1.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;October;Kira Lewis Jr.;7;0;13.7;4.6;0.3;2.1;2.4;2.7;0.1;0.0;1.3;1.0;2.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;October;Garrett Temple;5;0;13.0;3.8;0.8;1.6;2.4;0.4;0.4;0.6;0.4;1.2;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;October;Naji Marshall;7;0;13.1;2.1;0.7;3.1;3.9;1.6;0.4;0.3;1.1;1.7;1.4
+New Orleans Pelicans;no;2021 - 2022 Regular Season;October;Tomas Satoransky;3;0;10.7;1.0;0.0;0.7;0.7;0.7;0.3;0.0;1.0;0.7;0.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;October;Willy Hernangomez;1;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;October;Total;7;"";"";104.3;12.7;36.3;49.0;22.9;6.9;5.1;14.9;20.4;1.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;November;Jonas Valanciunas;16;16;30.4;19.3;2.9;8.6;11.5;2.3;0.4;0.8;2.2;2.9;1.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;November;Brandon Ingram;10;10;33.0;19.2;0.8;5.1;5.9;4.1;0.2;0.3;3.3;1.7;1.2
+New Orleans Pelicans;no;2021 - 2022 Regular Season;November;Nickeil Alexander-Walker;16;11;27.8;13.9;0.9;2.6;3.4;2.6;0.9;0.3;1.4;2.0;1.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;November;Devonte' Graham;13;13;29.8;11.9;0.7;1.2;1.8;4.3;1.2;0.2;1.8;1.7;2.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;November;Josh Hart;16;16;31.8;11.4;1.0;5.5;6.5;4.2;1.1;0.4;1.5;2.9;2.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;November;Willy Hernangomez;8;0;14.6;9.8;1.5;4.6;6.1;1.9;0.5;0.3;1.4;2.1;1.4
+New Orleans Pelicans;no;2021 - 2022 Regular Season;November;Herbert Jones;13;5;26.7;6.7;1.4;2.5;3.8;1.6;1.8;0.7;0.9;2.8;1.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;November;Kira Lewis Jr.;13;0;15.3;6.2;0.2;1.1;1.3;1.8;0.7;0.0;1.2;0.8;1.4
+New Orleans Pelicans;no;2021 - 2022 Regular Season;November;Garrett Temple;16;6;19.8;6.1;0.6;1.9;2.4;1.3;1.0;0.5;1.1;1.7;1.2
+New Orleans Pelicans;no;2021 - 2022 Regular Season;November;Jaxson Hayes;11;0;11.9;6.1;1.3;1.9;3.2;0.4;0.2;0.5;0.5;1.6;0.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;November;Naji Marshall;9;0;11.9;5.4;0.9;1.9;2.8;0.9;0.4;0.1;0.8;0.9;1.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;November;Trey Murphy III;15;0;11.9;4.3;0.8;1.6;2.4;0.5;0.3;0.2;0.3;0.6;1.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;November;Tomas Satoransky;15;3;16.5;2.9;0.6;1.5;2.1;2.6;0.3;0.0;0.7;1.5;3.9
+New Orleans Pelicans;no;2021 - 2022 Regular Season;November;Jose Alvarado;6;0;5.3;1.2;0.2;0.5;0.7;1.3;0.3;0.0;0.0;0.5;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;November;Didi Louzada;2;0;3.5;0.0;1.0;0.0;1.0;0.5;0.0;0.0;0.0;0.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;November;Total;16;"";"";102.2;11.4;33.3;44.7;24.3;7.8;3.5;13.8;19.8;1.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;December;Brandon Ingram;11;11;35.0;25.2;0.5;5.1;5.6;5.5;1.2;0.3;2.0;1.5;2.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;December;Jonas Valanciunas;10;10;31.5;16.6;3.8;7.1;10.9;2.3;0.6;1.2;3.0;3.2;0.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;December;Josh Hart;8;8;37.5;16.5;1.5;7.6;9.1;5.5;1.1;0.3;3.1;2.8;1.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;December;Devonte' Graham;12;12;32.1;14.0;0.2;2.8;3.0;4.8;0.9;0.1;1.1;1.1;4.4
+New Orleans Pelicans;no;2021 - 2022 Regular Season;December;Nickeil Alexander-Walker;9;0;26.2;13.6;0.6;2.1;2.7;3.0;0.9;0.1;1.9;2.0;1.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;December;Herbert Jones;12;12;30.9;10.8;1.2;3.1;4.3;2.0;0.8;1.5;0.9;3.4;2.2
+New Orleans Pelicans;no;2021 - 2022 Regular Season;December;Willy Hernangomez;12;2;16.8;7.3;3.1;4.8;7.8;1.0;0.3;0.3;0.6;1.8;1.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;December;Kira Lewis Jr.;4;0;11.8;7.3;1.0;0.3;1.3;1.8;0.3;0.3;0.3;0.0;7.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;December;Garrett Temple;12;4;21.3;7.0;0.7;2.9;3.6;1.2;0.8;0.5;0.9;1.8;1.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;December;Jaxson Hayes;5;0;13.6;5.2;0.8;3.0;3.8;0.6;0.4;0.2;1.0;2.8;0.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;December;Jared Harper;2;0;5.0;3.5;0.5;0.0;0.5;1.5;0.0;0.5;0.5;1.0;3.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;December;Jose Alvarado;2;0;4.0;3.5;0.5;0.0;0.5;0.5;1.0;0.0;0.5;0.0;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;December;Gary Clark;4;1;12.0;3.3;0.0;1.8;1.8;0.5;0.3;0.3;0.0;0.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;December;Tomas Satoransky;12;0;14.0;3.1;0.8;1.4;2.2;2.0;0.4;0.1;0.8;0.4;2.4
+New Orleans Pelicans;no;2021 - 2022 Regular Season;December;Trey Murphy III;11;0;11.2;2.4;0.6;1.3;1.9;0.7;0.3;0.0;0.0;0.9;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;December;Naji Marshall;3;0;3.7;0.7;0.3;0.3;0.7;0.3;0.3;0.0;1.3;0.0;0.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;December;Total;12;"";"";109.3;12.4;35.4;47.8;25.9;7.0;4.3;13.2;18.2;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;January;Brandon Ingram;9;9;33.4;21.0;0.9;5.1;6.0;6.3;0.6;0.3;2.1;2.3;3.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;January;Jonas Valanciunas;11;11;31.7;17.6;3.1;8.7;11.8;2.9;0.3;0.7;2.8;3.3;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;January;Josh Hart;13;13;35.8;14.8;1.6;7.5;9.2;3.6;1.2;0.2;2.3;3.2;1.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;January;Devonte' Graham;14;14;31.3;14.5;0.4;1.9;2.4;4.1;0.6;0.2;1.6;1.4;2.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;January;Willy Hernangomez;6;4;22.2;13.5;4.7;4.0;8.7;1.5;0.3;0.7;1.7;1.8;0.9
+New Orleans Pelicans;no;2021 - 2022 Regular Season;January;Herbert Jones;15;15;33.9;12.1;1.3;2.8;4.1;2.7;2.0;0.9;1.0;2.7;2.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;January;Nickeil Alexander-Walker;15;1;23.8;10.9;0.2;2.2;2.4;3.1;0.4;0.3;1.7;1.6;1.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;January;Jaxson Hayes;15;1;18.1;10.3;1.5;2.2;3.7;0.4;0.4;0.9;0.9;2.7;0.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;January;Jose Alvarado;15;1;14.9;5.3;0.5;1.3;1.7;2.1;1.5;0.2;0.2;1.7;10.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;January;Garrett Temple;15;6;21.4;5.1;0.4;2.1;2.5;1.8;0.7;0.1;0.5;1.3;3.4
+New Orleans Pelicans;no;2021 - 2022 Regular Season;January;Naji Marshall;7;0;7.9;3.4;0.0;0.9;0.9;0.3;0.3;0.0;0.3;0.9;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;January;Gary Clark;14;0;9.6;2.7;0.6;1.6;2.3;0.3;0.3;0.1;0.4;0.6;0.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;January;Tomas Satoransky;2;0;16.5;2.5;0.0;2.0;2.0;5.5;1.5;0.0;0.0;1.5;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;January;Trey Murphy III;3;0;2.7;1.0;1.3;0.0;1.3;0.0;0.3;0.3;0.3;0.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;January;Total;15;"";"";105.7;11.2;32.1;43.3;24.7;7.9;4.0;12.3;19.7;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;February;CJ McCollum;7;7;36.0;28.0;1.1;4.7;5.9;5.6;1.4;0.0;2.1;1.7;2.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;February;Brandon Ingram;11;11;33.8;21.1;0.4;3.9;4.3;6.2;0.8;0.9;2.5;2.5;2.4
+New Orleans Pelicans;no;2021 - 2022 Regular Season;February;Jonas Valanciunas;11;11;29.8;16.8;2.1;8.1;10.2;2.5;0.5;0.8;2.5;3.5;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;February;Josh Hart;1;1;36.0;13.0;1.0;6.0;7.0;4.0;3.0;0.0;0.0;2.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;February;Jaxson Hayes;11;6;25.7;12.4;2.0;3.7;5.7;0.9;0.6;0.9;0.7;2.8;1.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;February;Nickeil Alexander-Walker;3;0;19.0;11.0;0.3;2.0;2.3;2.0;1.3;1.0;3.0;1.7;0.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;February;Herbert Jones;11;11;30.8;10.1;1.8;2.8;4.6;2.3;1.5;0.5;2.2;3.5;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;February;Tony Snell;5;0;20.2;8.4;0.8;3.0;3.8;0.6;0.6;0.0;0.8;2.2;0.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;February;Devonte' Graham;11;8;26.8;7.7;0.5;1.8;2.4;3.8;0.7;0.1;1.2;1.5;3.2
+New Orleans Pelicans;no;2021 - 2022 Regular Season;February;Jose Alvarado;10;0;15.8;6.9;0.2;1.4;1.6;2.9;0.7;0.2;1.6;1.6;1.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;February;Willy Hernangomez;6;0;10.7;5.7;1.3;2.3;3.7;0.7;0.5;0.3;0.3;1.5;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;February;Naji Marshall;8;0;9.5;5.0;0.6;1.0;1.6;0.6;0.9;0.3;0.6;0.9;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;February;Trey Murphy III;7;0;9.3;4.0;0.4;1.4;1.9;0.1;0.1;0.1;0.1;0.7;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;February;Gary Clark;11;0;10.7;2.7;0.6;2.4;3.0;0.5;0.5;0.4;0.1;0.6;5.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;February;Garrett Temple;7;0;13.9;2.6;0.3;0.9;1.1;1.0;0.3;0.6;0.3;0.7;3.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;February;Total;11;"";"";113.8;10.5;32.9;43.5;25.1;8.4;4.8;14.2;21.0;1.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;March;Brandon Ingram;5;5;31.0;29.0;0.6;5.6;6.2;6.4;0.4;0.4;3.0;2.2;2.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;March;CJ McCollum;13;13;34.9;24.8;0.5;3.7;4.2;6.8;0.9;0.1;2.3;1.8;2.9
+New Orleans Pelicans;no;2021 - 2022 Regular Season;March;Jonas Valanciunas;15;15;28.9;18.5;2.9;8.8;11.7;2.8;0.9;0.7;2.4;3.5;1.2
+New Orleans Pelicans;no;2021 - 2022 Regular Season;March;Jaxson Hayes;15;15;27.2;10.5;1.9;3.6;5.5;0.9;0.5;1.1;0.9;2.1;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;March;Herbert Jones;15;15;30.1;9.8;0.7;2.5;3.3;2.5;2.3;0.4;1.6;3.2;1.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;March;Willy Hernangomez;13;0;16.9;9.3;2.8;3.1;5.8;1.0;0.5;0.5;1.3;2.0;0.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;March;Devonte' Graham;14;7;24.2;9.3;0.7;1.6;2.3;3.9;1.0;0.2;1.0;0.9;3.9
+New Orleans Pelicans;no;2021 - 2022 Regular Season;March;Naji Marshall;15;3;19.5;9.3;1.0;2.7;3.7;1.6;0.9;0.1;0.8;1.7;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;March;Trey Murphy III;13;0;17.7;8.8;1.0;2.0;3.0;1.2;0.6;0.1;0.1;1.4;15.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;March;Jose Alvarado;15;0;20.9;8.7;0.8;2.0;2.8;4.1;2.0;0.1;1.0;1.7;4.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;March;Larry Nance Jr.;3;0;19.3;7.0;1.0;4.0;5.0;0.3;0.0;1.7;0.3;1.3;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;March;Garrett Temple;1;0;5.0;5.0;0.0;1.0;1.0;2.0;1.0;0.0;0.0;0.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;March;Tony Snell;6;2;21.5;4.0;0.0;1.5;1.5;0.3;0.5;0.3;0.5;1.7;0.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;March;Tyrone Wallace;6;0;12.5;2.8;0.0;1.3;1.3;0.2;0.5;0.2;0.3;1.2;0.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;March;Alize Johnson;4;0;7.0;2.3;1.8;1.5;3.3;0.3;0.5;0.0;0.3;0.8;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;March;Gary Clark;5;0;6.2;0.6;0.2;1.4;1.6;0.6;0.2;0.0;0.2;0.6;3.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;March;Total;15;"";"";117.5;12.7;33.5;46.1;26.1;10.1;3.8;12.4;20.1;2.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;April;Brandon Ingram;3;3;34.7;20.3;0.0;7.7;7.7;6.3;0.3;0.7;4.3;2.7;1.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;April;CJ McCollum;6;6;28.8;18.8;0.7;2.7;3.3;4.2;2.0;0.0;2.0;1.5;2.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;April;Willy Hernangomez;4;2;26.3;13.0;5.5;5.8;11.3;2.5;0.5;0.3;1.0;3.0;2.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;April;Jonas Valanciunas;4;4;22.0;11.8;1.8;5.8;7.5;2.3;0.0;0.3;1.8;3.8;1.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;April;Jaxson Hayes;6;6;23.5;11.7;2.3;3.2;5.5;0.8;1.0;0.3;0.5;1.5;1.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;April;Jared Harper;3;0;10.7;10.0;0.3;0.0;0.3;3.7;1.3;0.0;0.3;1.0;11.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;April;Trey Murphy III;6;1;18.3;9.3;1.0;2.2;3.2;0.3;0.5;0.0;0.5;0.5;0.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;April;Herbert Jones;5;5;28.8;9.2;1.8;1.8;3.6;1.4;1.6;1.0;0.6;2.2;2.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;April;Larry Nance Jr.;6;0;20.5;7.5;1.8;2.2;4.0;1.2;0.8;0.3;1.5;2.2;0.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;April;Naji Marshall;6;1;17.2;7.3;0.7;1.5;2.2;1.8;0.3;0.3;1.3;1.8;1.4
+New Orleans Pelicans;no;2021 - 2022 Regular Season;April;Devonte' Graham;5;2;17.6;7.2;0.0;0.4;0.4;2.8;0.8;0.0;1.0;0.6;2.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;April;Jose Alvarado;6;0;16.3;6.2;0.3;1.5;1.8;3.5;1.3;0.0;0.8;0.5;4.2
+New Orleans Pelicans;no;2021 - 2022 Regular Season;April;Tony Snell;4;0;11.8;5.5;0.3;0.5;0.8;0.8;0.5;0.0;0.3;1.3;3.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;April;Gary Clark;4;0;11.8;4.3;1.5;1.0;2.5;1.0;0.5;0.0;0.8;0.3;1.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;April;Garrett Temple;3;0;13.0;3.0;0.0;1.0;1.0;0.3;0.3;0.0;0.7;0.3;0.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;April;Total;6;"";"";114.2;14.5;28.0;42.5;24.8;10.0;2.5;13.2;17.8;1.9
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Atlantic Division;CJ McCollum;1;1;32.0;23.0;0.0;4.0;4.0;5.0;2.0;0.0;0.0;2.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Atlantic Division;Jonas Valanciunas;8;8;31.4;18.4;2.8;8.9;11.6;2.9;0.3;0.9;2.1;3.3;1.4
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Atlantic Division;Brandon Ingram;6;6;32.8;18.2;0.8;6.2;7.0;6.3;0.5;0.7;2.0;1.8;3.2
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Atlantic Division;Willy Hernangomez;3;2;22.3;15.0;3.0;3.0;6.0;1.0;0.0;0.7;2.0;2.7;0.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Atlantic Division;Nickeil Alexander-Walker;9;4;25.8;13.6;0.7;2.4;3.1;3.0;0.2;0.3;1.1;2.3;2.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Atlantic Division;Josh Hart;7;7;31.6;12.6;1.1;7.0;8.1;2.9;1.1;0.1;1.4;2.3;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Atlantic Division;Devonte' Graham;9;9;29.7;12.3;0.4;1.6;2.0;4.4;1.1;0.3;2.1;1.3;2.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Atlantic Division;Herbert Jones;10;8;30.0;11.0;0.6;2.3;2.9;2.7;1.2;0.4;1.1;3.2;2.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Atlantic Division;Jose Alvarado;7;1;18.9;9.4;0.4;1.1;1.6;3.0;2.1;0.6;0.7;1.4;4.2
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Atlantic Division;Tony Snell;1;0;14.0;8.0;0.0;2.0;2.0;1.0;0.0;0.0;1.0;3.0;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Atlantic Division;Jaxson Hayes;10;0;17.9;7.5;1.5;1.8;3.3;0.6;0.4;0.8;0.9;2.1;0.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Atlantic Division;Kira Lewis Jr.;3;0;12.7;6.3;0.3;2.0;2.3;3.0;0.3;0.0;1.0;0.7;3.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Atlantic Division;Garrett Temple;9;4;23.1;5.9;0.1;2.6;2.7;2.3;0.4;0.3;0.6;1.6;4.2
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Atlantic Division;Trey Murphy III;5;0;12.2;4.2;0.8;0.8;1.6;0.8;0.4;0.2;0.2;1.4;4.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Atlantic Division;Naji Marshall;7;0;10.7;4.1;0.0;1.4;1.4;0.4;0.3;0.3;0.7;1.4;0.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Atlantic Division;Gary Clark;6;0;11.0;3.2;0.7;1.7;2.3;0.7;0.0;0.0;0.7;1.0;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Atlantic Division;Tomas Satoransky;4;0;14.8;1.3;0.0;1.0;1.0;3.3;0.5;0.0;0.5;1.3;6.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Atlantic Division;Total;10;"";"";105.0;8.8;31.4;40.2;26.5;6.9;4.2;0.0;20.6;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Central Division;CJ McCollum;1;1;33.0;25.0;1.0;2.0;3.0;6.0;1.0;0.0;2.0;0.0;3.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Central Division;Brandon Ingram;5;5;33.8;22.4;0.2;4.2;4.4;5.2;0.8;0.6;1.2;1.2;4.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Central Division;Devonte' Graham;9;9;31.0;18.8;0.3;3.0;3.3;4.6;0.8;0.1;1.4;1.1;3.2
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Central Division;Jonas Valanciunas;9;9;31.0;17.1;4.0;7.3;11.3;3.0;0.3;1.1;3.2;2.7;0.9
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Central Division;Josh Hart;6;6;34.2;13.0;2.0;8.2;10.2;4.5;1.2;0.3;3.0;3.2;1.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Central Division;Nickeil Alexander-Walker;8;2;26.1;12.0;1.0;1.9;2.9;3.3;1.5;0.6;2.8;1.6;1.2
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Central Division;Herbert Jones;10;9;29.3;10.0;0.8;3.7;4.5;3.0;1.2;1.3;1.4;3.1;2.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Central Division;Jaxson Hayes;9;3;21.4;9.8;1.2;4.2;5.4;0.6;0.4;0.8;0.7;2.4;0.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Central Division;Kira Lewis Jr.;2;0;19.0;9.5;0.5;2.0;2.5;1.5;0.0;0.0;1.5;0.5;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Central Division;Larry Nance Jr.;1;0;18.0;9.0;0.0;4.0;4.0;0.0;0.0;1.0;1.0;1.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Central Division;Jared Harper;1;0;8.0;7.0;1.0;0.0;1.0;3.0;0.0;1.0;1.0;1.0;3.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Central Division;Garrett Temple;9;3;19.1;6.8;0.7;2.1;2.8;1.2;0.6;0.2;0.9;1.1;1.4
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Central Division;Willy Hernangomez;8;1;13.3;6.1;2.3;3.5;5.8;0.6;0.1;0.0;0.5;1.0;1.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Central Division;Trey Murphy III;8;0;12.9;4.6;0.6;1.5;2.1;0.6;0.4;0.1;0.4;0.6;1.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Central Division;Jose Alvarado;7;0;13.9;4.6;0.4;0.9;1.3;2.4;1.0;0.0;0.4;0.9;5.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Central Division;Naji Marshall;5;0;8.6;4.2;0.8;2.4;3.2;0.8;0.4;0.0;0.6;1.4;1.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Central Division;Gary Clark;6;1;14.2;3.8;0.7;1.8;2.5;0.3;0.5;0.5;0.0;0.3;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Central Division;Tomas Satoransky;6;1;15.2;2.7;0.3;2.3;2.7;2.7;0.5;0.0;1.0;0.5;2.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Central Division;Tyrone Wallace;1;0;3.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Central Division;Total;10;"";"";109.6;12.4;36.6;49.0;25.4;7.4;4.9;0.0;16.9;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pacific Division;Brandon Ingram;13;13;33.5;23.5;0.6;6.5;7.1;5.9;0.4;0.2;2.9;2.2;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pacific Division;CJ McCollum;9;9;32.0;20.4;0.7;3.9;4.6;5.6;1.6;0.0;2.1;1.6;2.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pacific Division;Jonas Valanciunas;16;16;32.3;19.5;2.9;10.2;13.1;2.3;0.8;0.6;2.6;2.8;0.9
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pacific Division;Josh Hart;9;8;32.0;11.7;1.6;6.2;7.8;3.7;0.8;0.2;1.6;3.2;2.4
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pacific Division;Herbert Jones;15;14;31.6;11.3;1.5;2.5;3.9;1.5;2.5;0.7;0.9;2.5;1.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pacific Division;Devonte' Graham;16;9;26.1;10.7;0.6;1.4;2.0;3.5;0.8;0.2;1.1;1.0;3.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pacific Division;Jared Harper;1;0;20.0;10.0;1.0;0.0;1.0;9.0;1.0;0.0;0.0;3.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pacific Division;Jaxson Hayes;16;9;18.4;9.1;2.0;2.5;4.5;0.8;0.6;0.8;0.8;1.6;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pacific Division;Nickeil Alexander-Walker;9;5;24.8;8.7;0.2;1.8;2.0;1.9;0.7;0.3;1.0;1.4;1.9
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pacific Division;Larry Nance Jr.;4;0;21.8;7.8;1.5;2.5;4.0;1.5;0.8;0.5;2.0;2.3;0.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pacific Division;Kira Lewis Jr.;6;0;16.3;6.7;0.3;1.8;2.2;2.0;0.7;0.0;1.7;1.3;1.2
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pacific Division;Tony Snell;5;0;19.6;6.4;0.6;2.6;3.2;0.8;0.8;0.0;0.0;2.8;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pacific Division;Naji Marshall;15;1;16.0;6.3;1.2;1.7;2.9;1.5;0.8;0.2;0.8;1.7;1.9
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pacific Division;Trey Murphy III;16;1;13.8;6.1;0.6;1.8;2.4;0.6;0.3;0.3;0.3;0.6;2.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pacific Division;Garrett Temple;9;2;20.2;5.3;0.9;1.7;2.6;1.2;0.8;0.4;1.0;1.0;1.2
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pacific Division;Willy Hernangomez;10;2;10.0;5.2;1.9;2.1;4.0;0.8;0.2;0.2;0.7;1.7;1.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pacific Division;Tomas Satoransky;4;1;17.3;4.5;0.5;1.3;1.8;2.8;0.5;0.0;0.8;1.3;3.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pacific Division;Gary Clark;8;0;8.4;4.1;0.9;1.9;2.8;0.6;0.3;0.1;0.3;0.3;2.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pacific Division;Jose Alvarado;14;0;12.4;3.3;0.4;1.4;1.8;2.1;0.9;0.0;0.8;1.0;2.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pacific Division;Tyrone Wallace;1;0;16.0;3.0;0.0;2.0;2.0;0.0;0.0;1.0;0.0;3.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pacific Division;Alize Johnson;1;0;3.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pacific Division;Didi Louzada;2;0;3.5;0.0;1.0;0.0;1.0;0.5;0.0;0.0;0.0;0.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pacific Division;Total;18;"";"";109.7;12.4;34.5;46.9;24.2;8.8;3.3;0.0;18.1;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southeast Division;CJ McCollum;4;4;37.3;24.8;0.3;3.5;3.8;6.8;0.8;0.0;3.0;2.3;2.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southeast Division;Brandon Ingram;6;6;35.0;23.7;0.8;4.3;5.2;3.5;0.3;0.5;2.5;2.2;1.4
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southeast Division;Jonas Valanciunas;9;9;31.1;19.1;3.3;8.3;11.7;2.9;0.7;0.9;2.0;3.2;1.4
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southeast Division;Josh Hart;4;4;36.5;17.3;1.3;6.5;7.8;4.5;1.5;0.0;1.8;2.3;2.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southeast Division;Devonte' Graham;9;8;29.8;13.6;0.7;2.3;3.0;4.1;1.2;0.0;1.8;1.9;2.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southeast Division;Nickeil Alexander-Walker;4;3;27.5;11.5;1.0;3.3;4.3;3.5;0.8;0.3;1.3;2.3;2.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southeast Division;Willy Hernangomez;6;1;19.0;9.5;3.5;4.7;8.2;1.2;1.2;0.5;1.3;2.2;0.9
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southeast Division;Jose Alvarado;6;0;18.7;8.5;1.0;1.7;2.7;2.5;0.7;0.0;1.2;2.3;2.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southeast Division;Herbert Jones;10;8;26.9;7.8;1.0;2.3;3.3;2.3;1.5;0.8;1.4;3.6;1.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southeast Division;Trey Murphy III;9;0;16.3;7.4;0.9;2.0;2.9;0.7;0.4;0.0;0.3;1.0;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southeast Division;Jaxson Hayes;9;4;22.3;7.3;1.4;3.6;5.0;0.6;0.1;0.4;0.8;2.3;0.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southeast Division;Naji Marshall;7;2;17.6;6.0;0.6;2.9;3.4;2.1;0.7;0.0;0.9;1.4;2.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southeast Division;Garrett Temple;6;0;15.2;5.2;0.3;0.5;0.8;0.8;0.3;0.5;0.7;0.8;1.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southeast Division;Tomas Satoransky;4;0;15.8;4.0;0.5;0.8;1.3;2.8;0.5;0.3;0.8;1.8;3.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southeast Division;Kira Lewis Jr.;2;0;14.5;4.0;0.0;1.5;1.5;2.0;0.5;0.0;1.0;1.0;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southeast Division;Tyrone Wallace;2;0;9.5;2.0;0.0;1.0;1.0;0.0;1.0;0.0;0.5;1.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southeast Division;Gary Clark;3;0;9.3;1.0;0.3;3.3;3.7;0.0;1.0;0.0;0.3;0.7;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southeast Division;Tony Snell;2;1;21.5;0.0;0.0;0.5;0.5;0.0;1.0;0.0;1.5;1.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southeast Division;Total;10;"";"";107.3;11.8;32.8;44.6;23.4;7.9;3.1;0.0;20.9;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southwest Division;CJ McCollum;7;7;34.0;29.1;1.0;4.1;5.1;5.7;1.3;0.1;2.1;1.7;2.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southwest Division;Brandon Ingram;10;10;34.9;25.0;0.6;3.5;4.1;6.0;0.8;0.6;2.5;2.7;2.4
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southwest Division;Jonas Valanciunas;16;16;26.8;16.1;2.1;6.8;8.8;2.6;0.5;0.8;2.3;3.8;1.2
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southwest Division;Nickeil Alexander-Walker;7;2;27.9;13.4;0.1;1.9;2.0;2.3;1.0;0.1;1.6;1.6;1.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southwest Division;Josh Hart;4;4;34.8;13.3;0.8;5.8;6.5;6.0;1.3;0.0;1.0;2.5;6.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southwest Division;Jared Harper;1;0;7.0;12.0;0.0;0.0;0.0;2.0;3.0;0.0;1.0;0.0;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southwest Division;Jaxson Hayes;13;7;22.9;10.9;1.6;2.9;4.5;0.7;0.5;1.1;0.8;2.9;0.9
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southwest Division;Willy Hernangomez;11;0;19.6;10.0;3.8;4.3;8.1;1.9;0.5;0.5;1.0;2.5;1.9
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southwest Division;Jose Alvarado;10;0;19.1;9.8;0.4;2.4;2.8;4.1;1.8;0.3;0.9;1.1;4.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southwest Division;Devonte' Graham;16;14;27.3;8.9;0.4;1.4;1.8;4.1;0.8;0.1;1.1;1.3;3.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southwest Division;Herbert Jones;15;14;28.7;8.5;1.5;2.5;3.9;1.7;1.3;0.7;1.8;3.1;0.9
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southwest Division;Naji Marshall;11;1;15.3;7.5;0.5;2.3;2.8;0.6;0.7;0.2;1.1;0.8;0.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southwest Division;Tony Snell;4;1;18.5;6.5;0.3;1.0;1.3;0.5;0.5;0.5;1.0;1.0;0.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southwest Division;Kira Lewis Jr.;4;0;11.0;6.0;1.3;0.3;1.5;1.0;0.0;0.3;0.0;0.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southwest Division;Trey Murphy III;12;0;13.3;5.1;0.7;1.3;2.0;0.8;0.3;0.1;0.2;1.4;4.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southwest Division;Tyrone Wallace;2;0;18.5;5.0;0.0;1.5;1.5;0.5;0.5;0.0;0.5;1.0;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southwest Division;Garrett Temple;11;4;18.3;3.7;0.5;2.2;2.7;0.8;0.9;0.5;0.5;1.8;1.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southwest Division;Tomas Satoransky;6;0;15.8;3.0;1.2;2.0;3.2;2.0;0.3;0.0;0.3;0.5;6.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southwest Division;Larry Nance Jr.;2;0;19.0;3.0;1.5;3.5;5.0;0.5;1.0;1.5;0.5;2.0;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southwest Division;Alize Johnson;2;0;10.5;2.0;2.0;2.0;4.0;0.0;1.0;0.0;0.5;1.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southwest Division;Gary Clark;8;0;9.4;1.5;0.6;1.9;2.5;0.5;0.4;0.4;0.4;0.5;1.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Southwest Division;Total;16;"";"";111.0;11.9;30.5;42.4;24.7;8.4;4.5;0.0;20.7;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Northwest Division;CJ McCollum;4;4;34.5;24.0;1.0;3.3;4.3;6.0;1.3;0.0;2.3;1.8;2.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Northwest Division;Brandon Ingram;15;15;33.9;21.9;0.7;5.5;6.1;5.7;0.8;0.5;3.7;2.3;1.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Northwest Division;Jonas Valanciunas;16;16;30.3;16.9;3.7;8.4;12.1;2.2;0.6;0.8;2.3;3.9;0.9
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Northwest Division;Nickeil Alexander-Walker;13;3;26.8;15.6;1.2;3.8;4.9;3.0;0.8;0.5;2.2;1.6;1.4
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Northwest Division;Josh Hart;11;11;34.1;14.1;1.0;5.6;6.6;4.2;1.1;0.5;2.5;3.2;1.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Northwest Division;Willy Hernangomez;12;2;19.6;11.7;2.8;5.2;8.0;1.6;0.5;0.6;1.3;1.9;1.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Northwest Division;Devonte' Graham;17;14;29.0;10.9;0.5;1.9;2.4;4.5;1.0;0.2;1.2;1.1;3.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Northwest Division;Jaxson Hayes;13;5;17.8;10.6;1.8;2.6;4.4;0.5;0.6;0.8;0.8;2.1;0.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Northwest Division;Larry Nance Jr.;2;0;19.5;10.0;2.5;2.0;4.5;0.5;0.0;0.5;0.0;1.5;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Northwest Division;Herbert Jones;18;16;31.6;8.7;1.7;2.3;3.9;2.2;1.9;0.8;1.2;3.1;1.9
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Northwest Division;Tony Snell;3;0;16.0;7.3;0.3;2.0;2.3;0.3;0.0;0.0;0.0;1.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Northwest Division;Garrett Temple;15;3;16.3;5.0;0.4;2.0;2.4;1.1;1.0;0.3;0.7;1.5;1.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Northwest Division;Alize Johnson;1;0;5.0;5.0;3.0;1.0;4.0;1.0;0.0;0.0;0.0;1.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Northwest Division;Kira Lewis Jr.;7;0;13.4;4.4;0.0;0.7;0.7;2.4;0.7;0.0;1.1;0.6;2.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Northwest Division;Naji Marshall;10;0;8.7;4.4;0.6;1.1;1.7;1.0;0.4;0.1;0.8;0.8;1.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Northwest Division;Trey Murphy III;12;0;14.5;4.3;1.0;1.8;2.8;0.3;0.5;0.0;0.3;1.1;1.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Northwest Division;Jared Harper;2;0;4.0;4.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Northwest Division;Jose Alvarado;10;0;13.0;3.7;0.3;0.8;1.1;2.8;1.5;0.0;0.5;1.8;5.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Northwest Division;Tomas Satoransky;8;1;12.9;1.9;0.6;1.0;1.6;1.6;0.4;0.0;0.9;1.3;1.9
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Northwest Division;Gary Clark;7;0;8.1;1.6;0.3;0.9;1.1;0.4;0.3;0.0;0.0;0.6;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Northwest Division;Total;18;"";"";110.7;13.2;33.8;47.1;25.8;9.2;4.1;0.0;20.7;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Eastern Conference;CJ McCollum;6;6;35.7;24.5;0.3;3.3;3.7;6.3;1.0;0.0;2.3;1.8;2.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Eastern Conference;Brandon Ingram;17;17;33.8;21.4;0.6;4.9;5.6;5.0;0.5;0.6;1.9;1.8;2.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Eastern Conference;Jonas Valanciunas;26;26;31.2;18.2;3.4;8.2;11.5;2.9;0.4;1.0;2.5;3.0;1.2
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Eastern Conference;Devonte' Graham;27;26;30.1;14.9;0.5;2.3;2.8;4.4;1.0;0.1;1.8;1.4;2.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Eastern Conference;Josh Hart;17;17;33.6;13.8;1.5;7.3;8.8;3.8;1.2;0.2;2.1;2.6;1.9
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Eastern Conference;Nickeil Alexander-Walker;21;9;26.2;12.6;0.9;2.4;3.2;3.2;0.8;0.4;1.8;2.0;1.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Eastern Conference;Herbert Jones;30;25;28.7;9.6;0.8;2.8;3.6;2.7;1.3;0.8;1.3;3.3;2.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Eastern Conference;Larry Nance Jr.;1;0;18.0;9.0;0.0;4.0;4.0;0.0;0.0;1.0;1.0;1.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Eastern Conference;Willy Hernangomez;17;4;16.9;8.9;2.8;3.8;6.6;0.9;0.5;0.3;1.1;1.7;0.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Eastern Conference;Jaxson Hayes;28;7;20.5;8.2;1.4;3.1;4.5;0.6;0.3;0.7;0.8;2.3;0.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Eastern Conference;Jose Alvarado;20;1;17.1;7.5;0.6;1.2;1.8;2.7;1.3;0.2;0.8;1.5;3.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Eastern Conference;Jared Harper;1;0;8.0;7.0;1.0;0.0;1.0;3.0;0.0;1.0;1.0;1.0;3.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Eastern Conference;Kira Lewis Jr.;7;0;15.0;6.6;0.3;1.9;2.1;2.3;0.3;0.0;1.1;0.7;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Eastern Conference;Garrett Temple;24;7;19.6;6.0;0.4;1.9;2.3;1.5;0.5;0.3;0.7;1.2;2.2
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Eastern Conference;Trey Murphy III;22;0;14.1;5.7;0.8;1.5;2.3;0.7;0.4;0.1;0.3;1.0;2.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Eastern Conference;Naji Marshall;19;2;12.7;4.8;0.4;2.2;2.6;1.2;0.5;0.1;0.7;1.4;1.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Eastern Conference;Gary Clark;15;1;11.9;3.0;0.6;2.1;2.7;0.4;0.4;0.2;0.3;0.7;1.2
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Eastern Conference;Tony Snell;3;1;19.0;2.7;0.0;1.0;1.0;0.3;0.7;0.0;1.3;1.7;0.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Eastern Conference;Tomas Satoransky;14;1;15.2;2.6;0.3;1.5;1.8;2.9;0.5;0.1;0.8;1.1;3.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Eastern Conference;Tyrone Wallace;3;0;7.3;1.3;0.0;1.0;1.0;0.0;0.7;0.0;0.3;0.7;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Eastern Conference;Total;30;"";"";107.3;11.0;33.6;44.6;25.1;7.4;4.1;0.0;19.5;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Western Conference;CJ McCollum;20;20;33.2;24.2;0.9;3.9;4.7;5.7;1.4;0.1;2.2;1.7;2.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Western Conference;Brandon Ingram;38;38;34.1;23.2;0.6;5.3;5.9;5.8;0.7;0.4;3.1;2.3;1.9
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Western Conference;Jonas Valanciunas;48;48;29.8;17.5;2.9;8.4;11.3;2.4;0.6;0.7;2.4;3.5;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Western Conference;Josh Hart;24;23;33.4;13.0;1.2;5.9;7.0;4.3;1.0;0.3;1.9;3.1;2.2
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Western Conference;Nickeil Alexander-Walker;29;10;26.4;12.9;0.6;2.7;3.3;2.5;0.8;0.3;1.7;1.6;1.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Western Conference;Devonte' Graham;49;37;27.5;10.2;0.5;1.6;2.1;4.0;0.9;0.2;1.2;1.1;3.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Western Conference;Jaxson Hayes;42;21;19.6;10.1;1.8;2.7;4.5;0.6;0.6;0.9;0.8;2.2;0.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Western Conference;Herbert Jones;48;44;30.7;9.5;1.5;2.4;3.9;1.8;1.9;0.7;1.3;2.9;1.4
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Western Conference;Willy Hernangomez;33;4;16.7;9.2;2.9;3.9;6.8;1.5;0.4;0.4;1.0;2.1;1.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Western Conference;Jared Harper;4;0;8.8;7.5;0.3;0.0;0.3;2.8;1.0;0.0;0.3;1.0;11.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Western Conference;Larry Nance Jr.;8;0;20.4;7.1;1.8;2.6;4.4;1.0;0.6;0.8;1.1;2.0;0.9
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Western Conference;Tony Snell;12;1;18.3;6.7;0.4;1.9;2.3;0.6;0.5;0.2;0.3;1.8;1.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Western Conference;Naji Marshall;36;2;13.8;6.1;0.8;1.7;2.6;1.1;0.7;0.2;0.9;1.2;1.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Western Conference;Kira Lewis Jr.;17;0;13.9;5.6;0.4;1.0;1.4;1.9;0.5;0.1;1.1;0.7;1.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Western Conference;Jose Alvarado;34;0;14.5;5.3;0.4;1.5;1.9;2.9;1.3;0.1;0.7;1.3;4.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Western Conference;Trey Murphy III;40;1;13.8;5.2;0.8;1.7;2.4;0.6;0.4;0.1;0.2;1.0;2.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Western Conference;Garrett Temple;35;9;17.9;4.7;0.6;2.0;2.5;1.1;0.9;0.4;0.7;1.5;1.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Western Conference;Tyrone Wallace;3;0;17.7;4.3;0.0;1.7;1.7;0.3;0.3;0.3;0.3;1.7;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Western Conference;Tomas Satoransky;18;2;14.8;2.8;0.8;1.4;2.2;2.0;0.4;0.0;0.7;1.0;3.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Western Conference;Gary Clark;23;0;8.7;2.4;0.6;1.6;2.2;0.5;0.3;0.2;0.2;0.4;2.4
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Western Conference;Alize Johnson;4;0;7.0;2.3;1.8;1.5;3.3;0.3;0.5;0.0;0.3;0.8;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Western Conference;Didi Louzada;2;0;3.5;0.0;1.0;0.0;1.0;0.5;0.0;0.0;0.0;0.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Western Conference;Total;52;"";"";110.4;12.5;33.0;45.6;24.9;8.8;4.0;0.0;19.8;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pre All-Star;CJ McCollum;5;5;36.6;28.4;1.4;4.6;6.0;5.4;1.4;0.0;2.4;1.6;2.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pre All-Star;Brandon Ingram;45;45;34.3;22.1;0.7;5.0;5.7;5.4;0.6;0.5;2.6;2.2;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pre All-Star;Jonas Valanciunas;53;53;31.3;18.0;3.2;8.3;11.5;2.6;0.5;0.9;2.5;3.3;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pre All-Star;Josh Hart;41;40;33.5;13.4;1.3;6.5;7.8;4.1;1.1;0.3;2.0;2.9;2.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pre All-Star;Devonte' Graham;55;54;30.7;13.0;0.5;2.1;2.6;4.4;0.9;0.1;1.5;1.5;2.9
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pre All-Star;Nickeil Alexander-Walker;50;19;26.3;12.8;0.7;2.6;3.3;2.8;0.8;0.4;1.7;1.8;1.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pre All-Star;Herbert Jones;56;47;29.9;9.6;1.3;2.6;3.9;2.1;1.4;0.9;1.3;3.1;1.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pre All-Star;Willy Hernangomez;31;6;16.3;8.9;2.6;4.2;6.9;1.3;0.4;0.3;1.0;1.9;1.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pre All-Star;Jaxson Hayes;47;5;17.0;8.7;1.4;2.5;3.9;0.5;0.4;0.7;0.7;2.3;0.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pre All-Star;Tony Snell;3;0;18.0;8.0;0.3;1.7;2.0;0.7;0.7;0.0;1.3;1.3;0.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pre All-Star;Kira Lewis Jr.;24;0;14.2;5.9;0.4;1.3;1.6;2.0;0.5;0.0;1.1;0.7;1.9
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pre All-Star;Garrett Temple;55;16;19.2;5.4;0.5;2.0;2.5;1.3;0.7;0.4;0.7;1.5;1.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pre All-Star;Jose Alvarado;31;1;12.8;5.1;0.3;1.2;1.5;2.0;1.0;0.2;0.5;1.3;3.9
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pre All-Star;Trey Murphy III;41;0;12.7;3.9;0.7;1.5;2.1;0.5;0.3;0.1;0.3;1.0;1.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pre All-Star;Naji Marshall;32;0;9.6;3.8;0.5;1.6;2.1;0.8;0.4;0.1;0.8;0.9;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pre All-Star;Jared Harper;2;0;5.0;3.5;0.5;0.0;0.5;1.5;0.0;0.5;0.5;1.0;3.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pre All-Star;Gary Clark;27;1;10.9;2.8;0.6;2.0;2.6;0.4;0.4;0.3;0.2;0.6;1.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pre All-Star;Tomas Satoransky;32;3;15.0;2.8;0.6;1.4;2.0;2.4;0.4;0.0;0.7;1.0;3.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pre All-Star;Didi Louzada;2;0;3.5;0.0;1.0;0.0;1.0;0.5;0.0;0.0;0.0;0.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Pre All-Star;Total;59;"";"";106.3;11.5;33.6;45.0;24.7;7.5;4.2;13.5;19.8;1.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Post All-Star;Brandon Ingram;10;10;32.4;25.3;0.4;6.0;6.4;6.6;0.5;0.4;3.2;2.2;2.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Post All-Star;CJ McCollum;21;21;33.1;23.3;0.6;3.5;4.1;6.0;1.3;0.0;2.1;1.7;2.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Post All-Star;Jonas Valanciunas;21;21;27.7;17.2;2.6;8.5;11.1;2.5;0.8;0.5;2.3;3.5;1.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Post All-Star;Jaxson Hayes;23;23;26.0;10.7;2.0;3.6;5.7;0.9;0.7;0.9;0.9;2.0;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Post All-Star;Jared Harper;3;0;10.7;10.0;0.3;0.0;0.3;3.7;1.3;0.0;0.3;1.0;11.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Post All-Star;Willy Hernangomez;19;2;17.6;9.4;3.2;3.4;6.6;1.2;0.5;0.5;1.1;2.1;1.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Post All-Star;Herbert Jones;22;22;29.9;9.4;1.1;2.4;3.5;2.2;2.2;0.5;1.4;3.0;1.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Post All-Star;Devonte' Graham;21;9;22.5;9.0;0.5;1.2;1.7;3.4;1.0;0.2;1.0;0.7;3.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Post All-Star;Naji Marshall;23;4;18.7;8.4;1.0;2.3;3.3;1.7;0.9;0.2;1.0;1.7;1.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Post All-Star;Trey Murphy III;21;1;16.4;8.3;0.9;1.9;2.8;0.9;0.5;0.0;0.2;1.0;4.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Post All-Star;Jose Alvarado;23;0;19.0;7.5;0.7;1.7;2.4;3.9;1.7;0.1;1.0;1.4;3.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Post All-Star;Larry Nance Jr.;9;0;20.2;7.3;1.6;2.8;4.3;0.9;0.6;0.8;1.1;1.9;0.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Post All-Star;Tony Snell;12;2;18.6;5.3;0.3;1.8;2.1;0.5;0.5;0.2;0.3;1.8;1.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Post All-Star;Garrett Temple;4;0;11.3;3.5;0.0;1.0;1.0;0.8;0.5;0.0;0.5;0.3;1.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Post All-Star;Tyrone Wallace;6;0;12.5;2.8;0.0;1.3;1.3;0.2;0.5;0.2;0.3;1.2;0.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Post All-Star;Gary Clark;11;0;7.6;2.4;0.6;1.1;1.7;0.7;0.3;0.0;0.4;0.4;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Post All-Star;Alize Johnson;4;0;7.0;2.3;1.8;1.5;3.3;0.3;0.5;0.0;0.3;0.8;1.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;Post All-Star;Total;23;"";"";116.9;13.3;32.4;45.7;25.7;10.3;3.4;12.6;19.3;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;3+ Days Rest;Brandon Ingram;7;7;32.3;23.1;0.3;5.0;5.3;5.9;0.1;0.6;1.9;1.6;3.2
+New Orleans Pelicans;no;2021 - 2022 Regular Season;3+ Days Rest;CJ McCollum;3;3;35.0;22.7;0.7;5.3;6.0;6.0;1.0;0.0;3.0;2.0;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;3+ Days Rest;Nickeil Alexander-Walker;4;1;30.3;19.3;0.8;3.3;4.0;2.8;0.5;0.5;2.5;1.8;1.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;3+ Days Rest;Jonas Valanciunas;8;8;29.6;15.4;4.4;7.3;11.6;2.5;0.1;0.8;2.4;3.3;1.1
+New Orleans Pelicans;no;2021 - 2022 Regular Season;3+ Days Rest;Devonte' Graham;7;6;29.1;15.0;0.3;1.7;2.0;3.9;0.7;0.1;1.7;1.0;2.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;3+ Days Rest;Josh Hart;9;8;32.8;14.3;1.4;5.8;7.2;4.3;1.2;0.3;2.4;3.1;1.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;3+ Days Rest;Kira Lewis Jr.;2;0;19.5;10.5;1.5;2.5;4.0;4.5;2.0;0.0;1.0;1.0;4.5
+New Orleans Pelicans;no;2021 - 2022 Regular Season;3+ Days Rest;Willy Hernangomez;10;3;15.2;9.9;2.7;3.4;6.1;1.1;0.1;0.4;0.6;1.8;1.8
+New Orleans Pelicans;no;2021 - 2022 Regular Season;3+ Days Rest;Jaxson Hayes;9;1;14.1;8.8;1.8;2.4;4.2;0.3;0.4;0.3;0.9;2.8;0.4
+New Orleans Pelicans;no;2021 - 2022 Regular Season;3+ Days Rest;Larry Nance Jr.;2;0;20.0;8.5;0.5;3.5;4.0;0.0;0.0;1.0;0.5;1.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;3+ Days Rest;Tyrone Wallace;1;0;20.0;7.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;1.0;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;3+ Days Rest;Tony Snell;4;0;12.3;6.0;0.5;2.3;2.8;0.5;0.0;0.0;0.3;1.5;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;3+ Days Rest;Herbert Jones;6;4;27.0;5.3;1.7;2.0;3.7;1.7;1.5;1.3;1.2;3.2;1.4
+New Orleans Pelicans;no;2021 - 2022 Regular Season;3+ Days Rest;Garrett Temple;8;2;15.5;5.1;0.1;1.4;1.5;1.4;0.9;0.4;0.4;0.5;3.7
+New Orleans Pelicans;no;2021 - 2022 Regular Season;3+ Days Rest;Jared Harper;2;0;4.0;4.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;3+ Days Rest;Naji Marshall;9;0;9.1;3.6;0.3;1.3;1.7;0.9;0.8;0.2;0.6;0.8;1.6
+New Orleans Pelicans;no;2021 - 2022 Regular Season;3+ Days Rest;Trey Murphy III;9;0;9.3;2.8;0.9;0.9;1.8;0.2;0.2;0.1;0.1;0.7;2.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;3+ Days Rest;Tomas Satoransky;6;0;13.5;2.2;0.0;1.0;1.0;2.7;0.8;0.0;0.8;1.0;3.2
+New Orleans Pelicans;no;2021 - 2022 Regular Season;3+ Days Rest;Jose Alvarado;7;0;6.9;1.7;0.4;0.1;0.6;0.6;0.7;0.0;0.4;0.7;1.3
+New Orleans Pelicans;no;2021 - 2022 Regular Season;3+ Days Rest;Alize Johnson;3;0;8.0;1.3;1.3;1.7;3.0;0.0;0.7;0.0;0.3;0.7;0.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;3+ Days Rest;Gary Clark;10;0;7.4;1.0;0.4;1.1;1.5;0.6;0.3;0.0;0.1;0.1;6.0
+New Orleans Pelicans;no;2021 - 2022 Regular Season;3+ Days Rest;Didi Louzada;1;0;1.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+New Orleans Pelicans;no;2021 - 2022 Regular Season;3+ Days Rest;Total;5;"";"";111.0;12.0;35.2;47.2;25.4;7.4;4.4;12.8;18.2;2.0

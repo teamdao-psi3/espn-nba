@@ -1,0 +1,975 @@
+teamName;teamCode;season;split;player_name;GP;GS;MIN;PTS;ORB;DR;REB;AST;STL;BLK;TO;PF;AST_TO
+Dallas Mavericks;dal;2021 - 2022 Regular Season;All Splits;Luka Doncic;65;65;35.4;28.4;0.9;8.3;9.1;8.7;1.2;0.6;4.5;2.2;1.9
+Dallas Mavericks;dal;2021 - 2022 Regular Season;All Splits;Kristaps Porzingis;34;34;29.5;19.2;1.9;5.8;7.7;2.0;0.7;1.7;1.6;2.6;1.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;All Splits;Jalen Brunson;79;61;31.9;16.3;0.5;3.4;3.9;4.8;0.8;0.0;1.6;1.9;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;All Splits;Spencer Dinwiddie;23;7;28.3;15.8;0.4;2.7;3.1;3.9;0.7;0.3;1.3;1.9;2.9
+Dallas Mavericks;dal;2021 - 2022 Regular Season;All Splits;Tim Hardaway Jr.;42;20;29.6;14.2;0.3;3.4;3.7;2.2;0.9;0.1;0.8;1.8;2.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;All Splits;Dorian Finney-Smith;80;80;33.1;11.0;1.5;3.2;4.7;1.9;1.1;0.5;1.0;2.3;1.9
+Dallas Mavericks;dal;2021 - 2022 Regular Season;All Splits;Dwight Powell;82;71;21.9;8.7;2.1;2.8;4.9;1.2;0.5;0.5;0.8;2.7;1.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;All Splits;Reggie Bullock;68;37;28.0;8.6;0.5;3.1;3.5;1.2;0.6;0.2;0.6;1.6;2.1
+Dallas Mavericks;dal;2021 - 2022 Regular Season;All Splits;Maxi Kleber;59;21;24.6;7.0;1.2;4.7;5.9;1.2;0.5;1.0;0.8;2.3;1.4
+Dallas Mavericks;dal;2021 - 2022 Regular Season;All Splits;Brandon Knight;5;0;13.0;6.4;0.0;1.6;1.6;1.6;0.2;0.0;0.8;1.0;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;All Splits;Isaiah Thomas;1;0;13.0;6.0;0.0;0.0;0.0;4.0;0.0;0.0;0.0;0.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;All Splits;Davis Bertans;22;0;13.9;5.3;0.3;2.3;2.5;0.7;0.3;0.3;0.2;1.4;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;All Splits;Trey Burke;42;0;10.5;5.1;0.1;0.7;0.8;1.4;0.3;0.0;0.6;0.9;2.2
+Dallas Mavericks;dal;2021 - 2022 Regular Season;All Splits;Josh Green;67;3;15.5;4.8;0.8;1.6;2.4;1.2;0.7;0.2;0.7;1.7;1.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;All Splits;Marquese Chriss;34;0;10.2;4.5;1.0;2.1;3.0;0.5;0.4;0.4;0.5;1.9;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;All Splits;Boban Marjanovic;23;0;5.6;4.3;0.3;1.3;1.7;0.1;0.0;0.1;0.7;1.0;0.2
+Dallas Mavericks;dal;2021 - 2022 Regular Season;All Splits;Frank Ntilikina;58;5;11.8;4.1;0.2;1.2;1.4;1.2;0.5;0.1;0.5;1.1;2.2
+Dallas Mavericks;dal;2021 - 2022 Regular Season;All Splits;Sterling Brown;49;3;12.8;3.3;0.5;2.5;3.0;0.7;0.3;0.1;0.5;1.1;1.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;All Splits;Moses Brown;26;1;6.5;3.1;0.6;1.7;2.3;0.0;0.1;0.3;0.5;1.1;0.1
+Dallas Mavericks;dal;2021 - 2022 Regular Season;All Splits;Theo Pinson;19;0;7.8;2.5;0.1;1.0;1.1;0.9;0.3;0.1;0.3;0.6;3.4
+Dallas Mavericks;dal;2021 - 2022 Regular Season;All Splits;Willie Cauley-Stein;18;2;9.8;1.9;0.7;1.4;2.1;0.5;0.3;0.2;0.4;0.9;1.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;All Splits;Eugene Omoruyi;4;0;4.5;1.8;0.5;1.3;1.8;0.5;0.0;0.0;0.0;0.5;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;All Splits;Moses Wright;3;0;4.3;1.7;0.3;0.7;1.0;0.3;0.0;0.3;0.0;0.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;All Splits;Charlie Brown Jr.;3;0;5.0;0.7;0.0;0.3;0.3;0.3;0.7;0.3;0.0;0.7;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;All Splits;Carlik Jones;3;0;6.3;0.7;0.3;0.7;1.0;1.7;0.3;0.0;1.0;0.0;1.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;All Splits;George King;4;0;4.8;0.3;0.0;1.3;1.3;0.0;0.0;0.0;0.3;1.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;All Splits;JaQuori McLaughlin;4;0;2.8;0.0;0.0;0.0;0.0;0.5;0.0;0.0;0.0;0.3;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;All Splits;Total;82;"";"";108.0;9.3;33.8;43.0;23.4;6.7;4.0;11.7;19.7;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Home;Luka Doncic;34;34;35.4;29.9;1.1;7.9;9.0;8.7;1.2;0.6;4.1;2.5;2.1
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Home;Spencer Dinwiddie;10;3;28.1;18.2;0.2;2.9;3.1;4.0;0.3;0.2;1.5;2.1;2.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Home;Kristaps Porzingis;15;15;28.1;16.3;1.8;6.2;8.0;1.8;0.7;1.9;1.5;2.5;1.2
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Home;Jalen Brunson;39;30;31.9;16.3;0.4;3.4;3.8;4.5;0.7;0.1;1.6;1.9;2.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Home;Tim Hardaway Jr.;22;9;29.7;13.6;0.3;3.5;3.9;1.9;0.9;0.2;1.0;1.5;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Home;Dorian Finney-Smith;41;41;33.2;11.2;1.7;3.3;5.0;1.9;1.1;0.6;1.0;2.3;1.9
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Home;Reggie Bullock;38;21;28.8;9.8;0.4;3.0;3.4;1.2;0.6;0.2;0.4;1.7;3.1
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Home;Dwight Powell;41;33;22.0;8.6;2.2;2.7;4.9;1.2;0.5;0.4;0.7;2.7;1.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Home;Maxi Kleber;29;13;24.9;7.1;1.5;4.8;6.3;1.3;0.4;1.0;0.7;2.3;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Home;Davis Bertans;8;0;14.6;5.4;0.5;2.6;3.1;1.1;0.5;0.3;0.3;1.3;4.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Home;Trey Burke;22;0;9.8;5.4;0.1;0.7;0.8;1.6;0.3;0.0;0.5;1.0;2.9
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Home;Boban Marjanovic;14;0;6.0;4.4;0.4;1.8;2.1;0.2;0.0;0.1;0.7;0.9;0.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Home;Josh Green;33;0;15.1;4.3;0.8;1.5;2.3;1.1;0.7;0.2;0.7;1.5;1.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Home;Theo Pinson;9;0;9.8;4.1;0.1;1.0;1.1;1.0;0.6;0.1;0.4;0.9;2.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Home;Frank Ntilikina;32;2;11.3;3.6;0.1;1.0;1.1;1.0;0.5;0.1;0.4;1.0;2.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Home;Sterling Brown;23;2;12.9;3.1;0.6;2.7;3.2;0.7;0.3;0.1;0.3;1.0;2.4
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Home;Marquese Chriss;17;0;10.0;2.8;1.1;1.8;2.9;0.4;0.4;0.3;0.5;2.1;0.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Home;Brandon Knight;1;0;10.0;2.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;1.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Home;Moses Wright;3;0;4.3;1.7;0.3;0.7;1.0;0.3;0.0;0.3;0.0;0.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Home;Moses Brown;12;1;4.2;1.7;0.3;1.3;1.5;0.1;0.1;0.3;0.3;0.8;0.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Home;Willie Cauley-Stein;8;1;9.9;1.5;1.1;1.1;2.3;0.6;0.4;0.3;0.5;0.6;1.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Home;George King;1;0;4.0;1.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Home;Eugene Omoruyi;2;0;2.0;0.5;0.0;1.5;1.5;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Home;JaQuori McLaughlin;2;0;2.0;0.0;0.0;0.0;0.0;0.5;0.0;0.0;0.0;0.5;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Home;Carlik Jones;1;0;9.0;0.0;0.0;2.0;2.0;3.0;0.0;0.0;1.0;0.0;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Home;Total;41;"";"";108.4;9.7;33.6;43.2;23.2;6.7;3.8;11.1;19.4;2.1
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Away;Luka Doncic;31;31;35.4;26.8;0.5;8.7;9.2;8.8;1.1;0.5;4.9;1.9;1.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Away;Kristaps Porzingis;19;19;30.5;21.5;1.9;5.5;7.4;2.2;0.7;1.6;1.6;2.7;1.4
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Away;Jalen Brunson;40;31;32.0;16.2;0.7;3.4;4.1;5.1;1.0;0.0;1.5;1.9;3.4
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Away;Tim Hardaway Jr.;20;11;29.6;15.0;0.3;3.3;3.6;2.6;0.9;0.1;0.7;2.1;3.9
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Away;Spencer Dinwiddie;13;4;28.4;13.9;0.5;2.6;3.2;3.8;1.1;0.3;1.2;1.7;3.1
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Away;Dorian Finney-Smith;39;39;32.8;10.8;1.4;3.1;4.4;1.9;1.1;0.4;1.0;2.3;1.9
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Away;Dwight Powell;41;38;21.8;8.9;2.0;2.9;5.0;1.1;0.4;0.5;0.9;2.7;1.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Away;Brandon Knight;4;0;13.8;7.5;0.0;1.5;1.5;2.0;0.3;0.0;1.0;1.0;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Away;Reggie Bullock;30;16;27.0;7.1;0.6;3.1;3.7;1.2;0.6;0.3;0.8;1.6;1.4
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Away;Maxi Kleber;30;8;24.2;6.8;0.9;4.7;5.6;1.0;0.6;1.0;0.9;2.4;1.1
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Away;Marquese Chriss;17;0;10.4;6.3;0.8;2.3;3.1;0.6;0.4;0.4;0.5;1.7;1.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Away;Isaiah Thomas;1;0;13.0;6.0;0.0;0.0;0.0;4.0;0.0;0.0;0.0;0.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Away;Davis Bertans;14;0;13.5;5.3;0.1;2.1;2.2;0.4;0.1;0.3;0.2;1.4;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Away;Josh Green;34;3;15.9;5.2;0.8;1.7;2.5;1.3;0.6;0.3;0.6;1.9;2.2
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Away;Frank Ntilikina;26;3;12.5;4.8;0.3;1.3;1.7;1.4;0.5;0.2;0.7;1.2;2.2
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Away;Trey Burke;20;0;11.3;4.8;0.1;0.7;0.8;1.1;0.3;0.0;0.7;0.9;1.6
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Away;Moses Brown;14;0;8.5;4.4;0.9;2.1;3.1;0.0;0.1;0.4;0.7;1.3;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Away;Boban Marjanovic;9;0;4.9;4.1;0.3;0.7;1.0;0.0;0.0;0.2;0.6;1.3;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Away;Sterling Brown;26;1;12.8;3.4;0.5;2.4;2.9;0.7;0.3;0.2;0.6;1.2;1.1
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Away;Eugene Omoruyi;2;0;7.0;3.0;1.0;1.0;2.0;1.0;0.0;0.0;0.0;1.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Away;Willie Cauley-Stein;10;1;9.9;2.2;0.4;1.6;2.0;0.4;0.3;0.1;0.3;1.2;1.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Away;Theo Pinson;10;0;6.0;1.1;0.1;1.0;1.1;0.8;0.0;0.1;0.1;0.4;8.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Away;Carlik Jones;2;0;5.0;1.0;0.5;0.0;0.5;1.0;0.5;0.0;1.0;0.0;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Away;Charlie Brown Jr.;3;0;5.0;0.7;0.0;0.3;0.3;0.3;0.7;0.3;0.0;0.7;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Away;George King;3;0;5.0;0.0;0.0;1.3;1.3;0.0;0.0;0.0;0.3;1.3;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Away;JaQuori McLaughlin;2;0;3.0;0.0;0.0;0.0;0.0;0.5;0.0;0.0;0.0;0.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Away;Total;41;"";"";107.7;8.8;34.0;42.8;23.6;6.8;4.1;12.3;19.9;1.9
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Boston Celtics;Luka Doncic;2;2;37.0;29.5;0.5;8.0;8.5;6.5;1.5;0.5;5.5;2.0;1.2
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Boston Celtics;Kristaps Porzingis;1;1;28.0;21.0;4.0;3.0;7.0;2.0;2.0;1.0;1.0;2.0;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Boston Celtics;Spencer Dinwiddie;1;1;37.0;18.0;0.0;5.0;5.0;4.0;1.0;0.0;2.0;1.0;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Boston Celtics;Dorian Finney-Smith;2;2;34.0;14.0;1.0;3.0;4.0;2.5;1.0;1.0;1.5;1.5;1.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Boston Celtics;Jalen Brunson;2;1;36.0;13.5;0.5;4.0;4.5;3.5;0.5;0.0;2.5;3.5;1.4
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Boston Celtics;Reggie Bullock;1;0;26.0;13.0;0.0;3.0;3.0;1.0;1.0;0.0;2.0;1.0;0.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Boston Celtics;Josh Green;1;0;17.0;9.0;1.0;0.0;1.0;0.0;0.0;0.0;2.0;5.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Boston Celtics;Tim Hardaway Jr.;1;1;35.0;7.0;0.0;2.0;2.0;3.0;0.0;0.0;1.0;1.0;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Boston Celtics;Frank Ntilikina;1;0;13.0;5.0;0.0;2.0;2.0;1.0;0.0;0.0;1.0;2.0;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Boston Celtics;Dwight Powell;2;2;22.5;4.0;0.5;4.0;4.5;1.0;0.5;2.0;1.5;2.5;0.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Boston Celtics;Davis Bertans;1;0;6.0;3.0;0.0;3.0;3.0;0.0;1.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Boston Celtics;Trey Burke;1;0;11.0;2.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Boston Celtics;Sterling Brown;2;0;5.5;1.0;0.0;1.5;1.5;0.0;0.5;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Boston Celtics;Maxi Kleber;1;0;29.0;0.0;1.0;12.0;13.0;0.0;0.0;3.0;1.0;3.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Boston Celtics;Willie Cauley-Stein;1;0;9.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Boston Celtics;Total;2;"";"";101.0;5.5;35.5;41.0;19.5;7.0;5.5;16.0;17.0;1.2
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Brooklyn Nets;Luka Doncic;2;2;37.5;32.5;0.5;7.0;7.5;9.0;1.0;0.5;2.5;3.5;3.6
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Brooklyn Nets;Spencer Dinwiddie;1;1;33.0;22.0;1.0;3.0;4.0;3.0;3.0;0.0;1.0;3.0;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Brooklyn Nets;Kristaps Porzingis;1;1;31.0;17.0;2.0;10.0;12.0;5.0;1.0;1.0;2.0;2.0;2.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Brooklyn Nets;Jalen Brunson;2;1;29.0;14.0;0.5;2.5;3.0;3.0;0.0;0.0;1.0;0.5;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Brooklyn Nets;Dorian Finney-Smith;2;2;35.5;12.0;2.0;4.0;6.0;1.0;1.5;0.0;1.5;3.5;0.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Brooklyn Nets;Tim Hardaway Jr.;1;0;28.0;11.0;1.0;2.0;3.0;1.0;1.0;0.0;0.0;1.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Brooklyn Nets;Dwight Powell;2;2;26.5;11.0;3.0;3.0;6.0;1.0;0.0;0.5;0.0;0.5;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Brooklyn Nets;Reggie Bullock;1;1;28.0;6.0;1.0;1.0;2.0;0.0;0.0;1.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Brooklyn Nets;Josh Green;2;0;12.5;4.0;0.0;0.5;0.5;0.5;0.5;0.0;0.0;1.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Brooklyn Nets;Davis Bertans;1;0;9.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Brooklyn Nets;Maxi Kleber;2;0;22.0;2.0;1.0;2.0;3.0;1.5;0.0;0.0;0.5;3.0;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Brooklyn Nets;Sterling Brown;1;0;9.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Brooklyn Nets;Frank Ntilikina;2;0;7.5;0.0;0.0;1.5;1.5;0.5;0.0;0.0;0.0;0.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Brooklyn Nets;Total;2;"";"";106.0;9.5;28.5;38.0;21.0;5.5;2.0;7.0;16.0;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. New York Knicks;Luka Doncic;2;2;35.0;26.0;2.0;6.5;8.5;4.5;1.5;0.5;4.0;2.5;1.1
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. New York Knicks;Tim Hardaway Jr.;1;0;29.0;13.0;0.0;1.0;1.0;3.0;2.0;0.0;0.0;4.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. New York Knicks;Spencer Dinwiddie;1;0;28.0;13.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;4.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. New York Knicks;Jalen Brunson;2;2;31.0;11.0;0.5;5.5;6.0;3.0;0.5;0.0;1.0;2.0;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. New York Knicks;Dorian Finney-Smith;2;2;34.5;8.0;1.5;2.5;4.0;1.0;0.5;0.5;1.5;3.0;0.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. New York Knicks;Dwight Powell;2;2;19.0;6.0;1.5;1.5;3.0;0.0;0.0;0.5;1.0;3.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. New York Knicks;Marquese Chriss;1;0;7.0;6.0;0.0;0.0;0.0;1.0;0.0;0.0;1.0;1.0;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. New York Knicks;Maxi Kleber;2;1;31.5;5.5;1.5;2.5;4.0;1.0;0.0;0.5;1.0;3.0;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. New York Knicks;Trey Burke;1;0;5.0;4.0;1.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. New York Knicks;Sterling Brown;2;0;5.5;2.5;0.0;2.0;2.0;0.0;0.0;0.5;0.0;0.5;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. New York Knicks;Frank Ntilikina;1;0;1.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. New York Knicks;Reggie Bullock;2;1;24.5;1.5;0.5;4.0;4.5;1.5;0.0;0.5;0.0;0.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. New York Knicks;Josh Green;2;0;14.5;1.5;0.0;1.5;1.5;0.0;1.0;0.0;1.5;1.5;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. New York Knicks;Davis Bertans;1;0;13.0;0.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;2.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. New York Knicks;Theo Pinson;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. New York Knicks;Moses Brown;1;0;3.0;0.0;1.0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. New York Knicks;Total;2;"";"";81.0;8.5;29.5;38.0;13.5;4.5;3.0;10.5;21.0;1.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Luka Doncic;2;2;37.5;25.0;2.0;8.0;10.0;12.5;1.0;0.5;4.5;0.5;2.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Jalen Brunson;2;2;35.5;21.5;0.5;3.5;4.0;4.0;0.0;0.0;0.0;0.5;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Reggie Bullock;1;1;36.0;20.0;0.0;4.0;4.0;0.0;0.0;0.0;1.0;1.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Dwight Powell;2;2;33.0;14.0;2.5;2.0;4.5;1.5;1.5;0.0;1.5;4.0;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Dorian Finney-Smith;2;2;37.0;12.0;1.0;3.5;4.5;0.0;1.5;0.0;2.5;2.5;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Spencer Dinwiddie;1;1;36.0;12.0;3.0;5.0;8.0;2.0;3.0;1.0;0.0;2.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Maxi Kleber;1;0;19.0;6.0;1.0;1.0;2.0;0.0;0.0;0.0;2.0;4.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Frank Ntilikina;2;0;10.0;3.5;0.0;1.5;1.5;1.0;0.0;0.0;0.5;0.5;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Josh Green;2;0;19.0;3.5;1.0;4.5;5.5;0.5;0.5;0.5;0.5;1.0;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Davis Bertans;1;0;9.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Boban Marjanovic;1;0;3.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Sterling Brown;1;0;3.0;2.0;1.0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Trey Burke;2;0;5.5;1.0;0.0;0.0;0.0;0.5;0.0;0.0;0.0;0.5;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Marquese Chriss;2;0;9.0;1.0;1.5;0.5;2.0;0.5;0.0;0.0;0.0;3.5;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Total;2;"";"";104.0;11.0;29.0;40.0;21.5;6.0;1.5;11.0;17.5;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Toronto Raptors;Luka Doncic;2;2;40.5;34.0;1.0;10.5;11.5;9.5;0.5;0.5;4.5;2.5;2.1
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Toronto Raptors;Tim Hardaway Jr.;2;1;33.0;20.5;0.5;2.0;2.5;1.5;0.5;0.0;1.5;2.0;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Toronto Raptors;Kristaps Porzingis;2;2;31.5;18.0;1.5;7.0;8.5;1.5;1.0;2.0;2.5;1.5;0.6
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Toronto Raptors;Dorian Finney-Smith;2;2;35.5;10.0;2.0;5.0;7.0;2.0;1.0;0.0;1.0;2.0;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Toronto Raptors;Dwight Powell;2;1;21.0;6.5;1.5;0.5;2.0;2.0;0.5;0.5;0.0;3.5;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Toronto Raptors;Jalen Brunson;2;1;28.0;6.5;1.0;3.5;4.5;4.0;1.0;0.0;1.0;3.0;4.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Toronto Raptors;Josh Green;1;0;7.0;5.0;1.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Toronto Raptors;Maxi Kleber;2;1;22.5;2.5;1.0;3.5;4.5;1.0;1.0;0.0;1.5;3.0;0.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Toronto Raptors;Reggie Bullock;2;0;17.5;2.0;1.5;3.0;4.5;1.0;0.0;0.0;0.0;1.5;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Toronto Raptors;Willie Cauley-Stein;1;0;3.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Toronto Raptors;Sterling Brown;1;0;9.0;0.0;2.0;1.0;3.0;1.0;0.0;0.0;1.0;2.0;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Toronto Raptors;Frank Ntilikina;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Toronto Raptors;Total;2;"";"";102.5;11.5;36.0;47.5;23.5;5.5;3.0;12.5;21.0;1.9
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Chicago Bulls;Kristaps Porzingis;1;1;32.0;22.0;3.0;9.0;12.0;1.0;0.0;0.0;1.0;4.0;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Chicago Bulls;Luka Doncic;2;2;34.5;21.0;0.5;10.5;11.0;12.0;2.0;0.5;4.0;0.5;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Chicago Bulls;Maxi Kleber;1;1;30.0;18.0;0.0;4.0;4.0;2.0;0.0;1.0;0.0;3.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Chicago Bulls;Tim Hardaway Jr.;2;1;30.5;15.0;0.0;4.5;4.5;1.5;1.5;0.0;0.5;2.0;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Chicago Bulls;Jalen Brunson;2;1;28.5;14.5;0.5;3.5;4.0;5.5;1.0;0.0;1.0;0.5;5.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Chicago Bulls;Dwight Powell;2;2;23.5;11.0;1.5;2.5;4.0;1.0;0.0;1.0;0.0;1.5;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Chicago Bulls;Josh Green;2;0;12.0;11.0;0.5;2.5;3.0;0.5;0.0;0.0;0.5;1.5;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Chicago Bulls;Dorian Finney-Smith;2;2;29.5;8.5;1.0;1.5;2.5;1.0;1.5;1.0;1.0;0.5;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Chicago Bulls;Reggie Bullock;2;0;20.5;2.5;0.0;2.0;2.0;1.0;0.0;0.0;0.5;2.0;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Chicago Bulls;Sterling Brown;2;0;13.0;2.5;0.5;2.5;3.0;0.5;0.0;0.0;0.5;1.0;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Chicago Bulls;Willie Cauley-Stein;1;0;5.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Chicago Bulls;Marquese Chriss;1;0;8.0;2.0;1.0;2.0;3.0;0.0;0.0;0.0;0.0;3.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Chicago Bulls;Frank Ntilikina;2;0;6.0;2.0;0.0;0.5;0.5;1.0;0.0;0.0;1.0;0.0;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Chicago Bulls;Boban Marjanovic;1;0;1.0;0.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Chicago Bulls;Trey Burke;1;0;2.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;1.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Chicago Bulls;Moses Brown;2;0;2.5;0.0;0.5;0.0;0.5;0.0;0.0;0.0;0.5;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Chicago Bulls;Total;2;"";"";110.0;7.5;38.0;45.5;25.5;6.5;3.0;10.5;15.0;2.4
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Luka Doncic;2;2;35.5;30.0;1.0;8.5;9.5;11.5;1.0;1.0;3.5;1.5;3.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Dorian Finney-Smith;2;2;31.0;21.0;1.0;0.5;1.5;2.5;1.0;0.5;0.5;2.5;5.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Jalen Brunson;2;1;30.5;11.5;1.0;2.0;3.0;3.0;0.0;0.0;0.5;1.0;6.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Boban Marjanovic;1;0;8.0;10.0;0.0;4.0;4.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Maxi Kleber;2;0;25.5;9.5;1.0;2.5;3.5;0.5;0.5;1.5;1.0;2.0;0.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Kristaps Porzingis;1;1;27.0;9.0;1.0;4.0;5.0;1.0;0.0;4.0;0.0;0.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Dwight Powell;2;1;15.0;7.5;1.5;2.0;3.5;0.5;1.0;0.5;0.0;3.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Tim Hardaway Jr.;1;1;27.0;6.0;0.0;1.0;1.0;2.0;2.0;1.0;2.0;0.0;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Trey Burke;1;0;8.0;6.0;0.0;0.0;0.0;3.0;0.0;0.0;1.0;0.0;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Reggie Bullock;2;1;32.5;4.5;0.5;2.5;3.0;1.5;0.5;0.0;1.5;1.5;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Sterling Brown;1;0;15.0;4.0;0.0;4.0;4.0;2.0;1.0;0.0;0.0;1.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Davis Bertans;1;0;10.0;3.0;0.0;1.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Brandon Knight;1;0;7.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Marquese Chriss;1;0;3.0;2.0;2.0;0.0;2.0;1.0;0.0;0.0;0.0;2.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Moses Brown;1;1;11.0;2.0;0.0;2.0;2.0;0.0;1.0;0.0;2.0;4.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Josh Green;2;0;12.5;2.0;0.5;1.5;2.0;0.0;1.0;0.0;1.0;1.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Total;2;"";"";108.0;8.0;27.5;35.5;24.0;7.0;6.5;10.5;16.0;2.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Detroit Pistons;Luka Doncic;2;2;33.5;29.5;0.5;7.0;7.5;12.5;1.0;1.0;5.5;3.5;2.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Detroit Pistons;Jalen Brunson;2;2;30.0;22.5;0.5;3.0;3.5;3.5;0.5;0.0;0.5;2.0;7.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Detroit Pistons;Spencer Dinwiddie;1;0;23.0;13.0;2.0;2.0;4.0;3.0;1.0;0.0;2.0;2.0;1.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Detroit Pistons;Dorian Finney-Smith;2;2;32.5;12.0;1.0;4.0;5.0;3.0;1.5;0.0;1.5;2.0;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Detroit Pistons;Reggie Bullock;2;2;30.0;10.5;0.0;3.5;3.5;1.5;0.0;0.0;0.5;1.5;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Detroit Pistons;Dwight Powell;2;2;25.0;9.5;3.0;4.0;7.0;0.5;0.5;0.5;0.0;3.5;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Detroit Pistons;Davis Bertans;1;0;12.0;9.0;0.0;2.0;2.0;2.0;0.0;0.0;0.0;1.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Detroit Pistons;Trey Burke;2;0;11.5;9.0;0.0;1.5;1.5;0.5;0.5;0.0;1.5;1.0;0.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Detroit Pistons;Josh Green;2;0;21.0;7.0;0.0;5.0;5.0;0.5;2.5;0.0;0.0;2.5;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Detroit Pistons;Marquese Chriss;2;0;13.0;6.0;1.0;1.0;2.0;0.0;2.0;0.0;1.0;2.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Detroit Pistons;Maxi Kleber;1;0;18.0;5.0;0.0;7.0;7.0;1.0;0.0;1.0;0.0;1.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Detroit Pistons;Frank Ntilikina;2;0;9.0;3.0;0.0;1.5;1.5;0.5;0.0;0.5;0.0;1.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Detroit Pistons;Theo Pinson;2;0;5.5;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Detroit Pistons;Moses Brown;1;0;4.0;0.0;0.0;2.0;2.0;1.0;0.0;1.0;0.0;0.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Detroit Pistons;Total;2;"";"";123.5;7.0;37.0;44.0;26.0;9.0;3.0;11.5;21.0;2.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Indiana Pacers;Luka Doncic;2;2;34.5;28.5;1.5;6.0;7.5;10.5;1.0;1.5;2.0;2.0;5.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Indiana Pacers;Tim Hardaway Jr.;1;0;30.0;15.0;1.0;3.0;4.0;2.0;3.0;0.0;2.0;1.0;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Indiana Pacers;Kristaps Porzingis;2;2;21.0;13.5;1.0;0.5;1.5;1.0;0.0;0.0;0.0;2.5;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Indiana Pacers;Jalen Brunson;2;1;31.5;13.5;1.0;3.0;4.0;4.5;1.5;0.0;1.5;0.5;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Indiana Pacers;Reggie Bullock;2;1;23.0;11.5;0.0;2.0;2.0;0.0;0.5;0.0;0.5;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Indiana Pacers;Maxi Kleber;2;1;18.0;8.5;1.0;7.0;8.0;1.0;0.5;0.0;0.0;2.5;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Indiana Pacers;Josh Green;2;0;14.0;7.0;1.0;0.0;1.0;1.5;0.5;0.0;0.5;3.0;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Indiana Pacers;Dwight Powell;2;1;21.0;6.0;2.0;2.0;4.0;1.0;1.0;1.5;1.0;2.5;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Indiana Pacers;Moses Brown;1;0;9.0;5.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Indiana Pacers;Dorian Finney-Smith;2;2;33.0;4.5;2.0;4.0;6.0;1.5;0.5;0.5;1.5;1.5;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Indiana Pacers;Frank Ntilikina;2;0;11.0;4.5;0.0;1.0;1.0;1.0;0.0;0.0;0.0;1.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Indiana Pacers;Marquese Chriss;1;0;16.0;4.0;3.0;5.0;8.0;3.0;1.0;2.0;1.0;4.0;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Indiana Pacers;Trey Burke;1;0;5.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Indiana Pacers;Theo Pinson;1;0;5.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Indiana Pacers;Total;2;"";"";112.5;11.5;30.0;41.5;24.5;7.5;4.5;8.5;18.5;2.9
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Luka Doncic;1;1;39.0;32.0;0.0;8.0;8.0;15.0;3.0;0.0;6.0;2.0;2.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Dwight Powell;2;2;26.5;17.0;1.5;6.5;8.0;1.5;1.0;0.0;1.5;2.0;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Jalen Brunson;2;2;37.5;17.0;0.5;3.0;3.5;4.5;0.5;0.0;1.5;1.0;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Reggie Bullock;1;1;40.0;16.0;0.0;7.0;7.0;1.0;0.0;1.0;0.0;5.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Frank Ntilikina;1;1;38.0;14.0;0.0;1.0;1.0;5.0;2.0;0.0;3.0;3.0;1.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Dorian Finney-Smith;2;2;40.0;11.5;0.0;2.0;2.0;4.5;1.0;1.5;0.0;3.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Spencer Dinwiddie;1;0;21.0;11.0;0.0;0.0;0.0;4.0;0.0;0.0;2.0;2.0;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Sterling Brown;1;1;37.0;10.0;3.0;10.0;13.0;3.0;1.0;0.0;0.0;1.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Theo Pinson;1;0;22.0;9.0;0.0;4.0;4.0;1.0;0.0;0.0;0.0;4.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Marquese Chriss;2;0;8.5;7.5;1.5;1.0;2.5;0.0;1.0;0.0;1.5;3.5;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Davis Bertans;1;0;17.0;6.0;0.0;5.0;5.0;0.0;0.0;1.0;1.0;3.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Moses Brown;1;0;9.0;3.0;0.0;5.0;5.0;0.0;0.0;0.0;1.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Josh Green;1;0;10.0;3.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Brandon Knight;1;0;10.0;2.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;1.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Milwaukee Bucks;George King;1;0;4.0;1.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Carlik Jones;1;0;9.0;0.0;0.0;2.0;2.0;3.0;0.0;0.0;1.0;0.0;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Total;2;"";"";106.5;5.0;35.5;40.5;26.5;6.5;2.5;11.5;20.5;2.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Atlanta Hawks;Jalen Brunson;2;1;28.0;19.5;0.0;4.0;4.0;4.0;0.5;0.0;2.0;3.5;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Atlanta Hawks;Luka Doncic;2;2;31.5;18.0;1.5;9.0;10.5;9.0;1.0;0.0;3.0;3.0;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Atlanta Hawks;Tim Hardaway Jr.;1;1;28.0;14.0;0.0;2.0;2.0;0.0;1.0;0.0;1.0;3.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Atlanta Hawks;Reggie Bullock;2;1;26.5;12.5;0.5;4.5;5.0;1.0;1.0;0.0;1.0;1.5;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Atlanta Hawks;Kristaps Porzingis;1;1;29.0;11.0;2.0;3.0;5.0;0.0;1.0;2.0;4.0;3.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Atlanta Hawks;Dwight Powell;2;2;28.5;8.0;2.5;3.0;5.5;2.0;0.5;1.0;1.0;2.0;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Atlanta Hawks;Dorian Finney-Smith;2;2;35.5;8.0;2.5;3.5;6.0;2.0;1.5;0.5;1.0;3.0;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Atlanta Hawks;Trey Burke;2;0;12.5;6.0;0.5;1.0;1.5;1.5;0.0;0.0;1.0;2.5;1.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Atlanta Hawks;Josh Green;2;0;14.0;5.5;1.0;2.0;3.0;0.5;1.5;0.5;1.0;0.5;0.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Atlanta Hawks;Maxi Kleber;1;0;17.0;3.0;1.0;2.0;3.0;0.0;1.0;0.0;1.0;2.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Atlanta Hawks;Sterling Brown;1;0;11.0;3.0;0.0;5.0;5.0;0.0;0.0;0.0;1.0;2.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Atlanta Hawks;Willie Cauley-Stein;1;0;13.0;2.0;1.0;5.0;6.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Atlanta Hawks;Marquese Chriss;1;0;12.0;2.0;1.0;4.0;5.0;0.0;0.0;0.0;1.0;2.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Atlanta Hawks;Frank Ntilikina;2;0;9.5;0.0;0.0;0.5;0.5;0.5;0.0;1.0;0.5;1.0;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Atlanta Hawks;Total;2;"";"";95.0;11.0;38.0;49.0;20.5;7.5;4.0;14.5;23.0;1.4
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Charlotte Hornets;Luka Doncic;1;1;30.0;37.0;0.0;4.0;4.0;3.0;0.0;0.0;4.0;2.0;0.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Charlotte Hornets;Kristaps Porzingis;1;1;25.0;24.0;4.0;9.0;13.0;0.0;0.0;5.0;0.0;2.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Charlotte Hornets;Tim Hardaway Jr.;1;0;27.0;19.0;0.0;1.0;1.0;4.0;0.0;0.0;0.0;3.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Charlotte Hornets;Trey Burke;2;0;22.5;13.5;0.0;2.0;2.0;3.5;0.5;0.0;2.5;2.5;1.4
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Charlotte Hornets;Dorian Finney-Smith;2;2;30.5;11.5;1.5;1.0;2.5;1.5;0.5;0.5;0.5;2.5;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Charlotte Hornets;Jalen Brunson;2;2;24.0;11.5;0.0;2.0;2.0;5.0;1.5;0.0;1.0;2.0;5.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Charlotte Hornets;Marquese Chriss;1;0;17.0;10.0;3.0;6.0;9.0;1.0;0.0;2.0;0.0;2.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Charlotte Hornets;Reggie Bullock;1;1;33.0;9.0;0.0;4.0;4.0;2.0;1.0;0.0;0.0;2.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Charlotte Hornets;Josh Green;2;0;21.0;8.0;2.0;2.5;4.5;2.0;0.0;0.5;2.5;0.5;0.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Charlotte Hornets;Maxi Kleber;2;1;27.5;6.0;1.5;6.0;7.5;1.5;0.5;1.0;1.0;2.5;1.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Charlotte Hornets;Frank Ntilikina;2;0;13.5;6.0;1.0;2.0;3.0;2.5;0.5;0.5;0.0;1.5;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Charlotte Hornets;Boban Marjanovic;1;0;3.0;4.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Charlotte Hornets;Sterling Brown;1;0;17.0;4.0;2.0;2.0;4.0;1.0;0.0;0.0;0.0;3.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Charlotte Hornets;Moses Brown;1;0;9.0;4.0;2.0;4.0;6.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Charlotte Hornets;Davis Bertans;1;0;12.0;2.0;0.0;3.0;3.0;1.0;0.0;0.0;1.0;6.0;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Charlotte Hornets;Dwight Powell;2;2;15.0;1.0;1.5;1.5;3.0;1.0;0.0;0.0;0.5;1.0;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Charlotte Hornets;Total;2;"";"";114.0;13.0;34.0;47.0;23.0;4.0;6.0;11.0;22.5;2.1
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Miami Heat;Luka Doncic;2;2;37.0;27.0;1.5;5.0;6.5;5.5;0.0;0.5;3.0;2.5;1.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Miami Heat;Jalen Brunson;2;2;35.0;22.0;2.0;4.5;6.5;4.5;1.0;0.0;2.5;2.5;1.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Miami Heat;Maxi Kleber;1;0;35.0;19.0;2.0;4.0;6.0;0.0;1.0;5.0;1.0;3.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Miami Heat;Tim Hardaway Jr.;1;1;31.0;17.0;0.0;3.0;3.0;3.0;0.0;1.0;0.0;3.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Miami Heat;Davis Bertans;1;0;13.0;12.0;1.0;2.0;3.0;1.0;0.0;0.0;0.0;2.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Miami Heat;Dorian Finney-Smith;2;2;33.5;11.0;2.0;3.0;5.0;1.0;0.0;1.0;1.0;3.5;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Miami Heat;Reggie Bullock;1;0;25.0;10.0;0.0;2.0;2.0;1.0;0.0;0.0;0.0;3.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Miami Heat;Dwight Powell;2;2;25.5;6.5;1.5;3.5;5.0;2.5;1.0;0.5;0.5;5.0;5.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Miami Heat;Spencer Dinwiddie;1;0;23.0;4.0;0.0;2.0;2.0;5.0;1.0;0.0;0.0;2.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Miami Heat;Josh Green;2;1;12.0;4.0;1.0;1.0;2.0;1.5;0.0;0.0;0.0;1.5;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Miami Heat;Frank Ntilikina;2;0;11.0;3.5;0.5;0.0;0.5;0.5;0.0;0.0;0.0;1.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Miami Heat;Sterling Brown;2;0;9.5;2.0;0.5;2.5;3.0;0.5;0.0;0.0;0.0;0.5;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Miami Heat;Moses Brown;1;0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Miami Heat;Eugene Omoruyi;1;0;2.0;1.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Miami Heat;Boban Marjanovic;1;0;2.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Miami Heat;Willie Cauley-Stein;1;0;19.0;0.0;2.0;1.0;3.0;1.0;0.0;0.0;1.0;1.0;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Miami Heat;JaQuori McLaughlin;1;0;2.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Miami Heat;Total;2;"";"";108.5;11.5;28.0;39.5;22.0;3.0;5.0;8.5;23.5;2.6
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Orlando Magic;Luka Doncic;2;2;34.5;28.5;0.5;10.0;10.5;7.0;0.5;0.0;3.5;3.0;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Orlando Magic;Kristaps Porzingis;1;1;28.0;19.0;2.0;5.0;7.0;0.0;1.0;1.0;1.0;3.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Orlando Magic;Tim Hardaway Jr.;1;0;23.0;17.0;0.0;2.0;2.0;0.0;0.0;0.0;2.0;2.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Orlando Magic;Jalen Brunson;2;2;31.5;17.0;1.0;3.5;4.5;2.5;1.0;0.0;0.5;0.5;5.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Orlando Magic;Josh Green;2;0;23.5;9.0;1.5;1.0;2.5;2.5;0.5;0.0;1.5;2.5;1.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Orlando Magic;Marquese Chriss;2;0;12.5;8.0;0.5;2.0;2.5;0.5;2.0;1.0;0.0;1.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Orlando Magic;Reggie Bullock;2;0;25.0;7.0;1.0;3.0;4.0;2.0;1.5;0.0;1.0;1.0;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Orlando Magic;Dwight Powell;2;1;17.5;7.0;1.5;2.5;4.0;1.0;0.5;0.0;1.5;3.5;0.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Orlando Magic;Dorian Finney-Smith;2;2;31.0;6.0;2.0;2.5;4.5;1.5;0.5;1.0;2.0;2.0;0.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Orlando Magic;Maxi Kleber;2;2;23.5;4.5;0.0;3.5;3.5;1.0;0.0;1.0;1.0;1.0;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Orlando Magic;Sterling Brown;1;0;14.0;3.0;1.0;3.0;4.0;0.0;0.0;0.0;0.0;1.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Orlando Magic;Frank Ntilikina;2;0;5.0;1.5;0.0;1.0;1.0;1.0;0.5;0.0;1.0;0.5;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Orlando Magic;Trey Burke;2;0;4.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Orlando Magic;Total;2;"";"";108.0;9.5;34.0;43.5;19.0;7.5;3.5;13.5;18.5;1.4
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Washington Wizards;Luka Doncic;2;2;36.5;34.5;0.0;5.5;5.5;8.0;0.0;0.5;4.5;3.0;1.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Washington Wizards;Jalen Brunson;1;1;32.0;21.0;0.0;5.0;5.0;2.0;1.0;0.0;1.0;3.0;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Washington Wizards;Trey Burke;1;0;11.0;14.0;0.0;1.0;1.0;4.0;0.0;0.0;1.0;2.0;4.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Washington Wizards;Kristaps Porzingis;1;1;36.0;13.0;0.0;7.0;7.0;3.0;3.0;1.0;0.0;2.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Washington Wizards;Tim Hardaway Jr.;1;1;36.0;10.0;1.0;1.0;2.0;2.0;3.0;0.0;0.0;3.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Washington Wizards;Maxi Kleber;2;0;28.0;9.5;1.5;4.0;5.5;0.5;0.5;1.0;0.5;2.5;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Washington Wizards;Dorian Finney-Smith;2;2;28.0;8.0;1.0;2.0;3.0;1.5;1.0;0.0;0.5;1.5;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Washington Wizards;Spencer Dinwiddie;1;0;23.0;8.0;0.0;2.0;2.0;1.0;0.0;0.0;3.0;0.0;0.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Washington Wizards;Sterling Brown;1;0;13.0;8.0;1.0;4.0;5.0;1.0;0.0;0.0;0.0;1.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Washington Wizards;Reggie Bullock;2;1;31.0;7.5;1.0;2.0;3.0;1.0;0.0;0.0;0.0;1.5;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Washington Wizards;Dwight Powell;2;1;15.5;6.0;0.5;3.0;3.5;0.0;0.0;0.5;0.5;1.5;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Washington Wizards;Willie Cauley-Stein;1;1;10.0;4.0;3.0;0.0;3.0;0.0;0.0;2.0;2.0;3.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Washington Wizards;Josh Green;1;0;14.0;4.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;2.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Washington Wizards;Marquese Chriss;1;0;10.0;2.0;1.0;1.0;2.0;2.0;0.0;0.0;0.0;1.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Washington Wizards;Frank Ntilikina;1;0;3.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Washington Wizards;Davis Bertans;1;0;10.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Washington Wizards;Brandon Knight;1;0;3.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Washington Wizards;Total;2;"";"";108.5;7.0;28.5;35.5;18.5;5.0;3.5;10.0;18.5;1.9
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Denver Nuggets;Kristaps Porzingis;1;1;33.0;29.0;5.0;6.0;11.0;3.0;2.0;1.0;2.0;2.0;1.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Denver Nuggets;Luka Doncic;3;3;32.7;20.0;0.3;7.0;7.3;10.0;2.7;0.3;3.0;3.0;3.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Denver Nuggets;Jalen Brunson;3;1;29.7;11.3;0.0;2.7;2.7;4.3;1.0;0.0;1.3;1.3;3.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Denver Nuggets;Trey Burke;1;0;16.0;11.0;0.0;1.0;1.0;1.0;1.0;0.0;2.0;0.0;0.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Denver Nuggets;Tim Hardaway Jr.;3;2;25.3;9.3;0.3;4.0;4.3;2.0;1.0;0.3;1.0;1.0;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Denver Nuggets;Dwight Powell;3;3;21.3;9.3;2.0;2.0;4.0;0.3;0.3;0.0;0.7;2.0;0.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Denver Nuggets;Maxi Kleber;2;1;27.0;8.5;1.0;2.5;3.5;1.0;1.0;1.5;1.0;1.5;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Denver Nuggets;Reggie Bullock;3;1;27.0;8.3;0.0;2.3;2.3;1.0;0.3;0.0;0.0;1.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Denver Nuggets;Dorian Finney-Smith;3;3;22.0;6.7;0.3;2.0;2.3;0.0;1.0;0.3;2.0;4.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Denver Nuggets;Eugene Omoruyi;1;0;9.0;6.0;1.0;2.0;3.0;1.0;0.0;0.0;0.0;1.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Denver Nuggets;Frank Ntilikina;3;0;12.0;3.3;0.0;1.0;1.0;1.0;1.0;0.3;0.0;0.7;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Denver Nuggets;Josh Green;2;0;16.5;3.0;1.0;3.0;4.0;0.5;0.0;0.5;2.0;2.0;0.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Denver Nuggets;Sterling Brown;2;0;9.0;2.5;0.5;0.0;0.5;1.0;0.0;0.0;0.0;1.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Denver Nuggets;Willie Cauley-Stein;2;0;8.0;2.0;0.0;0.5;0.5;0.5;0.0;0.0;0.0;0.5;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Denver Nuggets;Marquese Chriss;1;0;16.0;2.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;2.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Denver Nuggets;Boban Marjanovic;2;0;3.0;1.5;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.5;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Denver Nuggets;Moses Brown;1;0;9.0;1.0;1.0;3.0;4.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Denver Nuggets;Theo Pinson;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Denver Nuggets;Total;3;"";"";96.3;7.0;29.0;36.0;22.3;9.0;3.3;11.3;19.0;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Tim Hardaway Jr.;1;1;41.0;28.0;0.0;6.0;6.0;6.0;2.0;1.0;1.0;2.0;6.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Luka Doncic;2;2;37.5;19.5;0.0;8.0;8.0;9.0;1.0;0.0;5.5;2.0;1.6
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Jalen Brunson;4;4;35.3;18.0;0.3;3.0;3.3;4.5;1.0;0.3;2.3;3.3;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Dorian Finney-Smith;4;4;36.5;16.0;1.8;3.3;5.0;3.0;0.8;0.5;1.0;2.0;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Spencer Dinwiddie;2;0;27.5;15.5;0.5;4.5;5.0;3.5;0.0;0.5;0.0;1.5;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Dwight Powell;4;4;22.3;14.0;2.5;3.8;6.3;1.8;0.5;0.5;1.0;4.3;1.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Kristaps Porzingis;1;1;23.0;13.0;0.0;3.0;3.0;1.0;1.0;1.0;0.0;1.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Reggie Bullock;2;2;35.0;10.0;2.0;5.5;7.5;2.5;0.5;0.0;0.5;3.0;5.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Boban Marjanovic;2;0;7.0;7.5;0.5;1.0;1.5;0.0;0.0;0.5;0.5;1.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Sterling Brown;2;1;26.5;7.5;1.0;6.5;7.5;1.5;0.5;0.0;1.0;1.5;1.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Theo Pinson;1;0;22.0;7.0;0.0;4.0;4.0;3.0;4.0;1.0;1.0;1.0;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Trey Burke;2;0;19.5;6.0;0.0;2.0;2.0;4.0;0.5;0.0;0.0;2.5;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Maxi Kleber;3;0;25.3;6.0;1.0;7.3;8.3;2.7;0.3;0.3;0.3;2.7;8.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Josh Green;2;0;14.5;4.5;0.5;1.5;2.0;1.0;0.5;0.5;1.5;1.5;0.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Marquese Chriss;2;0;11.0;4.0;0.5;3.5;4.0;0.0;0.0;0.5;0.0;1.5;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Moses Brown;2;0;6.0;4.0;0.5;0.5;1.0;0.0;0.0;0.0;0.0;1.5;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Frank Ntilikina;3;1;16.3;3.0;0.7;0.7;1.3;2.3;0.7;0.0;1.0;1.3;2.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;JaQuori McLaughlin;2;0;2.5;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Total;4;"";"";106.0;8.5;35.8;44.3;26.3;6.3;3.3;10.3;21.8;2.6
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Luka Doncic;3;3;37.7;24.7;1.0;7.7;8.7;10.7;2.3;1.0;4.0;2.0;2.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Jalen Brunson;4;4;35.0;16.0;0.3;4.8;5.0;5.5;1.3;0.0;3.0;2.8;1.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Kristaps Porzingis;2;2;29.0;13.0;0.5;7.0;7.5;2.0;0.5;2.5;1.5;3.5;1.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Reggie Bullock;3;1;30.7;11.7;0.7;4.3;5.0;1.7;1.7;0.3;0.0;1.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Tim Hardaway Jr.;3;0;26.7;11.0;0.7;3.7;4.3;2.7;0.3;0.0;1.3;1.0;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Maxi Kleber;4;3;27.8;10.8;1.8;4.0;5.8;1.3;1.0;1.3;0.5;1.5;2.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Marquese Chriss;2;0;14.0;10.5;1.0;3.5;4.5;0.5;0.0;0.5;1.0;2.0;0.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Dorian Finney-Smith;4;4;34.0;9.5;2.8;4.5;7.3;3.0;1.5;0.5;1.3;1.8;2.4
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Moses Brown;2;0;14.0;9.0;1.0;3.5;4.5;0.0;0.5;1.0;1.0;1.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Dwight Powell;4;3;17.5;6.8;1.8;1.8;3.5;1.0;0.3;0.3;0.3;1.8;4.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Trey Burke;2;0;10.5;5.0;0.0;0.5;0.5;2.5;0.0;0.0;0.0;1.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Josh Green;4;0;17.8;4.8;0.8;1.8;2.5;2.0;0.8;0.5;0.3;1.8;8.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Frank Ntilikina;3;0;7.0;2.7;0.0;0.3;0.3;0.3;0.3;0.3;0.0;0.7;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Sterling Brown;2;0;7.0;0.0;0.0;1.5;1.5;1.0;0.5;0.0;1.0;1.5;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Theo Pinson;1;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Total;4;"";"";104.0;10.3;36.8;47.0;27.3;9.0;5.8;11.5;17.5;2.4
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Kristaps Porzingis;2;2;30.0;28.0;1.0;6.0;7.0;3.0;1.5;1.0;1.5;3.5;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Luka Doncic;2;2;33.5;27.0;0.0;10.5;10.5;11.0;0.5;0.5;4.0;0.5;2.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Dwight Powell;3;2;23.3;18.3;2.0;1.7;3.7;0.7;0.7;0.7;1.3;3.7;0.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Brandon Knight;1;0;24.0;18.0;0.0;3.0;3.0;5.0;1.0;0.0;2.0;2.0;2.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Jalen Brunson;3;3;28.7;14.3;0.7;3.7;4.3;7.3;0.3;0.0;0.3;1.0;22.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Spencer Dinwiddie;1;0;16.0;14.0;0.0;1.0;1.0;2.0;1.0;1.0;1.0;0.0;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Dorian Finney-Smith;3;3;28.7;13.3;1.7;5.0;6.7;2.7;1.0;0.7;0.7;1.7;4.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Maxi Kleber;1;1;27.0;12.0;0.0;5.0;5.0;1.0;1.0;3.0;0.0;2.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Reggie Bullock;2;1;26.0;10.0;0.5;2.5;3.0;0.0;0.5;0.5;1.0;2.5;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Josh Green;3;0;19.3;6.3;0.7;2.7;3.3;4.7;1.0;0.3;0.7;2.0;7.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Davis Bertans;1;0;21.0;6.0;2.0;6.0;8.0;6.0;1.0;1.0;0.0;1.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Moses Brown;1;0;10.0;6.0;3.0;2.0;5.0;0.0;0.0;1.0;3.0;3.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Frank Ntilikina;3;1;14.3;5.3;0.0;0.3;0.3;1.0;0.0;0.0;0.0;2.3;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Sterling Brown;2;0;10.0;5.0;0.0;2.0;2.0;0.5;0.5;0.0;0.5;1.5;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Boban Marjanovic;2;0;7.5;4.0;0.0;3.5;3.5;0.0;0.0;0.0;1.5;2.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Marquese Chriss;2;0;8.0;3.5;0.5;1.5;2.0;1.0;0.0;0.0;0.5;1.0;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Trey Burke;2;0;7.0;2.0;0.0;0.5;0.5;0.5;0.5;0.0;0.0;1.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Carlik Jones;1;0;5.0;2.0;0.0;0.0;0.0;1.0;0.0;0.0;1.0;0.0;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Theo Pinson;3;0;7.3;0.7;0.3;0.3;0.7;0.7;0.3;0.0;0.3;1.3;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Portland Trail Blazers;George King;1;0;4.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;2.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Charlie Brown Jr.;1;0;6.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Total;3;"";"";130.7;8.3;37.3;45.7;32.7;7.0;5.0;11.7;23.7;2.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Utah Jazz;Luka Doncic;3;3;35.3;30.0;1.3;9.7;11.0;7.7;1.3;0.3;3.3;3.7;2.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Utah Jazz;Kristaps Porzingis;1;1;34.0;27.0;2.0;7.0;9.0;3.0;1.0;2.0;3.0;2.0;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Utah Jazz;Jalen Brunson;3;3;34.7;19.0;1.7;3.0;4.7;4.3;1.0;0.0;1.3;3.7;3.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Utah Jazz;Spencer Dinwiddie;3;1;30.0;18.3;0.3;2.7;3.0;2.0;0.3;0.0;1.3;2.3;1.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Utah Jazz;Reggie Bullock;3;3;34.3;12.3;0.0;2.3;2.3;1.7;1.0;0.3;1.0;2.0;1.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Utah Jazz;Dorian Finney-Smith;3;3;33.0;12.0;2.3;1.7;4.0;2.0;0.3;0.0;0.3;2.7;6.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Utah Jazz;Dwight Powell;4;4;24.0;11.5;2.5;3.3;5.8;0.8;0.5;0.5;0.8;2.3;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Utah Jazz;Brandon Knight;1;0;21.0;10.0;0.0;2.0;2.0;3.0;0.0;0.0;2.0;2.0;1.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Utah Jazz;Frank Ntilikina;2;1;19.0;10.0;0.5;1.5;2.0;1.0;1.5;0.0;0.5;1.5;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Utah Jazz;Theo Pinson;1;0;22.0;9.0;0.0;5.0;5.0;1.0;0.0;0.0;1.0;0.0;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Utah Jazz;Davis Bertans;3;0;16.3;8.3;0.0;2.3;2.3;0.3;1.0;0.3;0.0;0.3;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Utah Jazz;Moses Brown;1;0;11.0;6.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;4.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Utah Jazz;Sterling Brown;2;1;18.0;4.5;0.0;2.0;2.0;1.0;0.0;0.0;0.5;2.5;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Utah Jazz;Maxi Kleber;3;0;25.0;4.3;1.0;4.3;5.3;2.0;1.0;1.3;1.0;1.3;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Utah Jazz;Marquese Chriss;2;0;7.0;2.0;0.5;2.0;2.5;0.0;0.0;0.5;1.0;3.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Utah Jazz;Charlie Brown Jr.;1;0;8.0;2.0;0.0;1.0;1.0;1.0;2.0;0.0;0.0;1.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Utah Jazz;Josh Green;3;0;14.7;1.3;0.3;1.3;1.7;1.7;0.7;0.3;0.7;1.7;2.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Utah Jazz;Trey Burke;1;0;4.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Utah Jazz;George King;1;0;9.0;0.0;0.0;3.0;3.0;0.0;0.0;0.0;1.0;1.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Utah Jazz;Total;4;"";"";112.5;8.8;31.5;40.3;20.3;7.0;3.3;10.3;21.5;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Golden State Warriors;Luka Doncic;4;4;34.5;31.5;1.0;8.0;9.0;5.5;1.5;0.3;5.8;1.8;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Golden State Warriors;Spencer Dinwiddie;2;0;30.0;20.5;0.0;2.5;2.5;6.0;0.5;0.0;1.0;1.5;6.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Golden State Warriors;Dorian Finney-Smith;4;4;33.8;14.3;2.3;3.5;5.8;1.3;0.5;0.8;0.8;1.3;1.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Golden State Warriors;Tim Hardaway Jr.;2;0;18.0;12.0;0.0;1.5;1.5;1.0;0.5;0.5;0.5;0.5;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Golden State Warriors;Jalen Brunson;4;4;32.8;12.0;0.0;2.8;2.8;4.5;0.5;0.3;2.3;2.3;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Golden State Warriors;Reggie Bullock;4;2;31.8;9.5;0.5;2.5;3.0;1.5;1.3;1.0;0.8;2.3;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Golden State Warriors;Kristaps Porzingis;1;1;25.0;9.0;1.0;6.0;7.0;1.0;1.0;2.0;3.0;2.0;0.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Golden State Warriors;Dwight Powell;4;3;18.8;5.3;2.3;2.5;4.8;1.0;0.8;0.3;0.5;3.0;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Golden State Warriors;Frank Ntilikina;2;0;9.5;5.0;0.0;2.5;2.5;0.5;0.0;0.0;0.0;0.5;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Golden State Warriors;Trey Burke;1;0;8.0;4.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Golden State Warriors;Maxi Kleber;3;2;25.7;4.0;1.3;5.3;6.7;1.0;0.7;0.7;0.0;1.3;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Golden State Warriors;Davis Bertans;2;0;16.0;3.5;0.0;2.5;2.5;0.0;0.0;0.5;0.0;1.5;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Golden State Warriors;Sterling Brown;2;0;9.0;3.5;0.0;2.0;2.0;0.5;0.0;0.0;0.5;0.5;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Golden State Warriors;Josh Green;4;0;14.5;3.3;0.8;0.8;1.5;1.3;0.8;0.0;0.8;1.8;1.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Golden State Warriors;Marquese Chriss;2;0;6.0;1.5;0.5;1.5;2.0;0.5;0.5;0.5;0.0;1.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Golden State Warriors;Theo Pinson;2;0;4.5;0.0;0.5;0.5;1.0;1.0;0.0;0.0;0.0;0.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Golden State Warriors;Total;4;"";"";105.0;8.5;32.0;40.5;21.0;6.8;4.3;12.5;16.5;1.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. LA Clippers;Luka Doncic;3;3;40.0;40.7;0.3;10.7;11.0;7.7;0.7;1.0;6.7;3.3;1.2
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. LA Clippers;Kristaps Porzingis;2;2;36.0;27.5;4.0;3.5;7.5;1.5;0.5;1.5;2.5;3.0;0.6
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. LA Clippers;Jalen Brunson;4;3;30.8;14.3;0.3;3.3;3.5;4.3;1.3;0.0;2.3;1.8;1.9
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. LA Clippers;Tim Hardaway Jr.;2;2;38.5;10.5;0.5;5.0;5.5;3.5;0.5;0.0;0.5;4.5;7.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. LA Clippers;Dorian Finney-Smith;4;4;38.3;9.8;1.0;2.5;3.5;1.3;1.8;0.3;1.5;2.8;0.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. LA Clippers;Reggie Bullock;3;2;36.3;9.3;0.3;3.3;3.7;1.0;0.0;0.0;0.3;3.0;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. LA Clippers;Dwight Powell;4;3;18.8;5.8;2.3;2.0;4.3;1.0;0.0;0.8;0.8;1.8;1.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. LA Clippers;Maxi Kleber;4;0;26.3;5.3;2.0;5.5;7.5;2.3;0.5;0.5;0.3;2.0;9.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. LA Clippers;Sterling Brown;2;0;9.0;3.5;1.0;2.0;3.0;0.5;0.0;0.0;0.5;0.5;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. LA Clippers;Frank Ntilikina;3;0;9.3;3.3;0.0;0.3;0.3;0.3;0.3;0.3;0.7;0.7;0.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. LA Clippers;Boban Marjanovic;2;0;1.5;3.0;0.0;0.5;0.5;0.0;0.0;0.0;0.0;0.5;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. LA Clippers;Willie Cauley-Stein;2;1;13.5;3.0;0.5;1.0;1.5;0.5;1.5;0.0;1.0;2.5;0.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. LA Clippers;Josh Green;2;0;17.5;3.0;1.5;1.5;3.0;1.0;1.5;0.0;0.0;2.5;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. LA Clippers;Trey Burke;4;0;9.0;2.8;0.0;0.5;0.5;0.5;0.0;0.0;0.0;0.8;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. LA Clippers;Marquese Chriss;1;0;5.0;0.0;2.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. LA Clippers;Total;4;"";"";103.0;10.3;31.3;41.5;19.5;6.3;3.3;12.8;21.0;1.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Luka Doncic;2;2;33.5;29.5;2.0;8.0;10.0;8.5;1.0;1.0;3.5;1.0;2.4
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Kristaps Porzingis;1;1;39.0;23.0;3.0;9.0;12.0;3.0;0.0;2.0;5.0;3.0;0.6
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Tim Hardaway Jr.;1;0;40.0;20.0;0.0;9.0;9.0;3.0;1.0;0.0;2.0;2.0;1.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Jalen Brunson;3;3;34.3;19.7;0.0;3.3;3.3;5.3;1.7;0.0;1.0;2.0;5.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Spencer Dinwiddie;2;0;26.5;13.5;0.0;2.0;2.0;7.5;0.0;0.5;2.0;0.5;3.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Trey Burke;1;0;22.0;12.0;1.0;3.0;4.0;2.0;1.0;0.0;0.0;1.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Dorian Finney-Smith;3;3;37.7;11.3;1.7;4.7;6.3;1.3;0.7;0.7;0.7;3.0;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Dwight Powell;3;3;21.0;9.0;2.7;3.3;6.0;0.7;0.0;0.0;0.3;3.3;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Reggie Bullock;3;3;30.0;8.0;0.3;2.7;3.0;1.3;1.0;0.3;1.0;1.3;1.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Davis Bertans;2;0;12.5;7.0;1.0;2.0;3.0;0.0;0.0;0.0;1.0;1.5;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Josh Green;3;0;13.3;7.0;0.7;1.3;2.0;1.0;0.7;0.0;0.3;1.7;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Maxi Kleber;3;0;25.0;6.7;1.0;6.0;7.0;0.7;0.3;1.0;0.3;1.7;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Marquese Chriss;1;0;4.0;1.0;0.0;4.0;4.0;1.0;0.0;0.0;0.0;0.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Boban Marjanovic;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Frank Ntilikina;1;0;2.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;1.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Moses Wright;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Moses Brown;1;0;4.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Total;3;"";"";113.7;9.7;37.7;47.3;24.3;5.7;3.7;10.3;18.0;2.4
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Phoenix Suns;Luka Doncic;1;1;38.0;28.0;1.0;7.0;8.0;8.0;1.0;0.0;8.0;1.0;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Phoenix Suns;Kristaps Porzingis;3;3;31.3;20.7;2.7;7.7;10.3;3.3;1.0;1.7;1.3;3.0;2.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Phoenix Suns;Jalen Brunson;3;3;35.3;18.3;1.0;5.0;6.0;6.7;0.3;0.0;3.7;2.0;1.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Phoenix Suns;Tim Hardaway Jr.;3;2;33.3;17.0;0.3;3.3;3.7;2.0;1.0;0.0;0.3;2.7;6.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Phoenix Suns;Trey Burke;2;0;15.0;9.0;0.0;1.0;1.0;1.0;1.0;0.0;1.5;1.0;0.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Phoenix Suns;Maxi Kleber;1;1;27.0;9.0;1.0;4.0;5.0;4.0;0.0;1.0;2.0;2.0;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Phoenix Suns;Dorian Finney-Smith;3;3;32.3;8.7;1.0;4.3;5.3;1.3;0.3;0.0;1.0;2.0;1.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Phoenix Suns;Frank Ntilikina;3;0;12.3;5.7;0.0;2.0;2.0;2.0;1.3;0.0;0.7;1.3;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Phoenix Suns;Willie Cauley-Stein;2;0;9.0;4.0;0.5;1.5;2.0;0.5;0.0;0.0;0.5;1.0;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Phoenix Suns;Reggie Bullock;3;0;24.7;3.7;0.7;4.0;4.7;1.0;0.7;0.0;0.7;1.7;1.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Phoenix Suns;Dwight Powell;3;2;18.7;3.7;2.3;4.0;6.3;1.7;0.3;0.0;0.3;1.0;5.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Phoenix Suns;Sterling Brown;2;0;15.0;2.5;0.5;1.5;2.0;0.5;1.0;0.0;0.5;1.0;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Phoenix Suns;Josh Green;2;0;6.5;1.0;0.0;0.5;0.5;1.0;0.5;0.0;0.0;1.5;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Phoenix Suns;Total;3;"";"";101.0;9.3;37.0;46.3;24.0;7.0;2.0;13.0;17.7;1.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Sacramento Kings;Spencer Dinwiddie;1;1;36.0;36.0;0.0;2.0;2.0;7.0;0.0;0.0;5.0;5.0;1.4
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Sacramento Kings;Kristaps Porzingis;2;2;34.0;24.0;2.5;5.5;8.0;4.5;0.5;2.5;2.5;2.0;1.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Sacramento Kings;Luka Doncic;1;1;35.0;23.0;0.0;8.0;8.0;10.0;1.0;1.0;3.0;3.0;3.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Sacramento Kings;Jalen Brunson;4;3;33.8;19.8;0.3;2.8;3.0;5.5;0.8;0.3;2.0;1.0;2.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Sacramento Kings;Tim Hardaway Jr.;1;1;33.0;16.0;0.0;3.0;3.0;3.0;2.0;0.0;2.0;1.0;1.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Sacramento Kings;Dorian Finney-Smith;4;4;33.3;13.3;1.5;3.8;5.3;2.0;1.5;0.5;0.8;3.5;2.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Sacramento Kings;Reggie Bullock;3;2;31.3;11.3;0.3;2.7;3.0;2.3;1.0;0.0;0.7;2.7;3.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Sacramento Kings;Dwight Powell;4;4;27.3;8.3;2.5;4.5;7.0;1.3;1.0;0.3;1.3;3.5;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Sacramento Kings;Marquese Chriss;1;0;18.0;8.0;0.0;7.0;7.0;0.0;0.0;1.0;1.0;2.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Sacramento Kings;Josh Green;3;0;27.7;8.0;2.7;3.0;5.7;1.7;0.7;0.7;1.0;2.0;1.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Sacramento Kings;Davis Bertans;1;0;15.0;7.0;0.0;3.0;3.0;2.0;0.0;1.0;0.0;1.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Sacramento Kings;Maxi Kleber;1;1;7.0;7.0;0.0;5.0;5.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Sacramento Kings;Frank Ntilikina;3;1;22.3;7.0;0.3;2.0;2.3;2.0;1.0;0.0;0.7;0.0;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Sacramento Kings;Isaiah Thomas;1;0;13.0;6.0;0.0;0.0;0.0;4.0;0.0;0.0;0.0;0.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Sacramento Kings;Sterling Brown;4;0;14.8;5.3;0.3;3.0;3.3;0.5;0.0;0.5;0.0;1.3;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Sacramento Kings;Willie Cauley-Stein;1;0;14.0;4.0;3.0;3.0;6.0;2.0;0.0;0.0;0.0;1.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Sacramento Kings;Moses Brown;3;0;4.0;1.7;0.0;2.0;2.0;0.0;0.0;0.0;0.3;1.3;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Sacramento Kings;Boban Marjanovic;1;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Sacramento Kings;Trey Burke;1;0;4.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Sacramento Kings;George King;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Sacramento Kings;Theo Pinson;2;0;8.0;0.0;0.0;1.5;1.5;3.0;0.0;0.5;0.0;1.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Sacramento Kings;Charlie Brown Jr.;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Sacramento Kings;Carlik Jones;1;0;5.0;0.0;1.0;0.0;1.0;1.0;1.0;0.0;1.0;0.0;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Sacramento Kings;Total;4;"";"";106.3;9.3;32.5;41.8;24.8;6.8;4.5;10.3;18.8;2.4
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Houston Rockets;Luka Doncic;2;2;35.0;28.0;1.5;12.5;14.0;6.5;1.0;1.5;4.5;2.0;1.4
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Houston Rockets;Spencer Dinwiddie;2;2;33.5;21.0;0.0;3.5;3.5;6.5;1.5;1.0;2.0;2.5;3.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Houston Rockets;Jalen Brunson;3;2;27.7;18.0;0.7;3.3;4.0;8.0;0.7;0.0;1.7;2.7;4.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Houston Rockets;Tim Hardaway Jr.;2;1;27.0;17.5;0.5;2.5;3.0;3.5;1.0;0.0;0.0;1.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Houston Rockets;Dwight Powell;4;4;24.8;15.3;3.0;4.0;7.0;2.0;0.5;1.0;1.0;3.0;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Houston Rockets;Reggie Bullock;4;3;27.5;11.0;0.3;4.3;4.5;2.0;0.8;0.3;0.5;1.3;4.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Houston Rockets;Dorian Finney-Smith;3;3;30.0;10.0;1.7;3.0;4.7;1.7;1.0;1.0;0.3;1.0;5.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Houston Rockets;Kristaps Porzingis;1;1;20.0;9.0;1.0;2.0;3.0;1.0;0.0;0.0;1.0;0.0;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Houston Rockets;Trey Burke;3;0;14.0;7.3;0.3;0.3;0.7;1.0;0.0;0.0;1.7;1.0;0.6
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Houston Rockets;Frank Ntilikina;3;0;13.7;7.3;0.7;1.3;2.0;3.0;0.7;0.0;1.7;3.3;1.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Houston Rockets;Josh Green;4;1;21.0;7.3;1.5;1.5;3.0;0.8;1.5;0.5;0.3;2.5;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Houston Rockets;Davis Bertans;1;0;21.0;6.0;1.0;4.0;5.0;1.0;0.0;0.0;1.0;2.0;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Houston Rockets;Maxi Kleber;4;1;17.0;5.8;1.5;5.8;7.3;0.8;0.3;0.3;1.8;4.0;0.4
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Houston Rockets;Boban Marjanovic;2;0;5.5;5.5;1.0;1.0;2.0;0.5;0.0;0.0;0.0;0.5;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Houston Rockets;Marquese Chriss;2;0;6.0;3.0;0.5;1.5;2.0;0.5;0.5;0.0;1.0;1.5;0.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Houston Rockets;Moses Wright;1;0;3.0;3.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Houston Rockets;Sterling Brown;4;0;15.5;2.8;0.0;2.3;2.3;0.8;0.3;0.3;0.8;1.3;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Houston Rockets;Moses Brown;2;0;7.0;2.5;0.0;2.5;2.5;0.0;0.0;1.5;1.0;1.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Houston Rockets;Willie Cauley-Stein;1;0;5.0;0.0;0.0;1.0;1.0;0.0;2.0;0.0;1.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Houston Rockets;Theo Pinson;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Houston Rockets;Total;4;"";"";117.3;11.3;37.3;48.5;25.8;7.5;5.0;13.3;22.8;1.9
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Luka Doncic;3;3;35.3;30.0;1.0;9.7;10.7;8.7;1.3;0.3;6.7;1.7;1.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Kristaps Porzingis;2;2;24.5;17.0;1.0;5.0;6.0;1.5;0.5;3.0;0.5;5.5;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Tim Hardaway Jr.;4;0;26.5;15.8;0.5;3.8;4.3;0.5;0.8;0.3;1.5;1.5;0.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Jalen Brunson;4;3;33.5;13.3;1.3;2.3;3.5;6.8;2.0;0.0;1.5;1.5;4.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Dorian Finney-Smith;4;4;34.3;11.0;1.8;3.8;5.5;3.3;1.5;0.8;1.3;2.5;2.6
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Moses Brown;1;0;12.0;9.0;4.0;3.0;7.0;0.0;1.0;2.0;0.0;2.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Reggie Bullock;4;2;24.8;8.5;1.0;2.8;3.8;1.0;0.5;0.3;0.8;1.3;1.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Marquese Chriss;2;0;8.5;7.5;0.5;2.5;3.0;0.5;0.0;0.0;0.5;1.0;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Dwight Powell;4;3;24.5;6.5;1.5;3.3;4.8;2.5;0.0;0.0;0.5;3.3;5.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Maxi Kleber;4;3;25.3;4.8;1.0;5.0;6.0;0.8;0.5;1.5;1.8;2.5;0.4
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Trey Burke;3;0;6.0;2.7;0.0;0.3;0.3;1.0;0.3;0.0;0.3;1.7;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Josh Green;3;0;11.7;2.7;0.0;0.7;0.7;0.7;0.7;0.0;0.3;1.7;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Boban Marjanovic;1;0;11.0;2.0;1.0;6.0;7.0;0.0;0.0;0.0;2.0;1.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Frank Ntilikina;2;0;8.0;1.5;0.5;0.5;1.0;0.0;1.0;0.0;1.5;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Sterling Brown;2;0;10.5;1.0;0.5;1.0;1.5;0.5;0.5;0.0;0.5;1.5;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Theo Pinson;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Total;4;"";"";102.5;10.3;35.5;45.8;23.8;8.3;5.0;14.8;21.0;1.6
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Luka Doncic;4;4;33.5;30.8;1.3;7.3;8.5;8.5;0.5;0.5;6.3;2.8;1.4
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Jalen Brunson;4;1;31.3;18.3;0.3;1.8;2.0;4.5;0.5;0.0;1.5;2.0;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Kristaps Porzingis;2;2;27.0;16.0;0.5;8.5;9.0;2.5;0.0;1.5;1.5;3.0;1.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Tim Hardaway Jr.;3;1;27.7;15.0;0.3;3.7;4.0;2.7;0.3;0.0;0.0;0.7;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Maxi Kleber;3;1;24.3;12.7;1.3;4.0;5.3;0.3;0.7;0.3;1.0;3.0;0.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Frank Ntilikina;1;0;18.0;9.0;0.0;3.0;3.0;2.0;2.0;0.0;0.0;1.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Dorian Finney-Smith;4;4;31.0;8.5;0.8;1.8;2.5;2.0;1.8;0.3;0.5;2.0;4.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Spencer Dinwiddie;1;0;31.0;8.0;1.0;3.0;4.0;1.0;1.0;0.0;0.0;2.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Reggie Bullock;3;2;22.7;7.3;0.3;2.3;2.7;0.7;0.3;0.3;1.0;1.7;0.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Dwight Powell;4;4;19.3;6.5;2.0;2.0;4.0;1.0;0.5;0.3;0.5;2.5;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Trey Burke;2;0;12.5;5.5;0.0;1.0;1.0;1.5;0.5;0.0;1.0;0.0;1.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Boban Marjanovic;3;0;8.7;5.3;0.0;1.0;1.0;0.3;0.0;0.3;0.3;1.7;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Davis Bertans;1;0;17.0;3.0;0.0;2.0;2.0;1.0;0.0;0.0;0.0;2.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Sterling Brown;4;0;12.8;2.5;0.8;2.8;3.5;0.3;0.3;0.3;1.0;1.0;0.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Moses Brown;3;0;2.3;2.3;0.3;0.3;0.7;0.0;0.0;0.0;0.7;0.3;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Josh Green;4;1;8.3;1.5;0.0;1.0;1.0;0.8;0.3;0.3;0.0;1.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Willie Cauley-Stein;1;0;5.0;0.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Eugene Omoruyi;2;0;3.5;0.0;0.5;0.5;1.0;0.5;0.0;0.0;0.0;0.5;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. New Orleans Pelicans;JaQuori McLaughlin;1;0;4.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Total;4;"";"";115.8;7.5;32.5;40.0;23.5;5.8;3.0;13.3;19.8;1.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. San Antonio Spurs;Kristaps Porzingis;1;1;34.0;32.0;2.0;5.0;7.0;0.0;0.0;3.0;1.0;2.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. San Antonio Spurs;Luka Doncic;4;4;34.0;26.5;0.3;8.5;8.8;9.0;1.5;0.5;4.3;1.8;2.1
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. San Antonio Spurs;Jalen Brunson;4;2;29.8;21.3;0.5;5.3;5.8;4.0;0.5;0.0;0.8;1.5;5.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. San Antonio Spurs;Theo Pinson;1;0;13.0;16.0;0.0;1.0;1.0;2.0;0.0;0.0;2.0;1.0;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. San Antonio Spurs;Dorian Finney-Smith;4;4;32.5;12.3;1.5;3.8;5.3;1.8;2.3;0.3;0.5;2.0;3.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. San Antonio Spurs;Maxi Kleber;1;0;29.0;12.0;3.0;7.0;10.0;2.0;1.0;6.0;0.0;5.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. San Antonio Spurs;Tim Hardaway Jr.;3;3;33.0;11.3;0.0;5.7;5.7;2.7;0.7;0.0;0.3;2.0;8.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. San Antonio Spurs;Boban Marjanovic;2;0;11.5;10.5;1.5;2.0;3.5;0.5;0.0;0.5;3.0;3.0;0.2
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. San Antonio Spurs;Dwight Powell;4;4;22.0;8.8;3.3;1.8;5.0;1.3;0.3;1.0;2.3;2.8;0.6
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. San Antonio Spurs;Davis Bertans;1;0;13.0;8.0;0.0;1.0;1.0;0.0;1.0;0.0;0.0;1.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. San Antonio Spurs;Spencer Dinwiddie;1;0;18.0;8.0;0.0;3.0;3.0;5.0;1.0;0.0;1.0;1.0;5.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. San Antonio Spurs;Marquese Chriss;1;0;21.0;6.0;3.0;0.0;3.0;0.0;0.0;0.0;0.0;3.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. San Antonio Spurs;Frank Ntilikina;3;0;15.3;4.7;0.7;2.3;3.0;1.3;0.0;0.0;1.0;1.7;1.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. San Antonio Spurs;Reggie Bullock;4;2;21.3;4.5;0.5;2.0;2.5;0.5;0.5;0.0;0.5;1.3;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. San Antonio Spurs;Josh Green;2;0;11.5;3.5;1.0;1.5;2.5;1.5;0.0;0.0;1.0;1.5;1.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. San Antonio Spurs;Trey Burke;1;0;9.0;3.0;0.0;1.0;1.0;4.0;0.0;0.0;0.0;0.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. San Antonio Spurs;Sterling Brown;2;0;16.5;3.0;1.5;3.5;5.0;2.0;1.5;1.0;1.5;1.5;1.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. San Antonio Spurs;Moses Wright;1;0;8.0;2.0;0.0;2.0;2.0;1.0;0.0;1.0;0.0;0.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. San Antonio Spurs;Willie Cauley-Stein;3;0;11.3;1.3;0.7;1.7;2.3;1.0;0.0;0.3;0.0;1.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;vs. San Antonio Spurs;Total;4;"";"";116.5;11.0;37.0;48.0;25.8;7.0;5.3;13.0;19.0;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;October;Luka Doncic;6;6;34.2;22.5;0.3;8.2;8.5;7.5;1.0;0.7;4.3;2.3;1.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;October;Tim Hardaway Jr.;6;6;30.5;13.3;0.3;2.7;3.0;1.7;1.3;0.0;0.8;1.8;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;October;Kristaps Porzingis;3;3;26.0;12.7;1.7;4.3;6.0;0.7;0.7;2.0;1.7;2.0;0.4
+Dallas Mavericks;dal;2021 - 2022 Regular Season;October;Jalen Brunson;6;0;25.5;10.7;0.7;3.5;4.2;4.7;0.5;0.2;1.0;1.8;4.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;October;Dwight Powell;6;6;24.5;8.8;1.8;2.0;3.8;1.0;1.0;0.5;1.2;3.2;0.9
+Dallas Mavericks;dal;2021 - 2022 Regular Season;October;Dorian Finney-Smith;6;6;31.3;8.5;3.0;3.2;6.2;1.0;1.3;0.7;1.7;3.2;0.6
+Dallas Mavericks;dal;2021 - 2022 Regular Season;October;Maxi Kleber;6;1;18.8;7.2;1.0;4.3;5.3;0.5;0.5;1.2;0.7;2.0;0.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;October;Reggie Bullock;6;2;20.5;6.5;0.2;2.3;2.5;0.7;0.0;0.0;0.2;1.2;4.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;October;Boban Marjanovic;2;0;6.0;6.0;1.0;1.0;2.0;0.5;0.0;0.0;0.0;1.5;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;October;Eugene Omoruyi;1;0;9.0;6.0;1.0;2.0;3.0;1.0;0.0;0.0;0.0;1.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;October;Frank Ntilikina;5;0;12.2;5.4;0.0;1.8;1.8;1.0;0.6;0.4;0.2;1.0;5.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;October;Trey Burke;3;0;9.7;5.3;0.0;0.7;0.7;1.3;0.3;0.0;1.0;0.0;1.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;October;Willie Cauley-Stein;6;0;10.3;2.3;0.8;2.2;3.0;0.5;0.3;0.0;0.2;0.3;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;October;Sterling Brown;4;0;10.3;1.5;0.5;1.8;2.3;0.5;0.0;0.0;0.8;1.8;0.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;October;Moses Brown;3;0;4.3;1.3;0.3;1.3;1.7;0.0;0.0;0.7;0.0;0.7;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;October;Josh Green;3;0;8.3;0.7;0.7;1.7;2.3;0.3;0.0;0.3;0.7;0.7;0.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;October;Total;6;"";"";98.3;10.3;35.7;46.0;20.2;7.0;5.0;12.3;20.2;1.6
+Dallas Mavericks;dal;2021 - 2022 Regular Season;November;Luka Doncic;10;10;35.9;27.3;1.0;7.0;8.0;8.7;1.3;0.6;4.2;2.4;2.1
+Dallas Mavericks;dal;2021 - 2022 Regular Season;November;Kristaps Porzingis;11;11;31.8;21.5;2.6;5.7;8.4;2.3;1.0;1.5;1.4;2.4;1.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;November;Jalen Brunson;12;5;30.4;16.4;0.3;3.9;4.3;5.2;1.0;0.0;1.8;1.8;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;November;Tim Hardaway Jr.;13;13;34.2;14.3;0.2;3.8;4.1;2.8;0.8;0.2;0.5;2.2;6.2
+Dallas Mavericks;dal;2021 - 2022 Regular Season;November;Maxi Kleber;4;0;27.8;9.8;1.5;3.5;5.0;1.8;0.5;1.3;0.0;2.5;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;November;Dorian Finney-Smith;13;13;31.2;9.4;1.2;2.5;3.7;1.4;1.5;0.4;0.6;1.8;2.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;November;Trey Burke;7;0;10.6;6.7;0.0;0.7;0.7;1.4;0.4;0.0;0.9;0.9;1.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;November;Frank Ntilikina;10;0;15.2;5.3;0.3;1.7;2.0;1.7;0.7;0.1;0.9;1.3;1.9
+Dallas Mavericks;dal;2021 - 2022 Regular Season;November;Reggie Bullock;12;0;24.2;5.2;0.3;2.8;3.0;0.7;0.4;0.1;0.7;1.6;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;November;Boban Marjanovic;8;0;5.0;4.9;0.4;1.1;1.5;0.1;0.0;0.1;0.6;1.0;0.2
+Dallas Mavericks;dal;2021 - 2022 Regular Season;November;Dwight Powell;13;10;18.2;4.8;2.3;2.9;5.2;1.1;0.4;0.8;0.5;2.1;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;November;Sterling Brown;13;0;12.7;3.2;0.6;2.8;3.4;0.8;0.5;0.2;0.5;1.0;1.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;November;Willie Cauley-Stein;12;2;9.6;1.7;0.7;1.0;1.7;0.5;0.3;0.3;0.5;1.3;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;November;Eugene Omoruyi;1;0;2.0;1.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;November;Moses Brown;4;1;3.8;1.0;0.0;0.5;0.5;0.0;0.3;0.0;0.5;1.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;November;Josh Green;6;0;3.7;1.0;0.3;0.2;0.5;0.3;0.2;0.0;0.0;0.3;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;November;JaQuori McLaughlin;1;0;2.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;November;Total;13;"";"";106.9;9.5;33.2;42.8;23.5;7.8;4.1;10.8;18.5;2.2
+Dallas Mavericks;dal;2021 - 2022 Regular Season;December;Luka Doncic;5;5;34.4;26.0;1.0;6.4;7.4;9.2;0.6;0.2;5.6;3.0;1.6
+Dallas Mavericks;dal;2021 - 2022 Regular Season;December;Kristaps Porzingis;12;12;30.3;21.7;1.8;6.3;8.1;2.8;0.6;1.8;1.5;2.4;1.9
+Dallas Mavericks;dal;2021 - 2022 Regular Season;December;Jalen Brunson;16;11;33.1;18.3;0.8;2.5;3.3;6.2;0.8;0.1;1.8;2.1;3.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;December;Tim Hardaway Jr.;10;1;29.2;16.5;0.6;3.9;4.5;2.3;1.0;0.2;0.8;1.5;2.9
+Dallas Mavericks;dal;2021 - 2022 Regular Season;December;Dorian Finney-Smith;15;15;34.7;11.9;1.5;3.7;5.2;3.1;1.1;0.6;0.9;2.7;3.4
+Dallas Mavericks;dal;2021 - 2022 Regular Season;December;Brandon Knight;3;0;18.0;10.0;0.0;2.3;2.3;2.7;0.3;0.0;1.3;1.7;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;December;Trey Burke;8;0;17.4;9.0;0.1;1.6;1.8;3.1;0.5;0.0;0.6;1.5;5.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;December;Dwight Powell;16;16;19.7;7.0;1.8;2.6;4.4;1.3;0.3;0.1;0.9;2.5;1.4
+Dallas Mavericks;dal;2021 - 2022 Regular Season;December;Reggie Bullock;10;10;26.3;6.7;0.2;2.5;2.7;1.4;0.4;0.2;0.8;1.4;1.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;December;Marquese Chriss;5;0;13.6;6.6;1.0;4.2;5.2;0.0;0.4;0.6;1.4;3.6;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;December;Sterling Brown;10;3;21.2;6.5;0.9;4.2;5.1;1.2;0.4;0.2;0.9;1.4;1.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;December;Maxi Kleber;10;2;24.7;6.3;1.2;5.3;6.5;1.0;0.2;0.4;0.7;2.1;1.4
+Dallas Mavericks;dal;2021 - 2022 Regular Season;December;Isaiah Thomas;1;0;13.0;6.0;0.0;0.0;0.0;4.0;0.0;0.0;0.0;0.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;December;Frank Ntilikina;11;5;18.4;5.3;0.2;1.1;1.3;1.6;0.9;0.0;0.8;1.5;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;December;Moses Brown;14;0;8.0;4.9;0.9;2.0;2.9;0.0;0.1;0.4;0.6;1.4;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;December;Josh Green;11;0;14.5;4.8;0.5;1.7;2.3;1.7;0.7;0.3;0.5;1.8;3.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;December;Boban Marjanovic;6;0;7.0;4.7;0.3;2.0;2.3;0.0;0.0;0.2;1.0;1.3;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;December;Theo Pinson;6;0;14.5;4.2;0.0;2.7;2.7;1.8;0.7;0.3;0.3;1.5;5.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;December;Charlie Brown Jr.;3;0;5.0;0.7;0.0;0.3;0.3;0.3;0.7;0.3;0.0;0.7;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;December;Carlik Jones;3;0;6.3;0.7;0.3;0.7;1.0;1.7;0.3;0.0;1.0;0.0;1.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;December;George King;4;0;4.8;0.3;0.0;1.3;1.3;0.0;0.0;0.0;0.3;1.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;December;Eugene Omoruyi;2;0;3.5;0.0;0.5;0.5;1.0;0.5;0.0;0.0;0.0;0.5;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;December;JaQuori McLaughlin;3;0;3.0;0.0;0.0;0.0;0.0;0.3;0.0;0.0;0.0;0.3;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;December;Total;16;"";"";106.9;9.5;33.7;43.2;24.9;6.2;3.6;11.6;21.1;2.2
+Dallas Mavericks;dal;2021 - 2022 Regular Season;January;Luka Doncic;15;15;35.0;25.6;0.8;9.3;10.1;9.5;1.3;0.4;4.3;1.9;2.2
+Dallas Mavericks;dal;2021 - 2022 Regular Season;January;Kristaps Porzingis;8;8;26.4;14.9;1.0;5.8;6.8;1.0;0.6;1.9;1.9;3.4;0.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;January;Jalen Brunson;16;16;32.6;14.6;0.5;3.3;3.8;5.6;1.1;0.1;1.7;1.4;3.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;January;Tim Hardaway Jr.;13;0;25.1;12.8;0.2;2.9;3.1;1.7;0.7;0.2;1.2;1.5;1.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;January;Dorian Finney-Smith;16;16;30.4;9.7;1.4;3.4;4.9;1.6;0.8;0.6;1.2;1.9;1.4
+Dallas Mavericks;dal;2021 - 2022 Regular Season;January;Dwight Powell;16;8;19.7;8.6;1.7;2.1;3.8;0.8;0.6;0.3;0.6;2.3;1.4
+Dallas Mavericks;dal;2021 - 2022 Regular Season;January;Reggie Bullock;15;1;23.1;8.5;0.8;3.1;3.9;1.3;0.7;0.2;0.4;1.1;3.2
+Dallas Mavericks;dal;2021 - 2022 Regular Season;January;Maxi Kleber;16;16;26.3;7.9;0.9;4.8;5.8;1.3;0.6;1.1;1.1;2.5;1.2
+Dallas Mavericks;dal;2021 - 2022 Regular Season;January;Josh Green;16;0;16.6;6.4;0.8;1.1;1.9;1.4;0.7;0.1;0.6;2.2;2.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;January;Marquese Chriss;13;0;10.2;5.7;0.8;2.2;3.0;0.8;0.5;0.5;0.4;1.6;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;January;Sterling Brown;9;0;10.6;3.0;0.3;2.1;2.4;0.4;0.1;0.1;0.3;1.0;1.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;January;Frank Ntilikina;14;0;7.0;3.0;0.1;0.9;1.1;0.9;0.1;0.0;0.4;0.7;2.4
+Dallas Mavericks;dal;2021 - 2022 Regular Season;January;Trey Burke;9;0;5.2;1.9;0.1;0.1;0.2;0.4;0.1;0.0;0.2;0.4;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;January;Moses Brown;4;0;6.3;1.3;0.5;2.3;2.8;0.0;0.0;0.3;0.8;0.5;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;January;Theo Pinson;9;0;2.7;0.3;0.1;0.2;0.3;0.2;0.0;0.0;0.0;0.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;January;Total;16;"";"";107.5;8.7;36.1;44.8;24.6;7.2;4.3;12.5;18.8;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;February;Luka Doncic;10;10;37.1;34.7;1.2;9.1;10.3;8.8;1.1;0.6;4.7;3.1;1.9
+Dallas Mavericks;dal;2021 - 2022 Regular Season;February;Jalen Brunson;10;10;35.7;17.3;0.4;3.2;3.6;4.3;0.7;0.0;2.3;2.9;1.9
+Dallas Mavericks;dal;2021 - 2022 Regular Season;February;Reggie Bullock;8;7;35.9;15.8;0.4;4.0;4.4;1.0;0.9;0.3;0.5;2.3;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;February;Spencer Dinwiddie;4;0;27.8;14.0;0.3;2.8;3.0;3.3;1.0;0.0;0.8;1.8;4.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;February;Dorian Finney-Smith;10;10;37.0;10.2;1.6;3.4;5.0;1.6;1.2;0.3;1.4;2.7;1.1
+Dallas Mavericks;dal;2021 - 2022 Regular Season;February;Davis Bertans;4;0;17.5;9.8;0.3;2.5;2.8;0.5;0.3;0.5;0.0;1.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;February;Dwight Powell;10;10;24.5;9.1;2.7;2.2;4.9;1.4;0.5;0.7;1.0;3.0;1.4
+Dallas Mavericks;dal;2021 - 2022 Regular Season;February;Maxi Kleber;8;1;26.5;8.4;2.0;4.4;6.4;1.4;1.0;1.8;0.5;2.0;2.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;February;Trey Burke;5;0;11.4;5.8;0.2;0.8;1.0;0.6;0.2;0.0;1.0;1.8;0.6
+Dallas Mavericks;dal;2021 - 2022 Regular Season;February;Josh Green;10;2;18.6;3.6;0.8;2.6;3.4;1.3;0.9;0.3;0.5;1.9;2.6
+Dallas Mavericks;dal;2021 - 2022 Regular Season;February;Frank Ntilikina;7;0;10.9;3.0;0.0;0.7;0.7;0.3;0.3;0.4;0.3;1.0;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;February;Boban Marjanovic;1;0;3.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;February;Marquese Chriss;5;0;11.4;1.6;1.4;1.6;3.0;0.4;0.6;0.2;1.0;2.0;0.4
+Dallas Mavericks;dal;2021 - 2022 Regular Season;February;Sterling Brown;2;0;5.5;0.0;0.0;1.0;1.0;0.5;0.0;0.0;0.0;0.5;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;February;Theo Pinson;1;0;9.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;February;Moses Brown;1;0;4.0;0.0;0.0;2.0;2.0;1.0;0.0;1.0;0.0;0.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;February;Total;10;"";"";109.7;9.6;31.4;41.0;21.7;7.0;4.2;12.2;20.9;1.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;March;Luka Doncic;14;14;35.9;29.9;0.9;8.3;9.2;7.8;1.1;0.7;4.2;1.6;1.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;March;Spencer Dinwiddie;14;7;31.3;18.1;0.4;3.1;3.6;4.4;0.7;0.4;1.4;2.2;3.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;March;Jalen Brunson;14;14;31.9;17.1;0.6;3.7;4.3;3.1;0.7;0.0;1.1;1.8;2.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;March;Dorian Finney-Smith;15;15;34.5;13.9;1.5;3.0;4.5;1.7;0.7;0.5;0.9;2.4;1.9
+Dallas Mavericks;dal;2021 - 2022 Regular Season;March;Dwight Powell;16;16;25.4;12.0;2.5;3.6;6.1;1.6;0.3;0.6;0.5;3.4;3.1
+Dallas Mavericks;dal;2021 - 2022 Regular Season;March;Reggie Bullock;12;12;36.1;9.9;0.7;3.6;4.3;1.9;1.1;0.4;0.8;1.8;2.6
+Dallas Mavericks;dal;2021 - 2022 Regular Season;March;Josh Green;16;1;18.9;5.8;1.2;1.7;2.9;1.0;0.8;0.3;1.2;1.8;0.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;March;Maxi Kleber;14;1;22.9;4.7;1.1;5.0;6.1;1.2;0.4;0.7;1.0;2.6;1.2
+Dallas Mavericks;dal;2021 - 2022 Regular Season;March;Frank Ntilikina;8;0;10.6;4.4;0.6;1.3;1.9;1.9;0.4;0.1;0.6;1.1;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;March;Davis Bertans;13;0;12.4;3.8;0.2;2.0;2.2;0.4;0.2;0.2;0.3;1.5;1.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;March;Trey Burke;7;0;10.1;3.7;0.1;0.3;0.4;0.9;0.1;0.0;0.7;0.9;1.2
+Dallas Mavericks;dal;2021 - 2022 Regular Season;March;Marquese Chriss;7;0;6.3;2.4;0.9;1.6;2.4;0.4;0.1;0.3;0.0;1.1;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;March;Brandon Knight;1;0;7.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;March;Moses Wright;2;0;2.5;1.5;0.5;0.0;0.5;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;March;Sterling Brown;10;0;9.1;1.4;0.4;1.3;1.7;0.4;0.1;0.2;0.2;0.9;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;March;Boban Marjanovic;4;0;2.5;1.3;0.0;0.3;0.3;0.0;0.0;0.3;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;March;Total;16;"";"";108.8;9.5;32.3;41.8;22.1;5.8;3.7;10.8;19.2;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;April;Luka Doncic;5;5;33.6;31.8;0.4;8.0;8.4;10.2;1.2;0.6;5.2;2.0;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;April;Jalen Brunson;5;5;30.0;17.4;0.4;4.2;4.6;2.6;0.6;0.0;0.6;1.6;4.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;April;Dwight Powell;5;5;27.0;13.8;1.8;5.4;7.2;1.0;0.4;0.8;1.8;2.8;0.6
+Dallas Mavericks;dal;2021 - 2022 Regular Season;April;Dorian Finney-Smith;5;5;31.0;12.6;0.8;2.4;3.2;2.4;1.4;0.4;0.4;1.6;6.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;April;Spencer Dinwiddie;5;0;20.2;10.8;0.4;1.6;2.0;3.0;0.6;0.2;1.8;1.0;1.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;April;Reggie Bullock;5;5;31.8;8.4;0.8;3.0;3.8;1.4;0.2;0.2;0.8;2.8;1.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;April;Sterling Brown;1;0;15.0;7.0;0.0;4.0;4.0;0.0;1.0;0.0;0.0;3.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;April;Theo Pinson;3;0;9.3;6.7;0.3;0.3;0.7;1.3;0.3;0.0;1.0;1.0;1.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;April;Boban Marjanovic;2;0;10.0;6.0;0.5;3.5;4.0;0.5;0.0;0.0;2.0;2.0;0.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;April;Maxi Kleber;1;0;26.0;6.0;0.0;5.0;5.0;0.0;1.0;1.0;1.0;1.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;April;Davis Bertans;5;0;14.8;5.8;0.4;2.8;3.2;1.6;0.4;0.4;0.2;1.2;8.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;April;Marquese Chriss;4;0;11.3;5.5;1.3;0.3;1.5;0.5;0.3;0.0;0.0;1.8;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;April;Josh Green;5;0;15.8;5.4;0.4;2.8;3.2;1.0;0.6;0.0;0.6;1.8;1.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;April;Trey Burke;3;0;8.0;2.3;0.0;0.7;0.7;1.7;0.3;0.0;0.0;0.7;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;April;Moses Wright;1;0;8.0;2.0;0.0;2.0;2.0;1.0;0.0;1.0;0.0;0.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;April;Frank Ntilikina;3;0;3.3;1.3;0.0;0.3;0.3;0.0;0.0;0.0;0.0;0.3;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;April;Brandon Knight;1;0;3.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;April;Total;5;"";"";122.0;6.8;35.0;41.8;25.8;6.4;3.0;13.0;19.0;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Atlantic Division;Luka Doncic;10;10;37.6;29.4;1.2;8.0;9.2;8.4;1.1;0.5;4.2;2.2;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Atlantic Division;Kristaps Porzingis;4;4;30.5;18.5;2.3;6.8;9.0;2.5;1.3;1.5;2.0;1.8;1.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Atlantic Division;Spencer Dinwiddie;4;3;33.8;16.3;1.0;3.8;4.8;2.3;1.8;0.3;0.8;2.5;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Atlantic Division;Tim Hardaway Jr.;5;2;31.4;14.4;0.4;1.8;2.2;2.0;0.8;0.0;0.8;2.0;2.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Atlantic Division;Jalen Brunson;10;7;32.0;13.3;0.6;3.8;4.4;3.5;0.4;0.0;1.1;1.9;3.2
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Atlantic Division;Dorian Finney-Smith;10;10;35.3;11.2;1.5;3.6;5.1;1.3;1.1;0.3;1.6;2.5;0.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Atlantic Division;Dwight Powell;10;9;24.4;8.3;1.8;2.2;4.0;1.1;0.5;0.7;0.8;2.7;1.4
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Atlantic Division;Reggie Bullock;7;3;24.9;6.6;0.7;3.1;3.9;0.9;0.1;0.3;0.4;0.7;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Atlantic Division;Josh Green;8;0;14.5;4.0;0.5;1.6;2.1;0.4;0.5;0.1;0.8;1.6;0.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Atlantic Division;Maxi Kleber;8;2;25.0;3.3;1.1;3.6;4.8;0.9;0.3;0.5;1.1;3.1;0.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Atlantic Division;Marquese Chriss;3;0;8.3;2.7;1.0;0.3;1.3;0.7;0.0;0.0;0.3;2.7;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Atlantic Division;Davis Bertans;4;0;9.3;2.3;0.0;1.3;1.3;0.0;0.3;0.0;0.0;1.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Atlantic Division;Boban Marjanovic;1;0;3.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Atlantic Division;Trey Burke;4;0;6.8;2.0;0.3;0.0;0.3;0.8;0.0;0.0;0.0;0.3;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Atlantic Division;Frank Ntilikina;7;0;7.4;2.0;0.0;1.3;1.3;0.6;0.0;0.0;0.3;0.6;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Atlantic Division;Sterling Brown;7;0;6.1;1.6;0.4;1.3;1.7;0.1;0.1;0.1;0.1;0.6;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Atlantic Division;Willie Cauley-Stein;2;0;6.0;0.0;0.0;0.5;0.5;0.0;0.5;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Atlantic Division;Theo Pinson;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Atlantic Division;Moses Brown;1;0;3.0;0.0;1.0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Atlantic Division;Total;10;"";"";98.9;9.2;31.7;40.9;19.8;5.7;3.0;0.0;18.5;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Central Division;Luka Doncic;9;9;34.9;27.8;0.8;8.0;8.8;12.0;1.4;0.9;4.0;1.9;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Central Division;Jalen Brunson;10;7;31.7;15.8;0.7;2.9;3.6;4.2;0.7;0.0;1.0;1.0;4.2
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Central Division;Kristaps Porzingis;4;4;25.3;14.5;1.5;3.5;5.0;1.0;0.0;1.0;0.3;2.3;4.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Central Division;Tim Hardaway Jr.;4;2;29.5;12.8;0.3;3.3;3.5;1.8;2.0;0.3;1.3;1.3;1.4
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Central Division;Spencer Dinwiddie;2;0;22.0;12.0;1.0;1.0;2.0;3.5;0.5;0.0;2.0;2.0;1.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Central Division;Dorian Finney-Smith;10;10;33.1;11.5;1.0;2.4;3.4;2.5;1.1;0.7;0.9;1.9;2.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Central Division;Dwight Powell;10;8;22.3;10.2;1.9;3.4;5.3;0.9;0.7;0.7;0.5;2.5;1.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Central Division;Maxi Kleber;6;2;22.7;9.8;0.7;5.0;5.7;1.0;0.3;0.8;0.3;2.2;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Central Division;Reggie Bullock;9;5;28.0;8.2;0.1;3.0;3.1;1.0;0.2;0.1;0.7;1.7;1.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Central Division;Josh Green;9;0;14.3;6.3;0.4;2.1;2.6;0.6;0.9;0.0;0.4;1.9;1.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Central Division;Davis Bertans;3;0;13.3;6.0;0.0;2.7;2.7;0.7;0.0;0.7;0.3;1.3;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Central Division;Trey Burke;5;0;7.6;5.4;0.0;0.6;0.6;0.8;0.4;0.0;1.0;0.4;0.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Central Division;Boban Marjanovic;2;0;4.5;5.0;0.5;2.0;2.5;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Central Division;Marquese Chriss;7;0;10.0;5.0;1.6;1.6;3.1;0.6;1.0;0.3;0.9;2.9;0.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Central Division;Sterling Brown;4;1;19.3;4.8;1.0;4.8;5.8;1.5;0.5;0.0;0.3;1.0;6.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Central Division;Frank Ntilikina;7;1;12.9;4.7;0.0;1.0;1.0;1.4;0.3;0.1;0.7;1.0;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Central Division;Theo Pinson;4;0;9.5;3.5;0.0;1.0;1.0;0.3;0.0;0.0;0.0;1.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Central Division;Brandon Knight;2;0;8.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.5;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Central Division;Willie Cauley-Stein;1;0;5.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Central Division;Moses Brown;6;1;6.2;1.7;0.2;1.7;1.8;0.2;0.2;0.2;0.7;0.8;0.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Central Division;George King;1;0;4.0;1.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Central Division;Carlik Jones;1;0;9.0;0.0;0.0;2.0;2.0;3.0;0.0;0.0;1.0;0.0;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Central Division;Total;10;"";"";112.1;7.8;33.6;41.4;25.3;7.3;3.9;0.0;18.2;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pacific Division;Luka Doncic;11;11;36.3;32.5;0.9;8.6;9.5;7.3;1.1;0.6;5.5;2.1;1.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pacific Division;Kristaps Porzingis;9;9;33.1;21.9;2.8;6.2;9.0;2.9;0.7;1.9;2.4;2.7;1.2
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pacific Division;Spencer Dinwiddie;5;1;29.8;20.8;0.0;2.2;2.2;6.8;0.2;0.2;2.2;1.8;3.1
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pacific Division;Jalen Brunson;18;16;33.3;16.6;0.3;3.3;3.6;5.2;0.9;0.1;2.2;1.8;2.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pacific Division;Tim Hardaway Jr.;9;5;31.8;14.7;0.2;3.9;4.1;2.3;0.9;0.1;0.8;2.3;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pacific Division;Dorian Finney-Smith;18;18;35.0;11.6;1.5;3.7;5.2;1.4;1.0;0.4;0.9;2.5;1.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pacific Division;Reggie Bullock;16;9;30.8;8.4;0.4;3.0;3.4;1.4;0.8;0.3;0.7;2.2;2.1
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pacific Division;Dwight Powell;18;15;21.0;6.4;2.4;3.2;5.6;1.1;0.4;0.3;0.7;2.6;1.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pacific Division;Isaiah Thomas;1;0;13.0;6.0;0.0;0.0;0.0;4.0;0.0;0.0;0.0;0.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pacific Division;Maxi Kleber;12;4;24.3;5.8;1.3;5.4;6.8;1.5;0.4;0.7;0.3;1.6;4.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pacific Division;Davis Bertans;5;0;14.2;5.6;0.4;2.4;2.8;0.4;0.0;0.4;0.4;1.4;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pacific Division;Trey Burke;9;0;11.1;5.0;0.1;0.8;0.9;0.8;0.4;0.0;0.3;0.7;2.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pacific Division;Frank Ntilikina;12;1;12.8;4.8;0.1;1.5;1.6;1.3;0.7;0.1;0.5;0.7;2.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pacific Division;Josh Green;14;0;16.4;4.7;1.1;1.4;2.6;1.2;0.8;0.1;0.5;1.9;2.4
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pacific Division;Sterling Brown;10;0;12.6;4.0;0.4;2.3;2.7;0.5;0.2;0.2;0.3;0.9;1.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pacific Division;Willie Cauley-Stein;5;1;11.6;3.6;1.0;1.6;2.6;0.8;0.6;0.0;0.6;1.6;1.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pacific Division;Marquese Chriss;5;0;8.0;2.4;0.6;2.8;3.4;0.4;0.2;0.4;0.2;0.8;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pacific Division;Boban Marjanovic;4;0;1.5;1.5;0.0;0.3;0.3;0.0;0.0;0.0;0.0;0.3;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pacific Division;Moses Brown;4;0;3.8;1.3;0.0;1.5;1.5;0.0;0.0;0.0;0.3;1.5;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pacific Division;George King;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pacific Division;Theo Pinson;4;0;6.0;0.0;0.3;1.0;1.3;2.0;0.0;0.3;0.0;0.5;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pacific Division;Charlie Brown Jr.;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pacific Division;Carlik Jones;1;0;5.0;0.0;1.0;0.0;1.0;1.0;1.0;0.0;1.0;0.0;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pacific Division;Moses Wright;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pacific Division;Total;18;"";"";105.6;9.4;33.7;43.1;22.6;6.5;3.6;0.0;18.4;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southeast Division;Luka Doncic;9;9;34.3;28.1;0.8;7.0;7.8;6.9;0.3;0.2;3.6;2.8;1.9
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southeast Division;Jalen Brunson;9;8;29.9;17.9;0.7;3.7;4.3;3.8;1.0;0.0;1.4;2.2;2.6
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southeast Division;Kristaps Porzingis;4;4;29.3;16.8;2.0;6.0;8.0;0.8;1.3;2.3;1.3;2.5;0.6
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southeast Division;Tim Hardaway Jr.;5;3;29.0;15.4;0.2;1.8;2.0;1.8;0.8;0.2;0.6;2.8;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southeast Division;Reggie Bullock;8;3;28.0;9.1;0.6;3.1;3.8;1.4;0.8;0.0;0.5;1.6;2.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southeast Division;Dorian Finney-Smith;10;10;31.5;8.9;1.8;2.4;4.2;1.5;0.7;0.6;1.0;2.5;1.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southeast Division;Maxi Kleber;8;3;26.3;7.8;1.1;4.1;5.3;0.8;0.5;1.4;0.9;2.1;0.9
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southeast Division;Trey Burke;7;0;12.7;7.6;0.1;1.0;1.1;2.0;0.1;0.0;1.1;1.9;1.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southeast Division;Josh Green;9;1;17.2;6.3;1.2;1.6;2.8;1.4;0.4;0.2;1.2;1.3;1.2
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southeast Division;Spencer Dinwiddie;2;0;23.5;6.0;0.0;2.0;2.0;3.0;0.5;0.0;1.5;1.0;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southeast Division;Marquese Chriss;5;0;12.6;6.0;1.2;3.0;4.2;0.8;0.8;0.8;0.2;1.4;4.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southeast Division;Dwight Powell;10;8;20.3;5.7;1.5;2.7;4.2;1.3;0.4;0.4;0.8;2.6;1.6
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southeast Division;Davis Bertans;3;0;11.7;4.7;0.3;1.7;2.0;0.7;0.0;0.0;0.3;2.7;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southeast Division;Sterling Brown;6;0;12.3;3.7;0.8;3.2;4.0;0.5;0.0;0.0;0.2;1.3;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southeast Division;Moses Brown;2;0;5.5;3.0;1.0;2.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southeast Division;Frank Ntilikina;9;0;9.0;2.7;0.3;0.9;1.2;1.0;0.2;0.3;0.3;0.9;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southeast Division;Boban Marjanovic;2;0;2.5;2.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southeast Division;Willie Cauley-Stein;3;1;14.0;2.0;2.0;2.0;4.0;0.3;0.0;0.7;1.0;1.3;0.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southeast Division;Eugene Omoruyi;1;0;2.0;1.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southeast Division;Brandon Knight;1;0;3.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southeast Division;JaQuori McLaughlin;1;0;2.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southeast Division;Total;10;"";"";106.8;10.4;32.5;42.9;20.6;5.4;4.4;0.0;21.2;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southwest Division;Luka Doncic;13;13;34.2;28.8;0.9;9.0;9.9;8.4;1.1;0.6;5.5;2.1;1.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southwest Division;Kristaps Porzingis;6;6;26.0;17.8;1.0;5.7;6.7;1.5;0.2;2.0;1.0;3.2;1.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southwest Division;Jalen Brunson;15;8;30.7;17.7;0.7;3.1;3.8;5.7;0.9;0.0;1.3;1.9;4.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southwest Division;Tim Hardaway Jr.;12;5;28.5;14.8;0.3;4.0;4.3;2.1;0.7;0.1;0.6;1.3;3.6
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southwest Division;Spencer Dinwiddie;4;2;28.8;14.5;0.3;3.3;3.5;4.8;1.3;0.5;1.3;2.0;3.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southwest Division;Dorian Finney-Smith;15;15;32.1;10.5;1.4;3.1;4.5;2.2;1.7;0.5;0.7;1.9;3.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southwest Division;Dwight Powell;16;15;22.6;9.3;2.4;2.8;5.2;1.7;0.3;0.6;1.1;2.9;1.6
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southwest Division;Reggie Bullock;15;9;24.1;7.9;0.5;2.9;3.4;1.1;0.5;0.2;0.7;1.3;1.6
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southwest Division;Maxi Kleber;12;5;22.6;7.7;1.4;5.2;6.6;0.8;0.5;1.2;1.4;3.3;0.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southwest Division;Boban Marjanovic;8;0;8.8;6.3;0.8;1.9;2.6;0.4;0.0;0.3;1.1;1.6;0.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southwest Division;Davis Bertans;3;0;17.3;5.7;0.3;2.3;2.7;0.7;0.3;0.0;0.3;1.7;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southwest Division;Marquese Chriss;5;0;10.0;5.4;1.0;1.6;2.6;0.4;0.2;0.0;0.6;1.6;0.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southwest Division;Theo Pinson;3;0;5.7;5.3;0.0;0.3;0.3;0.7;0.0;0.0;0.7;0.3;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southwest Division;Frank Ntilikina;9;0;13.4;5.3;0.6;1.7;2.2;1.7;0.7;0.0;1.2;1.8;1.4
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southwest Division;Trey Burke;9;0;10.6;4.9;0.1;0.6;0.7;1.4;0.2;0.0;0.9;0.9;1.6
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southwest Division;Josh Green;13;2;13.5;3.8;0.6;1.2;1.8;0.8;0.7;0.2;0.3;1.7;2.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southwest Division;Moses Brown;6;0;5.5;3.5;0.8;1.5;2.3;0.0;0.2;0.8;0.7;0.8;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southwest Division;Moses Wright;2;0;5.5;2.5;0.5;1.0;1.5;0.5;0.0;0.5;0.0;0.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southwest Division;Sterling Brown;12;0;13.9;2.4;0.6;2.4;3.0;0.8;0.5;0.3;0.9;1.3;0.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southwest Division;Willie Cauley-Stein;5;0;8.8;0.8;0.4;1.6;2.0;0.6;0.4;0.2;0.2;0.6;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southwest Division;Eugene Omoruyi;2;0;3.5;0.0;0.5;0.5;1.0;0.5;0.0;0.0;0.0;0.5;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southwest Division;JaQuori McLaughlin;1;0;4.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Southwest Division;Total;16;"";"";113.0;10.0;35.6;45.6;24.7;7.1;4.6;0.0;20.6;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Northwest Division;Luka Doncic;13;13;35.2;24.4;0.6;8.5;9.1;9.6;1.7;0.5;3.8;2.4;2.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Northwest Division;Kristaps Porzingis;7;7;29.6;21.6;1.4;6.0;7.4;2.4;1.1;1.6;1.6;2.7;1.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Northwest Division;Spencer Dinwiddie;6;1;26.8;16.7;0.3;3.0;3.3;2.5;0.3;0.3;0.8;1.7;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Northwest Division;Jalen Brunson;17;15;32.9;15.9;0.5;3.5;4.0;5.2;0.9;0.1;1.8;2.5;2.9
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Northwest Division;Brandon Knight;2;0;22.5;14.0;0.0;2.5;2.5;4.0;0.5;0.0;2.0;2.0;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Northwest Division;Tim Hardaway Jr.;7;3;28.3;12.7;0.4;4.1;4.6;2.9;0.9;0.3;1.1;1.1;2.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Northwest Division;Dwight Powell;18;16;21.6;11.8;2.2;2.6;4.7;0.9;0.4;0.4;0.8;2.8;1.2
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Northwest Division;Dorian Finney-Smith;17;17;31.4;11.6;1.8;3.4;5.2;2.2;0.9;0.4;1.1;2.4;2.1
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Northwest Division;Reggie Bullock;13;8;30.5;10.5;0.5;3.3;3.8;1.4;0.8;0.2;0.5;1.8;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Northwest Division;Maxi Kleber;13;5;26.3;7.9;1.2;4.7;5.8;1.7;0.8;1.2;0.6;1.8;2.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Northwest Division;Davis Bertans;4;0;17.5;7.8;0.5;3.3;3.8;1.8;1.0;0.5;0.0;0.5;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Northwest Division;Eugene Omoruyi;1;0;9.0;6.0;1.0;2.0;3.0;1.0;0.0;0.0;0.0;1.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Northwest Division;Moses Brown;7;0;10.0;5.6;1.0;2.1;3.1;0.0;0.1;0.4;0.7;1.7;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Northwest Division;Marquese Chriss;9;0;10.8;4.7;0.6;2.3;2.9;0.3;0.0;0.4;0.6;1.9;0.6
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Northwest Division;Trey Burke;8;0;11.8;4.6;0.0;0.9;0.9;2.0;0.4;0.0;0.3;1.1;8.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Northwest Division;Frank Ntilikina;14;3;13.4;4.5;0.2;0.7;0.9;1.1;0.6;0.1;0.3;1.3;4.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Northwest Division;Boban Marjanovic;6;0;5.7;4.3;0.2;1.5;1.7;0.0;0.0;0.2;0.7;1.5;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Northwest Division;Josh Green;14;0;16.8;4.1;0.6;2.0;2.6;2.1;0.6;0.4;0.9;1.8;2.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Northwest Division;Sterling Brown;10;2;14.1;3.9;0.3;2.4;2.7;1.0;0.3;0.0;0.6;1.6;1.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Northwest Division;Theo Pinson;7;0;9.6;2.6;0.1;1.4;1.6;0.9;0.7;0.1;0.4;0.7;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Northwest Division;Willie Cauley-Stein;2;0;8.0;2.0;0.0;0.5;0.5;0.5;0.0;0.0;0.0;0.5;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Northwest Division;Carlik Jones;1;0;5.0;2.0;0.0;0.0;0.0;1.0;0.0;0.0;1.0;0.0;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Northwest Division;Charlie Brown Jr.;2;0;6.5;1.0;0.0;0.5;0.5;0.5;1.0;0.0;0.0;1.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Northwest Division;George King;2;0;6.5;0.0;0.0;2.0;2.0;0.0;0.0;0.0;0.5;1.5;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Northwest Division;JaQuori McLaughlin;2;0;2.5;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Northwest Division;Total;18;"";"";109.5;8.7;34.2;42.8;25.6;7.6;4.1;0.0;20.6;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Eastern Conference;Luka Doncic;28;28;35.7;28.5;0.9;7.7;8.6;9.1;1.0;0.5;3.9;2.3;2.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Eastern Conference;Kristaps Porzingis;12;12;28.3;16.6;1.9;5.4;7.3;1.4;0.8;1.6;1.2;2.2;1.2
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Eastern Conference;Jalen Brunson;29;22;31.2;15.6;0.7;3.4;4.1;3.8;0.7;0.0;1.2;1.7;3.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Eastern Conference;Tim Hardaway Jr.;14;7;30.0;14.3;0.3;2.2;2.5;1.9;1.1;0.1;0.9;2.1;2.2
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Eastern Conference;Spencer Dinwiddie;8;3;28.1;12.6;0.8;2.6;3.4;2.8;1.1;0.1;1.3;2.0;2.2
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Eastern Conference;Dorian Finney-Smith;30;30;33.3;10.5;1.4;2.8;4.2;1.8;1.0;0.5;1.2;2.3;1.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Eastern Conference;Dwight Powell;30;25;22.3;8.1;1.7;2.8;4.5;1.1;0.5;0.6;0.7;2.6;1.6
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Eastern Conference;Reggie Bullock;24;11;27.1;8.0;0.5;3.1;3.5;1.1;0.4;0.1;0.5;1.4;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Eastern Conference;Maxi Kleber;22;7;24.8;6.7;1.0;4.2;5.2;0.9;0.4;0.9;0.8;2.5;1.1
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Eastern Conference;Josh Green;26;1;15.4;5.6;0.7;1.8;2.5;0.8;0.6;0.1;0.8;1.6;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Eastern Conference;Trey Burke;16;0;9.6;5.5;0.1;0.6;0.8;1.3;0.2;0.0;0.8;1.0;1.6
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Eastern Conference;Marquese Chriss;15;0;10.5;4.9;1.3;1.8;3.1;0.7;0.7;0.4;0.5;2.3;1.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Eastern Conference;Davis Bertans;10;0;11.2;4.1;0.1;1.8;1.9;0.4;0.1;0.2;0.2;1.6;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Eastern Conference;Boban Marjanovic;5;0;3.6;3.2;0.2;1.2;1.4;0.0;0.0;0.0;0.4;0.2;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Eastern Conference;Frank Ntilikina;23;1;9.7;3.1;0.1;1.0;1.2;1.0;0.2;0.2;0.4;0.8;2.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Eastern Conference;Sterling Brown;17;1;11.5;3.1;0.7;2.8;3.5;0.6;0.2;0.1;0.2;0.9;3.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Eastern Conference;Theo Pinson;5;0;7.8;2.8;0.0;0.8;0.8;0.2;0.0;0.0;0.0;0.8;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Eastern Conference;Moses Brown;9;1;5.7;1.8;0.4;1.7;2.1;0.1;0.1;0.1;0.4;0.6;0.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Eastern Conference;Brandon Knight;3;0;6.7;1.3;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.3;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Eastern Conference;Willie Cauley-Stein;6;1;9.8;1.3;1.0;1.3;2.3;0.2;0.2;0.3;0.5;0.8;0.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Eastern Conference;George King;1;0;4.0;1.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Eastern Conference;Eugene Omoruyi;1;0;2.0;1.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Eastern Conference;JaQuori McLaughlin;1;0;2.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Eastern Conference;Carlik Jones;1;0;9.0;0.0;0.0;2.0;2.0;3.0;0.0;0.0;1.0;0.0;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Eastern Conference;Total;30;"";"";105.9;9.1;32.6;41.7;21.9;6.1;3.8;0.0;19.3;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Western Conference;Luka Doncic;37;37;35.2;28.4;0.8;8.7;9.5;8.5;1.3;0.6;4.9;2.2;1.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Western Conference;Kristaps Porzingis;22;22;30.1;20.7;1.9;6.0;7.9;2.4;0.7;1.8;1.8;2.8;1.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Western Conference;Spencer Dinwiddie;15;4;28.3;17.5;0.2;2.8;3.0;4.5;0.5;0.3;1.4;1.8;3.2
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Western Conference;Jalen Brunson;50;39;32.4;16.7;0.5;3.3;3.8;5.3;0.9;0.1;1.8;2.0;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Western Conference;Tim Hardaway Jr.;28;13;29.5;14.2;0.3;4.0;4.3;2.4;0.8;0.1;0.8;1.6;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Western Conference;Brandon Knight;2;0;22.5;14.0;0.0;2.5;2.5;4.0;0.5;0.0;2.0;2.0;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Western Conference;Dorian Finney-Smith;50;50;32.9;11.3;1.6;3.4;5.0;1.9;1.2;0.5;0.9;2.3;2.2
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Western Conference;Dwight Powell;52;46;21.7;9.1;2.3;2.8;5.2;1.2;0.4;0.4;0.8;2.7;1.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Western Conference;Reggie Bullock;44;26;28.5;8.9;0.5;3.0;3.5;1.3;0.7;0.3;0.6;1.8;2.1
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Western Conference;Maxi Kleber;37;14;24.4;7.1;1.3;5.1;6.4;1.3;0.6;1.0;0.8;2.2;1.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Western Conference;Davis Bertans;12;0;16.1;6.3;0.4;2.7;3.1;0.9;0.4;0.3;0.3;1.2;3.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Western Conference;Isaiah Thomas;1;0;13.0;6.0;0.0;0.0;0.0;4.0;0.0;0.0;0.0;0.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Western Conference;Trey Burke;26;0;11.1;4.8;0.1;0.7;0.8;1.4;0.3;0.0;0.5;0.9;2.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Western Conference;Frank Ntilikina;35;4;13.2;4.8;0.3;1.2;1.5;1.3;0.7;0.1;0.6;1.2;2.2
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Western Conference;Boban Marjanovic;18;0;6.1;4.6;0.4;1.4;1.8;0.2;0.0;0.2;0.7;1.3;0.2
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Western Conference;Marquese Chriss;19;0;9.9;4.3;0.7;2.3;2.9;0.4;0.1;0.3;0.5;1.5;0.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Western Conference;Josh Green;41;2;15.6;4.2;0.8;1.5;2.3;1.4;0.7;0.3;0.6;1.8;2.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Western Conference;Moses Brown;17;0;6.9;3.8;0.7;1.8;2.5;0.0;0.1;0.5;0.6;1.4;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Western Conference;Sterling Brown;32;2;13.5;3.4;0.4;2.4;2.8;0.8;0.3;0.2;0.6;1.3;1.2
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Western Conference;Theo Pinson;14;0;7.8;2.4;0.1;1.1;1.2;1.1;0.4;0.1;0.4;0.6;3.2
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Western Conference;Willie Cauley-Stein;12;1;9.8;2.2;0.6;1.4;2.0;0.7;0.4;0.1;0.3;1.0;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Western Conference;Eugene Omoruyi;3;0;5.3;2.0;0.7;1.0;1.7;0.7;0.0;0.0;0.0;0.7;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Western Conference;Moses Wright;3;0;4.3;1.7;0.3;0.7;1.0;0.3;0.0;0.3;0.0;0.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Western Conference;Carlik Jones;2;0;5.0;1.0;0.5;0.0;0.5;1.0;0.5;0.0;1.0;0.0;1.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Western Conference;Charlie Brown Jr.;3;0;5.0;0.7;0.0;0.3;0.3;0.3;0.7;0.3;0.0;0.7;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Western Conference;George King;3;0;5.0;0.0;0.0;1.3;1.3;0.0;0.0;0.0;0.3;1.3;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Western Conference;JaQuori McLaughlin;3;0;3.0;0.0;0.0;0.0;0.0;0.3;0.0;0.0;0.0;0.3;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Western Conference;Total;52;"";"";109.2;9.3;34.4;43.8;24.3;7.1;4.1;0.0;19.9;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pre All-Star;Luka Doncic;44;44;35.4;27.5;0.9;8.3;9.2;9.0;1.1;0.5;4.4;2.4;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pre All-Star;Kristaps Porzingis;34;34;29.5;19.2;1.9;5.8;7.7;2.0;0.7;1.7;1.6;2.6;1.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pre All-Star;Jalen Brunson;58;40;32.1;16.3;0.6;3.3;3.8;5.4;0.9;0.1;1.7;1.9;3.1
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pre All-Star;Tim Hardaway Jr.;42;20;29.6;14.2;0.3;3.4;3.7;2.2;0.9;0.1;0.8;1.8;2.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pre All-Star;Dorian Finney-Smith;58;58;32.9;10.1;1.6;3.2;4.8;1.9;1.2;0.5;1.1;2.3;1.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pre All-Star;Brandon Knight;3;0;18.0;10.0;0.0;2.3;2.3;2.7;0.3;0.0;1.3;1.7;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pre All-Star;Reggie Bullock;49;18;25.3;8.2;0.4;3.0;3.4;1.0;0.5;0.1;0.5;1.4;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pre All-Star;Maxi Kleber;42;20;25.3;8.0;1.3;4.7;6.0;1.1;0.5;1.0;0.7;2.3;1.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pre All-Star;Davis Bertans;2;0;15.5;7.5;0.5;2.0;2.5;1.0;0.0;0.0;0.0;2.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pre All-Star;Dwight Powell;59;48;20.6;7.4;2.0;2.4;4.4;1.1;0.5;0.4;0.8;2.5;1.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pre All-Star;Isaiah Thomas;1;0;13.0;6.0;0.0;0.0;0.0;4.0;0.0;0.0;0.0;0.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pre All-Star;Spencer Dinwiddie;2;0;27.0;6.0;0.5;2.5;3.0;3.0;1.0;0.0;0.0;2.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pre All-Star;Trey Burke;32;0;10.8;5.7;0.1;0.8;0.9;1.4;0.3;0.0;0.7;1.0;2.2
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pre All-Star;Marquese Chriss;23;0;11.1;5.0;1.0;2.5;3.5;0.5;0.5;0.4;0.7;2.1;0.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pre All-Star;Boban Marjanovic;17;0;5.8;4.8;0.4;1.4;1.8;0.1;0.0;0.1;0.6;1.2;0.2
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pre All-Star;Josh Green;44;2;14.4;4.4;0.7;1.5;2.2;1.3;0.7;0.2;0.5;1.7;2.9
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pre All-Star;Frank Ntilikina;47;5;12.5;4.3;0.1;1.2;1.3;1.1;0.5;0.1;0.6;1.1;2.1
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pre All-Star;Sterling Brown;38;3;13.8;3.7;0.6;2.8;3.4;0.8;0.3;0.1;0.6;1.2;1.4
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pre All-Star;Moses Brown;26;1;6.5;3.1;0.6;1.7;2.3;0.0;0.1;0.3;0.5;1.1;0.1
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pre All-Star;Willie Cauley-Stein;18;2;9.8;1.9;0.7;1.4;2.1;0.5;0.3;0.2;0.4;0.9;1.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pre All-Star;Theo Pinson;16;0;7.5;1.8;0.1;1.1;1.2;0.8;0.3;0.1;0.1;0.6;6.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pre All-Star;Eugene Omoruyi;4;0;4.5;1.8;0.5;1.3;1.8;0.5;0.0;0.0;0.0;0.5;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pre All-Star;Charlie Brown Jr.;3;0;5.0;0.7;0.0;0.3;0.3;0.3;0.7;0.3;0.0;0.7;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pre All-Star;Carlik Jones;3;0;6.3;0.7;0.3;0.7;1.0;1.7;0.3;0.0;1.0;0.0;1.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pre All-Star;George King;4;0;4.8;0.3;0.0;1.3;1.3;0.0;0.0;0.0;0.3;1.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pre All-Star;JaQuori McLaughlin;4;0;2.8;0.0;0.0;0.0;0.0;0.5;0.0;0.0;0.0;0.3;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Pre All-Star;Total;59;"";"";106.6;9.5;34.2;43.6;23.7;7.0;4.1;11.7;19.8;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Post All-Star;Luka Doncic;21;21;35.3;30.2;0.9;8.1;9.0;8.2;1.2;0.7;4.7;1.9;1.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Post All-Star;Spencer Dinwiddie;21;7;28.4;16.7;0.4;2.8;3.1;4.0;0.7;0.3;1.5;1.9;2.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Post All-Star;Jalen Brunson;21;21;31.6;16.3;0.5;3.7;4.1;3.0;0.7;0.0;1.1;1.9;2.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Post All-Star;Dorian Finney-Smith;22;22;33.5;13.3;1.4;3.0;4.4;1.8;0.8;0.5;0.8;2.2;2.4
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Post All-Star;Dwight Powell;23;23;25.4;12.3;2.3;3.9;6.3;1.3;0.3;0.6;0.8;3.2;1.6
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Post All-Star;Reggie Bullock;19;19;34.7;9.6;0.6;3.3;3.9;1.7;0.8;0.4;0.8;2.2;2.1
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Post All-Star;Theo Pinson;3;0;9.3;6.7;0.3;0.3;0.7;1.3;0.3;0.0;1.0;1.0;1.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Post All-Star;Josh Green;23;1;17.7;5.5;0.9;2.0;2.9;0.9;0.7;0.2;1.0;1.8;0.9
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Post All-Star;Davis Bertans;20;0;13.8;5.1;0.3;2.3;2.6;0.7;0.3;0.3;0.3;1.3;2.6
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Post All-Star;Maxi Kleber;17;1;22.9;4.5;1.0;4.8;5.8;1.3;0.5;0.8;0.9;2.4;1.4
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Post All-Star;Marquese Chriss;11;0;8.1;3.5;1.0;1.1;2.1;0.5;0.2;0.2;0.0;1.4;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Post All-Star;Frank Ntilikina;11;0;8.7;3.5;0.5;1.0;1.5;1.4;0.3;0.1;0.5;0.9;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Post All-Star;Trey Burke;10;0;9.5;3.3;0.1;0.4;0.5;1.1;0.2;0.0;0.5;0.8;2.2
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Post All-Star;Boban Marjanovic;6;0;5.0;2.8;0.2;1.3;1.5;0.2;0.0;0.2;0.7;0.7;0.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Post All-Star;Sterling Brown;11;0;9.5;1.9;0.4;1.5;1.9;0.4;0.2;0.2;0.2;1.1;2.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Post All-Star;Moses Wright;3;0;4.3;1.7;0.3;0.7;1.0;0.3;0.0;0.3;0.0;0.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Post All-Star;Brandon Knight;2;0;5.0;1.0;0.0;0.5;0.5;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;Post All-Star;Total;23;"";"";111.6;8.7;32.7;41.4;22.6;6.0;3.7;11.6;19.2;1.9
+Dallas Mavericks;dal;2021 - 2022 Regular Season;3+ Days Rest;Luka Doncic;9;9;36.2;24.8;0.6;9.0;9.6;9.4;0.9;0.3;4.1;2.6;2.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;3+ Days Rest;Kristaps Porzingis;7;7;29.7;17.3;1.7;5.4;7.1;2.0;1.4;1.3;1.6;2.1;1.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;3+ Days Rest;Tim Hardaway Jr.;4;3;32.3;16.8;0.5;2.8;3.3;2.8;1.5;0.3;1.0;2.3;2.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;3+ Days Rest;Dorian Finney-Smith;6;6;32.3;12.7;1.7;3.7;5.3;2.7;1.0;0.3;0.8;2.5;3.2
+Dallas Mavericks;dal;2021 - 2022 Regular Season;3+ Days Rest;Spencer Dinwiddie;2;0;24.5;12.0;0.0;2.0;2.0;3.5;1.0;0.0;0.5;2.0;7.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;3+ Days Rest;Davis Bertans;3;0;16.0;11.7;0.3;2.3;2.7;0.3;0.7;0.3;0.0;0.7;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;3+ Days Rest;Jalen Brunson;6;4;30.8;11.7;0.2;2.7;2.8;3.0;0.3;0.0;1.8;3.2;1.6
+Dallas Mavericks;dal;2021 - 2022 Regular Season;3+ Days Rest;Reggie Bullock;6;3;27.0;9.3;0.5;3.0;3.5;1.5;0.7;0.0;0.5;1.7;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;3+ Days Rest;Dwight Powell;4;3;19.3;9.0;2.0;2.0;4.0;0.8;0.5;0.0;1.0;2.3;0.8
+Dallas Mavericks;dal;2021 - 2022 Regular Season;3+ Days Rest;Maxi Kleber;8;1;24.0;6.5;1.1;4.9;6.0;1.4;0.6;1.0;0.6;2.1;2.2
+Dallas Mavericks;dal;2021 - 2022 Regular Season;3+ Days Rest;Isaiah Thomas;1;0;13.0;6.0;0.0;0.0;0.0;4.0;0.0;0.0;0.0;0.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;3+ Days Rest;Boban Marjanovic;15;0;4.8;4.1;0.2;1.2;1.4;0.1;0.0;0.1;0.4;0.7;0.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;3+ Days Rest;Trey Burke;16;0;7.6;3.3;0.1;0.6;0.7;1.3;0.2;0.0;0.4;0.7;3.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;3+ Days Rest;Sterling Brown;8;0;12.1;3.3;0.1;2.5;2.6;0.8;0.4;0.0;0.5;1.8;1.5
+Dallas Mavericks;dal;2021 - 2022 Regular Season;3+ Days Rest;Marquese Chriss;5;0;9.4;3.2;0.4;3.0;3.4;0.0;0.2;0.4;0.2;1.6;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;3+ Days Rest;Willie Cauley-Stein;2;1;11.5;3.0;2.0;2.5;4.5;0.0;0.0;1.0;1.0;1.5;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;3+ Days Rest;Moses Brown;7;1;7.3;2.9;0.7;1.9;2.6;0.1;0.3;0.9;0.6;1.3;0.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;3+ Days Rest;Eugene Omoruyi;3;0;5.3;2.3;0.7;1.3;2.0;0.7;0.0;0.0;0.0;0.7;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;3+ Days Rest;Frank Ntilikina;10;1;8.9;2.1;0.2;1.0;1.2;0.9;0.3;0.1;0.4;0.7;2.3
+Dallas Mavericks;dal;2021 - 2022 Regular Season;3+ Days Rest;Brandon Knight;2;0;8.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.5;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;3+ Days Rest;Theo Pinson;5;0;7.0;1.8;0.0;0.8;0.8;0.6;0.8;0.2;0.2;0.2;3.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;3+ Days Rest;Josh Green;9;0;7.6;1.7;0.1;0.7;0.8;1.2;0.4;0.0;0.1;1.1;11.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;3+ Days Rest;Moses Wright;2;0;2.5;1.5;0.5;0.0;0.5;0.0;0.0;0.0;0.0;0.0;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;3+ Days Rest;Charlie Brown Jr.;2;0;5.0;1.0;0.0;0.5;0.5;0.5;1.0;0.5;0.0;0.5;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;3+ Days Rest;Carlik Jones;3;0;6.3;0.7;0.3;0.7;1.0;1.7;0.3;0.0;1.0;0.0;1.7
+Dallas Mavericks;dal;2021 - 2022 Regular Season;3+ Days Rest;George King;2;0;3.0;0.5;0.0;0.5;0.5;0.0;0.0;0.0;0.0;0.5;0.0
+Dallas Mavericks;dal;2021 - 2022 Regular Season;3+ Days Rest;JaQuori McLaughlin;3;0;2.7;0.0;0.0;0.0;0.0;0.7;0.0;0.0;0.0;0.0;INF
+Dallas Mavericks;dal;2021 - 2022 Regular Season;3+ Days Rest;Total;4;"";"";103.8;8.5;30.5;39.0;22.0;7.0;3.0;10.8;22.0;2.0

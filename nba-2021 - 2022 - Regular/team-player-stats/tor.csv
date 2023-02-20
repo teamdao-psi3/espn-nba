@@ -1,0 +1,856 @@
+teamName;teamCode;season;split;player_name;GP;GS;MIN;PTS;ORB;DR;REB;AST;STL;BLK;TO;PF;AST_TO
+Toronto Raptors;tor;2021 - 2022 Regular Season;All Splits;Pascal Siakam;68;68;37.9;22.8;1.9;6.6;8.5;5.3;1.3;0.6;2.7;3.3;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;All Splits;Fred VanVleet;65;65;37.9;20.3;0.7;3.8;4.4;6.7;1.7;0.5;2.6;2.5;2.6
+Toronto Raptors;tor;2021 - 2022 Regular Season;All Splits;Gary Trent Jr.;70;69;35.0;18.3;0.4;2.4;2.7;2.0;1.7;0.3;1.0;2.1;1.9
+Toronto Raptors;tor;2021 - 2022 Regular Season;All Splits;O.G. Anunoby;48;48;36.0;17.1;1.5;4.0;5.5;2.6;1.5;0.5;1.7;2.7;1.6
+Toronto Raptors;tor;2021 - 2022 Regular Season;All Splits;Scottie Barnes;74;74;35.4;15.3;2.6;4.9;7.5;3.5;1.1;0.7;1.8;2.6;1.9
+Toronto Raptors;tor;2021 - 2022 Regular Season;All Splits;Chris Boucher;80;9;21.1;9.4;2.2;3.9;6.2;0.3;0.6;0.9;0.5;2.2;0.6
+Toronto Raptors;tor;2021 - 2022 Regular Season;All Splits;Precious Achiuwa;73;28;23.6;9.1;2.0;4.5;6.5;1.1;0.5;0.6;1.2;2.1;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;All Splits;Goran Dragic;5;2;18.0;8.0;0.4;2.4;2.8;1.8;1.0;0.2;0.2;1.6;9.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;All Splits;D.J. Wilson;4;1;13.5;7.5;0.3;3.8;4.0;1.3;1.3;0.3;0.5;1.5;2.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;All Splits;Thaddeus Young;26;0;18.3;6.3;1.5;2.9;4.4;1.7;1.2;0.4;0.8;1.7;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;All Splits;Juwan Morgan;1;0;27.0;5.0;2.0;2.0;4.0;1.0;0.0;0.0;0.0;3.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;All Splits;Svi Mykhailiuk;56;5;12.8;4.6;0.4;1.3;1.6;0.8;0.5;0.1;0.6;1.0;1.4
+Toronto Raptors;tor;2021 - 2022 Regular Season;All Splits;Khem Birch;55;28;18.0;4.5;2.2;2.1;4.3;1.0;0.5;0.5;0.5;1.9;1.9
+Toronto Raptors;tor;2021 - 2022 Regular Season;All Splits;Malachi Flynn;44;5;12.2;4.3;0.2;1.2;1.4;1.6;0.5;0.1;0.3;1.0;5.4
+Toronto Raptors;tor;2021 - 2022 Regular Season;All Splits;Yuta Watanabe;38;4;11.7;4.3;0.5;1.9;2.4;0.6;0.3;0.4;0.5;1.0;1.1
+Toronto Raptors;tor;2021 - 2022 Regular Season;All Splits;Tremont Waters;2;0;21.0;4.0;0.0;2.0;2.0;3.5;2.0;0.0;2.0;1.0;1.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;All Splits;Dalano Banton;64;1;10.9;3.2;0.6;1.3;1.9;1.5;0.4;0.2;0.8;1.1;1.9
+Toronto Raptors;tor;2021 - 2022 Regular Season;All Splits;Daniel Oturu;3;0;9.0;3.0;0.3;1.3;1.7;0.0;0.0;0.7;0.0;0.3;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;All Splits;Armoni Brooks;13;3;11.8;2.6;0.6;1.1;1.7;1.0;0.5;0.2;0.3;1.1;3.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;All Splits;Justin Champagnie;36;0;7.8;2.3;1.0;1.0;2.0;0.3;0.2;0.1;0.2;0.9;1.4
+Toronto Raptors;tor;2021 - 2022 Regular Season;All Splits;Isaac Bonga;15;0;4.6;0.8;0.3;0.2;0.5;0.3;0.5;0.1;0.1;0.7;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;All Splits;Sam Dekker;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;All Splits;David Johnson;2;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;All Splits;Total;82;"";"";109.4;13.4;32.0;45.3;22.1;9.0;4.6;11.6;19.6;1.9
+Toronto Raptors;tor;2021 - 2022 Regular Season;Home;Pascal Siakam;34;34;37.7;24.5;2.3;7.1;9.4;5.8;1.2;0.6;2.8;3.6;2.1
+Toronto Raptors;tor;2021 - 2022 Regular Season;Home;Fred VanVleet;33;33;37.4;20.9;0.7;3.8;4.5;6.9;1.8;0.4;2.5;2.5;2.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;Home;O.G. Anunoby;25;25;35.2;17.0;1.4;3.7;5.1;2.6;1.6;0.5;1.5;2.9;1.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;Home;Gary Trent Jr.;35;34;34.9;16.8;0.3;2.2;2.4;2.1;1.7;0.4;0.9;1.9;2.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;Home;Scottie Barnes;37;37;35.4;15.3;2.6;5.0;7.6;3.3;1.1;0.9;1.9;2.6;1.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;Home;Precious Achiuwa;36;12;23.4;9.0;1.9;4.1;6.1;0.9;0.4;0.6;1.2;2.1;0.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;Home;Chris Boucher;40;6;20.3;9.0;2.3;4.0;6.2;0.3;0.7;1.0;0.5;2.1;0.6
+Toronto Raptors;tor;2021 - 2022 Regular Season;Home;Goran Dragic;4;2;19.5;8.8;0.5;2.8;3.3;2.0;1.0;0.3;0.3;1.5;8.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Home;Thaddeus Young;11;0;19.5;7.8;1.8;2.9;4.7;1.8;1.0;0.5;0.5;1.8;3.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;Home;Malachi Flynn;21;4;14.3;5.5;0.1;1.2;1.4;1.8;0.4;0.2;0.4;1.3;4.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;Home;Yuta Watanabe;19;2;15.1;4.6;0.4;2.4;2.8;0.6;0.4;0.2;0.6;1.5;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Home;D.J. Wilson;2;0;7.0;4.5;0.0;3.0;3.0;0.0;0.0;0.0;0.0;1.5;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Home;Svi Mykhailiuk;28;2;13.4;4.4;0.4;1.6;1.9;0.8;0.4;0.1;0.6;1.1;1.4
+Toronto Raptors;tor;2021 - 2022 Regular Season;Home;Khem Birch;27;13;17.6;4.4;2.0;1.9;3.9;1.0;0.4;0.4;0.6;1.8;1.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;Home;Dalano Banton;33;0;9.3;3.4;0.7;1.2;2.0;1.5;0.5;0.2;0.7;1.1;2.1
+Toronto Raptors;tor;2021 - 2022 Regular Season;Home;Justin Champagnie;17;0;8.1;3.1;1.1;0.8;1.9;0.2;0.4;0.2;0.3;0.8;0.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;Home;Armoni Brooks;5;1;13.2;2.8;1.0;1.4;2.4;2.0;0.8;0.4;0.4;1.2;5.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Home;Daniel Oturu;2;0;4.0;1.0;0.5;1.0;1.5;0.0;0.0;1.0;0.0;0.5;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Home;Isaac Bonga;12;0;5.3;0.8;0.3;0.3;0.5;0.2;0.6;0.2;0.2;0.8;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Home;Sam Dekker;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Home;Tremont Waters;1;0;7.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;0.0;0.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;Home;David Johnson;2;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Home;Total;41;"";"";111.0;13.5;32.0;45.4;22.6;9.0;4.8;11.4;20.3;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Away;Pascal Siakam;34;34;38.1;21.1;1.4;6.2;7.6;4.8;1.3;0.6;2.6;3.0;1.9
+Toronto Raptors;tor;2021 - 2022 Regular Season;Away;Gary Trent Jr.;35;35;35.1;19.9;0.5;2.5;3.0;1.9;1.8;0.2;1.2;2.2;1.6
+Toronto Raptors;tor;2021 - 2022 Regular Season;Away;Fred VanVleet;32;32;38.4;19.7;0.6;3.7;4.3;6.5;1.7;0.7;2.8;2.5;2.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;Away;O.G. Anunoby;23;23;37.0;17.3;1.7;4.2;5.9;2.6;1.3;0.5;1.9;2.5;1.4
+Toronto Raptors;tor;2021 - 2022 Regular Season;Away;Scottie Barnes;37;37;35.3;15.4;2.6;4.8;7.5;3.6;1.1;0.5;1.8;2.6;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Away;D.J. Wilson;2;1;20.0;10.5;0.5;4.5;5.0;2.5;2.5;0.5;1.0;1.5;2.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;Away;Chris Boucher;40;3;22.0;9.9;2.2;3.9;6.1;0.3;0.6;0.9;0.6;2.3;0.6
+Toronto Raptors;tor;2021 - 2022 Regular Season;Away;Precious Achiuwa;37;16;23.8;9.2;2.1;4.8;6.9;1.3;0.6;0.6;1.1;2.0;1.2
+Toronto Raptors;tor;2021 - 2022 Regular Season;Away;Tremont Waters;1;0;35.0;8.0;0.0;3.0;3.0;6.0;3.0;0.0;4.0;2.0;1.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;Away;Daniel Oturu;1;0;20.0;7.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Away;Thaddeus Young;15;0;17.4;5.2;1.3;2.9;4.2;1.7;1.3;0.4;1.1;1.5;1.6
+Toronto Raptors;tor;2021 - 2022 Regular Season;Away;Goran Dragic;1;0;12.0;5.0;0.0;1.0;1.0;1.0;1.0;0.0;0.0;2.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;Away;Juwan Morgan;1;0;27.0;5.0;2.0;2.0;4.0;1.0;0.0;0.0;0.0;3.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;Away;Svi Mykhailiuk;28;3;12.2;4.7;0.4;1.0;1.4;0.8;0.5;0.1;0.6;0.9;1.4
+Toronto Raptors;tor;2021 - 2022 Regular Season;Away;Khem Birch;28;15;18.4;4.6;2.4;2.3;4.8;1.0;0.7;0.5;0.5;2.0;2.2
+Toronto Raptors;tor;2021 - 2022 Regular Season;Away;Yuta Watanabe;19;2;8.4;3.9;0.5;1.5;2.1;0.5;0.2;0.7;0.4;0.5;1.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;Away;Malachi Flynn;23;1;10.3;3.2;0.3;1.2;1.5;1.4;0.5;0.0;0.2;0.8;6.4
+Toronto Raptors;tor;2021 - 2022 Regular Season;Away;Dalano Banton;31;1;12.5;3.0;0.5;1.5;1.9;1.5;0.4;0.2;0.9;1.0;1.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;Away;Armoni Brooks;8;2;11.0;2.5;0.4;0.9;1.3;0.4;0.4;0.1;0.3;1.0;1.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;Away;Justin Champagnie;19;0;7.5;1.5;1.0;1.1;2.1;0.4;0.1;0.1;0.2;1.0;2.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;Away;Isaac Bonga;3;0;2.0;1.0;0.3;0.0;0.3;0.7;0.3;0.0;0.0;0.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;Away;Total;41;"";"";107.8;13.2;32.0;45.2;21.5;9.0;4.4;11.9;18.9;1.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Boston Celtics;Pascal Siakam;3;3;38.3;22.0;1.3;7.7;9.0;3.0;1.7;0.7;2.0;5.0;1.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Boston Celtics;Scottie Barnes;4;4;33.8;19.3;3.5;4.3;7.8;3.3;0.5;0.3;2.3;3.5;1.4
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Boston Celtics;Fred VanVleet;4;4;38.3;17.0;0.8;3.8;4.5;5.3;2.8;0.8;3.3;2.3;1.6
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Boston Celtics;Gary Trent Jr.;3;3;34.3;15.3;0.0;3.0;3.0;1.0;2.3;0.7;1.3;3.0;0.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Boston Celtics;O.G. Anunoby;3;3;36.7;14.0;2.7;3.0;5.7;3.3;0.7;0.3;1.3;1.3;2.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Boston Celtics;Thaddeus Young;1;0;28.0;12.0;3.0;5.0;8.0;3.0;1.0;3.0;0.0;2.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Boston Celtics;Svi Mykhailiuk;3;1;23.7;10.0;0.3;3.3;3.7;1.0;1.3;0.3;1.3;1.3;0.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Boston Celtics;Precious Achiuwa;4;2;28.5;7.8;2.5;7.8;10.3;1.0;0.5;1.8;1.0;2.5;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Boston Celtics;Chris Boucher;3;0;13.7;5.7;1.7;3.0;4.7;0.0;0.7;0.3;0.7;1.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Boston Celtics;Goran Dragic;1;0;12.0;5.0;0.0;1.0;1.0;1.0;1.0;0.0;0.0;2.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Boston Celtics;Yuta Watanabe;1;0;14.0;3.0;1.0;1.0;2.0;1.0;0.0;0.0;0.0;2.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Boston Celtics;Malachi Flynn;3;0;8.0;2.7;0.3;1.3;1.7;1.3;0.3;0.3;0.3;1.0;4.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Boston Celtics;Khem Birch;1;0;21.0;2.0;4.0;2.0;6.0;0.0;2.0;0.0;1.0;1.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Boston Celtics;Dalano Banton;3;0;6.7;1.3;0.3;0.7;1.0;1.0;0.0;0.7;0.3;0.3;3.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Boston Celtics;Isaac Bonga;2;0;7.0;1.0;0.5;0.0;0.5;1.0;0.0;0.5;0.0;1.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Boston Celtics;Justin Champagnie;3;0;4.0;0.7;0.3;0.7;1.0;0.0;0.0;0.3;0.0;0.3;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Boston Celtics;Total;4;"";"";103.8;14.3;35.0;49.3;19.3;10.0;6.5;12.3;20.5;1.6
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Brooklyn Nets;Fred VanVleet;2;2;44.0;26.0;0.5;3.5;4.0;8.5;1.5;0.5;2.5;0.5;3.4
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Brooklyn Nets;Scottie Barnes;4;4;37.5;19.3;5.0;6.3;11.3;4.3;2.8;0.5;2.8;2.8;1.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Brooklyn Nets;Gary Trent Jr.;4;4;36.8;18.8;0.3;1.0;1.3;4.8;2.3;0.3;0.8;1.5;6.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Brooklyn Nets;Pascal Siakam;4;4;33.5;16.5;1.5;3.8;5.3;3.8;1.8;1.3;1.8;4.3;2.1
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Brooklyn Nets;O.G. Anunoby;1;1;38.0;16.0;1.0;7.0;8.0;3.0;0.0;0.0;2.0;2.0;1.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Brooklyn Nets;Precious Achiuwa;3;0;22.7;12.3;2.0;5.7;7.7;1.3;0.3;0.3;1.3;1.3;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Brooklyn Nets;Malachi Flynn;3;2;28.0;12.0;0.7;2.7;3.3;4.3;0.7;0.0;0.7;1.3;6.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Brooklyn Nets;Thaddeus Young;2;0;19.0;11.0;0.5;2.5;3.0;1.5;1.0;0.5;0.5;3.0;3.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Brooklyn Nets;Chris Boucher;4;1;17.8;7.8;0.8;3.8;4.5;0.3;0.3;0.8;0.5;2.8;0.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Brooklyn Nets;Yuta Watanabe;2;0;20.5;6.0;1.0;3.5;4.5;2.0;0.0;2.0;1.0;1.0;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Brooklyn Nets;D.J. Wilson;1;0;6.0;6.0;0.0;2.0;2.0;1.0;0.0;0.0;0.0;1.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Brooklyn Nets;Khem Birch;2;2;13.5;5.5;2.0;1.0;3.0;0.0;0.0;0.5;0.0;2.5;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Brooklyn Nets;Svi Mykhailiuk;3;0;13.3;5.0;0.0;0.0;0.0;1.7;0.0;0.0;1.0;1.0;1.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Brooklyn Nets;Justin Champagnie;2;0;10.5;4.0;1.5;2.0;3.5;1.0;0.0;0.0;0.0;0.5;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Brooklyn Nets;Dalano Banton;3;0;10.3;3.3;1.0;0.0;1.0;2.3;0.7;0.0;1.0;0.7;2.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Brooklyn Nets;Total;4;"";"";118.5;13.3;29.5;42.8;27.8;9.5;4.8;11.3;19.0;2.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. New York Knicks;Fred VanVleet;3;3;35.3;23.0;0.7;6.0;6.7;8.0;2.0;0.3;1.3;2.0;6.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. New York Knicks;O.G. Anunoby;3;3;32.3;19.3;1.7;4.3;6.0;2.0;1.7;0.0;1.3;2.3;1.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. New York Knicks;Gary Trent Jr.;4;4;33.3;18.0;0.0;2.0;2.0;1.8;1.8;0.0;1.5;3.3;1.2
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. New York Knicks;Pascal Siakam;2;2;37.0;16.5;3.0;10.0;13.0;5.5;1.0;0.5;3.5;3.5;1.6
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. New York Knicks;Chris Boucher;4;1;22.5;12.3;2.0;3.0;5.0;0.8;0.5;1.0;0.5;2.0;1.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. New York Knicks;Scottie Barnes;3;3;30.7;10.7;1.7;5.3;7.0;2.7;1.3;1.0;2.3;3.0;1.1
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. New York Knicks;Svi Mykhailiuk;4;1;17.3;7.0;0.0;1.8;1.8;1.3;0.8;0.3;0.3;1.8;5.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. New York Knicks;Khem Birch;3;1;23.0;5.3;2.0;2.7;4.7;2.0;1.0;0.7;1.0;1.0;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. New York Knicks;Thaddeus Young;1;0;20.0;5.0;0.0;3.0;3.0;4.0;2.0;1.0;1.0;2.0;4.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. New York Knicks;Precious Achiuwa;3;1;20.3;4.3;2.3;4.3;6.7;2.0;0.7;0.7;2.0;1.3;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. New York Knicks;Yuta Watanabe;3;0;13.0;4.0;0.0;3.3;3.3;1.0;0.7;0.3;0.3;1.0;3.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. New York Knicks;Malachi Flynn;4;0;12.3;3.5;0.3;0.8;1.0;2.0;0.5;0.0;0.3;1.3;8.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. New York Knicks;Armoni Brooks;1;1;18.0;3.0;0.0;2.0;2.0;0.0;0.0;0.0;1.0;3.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. New York Knicks;Justin Champagnie;3;0;7.0;2.3;1.3;0.7;2.0;0.3;0.0;0.0;0.0;1.3;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. New York Knicks;Daniel Oturu;1;0;2.0;2.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. New York Knicks;Dalano Banton;3;0;7.0;1.3;0.0;1.0;1.0;0.3;0.0;0.7;0.3;0.7;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. New York Knicks;Total;4;"";"";104.3;11.3;34.5;45.8;23.3;10.0;4.5;11.3;20.8;2.1
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Fred VanVleet;1;1;40.0;32.0;0.0;6.0;6.0;7.0;1.0;0.0;1.0;4.0;7.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Pascal Siakam;3;3;38.3;30.3;2.3;6.3;8.7;8.3;1.0;0.3;2.7;2.3;3.1
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Philadelphia 76ers;O.G. Anunoby;1;1;39.0;20.0;1.0;3.0;4.0;4.0;1.0;0.0;1.0;3.0;4.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Gary Trent Jr.;4;4;38.3;19.5;0.0;3.3;3.3;4.3;1.5;0.0;1.3;2.5;3.4
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Chris Boucher;4;1;31.5;16.0;3.0;7.5;10.5;0.0;1.0;2.0;0.8;3.8;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Precious Achiuwa;3;3;34.7;15.0;3.0;4.3;7.3;1.7;1.0;1.3;2.0;2.0;0.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Scottie Barnes;3;3;40.7;13.0;3.7;4.7;8.3;3.3;0.7;0.7;2.0;2.3;1.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Yuta Watanabe;1;1;31.0;10.0;1.0;3.0;4.0;2.0;0.0;0.0;2.0;5.0;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Philadelphia 76ers;D.J. Wilson;1;0;13.0;9.0;0.0;6.0;6.0;0.0;0.0;0.0;0.0;3.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Svi Mykhailiuk;2;0;22.5;7.0;1.5;0.5;2.0;2.5;1.5;0.0;0.5;0.0;5.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Armoni Brooks;1;0;14.0;6.0;0.0;2.0;2.0;0.0;1.0;0.0;0.0;2.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Malachi Flynn;2;1;22.5;5.0;0.5;1.5;2.0;2.0;0.0;0.0;0.5;1.0;4.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Thaddeus Young;2;0;25.0;4.0;1.5;4.5;6.0;2.5;2.0;1.0;1.0;2.5;2.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Dalano Banton;1;0;16.0;4.0;1.0;3.0;4.0;2.0;0.0;0.0;2.0;3.0;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Khem Birch;2;2;17.0;3.0;4.0;1.0;5.0;0.0;0.0;0.5;0.5;1.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Tremont Waters;1;0;7.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;0.0;0.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Daniel Oturu;1;0;6.0;0.0;0.0;2.0;2.0;0.0;0.0;2.0;0.0;1.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Total;4;"";"";109.0;14.3;32.5;46.8;21.8;7.3;5.0;9.8;18.8;2.2
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Chicago Bulls;O.G. Anunoby;3;3;38.3;22.0;1.7;3.0;4.7;5.0;1.3;1.0;1.7;3.0;3.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Chicago Bulls;Gary Trent Jr.;3;3;37.7;22.0;0.7;2.3;3.0;2.0;1.0;0.0;1.0;2.7;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Chicago Bulls;Pascal Siakam;3;3;42.3;19.7;2.0;6.3;8.3;6.0;1.7;0.3;3.3;2.7;1.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Chicago Bulls;Fred VanVleet;3;3;40.7;18.3;1.3;4.0;5.3;11.7;2.0;0.0;4.3;2.7;2.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Chicago Bulls;Scottie Barnes;4;4;37.3;14.5;1.5;4.3;5.8;3.5;0.3;1.3;3.3;2.8;1.1
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Chicago Bulls;Chris Boucher;4;0;23.0;11.8;2.8;4.0;6.8;0.3;0.8;1.3;0.5;2.3;0.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Chicago Bulls;Goran Dragic;1;0;14.0;8.0;0.0;3.0;3.0;0.0;2.0;0.0;0.0;1.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Chicago Bulls;Armoni Brooks;1;0;14.0;8.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;1.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Chicago Bulls;Khem Birch;3;1;17.7;7.3;1.7;2.0;3.7;1.7;0.0;0.3;0.0;1.3;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Chicago Bulls;Precious Achiuwa;4;3;24.3;6.3;2.5;6.8;9.3;1.0;0.3;0.3;1.0;1.3;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Chicago Bulls;Thaddeus Young;1;0;14.0;4.0;1.0;1.0;2.0;1.0;2.0;0.0;1.0;1.0;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Chicago Bulls;Malachi Flynn;1;0;8.0;3.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;1.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Chicago Bulls;Dalano Banton;4;0;11.0;2.8;1.3;2.0;3.3;1.5;1.0;0.0;0.5;0.8;3.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Chicago Bulls;Svi Mykhailiuk;2;0;7.5;2.5;1.0;0.5;1.5;0.5;0.0;0.0;0.5;1.0;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Chicago Bulls;Yuta Watanabe;2;0;4.5;1.0;0.0;1.5;1.5;0.0;0.0;0.5;0.0;0.5;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Chicago Bulls;Total;4;"";"";109.8;14.3;32.8;47.0;26.8;7.8;4.3;13.8;18.0;1.9
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Pascal Siakam;2;2;36.5;29.5;0.5;4.0;4.5;5.0;0.5;0.5;1.0;4.5;5.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;O.G. Anunoby;2;2;31.5;18.5;1.0;3.0;4.0;4.0;0.5;1.0;0.0;2.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Gary Trent Jr.;2;2;37.5;18.0;1.5;1.0;2.5;1.0;3.5;1.0;3.5;2.5;0.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;D.J. Wilson;1;1;34.0;15.0;1.0;7.0;8.0;4.0;5.0;1.0;2.0;2.0;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Chris Boucher;4;2;26.0;15.0;1.8;3.5;5.3;0.8;1.8;0.3;1.5;2.8;0.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Scottie Barnes;3;3;38.3;14.7;5.0;4.0;9.0;4.7;2.0;1.0;0.7;2.0;7.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Fred VanVleet;2;2;38.0;14.0;0.5;5.0;5.5;7.0;1.0;1.0;2.0;2.0;3.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Yuta Watanabe;3;1;14.3;8.7;1.0;3.3;4.3;0.3;0.0;0.3;1.7;0.3;0.2
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Tremont Waters;1;0;35.0;8.0;0.0;3.0;3.0;6.0;3.0;0.0;4.0;2.0;1.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Precious Achiuwa;3;1;20.3;7.7;1.0;5.0;6.0;0.3;0.7;0.0;0.7;2.3;0.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Daniel Oturu;1;0;20.0;7.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Juwan Morgan;1;0;27.0;5.0;2.0;2.0;4.0;1.0;0.0;0.0;0.0;3.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Malachi Flynn;1;0;7.0;5.0;0.0;1.0;1.0;1.0;2.0;1.0;0.0;1.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Dalano Banton;4;1;11.0;5.0;0.5;1.3;1.8;2.3;0.0;0.0;1.0;1.0;2.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Khem Birch;3;2;23.0;4.3;3.3;2.7;6.0;2.0;0.7;1.0;0.7;2.3;3.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Thaddeus Young;2;0;15.0;4.0;2.0;2.0;4.0;1.0;0.5;0.0;0.5;0.0;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Svi Mykhailiuk;4;1;15.0;3.3;0.3;1.5;1.8;1.0;0.5;0.3;0.5;1.5;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Armoni Brooks;2;0;11.5;3.0;1.0;0.5;1.5;0.5;1.0;0.5;1.0;1.0;0.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Total;4;"";"";103.3;14.3;29.0;43.3;21.8;10.8;4.8;11.3;18.5;1.9
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Detroit Pistons;Pascal Siakam;3;3;39.3;25.3;3.3;6.0;9.3;4.3;0.7;0.3;2.3;5.0;1.9
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Detroit Pistons;Fred VanVleet;1;1;42.0;24.0;2.0;3.0;5.0;10.0;2.0;0.0;0.0;2.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Detroit Pistons;Gary Trent Jr.;2;2;38.5;18.5;0.0;2.0;2.0;3.5;2.5;0.0;1.0;2.5;3.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Detroit Pistons;O.G. Anunoby;2;2;37.0;16.5;0.5;2.0;2.5;1.0;0.5;0.5;4.5;2.5;0.2
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Detroit Pistons;Goran Dragic;1;1;28.0;16.0;2.0;3.0;5.0;3.0;2.0;0.0;0.0;2.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Detroit Pistons;Scottie Barnes;3;3;37.0;13.3;3.3;4.3;7.7;2.7;1.0;0.3;2.3;2.3;1.1
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Detroit Pistons;Precious Achiuwa;2;0;26.5;11.0;3.0;4.5;7.5;0.0;0.0;0.5;1.0;3.5;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Detroit Pistons;Chris Boucher;3;0;21.0;5.7;1.7;4.0;5.7;0.0;0.3;0.3;0.3;2.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Detroit Pistons;Dalano Banton;3;0;12.7;5.7;0.7;1.0;1.7;1.0;0.3;0.3;1.7;1.7;0.6
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Detroit Pistons;Malachi Flynn;3;1;11.0;5.0;0.0;1.0;1.0;0.3;0.3;0.0;0.0;1.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Detroit Pistons;Svi Mykhailiuk;3;0;7.3;3.0;0.0;1.0;1.0;0.3;0.3;0.0;0.0;1.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Detroit Pistons;Khem Birch;3;2;13.3;2.0;2.0;1.0;3.0;1.0;0.0;0.3;0.0;1.7;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Detroit Pistons;Yuta Watanabe;1;0;8.0;2.0;0.0;1.0;1.0;0.0;0.0;2.0;1.0;2.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Detroit Pistons;Justin Champagnie;1;0;12.0;0.0;1.0;2.0;3.0;0.0;0.0;0.0;0.0;4.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Detroit Pistons;Total;3;"";"";104.7;15.0;27.0;42.0;17.0;6.3;3.0;11.3;23.7;1.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Indiana Pacers;Pascal Siakam;2;2;34.0;20.0;2.0;7.0;9.0;5.5;1.0;0.5;2.0;2.0;2.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Indiana Pacers;Scottie Barnes;4;4;34.5;18.8;2.3;5.8;8.0;4.8;0.8;1.0;1.0;2.5;4.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Indiana Pacers;O.G. Anunoby;3;3;33.3;18.7;1.0;2.7;3.7;3.0;2.7;0.7;0.7;1.0;4.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Indiana Pacers;Fred VanVleet;4;4;32.8;18.3;1.0;4.8;5.8;4.3;1.0;0.5;2.8;2.8;1.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Indiana Pacers;Thaddeus Young;1;0;15.0;11.0;0.0;0.0;0.0;1.0;2.0;1.0;0.0;1.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Indiana Pacers;Gary Trent Jr.;3;3;30.0;11.0;0.3;2.3;2.7;1.3;3.0;0.0;1.0;2.0;1.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Indiana Pacers;Precious Achiuwa;4;3;25.5;10.3;1.5;4.0;5.5;1.8;0.5;0.5;0.8;2.0;2.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Indiana Pacers;Chris Boucher;4;0;20.0;9.3;2.0;3.8;5.8;0.3;1.0;0.5;0.3;2.3;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Indiana Pacers;Svi Mykhailiuk;4;0;14.0;7.8;0.8;0.5;1.3;1.0;0.8;0.0;1.0;1.3;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Indiana Pacers;Khem Birch;3;1;21.0;6.0;2.0;2.7;4.7;1.0;1.0;0.0;0.3;1.3;3.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Indiana Pacers;Yuta Watanabe;1;0;8.0;6.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Indiana Pacers;Armoni Brooks;1;0;23.0;6.0;2.0;1.0;3.0;6.0;1.0;1.0;0.0;3.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Indiana Pacers;Dalano Banton;4;0;14.8;3.5;0.8;1.3;2.0;2.3;0.3;0.3;2.0;1.8;1.1
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Indiana Pacers;Malachi Flynn;3;0;6.3;0.7;0.0;1.0;1.0;0.0;0.3;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Indiana Pacers;Sam Dekker;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Indiana Pacers;Isaac Bonga;2;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Indiana Pacers;Justin Champagnie;2;0;2.0;0.0;0.5;0.0;0.5;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Indiana Pacers;David Johnson;1;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Indiana Pacers;Total;4;"";"";110.8;12.5;30.5;43.0;22.8;10.8;4.0;10.3;17.8;2.2
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Pascal Siakam;3;3;39.0;27.7;1.7;5.7;7.3;6.7;1.3;0.7;5.3;4.7;1.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Milwaukee Bucks;O.G. Anunoby;2;2;37.0;23.0;1.0;6.0;7.0;3.0;0.0;0.5;2.0;5.0;1.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Fred VanVleet;3;3;39.7;21.7;0.0;4.0;4.0;5.3;1.7;0.7;2.0;3.7;2.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Gary Trent Jr.;2;2;33.0;15.0;1.0;5.5;6.5;2.5;1.0;1.0;1.0;1.0;2.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Scottie Barnes;2;2;38.5;9.5;2.0;4.5;6.5;4.0;2.0;0.5;2.0;5.0;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Precious Achiuwa;3;2;30.0;8.7;4.3;4.3;8.7;2.3;1.0;1.7;1.0;3.0;2.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Chris Boucher;3;0;21.0;8.0;1.0;2.7;3.7;0.3;0.3;1.7;0.7;2.0;0.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Justin Champagnie;2;0;20.5;4.5;3.5;3.5;7.0;1.0;0.5;0.5;1.0;1.0;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Svi Mykhailiuk;2;0;13.0;3.5;0.5;2.0;2.5;1.5;1.0;0.0;0.0;0.5;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Yuta Watanabe;2;1;8.0;3.0;0.0;0.5;0.5;0.5;0.5;0.0;0.0;1.5;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Dalano Banton;1;0;14.0;2.0;3.0;1.0;4.0;2.0;0.0;0.0;1.0;0.0;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Khem Birch;1;0;14.0;0.0;1.0;5.0;6.0;1.0;1.0;0.0;1.0;0.0;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Isaac Bonga;1;0;3.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;1.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Total;3;"";"";105.7;13.7;33.3;47.0;24.0;8.3;6.3;13.7;23.0;1.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Atlanta Hawks;Pascal Siakam;4;4;39.3;25.8;1.5;8.0;9.5;4.8;0.8;0.8;2.0;2.3;2.4
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Atlanta Hawks;Fred VanVleet;4;4;37.0;19.5;0.0;3.8;3.8;10.0;0.5;0.5;2.3;3.0;4.4
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Atlanta Hawks;Gary Trent Jr.;4;4;35.0;18.3;0.3;3.3;3.5;1.3;1.0;0.3;0.5;1.0;2.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Atlanta Hawks;Precious Achiuwa;4;0;22.5;12.3;1.0;3.5;4.5;0.8;0.5;0.3;0.8;2.3;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Atlanta Hawks;Scottie Barnes;4;4;32.8;12.0;2.5;5.8;8.3;1.5;0.8;1.0;2.3;2.0;0.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Atlanta Hawks;O.G. Anunoby;2;2;35.5;11.5;1.0;6.5;7.5;3.0;1.5;1.5;1.0;3.0;3.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Atlanta Hawks;Chris Boucher;4;0;21.0;8.8;2.3;4.5;6.8;0.5;0.5;0.5;0.3;2.3;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Atlanta Hawks;Thaddeus Young;2;0;18.5;8.5;3.0;2.0;5.0;2.0;1.0;0.0;0.5;2.5;4.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Atlanta Hawks;Yuta Watanabe;1;0;3.0;5.0;2.0;0.0;2.0;2.0;0.0;1.0;0.0;0.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Atlanta Hawks;Malachi Flynn;2;0;13.0;3.0;0.0;1.0;1.0;0.0;0.0;0.0;0.5;1.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Atlanta Hawks;Khem Birch;3;2;14.3;2.3;1.0;2.3;3.3;0.7;0.0;0.7;1.0;2.0;0.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Atlanta Hawks;Justin Champagnie;2;0;3.0;1.0;0.5;0.0;0.5;0.0;0.0;0.0;0.0;0.5;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Atlanta Hawks;Dalano Banton;4;0;5.8;0.8;0.3;1.0;1.3;1.5;1.0;0.0;0.3;0.5;6.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Atlanta Hawks;Svi Mykhailiuk;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Atlanta Hawks;Total;4;"";"";112.3;11.3;36.3;47.5;23.8;6.3;4.8;10.0;18.3;2.4
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Charlotte Hornets;Gary Trent Jr.;3;3;32.7;22.7;0.0;3.0;3.0;1.7;1.3;0.3;1.3;2.3;1.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Charlotte Hornets;O.G. Anunoby;2;2;37.0;22.0;3.5;4.5;8.0;2.0;2.5;0.5;2.0;2.5;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Charlotte Hornets;Scottie Barnes;2;2;31.5;21.5;1.0;5.5;6.5;2.0;1.5;0.0;2.5;3.0;0.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Charlotte Hornets;Pascal Siakam;3;3;36.3;18.7;1.3;6.3;7.7;7.3;0.3;0.7;2.7;1.7;2.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Charlotte Hornets;Fred VanVleet;2;2;33.5;14.0;0.5;2.5;3.0;4.5;0.5;1.5;3.5;2.5;1.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Charlotte Hornets;Chris Boucher;3;1;23.3;9.3;1.3;4.3;5.7;0.3;1.0;1.3;1.0;2.3;0.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Charlotte Hornets;Precious Achiuwa;3;1;21.3;7.7;1.7;3.7;5.3;1.3;1.0;0.3;2.0;0.3;0.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Charlotte Hornets;Malachi Flynn;3;0;13.0;5.3;0.0;1.3;1.3;2.7;0.3;0.0;0.3;1.3;8.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Charlotte Hornets;Thaddeus Young;1;0;21.0;5.0;3.0;2.0;5.0;2.0;0.0;0.0;2.0;1.0;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Charlotte Hornets;Dalano Banton;3;0;13.3;3.3;0.0;1.0;1.0;1.0;0.0;1.0;1.0;2.0;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Charlotte Hornets;Yuta Watanabe;3;0;9.3;3.0;0.3;1.3;1.7;0.3;0.0;0.0;1.0;1.3;0.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Charlotte Hornets;Svi Mykhailiuk;3;0;3.0;1.0;0.0;0.7;0.7;0.0;0.0;0.0;0.3;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Charlotte Hornets;Khem Birch;2;1;13.5;0.5;2.0;1.5;3.5;1.0;0.0;0.5;0.5;1.5;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Charlotte Hornets;Isaac Bonga;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Charlotte Hornets;Justin Champagnie;2;0;4.0;0.0;0.0;1.5;1.5;0.5;0.0;0.0;0.0;0.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Charlotte Hornets;Total;3;"";"";111.3;10.3;32.7;43.0;22.0;7.0;5.3;16.0;18.0;1.4
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Miami Heat;Gary Trent Jr.;3;3;46.3;28.3;0.0;3.0;3.0;1.0;3.0;0.0;1.0;2.7;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Miami Heat;Fred VanVleet;4;4;43.5;22.8;0.5;3.0;3.5;6.3;2.0;0.5;4.5;2.5;1.4
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Miami Heat;Pascal Siakam;4;4;44.3;21.0;2.8;7.5;10.3;6.3;3.5;1.3;3.0;3.8;2.1
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Miami Heat;Scottie Barnes;4;4;43.0;17.0;2.0;6.3;8.3;3.3;1.0;0.0;1.5;4.3;2.2
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Miami Heat;O.G. Anunoby;3;3;41.7;15.7;1.7;4.7;6.3;3.7;1.7;0.7;3.0;3.7;1.2
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Miami Heat;Chris Boucher;4;0;22.5;8.5;2.5;3.3;5.8;0.3;0.0;1.3;0.5;3.3;0.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Miami Heat;Precious Achiuwa;4;1;23.0;7.3;2.5;4.3;6.8;0.8;0.5;1.0;0.8;2.0;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Miami Heat;Thaddeus Young;1;0;18.0;2.0;3.0;4.0;7.0;2.0;1.0;0.0;1.0;0.0;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Miami Heat;Dalano Banton;2;0;8.5;1.0;0.5;1.5;2.0;1.5;0.5;0.0;0.5;0.5;3.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Miami Heat;Khem Birch;1;1;13.0;0.0;2.0;0.0;2.0;0.0;0.0;0.0;0.0;3.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Miami Heat;Armoni Brooks;1;0;5.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Miami Heat;Justin Champagnie;2;0;7.0;0.0;0.0;0.0;0.0;0.5;0.0;0.0;0.5;0.5;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Miami Heat;Total;4;"";"";110.5;13.0;31.8;44.8;21.8;11.3;4.5;14.0;21.8;1.6
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Orlando Magic;Pascal Siakam;2;2;41.5;25.0;2.0;10.5;12.5;2.5;0.0;0.0;3.5;2.5;0.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Orlando Magic;Malachi Flynn;1;1;39.0;20.0;0.0;3.0;3.0;8.0;1.0;1.0;0.0;2.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Orlando Magic;Fred VanVleet;2;2;39.5;19.0;0.5;2.0;2.5;4.5;3.0;0.5;2.0;2.5;2.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Orlando Magic;Scottie Barnes;3;3;37.0;16.7;3.0;4.3;7.3;4.0;0.7;1.0;1.3;1.7;3.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Orlando Magic;O.G. Anunoby;2;2;38.0;15.0;0.5;5.0;5.5;2.5;1.0;0.0;1.5;3.5;1.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Orlando Magic;Gary Trent Jr.;3;3;33.0;13.3;0.0;2.0;2.0;2.7;1.0;0.3;0.7;1.3;4.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Orlando Magic;Precious Achiuwa;3;1;20.3;10.0;1.3;3.7;5.0;1.0;0.0;0.7;1.0;2.3;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Orlando Magic;Chris Boucher;3;0;17.3;7.0;1.0;4.3;5.3;0.0;1.0;1.0;0.0;1.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Orlando Magic;Dalano Banton;2;0;12.0;6.5;1.0;2.0;3.0;1.0;1.0;0.0;0.0;1.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Orlando Magic;Yuta Watanabe;1;0;12.0;3.0;0.0;3.0;3.0;0.0;1.0;1.0;2.0;1.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Orlando Magic;Khem Birch;3;1;12.0;2.3;1.0;2.7;3.7;1.0;0.3;0.0;0.7;2.3;1.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Orlando Magic;Svi Mykhailiuk;2;0;11.0;2.0;0.0;1.0;1.0;0.5;1.0;0.0;0.0;0.5;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Orlando Magic;Thaddeus Young;2;0;13.5;1.5;2.0;3.0;5.0;2.0;1.5;0.5;1.0;0.5;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Orlando Magic;Isaac Bonga;1;0;1.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Orlando Magic;Justin Champagnie;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Orlando Magic;Total;3;"";"";103.0;10.3;34.7;45.0;20.3;8.7;4.3;9.7;16.7;2.1
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Washington Wizards;Pascal Siakam;2;2;38.5;26.0;2.0;4.5;6.5;3.5;0.5;0.0;1.5;3.5;2.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Washington Wizards;Fred VanVleet;4;4;37.5;19.0;0.5;1.3;1.8;6.5;1.3;1.0;2.5;2.0;2.6
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Washington Wizards;Scottie Barnes;3;3;36.3;16.7;2.3;5.3;7.7;1.0;0.7;0.3;3.0;4.3;0.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Washington Wizards;O.G. Anunoby;3;3;38.3;14.7;2.3;5.7;8.0;1.0;3.0;1.0;2.7;2.7;0.4
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Washington Wizards;Gary Trent Jr.;4;3;30.0;10.0;0.5;2.5;3.0;2.0;2.0;0.3;0.8;1.8;2.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Washington Wizards;Goran Dragic;1;1;22.0;9.0;0.0;3.0;3.0;4.0;0.0;0.0;0.0;1.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Washington Wizards;Khem Birch;2;0;24.0;9.0;4.5;2.5;7.0;1.0;0.0;0.0;1.0;3.0;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Washington Wizards;Chris Boucher;4;0;18.8;9.0;1.3;4.5;5.8;0.3;0.3;0.5;0.3;2.8;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Washington Wizards;Svi Mykhailiuk;3;1;22.3;8.0;1.0;2.7;3.7;0.3;0.3;0.0;1.0;1.7;0.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Washington Wizards;Precious Achiuwa;4;3;23.5;6.8;2.5;6.5;9.0;2.0;0.5;0.3;1.3;2.3;1.6
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Washington Wizards;Dalano Banton;3;0;15.0;5.7;0.0;3.3;3.3;2.3;1.3;0.0;0.3;2.0;7.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Washington Wizards;Yuta Watanabe;2;0;11.5;3.5;0.0;2.0;2.0;0.5;0.0;0.0;0.0;0.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Washington Wizards;Isaac Bonga;1;0;2.0;1.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Washington Wizards;Justin Champagnie;3;0;2.3;0.7;0.0;0.0;0.0;0.3;0.0;0.0;0.0;0.3;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Washington Wizards;Malachi Flynn;2;0;2.0;0.0;0.0;1.0;1.0;0.5;0.0;0.0;0.0;0.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Washington Wizards;David Johnson;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Washington Wizards;Total;4;"";"";100.8;12.5;33.3;45.8;18.3;8.3;3.0;11.3;20.8;1.6
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Denver Nuggets;Pascal Siakam;2;2;39.0;34.0;1.5;6.0;7.5;7.0;2.0;0.0;1.5;4.0;4.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Denver Nuggets;Fred VanVleet;1;1;38.0;25.0;0.0;5.0;5.0;5.0;1.0;0.0;3.0;1.0;1.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Denver Nuggets;Scottie Barnes;2;2;34.5;21.0;2.0;4.5;6.5;5.5;2.5;0.5;1.0;3.0;5.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Denver Nuggets;Chris Boucher;2;0;23.0;12.5;4.5;3.5;8.0;0.0;1.0;2.0;0.0;2.5;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Denver Nuggets;Gary Trent Jr.;2;2;34.5;9.5;0.0;3.0;3.0;0.5;1.5;0.5;1.0;2.0;0.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Denver Nuggets;Thaddeus Young;1;0;23.0;9.0;1.0;2.0;3.0;3.0;3.0;0.0;1.0;2.0;3.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Denver Nuggets;O.G. Anunoby;1;1;37.0;9.0;3.0;2.0;5.0;4.0;1.0;0.0;0.0;3.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Denver Nuggets;Precious Achiuwa;2;1;15.5;7.5;1.0;1.5;2.5;0.0;0.0;0.0;1.0;2.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Denver Nuggets;Khem Birch;2;0;19.5;6.0;3.0;1.5;4.5;2.0;0.5;0.0;0.5;2.0;4.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Denver Nuggets;Yuta Watanabe;1;0;1.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Denver Nuggets;Armoni Brooks;1;1;22.0;3.0;2.0;2.0;4.0;2.0;2.0;1.0;0.0;1.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Denver Nuggets;Dalano Banton;2;0;13.5;3.0;0.5;1.5;2.0;3.0;0.5;0.0;0.0;2.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Denver Nuggets;Svi Mykhailiuk;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Denver Nuggets;Total;2;"";"";118.0;15.5;27.0;42.5;25.0;11.5;3.5;7.0;21.0;3.6
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Gary Trent Jr.;2;2;33.5;29.5;0.0;3.0;3.0;1.0;0.5;0.0;1.0;2.0;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;O.G. Anunoby;2;2;31.0;16.0;0.5;2.5;3.0;2.0;0.0;0.0;2.5;3.5;0.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Pascal Siakam;2;2;40.5;14.5;1.0;8.5;9.5;11.0;1.5;0.5;6.0;4.5;1.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Scottie Barnes;2;2;28.0;13.0;1.0;3.5;4.5;4.0;2.0;1.0;2.0;1.0;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Fred VanVleet;1;1;32.0;12.0;0.0;3.0;3.0;8.0;4.0;2.0;1.0;4.0;8.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Precious Achiuwa;2;0;21.5;12.0;1.5;3.5;5.0;1.0;0.5;0.0;0.5;2.0;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Thaddeus Young;2;0;19.0;10.0;0.5;4.0;4.5;1.5;1.0;0.5;1.0;2.5;1.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Chris Boucher;2;0;22.5;5.5;3.5;6.0;9.5;0.0;0.0;1.0;1.0;1.5;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Khem Birch;2;1;12.5;4.0;1.0;1.5;2.5;0.0;0.0;1.0;0.0;1.5;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Dalano Banton;2;0;6.0;3.5;1.0;1.0;2.0;1.0;0.0;0.0;0.0;0.5;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Svi Mykhailiuk;1;0;4.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;1.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Yuta Watanabe;1;0;4.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Armoni Brooks;1;0;4.0;0.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Malachi Flynn;1;0;7.0;0.0;0.0;2.0;2.0;2.0;0.0;0.0;0.0;1.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Total;2;"";"";114.0;10.0;37.5;47.5;26.5;8.0;5.0;15.0;22.0;1.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Pascal Siakam;2;2;39.0;25.0;3.0;10.5;13.5;5.0;0.5;0.5;4.0;2.5;1.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Fred VanVleet;2;2;37.5;20.0;0.0;4.0;4.0;7.5;1.5;0.0;2.5;2.5;3.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Gary Trent Jr.;2;2;36.5;20.0;0.0;2.5;2.5;2.5;3.5;0.0;0.5;2.0;5.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Scottie Barnes;2;2;35.0;17.5;1.5;3.5;5.0;4.5;0.5;1.0;1.0;1.0;4.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;O.G. Anunoby;1;1;37.0;15.0;1.0;9.0;10.0;2.0;0.0;1.0;4.0;3.0;0.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Chris Boucher;2;1;20.5;10.0;3.5;2.5;6.0;0.0;0.0;1.5;1.0;3.5;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Isaac Bonga;1;0;14.0;5.0;0.0;0.0;0.0;1.0;0.0;1.0;0.0;3.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Justin Champagnie;1;0;12.0;5.0;1.0;1.0;2.0;0.0;0.0;0.0;0.0;1.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Yuta Watanabe;2;0;10.5;4.0;0.0;1.0;1.0;1.5;0.0;0.0;0.0;0.5;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Precious Achiuwa;1;0;19.0;4.0;3.0;4.0;7.0;1.0;1.0;0.0;0.0;1.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Svi Mykhailiuk;2;0;4.5;1.0;0.5;0.5;1.0;0.0;0.5;0.0;1.5;1.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Dalano Banton;2;0;11.5;1.0;0.5;2.0;2.5;0.5;0.5;0.0;1.5;0.5;0.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Khem Birch;1;0;6.0;0.0;0.0;1.0;1.0;1.0;0.0;1.0;1.0;0.0;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Malachi Flynn;1;0;2.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Total;2;"";"";113.0;11.5;34.0;45.5;24.5;7.5;4.5;14.5;17.5;1.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Pascal Siakam;2;2;36.5;24.0;1.5;5.5;7.0;5.5;0.5;1.0;2.5;4.0;2.2
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Portland Trail Blazers;O.G. Anunoby;2;2;41.0;20.0;2.5;4.5;7.0;3.5;3.0;1.0;0.5;3.5;7.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Fred VanVleet;2;2;41.0;17.5;1.5;4.0;5.5;7.5;3.5;0.5;3.5;4.0;2.1
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Gary Trent Jr.;2;2;34.0;15.5;1.0;2.0;3.0;1.0;1.5;0.0;1.5;2.0;0.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Scottie Barnes;2;2;36.5;13.5;1.5;5.5;7.0;4.0;0.5;1.0;2.5;1.5;1.6
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Chris Boucher;1;0;24.0;11.0;4.0;5.0;9.0;0.0;0.0;3.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Khem Birch;1;0;21.0;6.0;2.0;2.0;4.0;1.0;0.0;0.0;0.0;2.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Justin Champagnie;1;0;8.0;6.0;0.0;1.0;1.0;1.0;2.0;0.0;1.0;0.0;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Svi Mykhailiuk;1;0;8.0;3.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Malachi Flynn;1;0;3.0;3.0;2.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Precious Achiuwa;1;0;15.0;3.0;1.0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Dalano Banton;2;0;10.0;2.5;0.5;1.5;2.0;1.5;1.0;0.0;2.0;1.5;0.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Yuta Watanabe;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Total;2;"";"";109.0;13.5;27.5;41.0;24.0;11.0;5.0;13.0;17.5;1.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Utah Jazz;Fred VanVleet;2;2;35.0;30.5;1.5;5.5;7.0;7.0;2.5;1.5;2.0;1.5;3.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Utah Jazz;O.G. Anunoby;1;1;34.0;22.0;1.0;3.0;4.0;2.0;3.0;0.0;1.0;0.0;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Utah Jazz;Gary Trent Jr.;2;2;34.0;20.5;0.5;0.5;1.0;2.0;0.5;1.5;1.0;1.5;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Utah Jazz;Pascal Siakam;2;2;35.0;10.5;2.0;2.0;4.0;5.0;2.0;0.5;2.5;1.5;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Utah Jazz;Scottie Barnes;2;2;33.0;10.5;4.5;3.0;7.5;6.0;1.0;0.5;1.5;1.0;4.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Utah Jazz;Precious Achiuwa;1;0;18.0;9.0;2.0;3.0;5.0;0.0;1.0;1.0;0.0;2.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Utah Jazz;Khem Birch;2;1;21.0;8.5;1.0;2.5;3.5;1.0;1.0;0.0;0.5;3.0;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Utah Jazz;Chris Boucher;2;0;19.0;7.5;3.0;3.5;6.5;1.5;1.0;0.5;0.0;1.5;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Utah Jazz;Dalano Banton;2;0;9.5;3.0;0.0;0.0;0.0;0.5;0.0;0.0;1.0;0.0;0.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Utah Jazz;Malachi Flynn;2;0;12.0;2.5;0.5;2.5;3.0;0.0;0.5;0.0;0.5;2.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Utah Jazz;Justin Champagnie;2;0;6.0;2.0;2.0;1.5;3.5;0.0;0.0;0.0;0.0;1.5;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Utah Jazz;Svi Mykhailiuk;2;0;10.0;1.5;0.0;1.0;1.0;1.0;0.0;0.0;0.0;0.5;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Utah Jazz;D.J. Wilson;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Utah Jazz;Total;2;"";"";112.5;16.5;25.0;41.5;25.0;10.5;5.0;9.5;15.0;2.6
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Golden State Warriors;Fred VanVleet;2;2;36.0;22.0;1.5;4.0;5.5;9.5;2.0;1.0;1.0;2.0;9.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Golden State Warriors;Pascal Siakam;1;1;34.0;21.0;2.0;4.0;6.0;2.0;1.0;1.0;1.0;2.0;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Golden State Warriors;Scottie Barnes;2;2;30.5;15.5;4.5;6.0;10.5;5.5;1.0;0.0;1.5;3.5;3.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Golden State Warriors;Precious Achiuwa;2;0;24.5;14.5;1.5;5.0;6.5;1.5;0.5;0.0;1.0;1.0;1.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Golden State Warriors;Yuta Watanabe;1;0;21.0;12.0;2.0;2.0;4.0;0.0;2.0;1.0;1.0;3.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Golden State Warriors;Chris Boucher;2;1;18.5;10.5;3.0;3.5;6.5;0.5;0.0;0.5;0.5;0.5;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Golden State Warriors;Gary Trent Jr.;2;2;28.5;10.5;1.0;0.0;1.0;1.0;2.0;0.0;0.5;3.0;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Golden State Warriors;Khem Birch;1;1;22.0;7.0;2.0;3.0;5.0;1.0;1.0;2.0;0.0;1.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Golden State Warriors;O.G. Anunoby;1;1;28.0;7.0;0.0;3.0;3.0;2.0;1.0;0.0;1.0;4.0;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Golden State Warriors;Dalano Banton;1;0;20.0;7.0;0.0;3.0;3.0;3.0;0.0;0.0;3.0;3.0;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Golden State Warriors;Svi Mykhailiuk;2;0;18.5;6.0;0.0;2.0;2.0;1.5;0.0;0.0;1.0;1.0;1.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Golden State Warriors;Malachi Flynn;2;0;11.5;4.5;0.0;0.5;0.5;1.5;1.0;0.0;0.5;1.5;3.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Golden State Warriors;Justin Champagnie;1;0;14.0;2.0;1.0;1.0;2.0;1.0;0.0;0.0;1.0;2.0;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Golden State Warriors;Isaac Bonga;1;0;5.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0;1.0;2.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Golden State Warriors;Total;2;"";"";111.5;15.0;29.0;44.0;25.5;10.0;3.5;10.0;21.0;2.6
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. LA Clippers;Pascal Siakam;2;2;39.5;28.0;4.0;11.5;15.5;5.0;1.5;1.0;2.5;1.0;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. LA Clippers;Fred VanVleet;2;2;37.5;26.0;1.5;1.5;3.0;6.0;1.5;0.5;2.0;2.5;3.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. LA Clippers;O.G. Anunoby;1;1;36.0;26.0;3.0;3.0;6.0;0.0;4.0;0.0;1.0;3.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. LA Clippers;Scottie Barnes;1;1;40.0;15.0;1.0;3.0;4.0;1.0;1.0;0.0;2.0;1.0;0.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. LA Clippers;Gary Trent Jr.;2;2;32.0;8.5;0.0;3.0;3.0;1.0;1.0;0.0;0.0;0.5;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. LA Clippers;Khem Birch;2;2;20.0;7.5;3.0;3.0;6.0;1.0;0.0;0.0;0.0;2.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. LA Clippers;Precious Achiuwa;2;0;18.0;7.5;2.0;2.5;4.5;1.0;0.0;0.5;2.0;1.0;0.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. LA Clippers;Chris Boucher;2;0;22.5;6.0;1.5;6.0;7.5;0.0;0.0;0.0;0.0;3.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. LA Clippers;Svi Mykhailiuk;1;0;12.0;4.0;1.0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. LA Clippers;Thaddeus Young;1;0;12.0;3.0;0.0;2.0;2.0;1.0;0.0;0.0;0.0;1.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. LA Clippers;Malachi Flynn;1;0;5.0;2.0;0.0;0.0;0.0;1.0;0.0;1.0;0.0;1.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. LA Clippers;Justin Champagnie;1;0;10.0;2.0;2.0;1.0;3.0;1.0;0.0;0.0;1.0;1.0;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. LA Clippers;Yuta Watanabe;1;0;13.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;2.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. LA Clippers;Armoni Brooks;1;0;9.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. LA Clippers;Dalano Banton;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. LA Clippers;Total;2;"";"";109.5;15.5;33.0;48.5;16.5;6.5;2.5;9.0;15.0;1.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Scottie Barnes;2;2;41.0;26.0;4.0;9.0;13.0;5.5;1.0;1.0;2.0;2.0;2.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Gary Trent Jr.;2;2;39.0;25.5;2.0;2.0;4.0;3.0;1.0;1.0;0.5;3.0;6.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Pascal Siakam;2;2;40.5;22.0;1.5;7.0;8.5;6.0;1.0;1.0;3.5;2.5;1.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Fred VanVleet;2;2;43.5;15.5;0.0;5.0;5.0;7.0;2.5;0.0;1.5;3.5;4.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Precious Achiuwa;2;1;34.5;14.0;3.0;5.0;8.0;1.5;1.0;1.0;2.0;2.0;0.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Chris Boucher;2;0;18.5;9.5;3.5;3.0;6.5;0.0;0.0;0.0;0.0;2.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Thaddeus Young;2;0;14.0;2.5;1.5;4.5;6.0;1.0;1.0;0.5;2.0;2.0;0.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Dalano Banton;2;0;6.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0;0.5;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Khem Birch;2;1;14.0;1.5;1.5;1.0;2.5;0.5;0.5;1.0;0.0;2.5;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Armoni Brooks;1;0;4.0;0.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Total;2;"";"";118.5;17.5;37.5;55.0;24.5;8.0;5.5;12.0;19.5;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Phoenix Suns;Gary Trent Jr.;1;1;40.0;42.0;1.0;7.0;8.0;1.0;0.0;0.0;2.0;2.0;0.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Phoenix Suns;O.G. Anunoby;1;1;39.0;25.0;1.0;1.0;2.0;1.0;1.0;0.0;2.0;3.0;0.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Phoenix Suns;Pascal Siakam;2;2;40.0;23.5;1.5;5.5;7.0;8.5;2.0;0.0;3.0;5.0;2.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Phoenix Suns;Fred VanVleet;2;2;41.0;15.5;0.0;5.0;5.0;4.5;1.0;0.5;4.0;4.5;1.1
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Phoenix Suns;Scottie Barnes;1;1;37.0;15.0;3.0;3.0;6.0;1.0;5.0;2.0;2.0;1.0;0.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Phoenix Suns;Chris Boucher;2;0;24.5;8.5;5.5;4.0;9.5;0.0;0.5;2.0;1.5;2.5;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Phoenix Suns;Precious Achiuwa;2;0;19.0;8.5;1.5;5.0;6.5;0.0;1.5;0.0;1.0;3.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Phoenix Suns;Thaddeus Young;1;0;19.0;5.0;0.0;3.0;3.0;1.0;2.0;0.0;0.0;1.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Phoenix Suns;Khem Birch;2;2;26.5;5.0;3.0;3.0;6.0;1.5;0.5;0.0;1.0;1.0;1.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Phoenix Suns;Justin Champagnie;1;0;10.0;2.0;5.0;0.0;5.0;0.0;1.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Phoenix Suns;Dalano Banton;1;0;10.0;1.0;0.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Phoenix Suns;Svi Mykhailiuk;1;0;7.0;0.0;1.0;1.0;2.0;0.0;0.0;0.0;1.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Phoenix Suns;Yuta Watanabe;1;1;15.0;0.0;0.0;1.0;1.0;0.0;1.0;0.0;1.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Phoenix Suns;Total;2;"";"";106.0;17.0;30.5;47.5;17.0;11.0;3.5;14.5;19.5;1.2
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Sacramento Kings;Pascal Siakam;2;2;30.0;24.0;1.0;7.0;8.0;2.5;0.5;1.5;2.5;2.0;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Sacramento Kings;Gary Trent Jr.;2;2;33.5;16.5;0.0;3.0;3.0;2.5;1.5;0.5;1.0;2.5;2.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Sacramento Kings;Chris Boucher;2;1;23.0;13.5;1.5;7.0;8.5;1.0;0.5;1.5;1.5;2.5;0.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Sacramento Kings;Fred VanVleet;2;2;29.0;12.5;1.0;2.0;3.0;5.5;2.0;0.0;4.5;2.5;1.2
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Sacramento Kings;Yuta Watanabe;1;0;26.0;12.0;1.0;10.0;11.0;2.0;0.0;0.0;0.0;1.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Sacramento Kings;Khem Birch;1;1;23.0;10.0;4.0;5.0;9.0;1.0;4.0;2.0;0.0;2.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Sacramento Kings;Svi Mykhailiuk;2;0;20.0;9.5;0.5;3.0;3.5;1.5;0.5;0.5;1.0;3.0;1.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Sacramento Kings;Scottie Barnes;2;2;32.5;9.0;0.5;4.5;5.0;4.0;0.5;3.0;0.0;3.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Sacramento Kings;Malachi Flynn;2;0;9.0;7.0;0.0;0.5;0.5;1.0;1.0;0.0;0.0;0.5;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Sacramento Kings;Precious Achiuwa;1;0;25.0;6.0;1.0;4.0;5.0;2.0;0.0;0.0;1.0;1.0;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Sacramento Kings;Justin Champagnie;2;0;14.0;5.0;1.0;1.0;2.0;0.0;1.0;0.5;0.0;2.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Sacramento Kings;Dalano Banton;2;0;10.0;4.0;1.0;1.5;2.5;3.5;0.0;0.0;0.0;1.5;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Sacramento Kings;Isaac Bonga;1;0;5.0;2.0;2.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Sacramento Kings;Total;2;"";"";116.0;10.5;39.0;49.5;24.0;9.5;8.5;11.0;21.5;2.2
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Dallas Mavericks;O.G. Anunoby;2;2;37.5;21.0;2.0;4.0;6.0;1.0;2.5;1.0;1.5;3.5;0.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Dallas Mavericks;Pascal Siakam;1;1;44.0;20.0;0.0;8.0;8.0;3.0;3.0;0.0;5.0;3.0;0.6
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Dallas Mavericks;Fred VanVleet;2;2;40.5;19.0;0.5;3.0;3.5;8.5;0.5;0.0;3.0;2.0;2.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Dallas Mavericks;Scottie Barnes;2;2;29.0;14.0;3.0;3.5;6.5;1.0;0.5;0.5;0.0;5.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Dallas Mavericks;Gary Trent Jr.;1;1;36.0;12.0;1.0;3.0;4.0;0.0;1.0;1.0;1.0;1.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Dallas Mavericks;Precious Achiuwa;2;2;33.0;11.0;2.5;6.0;8.5;1.5;0.0;0.0;1.5;2.5;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Dallas Mavericks;Chris Boucher;2;0;21.0;7.5;2.5;4.5;7.0;0.5;2.0;1.0;0.5;2.0;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Dallas Mavericks;Svi Mykhailiuk;1;0;19.0;7.0;1.0;5.0;6.0;3.0;1.0;0.0;1.0;1.0;3.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Dallas Mavericks;Khem Birch;1;0;18.0;4.0;2.0;1.0;3.0;2.0;0.0;0.0;1.0;1.0;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Dallas Mavericks;Justin Champagnie;1;0;16.0;3.0;2.0;2.0;4.0;0.0;1.0;0.0;1.0;5.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Dallas Mavericks;Goran Dragic;1;0;14.0;2.0;0.0;2.0;2.0;1.0;0.0;1.0;1.0;2.0;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Dallas Mavericks;Isaac Bonga;1;0;3.0;0.0;0.0;1.0;1.0;0.0;1.0;0.0;0.0;1.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Dallas Mavericks;Dalano Banton;1;0;8.0;0.0;0.0;2.0;2.0;0.0;0.0;0.0;1.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Dallas Mavericks;Total;2;"";"";96.5;13.5;33.0;46.5;17.0;9.0;3.5;12.0;22.0;1.4
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Houston Rockets;Gary Trent Jr.;2;2;37.5;34.0;0.5;0.5;1.0;2.0;3.5;0.0;1.0;2.0;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Houston Rockets;Pascal Siakam;2;2;35.5;29.5;1.5;6.0;7.5;5.5;1.5;0.5;2.0;5.5;2.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Houston Rockets;Thaddeus Young;1;0;24.0;14.0;1.0;3.0;4.0;3.0;1.0;0.0;1.0;3.0;3.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Houston Rockets;O.G. Anunoby;1;1;35.0;13.0;2.0;2.0;4.0;2.0;1.0;0.0;2.0;3.0;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Houston Rockets;Scottie Barnes;2;2;33.5;12.5;2.0;3.5;5.5;4.0;1.0;0.0;1.5;1.5;2.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Houston Rockets;Chris Boucher;2;0;21.5;11.0;3.0;2.0;5.0;0.5;0.5;0.5;0.0;2.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Houston Rockets;Dalano Banton;1;0;20.0;10.0;1.0;3.0;4.0;3.0;1.0;0.0;1.0;3.0;3.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Houston Rockets;Precious Achiuwa;2;1;13.0;7.0;0.5;2.0;2.5;1.0;0.0;1.0;2.0;2.0;0.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Houston Rockets;Khem Birch;2;1;22.0;5.0;3.0;1.0;4.0;1.5;2.0;1.0;0.5;2.0;3.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Houston Rockets;Malachi Flynn;2;0;16.0;5.0;0.5;2.5;3.0;2.5;1.0;0.0;0.5;2.0;5.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Houston Rockets;Yuta Watanabe;2;0;9.0;3.0;0.0;1.5;1.5;0.0;1.0;0.5;0.0;0.5;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Houston Rockets;Justin Champagnie;1;0;7.0;3.0;0.0;2.0;2.0;0.0;1.0;0.0;1.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Houston Rockets;Armoni Brooks;1;1;15.0;2.0;1.0;3.0;4.0;3.0;0.0;0.0;0.0;2.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Houston Rockets;Svi Mykhailiuk;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Houston Rockets;Total;2;"";"";128.0;13.5;25.5;39.0;22.5;12.5;3.5;10.0;23.0;2.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Gary Trent Jr.;1;1;39.0;26.0;0.0;1.0;1.0;4.0;1.0;0.0;1.0;1.0;4.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Fred VanVleet;2;2;39.5;19.0;0.5;7.0;7.5;5.0;1.5;1.0;4.0;3.5;1.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Pascal Siakam;2;2;32.0;18.5;1.5;5.0;6.5;3.5;1.0;1.5;1.0;4.0;3.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Scottie Barnes;2;2;38.5;18.0;2.5;5.5;8.0;3.0;1.0;2.0;3.5;1.0;0.9
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Precious Achiuwa;2;2;28.5;11.0;2.0;2.5;4.5;1.0;0.5;0.0;0.5;5.5;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Svi Mykhailiuk;2;1;18.0;7.5;0.0;1.0;1.0;0.0;0.5;0.0;0.5;1.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Yuta Watanabe;2;0;21.0;7.0;2.0;2.5;4.5;0.0;1.0;1.0;0.5;1.5;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Chris Boucher;2;0;7.0;5.5;0.5;0.0;0.5;0.5;0.0;1.0;0.0;0.5;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Malachi Flynn;2;0;16.5;5.5;0.5;1.0;1.5;2.5;0.5;0.0;1.5;1.5;1.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Dalano Banton;2;0;14.5;3.0;1.5;2.5;4.0;2.0;0.0;0.0;1.5;1.5;1.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Isaac Bonga;1;0;11.0;1.0;0.0;1.0;1.0;0.0;2.0;0.0;1.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Total;2;"";"";108.5;11.0;28.0;39.0;19.5;7.5;6.5;14.0;20.5;1.4
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Fred VanVleet;2;2;35.5;26.0;2.0;2.5;4.5;3.0;1.5;0.0;1.5;0.5;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Pascal Siakam;2;2;38.0;23.5;2.5;5.0;7.5;4.0;1.0;0.0;2.0;1.0;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Chris Boucher;2;0;25.5;10.5;3.5;3.5;7.0;0.5;1.0;0.5;0.5;1.5;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. New Orleans Pelicans;O.G. Anunoby;2;2;30.0;7.5;1.0;2.5;3.5;2.0;0.5;0.5;1.0;3.0;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Khem Birch;2;1;19.0;6.0;3.0;2.0;5.0;0.5;1.5;0.0;0.5;4.5;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Gary Trent Jr.;1;1;28.0;6.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;2.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Precious Achiuwa;2;0;21.0;6.0;1.0;6.0;7.0;0.5;0.5;1.0;1.0;2.5;0.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Scottie Barnes;2;2;27.0;6.0;1.5;2.5;4.0;1.0;0.0;0.5;1.0;1.0;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Thaddeus Young;1;0;12.0;4.0;3.0;1.0;4.0;1.0;1.0;0.0;1.0;0.0;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Dalano Banton;1;0;12.0;4.0;1.0;0.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Svi Mykhailiuk;2;0;9.5;3.5;0.0;2.0;2.0;0.5;0.0;0.0;0.5;1.5;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Yuta Watanabe;1;0;5.0;3.0;1.0;1.0;2.0;0.0;0.0;1.0;0.0;1.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Malachi Flynn;1;0;9.0;0.0;0.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Justin Champagnie;1;0;3.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Total;2;"";"";97.5;17.0;28.0;45.0;13.0;7.5;3.0;9.0;17.0;1.4
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. San Antonio Spurs;Fred VanVleet;2;2;33.0;29.5;0.5;3.5;4.0;4.5;2.0;0.0;1.0;1.5;4.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. San Antonio Spurs;Pascal Siakam;2;2;32.5;19.0;1.5;8.5;10.0;4.0;0.5;0.0;2.0;4.0;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. San Antonio Spurs;Gary Trent Jr.;2;2;33.0;19.0;1.0;1.0;2.0;2.0;2.0;0.0;1.5;1.5;1.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. San Antonio Spurs;Scottie Barnes;2;2;33.5;15.5;2.0;6.5;8.5;4.5;0.5;0.5;0.5;3.5;9.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. San Antonio Spurs;O.G. Anunoby;1;1;31.0;14.0;1.0;6.0;7.0;3.0;2.0;0.0;1.0;1.0;3.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. San Antonio Spurs;Justin Champagnie;1;0;13.0;14.0;2.0;1.0;3.0;0.0;0.0;1.0;0.0;1.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. San Antonio Spurs;Precious Achiuwa;2;0;20.0;11.5;1.5;2.0;3.5;1.0;0.5;0.5;2.0;3.0;0.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. San Antonio Spurs;Thaddeus Young;1;0;20.0;7.0;3.0;4.0;7.0;0.0;0.0;0.0;1.0;3.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. San Antonio Spurs;Dalano Banton;2;0;13.5;4.0;1.0;1.0;2.0;2.5;1.0;0.5;0.5;1.0;5.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. San Antonio Spurs;Chris Boucher;2;0;15.5;3.5;2.0;3.0;5.0;0.0;1.0;1.0;0.5;1.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. San Antonio Spurs;Khem Birch;2;1;18.0;3.0;2.0;3.5;5.5;0.5;0.5;1.5;2.0;2.5;0.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. San Antonio Spurs;Yuta Watanabe;1;0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. San Antonio Spurs;Isaac Bonga;2;0;3.0;0.5;0.0;0.5;0.5;0.0;1.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. San Antonio Spurs;Svi Mykhailiuk;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. San Antonio Spurs;Armoni Brooks;1;0;4.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. San Antonio Spurs;Malachi Flynn;1;0;6.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;1.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;vs. San Antonio Spurs;Total;2;"";"";124.0;14.5;35.0;49.5;21.0;10.0;4.5;11.0;21.5;1.9
+Toronto Raptors;tor;2021 - 2022 Regular Season;October;Scottie Barnes;7;7;34.9;18.1;3.0;5.9;8.9;2.0;0.7;0.6;2.4;2.7;0.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;October;O.G. Anunoby;7;7;35.9;18.0;1.9;3.7;5.6;2.9;1.7;0.7;1.7;2.9;1.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;October;Fred VanVleet;7;7;38.4;17.0;1.3;3.7;5.0;7.3;1.6;0.4;3.7;2.4;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;October;Gary Trent Jr.;7;6;31.4;13.6;0.6;2.9;3.4;1.1;2.6;0.3;0.9;2.0;1.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;October;Precious Achiuwa;7;7;24.4;9.1;2.0;6.6;8.6;1.3;0.4;0.3;1.1;2.3;1.1
+Toronto Raptors;tor;2021 - 2022 Regular Season;October;Svi Mykhailiuk;7;0;14.3;7.0;0.9;2.1;3.0;1.0;0.9;0.0;1.1;1.7;0.9
+Toronto Raptors;tor;2021 - 2022 Regular Season;October;Khem Birch;7;0;22.1;6.3;3.0;2.4;5.4;1.1;0.9;0.0;0.9;1.3;1.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;October;Chris Boucher;7;0;14.9;6.1;1.4;3.0;4.4;0.3;1.0;1.0;0.4;1.3;0.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;October;Goran Dragic;4;1;15.5;6.0;0.0;2.3;2.3;1.5;0.8;0.3;0.3;1.5;6.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;October;Dalano Banton;7;0;12.0;4.7;0.3;1.9;2.1;1.4;0.7;0.1;0.9;1.0;1.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;October;Isaac Bonga;3;0;2.3;0.7;0.3;0.3;0.7;0.7;0.3;0.0;0.0;0.3;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;October;Sam Dekker;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;October;Malachi Flynn;3;0;2.7;0.0;0.0;0.7;0.7;0.3;0.3;0.0;0.0;0.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;October;Justin Champagnie;2;0;2.5;0.0;0.0;0.5;0.5;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;October;David Johnson;1;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;October;Total;7;"";"";103.7;14.4;34.0;48.4;19.7;11.1;3.6;13.3;18.6;1.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;November;O.G. Anunoby;8;8;38.6;22.0;1.4;3.9;5.3;2.6;1.4;0.5;1.6;2.6;1.6
+Toronto Raptors;tor;2021 - 2022 Regular Season;November;Fred VanVleet;14;14;38.3;21.3;0.6;4.7;5.3;5.9;1.6;0.7;2.9;2.6;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;November;Gary Trent Jr.;13;13;36.0;19.3;0.5;2.3;2.8;1.9;1.8;0.4;1.0;2.4;1.9
+Toronto Raptors;tor;2021 - 2022 Regular Season;November;Pascal Siakam;11;11;33.0;17.9;1.9;5.2;7.1;3.7;0.8;0.9;1.9;3.3;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;November;Goran Dragic;1;1;28.0;16.0;2.0;3.0;5.0;3.0;2.0;0.0;0.0;2.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;November;Scottie Barnes;13;13;35.7;13.9;3.0;4.8;7.8;4.0;1.4;0.8;2.1;2.5;1.9
+Toronto Raptors;tor;2021 - 2022 Regular Season;November;Khem Birch;8;3;23.6;7.5;3.4;2.5;5.9;1.5;1.1;0.9;0.4;2.3;4.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;November;Svi Mykhailiuk;15;4;20.9;7.3;0.5;1.8;2.3;1.1;0.7;0.1;0.5;1.2;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;November;Precious Achiuwa;12;8;26.7;7.3;2.2;5.4;7.6;1.7;0.5;0.7;1.0;2.7;1.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;November;Chris Boucher;13;0;12.9;5.8;1.4;2.3;3.7;0.3;0.3;0.7;0.6;1.3;0.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;November;Yuta Watanabe;3;0;18.7;5.7;1.7;2.0;3.7;0.3;0.7;0.7;0.3;1.7;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;November;Dalano Banton;15;0;13.4;4.5;0.7;1.7;2.4;1.5;0.3;0.3;1.3;1.7;1.2
+Toronto Raptors;tor;2021 - 2022 Regular Season;November;Malachi Flynn;13;0;9.9;3.3;0.4;1.1;1.5;1.1;0.5;0.2;0.4;1.1;2.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;November;Justin Champagnie;7;0;4.4;1.1;0.9;0.4;1.3;0.1;0.0;0.1;0.0;0.9;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;November;Isaac Bonga;3;0;8.0;0.3;0.0;0.3;0.3;0.0;0.7;0.3;0.3;0.7;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;November;Total;15;"";"";105.9;12.9;29.4;42.3;20.9;8.7;5.1;11.5;19.7;1.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;December;Pascal Siakam;8;8;38.1;22.6;2.3;7.3;9.5;4.6;0.6;0.9;2.8;3.3;1.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;December;Fred VanVleet;8;8;36.9;22.0;0.8;3.9;4.6;7.9;1.6;0.5;2.4;2.5;3.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;December;O.G. Anunoby;2;2;32.0;16.5;1.5;3.0;4.5;1.0;2.5;0.0;1.0;3.5;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;December;Scottie Barnes;7;7;37.9;16.3;3.0;5.4;8.4;3.7;0.9;1.6;0.9;3.7;4.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;December;Gary Trent Jr.;9;9;35.2;15.1;0.0;2.7;2.7;3.1;2.2;0.1;0.9;1.9;3.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;December;Chris Boucher;10;7;24.5;13.7;2.6;5.2;7.8;0.5;0.3;1.0;1.2;2.8;0.4
+Toronto Raptors;tor;2021 - 2022 Regular Season;December;D.J. Wilson;2;1;23.5;12.0;0.5;6.5;7.0;2.0;2.5;0.5;1.0;2.5;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;December;Precious Achiuwa;4;2;24.0;9.3;2.8;4.8;7.5;1.0;0.8;0.5;1.3;1.5;0.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;December;Yuta Watanabe;10;2;22.1;8.6;0.8;3.9;4.7;1.3;0.4;0.6;0.9;1.7;1.4
+Toronto Raptors;tor;2021 - 2022 Regular Season;December;Khem Birch;1;1;19.0;6.0;1.0;4.0;5.0;1.0;0.0;0.0;0.0;1.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;December;Svi Mykhailiuk;10;1;18.1;5.8;0.5;2.1;2.6;1.6;0.6;0.2;0.9;1.3;1.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;December;Juwan Morgan;1;0;27.0;5.0;2.0;2.0;4.0;1.0;0.0;0.0;0.0;3.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;December;Malachi Flynn;7;1;11.4;4.7;0.1;0.9;1.0;1.1;0.3;0.1;0.4;1.1;2.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;December;Tremont Waters;2;0;21.0;4.0;0.0;2.0;2.0;3.5;2.0;0.0;2.0;1.0;1.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;December;Justin Champagnie;7;0;11.9;3.9;1.3;0.7;2.0;0.3;0.3;0.1;0.3;1.1;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;December;Daniel Oturu;2;0;13.0;3.5;0.0;2.0;2.0;0.0;0.0;1.0;0.0;0.5;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;December;Dalano Banton;7;1;11.9;2.6;0.9;1.3;2.1;3.1;0.3;0.0;0.9;1.0;3.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;December;Isaac Bonga;5;0;5.6;1.6;0.6;0.0;0.6;0.2;0.6;0.2;0.2;1.4;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;December;David Johnson;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;December;Total;10;"";"";109.4;12.1;33.5;45.6;24.0;8.3;4.9;11.0;20.2;2.2
+Toronto Raptors;tor;2021 - 2022 Regular Season;January;Fred VanVleet;14;14;40.0;23.8;0.9;3.2;4.1;7.7;1.8;0.4;1.9;2.3;4.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;January;Pascal Siakam;16;16;40.4;22.6;1.8;6.8;8.6;6.4;2.0;0.8;3.2;3.8;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;January;Gary Trent Jr.;10;10;34.3;21.2;0.4;2.0;2.4;1.6;1.2;0.5;1.0;2.1;1.6
+Toronto Raptors;tor;2021 - 2022 Regular Season;January;O.G. Anunoby;16;16;37.6;17.9;1.6;4.4;6.0;2.6;1.7;0.6;1.8;3.1;1.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;January;Scottie Barnes;13;13;36.0;12.6;2.1;4.5;6.6;3.5;0.8;0.8;2.1;2.9;1.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;January;Chris Boucher;16;1;25.8;10.0;2.6;4.4;7.0;0.3;1.0;1.4;0.5;2.6;0.6
+Toronto Raptors;tor;2021 - 2022 Regular Season;January;Precious Achiuwa;16;5;23.1;6.9;2.3;4.1;6.4;0.9;0.6;0.8;0.9;1.6;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;January;Khem Birch;7;3;17.0;3.3;1.7;2.4;4.1;1.0;0.6;0.6;1.0;1.6;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;January;Justin Champagnie;13;0;9.9;3.2;1.7;1.4;3.1;0.5;0.4;0.2;0.3;1.4;1.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;January;Dalano Banton;9;0;9.6;2.7;0.4;1.3;1.8;1.0;0.9;0.3;1.2;1.0;0.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;January;Malachi Flynn;6;0;8.0;2.3;0.0;0.5;0.5;1.0;0.2;0.0;0.2;0.8;6.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;January;Daniel Oturu;1;0;2.0;2.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;January;Svi Mykhailiuk;7;0;7.1;1.3;0.1;0.6;0.7;0.1;0.1;0.0;0.3;0.6;0.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;January;Yuta Watanabe;8;2;9.1;1.1;0.1;1.4;1.5;0.1;0.1;0.3;0.8;1.1;0.2
+Toronto Raptors;tor;2021 - 2022 Regular Season;January;D.J. Wilson;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;January;Isaac Bonga;2;0;3.5;0.0;0.0;0.5;0.5;0.0;0.5;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;January;Total;16;"";"";109.3;13.4;31.6;45.1;22.6;9.6;5.6;12.3;20.3;1.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;February;Pascal Siakam;12;12;37.0;21.3;2.3;6.5;8.8;5.2;1.2;0.4;2.7;3.2;1.9
+Toronto Raptors;tor;2021 - 2022 Regular Season;February;Fred VanVleet;9;9;36.1;20.7;0.4;3.0;3.4;6.3;1.2;0.4;2.9;2.1;2.2
+Toronto Raptors;tor;2021 - 2022 Regular Season;February;Gary Trent Jr.;12;12;34.8;19.2;0.0;2.2;2.2;1.8;2.0;0.2;1.3;1.8;1.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;February;Scottie Barnes;12;12;31.8;15.2;1.9;4.8;6.8;2.6;1.4;0.4;1.9;2.0;1.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;February;O.G. Anunoby;9;9;35.1;12.4;1.6;3.4;5.0;2.9;1.1;0.6;2.1;3.0;1.4
+Toronto Raptors;tor;2021 - 2022 Regular Season;February;Precious Achiuwa;12;1;19.0;9.1;1.9;3.9;5.8;1.2;0.5;0.4;1.2;1.8;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;February;Chris Boucher;12;0;20.0;8.8;2.1;3.5;5.6;0.3;0.5;0.7;0.3;2.7;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;February;Thaddeus Young;5;0;18.2;8.0;1.6;2.2;3.8;1.6;1.0;0.4;1.2;2.0;1.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;February;D.J. Wilson;1;0;6.0;6.0;0.0;2.0;2.0;1.0;0.0;0.0;0.0;1.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;February;Malachi Flynn;8;1;13.1;4.6;0.3;1.5;1.8;2.1;0.6;0.0;0.1;1.0;17.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;February;Yuta Watanabe;7;0;5.0;4.0;0.6;0.6;1.1;0.6;0.0;0.6;0.1;0.4;4.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;February;Dalano Banton;12;0;10.8;2.8;0.7;1.3;1.9;1.4;0.5;0.0;0.5;0.7;2.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;February;Khem Birch;11;4;12.4;2.1;1.5;1.1;2.5;0.9;0.5;0.5;0.3;1.9;3.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;February;Svi Mykhailiuk;7;0;3.6;1.9;0.1;0.6;0.7;0.3;0.0;0.0;0.1;0.1;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;February;Justin Champagnie;5;0;5.0;0.4;0.0;1.2;1.2;0.4;0.0;0.0;0.2;0.0;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;February;Total;12;"";"";113.5;13.0;31.3;44.3;23.0;9.1;3.8;12.6;19.6;1.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;March;Pascal Siakam;16;16;38.6;25.9;1.5;6.6;8.1;5.3;1.1;0.4;2.8;3.4;1.9
+Toronto Raptors;tor;2021 - 2022 Regular Season;March;Gary Trent Jr.;13;13;35.2;18.2;0.7;2.5;3.2;2.4;1.2;0.2;1.1;2.2;2.2
+Toronto Raptors;tor;2021 - 2022 Regular Season;March;Scottie Barnes;16;16;37.0;17.1;2.9;4.7;7.6;4.3;1.2;0.9;1.9;2.4;2.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;March;O.G. Anunoby;4;4;31.8;16.5;1.3;3.3;4.5;2.5;0.8;0.3;0.5;1.3;5.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;March;Malachi Flynn;3;3;36.3;15.3;0.3;3.7;4.0;5.7;0.7;0.3;0.3;2.3;17.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;March;Fred VanVleet;10;10;36.1;14.8;0.4;4.3;4.7;5.4;1.8;0.6;2.0;3.0;2.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;March;Precious Achiuwa;16;4;25.1;12.1;1.9;4.5;6.4;0.9;0.4;0.6;1.4;2.6;0.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;March;Chris Boucher;16;1;24.2;10.6;3.0;4.8;7.8;0.1;0.7;0.7;0.4;2.3;0.2
+Toronto Raptors;tor;2021 - 2022 Regular Season;March;Thaddeus Young;15;0;17.6;5.9;1.3;3.1;4.4;1.5;1.1;0.5;0.8;1.4;1.9
+Toronto Raptors;tor;2021 - 2022 Regular Season;March;Khem Birch;15;12;18.1;4.8;2.2;2.3;4.5;0.9;0.2;0.5;0.3;2.2;2.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;March;Armoni Brooks;10;1;11.6;2.9;0.7;0.9;1.6;1.0;0.6;0.3;0.3;0.9;3.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;March;Dalano Banton;13;0;8.3;2.1;0.5;0.8;1.4;1.4;0.2;0.2;0.4;0.8;3.6
+Toronto Raptors;tor;2021 - 2022 Regular Season;March;Yuta Watanabe;8;0;4.6;2.0;0.0;0.9;0.9;0.0;0.1;0.3;0.3;0.5;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;March;Svi Mykhailiuk;9;0;4.3;1.1;0.0;0.1;0.1;0.3;0.1;0.0;0.3;0.4;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;March;Isaac Bonga;2;0;1.0;0.5;0.0;0.0;0.0;0.5;0.5;0.0;0.0;0.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;March;Justin Champagnie;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;March;Total;16;"";"";111.9;14.7;33.6;48.3;21.9;7.7;4.6;10.6;20.0;2.1
+Toronto Raptors;tor;2021 - 2022 Regular Season;April;Pascal Siakam;5;5;40.6;28.4;1.8;9.0;10.8;6.6;1.6;0.4;2.0;2.2;3.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;April;Gary Trent Jr.;6;6;37.7;20.5;0.3;2.0;2.3;1.8;1.5;0.2;1.2;1.8;1.6
+Toronto Raptors;tor;2021 - 2022 Regular Season;April;Fred VanVleet;3;3;39.0;20.0;0.3;2.3;2.7;6.3;3.3;0.7;3.7;2.7;1.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;April;Scottie Barnes;6;6;33.7;15.5;2.8;4.7;7.5;3.2;0.7;0.0;1.0;2.5;3.2
+Toronto Raptors;tor;2021 - 2022 Regular Season;April;O.G. Anunoby;2;2;30.0;11.0;1.5;6.0;7.5;2.5;1.5;0.0;2.0;1.0;1.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;April;Chris Boucher;6;0;22.5;10.8;1.8;3.7;5.5;0.8;0.3;1.2;0.3;1.7;2.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;April;Precious Achiuwa;6;1;23.2;10.3;0.8;2.2;3.0;1.0;0.5;0.5;1.5;1.5;0.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;April;Svi Mykhailiuk;1;0;8.0;6.0;0.0;0.0;0.0;0.0;1.0;0.0;1.0;2.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;April;Thaddeus Young;6;0;20.0;5.8;2.0;3.0;5.0;2.3;1.7;0.2;0.7;2.0;3.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;April;Malachi Flynn;4;0;14.5;4.0;0.3;1.3;1.5;1.8;0.5;0.0;0.5;0.8;3.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;April;Yuta Watanabe;2;0;11.5;3.5;0.0;3.5;3.5;1.0;1.5;0.0;0.0;0.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;April;Khem Birch;6;5;16.7;3.2;2.0;2.2;4.2;0.7;0.5;0.5;0.8;1.8;0.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;April;Justin Champagnie;1;0;7.0;3.0;0.0;2.0;2.0;0.0;1.0;0.0;1.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;April;Armoni Brooks;3;2;12.7;1.7;0.3;1.7;2.0;1.0;0.3;0.0;0.3;1.7;3.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;April;Dalano Banton;1;0;4.0;1.0;0.0;1.0;1.0;1.0;1.0;0.0;0.0;1.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;April;Total;6;"";"";109.8;12.3;31.7;44.0;21.5;10.2;3.2;10.5;16.7;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Atlantic Division;Fred VanVleet;10;10;38.7;22.1;0.6;4.6;5.2;6.9;2.1;0.5;2.3;2.0;3.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Atlantic Division;Pascal Siakam;12;12;36.5;21.3;1.9;6.4;8.3;5.0;1.4;0.8;2.3;3.8;2.1
+Toronto Raptors;tor;2021 - 2022 Regular Season;Atlantic Division;Gary Trent Jr.;15;15;35.7;18.1;0.1;2.3;2.3;3.1;1.9;0.2;1.2;2.5;2.6
+Toronto Raptors;tor;2021 - 2022 Regular Season;Atlantic Division;O.G. Anunoby;8;8;35.5;17.0;1.9;4.0;5.9;2.9;1.0;0.1;1.4;2.0;2.1
+Toronto Raptors;tor;2021 - 2022 Regular Season;Atlantic Division;Scottie Barnes;14;14;35.6;16.1;3.6;5.1;8.7;3.4;1.4;0.6;2.4;2.9;1.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;Atlantic Division;Chris Boucher;15;3;21.9;10.7;1.9;4.4;6.3;0.3;0.6;1.1;0.6;2.5;0.4
+Toronto Raptors;tor;2021 - 2022 Regular Season;Atlantic Division;Precious Achiuwa;13;6;26.7;9.7;2.5;5.7;8.2;1.5;0.6;1.1;1.5;1.8;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Atlantic Division;Thaddeus Young;6;0;22.7;7.8;1.2;3.7;4.8;2.5;1.5;1.2;0.7;2.5;3.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;Atlantic Division;D.J. Wilson;2;0;9.5;7.5;0.0;4.0;4.0;0.5;0.0;0.0;0.0;2.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;Atlantic Division;Svi Mykhailiuk;12;2;18.8;7.3;0.3;1.5;1.8;1.5;0.8;0.2;0.8;1.2;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Atlantic Division;Malachi Flynn;12;3;16.8;5.7;0.4;1.5;1.9;2.4;0.4;0.1;0.4;1.2;5.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;Atlantic Division;Yuta Watanabe;7;1;17.9;5.3;0.6;3.0;3.6;1.4;0.3;0.7;0.7;1.7;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Atlantic Division;Goran Dragic;1;0;12.0;5.0;0.0;1.0;1.0;1.0;1.0;0.0;0.0;2.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;Atlantic Division;Armoni Brooks;2;1;16.0;4.5;0.0;2.0;2.0;0.0;0.5;0.0;0.5;2.5;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Atlantic Division;Khem Birch;8;5;18.9;4.4;2.8;1.8;4.5;0.8;0.6;0.5;0.6;1.4;1.2
+Toronto Raptors;tor;2021 - 2022 Regular Season;Atlantic Division;Dalano Banton;10;0;8.8;2.2;0.5;0.8;1.3;1.3;0.2;0.4;0.7;0.8;1.9
+Toronto Raptors;tor;2021 - 2022 Regular Season;Atlantic Division;Justin Champagnie;8;0;6.8;2.1;1.0;1.0;2.0;0.4;0.0;0.1;0.0;0.8;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;Atlantic Division;Isaac Bonga;2;0;7.0;1.0;0.5;0.0;0.5;1.0;0.0;0.5;0.0;1.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;Atlantic Division;Daniel Oturu;2;0;4.0;1.0;0.5;1.0;1.5;0.0;0.0;1.0;0.0;0.5;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Atlantic Division;Tremont Waters;1;0;7.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0;0.0;0.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;Atlantic Division;Total;16;"";"";108.9;13.3;32.9;46.1;23.0;9.2;5.2;0.0;19.8;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;Central Division;Pascal Siakam;13;13;38.7;24.4;2.0;5.8;7.8;5.5;1.1;0.5;3.0;3.8;1.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;Central Division;O.G. Anunoby;12;12;35.5;19.8;1.1;3.3;4.3;3.3;1.2;0.8;1.7;2.6;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Central Division;Fred VanVleet;13;13;37.8;18.8;0.8;4.3;5.2;7.1;1.5;0.5;2.6;2.8;2.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;Central Division;Gary Trent Jr.;12;12;35.1;16.8;0.7;2.6;3.3;2.0;2.2;0.3;1.4;2.2;1.4
+Toronto Raptors;tor;2021 - 2022 Regular Season;Central Division;D.J. Wilson;1;1;34.0;15.0;1.0;7.0;8.0;4.0;5.0;1.0;2.0;2.0;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Central Division;Scottie Barnes;16;16;36.9;14.8;2.8;4.6;7.4;3.9;1.1;0.9;1.9;2.8;2.1
+Toronto Raptors;tor;2021 - 2022 Regular Season;Central Division;Goran Dragic;2;1;21.0;12.0;1.0;3.0;4.0;1.5;2.0;0.0;0.0;1.5;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;Central Division;Chris Boucher;18;2;22.3;10.3;1.9;3.6;5.5;0.3;0.9;0.8;0.7;2.3;0.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;Central Division;Precious Achiuwa;16;9;25.2;8.6;2.4;5.0;7.4;1.2;0.5;0.6;0.9;2.3;1.4
+Toronto Raptors;tor;2021 - 2022 Regular Season;Central Division;Tremont Waters;1;0;35.0;8.0;0.0;3.0;3.0;6.0;3.0;0.0;4.0;2.0;1.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;Central Division;Daniel Oturu;1;0;20.0;7.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Central Division;Thaddeus Young;4;0;15.0;5.8;1.3;1.3;2.5;1.0;1.3;0.3;0.5;0.5;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Central Division;Juwan Morgan;1;0;27.0;5.0;2.0;2.0;4.0;1.0;0.0;0.0;0.0;3.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;Central Division;Armoni Brooks;4;0;15.0;5.0;1.0;0.8;1.8;1.8;0.8;0.5;0.8;1.5;2.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;Central Division;Yuta Watanabe;9;2;9.3;4.7;0.3;1.8;2.1;0.2;0.1;0.4;0.7;0.8;0.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;Central Division;Khem Birch;13;6;18.5;4.5;2.2;2.3;4.5;1.4;0.5;0.4;0.3;1.5;4.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;Central Division;Svi Mykhailiuk;15;1;11.9;4.3;0.5;1.1;1.5;0.9;0.5;0.1;0.5;1.1;1.9
+Toronto Raptors;tor;2021 - 2022 Regular Season;Central Division;Dalano Banton;16;1;12.4;4.0;0.9;1.4;2.3;1.8;0.4;0.1;1.3;1.2;1.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;Central Division;Malachi Flynn;8;1;8.4;3.1;0.0;1.0;1.0;0.4;0.5;0.1;0.0;0.6;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;Central Division;Justin Champagnie;5;0;11.4;1.8;1.8;1.8;3.6;0.4;0.2;0.2;0.4;1.2;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Central Division;Sam Dekker;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Central Division;Isaac Bonga;3;0;2.0;0.0;0.0;0.0;0.0;0.0;0.3;0.0;0.0;0.3;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Central Division;David Johnson;1;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Central Division;Total;18;"";"";107.0;13.9;30.6;44.4;22.7;8.9;4.4;0.0;19.8;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pacific Division;Pascal Siakam;9;9;37.1;24.0;2.0;7.3;9.3;5.1;1.2;0.9;2.7;2.6;1.9
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pacific Division;O.G. Anunoby;3;3;34.3;19.3;1.3;2.3;3.7;1.0;2.0;0.0;1.3;3.3;0.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pacific Division;Fred VanVleet;10;10;37.4;18.3;0.8;3.5;4.3;6.5;1.8;0.4;2.6;3.0;2.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pacific Division;Gary Trent Jr.;9;9;34.1;18.2;0.8;2.6;3.3;1.8;1.2;0.3;0.7;2.2;2.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pacific Division;Scottie Barnes;8;8;35.6;16.4;2.8;5.6;8.4;4.0;1.4;1.3;1.4;2.4;2.9
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pacific Division;Precious Achiuwa;9;1;24.1;10.6;1.9;4.3;6.2;1.1;0.7;0.3;1.4;1.7;0.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pacific Division;Chris Boucher;10;2;21.4;9.6;3.0;4.7;7.7;0.3;0.2;0.8;0.7;2.1;0.4
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pacific Division;Yuta Watanabe;4;1;18.8;6.0;0.8;3.5;4.3;0.5;0.8;0.3;0.5;1.5;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pacific Division;Svi Mykhailiuk;6;0;16.0;5.8;0.5;2.0;2.5;1.0;0.2;0.2;0.8;1.3;1.2
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pacific Division;Khem Birch;8;7;20.8;5.6;2.6;2.8;5.4;1.0;0.9;0.8;0.3;1.8;4.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pacific Division;Malachi Flynn;5;0;9.0;5.0;0.0;0.4;0.4;1.2;0.8;0.2;0.2;1.0;6.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pacific Division;Thaddeus Young;4;0;14.8;3.3;0.8;3.5;4.3;1.0;1.0;0.3;1.0;1.5;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pacific Division;Justin Champagnie;5;0;12.4;3.2;2.0;0.8;2.8;0.4;0.6;0.2;0.4;1.4;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pacific Division;Dalano Banton;7;0;9.1;2.9;0.3;1.1;1.4;1.6;0.1;0.0;0.7;1.0;2.2
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pacific Division;Isaac Bonga;2;0;5.0;1.0;1.0;0.0;1.0;0.0;1.0;0.0;0.5;1.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pacific Division;Armoni Brooks;2;0;6.0;0.0;0.5;0.0;0.5;0.5;0.0;0.0;0.0;0.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pacific Division;Total;10;"";"";112.3;15.1;33.8;48.9;21.5;9.0;4.7;0.0;19.3;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;Southeast Division;Pascal Siakam;15;15;40.3;23.0;1.9;7.4;9.3;5.2;1.3;0.7;2.5;2.7;2.1
+Toronto Raptors;tor;2021 - 2022 Regular Season;Southeast Division;Fred VanVleet;16;16;38.6;19.4;0.4;2.6;2.9;6.8;1.4;0.8;3.0;2.5;2.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;Southeast Division;Gary Trent Jr.;17;16;35.1;18.0;0.2;2.8;2.9;1.7;1.6;0.2;0.8;1.8;2.1
+Toronto Raptors;tor;2021 - 2022 Regular Season;Southeast Division;Scottie Barnes;16;16;36.6;16.2;2.3;5.5;7.8;2.4;0.9;0.5;2.1;3.1;1.2
+Toronto Raptors;tor;2021 - 2022 Regular Season;Southeast Division;O.G. Anunoby;12;12;38.4;15.7;1.8;5.3;7.1;2.4;2.0;0.8;2.2;3.1;1.1
+Toronto Raptors;tor;2021 - 2022 Regular Season;Southeast Division;Goran Dragic;1;1;22.0;9.0;0.0;3.0;3.0;4.0;0.0;0.0;0.0;1.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;Southeast Division;Precious Achiuwa;18;6;22.3;8.8;1.8;4.4;6.2;1.2;0.5;0.5;1.1;1.9;1.1
+Toronto Raptors;tor;2021 - 2022 Regular Season;Southeast Division;Chris Boucher;18;1;20.6;8.6;1.7;4.2;5.9;0.3;0.5;0.9;0.4;2.4;0.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;Southeast Division;Malachi Flynn;8;1;13.5;5.3;0.0;1.4;1.4;2.1;0.3;0.1;0.3;1.0;8.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;Southeast Division;Thaddeus Young;6;0;17.2;4.5;2.7;2.7;5.3;2.0;1.0;0.2;1.0;1.2;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Southeast Division;Svi Mykhailiuk;9;1;10.9;3.4;0.3;1.3;1.7;0.2;0.3;0.0;0.4;0.7;0.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;Southeast Division;Yuta Watanabe;7;0;9.4;3.4;0.4;1.6;2.0;0.6;0.1;0.3;0.7;0.7;0.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;Southeast Division;Dalano Banton;14;0;10.6;3.2;0.3;1.7;2.0;1.5;0.8;0.2;0.4;1.2;3.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;Southeast Division;Khem Birch;11;5;15.1;3.0;1.9;2.1;4.0;0.8;0.1;0.3;0.7;2.3;1.1
+Toronto Raptors;tor;2021 - 2022 Regular Season;Southeast Division;Justin Champagnie;10;0;3.6;0.4;0.1;0.3;0.4;0.3;0.0;0.0;0.1;0.3;3.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Southeast Division;Isaac Bonga;3;0;1.7;0.3;0.3;0.0;0.3;0.3;0.0;0.0;0.0;0.3;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;Southeast Division;Armoni Brooks;1;0;5.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Southeast Division;David Johnson;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Southeast Division;Total;18;"";"";107.6;11.6;33.7;45.3;21.2;8.3;4.3;0.0;19.3;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;Southwest Division;Fred VanVleet;8;8;37.0;23.4;0.9;4.0;4.9;5.3;1.4;0.3;2.4;1.9;2.2
+Toronto Raptors;tor;2021 - 2022 Regular Season;Southwest Division;Pascal Siakam;9;9;35.4;22.3;1.6;6.3;7.9;4.1;1.2;0.4;2.1;3.6;1.9
+Toronto Raptors;tor;2021 - 2022 Regular Season;Southwest Division;Gary Trent Jr.;7;7;35.0;21.4;0.6;1.1;1.7;1.7;1.9;0.1;1.1;1.6;1.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;Southwest Division;O.G. Anunoby;6;6;33.5;14.0;1.5;3.5;5.0;1.8;1.5;0.5;1.3;2.8;1.4
+Toronto Raptors;tor;2021 - 2022 Regular Season;Southwest Division;Scottie Barnes;10;10;32.3;13.2;2.2;4.3;6.5;2.7;0.6;0.7;1.3;2.4;2.1
+Toronto Raptors;tor;2021 - 2022 Regular Season;Southwest Division;Precious Achiuwa;10;5;23.1;9.3;1.5;3.7;5.2;1.0;0.3;0.5;1.4;3.1;0.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;Southwest Division;Thaddeus Young;3;0;18.7;8.3;2.3;2.7;5.0;1.3;0.7;0.0;1.0;2.0;1.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;Southwest Division;Chris Boucher;10;0;18.1;7.6;2.3;2.6;4.9;0.4;0.9;0.8;0.3;1.4;1.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;Southwest Division;Justin Champagnie;4;0;10.0;5.0;1.0;1.5;2.5;0.0;0.5;0.3;0.5;1.5;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Southwest Division;Khem Birch;7;3;19.3;4.6;2.6;2.0;4.6;1.0;1.1;0.7;1.0;2.7;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Southwest Division;Yuta Watanabe;6;0;11.2;4.2;0.8;1.5;2.3;0.0;0.7;0.7;0.2;1.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Southwest Division;Svi Mykhailiuk;7;1;10.9;4.1;0.1;1.6;1.7;0.6;0.3;0.0;0.4;0.9;1.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;Southwest Division;Dalano Banton;7;0;13.7;4.0;1.0;1.7;2.7;1.7;0.6;0.1;0.9;1.1;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Southwest Division;Malachi Flynn;6;0;13.3;3.5;0.3;1.2;1.5;2.0;0.7;0.0;0.7;1.3;3.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Southwest Division;Goran Dragic;1;0;14.0;2.0;0.0;2.0;2.0;1.0;0.0;1.0;1.0;2.0;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Southwest Division;Armoni Brooks;2;1;9.5;1.0;0.5;1.5;2.0;1.5;0.0;0.0;0.0;1.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;Southwest Division;Isaac Bonga;4;0;5.3;0.5;0.0;0.8;0.8;0.0;1.3;0.0;0.3;0.3;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Southwest Division;Total;10;"";"";110.9;13.9;29.9;43.8;18.6;9.3;4.2;0.0;20.8;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;Northwest Division;Fred VanVleet;8;8;37.1;21.6;0.8;4.4;5.1;7.1;2.5;0.8;2.5;2.6;2.9
+Toronto Raptors;tor;2021 - 2022 Regular Season;Northwest Division;Pascal Siakam;10;10;38.0;21.6;1.8;6.5;8.3;6.7;1.3;0.5;3.3;3.3;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Northwest Division;Gary Trent Jr.;10;10;34.4;19.0;0.3;2.2;2.5;1.4;1.5;0.4;1.0;1.9;1.4
+Toronto Raptors;tor;2021 - 2022 Regular Season;Northwest Division;O.G. Anunoby;7;7;36.1;16.9;1.6;4.0;5.6;2.7;1.4;0.4;1.6;2.9;1.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;Northwest Division;Scottie Barnes;10;10;33.5;15.1;2.1;4.0;6.1;4.8;1.3;0.8;1.6;1.5;3.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Northwest Division;Thaddeus Young;3;0;20.3;9.7;0.7;3.3;4.0;2.0;1.7;0.3;1.0;2.3;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Northwest Division;Chris Boucher;9;1;21.4;9.1;3.7;4.0;7.7;0.3;0.4;1.4;0.4;2.0;0.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;Northwest Division;Precious Achiuwa;7;1;17.9;7.9;1.6;2.6;4.1;0.4;0.4;0.1;0.4;1.6;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Northwest Division;Khem Birch;8;2;16.6;5.4;1.5;1.8;3.3;1.0;0.4;0.4;0.4;1.9;2.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;Northwest Division;Isaac Bonga;1;0;14.0;5.0;0.0;0.0;0.0;1.0;0.0;1.0;0.0;3.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;Northwest Division;Justin Champagnie;4;0;8.0;3.8;1.3;1.3;2.5;0.3;0.5;0.0;0.3;1.0;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Northwest Division;Dalano Banton;10;0;10.1;2.6;0.5;1.2;1.7;1.3;0.4;0.0;0.9;0.9;1.4
+Toronto Raptors;tor;2021 - 2022 Regular Season;Northwest Division;Yuta Watanabe;5;0;5.6;2.2;0.0;0.6;0.6;0.6;0.0;0.0;0.0;0.4;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;Northwest Division;Malachi Flynn;5;0;7.0;1.6;0.6;1.4;2.0;0.6;0.2;0.0;0.2;1.0;3.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Northwest Division;Armoni Brooks;2;1;13.0;1.5;1.0;2.0;3.0;1.0;1.0;0.5;0.0;0.5;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;Northwest Division;Svi Mykhailiuk;7;0;6.0;1.1;0.3;0.4;0.7;0.3;0.3;0.0;0.6;0.4;0.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;Northwest Division;D.J. Wilson;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Northwest Division;Total;10;"";"";113.3;13.4;30.2;43.6;25.0;9.7;4.6;0.0;18.6;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;Eastern Conference;Pascal Siakam;40;40;38.6;23.0;2.0;6.6;8.6;5.3;1.3;0.6;2.6;3.4;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Eastern Conference;Fred VanVleet;39;39;38.3;19.9;0.6;3.7;4.3;6.9;1.6;0.6;2.7;2.5;2.6
+Toronto Raptors;tor;2021 - 2022 Regular Season;Eastern Conference;Gary Trent Jr.;44;43;35.3;17.7;0.3;2.5;2.8;2.3;1.9;0.3;1.1;2.1;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Eastern Conference;O.G. Anunoby;32;32;36.6;17.6;1.6;4.2;5.8;2.9;1.4;0.6;1.8;2.6;1.6
+Toronto Raptors;tor;2021 - 2022 Regular Season;Eastern Conference;Scottie Barnes;46;46;36.4;15.7;2.8;5.1;7.9;3.2;1.1;0.7;2.1;2.9;1.6
+Toronto Raptors;tor;2021 - 2022 Regular Season;Eastern Conference;D.J. Wilson;3;1;17.7;10.0;0.3;5.0;5.3;1.7;1.7;0.3;0.7;2.0;2.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;Eastern Conference;Chris Boucher;51;6;21.6;9.8;1.8;4.0;5.9;0.3;0.7;0.9;0.5;2.4;0.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;Eastern Conference;Goran Dragic;4;2;18.8;9.5;0.5;2.5;3.0;2.0;1.3;0.0;0.0;1.5;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;Eastern Conference;Precious Achiuwa;47;21;24.5;9.0;2.2;5.0;7.1;1.3;0.5;0.7;1.1;2.0;1.1
+Toronto Raptors;tor;2021 - 2022 Regular Season;Eastern Conference;Thaddeus Young;16;0;18.7;6.1;1.8;2.7;4.4;1.9;1.3;0.6;0.8;1.5;2.6
+Toronto Raptors;tor;2021 - 2022 Regular Season;Eastern Conference;Svi Mykhailiuk;36;4;13.9;5.1;0.4;1.3;1.7;0.9;0.6;0.1;0.6;1.0;1.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;Eastern Conference;Juwan Morgan;1;0;27.0;5.0;2.0;2.0;4.0;1.0;0.0;0.0;0.0;3.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;Eastern Conference;Malachi Flynn;28;5;13.5;4.8;0.2;1.3;1.5;1.8;0.4;0.1;0.3;1.0;7.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Eastern Conference;Yuta Watanabe;23;3;12.0;4.5;0.4;2.1;2.5;0.7;0.2;0.5;0.7;1.0;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Eastern Conference;Armoni Brooks;7;1;13.9;4.1;0.6;1.0;1.6;1.0;0.7;0.3;0.6;1.6;1.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;Eastern Conference;Tremont Waters;2;0;21.0;4.0;0.0;2.0;2.0;3.5;2.0;0.0;2.0;1.0;1.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;Eastern Conference;Khem Birch;32;16;17.4;4.0;2.2;2.1;4.3;1.0;0.4;0.4;0.5;1.8;1.9
+Toronto Raptors;tor;2021 - 2022 Regular Season;Eastern Conference;Dalano Banton;40;1;10.9;3.3;0.6;1.4;2.0;1.6;0.5;0.2;0.8;1.1;1.9
+Toronto Raptors;tor;2021 - 2022 Regular Season;Eastern Conference;Daniel Oturu;3;0;9.0;3.0;0.3;1.3;1.7;0.0;0.0;0.7;0.0;0.3;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Eastern Conference;Justin Champagnie;23;0;6.4;1.3;0.8;0.9;1.7;0.3;0.0;0.1;0.1;0.7;2.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;Eastern Conference;Isaac Bonga;8;0;3.1;0.4;0.3;0.0;0.3;0.4;0.1;0.1;0.0;0.5;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;Eastern Conference;Sam Dekker;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Eastern Conference;David Johnson;2;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Eastern Conference;Total;52;"";"";107.8;12.9;32.4;45.3;22.3;8.8;4.6;0.0;19.6;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;Western Conference;Pascal Siakam;28;28;36.9;22.6;1.8;6.7;8.5;5.4;1.3;0.6;2.7;3.1;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Western Conference;Fred VanVleet;26;26;37.2;20.9;0.8;3.9;4.7;6.3;1.9;0.5;2.5;2.5;2.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;Western Conference;Gary Trent Jr.;26;26;34.5;19.4;0.5;2.0;2.6;1.6;1.5;0.3;0.9;1.9;1.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;Western Conference;O.G. Anunoby;16;16;34.9;16.3;1.5;3.5;5.0;2.1;1.6;0.4;1.4;2.9;1.4
+Toronto Raptors;tor;2021 - 2022 Regular Season;Western Conference;Scottie Barnes;28;28;33.7;14.8;2.3;4.6;6.9;3.8;1.1;0.9;1.4;2.1;2.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;Western Conference;Precious Achiuwa;26;7;22.0;9.3;1.7;3.6;5.3;0.9;0.5;0.3;1.2;2.2;0.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;Western Conference;Chris Boucher;29;3;20.3;8.8;3.0;3.8;6.7;0.3;0.5;1.0;0.5;1.8;0.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;Western Conference;Thaddeus Young;10;0;17.6;6.7;1.2;3.2;4.4;1.4;1.1;0.2;1.0;1.9;1.4
+Toronto Raptors;tor;2021 - 2022 Regular Season;Western Conference;Khem Birch;23;12;18.8;5.2;2.2;2.2;4.4;1.0;0.8;0.6;0.5;2.1;1.9
+Toronto Raptors;tor;2021 - 2022 Regular Season;Western Conference;Yuta Watanabe;15;1;11.4;4.0;0.5;1.7;2.3;0.3;0.5;0.3;0.2;0.9;1.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;Western Conference;Justin Champagnie;13;0;10.3;3.9;1.5;1.2;2.6;0.2;0.5;0.2;0.4;1.3;0.6
+Toronto Raptors;tor;2021 - 2022 Regular Season;Western Conference;Svi Mykhailiuk;20;1;10.7;3.6;0.3;1.3;1.6;0.6;0.3;0.1;0.6;0.9;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Western Conference;Malachi Flynn;16;0;10.1;3.4;0.3;1.0;1.3;1.3;0.6;0.1;0.4;1.1;3.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;Western Conference;Dalano Banton;24;0;10.9;3.1;0.6;1.3;1.9;1.5;0.4;0.0;0.8;1.0;1.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;Western Conference;Goran Dragic;1;0;14.0;2.0;0.0;2.0;2.0;1.0;0.0;1.0;1.0;2.0;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Western Conference;Isaac Bonga;7;0;6.3;1.3;0.3;0.4;0.7;0.1;1.0;0.1;0.3;0.9;0.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;Western Conference;Armoni Brooks;6;2;9.5;0.8;0.7;1.2;1.8;1.0;0.3;0.2;0.0;0.5;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;Western Conference;D.J. Wilson;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Western Conference;Total;30;"";"";112.2;14.1;31.3;45.4;21.7;9.3;4.5;0.0;19.6;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pre All-Star;Pascal Siakam;44;44;37.8;21.9;2.1;6.6;8.7;5.2;1.3;0.7;2.8;3.5;1.9
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pre All-Star;Fred VanVleet;50;50;38.4;21.6;0.8;3.8;4.6;7.0;1.6;0.5;2.7;2.3;2.6
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pre All-Star;Gary Trent Jr.;48;47;34.9;18.6;0.3;2.4;2.7;1.9;1.9;0.3;1.0;2.1;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pre All-Star;O.G. Anunoby;42;42;36.7;17.5;1.6;3.9;5.5;2.6;1.5;0.6;1.8;3.0;1.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pre All-Star;Scottie Barnes;49;49;35.4;14.4;2.4;5.0;7.4;3.3;1.0;0.8;1.8;2.7;1.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pre All-Star;Chris Boucher;55;8;20.2;9.1;2.1;3.8;5.9;0.3;0.7;1.0;0.6;2.2;0.6
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pre All-Star;Goran Dragic;5;2;18.0;8.0;0.4;2.4;2.8;1.8;1.0;0.2;0.2;1.6;9.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pre All-Star;D.J. Wilson;3;1;16.0;8.0;0.3;4.3;4.7;1.3;1.7;0.3;0.7;1.7;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pre All-Star;Precious Achiuwa;48;23;23.1;7.5;2.2;4.7;6.9;1.1;0.5;0.6;1.0;2.0;1.2
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pre All-Star;Thaddeus Young;2;0;16.5;7.0;2.0;2.5;4.5;1.0;1.0;0.5;1.5;1.5;0.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pre All-Star;Svi Mykhailiuk;43;5;15.2;5.3;0.5;1.6;2.1;0.9;0.6;0.1;0.7;1.1;1.4
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pre All-Star;Khem Birch;31;8;18.7;5.0;2.4;2.2;4.5;1.1;0.8;0.5;0.5;1.7;2.1
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pre All-Star;Juwan Morgan;1;0;27.0;5.0;2.0;2.0;4.0;1.0;0.0;0.0;0.0;3.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pre All-Star;Yuta Watanabe;25;4;14.6;4.9;0.6;2.3;2.9;0.6;0.3;0.5;0.6;1.3;0.9
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pre All-Star;Tremont Waters;2;0;21.0;4.0;0.0;2.0;2.0;3.5;2.0;0.0;2.0;1.0;1.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pre All-Star;Dalano Banton;47;1;11.8;3.6;0.7;1.6;2.2;1.6;0.5;0.2;1.0;1.2;1.6
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pre All-Star;Daniel Oturu;3;0;9.0;3.0;0.3;1.3;1.7;0.0;0.0;0.7;0.0;0.3;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pre All-Star;Malachi Flynn;34;1;9.0;2.9;0.2;0.9;1.1;1.1;0.4;0.1;0.3;0.9;3.6
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pre All-Star;Justin Champagnie;31;0;8.2;2.5;1.2;0.9;2.1;0.3;0.2;0.1;0.2;1.0;1.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pre All-Star;Isaac Bonga;13;0;5.1;0.8;0.3;0.2;0.5;0.2;0.5;0.2;0.2;0.8;1.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pre All-Star;Sam Dekker;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pre All-Star;David Johnson;2;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Pre All-Star;Total;57;"";"";108.7;13.1;31.7;44.8;22.0;9.2;4.8;12.0;19.8;1.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;Post All-Star;Pascal Siakam;24;24;38.1;24.5;1.5;6.8;8.3;5.5;1.2;0.4;2.5;3.0;2.2
+Toronto Raptors;tor;2021 - 2022 Regular Season;Post All-Star;Gary Trent Jr.;22;22;35.1;17.8;0.5;2.4;2.9;2.2;1.5;0.2;1.2;2.0;1.9
+Toronto Raptors;tor;2021 - 2022 Regular Season;Post All-Star;Scottie Barnes;25;25;35.3;17.1;3.0;4.6;7.7;3.7;1.2;0.6;1.8;2.4;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Post All-Star;Fred VanVleet;15;15;36.1;16.0;0.3;3.6;3.9;5.7;1.9;0.7;2.3;3.0;2.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;Post All-Star;O.G. Anunoby;6;6;31.2;14.7;1.3;4.2;5.5;2.5;1.0;0.2;1.0;1.2;2.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;Post All-Star;Precious Achiuwa;25;5;24.7;12.2;1.6;4.0;5.7;1.1;0.5;0.5;1.5;2.2;0.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;Post All-Star;Chris Boucher;25;1;23.1;10.1;2.5;4.2;6.8;0.3;0.5;0.7;0.4;2.2;0.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;Post All-Star;Malachi Flynn;10;4;23.2;9.1;0.3;2.2;2.5;3.4;0.6;0.1;0.3;1.3;11.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;Post All-Star;Thaddeus Young;24;0;18.4;6.3;1.5;2.9;4.4;1.8;1.2;0.4;0.8;1.7;2.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;Post All-Star;D.J. Wilson;1;0;6.0;6.0;0.0;2.0;2.0;1.0;0.0;0.0;0.0;1.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;Post All-Star;Khem Birch;24;20;17.2;3.8;2.0;2.1;4.1;0.9;0.3;0.5;0.5;2.2;1.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;Post All-Star;Yuta Watanabe;13;0;6.3;3.2;0.2;1.3;1.5;0.5;0.3;0.3;0.2;0.4;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Post All-Star;Armoni Brooks;13;3;11.8;2.6;0.6;1.1;1.7;1.0;0.5;0.2;0.3;1.1;3.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;Post All-Star;Svi Mykhailiuk;13;0;4.8;2.1;0.0;0.2;0.2;0.4;0.2;0.0;0.3;0.5;1.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;Post All-Star;Dalano Banton;17;0;8.2;2.1;0.4;0.8;1.2;1.4;0.2;0.1;0.4;0.7;3.4
+Toronto Raptors;tor;2021 - 2022 Regular Season;Post All-Star;Justin Champagnie;5;0;5.0;1.0;0.0;1.4;1.4;0.4;0.2;0.0;0.2;0.0;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;Post All-Star;Isaac Bonga;2;0;1.0;0.5;0.0;0.0;0.0;0.5;0.5;0.0;0.0;0.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;Post All-Star;Total;25;"";"";111.0;13.8;32.6;46.4;22.3;8.5;4.1;10.9;19.1;2.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;3+ Days Rest;Fred VanVleet;7;7;37.7;19.9;1.0;3.4;4.4;6.6;1.7;1.0;2.6;2.0;2.6
+Toronto Raptors;tor;2021 - 2022 Regular Season;3+ Days Rest;Pascal Siakam;3;3;31.3;17.0;1.3;3.0;4.3;3.7;1.0;1.0;1.3;2.3;2.8
+Toronto Raptors;tor;2021 - 2022 Regular Season;3+ Days Rest;Scottie Barnes;6;6;33.0;16.0;3.2;3.8;7.0;2.3;1.0;0.5;2.5;2.5;0.9
+Toronto Raptors;tor;2021 - 2022 Regular Season;3+ Days Rest;O.G. Anunoby;4;4;31.0;14.5;1.8;3.5;5.3;1.5;1.8;0.5;1.3;2.0;1.2
+Toronto Raptors;tor;2021 - 2022 Regular Season;3+ Days Rest;Goran Dragic;2;2;25.0;12.5;1.0;3.0;4.0;3.5;1.0;0.0;0.0;1.5;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;3+ Days Rest;Gary Trent Jr.;7;6;32.3;11.4;0.3;2.3;2.6;2.4;2.1;0.4;1.6;1.9;1.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;3+ Days Rest;Chris Boucher;6;2;19.0;9.2;2.0;3.0;5.0;0.8;0.2;1.0;1.3;0.8;0.6
+Toronto Raptors;tor;2021 - 2022 Regular Season;3+ Days Rest;Precious Achiuwa;5;1;19.6;8.4;1.4;3.6;5.0;0.8;0.8;0.2;1.2;1.2;0.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;3+ Days Rest;Tremont Waters;1;0;35.0;8.0;0.0;3.0;3.0;6.0;3.0;0.0;4.0;2.0;1.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;3+ Days Rest;D.J. Wilson;3;1;13.7;7.0;0.3;3.0;3.3;1.7;1.7;0.3;0.7;1.0;2.5
+Toronto Raptors;tor;2021 - 2022 Regular Season;3+ Days Rest;Juwan Morgan;1;0;27.0;5.0;2.0;2.0;4.0;1.0;0.0;0.0;0.0;3.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;3+ Days Rest;Yuta Watanabe;13;2;11.5;4.7;0.7;2.1;2.8;0.2;0.6;0.5;0.7;0.8;0.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;3+ Days Rest;Thaddeus Young;2;0;17.0;4.5;3.0;1.5;4.5;1.5;0.5;0.0;1.5;0.5;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;3+ Days Rest;Daniel Oturu;2;0;10.5;4.5;0.5;1.0;1.5;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;3+ Days Rest;Khem Birch;6;2;14.8;3.3;2.2;2.2;4.3;0.7;0.0;0.2;0.5;1.5;1.3
+Toronto Raptors;tor;2021 - 2022 Regular Season;3+ Days Rest;Dalano Banton;9;1;9.2;3.0;0.3;1.4;1.8;1.2;0.4;0.0;1.0;0.8;1.2
+Toronto Raptors;tor;2021 - 2022 Regular Season;3+ Days Rest;Malachi Flynn;13;1;9.2;2.3;0.1;0.9;1.0;1.2;0.2;0.0;0.3;0.9;4.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;3+ Days Rest;Svi Mykhailiuk;10;1;9.0;2.2;0.1;1.4;1.5;0.4;0.3;0.1;0.6;1.0;0.7
+Toronto Raptors;tor;2021 - 2022 Regular Season;3+ Days Rest;Armoni Brooks;5;1;8.6;1.6;0.2;1.4;1.6;0.6;0.4;0.0;0.0;1.0;INF
+Toronto Raptors;tor;2021 - 2022 Regular Season;3+ Days Rest;Justin Champagnie;15;0;5.1;1.3;0.9;0.7;1.6;0.2;0.1;0.0;0.2;0.5;1.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;3+ Days Rest;Isaac Bonga;9;0;2.7;0.6;0.3;0.1;0.4;0.3;0.4;0.0;0.1;0.2;3.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;3+ Days Rest;Sam Dekker;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;3+ Days Rest;David Johnson;2;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Toronto Raptors;tor;2021 - 2022 Regular Season;3+ Days Rest;Total;4;"";"";98.5;13.0;30.5;43.5;20.5;10.0;3.5;16.5;16.8;1.2

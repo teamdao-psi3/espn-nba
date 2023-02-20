@@ -1,0 +1,835 @@
+teamName;teamCode;season;split;player_name;GP;GS;MIN;PTS;ORB;DR;REB;AST;STL;BLK;TO;PF;AST_TO
+New York Knicks;ny;2021 - 2022 Regular Season;All Splits;Julius Randle;72;72;35.3;20.1;1.7;8.2;9.9;5.1;0.7;0.5;3.4;2.8;1.5
+New York Knicks;ny;2021 - 2022 Regular Season;All Splits;RJ Barrett;70;70;34.5;20.0;0.9;4.9;5.8;3.0;0.6;0.2;2.2;2.0;1.4
+New York Knicks;ny;2021 - 2022 Regular Season;All Splits;Evan Fournier;80;80;29.5;14.1;0.4;2.2;2.6;2.1;1.0;0.3;1.3;2.3;1.6
+New York Knicks;ny;2021 - 2022 Regular Season;All Splits;Derrick Rose;26;4;24.5;12.0;0.8;2.2;3.0;4.0;0.8;0.5;1.5;0.6;2.6
+New York Knicks;ny;2021 - 2022 Regular Season;All Splits;Alec Burks;81;44;28.6;11.7;0.6;4.3;4.9;3.0;1.0;0.3;1.1;2.7;2.6
+New York Knicks;ny;2021 - 2022 Regular Season;All Splits;Kemba Walker;37;37;25.6;11.6;0.4;2.6;3.0;3.5;0.7;0.2;1.3;1.0;2.7
+New York Knicks;ny;2021 - 2022 Regular Season;All Splits;Immanuel Quickley;78;3;23.1;11.3;0.4;2.8;3.2;3.5;0.7;0.0;1.3;2.1;2.8
+New York Knicks;ny;2021 - 2022 Regular Season;All Splits;Obi Toppin;72;10;17.1;9.0;1.0;2.8;3.7;1.1;0.3;0.5;0.8;1.4;1.4
+New York Knicks;ny;2021 - 2022 Regular Season;All Splits;Mitchell Robinson;72;62;25.7;8.5;4.1;4.5;8.6;0.5;0.8;1.8;0.8;2.7;0.6
+New York Knicks;ny;2021 - 2022 Regular Season;All Splits;Cam Reddish;15;0;14.4;6.1;0.3;1.1;1.4;0.7;0.8;0.3;0.9;1.0;0.8
+New York Knicks;ny;2021 - 2022 Regular Season;All Splits;Quentin Grimes;46;6;17.1;6.0;0.5;1.5;2.0;1.0;0.7;0.2;0.6;1.6;1.6
+New York Knicks;ny;2021 - 2022 Regular Season;All Splits;Taj Gibson;52;4;18.2;4.4;1.7;2.7;4.4;0.6;0.4;0.8;0.5;2.6;1.2
+New York Knicks;ny;2021 - 2022 Regular Season;All Splits;Kevin Knox II;13;0;8.5;3.6;0.6;1.1;1.7;0.2;0.2;0.1;0.4;0.4;0.6
+New York Knicks;ny;2021 - 2022 Regular Season;All Splits;Nerlens Noel;25;11;22.5;3.4;1.9;3.7;5.6;0.9;1.2;1.2;0.8;2.7;1.2
+New York Knicks;ny;2021 - 2022 Regular Season;All Splits;Miles McBride;40;2;9.3;2.2;0.1;1.0;1.1;1.0;0.4;0.0;0.1;1.1;8.2
+New York Knicks;ny;2021 - 2022 Regular Season;All Splits;Jericho Sims;41;5;13.5;2.2;1.5;2.6;4.1;0.5;0.3;0.5;0.5;1.6;1.1
+New York Knicks;ny;2021 - 2022 Regular Season;All Splits;Damyean Dotson;2;0;10.5;2.0;0.0;1.0;1.0;0.5;0.0;0.0;0.0;0.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;All Splits;Wayne Selden;3;0;6.3;1.7;0.0;0.3;0.3;0.3;0.0;0.0;0.0;0.3;INF
+New York Knicks;ny;2021 - 2022 Regular Season;All Splits;Ryan Arcidiacono;10;0;7.6;1.6;0.0;0.8;0.8;0.4;0.1;0.0;0.3;0.5;1.3
+New York Knicks;ny;2021 - 2022 Regular Season;All Splits;Danuel House Jr.;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;All Splits;Matt Mooney;1;0;2.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;1.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;All Splits;Tyler Hall;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;All Splits;Feron Hunt;2;0;4.0;0.0;0.5;0.0;0.5;0.5;0.5;0.0;0.5;0.5;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;All Splits;Total;82;"";"";106.5;11.5;34.6;46.1;21.9;7.0;4.9;12.4;20.4;1.8
+New York Knicks;ny;2021 - 2022 Regular Season;Home;RJ Barrett;33;33;35.1;19.7;0.8;5.0;5.8;2.9;0.6;0.3;2.4;2.1;1.2
+New York Knicks;ny;2021 - 2022 Regular Season;Home;Julius Randle;37;37;35.8;19.1;1.6;8.5;10.1;5.3;0.6;0.7;3.5;2.8;1.5
+New York Knicks;ny;2021 - 2022 Regular Season;Home;Evan Fournier;41;41;30.8;15.1;0.5;2.4;2.8;2.5;1.1;0.3;1.1;2.0;2.2
+New York Knicks;ny;2021 - 2022 Regular Season;Home;Derrick Rose;13;3;25.8;13.5;0.7;2.2;2.8;4.4;1.2;0.6;2.0;0.4;2.2
+New York Knicks;ny;2021 - 2022 Regular Season;Home;Kemba Walker;19;19;25.9;11.9;0.5;2.9;3.4;3.8;0.6;0.3;1.2;1.0;3.1
+New York Knicks;ny;2021 - 2022 Regular Season;Home;Immanuel Quickley;38;2;22.5;11.7;0.4;2.6;2.9;3.8;0.6;0.1;1.4;2.3;2.8
+New York Knicks;ny;2021 - 2022 Regular Season;Home;Alec Burks;40;22;29.0;11.4;0.5;4.1;4.6;2.6;1.0;0.2;1.0;2.5;2.5
+New York Knicks;ny;2021 - 2022 Regular Season;Home;Obi Toppin;38;4;16.5;8.7;0.9;2.7;3.6;0.9;0.3;0.4;0.9;1.4;1.1
+New York Knicks;ny;2021 - 2022 Regular Season;Home;Mitchell Robinson;38;34;26.0;8.6;3.9;4.3;8.2;0.6;0.7;2.1;0.8;2.8;0.7
+New York Knicks;ny;2021 - 2022 Regular Season;Home;Quentin Grimes;24;3;17.8;6.5;0.5;1.6;2.1;1.0;0.9;0.2;0.8;1.8;1.3
+New York Knicks;ny;2021 - 2022 Regular Season;Home;Wayne Selden;1;0;9.0;5.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;0.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;Home;Kevin Knox II;7;0;9.6;4.6;0.6;1.3;1.9;0.3;0.3;0.0;0.1;0.3;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;Home;Cam Reddish;6;0;10.7;4.5;0.0;0.8;0.8;0.7;0.7;0.2;0.5;0.7;1.3
+New York Knicks;ny;2021 - 2022 Regular Season;Home;Ryan Arcidiacono;3;0;16.3;4.3;0.0;1.3;1.3;1.0;0.0;0.0;0.7;1.0;1.5
+New York Knicks;ny;2021 - 2022 Regular Season;Home;Nerlens Noel;12;4;24.7;3.4;1.7;3.8;5.5;1.0;1.6;1.5;0.8;2.6;1.2
+New York Knicks;ny;2021 - 2022 Regular Season;Home;Taj Gibson;25;1;16.0;3.1;1.6;2.4;3.9;0.6;0.3;0.7;0.5;2.5;1.3
+New York Knicks;ny;2021 - 2022 Regular Season;Home;Damyean Dotson;2;0;10.5;2.0;0.0;1.0;1.0;0.5;0.0;0.0;0.0;0.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;Home;Jericho Sims;20;2;13.7;1.6;1.6;2.6;4.2;0.5;0.3;0.5;0.5;1.4;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;Home;Miles McBride;17;0;5.5;1.5;0.1;0.9;1.0;0.6;0.2;0.0;0.0;0.4;INF
+New York Knicks;ny;2021 - 2022 Regular Season;Home;Danuel House Jr.;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;Home;Matt Mooney;1;0;2.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;1.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;Home;Tyler Hall;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;Home;Feron Hunt;1;0;7.0;0.0;1.0;0.0;1.0;1.0;0.0;0.0;1.0;0.0;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;Home;Total;41;"";"";106.0;10.9;34.7;45.6;22.2;6.8;5.3;12.7;19.8;1.8
+New York Knicks;ny;2021 - 2022 Regular Season;Away;Julius Randle;35;35;34.9;21.1;1.9;7.9;9.8;5.0;0.9;0.3;3.3;2.9;1.5
+New York Knicks;ny;2021 - 2022 Regular Season;Away;RJ Barrett;37;37;34.0;20.3;1.0;4.8;5.8;3.1;0.6;0.2;2.0;2.0;1.5
+New York Knicks;ny;2021 - 2022 Regular Season;Away;Evan Fournier;39;39;28.1;13.0;0.4;2.0;2.4;1.8;0.9;0.2;1.5;2.5;1.2
+New York Knicks;ny;2021 - 2022 Regular Season;Away;Alec Burks;41;22;28.2;11.9;0.7;4.5;5.2;3.3;1.1;0.4;1.2;2.8;2.7
+New York Knicks;ny;2021 - 2022 Regular Season;Away;Kemba Walker;18;18;25.3;11.4;0.3;2.3;2.6;3.3;0.8;0.1;1.4;1.0;2.4
+New York Knicks;ny;2021 - 2022 Regular Season;Away;Immanuel Quickley;40;1;23.7;11.0;0.4;3.0;3.4;3.2;0.8;0.0;1.2;2.0;2.8
+New York Knicks;ny;2021 - 2022 Regular Season;Away;Derrick Rose;13;1;23.2;10.4;0.9;2.2;3.2;3.5;0.5;0.3;1.0;0.8;3.5
+New York Knicks;ny;2021 - 2022 Regular Season;Away;Obi Toppin;34;6;17.7;9.4;1.1;2.8;3.9;1.2;0.4;0.5;0.7;1.4;1.8
+New York Knicks;ny;2021 - 2022 Regular Season;Away;Mitchell Robinson;34;28;25.3;8.4;4.3;4.6;8.9;0.5;0.9;1.6;0.9;2.6;0.6
+New York Knicks;ny;2021 - 2022 Regular Season;Away;Cam Reddish;9;0;16.9;7.1;0.6;1.2;1.8;0.7;0.9;0.3;1.1;1.2;0.6
+New York Knicks;ny;2021 - 2022 Regular Season;Away;Taj Gibson;27;3;20.2;5.6;1.8;3.0;4.9;0.6;0.6;0.9;0.6;2.8;1.1
+New York Knicks;ny;2021 - 2022 Regular Season;Away;Quentin Grimes;22;3;16.3;5.4;0.5;1.4;2.0;0.9;0.5;0.3;0.4;1.3;2.1
+New York Knicks;ny;2021 - 2022 Regular Season;Away;Nerlens Noel;13;7;20.5;3.4;2.2;3.6;5.8;0.8;0.8;1.0;0.8;2.8;1.1
+New York Knicks;ny;2021 - 2022 Regular Season;Away;Jericho Sims;21;3;13.4;2.8;1.4;2.7;4.1;0.6;0.3;0.6;0.5;1.9;1.1
+New York Knicks;ny;2021 - 2022 Regular Season;Away;Miles McBride;23;2;12.1;2.7;0.1;1.0;1.1;1.3;0.5;0.0;0.2;1.7;6.2
+New York Knicks;ny;2021 - 2022 Regular Season;Away;Kevin Knox II;6;0;7.3;2.5;0.7;0.8;1.5;0.2;0.0;0.2;0.7;0.5;0.3
+New York Knicks;ny;2021 - 2022 Regular Season;Away;Ryan Arcidiacono;7;0;3.9;0.4;0.0;0.6;0.6;0.1;0.1;0.0;0.1;0.3;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;Away;Feron Hunt;1;0;2.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;1.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;Away;Wayne Selden;2;0;5.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;Away;Total;41;"";"";107.0;12.1;34.6;46.6;21.5;7.1;4.4;12.1;21.0;1.8
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Boston Celtics;Evan Fournier;3;3;43.0;35.0;0.7;5.7;6.3;2.7;2.3;1.0;2.3;3.7;1.1
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Boston Celtics;Julius Randle;4;4;40.8;22.5;1.0;8.3;9.3;6.0;0.8;1.0;4.3;2.8;1.4
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Boston Celtics;Kemba Walker;2;2;36.5;19.5;1.0;6.0;7.0;3.0;0.5;0.0;2.5;5.0;1.2
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Boston Celtics;RJ Barrett;3;3;41.0;17.0;0.3;4.3;4.7;3.3;0.7;0.7;1.0;3.3;3.3
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Boston Celtics;Immanuel Quickley;3;1;23.3;12.0;0.0;1.0;1.0;2.7;1.0;0.0;1.0;2.0;2.7
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Boston Celtics;Derrick Rose;1;0;22.0;9.0;0.0;4.0;4.0;5.0;2.0;1.0;2.0;0.0;2.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Boston Celtics;Alec Burks;4;3;32.3;8.8;0.8;4.3;5.0;3.3;1.5;0.3;1.3;1.8;2.6
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Boston Celtics;Mitchell Robinson;4;3;28.0;8.0;4.5;4.8;9.3;0.8;1.0;0.8;1.3;2.0;0.6
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Boston Celtics;Obi Toppin;3;0;15.7;4.7;0.7;2.7;3.3;0.0;0.0;0.3;0.7;0.7;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Boston Celtics;Nerlens Noel;1;1;25.0;4.0;1.0;7.0;8.0;1.0;2.0;3.0;0.0;2.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Boston Celtics;Taj Gibson;3;0;20.3;2.0;1.0;0.7;1.7;1.0;1.0;0.7;0.3;1.3;3.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Boston Celtics;Quentin Grimes;3;0;11.3;2.0;0.3;1.7;2.0;0.0;0.0;0.3;0.3;0.7;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Boston Celtics;Jericho Sims;2;0;4.0;0.5;0.0;0.5;0.5;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Boston Celtics;Kevin Knox II;1;0;2.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Boston Celtics;Miles McBride;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Boston Celtics;Wayne Selden;1;0;9.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Boston Celtics;Total;4;"";"";107.0;9.3;35.5;44.8;20.3;8.3;5.3;12.8;18.8;1.6
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Brooklyn Nets;Julius Randle;3;3;38.0;27.0;0.0;7.7;7.7;5.0;1.3;0.7;3.3;3.3;1.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Brooklyn Nets;RJ Barrett;3;3;31.7;17.0;1.0;3.0;4.0;3.3;1.0;0.0;2.3;1.7;1.4
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Brooklyn Nets;Derrick Rose;1;0;35.0;16.0;1.0;4.0;5.0;9.0;0.0;0.0;0.0;3.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Brooklyn Nets;Evan Fournier;4;4;28.8;15.5;0.3;1.8;2.0;2.8;0.5;0.3;2.0;1.8;1.4
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Brooklyn Nets;Alec Burks;4;3;34.8;14.3;0.3;4.8;5.0;4.5;1.5;0.3;2.3;3.3;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Brooklyn Nets;Obi Toppin;4;1;18.5;10.8;1.3;2.5;3.8;1.3;0.3;1.0;0.5;2.0;2.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Brooklyn Nets;Immanuel Quickley;4;0;27.5;10.5;1.8;4.0;5.8;3.8;1.0;0.0;1.3;1.5;3.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Brooklyn Nets;Kemba Walker;1;1;21.0;9.0;0.0;0.0;0.0;3.0;0.0;0.0;1.0;0.0;3.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Brooklyn Nets;Jericho Sims;2;1;29.0;8.0;3.5;8.0;11.5;2.0;0.5;2.0;1.0;3.5;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Brooklyn Nets;Mitchell Robinson;3;3;23.3;5.7;3.0;3.3;6.3;0.7;0.7;2.7;0.3;4.3;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Brooklyn Nets;Cam Reddish;1;0;13.0;5.0;0.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Brooklyn Nets;Quentin Grimes;2;1;17.5;4.0;0.5;0.5;1.0;1.0;0.0;0.5;0.5;1.0;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Brooklyn Nets;Taj Gibson;3;0;15.0;3.7;1.7;3.0;4.7;0.3;0.0;0.7;0.0;1.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Brooklyn Nets;Miles McBride;2;0;9.0;1.5;0.0;0.5;0.5;1.0;0.0;0.0;0.0;0.5;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Brooklyn Nets;Nerlens Noel;1;0;19.0;0.0;1.0;2.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Brooklyn Nets;Total;4;"";"";105.3;10.3;31.8;42.0;24.5;6.0;5.8;11.5;19.5;2.1
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Julius Randle;4;4;35.5;21.8;2.8;7.0;9.8;5.0;0.5;0.0;2.5;2.0;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Philadelphia 76ers;RJ Barrett;4;4;37.5;19.8;1.0;6.0;7.0;4.5;0.5;0.3;3.5;2.0;1.3
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Evan Fournier;4;4;30.5;14.0;0.3;2.3;2.5;2.0;1.0;0.5;0.8;2.5;2.7
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Kemba Walker;2;2;27.5;13.5;0.0;3.0;3.0;5.0;1.5;0.5;0.5;1.5;10.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Immanuel Quickley;4;0;19.5;12.5;0.5;1.3;1.8;1.8;0.5;0.0;1.8;0.5;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Derrick Rose;2;0;20.5;9.5;1.5;2.0;3.5;1.5;1.0;0.5;2.5;0.5;0.6
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Mitchell Robinson;3;3;22.3;7.7;2.3;3.3;5.7;0.7;0.3;0.3;0.7;5.0;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Alec Burks;4;2;25.8;7.0;0.8;5.5;6.3;1.8;0.5;0.3;0.5;1.8;3.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Cam Reddish;2;0;20.0;6.5;0.0;2.5;2.5;2.0;1.5;0.5;1.5;3.0;1.3
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Nerlens Noel;1;1;12.0;6.0;2.0;0.0;2.0;0.0;0.0;0.0;0.0;2.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Obi Toppin;4;0;13.0;5.8;0.8;1.8;2.5;1.5;0.8;0.5;0.8;0.8;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Taj Gibson;3;0;21.3;5.3;2.3;2.3;4.7;1.0;0.3;1.0;0.0;3.3;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Miles McBride;1;0;1.0;3.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Jericho Sims;2;0;15.5;1.0;3.0;5.0;8.0;1.0;0.5;0.5;0.0;5.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Ryan Arcidiacono;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Total;4;"";"";108.0;12.3;34.5;46.8;22.5;6.5;3.5;12.5;21.3;1.8
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Toronto Raptors;RJ Barrett;3;3;32.7;21.7;1.0;4.3;5.3;1.3;0.7;0.0;2.7;2.0;0.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Toronto Raptors;Obi Toppin;4;2;30.5;21.5;1.0;6.3;7.3;2.5;0.3;1.0;1.8;2.0;1.4
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Toronto Raptors;Julius Randle;2;2;37.0;17.5;1.5;10.0;11.5;5.0;0.5;0.5;3.0;2.0;1.7
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Toronto Raptors;Kemba Walker;1;1;28.0;15.0;0.0;3.0;3.0;3.0;0.0;1.0;2.0;1.0;1.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Toronto Raptors;Immanuel Quickley;4;1;28.3;13.8;0.5;4.0;4.5;5.8;0.0;0.0;1.8;2.8;3.3
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Toronto Raptors;Quentin Grimes;1;0;22.0;13.0;1.0;0.0;1.0;2.0;4.0;0.0;1.0;2.0;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Toronto Raptors;Evan Fournier;4;4;27.0;11.8;0.8;1.3;2.0;1.8;0.8;0.5;1.3;1.5;1.4
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Toronto Raptors;Derrick Rose;2;0;26.5;7.5;1.0;2.5;3.5;2.5;0.5;0.0;2.5;0.5;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Toronto Raptors;Kevin Knox II;1;0;18.0;7.0;1.0;3.0;4.0;0.0;0.0;1.0;2.0;2.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Toronto Raptors;Alec Burks;4;2;29.8;6.8;0.8;3.3;4.0;3.8;2.3;0.3;1.5;3.8;2.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Toronto Raptors;Nerlens Noel;1;1;13.0;6.0;1.0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Toronto Raptors;Ryan Arcidiacono;1;0;23.0;5.0;0.0;1.0;1.0;2.0;0.0;0.0;1.0;3.0;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Toronto Raptors;Mitchell Robinson;2;1;23.0;5.0;3.5;6.5;10.0;1.5;0.0;1.5;1.0;2.0;1.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Toronto Raptors;Jericho Sims;2;1;22.5;3.0;1.5;6.0;7.5;0.5;1.0;0.0;2.0;1.5;0.3
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Toronto Raptors;Taj Gibson;3;1;19.0;2.3;1.3;2.0;3.3;1.0;0.3;0.7;1.0;1.3;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Toronto Raptors;Miles McBride;1;1;15.0;2.0;0.0;0.0;0.0;3.0;0.0;0.0;1.0;3.0;3.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Toronto Raptors;Feron Hunt;1;0;7.0;0.0;1.0;0.0;1.0;1.0;0.0;0.0;1.0;0.0;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Toronto Raptors;Total;4;"";"";100.3;9.5;34.0;43.5;23.0;6.0;3.8;15.3;18.3;1.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Chicago Bulls;Julius Randle;4;4;35.0;20.5;3.0;9.8;12.8;5.5;0.3;0.8;4.8;3.5;1.2
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Chicago Bulls;RJ Barrett;3;3;36.7;19.0;1.3;6.7;8.0;2.0;1.0;0.3;1.0;2.3;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Chicago Bulls;Alec Burks;4;2;32.8;15.5;0.8;4.0;4.8;1.8;0.8;0.0;1.8;3.5;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Chicago Bulls;Kemba Walker;2;2;23.5;14.0;0.5;2.5;3.0;3.0;1.0;0.5;0.5;0.5;6.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Chicago Bulls;Derrick Rose;3;0;25.0;12.3;0.3;2.3;2.7;3.3;0.3;1.3;1.7;1.7;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Chicago Bulls;Mitchell Robinson;3;3;31.0;11.3;4.3;4.3;8.7;0.7;0.3;3.3;1.0;3.7;0.7
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Chicago Bulls;Obi Toppin;4;0;16.3;10.0;1.0;2.3;3.3;0.8;0.5;0.8;0.5;1.8;1.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Chicago Bulls;Immanuel Quickley;4;1;25.8;9.3;0.0;1.8;1.8;2.0;1.0;0.0;0.5;2.3;4.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Chicago Bulls;Evan Fournier;4;4;28.3;8.5;0.0;1.5;1.5;1.0;1.5;0.3;1.0;1.8;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Chicago Bulls;Nerlens Noel;1;1;26.0;6.0;3.0;2.0;5.0;2.0;0.0;3.0;1.0;5.0;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Chicago Bulls;Taj Gibson;2;0;11.0;4.0;2.0;1.5;3.5;0.0;0.0;1.5;1.5;3.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Chicago Bulls;Kevin Knox II;1;0;4.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Chicago Bulls;Miles McBride;1;0;7.0;3.0;0.0;3.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Chicago Bulls;Jericho Sims;2;0;8.5;0.0;0.5;0.5;1.0;0.0;0.0;0.5;0.0;0.5;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Chicago Bulls;Quentin Grimes;2;0;3.0;0.0;0.0;0.5;0.5;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Chicago Bulls;Total;4;"";"";107.8;11.5;33.0;44.5;17.5;5.8;7.5;12.5;22.0;1.4
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Julius Randle;2;2;35.0;18.5;0.5;6.5;7.0;5.5;2.0;0.5;3.0;3.0;1.8
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Derrick Rose;1;1;29.0;17.0;0.0;1.0;1.0;5.0;1.0;0.0;0.0;0.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Obi Toppin;3;1;19.0;14.7;1.0;3.0;4.0;1.7;0.7;0.0;1.3;3.0;1.3
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;RJ Barrett;3;3;32.7;14.0;0.7;3.3;4.0;2.3;1.0;0.0;2.7;1.3;0.9
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Evan Fournier;3;3;26.0;13.7;0.3;1.0;1.3;1.3;1.0;0.0;1.0;0.3;1.3
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Immanuel Quickley;3;0;25.3;10.7;0.3;2.7;3.0;6.0;1.3;0.0;1.0;1.7;6.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Quentin Grimes;2;0;18.0;9.0;0.5;0.5;1.0;0.5;0.0;0.5;0.0;0.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Kemba Walker;1;1;20.0;8.0;0.0;1.0;1.0;1.0;1.0;0.0;2.0;1.0;0.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Mitchell Robinson;2;2;22.5;7.5;2.5;2.0;4.5;0.5;0.5;4.0;0.0;2.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Taj Gibson;2;0;21.5;7.0;1.5;4.5;6.0;0.5;0.5;0.0;0.5;2.5;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Alec Burks;3;1;22.7;7.0;0.3;2.7;3.0;1.7;0.3;0.0;0.3;3.3;5.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Ryan Arcidiacono;1;0;22.0;5.0;0.0;2.0;2.0;1.0;0.0;0.0;1.0;0.0;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Nerlens Noel;2;1;29.5;3.5;2.0;7.5;9.5;0.5;2.5;1.5;1.0;3.5;0.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Jericho Sims;2;0;8.5;1.0;1.0;2.0;3.0;0.0;0.0;0.5;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Kevin Knox II;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Miles McBride;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Total;3;"";"";101.0;8.0;29.3;37.3;20.3;8.7;4.7;10.3;17.3;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Detroit Pistons;Alec Burks;3;2;33.7;20.0;0.3;5.0;5.3;3.3;1.3;0.3;1.3;1.7;2.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Detroit Pistons;RJ Barrett;2;2;31.0;18.0;1.0;7.0;8.0;1.0;0.5;0.5;1.5;1.5;0.7
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Detroit Pistons;Immanuel Quickley;2;0;33.0;18.0;0.0;3.5;3.5;2.5;0.5;0.0;2.0;2.0;1.3
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Detroit Pistons;Evan Fournier;2;2;34.0;16.5;0.5;2.0;2.5;3.5;1.0;0.5;1.5;2.0;2.3
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Detroit Pistons;Julius Randle;3;3;32.0;15.3;2.3;7.0;9.3;4.3;1.7;0.0;3.7;2.7;1.2
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Detroit Pistons;Kemba Walker;2;2;30.0;11.5;0.5;4.5;5.0;3.5;0.5;0.0;2.5;0.5;1.4
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Detroit Pistons;Obi Toppin;2;0;19.5;9.5;0.5;2.0;2.5;1.5;1.0;0.5;0.0;1.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Detroit Pistons;Mitchell Robinson;3;2;24.7;9.3;5.3;4.7;10.0;0.7;0.7;2.7;2.0;3.0;0.3
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Detroit Pistons;Taj Gibson;2;0;23.5;6.5;2.5;4.0;6.5;2.0;0.5;2.5;0.0;2.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Detroit Pistons;Wayne Selden;1;0;9.0;5.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;0.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Detroit Pistons;Nerlens Noel;1;1;23.0;2.0;1.0;2.0;3.0;2.0;1.0;2.0;1.0;4.0;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Detroit Pistons;Jericho Sims;1;0;19.0;2.0;1.0;7.0;8.0;1.0;1.0;1.0;1.0;0.0;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Detroit Pistons;Damyean Dotson;1;0;4.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Detroit Pistons;Quentin Grimes;1;1;13.0;0.0;0.0;1.0;1.0;0.0;1.0;0.0;1.0;2.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Detroit Pistons;Miles McBride;2;0;20.5;0.0;0.5;3.0;3.5;1.5;1.0;0.0;0.5;1.5;3.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Detroit Pistons;Total;3;"";"";101.0;12.3;38.0;50.3;20.0;8.0;6.7;13.3;16.3;1.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Indiana Pacers;RJ Barrett;4;4;35.3;21.5;1.5;3.8;5.3;2.5;0.3;0.0;2.0;2.8;1.3
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Indiana Pacers;Julius Randle;4;4;35.8;19.3;1.8;10.5;12.3;3.5;1.0;0.5;4.0;2.3;0.9
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Indiana Pacers;Alec Burks;4;2;27.3;11.8;0.5;2.3;2.8;1.8;1.8;0.5;1.0;1.3;1.8
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Indiana Pacers;Derrick Rose;3;0;22.7;11.7;1.3;2.7;4.0;5.7;0.3;0.3;1.0;0.3;5.7
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Indiana Pacers;Immanuel Quickley;4;0;21.3;10.5;0.5;2.8;3.3;1.0;0.5;0.0;1.0;2.3;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Indiana Pacers;Kemba Walker;2;2;24.5;10.0;0.5;2.0;2.5;3.0;0.5;0.0;0.0;0.5;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Indiana Pacers;Evan Fournier;4;4;24.3;7.0;0.8;2.0;2.8;2.3;0.5;0.3;0.8;2.5;3.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Indiana Pacers;Obi Toppin;4;0;13.8;6.5;0.8;1.8;2.5;0.3;0.0;0.3;0.3;1.5;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Indiana Pacers;Mitchell Robinson;4;2;22.0;4.3;1.5;3.0;4.5;0.5;0.0;2.0;0.0;2.8;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Indiana Pacers;Quentin Grimes;2;0;11.5;3.0;0.0;1.5;1.5;0.5;0.0;0.5;0.0;1.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Indiana Pacers;Taj Gibson;3;2;23.0;2.0;3.0;3.0;6.0;1.3;0.3;0.3;1.0;3.3;1.3
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Indiana Pacers;Nerlens Noel;1;0;18.0;2.0;3.0;3.0;6.0;2.0;0.0;1.0;0.0;2.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Indiana Pacers;Miles McBride;2;0;3.5;2.0;0.0;0.5;0.5;0.5;0.5;0.0;0.0;0.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Indiana Pacers;Jericho Sims;1;0;4.0;0.0;1.0;0.0;1.0;1.0;0.0;1.0;0.0;0.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Indiana Pacers;Kevin Knox II;1;0;4.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Indiana Pacers;Total;4;"";"";99.0;11.8;33.0;44.8;19.8;5.0;4.8;10.5;19.3;1.9
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Derrick Rose;3;1;32.3;21.0;1.0;3.3;4.3;6.0;2.7;0.3;0.7;0.0;9.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Milwaukee Bucks;RJ Barrett;3;3;31.7;17.3;1.3;3.3;4.7;2.3;1.0;0.0;1.7;2.0;1.4
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Julius Randle;4;4;33.3;16.3;2.0;7.5;9.5;3.8;0.0;1.0;4.0;2.5;0.9
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Quentin Grimes;3;1;19.7;12.7;0.0;1.7;1.7;1.0;1.3;0.3;2.3;1.3;0.4
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Immanuel Quickley;4;0;20.8;10.8;0.3;1.8;2.0;3.0;1.5;0.0;0.5;1.8;6.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Evan Fournier;4;4;25.8;10.0;1.0;1.8;2.8;2.0;0.8;0.3;0.8;2.0;2.7
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Kevin Knox II;2;0;15.0;9.5;2.0;1.5;3.5;0.5;0.5;0.0;0.5;0.0;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Obi Toppin;3;0;16.7;8.3;1.3;2.0;3.3;0.7;0.3;0.7;0.3;1.3;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Alec Burks;3;0;20.0;8.0;0.3;2.3;2.7;1.3;0.3;1.0;1.0;2.7;1.3
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Mitchell Robinson;4;3;21.8;5.8;2.3;4.3;6.5;0.3;0.5;0.8;0.8;2.8;0.3
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Kemba Walker;3;3;21.0;5.0;0.0;2.0;2.0;3.3;0.7;0.0;1.7;0.3;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Nerlens Noel;3;1;24.3;3.7;2.0;6.0;8.0;0.7;2.3;1.0;1.7;3.3;0.4
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Taj Gibson;1;0;25.0;0.0;2.0;7.0;9.0;0.0;1.0;2.0;1.0;4.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Jericho Sims;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Miles McBride;2;0;0.5;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Total;4;"";"";104.5;11.5;33.3;44.8;20.8;9.8;5.0;13.5;18.3;1.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Atlanta Hawks;RJ Barrett;4;4;34.8;20.0;1.0;6.0;7.0;2.8;0.8;0.3;1.5;1.3;1.8
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Atlanta Hawks;Julius Randle;3;3;34.7;19.0;1.7;8.0;9.7;5.3;0.3;0.0;1.7;3.0;3.2
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Atlanta Hawks;Alec Burks;4;3;32.0;16.5;0.8;4.3;5.0;4.3;1.3;0.0;1.3;3.3;3.4
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Atlanta Hawks;Evan Fournier;4;4;29.3;16.0;0.3;2.3;2.5;2.3;0.8;0.0;2.0;1.0;1.1
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Atlanta Hawks;Kemba Walker;1;1;40.0;10.0;3.0;7.0;10.0;12.0;0.0;0.0;1.0;0.0;12.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Atlanta Hawks;Immanuel Quickley;3;0;25.0;9.7;0.3;4.0;4.3;3.3;0.0;0.0;2.0;2.0;1.7
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Atlanta Hawks;Obi Toppin;4;1;16.0;9.0;0.5;2.8;3.3;1.8;0.3;0.0;0.5;1.5;3.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Atlanta Hawks;Mitchell Robinson;4;4;30.8;7.3;4.0;5.5;9.5;0.5;1.0;2.5;1.0;3.0;0.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Atlanta Hawks;Quentin Grimes;4;0;17.3;7.3;0.3;1.3;1.5;1.5;1.0;0.0;0.5;2.3;3.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Atlanta Hawks;Taj Gibson;3;0;18.0;5.7;1.3;2.3;3.7;0.0;0.3;0.0;0.0;1.7;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Atlanta Hawks;Jericho Sims;2;0;17.5;4.0;1.0;2.5;3.5;0.5;0.5;1.0;0.5;1.0;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Atlanta Hawks;Miles McBride;1;0;8.0;3.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;2.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Atlanta Hawks;Matt Mooney;1;0;2.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;1.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Atlanta Hawks;Tyler Hall;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Atlanta Hawks;Total;4;"";"";107.0;10.5;35.8;46.3;23.0;6.0;3.3;10.3;18.3;2.2
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Charlotte Hornets;Kemba Walker;1;1;31.0;26.0;0.0;3.0;3.0;3.0;2.0;0.0;2.0;2.0;1.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Charlotte Hornets;RJ Barrett;4;4;35.3;18.8;0.5;5.3;5.8;2.8;1.0;0.3;3.0;1.8;0.9
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Charlotte Hornets;Julius Randle;3;3;33.3;16.3;1.7;6.0;7.7;5.0;0.3;0.3;3.0;4.0;1.7
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Charlotte Hornets;Evan Fournier;4;4;30.3;13.3;0.3;2.8;3.0;2.8;0.5;0.3;1.5;2.3;1.8
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Charlotte Hornets;Alec Burks;4;3;31.3;12.5;1.3;6.8;8.0;3.0;1.3;0.8;1.5;3.8;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Charlotte Hornets;Immanuel Quickley;4;0;23.8;11.8;0.3;3.0;3.3;5.0;1.0;0.0;1.3;2.3;4.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Charlotte Hornets;Obi Toppin;4;1;21.0;10.0;1.8;4.8;6.5;2.0;0.3;1.0;0.5;1.0;4.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Charlotte Hornets;Mitchell Robinson;3;3;27.3;9.0;4.7;2.7;7.3;0.7;0.7;1.0;0.7;1.0;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Charlotte Hornets;Derrick Rose;1;0;17.0;8.0;0.0;1.0;1.0;2.0;0.0;0.0;1.0;0.0;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Charlotte Hornets;Taj Gibson;3;0;21.0;5.3;2.7;2.3;5.0;0.3;0.7;1.0;2.3;3.7;0.1
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Charlotte Hornets;Quentin Grimes;2;0;18.5;4.0;0.5;2.5;3.0;2.0;1.0;0.0;0.0;0.5;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Charlotte Hornets;Jericho Sims;3;1;13.7;3.3;0.3;1.7;2.0;0.3;0.0;0.3;0.3;1.3;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Charlotte Hornets;Miles McBride;3;0;7.3;3.0;0.0;1.7;1.7;0.7;0.0;0.0;0.0;0.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Charlotte Hornets;Ryan Arcidiacono;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Charlotte Hornets;Total;4;"";"";104.5;11.3;35.5;46.8;23.0;6.3;4.3;13.3;19.3;1.7
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Miami Heat;RJ Barrett;3;3;31.7;27.0;1.0;5.7;6.7;2.7;0.3;0.0;3.3;3.3;0.8
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Miami Heat;Immanuel Quickley;3;0;21.3;14.0;0.0;2.3;2.3;4.0;1.3;0.0;1.3;2.3;3.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Miami Heat;Obi Toppin;3;1;20.3;12.0;2.0;3.0;5.0;0.3;0.0;0.3;1.0;1.7;0.3
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Miami Heat;Julius Randle;2;2;31.0;11.0;1.0;6.0;7.0;6.0;0.5;0.0;4.0;2.5;1.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Miami Heat;Alec Burks;3;2;24.7;9.0;0.7;4.7;5.3;2.7;0.7;0.0;1.7;2.0;1.6
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Miami Heat;Evan Fournier;3;3;28.7;9.0;0.7;1.3;2.0;2.0;1.0;0.0;1.3;4.0;1.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Miami Heat;Kemba Walker;1;1;19.0;7.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Miami Heat;Cam Reddish;2;0;13.0;7.0;0.0;1.0;1.0;0.5;0.5;0.5;1.0;1.0;0.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Miami Heat;Mitchell Robinson;3;2;26.0;6.0;4.0;4.3;8.3;0.7;1.0;0.3;1.7;3.3;0.4
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Miami Heat;Quentin Grimes;3;0;15.7;5.0;1.3;0.7;2.0;1.3;0.3;0.0;1.0;1.7;1.3
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Miami Heat;Jericho Sims;3;1;16.0;2.7;1.7;2.0;3.7;1.0;0.7;0.3;0.3;1.0;3.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Miami Heat;Taj Gibson;2;0;19.0;2.5;0.5;3.0;3.5;0.5;0.0;1.5;0.0;3.5;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Miami Heat;Miles McBride;3;0;7.0;1.7;0.0;0.7;0.7;2.7;0.7;0.0;0.0;1.3;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Miami Heat;Total;3;"";"";102.3;12.3;31.3;43.7;22.0;6.7;2.3;15.3;25.7;1.4
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Orlando Magic;Julius Randle;3;3;33.7;21.3;1.7;8.7;10.3;4.3;1.7;1.3;3.0;4.0;1.4
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Orlando Magic;RJ Barrett;4;4;31.3;15.8;1.0;5.3;6.3;4.8;0.8;0.3;2.5;1.3;1.9
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Orlando Magic;Derrick Rose;3;0;23.7;15.0;1.0;1.3;2.3;3.7;1.0;0.7;2.3;0.3;1.6
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Orlando Magic;Alec Burks;4;1;25.8;13.8;0.0;4.5;4.5;4.5;0.8;0.3;0.5;2.3;9.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Orlando Magic;Obi Toppin;4;1;22.3;12.3;0.8;3.5;4.3;2.0;0.5;0.8;1.5;2.3;1.3
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Orlando Magic;Immanuel Quickley;4;0;22.8;10.5;1.0;3.5;4.5;5.3;0.8;0.0;0.5;1.8;10.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Orlando Magic;Mitchell Robinson;4;4;30.3;10.3;5.0;5.0;10.0;0.3;1.3;2.3;1.0;3.8;0.3
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Orlando Magic;Kemba Walker;3;3;20.7;8.7;0.0;0.3;0.3;2.0;0.7;0.3;1.0;0.7;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Orlando Magic;Evan Fournier;4;4;22.3;8.3;0.0;2.5;2.5;1.5;1.0;0.0;1.0;2.3;1.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Orlando Magic;Jericho Sims;2;0;14.5;3.0;1.5;3.0;4.5;0.0;1.0;0.5;0.0;3.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Orlando Magic;Miles McBride;3;0;4.7;2.7;0.0;0.0;0.0;0.0;0.0;0.3;0.0;0.7;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Orlando Magic;Quentin Grimes;2;0;10.5;2.5;0.5;1.5;2.0;1.0;0.0;0.0;0.0;0.5;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Orlando Magic;Taj Gibson;3;0;12.7;1.3;1.0;2.3;3.3;0.7;0.0;1.0;0.7;1.0;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Orlando Magic;Ryan Arcidiacono;1;0;1.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Orlando Magic;Kevin Knox II;1;0;4.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;1.0;1.0;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Orlando Magic;Wayne Selden;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Orlando Magic;Total;4;"";"";110.3;11.5;36.3;47.8;27.0;8.0;6.5;12.5;20.5;2.2
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Washington Wizards;Kemba Walker;1;1;43.0;44.0;2.0;7.0;9.0;8.0;0.0;0.0;0.0;2.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Washington Wizards;Julius Randle;2;2;37.0;20.5;2.5;10.5;13.0;3.0;0.0;0.5;4.0;1.5;0.8
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Washington Wizards;Immanuel Quickley;2;0;32.0;19.0;0.5;4.5;5.0;7.5;1.5;0.0;1.5;1.5;5.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Washington Wizards;RJ Barrett;2;2;27.5;16.0;1.0;3.5;4.5;2.5;0.0;0.5;0.5;0.0;5.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Washington Wizards;Evan Fournier;3;3;33.3;13.3;0.0;2.7;2.7;2.3;2.0;0.0;0.3;2.7;7.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Washington Wizards;Obi Toppin;3;1;20.3;13.0;1.0;2.0;3.0;0.7;1.3;0.0;1.3;2.0;0.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Washington Wizards;Alec Burks;3;3;32.3;12.7;0.3;6.0;6.3;3.3;1.0;0.3;1.7;3.7;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Washington Wizards;Mitchell Robinson;2;2;28.0;11.5;6.0;1.5;7.5;0.0;0.0;0.0;0.5;4.5;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Washington Wizards;Taj Gibson;2;0;15.0;6.0;2.0;2.5;4.5;1.5;1.0;0.0;1.0;2.0;1.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Washington Wizards;Quentin Grimes;1;0;17.0;5.0;1.0;5.0;6.0;0.0;2.0;1.0;0.0;3.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Washington Wizards;Damyean Dotson;1;0;16.0;4.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;0.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Washington Wizards;Jericho Sims;3;1;23.3;4.0;4.0;3.0;7.0;1.0;0.3;1.0;1.0;2.3;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Washington Wizards;Miles McBride;1;0;19.0;3.0;0.0;1.0;1.0;1.0;1.0;0.0;0.0;1.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Washington Wizards;Ryan Arcidiacono;1;0;13.0;0.0;0.0;3.0;3.0;1.0;1.0;0.0;1.0;2.0;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Washington Wizards;Danuel House Jr.;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Washington Wizards;Feron Hunt;1;0;2.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;1.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Washington Wizards;Total;3;"";"";110.3;14.3;34.3;48.7;20.7;8.0;2.3;9.7;20.0;2.1
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Denver Nuggets;Julius Randle;2;2;34.5;26.0;3.0;5.5;8.5;7.0;1.5;0.0;1.0;2.0;7.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Denver Nuggets;Evan Fournier;2;2;34.0;18.0;0.5;4.5;5.0;3.5;2.0;0.5;2.0;2.5;1.8
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Denver Nuggets;RJ Barrett;2;2;29.5;15.5;1.0;2.0;3.0;1.5;0.0;0.5;0.5;0.5;3.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Denver Nuggets;Alec Burks;2;1;26.5;12.5;1.0;1.5;2.5;1.0;1.0;0.5;0.0;2.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Denver Nuggets;Taj Gibson;1;1;27.0;12.0;1.0;3.0;4.0;1.0;2.0;0.0;0.0;6.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Denver Nuggets;Derrick Rose;1;0;24.0;11.0;2.0;2.0;4.0;4.0;0.0;0.0;4.0;0.0;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Denver Nuggets;Obi Toppin;2;0;17.0;9.0;2.0;3.5;5.5;0.5;1.0;0.0;1.0;1.5;0.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Denver Nuggets;Quentin Grimes;1;0;12.0;6.0;0.0;1.0;1.0;2.0;0.0;0.0;0.0;2.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Denver Nuggets;Nerlens Noel;1;0;19.0;5.0;2.0;3.0;5.0;1.0;2.0;0.0;0.0;0.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Denver Nuggets;Mitchell Robinson;1;1;21.0;4.0;4.0;2.0;6.0;1.0;1.0;2.0;0.0;2.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Denver Nuggets;Immanuel Quickley;2;0;19.0;4.0;1.0;1.0;2.0;2.0;0.0;0.0;1.5;4.0;1.3
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Denver Nuggets;Kemba Walker;1;1;22.0;2.0;0.0;2.0;2.0;8.0;0.0;0.0;2.0;0.0;4.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Denver Nuggets;Jericho Sims;1;0;18.0;2.0;3.0;2.0;5.0;0.0;0.0;1.0;0.0;2.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Denver Nuggets;Cam Reddish;1;0;14.0;2.0;1.0;0.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Denver Nuggets;Miles McBride;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Denver Nuggets;Total;2;"";"";107.0;15.0;25.5;40.5;24.0;8.0;3.0;9.5;18.5;2.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Evan Fournier;2;2;31.0;20.0;0.5;2.5;3.0;3.0;1.0;0.5;1.5;3.0;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Julius Randle;2;2;38.0;17.0;3.0;9.0;12.0;5.5;1.0;2.5;3.5;4.0;1.6
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Kemba Walker;2;2;31.5;14.5;0.5;2.5;3.0;3.0;0.0;0.0;1.5;1.0;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;RJ Barrett;2;2;31.0;12.5;1.5;3.0;4.5;2.5;0.0;0.5;5.5;3.5;0.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Mitchell Robinson;2;2;26.0;11.0;4.0;8.0;12.0;0.0;1.0;0.5;0.5;4.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Quentin Grimes;2;0;24.0;7.0;0.5;1.5;2.0;1.0;1.0;0.5;0.0;2.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Taj Gibson;2;0;20.0;6.0;1.5;3.5;5.0;0.0;0.5;1.0;0.5;3.5;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Immanuel Quickley;2;0;12.0;6.0;0.0;1.5;1.5;2.5;0.5;0.0;0.5;0.0;5.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Obi Toppin;2;0;10.0;5.5;1.0;2.0;3.0;2.0;0.5;0.0;1.5;1.0;1.3
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Alec Burks;2;0;16.5;3.5;0.5;2.5;3.0;1.0;0.0;0.0;1.5;3.0;0.7
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Total;2;"";"";103.0;13.0;36.0;49.0;20.5;5.5;5.5;16.5;25.0;1.2
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Julius Randle;1;1;45.0;30.0;0.0;13.0;13.0;10.0;0.0;0.0;7.0;6.0;1.4
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;RJ Barrett;1;1;36.0;26.0;0.0;7.0;7.0;3.0;2.0;0.0;4.0;1.0;0.8
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Evan Fournier;2;2;32.5;16.0;1.0;2.0;3.0;4.0;2.0;0.5;0.5;1.5;8.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Mitchell Robinson;2;2;32.5;11.5;5.5;9.0;14.5;0.0;2.0;2.5;1.5;1.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Quentin Grimes;2;1;29.5;11.0;1.0;4.5;5.5;1.0;0.5;1.0;0.5;3.5;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Alec Burks;2;0;25.5;10.0;1.0;3.5;4.5;2.0;0.5;1.5;0.5;2.0;4.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Kemba Walker;1;1;26.0;9.0;1.0;2.0;3.0;5.0;1.0;2.0;0.0;0.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Kevin Knox II;1;0;15.0;7.0;1.0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Miles McBride;1;1;24.0;7.0;0.0;1.0;1.0;1.0;0.0;0.0;1.0;2.0;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Obi Toppin;2;1;17.5;6.0;1.0;3.5;4.5;0.5;0.0;0.0;1.0;2.5;0.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Immanuel Quickley;2;0;20.0;5.5;0.0;1.5;1.5;3.0;0.0;0.0;2.0;1.5;1.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Cam Reddish;1;0;8.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Taj Gibson;2;0;18.0;1.0;1.5;4.0;5.5;0.0;0.5;1.0;0.0;1.5;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Total;2;"";"";101.5;12.0;40.0;52.0;20.0;7.0;7.5;12.0;18.5;1.7
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Portland Trail Blazers;RJ Barrett;1;1;40.0;31.0;2.0;2.0;4.0;5.0;2.0;1.0;1.0;1.0;5.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Julius Randle;2;2;37.0;24.0;2.0;10.5;12.5;6.5;0.5;0.5;3.5;2.5;1.9
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Kemba Walker;1;1;26.0;23.0;0.0;1.0;1.0;2.0;0.0;0.0;0.0;0.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Quentin Grimes;1;1;37.0;20.0;3.0;1.0;4.0;3.0;2.0;0.0;1.0;5.0;3.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Immanuel Quickley;2;0;18.0;11.0;0.0;3.5;3.5;3.0;0.5;0.0;1.0;2.0;3.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Alec Burks;2;1;24.0;9.0;0.5;5.5;6.0;3.0;1.0;0.0;0.0;2.5;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Evan Fournier;2;2;32.0;9.0;0.5;2.0;2.5;4.5;2.0;0.5;2.0;1.5;2.3
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Taj Gibson;1;0;27.0;8.0;2.0;5.0;7.0;1.0;0.0;1.0;1.0;6.0;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Miles McBride;1;0;20.0;7.0;0.0;4.0;4.0;3.0;2.0;0.0;0.0;1.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Obi Toppin;2;0;11.0;6.5;0.0;2.0;2.0;1.0;0.0;0.0;0.5;0.0;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Cam Reddish;1;0;14.0;6.0;0.0;1.0;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Mitchell Robinson;2;2;19.5;4.5;1.0;2.0;3.0;0.0;0.0;4.0;1.0;2.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Ryan Arcidiacono;1;0;4.0;3.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Jericho Sims;2;0;14.5;2.5;1.5;2.0;3.5;0.0;0.0;0.5;1.0;2.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Total;2;"";"";115.5;9.0;35.0;44.0;25.0;7.5;7.0;11.0;19.0;2.3
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Utah Jazz;RJ Barrett;2;2;43.0;23.5;3.0;4.0;7.0;4.5;0.5;0.0;2.5;3.5;1.8
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Utah Jazz;Julius Randle;2;2;36.0;21.5;2.5;6.0;8.5;4.0;0.5;0.0;3.5;2.0;1.1
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Utah Jazz;Evan Fournier;2;2;29.5;16.5;1.0;1.0;2.0;1.5;2.0;0.0;1.5;5.5;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Utah Jazz;Mitchell Robinson;2;2;31.0;11.5;6.0;6.0;12.0;1.5;1.5;2.0;0.0;1.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Utah Jazz;Immanuel Quickley;2;0;23.0;10.5;0.0;4.5;4.5;4.0;0.5;0.0;1.5;1.5;2.7
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Utah Jazz;Alec Burks;2;2;33.0;7.5;0.0;5.5;5.5;2.0;0.5;0.0;2.0;3.0;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Utah Jazz;Cam Reddish;1;0;15.0;6.0;0.0;2.0;2.0;0.0;1.0;0.0;2.0;1.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Utah Jazz;Obi Toppin;2;0;12.0;4.5;0.5;0.5;1.0;0.0;0.5;0.5;0.5;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Utah Jazz;Nerlens Noel;1;0;12.0;0.0;1.0;2.0;3.0;0.0;1.0;0.0;1.0;3.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Utah Jazz;Jericho Sims;1;0;21.0;0.0;3.0;3.0;6.0;2.0;0.0;0.0;0.0;2.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Utah Jazz;Quentin Grimes;1;0;14.0;0.0;0.0;1.0;1.0;0.0;1.0;0.0;1.0;2.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Utah Jazz;Miles McBride;1;0;3.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;1.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Utah Jazz;Total;2;"";"";98.5;15.0;31.5;46.5;19.0;7.5;2.5;13.5;21.0;1.4
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Golden State Warriors;Julius Randle;2;2;37.0;29.5;1.0;10.5;11.5;5.0;1.0;0.5;3.0;2.5;1.7
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Golden State Warriors;Derrick Rose;1;1;34.0;15.0;0.0;4.0;4.0;6.0;1.0;0.0;2.0;2.0;3.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Golden State Warriors;Alec Burks;2;1;31.5;14.5;0.0;3.5;3.5;4.5;1.0;0.0;1.0;3.0;4.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Golden State Warriors;Evan Fournier;2;2;30.0;12.0;0.0;1.0;1.0;0.0;0.0;0.5;1.5;2.5;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Golden State Warriors;Cam Reddish;1;0;19.0;12.0;0.0;0.0;0.0;3.0;2.0;0.0;1.0;2.0;3.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Golden State Warriors;Taj Gibson;1;0;20.0;10.0;3.0;4.0;7.0;1.0;0.0;1.0;0.0;3.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Golden State Warriors;Kevin Knox II;1;0;20.0;9.0;1.0;6.0;7.0;1.0;1.0;0.0;0.0;0.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Golden State Warriors;Immanuel Quickley;2;0;18.5;8.5;0.0;1.0;1.0;2.0;0.0;0.5;1.5;3.0;1.3
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Golden State Warriors;Kemba Walker;1;1;22.0;8.0;1.0;2.0;3.0;6.0;0.0;0.0;2.0;1.0;3.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Golden State Warriors;Miles McBride;1;0;20.0;8.0;0.0;4.0;4.0;1.0;0.0;0.0;0.0;2.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Golden State Warriors;Quentin Grimes;1;1;31.0;6.0;0.0;3.0;3.0;0.0;0.0;1.0;0.0;1.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Golden State Warriors;Mitchell Robinson;2;1;21.0;4.5;4.0;2.5;6.5;0.0;0.0;0.5;0.0;1.5;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Golden State Warriors;Nerlens Noel;1;1;24.0;3.0;3.0;4.0;7.0;0.0;1.0;3.0;0.0;2.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Golden State Warriors;Obi Toppin;1;0;11.0;3.0;2.0;2.0;4.0;1.0;0.0;0.0;2.0;1.0;0.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Golden State Warriors;Total;2;"";"";106.0;10.0;33.0;43.0;21.0;4.5;4.5;10.5;19.5;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. LA Clippers;RJ Barrett;2;2;37.5;26.0;1.0;10.5;11.5;5.0;0.0;0.5;1.5;3.0;3.3
+New York Knicks;ny;2021 - 2022 Regular Season;vs. LA Clippers;Julius Randle;2;2;34.5;17.0;0.0;8.5;8.5;4.5;0.0;0.0;5.0;2.5;0.9
+New York Knicks;ny;2021 - 2022 Regular Season;vs. LA Clippers;Immanuel Quickley;2;0;23.0;14.5;1.0;5.0;6.0;6.0;1.0;0.0;0.5;2.0;12.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. LA Clippers;Alec Burks;2;2;28.0;12.5;1.0;2.5;3.5;4.0;1.0;1.5;0.5;2.0;8.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. LA Clippers;Evan Fournier;2;2;28.5;10.5;0.5;2.0;2.5;1.5;0.5;0.5;0.5;2.0;3.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. LA Clippers;Mitchell Robinson;2;2;21.0;10.0;6.0;3.5;9.5;1.0;0.5;1.0;0.5;0.5;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. LA Clippers;Cam Reddish;2;0;15.0;9.5;0.5;1.5;2.0;0.0;0.5;0.0;1.0;1.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. LA Clippers;Nerlens Noel;1;0;26.0;8.0;3.0;4.0;7.0;0.0;3.0;1.0;1.0;1.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. LA Clippers;Quentin Grimes;1;0;20.0;6.0;2.0;0.0;2.0;0.0;0.0;0.0;1.0;1.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. LA Clippers;Jericho Sims;1;0;20.0;4.0;5.0;6.0;11.0;0.0;0.0;0.0;1.0;4.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. LA Clippers;Ryan Arcidiacono;1;0;6.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. LA Clippers;Miles McBride;1;0;18.0;3.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;4.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. LA Clippers;Obi Toppin;1;0;8.0;2.0;0.0;0.0;0.0;1.0;0.0;1.0;0.0;0.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. LA Clippers;Taj Gibson;1;0;6.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;4.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. LA Clippers;Total;2;"";"";113.0;15.0;39.5;54.5;22.5;5.0;4.5;11.0;20.0;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Julius Randle;2;2;37.5;26.0;3.0;13.0;16.0;6.0;0.5;1.0;4.5;4.5;1.3
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Los Angeles Lakers;RJ Barrett;2;2;38.5;24.0;0.5;7.0;7.5;4.0;0.5;0.0;2.5;1.5;1.6
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Evan Fournier;2;2;39.5;20.5;1.0;3.0;4.0;2.5;0.5;0.0;2.0;3.0;1.3
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Alec Burks;2;0;27.5;12.0;1.0;5.0;6.0;3.5;1.5;0.5;1.5;2.0;2.3
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Obi Toppin;2;0;16.5;8.0;1.0;3.5;4.5;0.5;0.5;0.5;0.5;2.0;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Immanuel Quickley;2;0;13.5;7.0;0.0;1.5;1.5;2.0;0.0;0.0;1.0;3.0;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Kemba Walker;2;2;23.5;6.5;0.0;2.5;2.5;4.0;0.5;0.5;1.5;1.0;2.7
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Nerlens Noel;2;1;31.0;4.5;2.0;2.0;4.0;1.0;2.0;1.5;0.5;3.5;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Mitchell Robinson;1;1;30.0;4.0;4.0;7.0;11.0;0.0;3.0;0.0;0.0;4.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Quentin Grimes;2;0;9.5;0.0;0.5;2.0;2.5;0.0;0.0;0.0;0.0;2.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Total;2;"";"";110.5;11.0;43.0;54.0;23.5;7.5;4.0;14.0;24.5;1.7
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Phoenix Suns;Kemba Walker;1;1;23.0;17.0;0.0;3.0;3.0;2.0;1.0;0.0;2.0;1.0;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Phoenix Suns;Julius Randle;2;2;30.0;17.0;1.0;5.5;6.5;4.0;1.5;0.5;4.0;1.0;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Phoenix Suns;RJ Barrett;2;2;37.5;15.0;1.0;3.0;4.0;2.5;0.5;0.0;2.0;2.0;1.3
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Phoenix Suns;Immanuel Quickley;2;0;23.5;14.5;0.0;5.0;5.0;3.0;0.5;0.0;1.0;3.0;3.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Phoenix Suns;Evan Fournier;2;2;31.0;13.5;0.5;2.5;3.0;1.5;0.0;0.0;1.0;2.5;1.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Phoenix Suns;Alec Burks;2;1;29.0;12.5;0.0;7.5;7.5;3.5;1.0;0.5;1.0;3.5;3.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Phoenix Suns;Mitchell Robinson;2;2;29.0;12.0;7.0;4.5;11.5;0.5;2.5;1.5;0.5;1.5;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Phoenix Suns;Nerlens Noel;1;0;18.0;6.0;2.0;4.0;6.0;0.0;0.0;0.0;1.0;3.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Phoenix Suns;Cam Reddish;1;0;14.0;6.0;1.0;2.0;3.0;0.0;0.0;0.0;1.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Phoenix Suns;Obi Toppin;1;0;14.0;5.0;3.0;2.0;5.0;0.0;0.0;0.0;1.0;1.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Phoenix Suns;Quentin Grimes;1;0;17.0;3.0;2.0;2.0;4.0;0.0;0.0;0.0;2.0;3.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Phoenix Suns;Kevin Knox II;1;0;8.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Phoenix Suns;Miles McBride;2;0;6.0;1.0;0.5;0.0;0.5;1.0;0.5;0.0;0.0;1.5;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Phoenix Suns;Jericho Sims;2;0;7.5;0.5;0.5;1.0;1.5;1.0;0.0;0.5;0.5;2.0;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Phoenix Suns;Total;2;"";"";105.5;14.5;35.5;50.0;18.0;7.0;3.0;13.5;21.0;1.3
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Sacramento Kings;Julius Randle;2;2;31.5;31.5;2.0;7.0;9.0;3.0;1.0;0.5;2.5;3.5;1.2
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Sacramento Kings;RJ Barrett;2;2;32.0;20.0;0.0;6.0;6.0;3.5;0.0;0.0;3.5;3.5;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Sacramento Kings;Evan Fournier;2;2;27.0;16.5;0.0;0.5;0.5;1.0;1.5;0.0;0.5;3.0;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Sacramento Kings;Immanuel Quickley;2;0;23.5;16.5;0.5;2.5;3.0;4.0;0.5;0.0;1.5;3.0;2.7
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Sacramento Kings;Obi Toppin;1;0;19.0;14.0;0.0;4.0;4.0;2.0;0.0;1.0;1.0;1.0;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Sacramento Kings;Quentin Grimes;1;0;23.0;14.0;0.0;4.0;4.0;1.0;3.0;0.0;1.0;2.0;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Sacramento Kings;Alec Burks;2;1;31.0;13.0;0.5;4.5;5.0;4.0;1.0;0.5;1.0;2.5;4.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Sacramento Kings;Mitchell Robinson;2;2;11.5;4.5;2.5;4.0;6.5;0.5;0.5;1.0;0.5;2.5;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Sacramento Kings;Cam Reddish;2;0;10.5;3.0;1.0;0.5;1.5;0.5;1.0;0.5;0.0;0.5;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Sacramento Kings;Taj Gibson;2;0;14.5;2.5;2.0;2.0;4.0;0.0;0.5;1.5;0.0;1.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Sacramento Kings;Nerlens Noel;1;0;21.0;2.0;0.0;5.0;5.0;5.0;2.0;1.0;1.0;1.0;5.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Sacramento Kings;Miles McBride;2;0;11.5;1.0;0.0;1.5;1.5;1.0;0.5;0.0;0.5;2.5;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Sacramento Kings;Kemba Walker;1;1;17.0;0.0;0.0;3.0;3.0;1.0;1.0;0.0;1.0;0.0;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Sacramento Kings;Ryan Arcidiacono;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Sacramento Kings;Jericho Sims;2;0;6.5;0.0;0.0;2.0;2.0;0.0;0.0;0.5;0.5;1.5;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Sacramento Kings;Total;2;"";"";123.5;8.5;38.5;47.0;22.0;9.5;5.5;12.5;25.5;1.8
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Dallas Mavericks;RJ Barrett;2;2;39.5;25.0;0.0;7.0;7.0;3.0;0.0;0.0;1.5;2.0;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Dallas Mavericks;Julius Randle;2;2;35.5;21.5;1.0;9.0;10.0;6.5;0.0;0.0;3.5;2.0;1.9
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Dallas Mavericks;Mitchell Robinson;2;2;24.5;15.0;4.5;6.0;10.5;0.0;1.5;2.5;1.0;2.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Dallas Mavericks;Alec Burks;2;2;36.5;12.5;1.0;8.5;9.5;5.5;1.0;0.0;1.0;2.5;5.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Dallas Mavericks;Evan Fournier;2;2;29.0;11.5;0.5;2.0;2.5;1.5;0.0;0.0;1.0;2.0;1.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Dallas Mavericks;Taj Gibson;1;0;19.0;11.0;4.0;1.0;5.0;0.0;0.0;0.0;1.0;5.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Dallas Mavericks;Quentin Grimes;1;0;19.0;9.0;0.0;2.0;2.0;1.0;1.0;0.0;1.0;3.0;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Dallas Mavericks;Immanuel Quickley;2;0;22.5;5.5;1.0;3.0;4.0;4.5;0.5;0.0;0.0;3.5;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Dallas Mavericks;Nerlens Noel;1;0;21.0;4.0;2.0;4.0;6.0;0.0;1.0;2.0;0.0;3.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Dallas Mavericks;Jericho Sims;2;0;3.5;2.5;0.5;1.5;2.0;0.0;0.0;0.0;0.0;1.5;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Dallas Mavericks;Obi Toppin;1;0;11.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Dallas Mavericks;Miles McBride;2;0;11.5;1.0;0.5;1.5;2.0;0.5;0.0;0.0;0.5;2.0;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Dallas Mavericks;Ryan Arcidiacono;1;0;4.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Dallas Mavericks;Kevin Knox II;1;0;1.0;0.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Dallas Mavericks;Total;2;"";"";107.5;12.5;42.0;54.5;22.0;4.0;3.5;9.5;23.0;2.3
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Houston Rockets;Evan Fournier;2;2;29.0;21.0;0.0;1.5;1.5;2.5;0.5;0.0;1.5;2.5;1.7
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Houston Rockets;Julius Randle;2;2;32.5;18.5;1.5;6.5;8.0;7.5;0.5;0.0;2.5;3.0;3.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Houston Rockets;Immanuel Quickley;2;0;26.5;18.5;0.5;2.0;2.5;2.0;0.5;0.5;2.5;3.5;0.8
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Houston Rockets;Miles McBride;1;0;36.0;15.0;1.0;1.0;2.0;9.0;4.0;0.0;0.0;4.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Houston Rockets;Alec Burks;2;1;31.0;14.5;1.5;5.5;7.0;2.0;2.5;0.0;0.5;2.0;4.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Houston Rockets;Mitchell Robinson;2;1;24.0;11.5;3.5;3.5;7.0;0.0;1.0;2.5;0.0;3.5;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Houston Rockets;RJ Barrett;1;1;25.0;11.0;0.0;1.0;1.0;2.0;2.0;0.0;0.0;1.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Houston Rockets;Kemba Walker;1;1;21.0;9.0;0.0;2.0;2.0;3.0;2.0;0.0;1.0;2.0;3.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Houston Rockets;Taj Gibson;1;0;16.0;7.0;0.0;3.0;3.0;1.0;1.0;0.0;0.0;2.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Houston Rockets;Obi Toppin;1;0;15.0;6.0;0.0;4.0;4.0;1.0;0.0;0.0;3.0;2.0;0.3
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Houston Rockets;Derrick Rose;2;1;16.5;2.0;0.5;0.5;1.0;2.5;0.5;1.0;0.5;0.5;5.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Houston Rockets;Nerlens Noel;2;1;23.5;1.0;1.5;4.0;5.5;0.5;0.0;2.5;2.0;4.0;0.3
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Houston Rockets;Total;2;"";"";111.0;9.5;29.0;38.5;25.0;10.0;6.5;11.5;24.5;2.2
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Julius Randle;2;2;38.5;27.0;3.5;8.5;12.0;7.5;1.5;1.0;3.0;5.0;2.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Memphis Grizzlies;RJ Barrett;2;2;39.0;23.0;0.5;5.0;5.5;1.5;0.5;0.5;2.5;1.5;0.6
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Evan Fournier;2;2;31.0;21.0;0.0;4.5;4.5;3.0;0.5;0.0;2.5;1.5;1.2
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Mitchell Robinson;2;2;32.0;12.0;7.5;6.0;13.5;2.5;1.5;6.0;3.0;3.0;0.8
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Alec Burks;2;1;24.0;11.0;0.5;3.0;3.5;3.0;0.5;0.5;0.5;3.5;6.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Immanuel Quickley;2;0;28.5;11.0;0.5;2.5;3.0;3.5;0.5;0.0;2.5;4.0;1.4
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Quentin Grimes;1;0;15.0;4.0;0.0;2.0;2.0;0.0;2.0;0.0;1.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Taj Gibson;2;0;8.5;3.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;3.5;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Obi Toppin;1;0;11.0;2.0;0.0;6.0;6.0;1.0;0.0;0.0;0.0;0.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Kemba Walker;1;1;17.0;0.0;1.0;2.0;3.0;2.0;0.0;0.0;0.0;0.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Nerlens Noel;1;0;16.0;0.0;1.0;1.0;2.0;1.0;1.0;0.0;0.0;3.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Jericho Sims;1;0;6.0;0.0;1.0;2.0;3.0;0.0;0.0;0.0;2.0;1.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Miles McBride;1;0;11.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Total;2;"";"";111.0;14.0;37.0;51.0;23.0;6.5;8.0;15.5;25.0;1.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. New Orleans Pelicans;RJ Barrett;2;2;32.0;26.0;0.5;6.5;7.0;4.0;0.0;0.5;0.5;2.0;8.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Quentin Grimes;1;0;24.0;13.0;1.0;0.0;1.0;2.0;0.0;0.0;1.0;4.0;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Evan Fournier;2;2;31.0;12.5;0.5;1.5;2.0;1.5;1.0;0.5;1.5;1.0;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Mitchell Robinson;2;2;28.5;12.5;4.0;6.0;10.0;0.0;0.0;0.5;1.0;3.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Kemba Walker;2;2;26.5;12.0;0.0;3.0;3.0;3.5;2.5;0.0;2.5;1.5;1.4
+New York Knicks;ny;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Alec Burks;2;0;17.5;11.5;0.5;2.5;3.0;1.5;0.5;0.0;1.5;2.5;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Immanuel Quickley;2;0;17.0;8.5;0.0;2.0;2.0;3.0;1.5;0.0;2.5;2.0;1.2
+New York Knicks;ny;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Taj Gibson;2;0;19.5;7.5;2.5;3.5;6.0;1.0;0.5;1.0;0.5;4.5;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Julius Randle;2;2;33.5;7.0;1.0;5.5;6.5;5.0;0.5;0.5;2.5;1.5;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Derrick Rose;1;0;15.0;5.0;0.0;1.0;1.0;1.0;0.0;0.0;1.0;0.0;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Obi Toppin;2;0;14.5;0.5;0.0;2.0;2.0;0.5;0.0;1.5;0.0;1.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Miles McBride;1;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Total;2;"";"";107.0;9.5;33.0;42.5;21.5;6.5;4.5;13.5;21.0;1.6
+New York Knicks;ny;2021 - 2022 Regular Season;vs. San Antonio Spurs;RJ Barrett;2;2;35.0;31.5;1.0;3.0;4.0;3.0;1.0;0.5;1.5;3.0;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. San Antonio Spurs;Alec Burks;2;2;34.0;17.0;0.0;4.0;4.0;3.5;1.0;0.0;1.0;2.5;3.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. San Antonio Spurs;Immanuel Quickley;2;0;26.0;14.0;0.0;4.5;4.5;4.0;0.5;0.5;1.5;2.0;2.7
+New York Knicks;ny;2021 - 2022 Regular Season;vs. San Antonio Spurs;Evan Fournier;2;2;21.5;12.5;0.5;3.5;4.0;1.5;1.0;0.0;2.0;3.0;0.8
+New York Knicks;ny;2021 - 2022 Regular Season;vs. San Antonio Spurs;Derrick Rose;1;0;22.0;12.0;1.0;1.0;2.0;2.0;1.0;0.0;1.0;0.0;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. San Antonio Spurs;Mitchell Robinson;2;1;27.0;12.0;6.0;6.5;12.5;0.0;1.5;3.5;1.5;1.5;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. San Antonio Spurs;Julius Randle;2;2;34.5;8.5;0.5;9.0;9.5;5.0;0.5;1.0;2.0;3.0;2.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. San Antonio Spurs;Obi Toppin;2;0;13.5;7.0;1.5;1.5;3.0;0.0;0.0;0.0;0.0;1.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. San Antonio Spurs;Taj Gibson;1;0;13.0;6.0;1.0;4.0;5.0;0.0;1.0;0.0;0.0;3.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. San Antonio Spurs;Quentin Grimes;2;0;14.0;3.5;0.0;0.5;0.5;3.0;0.5;0.5;1.0;0.5;3.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. San Antonio Spurs;Nerlens Noel;1;1;26.0;2.0;5.0;4.0;9.0;3.0;0.0;1.0;2.0;4.0;1.5
+New York Knicks;ny;2021 - 2022 Regular Season;vs. San Antonio Spurs;Jericho Sims;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. San Antonio Spurs;Kevin Knox II;1;0;4.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. San Antonio Spurs;Miles McBride;1;0;3.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;vs. San Antonio Spurs;Total;2;"";"";116.0;13.0;37.5;50.5;22.5;7.0;7.0;12.5;20.5;1.8
+New York Knicks;ny;2021 - 2022 Regular Season;October;Julius Randle;6;6;37.3;20.8;2.2;9.0;11.2;6.5;0.8;1.2;3.3;2.5;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;October;Evan Fournier;6;6;33.2;17.5;0.2;3.0;3.2;2.3;1.3;0.7;1.2;2.2;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;October;RJ Barrett;6;6;34.3;17.2;0.3;5.3;5.7;3.0;0.5;0.5;1.7;2.8;1.8
+New York Knicks;ny;2021 - 2022 Regular Season;October;Kemba Walker;6;6;27.7;15.0;0.2;3.0;3.2;3.2;1.7;0.3;1.7;1.3;1.9
+New York Knicks;ny;2021 - 2022 Regular Season;October;Derrick Rose;6;0;21.5;12.3;0.8;2.0;2.8;3.0;0.8;0.3;1.5;0.5;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;October;Mitchell Robinson;6;6;30.2;8.5;3.2;5.7;8.8;0.8;0.5;1.2;1.0;4.0;0.8
+New York Knicks;ny;2021 - 2022 Regular Season;October;Alec Burks;6;0;17.7;8.3;0.0;3.0;3.0;2.0;0.5;0.2;0.7;1.5;3.0
+New York Knicks;ny;2021 - 2022 Regular Season;October;Obi Toppin;6;0;16.5;7.3;0.8;1.8;2.7;1.2;0.7;1.0;0.5;1.7;2.3
+New York Knicks;ny;2021 - 2022 Regular Season;October;Taj Gibson;4;0;17.8;5.8;2.5;2.5;5.0;0.8;0.3;1.3;0.8;3.5;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;October;Immanuel Quickley;6;0;13.3;5.2;0.3;1.0;1.3;1.2;0.5;0.0;0.7;1.2;1.8
+New York Knicks;ny;2021 - 2022 Regular Season;October;Jericho Sims;2;0;8.5;1.5;0.0;2.5;2.5;0.0;0.5;0.0;0.0;0.5;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;October;Quentin Grimes;2;0;2.5;1.5;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;October;Kevin Knox II;1;0;4.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;1.0;1.0;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;October;Miles McBride;3;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.3;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;October;Wayne Selden;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;October;Total;6;"";"";117.0;9.7;36.3;46.0;23.8;7.7;6.3;12.8;20.3;1.9
+New York Knicks;ny;2021 - 2022 Regular Season;November;Julius Randle;15;15;34.4;18.9;1.7;8.0;9.7;4.6;0.7;0.5;3.2;2.9;1.4
+New York Knicks;ny;2021 - 2022 Regular Season;November;RJ Barrett;15;15;30.0;12.8;0.7;5.3;6.0;1.8;0.4;0.2;1.7;1.8;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;November;Alec Burks;15;2;25.3;12.3;0.5;3.7;4.2;1.9;1.4;0.4;0.8;2.3;2.4
+New York Knicks;ny;2021 - 2022 Regular Season;November;Derrick Rose;12;1;24.7;12.2;0.7;2.3;2.9;4.0;1.0;0.8;1.3;0.8;3.2
+New York Knicks;ny;2021 - 2022 Regular Season;November;Evan Fournier;15;15;26.5;11.3;0.7;2.1;2.7;1.4;0.7;0.0;1.4;1.4;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;November;Immanuel Quickley;15;0;22.6;11.1;0.5;2.1;2.6;3.0;0.5;0.0;1.1;1.9;2.8
+New York Knicks;ny;2021 - 2022 Regular Season;November;Kemba Walker;12;12;22.9;10.0;0.1;2.2;2.3;3.0;0.8;0.3;1.2;0.9;2.6
+New York Knicks;ny;2021 - 2022 Regular Season;November;Obi Toppin;15;0;14.6;8.5;1.1;2.8;3.9;1.0;0.1;0.6;1.1;1.6;0.9
+New York Knicks;ny;2021 - 2022 Regular Season;November;Mitchell Robinson;12;12;23.1;6.1;2.9;4.3;7.3;0.8;0.3;1.7;0.3;2.3;2.3
+New York Knicks;ny;2021 - 2022 Regular Season;November;Nerlens Noel;9;3;24.0;4.1;2.3;3.7;6.0;0.7;1.1;1.4;1.1;3.1;0.6
+New York Knicks;ny;2021 - 2022 Regular Season;November;Taj Gibson;6;0;21.8;2.0;1.8;3.3;5.2;0.8;0.5;1.5;1.0;3.3;0.8
+New York Knicks;ny;2021 - 2022 Regular Season;November;Quentin Grimes;7;0;7.6;1.7;0.3;0.7;1.0;0.1;0.0;0.0;0.4;0.7;0.3
+New York Knicks;ny;2021 - 2022 Regular Season;November;Jericho Sims;6;0;6.2;1.0;0.3;1.2;1.5;0.0;0.2;0.5;0.3;0.5;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;November;Kevin Knox II;3;0;3.3;1.0;0.7;0.0;0.7;0.0;0.0;0.0;0.3;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;November;Miles McBride;3;0;2.0;0.7;0.3;0.0;0.3;0.3;0.3;0.0;0.0;0.3;INF
+New York Knicks;ny;2021 - 2022 Regular Season;November;Total;15;"";"";102.3;10.7;35.3;45.9;20.8;6.5;5.5;12.9;18.9;1.6
+New York Knicks;ny;2021 - 2022 Regular Season;December;Kemba Walker;6;6;35.7;19.3;1.5;5.0;6.5;5.3;0.2;0.0;1.5;1.5;3.6
+New York Knicks;ny;2021 - 2022 Regular Season;December;Julius Randle;14;14;35.4;19.1;1.9;7.9;9.8;4.7;0.8;0.6;3.9;3.0;1.2
+New York Knicks;ny;2021 - 2022 Regular Season;December;RJ Barrett;8;8;30.0;17.6;1.0;3.6;4.6;2.3;0.5;0.5;1.9;1.6;1.2
+New York Knicks;ny;2021 - 2022 Regular Season;December;Alec Burks;14;10;32.3;13.3;0.6;3.7;4.4;2.7;1.0;0.1;1.3;2.4;2.1
+New York Knicks;ny;2021 - 2022 Regular Season;December;Evan Fournier;14;14;29.8;12.7;0.3;2.3;2.6;2.0;1.0;0.3;1.3;2.1;1.6
+New York Knicks;ny;2021 - 2022 Regular Season;December;Immanuel Quickley;11;1;26.3;12.0;0.2;2.2;2.4;2.6;0.9;0.2;1.4;2.6;1.9
+New York Knicks;ny;2021 - 2022 Regular Season;December;Derrick Rose;8;3;26.4;11.4;1.0;2.3;3.3;4.6;0.6;0.1;1.9;0.3;2.5
+New York Knicks;ny;2021 - 2022 Regular Season;December;Obi Toppin;10;1;18.1;9.1;1.3;3.4;4.7;0.9;0.5;0.1;0.8;1.4;1.1
+New York Knicks;ny;2021 - 2022 Regular Season;December;Mitchell Robinson;15;7;23.5;8.1;3.7;4.8;8.5;0.2;0.6;1.9;0.8;2.5;0.3
+New York Knicks;ny;2021 - 2022 Regular Season;December;Kevin Knox II;5;0;14.4;7.4;0.8;2.0;2.8;0.4;0.4;0.0;0.0;0.2;INF
+New York Knicks;ny;2021 - 2022 Regular Season;December;Quentin Grimes;9;2;16.6;7.2;0.0;1.7;1.7;1.2;0.8;0.2;0.8;1.6;1.6
+New York Knicks;ny;2021 - 2022 Regular Season;December;Miles McBride;6;1;18.3;5.7;0.2;1.8;2.0;2.5;1.2;0.0;0.3;1.7;7.5
+New York Knicks;ny;2021 - 2022 Regular Season;December;Taj Gibson;10;1;16.9;3.6;1.0;3.0;4.0;0.6;0.5;0.7;0.4;1.7;1.5
+New York Knicks;ny;2021 - 2022 Regular Season;December;Jericho Sims;2;0;13.0;3.0;2.5;1.0;3.5;0.5;0.0;0.5;0.0;0.5;INF
+New York Knicks;ny;2021 - 2022 Regular Season;December;Nerlens Noel;8;7;22.0;2.8;2.0;3.6;5.6;1.0;1.0;1.5;0.6;2.1;1.6
+New York Knicks;ny;2021 - 2022 Regular Season;December;Wayne Selden;2;0;9.0;2.5;0.0;0.5;0.5;0.5;0.0;0.0;0.0;0.5;INF
+New York Knicks;ny;2021 - 2022 Regular Season;December;Damyean Dotson;2;0;10.5;2.0;0.0;1.0;1.0;0.5;0.0;0.0;0.0;0.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;December;Danuel House Jr.;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;December;Matt Mooney;1;0;2.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;1.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;December;Tyler Hall;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;December;Total;15;"";"";102.2;11.3;33.5;44.8;20.3;6.9;4.8;12.3;18.1;1.7
+New York Knicks;ny;2021 - 2022 Regular Season;January;RJ Barrett;15;15;35.0;21.8;0.9;5.1;6.0;3.2;0.8;0.2;2.4;2.3;1.3
+New York Knicks;ny;2021 - 2022 Regular Season;January;Julius Randle;14;14;34.9;16.4;1.4;8.1;9.6;5.0;0.8;0.5;3.4;2.6;1.5
+New York Knicks;ny;2021 - 2022 Regular Season;January;Evan Fournier;14;14;28.1;15.7;0.8;2.2;3.0;1.7;0.8;0.3;1.2;2.6;1.4
+New York Knicks;ny;2021 - 2022 Regular Season;January;Mitchell Robinson;13;12;26.0;10.6;4.3;4.8;9.1;0.3;0.6;0.9;1.0;2.7;0.3
+New York Knicks;ny;2021 - 2022 Regular Season;January;Alec Burks;15;8;27.2;9.5;0.9;3.9;4.9;3.3;1.3;0.2;0.9;2.6;3.6
+New York Knicks;ny;2021 - 2022 Regular Season;January;Immanuel Quickley;15;1;21.8;9.1;0.3;2.1;2.4;4.0;0.7;0.1;1.5;2.3;2.6
+New York Knicks;ny;2021 - 2022 Regular Season;January;Kemba Walker;6;6;22.7;7.8;0.0;2.2;2.2;2.5;0.7;0.0;1.5;1.2;1.7
+New York Knicks;ny;2021 - 2022 Regular Season;January;Quentin Grimes;15;0;21.3;7.7;0.9;1.3;2.2;1.4;0.9;0.3;0.7;1.7;1.9
+New York Knicks;ny;2021 - 2022 Regular Season;January;Obi Toppin;15;1;15.3;6.4;0.6;2.4;3.0;0.9;0.1;0.4;0.6;1.1;1.4
+New York Knicks;ny;2021 - 2022 Regular Season;January;Nerlens Noel;5;1;23.6;4.2;1.6;5.6;7.2;1.4;1.8;1.0;0.6;2.6;2.3
+New York Knicks;ny;2021 - 2022 Regular Season;January;Cam Reddish;3;0;7.0;4.0;0.0;1.3;1.3;0.0;0.3;0.3;0.3;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;January;Taj Gibson;13;2;17.5;3.2;1.6;2.5;4.2;0.6;0.4;0.5;0.7;2.8;0.9
+New York Knicks;ny;2021 - 2022 Regular Season;January;Kevin Knox II;4;0;6.0;1.8;0.5;1.0;1.5;0.0;0.0;0.3;0.8;0.8;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;January;Jericho Sims;6;0;2.2;0.3;0.2;0.0;0.2;0.0;0.2;0.3;0.0;0.2;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;January;Miles McBride;8;1;4.0;0.3;0.0;0.4;0.4;0.9;0.0;0.0;0.1;0.5;7.0
+New York Knicks;ny;2021 - 2022 Regular Season;January;Total;15;"";"";102.6;11.5;34.3;45.9;21.8;7.3;3.7;13.1;21.4;1.7
+New York Knicks;ny;2021 - 2022 Regular Season;February;RJ Barrett;6;6;40.2;28.3;1.2;4.7;5.8;3.7;0.5;0.2;2.3;2.2;1.6
+New York Knicks;ny;2021 - 2022 Regular Season;February;Julius Randle;10;10;38.3;25.2;2.5;9.2;11.7;6.8;0.7;0.5;3.8;3.2;1.8
+New York Knicks;ny;2021 - 2022 Regular Season;February;Evan Fournier;10;10;34.8;19.0;0.6;2.9;3.5;2.3;1.3;0.4;1.9;2.5;1.2
+New York Knicks;ny;2021 - 2022 Regular Season;February;Alec Burks;10;3;26.7;9.0;0.5;4.9;5.4;2.7;0.5;0.5;1.2;2.7;2.3
+New York Knicks;ny;2021 - 2022 Regular Season;February;Kemba Walker;7;7;22.4;8.3;0.4;1.4;1.9;4.1;0.3;0.3;0.9;0.3;4.8
+New York Knicks;ny;2021 - 2022 Regular Season;February;Quentin Grimes;7;4;24.3;8.1;1.0;2.1;3.1;0.7;0.7;0.6;0.6;2.3;1.3
+New York Knicks;ny;2021 - 2022 Regular Season;February;Immanuel Quickley;10;0;17.9;7.6;0.6;1.9;2.5;2.6;0.2;0.0;1.6;2.7;1.6
+New York Knicks;ny;2021 - 2022 Regular Season;February;Mitchell Robinson;9;9;27.4;7.6;4.8;5.3;10.1;0.3;1.3;2.4;1.0;3.2;0.3
+New York Knicks;ny;2021 - 2022 Regular Season;February;Taj Gibson;6;1;18.8;6.7;2.0;3.0;5.0;0.5;0.3;0.7;0.2;3.3;3.0
+New York Knicks;ny;2021 - 2022 Regular Season;February;Cam Reddish;8;0;14.5;5.9;0.1;0.8;0.9;0.9;0.9;0.3;1.0;0.9;0.9
+New York Knicks;ny;2021 - 2022 Regular Season;February;Obi Toppin;10;0;11.4;4.4;0.8;2.3;3.1;0.4;0.1;0.1;0.8;1.2;0.5
+New York Knicks;ny;2021 - 2022 Regular Season;February;Nerlens Noel;3;0;17.0;1.7;1.0;1.0;2.0;0.7;1.0;0.3;0.7;3.0;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;February;Jericho Sims;4;0;15.0;0.5;1.8;3.0;4.8;0.8;0.5;0.5;0.0;3.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;February;Miles McBride;2;0;1.5;0.0;0.0;0.0;0.0;0.5;0.0;0.0;0.0;0.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;February;Total;10;"";"";109.9;13.3;35.2;48.5;22.3;6.4;5.3;13.7;23.1;1.6
+New York Knicks;ny;2021 - 2022 Regular Season;March;RJ Barrett;16;16;39.2;24.6;1.4;5.1;6.4;3.6;0.8;0.1;2.6;2.1;1.4
+New York Knicks;ny;2021 - 2022 Regular Season;March;Julius Randle;13;13;33.6;22.3;1.2;7.7;8.9;4.5;0.7;0.4;2.8;2.8;1.6
+New York Knicks;ny;2021 - 2022 Regular Season;March;Immanuel Quickley;16;0;26.3;14.9;0.3;4.5;4.8;4.0;0.8;0.0;1.0;1.8;4.0
+New York Knicks;ny;2021 - 2022 Regular Season;March;Alec Burks;16;16;33.4;13.9;0.6;5.6;6.2;3.9;1.1;0.5;1.2;3.1;3.3
+New York Knicks;ny;2021 - 2022 Regular Season;March;Evan Fournier;16;16;29.6;13.1;0.1;1.4;1.5;2.9;1.1;0.1;1.2;2.7;2.5
+New York Knicks;ny;2021 - 2022 Regular Season;March;Obi Toppin;11;3;18.2;10.0;1.1;2.5;3.6;1.4;0.6;0.5;0.5;1.6;3.0
+New York Knicks;ny;2021 - 2022 Regular Season;March;Mitchell Robinson;15;14;26.5;9.3;5.5;3.1;8.6;0.9;1.2;2.4;0.9;2.5;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;March;Cam Reddish;4;0;19.8;8.0;1.0;1.5;2.5;0.8;1.0;0.3;1.0;2.0;0.8
+New York Knicks;ny;2021 - 2022 Regular Season;March;Taj Gibson;8;0;17.4;5.9;1.8;2.3;4.0;0.3;0.4;0.6;0.1;2.8;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;March;Quentin Grimes;5;0;14.8;4.0;0.2;2.4;2.6;0.8;1.0;0.2;0.6;2.2;1.3
+New York Knicks;ny;2021 - 2022 Regular Season;March;Jericho Sims;16;2;16.2;2.7;1.9;3.2;5.1;0.7;0.1;0.4;0.8;2.0;0.8
+New York Knicks;ny;2021 - 2022 Regular Season;March;Miles McBride;15;0;12.1;2.5;0.1;1.5;1.6;1.1;0.3;0.0;0.1;1.8;8.0
+New York Knicks;ny;2021 - 2022 Regular Season;March;Ryan Arcidiacono;6;0;2.8;1.0;0.0;0.2;0.2;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;March;Total;16;"";"";111.8;12.4;34.4;46.8;22.1;7.1;4.5;10.8;21.7;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;April;Obi Toppin;5;5;37.4;27.2;1.2;5.0;6.2;2.8;0.8;1.0;1.4;1.6;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;April;Immanuel Quickley;5;1;33.6;20.0;0.8;6.4;7.2;8.8;1.4;0.0;1.8;2.2;4.9
+New York Knicks;ny;2021 - 2022 Regular Season;April;RJ Barrett;4;4;32.0;19.0;0.5;4.3;4.8;4.3;0.5;0.0;2.3;1.3;1.9
+New York Knicks;ny;2021 - 2022 Regular Season;April;Alec Burks;5;5;34.0;14.0;0.6;5.2;5.8;4.2;0.8;0.2;2.4;4.6;1.8
+New York Knicks;ny;2021 - 2022 Regular Season;April;Evan Fournier;5;5;26.4;10.4;0.2;2.4;2.6;2.8;1.2;0.4;0.8;2.4;3.5
+New York Knicks;ny;2021 - 2022 Regular Season;April;Mitchell Robinson;2;2;28.5;9.5;2.5;3.5;6.0;0.0;2.0;4.0;1.0;2.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;April;Taj Gibson;5;0;19.0;5.8;2.0;2.4;4.4;1.0;0.6;0.6;0.6;1.4;1.7
+New York Knicks;ny;2021 - 2022 Regular Season;April;Jericho Sims;5;3;28.6;5.6;3.2;6.2;9.4;1.2;1.0;1.4;1.0;3.2;1.2
+New York Knicks;ny;2021 - 2022 Regular Season;April;Miles McBride;3;0;12.3;4.7;0.0;0.7;0.7;0.3;0.3;0.0;0.0;1.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;April;Ryan Arcidiacono;4;0;14.8;2.5;0.0;1.8;1.8;1.0;0.3;0.0;0.8;1.3;1.3
+New York Knicks;ny;2021 - 2022 Regular Season;April;Quentin Grimes;1;0;16.0;2.0;1.0;3.0;4.0;2.0;0.0;0.0;0.0;1.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;April;Feron Hunt;2;0;4.0;0.0;0.5;0.0;0.5;0.5;0.5;0.0;0.5;0.5;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;April;Total;5;"";"";107.2;9.8;34.8;44.6;25.8;7.6;5.2;11.0;19.2;2.3
+New York Knicks;ny;2021 - 2022 Regular Season;Atlantic Division;Julius Randle;13;13;38.0;22.5;1.4;8.0;9.4;5.3;0.8;0.5;3.3;2.5;1.6
+New York Knicks;ny;2021 - 2022 Regular Season;Atlantic Division;RJ Barrett;13;13;35.8;18.9;0.8;4.5;5.4;3.2;0.7;0.2;2.5;2.2;1.3
+New York Knicks;ny;2021 - 2022 Regular Season;Atlantic Division;Evan Fournier;15;15;31.6;18.0;0.5;2.5;3.0;2.3;1.1;0.5;1.5;2.3;1.5
+New York Knicks;ny;2021 - 2022 Regular Season;Atlantic Division;Kemba Walker;6;6;29.5;15.0;0.3;3.5;3.8;3.7;0.7;0.3;1.5;2.3;2.4
+New York Knicks;ny;2021 - 2022 Regular Season;Atlantic Division;Immanuel Quickley;15;2;24.7;12.2;0.7;2.7;3.4;3.5;0.6;0.0;1.5;1.7;2.4
+New York Knicks;ny;2021 - 2022 Regular Season;Atlantic Division;Obi Toppin;15;3;19.6;11.1;0.9;3.3;4.3;1.4;0.3;0.7;0.9;1.4;1.5
+New York Knicks;ny;2021 - 2022 Regular Season;Atlantic Division;Derrick Rose;6;0;25.0;9.8;1.0;2.8;3.8;3.7;0.8;0.3;2.0;0.8;1.8
+New York Knicks;ny;2021 - 2022 Regular Season;Atlantic Division;Alec Burks;16;10;30.6;9.2;0.6;4.4;5.1;3.3;1.4;0.3;1.4;2.6;2.4
+New York Knicks;ny;2021 - 2022 Regular Season;Atlantic Division;Mitchell Robinson;12;10;24.6;6.8;3.4;4.3;7.8;0.8;0.6;1.3;0.8;3.3;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;Atlantic Division;Cam Reddish;3;0;17.7;6.0;0.0;1.7;1.7;1.7;1.3;0.3;1.0;2.0;1.7
+New York Knicks;ny;2021 - 2022 Regular Season;Atlantic Division;Quentin Grimes;6;1;15.2;4.5;0.5;1.0;1.5;0.7;0.7;0.3;0.5;1.0;1.3
+New York Knicks;ny;2021 - 2022 Regular Season;Atlantic Division;Nerlens Noel;4;3;17.3;4.0;1.3;2.5;3.8;0.3;0.5;0.8;0.0;1.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;Atlantic Division;Kevin Knox II;2;0;9.5;3.5;0.5;2.0;2.5;0.0;0.0;0.5;1.0;1.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;Atlantic Division;Taj Gibson;12;1;18.8;3.3;1.6;2.0;3.6;0.8;0.4;0.8;0.3;1.8;2.5
+New York Knicks;ny;2021 - 2022 Regular Season;Atlantic Division;Jericho Sims;8;2;17.8;3.1;2.0;4.9;6.9;0.9;0.5;0.6;0.8;2.5;1.2
+New York Knicks;ny;2021 - 2022 Regular Season;Atlantic Division;Ryan Arcidiacono;2;0;12.5;2.5;0.0;0.5;0.5;1.0;0.0;0.0;0.5;1.5;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;Atlantic Division;Miles McBride;5;1;7.4;1.6;0.0;0.4;0.4;1.0;0.0;0.0;0.2;1.0;5.0
+New York Knicks;ny;2021 - 2022 Regular Season;Atlantic Division;Feron Hunt;1;0;7.0;0.0;1.0;0.0;1.0;1.0;0.0;0.0;1.0;0.0;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;Atlantic Division;Wayne Selden;1;0;9.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;Atlantic Division;Total;16;"";"";105.1;10.3;33.9;44.3;22.6;6.7;4.6;0.0;19.4;INF
+New York Knicks;ny;2021 - 2022 Regular Season;Central Division;RJ Barrett;15;15;33.7;18.2;1.2;4.6;5.8;2.1;0.7;0.1;1.8;2.1;1.2
+New York Knicks;ny;2021 - 2022 Regular Season;Central Division;Julius Randle;17;17;34.2;18.1;2.1;8.5;10.6;4.4;0.8;0.6;4.0;2.8;1.1
+New York Knicks;ny;2021 - 2022 Regular Season;Central Division;Derrick Rose;10;2;26.9;15.2;0.8;2.6;3.4;5.0;1.1;0.6;1.0;0.6;5.0
+New York Knicks;ny;2021 - 2022 Regular Season;Central Division;Alec Burks;17;7;27.5;12.6;0.5;3.2;3.7;1.9;0.9;0.4;1.1;2.5;1.7
+New York Knicks;ny;2021 - 2022 Regular Season;Central Division;Immanuel Quickley;17;1;24.3;11.2;0.2;2.4;2.6;2.8;1.0;0.0;0.9;2.0;3.1
+New York Knicks;ny;2021 - 2022 Regular Season;Central Division;Evan Fournier;17;17;26.9;10.4;0.5;1.6;2.2;1.9;0.9;0.2;0.9;1.8;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;Central Division;Obi Toppin;16;1;16.6;9.6;0.9;2.2;3.1;0.9;0.4;0.4;0.5;1.8;1.8
+New York Knicks;ny;2021 - 2022 Regular Season;Central Division;Kemba Walker;10;10;23.9;9.4;0.3;2.5;2.8;3.0;0.7;0.1;1.3;0.5;2.3
+New York Knicks;ny;2021 - 2022 Regular Season;Central Division;Mitchell Robinson;16;12;24.3;7.3;3.1;3.8;6.8;0.5;0.4;2.3;0.8;2.9;0.7
+New York Knicks;ny;2021 - 2022 Regular Season;Central Division;Quentin Grimes;10;2;13.8;6.2;0.1;1.1;1.2;0.5;0.5;0.3;0.8;0.8;0.6
+New York Knicks;ny;2021 - 2022 Regular Season;Central Division;Ryan Arcidiacono;1;0;22.0;5.0;0.0;2.0;2.0;1.0;0.0;0.0;1.0;0.0;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;Central Division;Wayne Selden;1;0;9.0;5.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;0.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;Central Division;Kevin Knox II;5;0;7.8;4.4;0.8;0.6;1.4;0.2;0.2;0.0;0.2;0.2;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;Central Division;Taj Gibson;10;2;20.6;4.1;2.3;3.6;5.9;0.9;0.4;1.1;0.8;2.9;1.1
+New York Knicks;ny;2021 - 2022 Regular Season;Central Division;Nerlens Noel;8;4;24.9;3.5;2.1;5.0;7.1;1.1;1.6;1.5;1.1;3.5;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;Central Division;Miles McBride;8;0;7.3;0.9;0.1;1.3;1.4;0.5;0.4;0.0;0.1;0.4;4.0
+New York Knicks;ny;2021 - 2022 Regular Season;Central Division;Jericho Sims;7;0;8.3;0.6;0.7;1.7;2.4;0.3;0.1;0.6;0.1;0.1;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;Central Division;Damyean Dotson;1;0;4.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;Central Division;Total;18;"";"";102.8;11.1;33.3;44.4;19.6;7.3;5.7;0.0;18.8;INF
+New York Knicks;ny;2021 - 2022 Regular Season;Pacific Division;Julius Randle;10;10;34.1;24.2;1.4;8.9;10.3;4.5;0.8;0.5;3.8;2.8;1.2
+New York Knicks;ny;2021 - 2022 Regular Season;Pacific Division;RJ Barrett;8;8;36.5;21.3;0.6;6.6;7.3;3.8;0.3;0.1;2.4;2.5;1.6
+New York Knicks;ny;2021 - 2022 Regular Season;Pacific Division;Derrick Rose;1;1;34.0;15.0;0.0;4.0;4.0;6.0;1.0;0.0;2.0;2.0;3.0
+New York Knicks;ny;2021 - 2022 Regular Season;Pacific Division;Evan Fournier;10;10;31.2;14.6;0.4;1.8;2.2;1.3;0.5;0.2;1.1;2.6;1.2
+New York Knicks;ny;2021 - 2022 Regular Season;Pacific Division;Alec Burks;10;5;29.5;12.9;0.5;4.6;5.1;3.9;1.1;0.6;1.0;2.6;3.9
+New York Knicks;ny;2021 - 2022 Regular Season;Pacific Division;Immanuel Quickley;10;0;20.4;12.2;0.3;3.0;3.3;3.4;0.4;0.1;1.1;2.8;3.1
+New York Knicks;ny;2021 - 2022 Regular Season;Pacific Division;Kemba Walker;5;5;21.8;7.6;0.2;2.6;2.8;3.4;0.6;0.2;1.6;0.8;2.1
+New York Knicks;ny;2021 - 2022 Regular Season;Pacific Division;Mitchell Robinson;9;8;21.7;7.3;4.8;4.0;8.8;0.4;1.1;0.9;0.3;1.8;1.3
+New York Knicks;ny;2021 - 2022 Regular Season;Pacific Division;Cam Reddish;6;0;14.2;7.2;0.7;1.0;1.7;0.7;0.8;0.2;0.7;0.8;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;Pacific Division;Obi Toppin;6;0;14.2;6.7;1.2;2.5;3.7;0.8;0.2;0.5;0.8;1.2;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;Pacific Division;Kevin Knox II;2;0;14.0;5.5;0.5;3.0;3.5;0.5;0.5;0.0;0.0;0.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;Pacific Division;Quentin Grimes;6;1;18.5;4.8;0.8;2.2;3.0;0.2;0.5;0.2;0.7;1.8;0.3
+New York Knicks;ny;2021 - 2022 Regular Season;Pacific Division;Nerlens Noel;6;2;25.5;4.7;2.0;3.5;5.5;1.2;1.7;1.3;0.7;2.3;1.8
+New York Knicks;ny;2021 - 2022 Regular Season;Pacific Division;Taj Gibson;4;0;13.5;3.8;1.8;2.3;4.0;0.3;0.3;1.0;0.0;2.3;INF
+New York Knicks;ny;2021 - 2022 Regular Season;Pacific Division;Miles McBride;6;0;12.2;2.5;0.2;1.3;1.5;0.8;0.3;0.0;0.2;2.3;5.0
+New York Knicks;ny;2021 - 2022 Regular Season;Pacific Division;Ryan Arcidiacono;2;0;3.5;1.5;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;Pacific Division;Jericho Sims;5;0;9.4;1.0;1.2;2.4;3.6;0.4;0.0;0.4;0.6;2.2;0.7
+New York Knicks;ny;2021 - 2022 Regular Season;Pacific Division;Total;10;"";"";111.7;11.8;37.9;49.7;21.4;6.7;4.3;0.0;22.1;INF
+New York Knicks;ny;2021 - 2022 Regular Season;Southeast Division;RJ Barrett;17;17;32.6;19.5;0.9;5.3;6.2;3.2;0.6;0.2;2.3;1.6;1.4
+New York Knicks;ny;2021 - 2022 Regular Season;Southeast Division;Julius Randle;13;13;33.8;17.9;1.7;7.8;9.5;4.8;0.6;0.5;3.0;3.2;1.6
+New York Knicks;ny;2021 - 2022 Regular Season;Southeast Division;Kemba Walker;7;7;27.9;16.1;0.7;2.6;3.3;4.1;0.6;0.1;1.0;1.0;4.1
+New York Knicks;ny;2021 - 2022 Regular Season;Southeast Division;Derrick Rose;4;0;22.3;13.3;0.8;1.3;2.0;3.3;0.8;0.5;2.0;0.3;1.6
+New York Knicks;ny;2021 - 2022 Regular Season;Southeast Division;Alec Burks;18;12;29.3;13.1;0.6;5.2;5.8;3.6;1.0;0.3;1.3;3.0;2.8
+New York Knicks;ny;2021 - 2022 Regular Season;Southeast Division;Immanuel Quickley;16;0;24.3;12.4;0.4;3.4;3.8;4.9;0.9;0.0;1.3;2.0;3.9
+New York Knicks;ny;2021 - 2022 Regular Season;Southeast Division;Evan Fournier;18;18;28.6;12.1;0.2;2.3;2.6;2.2;1.0;0.1;1.3;2.3;1.7
+New York Knicks;ny;2021 - 2022 Regular Season;Southeast Division;Obi Toppin;18;5;19.9;11.1;1.2;3.3;4.4;1.4;0.4;0.4;0.9;1.7;1.5
+New York Knicks;ny;2021 - 2022 Regular Season;Southeast Division;Mitchell Robinson;16;15;28.7;8.6;4.6;4.1;8.8;0.4;0.9;1.4;1.0;3.1;0.4
+New York Knicks;ny;2021 - 2022 Regular Season;Southeast Division;Cam Reddish;2;0;13.0;7.0;0.0;1.0;1.0;0.5;0.5;0.5;1.0;1.0;0.5
+New York Knicks;ny;2021 - 2022 Regular Season;Southeast Division;Quentin Grimes;12;0;15.9;5.2;0.7;1.7;2.3;1.3;0.8;0.1;0.4;1.6;3.2
+New York Knicks;ny;2021 - 2022 Regular Season;Southeast Division;Taj Gibson;13;0;17.2;4.2;1.5;2.5;4.0;0.5;0.4;0.7;0.8;2.3;0.6
+New York Knicks;ny;2021 - 2022 Regular Season;Southeast Division;Damyean Dotson;1;0;16.0;4.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;0.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;Southeast Division;Jericho Sims;13;3;17.2;3.4;1.8;2.4;4.2;0.6;0.5;0.6;0.5;1.7;1.3
+New York Knicks;ny;2021 - 2022 Regular Season;Southeast Division;Miles McBride;11;0;7.6;2.5;0.0;0.7;0.7;1.1;0.3;0.1;0.0;0.8;INF
+New York Knicks;ny;2021 - 2022 Regular Season;Southeast Division;Ryan Arcidiacono;3;0;5.0;0.0;0.0;1.3;1.3;0.3;0.3;0.0;0.3;0.7;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;Southeast Division;Danuel House Jr.;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;Southeast Division;Matt Mooney;1;0;2.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;1.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;Southeast Division;Tyler Hall;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;Southeast Division;Kevin Knox II;1;0;4.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;1.0;1.0;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;Southeast Division;Feron Hunt;1;0;2.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;1.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;Southeast Division;Wayne Selden;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;Southeast Division;Total;18;"";"";106.9;11.8;34.8;46.7;23.3;6.9;3.9;0.0;20.5;INF
+New York Knicks;ny;2021 - 2022 Regular Season;Southwest Division;RJ Barrett;9;9;35.1;24.7;0.4;4.9;5.3;2.8;0.6;0.3;1.3;2.0;2.1
+New York Knicks;ny;2021 - 2022 Regular Season;Southwest Division;Julius Randle;10;10;35.0;16.5;1.5;7.7;9.2;6.3;0.6;0.5;2.7;2.9;2.3
+New York Knicks;ny;2021 - 2022 Regular Season;Southwest Division;Evan Fournier;10;10;28.2;15.7;0.3;2.6;2.9;2.0;0.6;0.1;1.7;2.0;1.2
+New York Knicks;ny;2021 - 2022 Regular Season;Southwest Division;Alec Burks;10;6;28.7;13.3;0.7;4.7;5.4;3.1;1.1;0.1;0.9;2.6;3.4
+New York Knicks;ny;2021 - 2022 Regular Season;Southwest Division;Mitchell Robinson;10;8;27.2;12.6;5.1;5.6;10.7;0.5;1.1;3.0;1.3;2.6;0.4
+New York Knicks;ny;2021 - 2022 Regular Season;Southwest Division;Immanuel Quickley;10;0;24.2;11.5;0.4;2.8;3.2;3.4;0.7;0.2;1.8;3.0;1.9
+New York Knicks;ny;2021 - 2022 Regular Season;Southwest Division;Kemba Walker;4;4;23.0;8.3;0.3;2.5;2.8;3.0;1.8;0.0;1.5;1.3;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;Southwest Division;Quentin Grimes;5;0;17.2;6.6;0.2;1.0;1.2;1.8;0.8;0.2;1.0;1.6;1.8
+New York Knicks;ny;2021 - 2022 Regular Season;Southwest Division;Taj Gibson;7;0;15.0;6.4;1.4;2.4;3.9;0.4;0.4;0.3;0.3;3.7;1.5
+New York Knicks;ny;2021 - 2022 Regular Season;Southwest Division;Derrick Rose;4;1;17.5;5.3;0.5;0.8;1.3;2.0;0.5;0.5;0.8;0.3;2.7
+New York Knicks;ny;2021 - 2022 Regular Season;Southwest Division;Obi Toppin;7;0;13.1;3.6;0.4;2.4;2.9;0.4;0.0;0.4;0.4;0.9;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;Southwest Division;Miles McBride;6;0;12.0;2.8;0.3;0.8;1.2;1.7;0.7;0.0;0.2;1.7;10.0
+New York Knicks;ny;2021 - 2022 Regular Season;Southwest Division;Nerlens Noel;5;2;22.0;1.6;2.2;3.4;5.6;1.0;0.4;1.6;1.2;3.6;0.8
+New York Knicks;ny;2021 - 2022 Regular Season;Southwest Division;Jericho Sims;4;0;3.8;1.3;0.5;1.3;1.8;0.0;0.0;0.3;0.5;1.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;Southwest Division;Ryan Arcidiacono;1;0;4.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;Southwest Division;Kevin Knox II;2;0;2.5;0.0;0.5;0.0;0.5;0.0;0.0;0.0;0.5;0.5;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;Southwest Division;Total;10;"";"";110.5;11.7;35.7;47.4;22.8;6.8;5.9;0.0;22.8;INF
+New York Knicks;ny;2021 - 2022 Regular Season;Northwest Division;Julius Randle;9;9;37.6;23.0;2.3;8.3;10.7;6.2;0.8;0.7;3.3;3.0;1.9
+New York Knicks;ny;2021 - 2022 Regular Season;Northwest Division;RJ Barrett;8;8;35.4;20.0;1.6;3.4;5.0;3.1;0.6;0.4;2.8;2.1;1.1
+New York Knicks;ny;2021 - 2022 Regular Season;Northwest Division;Evan Fournier;10;10;31.8;15.9;0.7;2.4;3.1;3.3;1.8;0.4;1.5;2.8;2.2
+New York Knicks;ny;2021 - 2022 Regular Season;Northwest Division;Kemba Walker;5;5;27.4;12.6;0.4;2.0;2.4;4.2;0.2;0.4;1.0;0.4;4.2
+New York Knicks;ny;2021 - 2022 Regular Season;Northwest Division;Derrick Rose;1;0;24.0;11.0;2.0;2.0;4.0;4.0;0.0;0.0;4.0;0.0;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;Northwest Division;Mitchell Robinson;9;9;26.6;9.0;4.1;5.8;9.9;0.4;1.1;2.2;0.7;2.0;0.7
+New York Knicks;ny;2021 - 2022 Regular Season;Northwest Division;Quentin Grimes;7;2;24.3;8.9;0.9;2.1;3.0;1.3;0.9;0.4;0.4;2.9;3.0
+New York Knicks;ny;2021 - 2022 Regular Season;Northwest Division;Alec Burks;10;4;25.0;8.5;0.6;3.7;4.3;1.8;0.6;0.4;0.8;2.5;2.3
+New York Knicks;ny;2021 - 2022 Regular Season;Northwest Division;Immanuel Quickley;10;0;18.5;7.4;0.2;2.4;2.6;2.9;0.3;0.0;1.3;1.8;2.2
+New York Knicks;ny;2021 - 2022 Regular Season;Northwest Division;Kevin Knox II;1;0;15.0;7.0;1.0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;Northwest Division;Obi Toppin;10;1;13.5;6.3;0.9;2.3;3.2;0.8;0.4;0.1;0.9;1.0;0.9
+New York Knicks;ny;2021 - 2022 Regular Season;Northwest Division;Taj Gibson;6;1;21.7;5.7;1.5;3.8;5.3;0.3;0.7;0.8;0.3;3.7;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;Northwest Division;Cam Reddish;4;0;12.8;4.0;0.3;0.8;1.0;0.0;0.5;0.3;1.0;0.5;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;Northwest Division;Miles McBride;4;1;12.0;3.5;0.0;1.3;1.3;1.3;0.5;0.0;0.3;1.0;5.0
+New York Knicks;ny;2021 - 2022 Regular Season;Northwest Division;Ryan Arcidiacono;1;0;4.0;3.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;Northwest Division;Nerlens Noel;2;0;15.5;2.5;1.5;2.5;4.0;0.5;1.5;0.0;0.5;1.5;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;Northwest Division;Jericho Sims;4;0;17.3;1.8;2.3;2.3;4.5;0.5;0.0;0.5;0.5;2.0;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;Northwest Division;Total;10;"";"";105.1;12.8;33.6;46.4;21.7;7.1;5.1;0.0;20.4;INF
+New York Knicks;ny;2021 - 2022 Regular Season;Eastern Conference;Julius Randle;43;43;35.2;19.4;1.7;8.1;9.9;4.8;0.7;0.5;3.5;2.8;1.4
+New York Knicks;ny;2021 - 2022 Regular Season;Eastern Conference;RJ Barrett;45;45;33.9;18.9;1.0;4.8;5.8;2.8;0.7;0.2;2.2;1.9;1.3
+New York Knicks;ny;2021 - 2022 Regular Season;Eastern Conference;Evan Fournier;50;50;28.9;13.3;0.4;2.2;2.6;2.1;1.0;0.3;1.2;2.1;1.7
+New York Knicks;ny;2021 - 2022 Regular Season;Eastern Conference;Derrick Rose;20;2;25.4;13.2;0.9;2.4;3.3;4.3;1.0;0.5;1.5;0.6;2.8
+New York Knicks;ny;2021 - 2022 Regular Season;Eastern Conference;Kemba Walker;23;23;26.5;12.9;0.4;2.8;3.2;3.5;0.7;0.2;1.3;1.1;2.8
+New York Knicks;ny;2021 - 2022 Regular Season;Eastern Conference;Immanuel Quickley;48;3;24.4;11.9;0.5;2.8;3.3;3.7;0.8;0.0;1.2;1.9;3.1
+New York Knicks;ny;2021 - 2022 Regular Season;Eastern Conference;Alec Burks;51;29;29.1;11.7;0.6;4.3;4.9;3.0;1.1;0.3;1.3;2.7;2.4
+New York Knicks;ny;2021 - 2022 Regular Season;Eastern Conference;Obi Toppin;49;9;18.7;10.6;1.0;2.9;4.0;1.2;0.4;0.5;0.8;1.6;1.6
+New York Knicks;ny;2021 - 2022 Regular Season;Eastern Conference;Mitchell Robinson;44;37;26.0;7.7;3.7;4.0;7.8;0.6;0.6;1.7;0.9;3.1;0.7
+New York Knicks;ny;2021 - 2022 Regular Season;Eastern Conference;Cam Reddish;5;0;15.8;6.4;0.0;1.4;1.4;1.2;1.0;0.4;1.0;1.6;1.2
+New York Knicks;ny;2021 - 2022 Regular Season;Eastern Conference;Quentin Grimes;28;3;15.0;5.4;0.4;1.3;1.8;0.9;0.6;0.2;0.6;1.2;1.6
+New York Knicks;ny;2021 - 2022 Regular Season;Eastern Conference;Taj Gibson;35;3;18.8;3.9;1.8;2.6;4.4;0.7;0.4;0.8;0.7;2.3;1.1
+New York Knicks;ny;2021 - 2022 Regular Season;Eastern Conference;Nerlens Noel;12;7;22.4;3.7;1.8;4.2;6.0;0.8;1.3;1.3;0.8;2.7;1.1
+New York Knicks;ny;2021 - 2022 Regular Season;Eastern Conference;Kevin Knox II;8;0;7.9;3.6;0.6;0.9;1.5;0.3;0.1;0.1;0.5;0.5;0.5
+New York Knicks;ny;2021 - 2022 Regular Season;Eastern Conference;Jericho Sims;28;5;15.1;2.6;1.6;2.9;4.5;0.6;0.4;0.6;0.5;1.5;1.3
+New York Knicks;ny;2021 - 2022 Regular Season;Eastern Conference;Damyean Dotson;2;0;10.5;2.0;0.0;1.0;1.0;0.5;0.0;0.0;0.0;0.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;Eastern Conference;Miles McBride;24;1;7.5;1.8;0.0;0.8;0.9;0.9;0.3;0.0;0.1;0.7;10.5
+New York Knicks;ny;2021 - 2022 Regular Season;Eastern Conference;Ryan Arcidiacono;6;0;10.2;1.7;0.0;1.2;1.2;0.7;0.2;0.0;0.5;0.8;1.3
+New York Knicks;ny;2021 - 2022 Regular Season;Eastern Conference;Wayne Selden;3;0;6.3;1.7;0.0;0.3;0.3;0.3;0.0;0.0;0.0;0.3;INF
+New York Knicks;ny;2021 - 2022 Regular Season;Eastern Conference;Danuel House Jr.;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;Eastern Conference;Matt Mooney;1;0;2.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;1.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;Eastern Conference;Tyler Hall;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;Eastern Conference;Feron Hunt;2;0;4.0;0.0;0.5;0.0;0.5;0.5;0.5;0.0;0.5;0.5;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;Eastern Conference;Total;52;"";"";105.0;11.1;34.0;45.1;21.8;7.0;4.7;0.0;19.6;INF
+New York Knicks;ny;2021 - 2022 Regular Season;Western Conference;RJ Barrett;25;25;35.6;22.1;0.9;5.0;5.8;3.2;0.5;0.3;2.1;2.2;1.5
+New York Knicks;ny;2021 - 2022 Regular Season;Western Conference;Julius Randle;29;29;35.4;21.2;1.7;8.3;10.0;5.7;0.7;0.6;3.3;2.9;1.7
+New York Knicks;ny;2021 - 2022 Regular Season;Western Conference;Evan Fournier;30;30;30.4;15.4;0.5;2.3;2.7;2.2;1.0;0.2;1.4;2.5;1.5
+New York Knicks;ny;2021 - 2022 Regular Season;Western Conference;Alec Burks;30;15;27.7;11.6;0.6;4.3;4.9;2.9;0.9;0.4;0.9;2.6;3.3
+New York Knicks;ny;2021 - 2022 Regular Season;Western Conference;Immanuel Quickley;30;0;21.0;10.4;0.3;2.7;3.0;3.2;0.5;0.1;1.4;2.5;2.3
+New York Knicks;ny;2021 - 2022 Regular Season;Western Conference;Mitchell Robinson;28;25;25.2;9.8;4.7;5.1;9.8;0.5;1.1;2.1;0.8;2.1;0.6
+New York Knicks;ny;2021 - 2022 Regular Season;Western Conference;Kemba Walker;14;14;24.1;9.6;0.3;2.4;2.6;3.6;0.8;0.2;1.4;0.8;2.6
+New York Knicks;ny;2021 - 2022 Regular Season;Western Conference;Derrick Rose;6;2;21.3;7.8;0.7;1.5;2.2;3.0;0.5;0.3;1.5;0.5;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;Western Conference;Quentin Grimes;18;3;20.3;6.9;0.7;1.8;2.5;1.1;0.7;0.3;0.7;2.2;1.6
+New York Knicks;ny;2021 - 2022 Regular Season;Western Conference;Cam Reddish;10;0;13.6;5.9;0.5;0.9;1.4;0.4;0.7;0.2;0.8;0.7;0.5
+New York Knicks;ny;2021 - 2022 Regular Season;Western Conference;Obi Toppin;23;1;13.6;5.6;0.8;2.4;3.2;0.7;0.2;0.3;0.7;1.0;0.9
+New York Knicks;ny;2021 - 2022 Regular Season;Western Conference;Taj Gibson;17;1;17.0;5.5;1.5;2.9;4.4;0.4;0.5;0.6;0.2;3.4;1.5
+New York Knicks;ny;2021 - 2022 Regular Season;Western Conference;Kevin Knox II;5;0;9.6;3.6;0.6;1.4;2.0;0.2;0.2;0.0;0.2;0.2;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;Western Conference;Nerlens Noel;13;4;22.5;3.2;2.0;3.3;5.3;1.0;1.2;1.2;0.8;2.7;1.2
+New York Knicks;ny;2021 - 2022 Regular Season;Western Conference;Miles McBride;16;1;12.1;2.9;0.2;1.1;1.3;1.3;0.5;0.0;0.2;1.8;6.7
+New York Knicks;ny;2021 - 2022 Regular Season;Western Conference;Ryan Arcidiacono;4;0;3.8;1.5;0.0;0.3;0.3;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;Western Conference;Jericho Sims;13;0;10.1;1.3;1.3;2.0;3.3;0.3;0.0;0.4;0.5;1.8;0.6
+New York Knicks;ny;2021 - 2022 Regular Season;Western Conference;Total;30;"";"";109.1;12.1;35.7;47.8;22.0;6.9;5.1;0.0;21.8;INF
+New York Knicks;ny;2021 - 2022 Regular Season;Pre All-Star;Julius Randle;57;57;35.7;19.8;1.8;8.4;10.2;5.2;0.8;0.6;3.5;2.8;1.5
+New York Knicks;ny;2021 - 2022 Regular Season;Pre All-Star;RJ Barrett;48;48;33.1;18.0;0.9;4.8;5.7;2.6;0.5;0.3;2.0;2.0;1.3
+New York Knicks;ny;2021 - 2022 Regular Season;Pre All-Star;Evan Fournier;57;57;29.5;14.5;0.5;2.4;2.9;1.9;1.0;0.3;1.4;2.1;1.3
+New York Knicks;ny;2021 - 2022 Regular Season;Pre All-Star;Derrick Rose;26;4;24.5;12.0;0.8;2.2;3.0;4.0;0.8;0.5;1.5;0.6;2.6
+New York Knicks;ny;2021 - 2022 Regular Season;Pre All-Star;Kemba Walker;37;37;25.6;11.6;0.4;2.6;3.0;3.5;0.7;0.2;1.3;1.0;2.7
+New York Knicks;ny;2021 - 2022 Regular Season;Pre All-Star;Alec Burks;58;21;26.6;10.9;0.6;3.8;4.4;2.7;1.1;0.3;1.0;2.4;2.8
+New York Knicks;ny;2021 - 2022 Regular Season;Pre All-Star;Immanuel Quickley;55;2;21.3;9.4;0.4;1.9;2.3;3.0;0.6;0.1;1.3;2.2;2.4
+New York Knicks;ny;2021 - 2022 Regular Season;Pre All-Star;Mitchell Robinson;53;44;25.4;8.4;3.9;4.9;8.7;0.4;0.7;1.7;0.8;2.7;0.6
+New York Knicks;ny;2021 - 2022 Regular Season;Pre All-Star;Obi Toppin;54;2;15.1;7.3;0.9;2.6;3.6;0.9;0.3;0.4;0.8;1.4;1.2
+New York Knicks;ny;2021 - 2022 Regular Season;Pre All-Star;Quentin Grimes;39;6;17.8;6.5;0.6;1.4;2.0;1.0;0.7;0.3;0.6;1.5;1.5
+New York Knicks;ny;2021 - 2022 Regular Season;Pre All-Star;Cam Reddish;9;0;11.6;5.0;0.1;0.8;0.9;0.4;0.7;0.2;0.7;0.4;0.7
+New York Knicks;ny;2021 - 2022 Regular Season;Pre All-Star;Taj Gibson;39;4;18.3;3.9;1.6;2.8;4.5;0.6;0.4;0.8;0.6;2.8;1.1
+New York Knicks;ny;2021 - 2022 Regular Season;Pre All-Star;Kevin Knox II;13;0;8.5;3.6;0.6;1.1;1.7;0.2;0.2;0.1;0.4;0.4;0.6
+New York Knicks;ny;2021 - 2022 Regular Season;Pre All-Star;Nerlens Noel;25;11;22.5;3.4;1.9;3.7;5.6;0.9;1.2;1.2;0.8;2.7;1.2
+New York Knicks;ny;2021 - 2022 Regular Season;Pre All-Star;Damyean Dotson;2;0;10.5;2.0;0.0;1.0;1.0;0.5;0.0;0.0;0.0;0.0;INF
+New York Knicks;ny;2021 - 2022 Regular Season;Pre All-Star;Miles McBride;21;2;7.2;1.8;0.1;0.7;0.8;1.1;0.4;0.0;0.1;0.7;7.7
+New York Knicks;ny;2021 - 2022 Regular Season;Pre All-Star;Wayne Selden;3;0;6.3;1.7;0.0;0.3;0.3;0.3;0.0;0.0;0.0;0.3;INF
+New York Knicks;ny;2021 - 2022 Regular Season;Pre All-Star;Jericho Sims;18;0;6.5;1.1;0.6;0.9;1.5;0.1;0.2;0.4;0.1;0.6;0.5
+New York Knicks;ny;2021 - 2022 Regular Season;Pre All-Star;Danuel House Jr.;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;Pre All-Star;Matt Mooney;1;0;2.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;1.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;Pre All-Star;Tyler Hall;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;Pre All-Star;Total;59;"";"";105.1;11.5;34.6;46.1;21.5;6.9;5.1;12.8;19.9;1.7
+New York Knicks;ny;2021 - 2022 Regular Season;Post All-Star;RJ Barrett;22;22;37.7;24.5;1.1;5.0;6.2;3.8;0.8;0.1;2.6;2.0;1.5
+New York Knicks;ny;2021 - 2022 Regular Season;Post All-Star;Julius Randle;15;15;34.0;21.1;1.4;7.5;8.9;4.9;0.7;0.3;2.9;2.9;1.7
+New York Knicks;ny;2021 - 2022 Regular Season;Post All-Star;Immanuel Quickley;23;1;27.5;16.0;0.5;4.7;5.2;4.8;0.9;0.0;1.3;2.0;3.7
+New York Knicks;ny;2021 - 2022 Regular Season;Post All-Star;Obi Toppin;18;8;23.2;14.2;1.1;3.1;4.2;1.6;0.6;0.6;0.8;1.6;1.9
+New York Knicks;ny;2021 - 2022 Regular Season;Post All-Star;Alec Burks;23;23;33.7;13.5;0.5;5.7;6.2;3.7;1.0;0.4;1.5;3.4;2.4
+New York Knicks;ny;2021 - 2022 Regular Season;Post All-Star;Evan Fournier;23;23;29.4;13.0;0.1;1.7;1.8;2.8;1.0;0.2;1.1;2.7;2.5
+New York Knicks;ny;2021 - 2022 Regular Season;Post All-Star;Mitchell Robinson;19;18;26.3;8.6;4.7;3.4;8.1;0.8;1.2;2.4;1.1;2.8;0.8
+New York Knicks;ny;2021 - 2022 Regular Season;Post All-Star;Cam Reddish;6;0;18.5;7.7;0.7;1.5;2.2;1.0;1.0;0.3;1.2;1.8;0.9
+New York Knicks;ny;2021 - 2022 Regular Season;Post All-Star;Taj Gibson;13;0;18.0;5.8;1.8;2.3;4.2;0.5;0.5;0.6;0.3;2.2;1.8
+New York Knicks;ny;2021 - 2022 Regular Season;Post All-Star;Quentin Grimes;7;0;12.9;3.1;0.3;2.1;2.4;0.9;0.7;0.1;0.4;1.7;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;Post All-Star;Jericho Sims;23;5;19.0;3.1;2.2;4.0;6.2;0.9;0.3;0.7;0.8;2.4;1.1
+New York Knicks;ny;2021 - 2022 Regular Season;Post All-Star;Miles McBride;19;0;11.6;2.7;0.1;1.3;1.4;0.9;0.3;0.0;0.1;1.6;9.0
+New York Knicks;ny;2021 - 2022 Regular Season;Post All-Star;Ryan Arcidiacono;10;0;7.6;1.6;0.0;0.8;0.8;0.4;0.1;0.0;0.3;0.5;1.3
+New York Knicks;ny;2021 - 2022 Regular Season;Post All-Star;Feron Hunt;2;0;4.0;0.0;0.5;0.0;0.5;0.5;0.5;0.0;0.5;0.5;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;Post All-Star;Total;23;"";"";110.1;11.5;34.8;46.3;22.7;7.0;4.4;11.5;21.6;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;3+ Days Rest;Julius Randle;4;4;38.0;24.0;1.0;8.8;9.8;6.5;1.0;0.8;4.0;2.3;1.6
+New York Knicks;ny;2021 - 2022 Regular Season;3+ Days Rest;RJ Barrett;4;4;33.8;21.8;0.3;5.0;5.3;2.3;0.0;1.0;1.0;2.8;2.3
+New York Knicks;ny;2021 - 2022 Regular Season;3+ Days Rest;Evan Fournier;3;3;34.3;21.0;0.7;4.0;4.7;2.3;2.0;0.3;1.3;4.3;1.8
+New York Knicks;ny;2021 - 2022 Regular Season;3+ Days Rest;Kemba Walker;4;4;30.5;16.5;0.5;3.8;4.3;2.8;0.5;0.0;2.0;3.3;1.4
+New York Knicks;ny;2021 - 2022 Regular Season;3+ Days Rest;Derrick Rose;2;0;28.5;12.5;0.5;4.0;4.5;7.0;1.0;0.5;1.0;1.5;7.0
+New York Knicks;ny;2021 - 2022 Regular Season;3+ Days Rest;Alec Burks;3;2;29.7;10.3;0.0;3.3;3.3;2.3;0.7;0.0;0.7;3.0;3.5
+New York Knicks;ny;2021 - 2022 Regular Season;3+ Days Rest;Obi Toppin;4;0;15.8;6.8;1.5;2.0;3.5;0.3;0.0;0.3;0.8;1.3;0.3
+New York Knicks;ny;2021 - 2022 Regular Season;3+ Days Rest;Mitchell Robinson;4;3;27.5;6.5;3.8;6.8;10.5;0.8;0.5;0.8;1.0;2.5;0.8
+New York Knicks;ny;2021 - 2022 Regular Season;3+ Days Rest;Quentin Grimes;9;2;14.6;6.1;0.2;1.8;2.0;0.8;0.8;0.2;0.7;1.3;1.2
+New York Knicks;ny;2021 - 2022 Regular Season;3+ Days Rest;Cam Reddish;4;0;10.3;5.0;0.0;1.0;1.0;0.3;0.8;0.0;0.8;0.8;0.3
+New York Knicks;ny;2021 - 2022 Regular Season;3+ Days Rest;Immanuel Quickley;3;0;13.3;5.0;0.0;0.7;0.7;2.3;0.7;0.0;1.0;1.7;2.3
+New York Knicks;ny;2021 - 2022 Regular Season;3+ Days Rest;Taj Gibson;12;2;17.6;4.8;1.5;2.4;3.9;0.5;0.4;0.4;0.3;2.1;1.5
+New York Knicks;ny;2021 - 2022 Regular Season;3+ Days Rest;Kevin Knox II;8;0;8.4;3.9;0.6;0.6;1.3;0.3;0.1;0.0;0.3;0.3;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;3+ Days Rest;Nerlens Noel;7;0;21.7;3.7;1.7;3.7;5.4;0.7;1.0;1.1;0.7;2.1;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;3+ Days Rest;Ryan Arcidiacono;6;0;7.7;1.8;0.0;1.0;1.0;0.3;0.2;0.0;0.3;0.3;1.0
+New York Knicks;ny;2021 - 2022 Regular Season;3+ Days Rest;Miles McBride;16;0;4.1;1.1;0.1;0.5;0.6;0.6;0.3;0.1;0.1;0.4;10.0
+New York Knicks;ny;2021 - 2022 Regular Season;3+ Days Rest;Jericho Sims;14;0;7.1;0.8;0.7;0.7;1.4;0.1;0.1;0.3;0.1;0.6;2.0
+New York Knicks;ny;2021 - 2022 Regular Season;3+ Days Rest;Damyean Dotson;1;0;4.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;3+ Days Rest;Danuel House Jr.;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;3+ Days Rest;Matt Mooney;1;0;2.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;1.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;3+ Days Rest;Tyler Hall;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;3+ Days Rest;Feron Hunt;1;0;2.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;1.0;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;3+ Days Rest;Wayne Selden;2;0;5.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;0.0
+New York Knicks;ny;2021 - 2022 Regular Season;3+ Days Rest;Total;2;"";"";119.0;6.0;44.0;50.0;23.0;6.5;5.5;17.5;26.0;1.3

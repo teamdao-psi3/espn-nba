@@ -1,0 +1,815 @@
+teamName;teamCode;season;split;player_name;GP;GS;MIN;PTS;ORB;DR;REB;AST;STL;BLK;TO;PF;AST_TO
+Charlotte Hornets;cha;2021 - 2022 Regular Season;All Splits;Miles Bridges;80;80;35.5;20.2;1.1;5.9;7.0;3.8;0.9;0.8;1.9;2.4;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;All Splits;LaMelo Ball;75;75;32.3;20.1;1.4;5.2;6.7;7.6;1.6;0.4;3.3;3.2;2.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;All Splits;Terry Rozier;73;73;33.7;19.3;0.8;3.5;4.3;4.5;1.3;0.3;1.3;1.6;3.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;All Splits;Gordon Hayward;49;48;31.9;15.9;0.8;3.8;4.6;3.6;1.0;0.4;1.7;1.7;2.2
+Charlotte Hornets;cha;2021 - 2022 Regular Season;All Splits;Kelly Oubre Jr.;76;13;26.3;15.0;1.0;2.9;4.0;1.1;1.0;0.4;0.9;2.5;1.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;All Splits;Montrezl Harrell;25;0;20.9;11.4;2.1;2.8;4.9;2.0;0.4;0.5;0.9;2.0;2.2
+Charlotte Hornets;cha;2021 - 2022 Regular Season;All Splits;P.J. Washington;65;28;27.2;10.3;1.3;3.9;5.2;2.3;0.9;0.9;1.3;2.3;1.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;All Splits;Isaiah Thomas;17;0;12.9;8.3;0.2;1.1;1.2;1.4;0.4;0.2;0.6;1.3;2.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;All Splits;Cody Martin;71;11;26.3;7.7;1.2;2.9;4.0;2.5;1.2;0.5;0.9;1.6;2.9
+Charlotte Hornets;cha;2021 - 2022 Regular Season;All Splits;Mason Plumlee;73;73;24.6;6.5;2.4;5.3;7.7;3.1;0.8;0.7;1.4;3.1;2.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;All Splits;Jalen McDaniels;55;2;16.3;6.2;0.7;2.4;3.1;1.1;0.5;0.4;0.7;1.7;1.6
+Charlotte Hornets;cha;2021 - 2022 Regular Season;All Splits;James Bouknight;31;0;9.8;4.6;0.7;1.0;1.7;0.8;0.2;0.0;0.5;0.9;1.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;All Splits;Ish Smith;37;1;13.8;4.5;0.3;1.2;1.5;2.6;0.5;0.3;1.0;0.9;2.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;All Splits;Nick Richards;50;5;7.3;3.0;0.7;1.0;1.7;0.3;0.2;0.4;0.5;1.0;0.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;All Splits;JT Thor;33;0;7.9;2.0;0.3;1.0;1.3;0.6;0.2;0.3;0.3;0.8;1.9
+Charlotte Hornets;cha;2021 - 2022 Regular Season;All Splits;Vernon Carey Jr.;4;1;4.3;2.0;0.8;0.5;1.3;0.0;0.3;0.0;0.3;0.3;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;All Splits;Kai Jones;21;0;3.0;1.0;0.1;0.4;0.5;0.2;0.0;0.1;0.3;0.4;0.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;All Splits;Scottie Lewis;2;0;3.5;0.5;0.0;0.0;0.0;0.5;0.5;0.0;0.0;0.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;All Splits;Arnoldas Kulboka;2;0;2.5;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;All Splits;Total;82;"";"";115.3;10.8;33.7;44.6;28.1;8.6;4.9;12.7;19.9;2.2
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Home;LaMelo Ball;38;38;32.7;20.2;1.3;5.6;6.9;7.2;1.4;0.4;3.4;3.2;2.1
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Home;Terry Rozier;36;36;33.8;19.7;0.8;3.7;4.5;4.2;1.0;0.4;1.3;1.6;3.1
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Home;Miles Bridges;40;40;35.9;18.8;1.0;6.0;7.0;4.2;0.9;1.0;2.1;2.8;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Home;Kelly Oubre Jr.;37;7;26.6;15.1;1.2;3.2;4.3;1.1;0.9;0.5;0.9;2.3;1.2
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Home;Gordon Hayward;22;22;31.0;14.0;0.9;3.7;4.6;3.6;1.0;0.6;1.7;1.9;2.1
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Home;Montrezl Harrell;15;0;21.4;12.5;2.6;2.7;5.3;2.0;0.5;0.5;0.7;1.9;2.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Home;P.J. Washington;33;15;28.2;11.2;1.1;4.2;5.3;2.2;0.8;1.2;1.4;2.4;1.6
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Home;Isaiah Thomas;9;0;13.0;8.9;0.1;0.9;1.0;1.4;0.4;0.0;0.3;1.2;4.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Home;Cody Martin;37;6;25.9;6.6;1.4;2.8;4.2;2.5;1.1;0.6;1.1;1.6;2.2
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Home;Mason Plumlee;37;37;24.5;6.2;2.7;5.7;8.5;3.1;0.8;0.7;1.5;3.0;2.1
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Home;Jalen McDaniels;23;1;15.6;6.2;0.5;2.4;2.9;1.2;0.4;0.3;0.7;1.3;1.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Home;James Bouknight;17;0;10.0;5.0;0.8;1.1;1.9;1.1;0.4;0.0;0.6;1.1;1.9
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Home;Ish Smith;18;0;13.4;4.7;0.4;1.1;1.4;3.0;0.6;0.2;0.8;0.9;3.9
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Home;Nick Richards;20;2;9.2;3.9;0.7;1.4;2.1;0.4;0.1;0.5;0.6;1.2;0.6
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Home;Vernon Carey Jr.;3;1;5.3;2.7;1.0;0.3;1.3;0.0;0.3;0.0;0.3;0.3;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Home;JT Thor;19;0;8.9;2.1;0.3;1.1;1.4;0.7;0.2;0.5;0.2;0.7;3.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Home;Kai Jones;10;0;3.1;1.1;0.1;0.5;0.6;0.1;0.0;0.2;0.2;0.4;0.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Home;Arnoldas Kulboka;2;0;2.5;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Home;Total;41;"";"";113.5;11.4;35.0;46.3;28.3;7.9;5.6;13.3;20.0;2.1
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Away;Miles Bridges;40;40;35.1;21.6;1.3;5.7;7.0;3.3;1.0;0.7;1.7;2.1;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Away;LaMelo Ball;37;37;31.9;20.0;1.6;4.9;6.4;8.0;1.7;0.4;3.1;3.1;2.6
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Away;Terry Rozier;37;37;33.5;18.9;0.8;3.4;4.1;4.7;1.5;0.3;1.3;1.6;3.6
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Away;Gordon Hayward;27;26;32.7;17.4;0.7;3.9;4.6;3.6;0.9;0.3;1.6;1.6;2.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Away;Kelly Oubre Jr.;39;6;26.0;14.9;0.9;2.7;3.6;1.2;1.1;0.3;0.9;2.6;1.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Away;Montrezl Harrell;10;0;20.3;9.8;1.4;2.9;4.3;1.9;0.3;0.4;1.1;2.0;1.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Away;P.J. Washington;32;13;26.2;9.4;1.4;3.7;5.1;2.3;0.9;0.7;1.1;2.3;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Away;Cody Martin;34;5;26.7;8.8;0.9;2.9;3.8;2.5;1.4;0.3;0.6;1.6;4.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Away;Isaiah Thomas;8;0;12.8;7.6;0.3;1.3;1.5;1.4;0.4;0.4;0.9;1.4;1.6
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Away;Mason Plumlee;36;36;24.6;6.8;2.1;4.9;7.0;3.1;0.9;0.7;1.3;3.2;2.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Away;Jalen McDaniels;32;1;16.8;6.2;0.8;2.4;3.3;1.0;0.5;0.5;0.6;1.9;1.6
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Away;Ish Smith;19;1;14.2;4.4;0.2;1.4;1.6;2.3;0.5;0.4;1.2;0.9;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Away;James Bouknight;14;0;9.6;4.1;0.6;0.8;1.4;0.5;0.1;0.1;0.4;0.7;1.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Away;Nick Richards;30;3;6.2;2.4;0.7;0.8;1.5;0.2;0.3;0.4;0.4;0.9;0.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Away;JT Thor;14;0;6.6;1.9;0.4;0.8;1.1;0.4;0.3;0.1;0.4;0.9;0.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Away;Kai Jones;11;0;2.8;1.0;0.2;0.3;0.5;0.3;0.1;0.0;0.4;0.4;0.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Away;Scottie Lewis;2;0;3.5;0.5;0.0;0.0;0.0;0.5;0.5;0.0;0.0;0.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Away;Vernon Carey Jr.;1;0;1.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Away;Total;41;"";"";117.2;10.3;32.5;42.8;27.9;9.3;4.2;12.1;19.7;2.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Boston Celtics;LaMelo Ball;4;4;33.3;23.3;1.8;5.5;7.3;8.0;0.5;0.5;5.8;3.8;1.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Boston Celtics;Terry Rozier;3;3;40.0;21.7;1.3;2.0;3.3;5.7;2.7;0.0;2.3;1.7;2.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Boston Celtics;Miles Bridges;4;4;35.5;17.5;0.8;5.5;6.3;1.8;0.5;0.5;1.3;3.3;1.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Boston Celtics;Kelly Oubre Jr.;4;1;29.5;15.3;1.3;3.3;4.5;0.5;1.8;1.0;0.8;2.8;0.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Boston Celtics;Jalen McDaniels;2;0;20.5;12.5;0.5;2.5;3.0;1.0;0.0;1.0;0.0;3.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Boston Celtics;P.J. Washington;3;2;34.3;11.7;1.7;3.0;4.7;1.0;1.0;1.3;2.0;1.0;0.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Boston Celtics;Gordon Hayward;2;2;29.5;10.0;2.0;2.5;4.5;3.0;1.5;0.0;1.5;3.5;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Boston Celtics;Ish Smith;1;0;23.0;10.0;0.0;2.0;2.0;4.0;1.0;0.0;1.0;2.0;4.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Boston Celtics;Montrezl Harrell;1;0;17.0;10.0;4.0;3.0;7.0;0.0;0.0;0.0;1.0;1.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Boston Celtics;Mason Plumlee;4;4;31.3;7.5;4.0;9.3;13.3;2.8;0.5;1.3;2.3;2.3;1.2
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Boston Celtics;Isaiah Thomas;1;0;11.0;5.0;0.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Boston Celtics;Cody Martin;4;0;17.8;4.3;1.0;2.3;3.3;0.8;0.5;0.3;0.3;0.8;3.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Boston Celtics;Nick Richards;3;0;7.3;2.3;0.3;1.3;1.7;0.0;0.0;1.0;0.7;0.7;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Boston Celtics;JT Thor;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Boston Celtics;Total;4;"";"";112.0;13.5;34.3;47.8;22.3;7.5;5.8;15.3;19.3;1.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Brooklyn Nets;Miles Bridges;3;3;37.3;28.7;2.0;4.7;6.7;2.3;1.3;0.3;1.7;2.3;1.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Brooklyn Nets;LaMelo Ball;3;3;31.3;25.0;1.0;4.7;5.7;7.0;1.7;0.3;1.7;2.3;4.2
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Brooklyn Nets;Terry Rozier;2;2;37.0;22.0;1.0;6.5;7.5;4.0;2.0;0.5;2.5;2.5;1.6
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Brooklyn Nets;Ish Smith;1;0;21.0;15.0;0.0;4.0;4.0;4.0;1.0;1.0;1.0;0.0;4.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Brooklyn Nets;Cody Martin;3;0;25.7;9.3;0.7;2.0;2.7;2.7;0.3;0.0;1.0;2.3;2.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Brooklyn Nets;P.J. Washington;3;2;31.3;9.0;2.3;6.0;8.3;3.7;1.0;0.0;0.7;2.7;5.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Brooklyn Nets;Kelly Oubre Jr.;3;1;20.7;8.7;2.0;3.7;5.7;0.3;1.3;0.0;0.7;3.0;0.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Brooklyn Nets;Gordon Hayward;1;1;33.0;8.0;0.0;3.0;3.0;6.0;0.0;0.0;5.0;3.0;1.2
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Brooklyn Nets;Isaiah Thomas;1;0;12.0;7.0;0.0;1.0;1.0;1.0;0.0;1.0;2.0;2.0;0.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Brooklyn Nets;Mason Plumlee;3;3;25.0;4.7;1.7;4.7;6.3;2.3;1.3;1.7;1.7;2.7;1.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Brooklyn Nets;Jalen McDaniels;3;0;11.0;4.3;1.3;0.7;2.0;0.3;0.3;0.0;0.3;1.0;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Brooklyn Nets;Montrezl Harrell;2;0;14.5;4.0;1.0;2.0;3.0;1.5;0.5;0.0;1.0;2.0;1.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Brooklyn Nets;Nick Richards;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Brooklyn Nets;Vernon Carey Jr.;1;0;1.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Brooklyn Nets;Kai Jones;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Brooklyn Nets;James Bouknight;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Brooklyn Nets;JT Thor;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Brooklyn Nets;Total;3;"";"";117.0;12.3;35.0;47.3;26.0;9.3;3.3;12.7;21.0;2.1
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. New York Knicks;Miles Bridges;4;4;35.5;27.0;1.0;5.8;6.8;5.3;1.0;1.0;1.0;2.3;5.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. New York Knicks;LaMelo Ball;3;3;37.7;21.3;1.0;9.3;10.3;9.7;3.0;0.3;4.7;3.7;2.1
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. New York Knicks;Gordon Hayward;2;2;37.0;19.0;1.0;2.5;3.5;5.5;2.0;0.5;2.0;3.0;2.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. New York Knicks;Terry Rozier;4;4;35.0;18.3;0.8;3.8;4.5;4.3;0.8;0.3;1.3;1.5;3.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. New York Knicks;Kelly Oubre Jr.;3;0;18.7;12.0;1.0;2.3;3.3;0.3;0.0;0.3;0.7;1.3;0.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. New York Knicks;P.J. Washington;3;2;27.0;7.7;1.7;3.0;4.7;1.7;1.0;1.0;1.0;2.0;1.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. New York Knicks;Montrezl Harrell;2;0;16.5;6.5;0.5;1.5;2.0;2.0;0.0;0.0;0.0;1.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. New York Knicks;Mason Plumlee;4;4;27.0;6.0;3.0;3.5;6.5;2.3;0.5;0.3;0.8;2.8;3.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. New York Knicks;Cody Martin;4;1;28.3;5.3;1.0;3.8;4.8;2.8;0.5;0.5;0.5;1.0;5.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. New York Knicks;Jalen McDaniels;4;0;13.5;4.3;0.0;2.8;2.8;0.8;0.0;0.0;0.0;2.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. New York Knicks;Isaiah Thomas;2;0;8.5;3.5;0.0;1.0;1.0;1.0;0.0;0.0;0.0;1.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. New York Knicks;Nick Richards;3;0;4.7;1.7;1.0;0.3;1.3;0.0;0.0;0.0;0.3;0.7;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. New York Knicks;Ish Smith;2;0;7.5;1.5;0.0;0.0;0.0;0.0;0.5;0.0;0.5;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. New York Knicks;JT Thor;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. New York Knicks;Total;4;"";"";108.0;10.0;33.3;43.3;28.3;7.0;3.5;9.8;17.8;2.9
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Kelly Oubre Jr.;3;2;35.3;22.7;1.3;4.7;6.0;2.0;2.0;0.3;1.7;1.7;1.2
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Gordon Hayward;4;3;34.5;19.5;0.5;3.8;4.3;6.8;1.5;0.5;1.8;2.0;3.9
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Miles Bridges;4;4;39.3;19.3;0.8;5.3;6.0;4.0;0.3;0.5;3.0;4.3;1.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Terry Rozier;2;2;34.0;16.0;0.5;3.5;4.0;5.0;3.5;0.0;0.5;1.5;10.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Philadelphia 76ers;LaMelo Ball;2;2;32.0;13.0;0.0;4.5;4.5;6.5;1.5;0.0;3.5;0.5;1.9
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Cody Martin;4;2;33.5;11.3;1.3;3.3;4.5;3.5;1.5;0.0;1.5;1.5;2.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Philadelphia 76ers;P.J. Washington;4;1;25.5;9.5;1.3;4.3;5.5;2.5;1.3;1.8;1.0;3.8;2.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Mason Plumlee;2;2;23.0;8.5;0.5;3.0;3.5;3.5;0.0;0.0;1.0;3.5;3.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Nick Richards;3;2;14.0;8.0;1.3;1.7;3.0;1.0;0.0;0.3;1.0;2.0;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Philadelphia 76ers;James Bouknight;2;0;17.0;6.5;2.5;1.0;3.5;0.5;0.0;0.0;1.5;2.0;0.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Philadelphia 76ers;JT Thor;2;0;17.5;6.5;1.0;1.0;2.0;1.0;0.5;0.5;0.0;0.5;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Montrezl Harrell;1;0;17.0;6.0;1.0;1.0;2.0;4.0;0.0;0.0;0.0;2.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Jalen McDaniels;2;0;12.0;5.5;1.0;1.0;2.0;0.5;0.5;0.0;1.0;1.5;0.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Isaiah Thomas;1;0;19.0;5.0;0.0;2.0;2.0;2.0;0.0;0.0;1.0;3.0;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Total;4;"";"";113.3;8.8;29.0;37.8;29.0;9.0;3.5;13.3;20.3;2.2
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Toronto Raptors;Montrezl Harrell;1;0;23.0;20.0;5.0;5.0;10.0;3.0;0.0;0.0;1.0;3.0;3.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Toronto Raptors;Miles Bridges;3;3;34.7;19.3;1.3;5.3;6.7;5.0;1.0;1.0;3.3;2.7;1.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Toronto Raptors;Terry Rozier;3;3;34.0;18.3;0.3;3.7;4.0;7.0;1.0;0.7;0.7;2.0;10.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Toronto Raptors;James Bouknight;1;0;29.0;18.0;0.0;2.0;2.0;1.0;1.0;0.0;0.0;1.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Toronto Raptors;LaMelo Ball;3;3;35.0;17.7;1.7;2.3;4.0;7.3;2.0;0.0;5.7;3.7;1.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Toronto Raptors;Kelly Oubre Jr.;3;0;32.3;16.3;1.0;3.3;4.3;1.0;1.3;0.7;0.7;3.0;1.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Toronto Raptors;P.J. Washington;3;1;21.0;10.3;0.3;4.3;4.7;1.7;1.0;1.0;0.0;1.3;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Toronto Raptors;Mason Plumlee;3;3;29.7;8.7;3.0;5.7;8.7;2.7;1.3;0.3;1.3;3.0;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Toronto Raptors;Cody Martin;2;1;24.5;6.0;1.5;2.5;4.0;2.0;1.5;0.0;1.0;2.0;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Toronto Raptors;JT Thor;2;0;14.0;6.0;0.0;2.5;2.5;1.5;0.5;0.5;0.5;1.0;3.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Toronto Raptors;Gordon Hayward;1;1;6.0;3.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Toronto Raptors;Kai Jones;1;0;4.0;2.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;0.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Toronto Raptors;Ish Smith;2;0;8.0;0.0;0.0;1.0;1.0;0.0;0.0;0.5;0.5;1.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Toronto Raptors;Nick Richards;1;0;4.0;0.0;0.0;1.0;1.0;1.0;0.0;0.0;1.0;0.0;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Toronto Raptors;Total;3;"";"";113.0;10.3;32.0;42.3;29.0;9.3;4.3;13.7;19.7;2.1
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Chicago Bulls;LaMelo Ball;3;3;33.0;25.0;2.0;5.0;7.0;9.0;2.0;0.3;3.7;4.0;2.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Chicago Bulls;Gordon Hayward;1;1;37.0;22.0;1.0;5.0;6.0;2.0;1.0;1.0;2.0;3.0;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Chicago Bulls;Terry Rozier;3;3;35.0;20.7;0.3;3.0;3.3;6.0;0.0;0.3;0.7;0.3;9.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Chicago Bulls;Kelly Oubre Jr.;3;1;30.7;18.3;0.7;2.7;3.3;1.3;1.3;0.7;0.3;2.3;4.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Chicago Bulls;Miles Bridges;3;3;34.7;17.0;0.0;5.3;5.3;2.7;0.3;1.0;1.0;1.0;2.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Chicago Bulls;Montrezl Harrell;1;0;21.0;14.0;2.0;4.0;6.0;0.0;0.0;0.0;2.0;3.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Chicago Bulls;Cody Martin;1;0;29.0;11.0;2.0;1.0;3.0;3.0;1.0;0.0;0.0;2.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Chicago Bulls;P.J. Washington;3;1;31.7;9.0;1.0;3.7;4.7;2.0;1.0;1.0;1.3;2.3;1.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Chicago Bulls;Jalen McDaniels;2;0;23.0;8.5;0.5;4.0;4.5;2.0;1.0;1.5;0.0;2.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Chicago Bulls;Mason Plumlee;2;2;23.5;5.5;2.0;5.0;7.0;3.5;1.5;0.0;0.5;3.0;7.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Chicago Bulls;Nick Richards;2;1;10.0;5.5;0.5;0.5;1.0;0.0;0.0;0.0;0.0;0.5;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Chicago Bulls;Isaiah Thomas;1;0;6.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;2.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Chicago Bulls;Ish Smith;1;0;15.0;2.0;1.0;1.0;2.0;4.0;0.0;0.0;0.0;0.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Chicago Bulls;JT Thor;1;0;6.0;0.0;0.0;2.0;2.0;0.0;0.0;0.0;1.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Chicago Bulls;Total;3;"";"";120.3;8.0;30.3;38.3;27.7;7.0;4.7;9.3;17.0;3.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Terry Rozier;4;4;32.5;20.0;0.3;4.3;4.5;3.8;1.3;0.5;1.3;1.0;3.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Miles Bridges;4;4;36.3;18.0;1.8;5.8;7.5;5.3;2.0;0.8;1.8;1.8;3.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Kelly Oubre Jr.;4;0;25.8;16.8;1.8;3.3;5.0;2.0;0.8;0.8;1.0;3.3;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;LaMelo Ball;4;4;25.8;16.0;1.3;2.8;4.0;4.8;2.3;0.5;3.3;4.5;1.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;P.J. Washington;4;1;24.0;11.5;1.8;3.3;5.0;1.3;0.5;0.5;0.8;1.3;1.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Montrezl Harrell;1;0;17.0;11.0;4.0;5.0;9.0;1.0;0.0;0.0;0.0;1.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Gordon Hayward;3;3;31.0;10.3;0.7;2.3;3.0;4.7;1.7;0.7;3.3;2.3;1.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Isaiah Thomas;1;0;14.0;10.0;1.0;4.0;5.0;3.0;2.0;0.0;2.0;1.0;1.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Cody Martin;4;0;24.5;8.5;2.3;2.5;4.8;2.8;1.3;0.3;1.3;2.3;2.2
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Mason Plumlee;4;4;27.3;6.0;2.8;7.0;9.8;3.0;1.3;1.0;1.5;3.5;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Ish Smith;2;0;14.5;3.0;0.5;1.0;1.5;4.5;0.0;0.0;0.0;0.5;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;JT Thor;2;0;5.0;2.0;0.0;0.0;0.0;0.0;0.0;0.5;0.5;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Nick Richards;3;0;2.7;1.3;0.0;0.0;0.0;0.0;0.0;0.0;0.3;0.3;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Jalen McDaniels;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Kai Jones;2;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.5;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;James Bouknight;1;0;1.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Total;4;"";"";113.3;13.8;33.5;47.3;29.5;11.0;5.0;14.8;20.5;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Detroit Pistons;Terry Rozier;3;3;35.7;24.7;1.7;4.3;6.0;6.3;2.0;0.0;1.3;2.0;4.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Detroit Pistons;Miles Bridges;3;3;35.3;24.3;0.7;4.7;5.3;3.7;1.0;1.3;3.3;1.3;1.1
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Detroit Pistons;LaMelo Ball;3;3;33.3;20.0;1.3;5.3;6.7;10.3;2.0;1.0;3.3;2.3;3.1
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Detroit Pistons;Kelly Oubre Jr.;3;1;26.3;19.3;0.0;5.0;5.0;0.7;0.0;0.7;1.3;2.7;0.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Detroit Pistons;Gordon Hayward;1;1;26.0;19.0;0.0;6.0;6.0;4.0;1.0;0.0;1.0;3.0;4.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Detroit Pistons;P.J. Washington;3;1;28.7;12.3;1.7;4.7;6.3;3.3;1.0;0.3;2.7;2.7;1.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Detroit Pistons;Cody Martin;2;0;25.5;9.0;0.5;0.5;1.0;2.0;2.0;0.0;1.5;2.5;1.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Detroit Pistons;Jalen McDaniels;1;0;22.0;9.0;2.0;3.0;5.0;2.0;1.0;0.0;2.0;2.0;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Detroit Pistons;Montrezl Harrell;2;0;23.0;8.5;2.0;3.0;5.0;2.5;0.5;1.0;2.0;2.5;1.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Detroit Pistons;Mason Plumlee;3;3;20.3;5.7;3.0;5.0;8.0;2.3;0.0;0.0;1.0;2.7;2.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Detroit Pistons;James Bouknight;2;0;12.0;4.5;1.5;1.0;2.5;0.5;0.0;0.5;0.0;1.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Detroit Pistons;Nick Richards;2;0;4.0;3.5;0.0;1.0;1.0;0.0;0.5;0.0;1.0;0.5;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Detroit Pistons;JT Thor;3;0;6.3;2.3;0.0;1.0;1.0;0.3;0.3;0.0;0.3;0.3;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Detroit Pistons;Kai Jones;2;0;3.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Detroit Pistons;Ish Smith;1;0;6.0;0.0;0.0;1.0;1.0;3.0;0.0;0.0;0.0;1.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Detroit Pistons;Total;3;"";"";135.7;11.7;37.0;48.7;33.3;9.0;4.3;17.3;20.7;1.9
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Indiana Pacers;LaMelo Ball;4;4;35.0;28.3;2.3;8.3;10.5;9.3;1.3;0.3;3.8;2.3;2.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Indiana Pacers;Gordon Hayward;3;3;33.7;23.3;0.7;3.7;4.3;2.7;2.0;0.7;1.0;2.0;2.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Indiana Pacers;Terry Rozier;3;3;29.3;21.7;0.0;4.7;4.7;3.0;1.3;0.7;0.7;0.7;4.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Indiana Pacers;Kelly Oubre Jr.;4;1;31.0;20.5;0.8;2.3;3.0;1.8;0.8;0.0;1.3;3.0;1.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Indiana Pacers;Miles Bridges;3;3;31.7;16.3;0.3;5.7;6.0;2.0;1.3;0.7;2.3;4.3;0.9
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Indiana Pacers;James Bouknight;1;0;22.0;13.0;1.0;2.0;3.0;1.0;0.0;0.0;2.0;4.0;0.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Indiana Pacers;Cody Martin;4;1;25.0;8.5;1.0;3.0;4.0;3.0;0.8;1.5;0.5;3.0;6.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Indiana Pacers;Mason Plumlee;4;4;29.0;7.0;2.0;6.0;8.0;4.5;1.0;0.8;1.8;4.0;2.6
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Indiana Pacers;P.J. Washington;2;0;18.5;7.0;1.5;1.5;3.0;3.5;1.0;0.5;0.5;3.0;7.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Indiana Pacers;Jalen McDaniels;3;1;18.7;6.0;0.7;2.0;2.7;1.0;0.7;0.7;1.0;1.7;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Indiana Pacers;Ish Smith;4;0;12.0;4.3;0.0;1.0;1.0;2.5;0.8;0.8;0.8;0.8;3.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Indiana Pacers;Nick Richards;3;0;7.7;4.0;0.0;1.7;1.7;0.7;0.7;0.0;0.3;2.0;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Indiana Pacers;Kai Jones;1;0;3.0;3.0;1.0;0.0;1.0;1.0;0.0;0.0;0.0;2.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Indiana Pacers;JT Thor;1;0;5.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Indiana Pacers;Total;4;"";"";129.5;8.5;35.3;43.8;30.3;9.5;5.5;12.8;24.0;2.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Milwaukee Bucks;LaMelo Ball;4;4;33.3;25.5;2.0;3.8;5.8;5.5;1.3;0.3;4.0;3.3;1.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Terry Rozier;4;4;37.3;20.5;0.5;4.0;4.5;6.0;2.3;0.3;1.5;2.3;4.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Kelly Oubre Jr.;3;0;29.3;20.0;0.3;4.0;4.3;2.3;0.7;0.3;1.3;3.0;1.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Miles Bridges;4;4;35.3;18.5;1.0;6.8;7.8;1.5;0.5;0.8;1.0;3.3;1.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Gordon Hayward;3;3;33.7;13.7;0.7;3.3;4.0;3.3;0.7;1.3;1.0;1.3;3.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Montrezl Harrell;1;0;25.0;9.0;0.0;4.0;4.0;2.0;0.0;0.0;0.0;2.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Milwaukee Bucks;P.J. Washington;4;2;29.3;8.5;1.3;6.0;7.3;3.0;1.0;0.8;1.3;3.8;2.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Cody Martin;3;0;23.7;5.0;1.0;3.3;4.3;2.0;1.7;0.0;1.0;1.3;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Mason Plumlee;3;3;18.7;4.3;3.0;2.7;5.7;2.3;1.3;0.3;0.7;4.0;3.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Jalen McDaniels;3;0;17.3;4.0;0.3;2.3;2.7;1.7;0.3;0.7;1.0;1.0;1.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Kai Jones;1;0;7.0;4.0;1.0;1.0;2.0;0.0;1.0;0.0;1.0;1.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Milwaukee Bucks;JT Thor;1;0;16.0;2.0;2.0;1.0;3.0;2.0;1.0;0.0;1.0;4.0;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Ish Smith;1;0;3.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Nick Richards;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Total;4;"";"";112.0;9.5;33.8;43.3;26.0;9.0;4.0;12.0;22.3;2.2
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Atlanta Hawks;Miles Bridges;4;4;36.5;26.0;1.0;5.5;6.5;3.3;0.8;1.0;1.3;2.8;2.6
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Atlanta Hawks;Montrezl Harrell;1;0;20.0;20.0;4.0;2.0;6.0;0.0;0.0;0.0;0.0;1.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Atlanta Hawks;LaMelo Ball;3;3;34.7;18.7;1.3;6.3;7.7;8.7;1.0;1.0;2.7;3.3;3.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Atlanta Hawks;Gordon Hayward;2;2;34.0;14.5;1.0;5.5;6.5;3.5;1.0;0.5;1.5;1.5;2.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Atlanta Hawks;P.J. Washington;3;1;31.7;13.7;1.3;5.0;6.3;2.7;1.7;1.3;2.0;1.7;1.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Atlanta Hawks;Kelly Oubre Jr.;4;1;27.0;13.5;1.0;3.3;4.3;0.8;0.3;0.3;0.3;2.3;3.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Atlanta Hawks;Terry Rozier;3;3;31.7;11.7;2.0;2.0;4.0;4.3;2.0;0.0;1.3;2.3;3.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Atlanta Hawks;Cody Martin;4;1;29.3;10.0;1.5;4.0;5.5;2.0;1.0;0.8;0.5;2.3;4.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Atlanta Hawks;Mason Plumlee;3;3;20.3;8.3;2.3;5.3;7.7;2.3;0.7;0.3;1.7;3.0;1.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Atlanta Hawks;Ish Smith;3;1;17.7;6.7;1.3;2.3;3.7;3.3;0.7;0.0;0.7;1.7;5.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Atlanta Hawks;James Bouknight;2;0;11.5;4.5;0.0;1.0;1.0;1.0;0.5;0.0;1.0;1.5;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Atlanta Hawks;Jalen McDaniels;2;0;16.0;2.5;1.0;1.0;2.0;0.5;0.0;0.5;1.5;2.5;0.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Atlanta Hawks;Isaiah Thomas;1;0;9.0;2.0;0.0;1.0;1.0;2.0;0.0;0.0;0.0;1.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Atlanta Hawks;Nick Richards;2;1;5.0;1.0;0.5;1.5;2.0;0.0;0.0;0.5;0.0;0.5;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Atlanta Hawks;Vernon Carey Jr.;1;0;2.0;0.0;1.0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Atlanta Hawks;Kai Jones;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Atlanta Hawks;JT Thor;2;0;7.5;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;1.5;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Atlanta Hawks;Total;4;"";"";110.5;12.3;34.5;46.8;25.0;7.3;4.8;10.3;20.5;2.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Miami Heat;Montrezl Harrell;1;0;43.0;24.0;5.0;4.0;9.0;0.0;1.0;1.0;2.0;4.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Miami Heat;Miles Bridges;4;4;38.8;23.8;1.3;6.3;7.5;3.0;0.8;1.3;3.3;2.8;0.9
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Miami Heat;LaMelo Ball;4;4;31.3;12.5;1.3;5.3;6.5;9.3;0.3;0.5;3.3;3.8;2.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Miami Heat;Terry Rozier;3;3;34.3;12.3;0.7;2.7;3.3;3.3;0.7;0.0;2.3;2.0;1.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Miami Heat;P.J. Washington;4;2;30.8;12.0;2.0;5.3;7.3;1.8;0.8;1.0;2.3;2.5;0.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Miami Heat;Kelly Oubre Jr.;4;1;30.0;11.8;1.5;2.3;3.8;1.3;1.0;0.3;0.5;2.5;2.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Miami Heat;Gordon Hayward;2;2;29.5;11.5;1.0;3.5;4.5;3.0;0.0;0.5;0.5;1.5;6.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Miami Heat;Cody Martin;3;0;30.7;10.0;0.3;3.0;3.3;2.0;1.7;0.3;1.7;0.7;1.2
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Miami Heat;Isaiah Thomas;1;0;15.0;8.0;0.0;1.0;1.0;1.0;0.0;1.0;1.0;2.0;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Miami Heat;Jalen McDaniels;2;0;14.0;6.5;0.0;1.0;1.0;1.0;1.0;0.0;0.0;1.5;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Miami Heat;Ish Smith;2;0;15.0;6.0;0.5;1.0;1.5;3.5;0.5;0.0;1.0;1.5;3.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Miami Heat;Mason Plumlee;4;4;19.0;3.3;2.0;4.5;6.5;1.8;0.8;0.5;1.0;1.8;1.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Miami Heat;JT Thor;2;0;9.0;2.0;1.0;0.0;1.0;1.0;0.0;0.0;0.0;0.5;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Miami Heat;Nick Richards;2;0;7.5;1.5;1.0;0.5;1.5;0.5;0.0;0.0;0.0;1.5;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Miami Heat;James Bouknight;3;0;3.3;0.0;0.0;0.3;0.3;0.7;0.3;0.0;0.7;0.7;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Miami Heat;Total;4;"";"";101.8;11.8;32.3;44.0;26.3;6.5;4.5;15.3;20.5;1.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Orlando Magic;Terry Rozier;3;3;34.0;22.7;1.7;4.7;6.3;4.7;2.7;1.0;0.3;0.7;14.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Orlando Magic;LaMelo Ball;4;4;28.8;19.5;1.3;4.3;5.5;6.0;2.5;0.0;2.8;3.0;2.2
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Orlando Magic;Miles Bridges;4;4;34.8;18.8;0.3;5.8;6.0;2.8;0.5;1.5;1.8;2.5;1.6
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Orlando Magic;Gordon Hayward;3;3;33.3;14.3;0.0;3.7;3.7;3.3;1.3;0.7;2.3;1.0;1.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Orlando Magic;Montrezl Harrell;1;0;20.0;14.0;0.0;2.0;2.0;2.0;1.0;2.0;0.0;2.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Orlando Magic;Kelly Oubre Jr.;3;1;28.7;13.7;1.0;3.7;4.7;0.3;0.0;0.0;0.3;1.3;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Orlando Magic;Jalen McDaniels;4;0;18.0;9.0;1.0;3.8;4.8;1.8;0.8;1.0;0.8;2.5;2.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Orlando Magic;Mason Plumlee;4;4;24.0;8.8;3.8;4.8;8.5;2.3;0.5;1.0;2.0;3.0;1.1
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Orlando Magic;Cody Martin;4;0;25.5;7.8;1.0;3.5;4.5;3.5;2.0;0.8;1.3;1.5;2.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Orlando Magic;Isaiah Thomas;1;0;8.0;7.0;1.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Orlando Magic;Ish Smith;2;0;15.0;6.0;0.0;2.0;2.0;2.5;2.0;0.0;0.5;0.0;5.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Orlando Magic;P.J. Washington;3;1;19.7;4.7;0.3;2.7;3.0;1.0;0.3;1.0;2.3;1.3;0.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Orlando Magic;Nick Richards;3;0;6.7;2.0;1.0;1.7;2.7;0.0;0.0;0.7;0.3;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Orlando Magic;Kai Jones;1;0;3.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Orlando Magic;JT Thor;1;0;5.0;1.0;0.0;0.0;0.0;1.0;0.0;1.0;0.0;0.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Orlando Magic;James Bouknight;1;0;4.0;0.0;1.0;2.0;3.0;3.0;0.0;0.0;1.0;0.0;3.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Orlando Magic;Total;4;"";"";115.8;10.8;36.5;47.3;26.3;10.8;7.5;13.3;16.8;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Washington Wizards;Terry Rozier;4;4;33.0;25.3;0.8;3.8;4.5;4.3;1.5;0.3;1.3;2.5;3.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Washington Wizards;LaMelo Ball;4;4;33.5;20.3;1.5;6.8;8.3;8.0;1.5;0.3;5.3;2.3;1.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Washington Wizards;Gordon Hayward;3;3;32.7;17.0;1.0;5.3;6.3;2.3;1.0;0.3;0.0;2.7;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Washington Wizards;Isaiah Thomas;1;0;13.0;14.0;0.0;1.0;1.0;1.0;1.0;0.0;0.0;2.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Washington Wizards;Miles Bridges;4;4;37.0;13.8;1.8;7.3;9.0;4.0;1.3;0.8;1.8;1.5;2.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Washington Wizards;Mason Plumlee;4;4;24.0;9.0;3.0;5.0;8.0;3.5;0.5;1.5;0.5;3.5;7.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Washington Wizards;P.J. Washington;1;1;25.0;9.0;0.0;1.0;1.0;1.0;0.0;1.0;1.0;4.0;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Washington Wizards;Kelly Oubre Jr.;4;0;18.8;8.5;0.3;2.3;2.5;0.8;1.0;0.5;0.5;2.0;1.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Washington Wizards;Montrezl Harrell;1;0;22.0;8.0;2.0;0.0;2.0;4.0;1.0;1.0;2.0;1.0;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Washington Wizards;Jalen McDaniels;4;0;16.8;7.5;0.5;3.3;3.8;1.8;0.5;0.8;0.3;1.3;7.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Washington Wizards;Nick Richards;2;0;11.5;6.5;1.5;1.0;2.5;0.0;0.0;1.0;0.5;2.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Washington Wizards;Cody Martin;4;0;25.8;3.8;1.5;1.8;3.3;2.3;1.8;0.8;0.5;1.0;4.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Washington Wizards;Ish Smith;1;0;13.0;2.0;1.0;0.0;1.0;2.0;0.0;0.0;1.0;2.0;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Washington Wizards;James Bouknight;2;0;1.5;1.0;0.0;0.5;0.5;0.0;0.0;0.0;0.0;0.5;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Washington Wizards;Arnoldas Kulboka;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Washington Wizards;Kai Jones;2;0;1.5;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Washington Wizards;JT Thor;1;0;3.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;1.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Washington Wizards;Total;4;"";"";112.8;11.5;35.5;47.0;28.3;9.3;6.5;11.5;20.0;2.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Denver Nuggets;Miles Bridges;2;2;31.0;21.5;1.0;7.0;8.0;2.0;0.5;0.5;3.5;2.5;0.6
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Denver Nuggets;LaMelo Ball;2;2;29.5;19.0;1.5;4.0;5.5;7.5;3.0;0.5;3.0;4.0;2.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Denver Nuggets;Kelly Oubre Jr.;2;0;29.0;17.5;0.5;3.0;3.5;1.5;2.5;0.5;0.5;1.5;3.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Denver Nuggets;Terry Rozier;2;2;31.0;14.5;1.5;3.0;4.5;6.0;0.5;0.0;1.0;1.5;6.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Denver Nuggets;Isaiah Thomas;1;0;21.0;12.0;0.0;4.0;4.0;2.0;1.0;0.0;0.0;1.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Denver Nuggets;P.J. Washington;2;1;28.0;11.5;0.5;7.0;7.5;4.5;0.0;1.5;0.5;3.5;9.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Denver Nuggets;Ish Smith;1;0;15.0;9.0;0.0;2.0;2.0;4.0;0.0;2.0;1.0;1.0;4.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Denver Nuggets;Montrezl Harrell;1;0;15.0;9.0;3.0;2.0;5.0;2.0;2.0;0.0;2.0;2.0;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Denver Nuggets;Gordon Hayward;1;1;30.0;6.0;2.0;2.0;4.0;3.0;1.0;0.0;2.0;0.0;1.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Denver Nuggets;Jalen McDaniels;2;0;19.0;6.0;1.0;2.5;3.5;1.0;0.0;0.5;0.5;2.0;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Denver Nuggets;Mason Plumlee;2;2;22.5;4.0;1.0;3.0;4.0;1.5;1.5;1.0;0.0;4.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Denver Nuggets;Cody Martin;1;0;17.0;0.0;0.0;0.0;0.0;1.0;1.0;0.0;2.0;0.0;0.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Denver Nuggets;Nick Richards;1;0;2.0;0.0;1.0;1.0;2.0;1.0;0.0;0.0;0.0;0.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Denver Nuggets;Total;2;"";"";112.0;10.0;35.0;45.0;30.5;10.5;5.5;12.5;21.0;2.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Miles Bridges;2;2;35.0;23.0;1.5;8.5;10.0;4.0;0.5;1.0;2.5;3.5;1.6
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Terry Rozier;2;2;35.0;20.0;0.0;2.0;2.0;3.5;1.0;1.0;0.5;2.5;7.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Kelly Oubre Jr.;2;0;26.0;19.0;1.5;1.0;2.5;0.5;1.5;0.0;1.0;3.0;0.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Gordon Hayward;1;1;27.0;18.0;2.0;4.0;6.0;6.0;0.0;3.0;5.0;2.0;1.2
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;LaMelo Ball;2;2;35.0;16.0;1.0;6.5;7.5;9.5;1.0;0.5;3.0;4.0;3.2
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Mason Plumlee;1;1;36.0;14.0;6.0;11.0;17.0;9.0;0.0;0.0;3.0;5.0;3.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Jalen McDaniels;1;0;23.0;14.0;2.0;6.0;8.0;1.0;0.0;0.0;0.0;1.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Montrezl Harrell;1;0;34.0;12.0;2.0;5.0;7.0;2.0;1.0;2.0;2.0;3.0;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;P.J. Washington;2;2;28.5;10.0;1.0;6.0;7.0;0.5;2.0;0.5;1.0;4.0;0.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Cody Martin;1;0;28.0;6.0;0.0;3.0;3.0;6.0;1.0;1.0;0.0;0.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;JT Thor;1;0;11.0;5.0;1.0;2.0;3.0;1.0;0.0;1.0;1.0;2.0;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Ish Smith;1;0;6.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Nick Richards;1;0;15.0;2.0;0.0;3.0;3.0;0.0;0.0;1.0;1.0;4.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Kai Jones;1;0;3.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;James Bouknight;1;0;4.0;2.0;0.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Total;2;"";"";126.5;11.5;41.5;53.0;31.5;7.0;7.0;14.5;25.5;2.2
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Terry Rozier;2;2;31.5;27.0;0.0;5.5;5.5;6.5;1.0;0.0;2.0;2.0;3.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Miles Bridges;2;2;31.5;24.5;1.0;7.5;8.5;5.0;1.5;1.0;2.0;1.0;2.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Gordon Hayward;1;1;30.0;16.0;2.0;5.0;7.0;4.0;1.0;0.0;1.0;1.0;4.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;LaMelo Ball;2;2;28.0;15.5;2.5;4.5;7.0;7.5;1.0;0.5;2.0;3.0;3.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;P.J. Washington;2;1;28.5;13.0;1.5;4.0;5.5;0.5;1.0;1.0;0.0;1.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Isaiah Thomas;1;0;17.0;12.0;1.0;0.0;1.0;4.0;0.0;1.0;0.0;1.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Kelly Oubre Jr.;2;0;19.0;9.5;2.0;2.5;4.5;0.5;2.0;0.5;0.0;3.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Cody Martin;2;0;24.5;7.5;1.0;1.0;2.0;2.5;2.0;0.0;0.5;1.0;5.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Mason Plumlee;2;2;22.5;6.5;1.5;6.5;8.0;5.0;1.0;2.0;1.5;1.5;3.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Montrezl Harrell;1;0;18.0;5.0;0.0;0.0;0.0;2.0;0.0;1.0;0.0;4.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;James Bouknight;1;0;7.0;4.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Jalen McDaniels;2;0;9.5;2.0;0.5;1.0;1.5;0.0;0.0;0.0;0.5;1.5;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;JT Thor;2;0;3.0;2.0;0.5;1.5;2.0;0.5;0.0;0.0;0.0;0.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Nick Richards;2;0;3.0;1.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Vernon Carey Jr.;1;0;3.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Kai Jones;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Total;2;"";"";127.5;12.0;37.5;49.5;33.5;10.0;6.0;9.0;17.5;3.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Portland Trail Blazers;LaMelo Ball;2;2;31.0;27.0;1.0;5.5;6.5;6.0;1.0;0.0;1.5;3.0;4.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Kelly Oubre Jr.;2;0;31.5;22.0;1.5;4.0;5.5;3.0;1.0;0.0;1.5;3.5;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Miles Bridges;2;2;36.0;16.5;0.5;5.5;6.0;10.0;0.5;1.5;1.0;2.0;10.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Portland Trail Blazers;P.J. Washington;2;0;23.0;16.5;0.5;3.0;3.5;2.0;0.5;1.5;1.5;2.5;1.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Gordon Hayward;2;2;26.0;9.0;0.5;3.5;4.0;0.5;0.0;0.0;2.5;0.5;0.2
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Cody Martin;2;0;21.0;9.0;2.0;2.5;4.5;3.0;1.0;1.0;0.0;0.5;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Terry Rozier;2;2;28.0;8.0;0.5;2.5;3.0;3.0;1.5;0.0;1.5;1.5;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Mason Plumlee;2;2;21.5;6.5;2.5;2.0;4.5;1.0;0.0;1.0;1.0;2.5;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Ish Smith;2;0;14.0;4.0;0.0;1.0;1.0;3.5;0.5;0.0;0.0;2.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Jalen McDaniels;1;0;16.0;4.0;2.0;3.0;5.0;1.0;0.0;0.0;0.0;1.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Total;2;"";"";120.5;10.0;31.0;41.0;32.5;6.0;5.0;10.5;18.5;3.1
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Utah Jazz;Miles Bridges;2;2;36.5;23.5;2.5;8.5;11.0;4.0;0.5;0.5;3.5;2.5;1.1
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Utah Jazz;Terry Rozier;2;2;34.0;22.5;0.0;5.0;5.0;2.5;0.5;0.0;0.0;2.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Utah Jazz;LaMelo Ball;2;2;33.0;21.0;1.5;3.5;5.0;8.0;1.0;0.5;3.0;5.0;2.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Utah Jazz;Isaiah Thomas;1;0;15.0;9.0;0.0;0.0;0.0;0.0;2.0;0.0;0.0;1.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Utah Jazz;Montrezl Harrell;1;0;19.0;9.0;2.0;2.0;4.0;3.0;0.0;0.0;0.0;1.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Utah Jazz;Jalen McDaniels;2;0;18.0;8.0;0.5;3.0;3.5;1.0;0.5;1.0;0.5;3.0;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Utah Jazz;Nick Richards;1;0;11.0;6.0;4.0;1.0;5.0;1.0;0.0;0.0;0.0;1.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Utah Jazz;P.J. Washington;2;1;26.0;6.0;1.0;1.5;2.5;3.0;1.0;1.0;1.5;1.5;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Utah Jazz;Kelly Oubre Jr.;2;1;24.0;5.5;0.5;2.5;3.0;0.5;1.5;0.0;0.5;2.0;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Utah Jazz;Ish Smith;1;0;13.0;3.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;0.0;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Utah Jazz;Mason Plumlee;2;2;21.0;2.5;3.0;7.0;10.0;3.0;0.5;0.5;1.0;3.0;3.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Utah Jazz;Cody Martin;1;0;25.0;2.0;3.0;2.0;5.0;2.0;0.0;0.0;1.0;0.0;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Utah Jazz;James Bouknight;1;0;10.0;2.0;0.0;1.0;1.0;2.0;0.0;0.0;0.0;1.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Utah Jazz;Total;2;"";"";104.5;13.5;34.5;48.0;26.5;7.0;3.5;11.0;21.0;2.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Golden State Warriors;Miles Bridges;2;2;39.5;27.0;1.0;7.5;8.5;2.5;1.5;1.0;0.5;2.5;5.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Golden State Warriors;LaMelo Ball;2;2;35.5;17.5;0.5;5.5;6.0;6.5;3.5;0.0;4.0;4.5;1.6
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Golden State Warriors;Gordon Hayward;2;2;34.5;16.5;0.0;7.0;7.0;3.0;0.5;0.0;0.0;1.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Golden State Warriors;Terry Rozier;2;2;33.5;12.5;1.0;2.0;3.0;1.5;0.5;1.0;2.5;1.0;0.6
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Golden State Warriors;Cody Martin;2;0;27.0;7.0;2.5;4.0;6.5;2.5;1.5;0.0;0.0;2.5;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Golden State Warriors;P.J. Washington;1;0;17.0;7.0;1.0;4.0;5.0;0.0;0.0;0.0;1.0;1.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Golden State Warriors;Mason Plumlee;2;2;24.5;6.0;1.0;2.5;3.5;3.5;1.5;0.0;1.0;2.5;3.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Golden State Warriors;Kelly Oubre Jr.;2;0;14.5;5.0;0.0;2.5;2.5;0.5;0.5;0.0;1.5;2.0;0.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Golden State Warriors;Jalen McDaniels;2;0;11.5;3.0;0.0;3.0;3.0;0.5;0.5;0.0;1.0;1.0;0.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Golden State Warriors;Ish Smith;2;0;9.0;1.0;0.0;1.5;1.5;0.0;0.0;0.0;2.5;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Golden State Warriors;Nick Richards;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Golden State Warriors;James Bouknight;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Golden State Warriors;Total;2;"";"";99.0;6.5;37.5;44.0;20.5;10.0;2.0;13.5;17.5;1.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. LA Clippers;LaMelo Ball;2;2;34.5;22.0;1.5;4.5;6.0;6.5;2.5;0.0;1.0;4.0;6.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. LA Clippers;Miles Bridges;2;2;37.5;19.5;1.5;5.0;6.5;4.0;1.5;1.5;0.0;3.5;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. LA Clippers;Kelly Oubre Jr.;1;0;28.0;16.0;0.0;4.0;4.0;2.0;1.0;1.0;2.0;4.0;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. LA Clippers;Gordon Hayward;1;1;36.0;15.0;1.0;6.0;7.0;0.0;0.0;0.0;0.0;2.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. LA Clippers;Terry Rozier;2;2;36.0;13.5;1.5;5.0;6.5;2.5;1.0;0.0;1.5;1.5;1.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. LA Clippers;P.J. Washington;1;0;20.0;10.0;1.0;6.0;7.0;1.0;0.0;0.0;0.0;1.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. LA Clippers;Cody Martin;2;1;35.0;8.0;0.5;3.0;3.5;1.5;1.5;0.0;0.5;2.0;3.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. LA Clippers;Mason Plumlee;2;2;24.5;6.0;2.5;5.0;7.5;4.0;2.0;0.0;3.5;0.5;1.1
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. LA Clippers;James Bouknight;2;0;10.0;5.0;1.0;1.0;2.0;0.0;1.0;0.0;0.0;1.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. LA Clippers;Nick Richards;2;0;8.5;3.5;1.5;0.0;1.5;0.0;0.0;0.0;1.0;1.5;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. LA Clippers;Ish Smith;2;0;10.0;0.0;0.5;1.0;1.5;2.0;0.5;0.0;2.0;0.5;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. LA Clippers;Jalen McDaniels;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. LA Clippers;Kai Jones;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. LA Clippers;JT Thor;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. LA Clippers;Total;2;"";"";98.0;11.5;32.5;44.0;22.0;10.5;2.0;10.5;18.0;2.1
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Terry Rozier;2;2;38.5;24.5;0.0;4.0;4.0;3.0;0.5;0.0;2.0;3.0;1.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Miles Bridges;2;2;42.5;22.5;2.0;6.0;8.0;4.0;2.0;0.5;2.5;2.5;1.6
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Los Angeles Lakers;LaMelo Ball;2;2;38.0;22.5;2.0;9.5;11.5;6.5;1.0;1.0;2.0;2.5;3.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Ish Smith;1;0;26.0;22.0;1.0;1.0;2.0;5.0;0.0;1.0;0.0;2.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Gordon Hayward;1;1;41.0;21.0;0.0;6.0;6.0;3.0;0.0;0.0;4.0;1.0;0.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Los Angeles Lakers;P.J. Washington;1;0;27.0;12.0;0.0;3.0;3.0;1.0;0.0;1.0;2.0;3.0;0.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Mason Plumlee;2;2;36.5;10.5;3.0;10.0;13.0;4.0;0.5;0.5;2.0;5.5;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Kelly Oubre Jr.;1;0;18.0;8.0;3.0;0.0;3.0;1.0;0.0;0.0;2.0;3.0;0.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Cody Martin;2;1;26.0;5.0;1.0;4.5;5.5;1.0;0.0;0.5;0.5;3.5;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Nick Richards;1;0;16.0;3.0;2.0;2.0;4.0;0.0;1.0;1.0;3.0;3.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Jalen McDaniels;1;0;9.0;2.0;2.0;0.0;2.0;1.0;0.0;0.0;0.0;1.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Los Angeles Lakers;James Bouknight;1;0;7.0;2.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Total;2;"";"";120.0;12.5;40.0;52.5;24.0;4.5;4.0;14.5;23.5;1.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Phoenix Suns;Miles Bridges;2;2;29.0;18.0;1.0;3.0;4.0;1.5;1.5;0.5;1.0;1.0;1.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Phoenix Suns;Kelly Oubre Jr.;2;0;22.0;16.5;1.0;3.0;4.0;0.0;0.5;0.5;1.0;0.5;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Phoenix Suns;P.J. Washington;1;0;23.0;13.0;0.0;1.0;1.0;4.0;2.0;0.0;0.0;0.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Phoenix Suns;LaMelo Ball;2;2;24.0;13.0;2.5;4.0;6.5;4.0;1.0;1.0;1.5;1.5;2.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Phoenix Suns;Ish Smith;2;0;24.5;9.0;0.5;1.0;1.5;5.5;1.5;0.5;4.0;2.5;1.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Phoenix Suns;Gordon Hayward;2;2;24.5;8.5;1.0;3.5;4.5;3.0;0.5;0.5;0.0;1.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Phoenix Suns;Jalen McDaniels;2;0;23.5;8.5;0.5;1.0;1.5;1.5;2.5;0.0;1.0;0.5;1.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Phoenix Suns;Terry Rozier;2;2;23.0;6.5;0.0;3.0;3.0;0.5;0.0;0.5;0.5;1.5;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Phoenix Suns;Cody Martin;1;0;23.0;6.0;0.0;2.0;2.0;3.0;2.0;0.0;2.0;1.0;1.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Phoenix Suns;Nick Richards;2;0;12.5;6.0;0.5;3.5;4.0;0.5;1.0;2.5;1.0;1.0;0.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Phoenix Suns;Mason Plumlee;2;2;17.0;3.0;1.5;4.5;6.0;3.5;0.5;0.0;1.0;2.0;3.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Phoenix Suns;Kai Jones;1;0;4.0;2.0;0.0;1.0;1.0;1.0;0.0;0.0;1.0;0.0;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Phoenix Suns;James Bouknight;2;0;12.0;2.0;0.5;1.0;1.5;2.5;0.0;0.0;0.5;1.0;5.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Phoenix Suns;JT Thor;1;0;6.0;2.0;0.0;0.0;0.0;0.0;0.0;3.0;0.0;1.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Phoenix Suns;Total;2;"";"";102.5;9.0;29.5;38.5;26.5;11.0;7.5;13.0;13.5;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Sacramento Kings;LaMelo Ball;1;1;31.0;24.0;1.0;2.0;3.0;13.0;0.0;0.0;2.0;1.0;6.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Sacramento Kings;Gordon Hayward;2;2;38.0;22.0;0.5;2.5;3.0;4.5;0.5;0.5;2.5;1.5;1.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Sacramento Kings;Miles Bridges;2;2;38.5;16.5;0.5;5.5;6.0;5.0;1.0;0.0;2.0;3.0;2.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Sacramento Kings;Kelly Oubre Jr.;2;1;27.5;15.5;1.5;3.5;5.0;2.5;1.0;1.0;1.5;2.0;1.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Sacramento Kings;Cody Martin;2;1;31.5;15.5;2.0;2.5;4.5;3.0;2.0;2.5;2.0;2.0;1.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Sacramento Kings;James Bouknight;2;0;14.5;12.0;0.5;2.5;3.0;0.5;0.5;0.0;0.0;1.5;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Sacramento Kings;Terry Rozier;1;1;31.0;9.0;0.0;1.0;1.0;4.0;0.0;0.0;0.0;0.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Sacramento Kings;Jalen McDaniels;1;0;15.0;7.0;1.0;2.0;3.0;0.0;1.0;0.0;1.0;2.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Sacramento Kings;Nick Richards;1;0;19.0;7.0;2.0;0.0;2.0;2.0;3.0;1.0;1.0;3.0;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Sacramento Kings;Vernon Carey Jr.;1;1;11.0;7.0;2.0;0.0;2.0;0.0;1.0;0.0;1.0;1.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Sacramento Kings;JT Thor;1;0;28.0;7.0;0.0;4.0;4.0;3.0;1.0;2.0;1.0;5.0;3.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Sacramento Kings;Mason Plumlee;1;1;22.0;5.0;1.0;5.0;6.0;4.0;1.0;1.0;0.0;6.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Sacramento Kings;Ish Smith;1;0;12.0;2.0;0.0;1.0;1.0;1.0;0.0;1.0;2.0;0.0;0.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Sacramento Kings;Kai Jones;2;0;4.0;1.5;0.5;0.5;1.0;0.0;0.0;0.0;0.5;0.5;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Sacramento Kings;Arnoldas Kulboka;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Sacramento Kings;Total;2;"";"";117.0;9.0;24.5;33.5;29.0;8.5;6.5;12.5;19.5;2.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Dallas Mavericks;Terry Rozier;2;2;31.0;19.0;1.0;4.0;5.0;4.0;0.5;1.0;1.5;2.0;2.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Dallas Mavericks;Kelly Oubre Jr.;2;0;31.5;18.5;1.0;3.5;4.5;2.5;0.5;0.0;0.5;4.0;5.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Dallas Mavericks;Gordon Hayward;1;1;30.0;17.0;2.0;4.0;6.0;6.0;0.0;0.0;0.0;0.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Dallas Mavericks;LaMelo Ball;1;1;30.0;17.0;1.0;3.0;4.0;7.0;4.0;1.0;0.0;3.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Dallas Mavericks;P.J. Washington;2;1;28.5;16.0;1.5;2.0;3.5;0.5;0.0;0.0;0.0;2.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Dallas Mavericks;Miles Bridges;2;2;29.0;15.0;2.0;7.0;9.0;3.0;1.0;1.5;1.0;2.0;3.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Dallas Mavericks;Montrezl Harrell;1;0;16.0;13.0;4.0;2.0;6.0;4.0;1.0;1.0;0.0;2.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Dallas Mavericks;James Bouknight;1;0;23.0;13.0;5.0;1.0;6.0;0.0;0.0;0.0;2.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Dallas Mavericks;Isaiah Thomas;1;0;14.0;11.0;0.0;1.0;1.0;2.0;0.0;0.0;0.0;0.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Dallas Mavericks;Cody Martin;2;1;26.0;4.5;1.0;4.0;5.0;4.5;2.0;0.5;1.5;0.5;3.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Dallas Mavericks;Jalen McDaniels;1;0;17.0;4.0;0.0;1.0;1.0;0.0;0.0;1.0;1.0;3.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Dallas Mavericks;Mason Plumlee;1;1;16.0;1.0;0.0;1.0;1.0;5.0;0.0;0.0;3.0;4.0;1.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Dallas Mavericks;Scottie Lewis;1;0;4.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Dallas Mavericks;JT Thor;2;0;11.5;1.0;1.0;0.5;1.5;0.5;1.0;0.0;0.5;1.5;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Dallas Mavericks;Nick Richards;2;1;3.5;0.0;0.5;0.0;0.5;0.0;0.0;0.5;0.5;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Dallas Mavericks;Kai Jones;1;0;6.0;0.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;0.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Dallas Mavericks;Total;2;"";"";112.5;14.0;28.0;42.0;27.5;8.0;5.0;8.5;18.0;3.2
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Houston Rockets;Terry Rozier;2;2;35.5;29.0;1.0;2.5;3.5;5.0;1.0;0.5;1.0;1.0;5.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Houston Rockets;Miles Bridges;1;1;33.0;22.0;2.0;3.0;5.0;2.0;0.0;0.0;4.0;1.0;0.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Houston Rockets;Kelly Oubre Jr.;2;0;33.0;20.5;2.0;1.5;3.5;0.0;2.5;1.0;1.0;3.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Houston Rockets;LaMelo Ball;2;2;32.0;17.5;2.5;5.5;8.0;10.0;1.5;0.0;1.5;3.5;6.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Houston Rockets;Gordon Hayward;2;2;32.0;15.5;0.5;2.5;3.0;3.5;2.0;0.0;2.0;2.5;1.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Houston Rockets;Mason Plumlee;1;1;29.0;15.0;1.0;8.0;9.0;3.0;2.0;3.0;2.0;2.0;1.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Houston Rockets;P.J. Washington;1;1;35.0;13.0;2.0;3.0;5.0;6.0;2.0;2.0;2.0;2.0;3.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Houston Rockets;Jalen McDaniels;2;1;24.0;10.5;1.0;3.5;4.5;2.5;0.5;0.0;2.0;2.5;1.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Houston Rockets;Nick Richards;2;0;12.0;5.5;1.0;0.5;1.5;0.5;0.0;0.5;0.5;1.5;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Houston Rockets;James Bouknight;1;0;5.0;5.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;2.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Houston Rockets;Cody Martin;2;0;18.5;3.5;0.5;1.5;2.0;1.5;1.5;0.0;0.0;2.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Houston Rockets;Ish Smith;1;0;23.0;3.0;0.0;3.0;3.0;6.0;1.0;0.0;1.0;2.0;6.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Houston Rockets;Kai Jones;1;0;3.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Houston Rockets;JT Thor;1;0;4.0;2.0;1.0;1.0;2.0;0.0;0.0;0.0;1.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Houston Rockets;Total;2;"";"";133.0;11.5;27.5;39.0;32.0;11.5;4.5;13.5;20.5;2.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Gordon Hayward;1;1;38.0;25.0;2.0;3.0;5.0;5.0;1.0;0.0;5.0;1.0;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Terry Rozier;2;2;34.0;23.0;2.5;4.0;6.5;7.0;1.0;1.0;2.0;1.5;3.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Kelly Oubre Jr.;2;1;25.5;22.5;2.5;2.0;4.5;1.0;1.5;0.0;1.5;2.0;0.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Montrezl Harrell;1;0;29.0;20.0;2.0;7.0;9.0;2.0;0.0;0.0;0.0;3.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Memphis Grizzlies;LaMelo Ball;2;2;32.5;18.5;1.0;5.5;6.5;5.0;1.5;0.0;4.0;4.0;1.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Memphis Grizzlies;James Bouknight;1;0;20.0;12.0;2.0;3.0;5.0;2.0;1.0;0.0;2.0;2.0;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Miles Bridges;2;2;31.5;9.0;1.5;5.5;7.0;5.0;1.5;1.0;2.0;1.5;2.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Cody Martin;1;0;20.0;7.0;1.0;3.0;4.0;1.0;2.0;0.0;1.0;0.0;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Jalen McDaniels;1;0;22.0;6.0;0.0;6.0;6.0;1.0;1.0;1.0;1.0;1.0;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Mason Plumlee;2;2;29.0;5.0;2.0;6.0;8.0;5.5;1.0;1.0;1.5;6.0;3.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Nick Richards;1;0;10.0;4.0;0.0;4.0;4.0;0.0;0.0;2.0;0.0;5.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Memphis Grizzlies;P.J. Washington;1;0;23.0;4.0;1.0;1.0;2.0;0.0;1.0;3.0;2.0;1.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Memphis Grizzlies;JT Thor;1;0;12.0;2.0;0.0;2.0;2.0;2.0;1.0;1.0;0.0;2.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Total;2;"";"";118.0;13.5;37.5;51.0;30.0;10.0;6.5;16.5;22.5;1.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Terry Rozier;2;2;34.0;21.0;0.0;2.5;2.5;4.5;1.5;0.5;2.5;1.5;1.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Miles Bridges;2;2;32.0;21.0;1.0;5.0;6.0;7.0;1.0;0.0;1.5;1.0;4.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. New Orleans Pelicans;LaMelo Ball;2;2;32.0;17.0;0.0;5.0;5.0;9.0;1.5;1.0;1.0;1.5;9.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Isaiah Thomas;2;0;15.0;14.5;0.0;0.5;0.5;0.5;0.5;0.0;1.5;1.5;0.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Montrezl Harrell;2;0;21.5;14.0;1.5;2.5;4.0;2.0;1.0;1.0;2.0;1.5;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Mason Plumlee;2;2;22.5;10.0;1.5;4.5;6.0;3.0;1.0;1.0;1.5;2.5;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Cody Martin;2;0;28.5;9.5;0.0;5.0;5.0;4.0;1.0;0.5;1.0;3.5;4.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Kelly Oubre Jr.;2;0;15.0;8.0;0.0;2.5;2.5;0.5;0.0;1.0;1.5;3.0;0.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. New Orleans Pelicans;P.J. Washington;2;2;28.5;6.0;1.0;2.0;3.0;6.0;0.5;0.5;2.0;4.5;3.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Jalen McDaniels;2;0;10.5;3.0;0.5;1.0;1.5;1.0;0.0;0.0;1.0;0.5;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Nick Richards;1;0;1.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. New Orleans Pelicans;JT Thor;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Total;2;"";"";124.0;5.5;31.0;36.5;37.5;8.0;5.5;15.5;21.0;2.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. San Antonio Spurs;Gordon Hayward;1;1;29.0;41.0;0.0;5.0;5.0;3.0;0.0;0.0;1.0;1.0;3.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. San Antonio Spurs;LaMelo Ball;1;1;29.0;24.0;1.0;7.0;8.0;7.0;0.0;1.0;4.0;2.0;1.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. San Antonio Spurs;Terry Rozier;2;2;31.0;22.0;1.0;2.0;3.0;5.5;0.5;0.0;1.5;1.0;3.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. San Antonio Spurs;Cody Martin;2;1;35.5;16.5;1.5;4.5;6.0;3.0;0.5;0.5;1.0;1.5;3.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. San Antonio Spurs;Montrezl Harrell;1;0;17.0;15.0;3.0;3.0;6.0;2.0;0.0;0.0;0.0;0.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. San Antonio Spurs;Jalen McDaniels;1;0;33.0;15.0;1.0;9.0;10.0;1.0;1.0;0.0;2.0;5.0;0.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. San Antonio Spurs;Miles Bridges;2;2;35.0;14.5;1.5;5.5;7.0;7.0;0.0;0.5;0.5;1.5;14.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. San Antonio Spurs;P.J. Washington;2;1;33.5;13.5;2.0;5.0;7.0;4.0;1.0;2.0;1.5;3.0;2.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. San Antonio Spurs;Kelly Oubre Jr.;2;0;20.5;7.5;0.0;1.0;1.0;1.0;2.0;0.5;0.5;2.5;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. San Antonio Spurs;Mason Plumlee;2;2;23.5;4.5;1.5;8.0;9.5;3.5;1.0;0.5;1.5;2.5;2.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. San Antonio Spurs;Nick Richards;1;0;3.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. San Antonio Spurs;Kai Jones;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. San Antonio Spurs;James Bouknight;1;0;2.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. San Antonio Spurs;Scottie Lewis;1;0;2.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. San Antonio Spurs;JT Thor;1;0;5.0;0.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;vs. San Antonio Spurs;Total;2;"";"";127.0;10.0;39.0;49.0;31.5;5.5;4.5;10.0;16.0;3.2
+Charlotte Hornets;cha;2021 - 2022 Regular Season;October;Miles Bridges;7;7;35.4;24.6;1.7;6.0;7.7;2.7;1.6;0.7;1.9;3.0;1.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;October;LaMelo Ball;7;7;29.3;18.7;1.0;5.0;6.0;6.1;1.6;0.3;2.4;3.1;2.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;October;Gordon Hayward;7;7;35.0;18.1;0.9;3.6;4.4;4.3;0.6;0.4;3.0;2.1;1.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;October;Kelly Oubre Jr.;7;5;32.0;16.3;1.6;3.6;5.1;1.6;1.0;0.0;0.3;2.6;5.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;October;Terry Rozier;2;2;28.0;10.0;0.0;2.0;2.0;3.5;1.0;0.0;3.0;2.0;1.2
+Charlotte Hornets;cha;2021 - 2022 Regular Season;October;Cody Martin;7;0;24.3;9.4;1.1;3.3;4.4;2.1;1.3;0.6;0.6;1.3;3.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;October;P.J. Washington;5;0;22.6;8.8;1.4;3.2;4.6;2.0;0.8;1.0;1.2;1.2;1.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;October;Ish Smith;7;0;20.0;7.9;0.1;1.4;1.6;4.4;0.7;0.3;0.6;1.1;7.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;October;Mason Plumlee;7;7;28.1;7.3;3.0;5.9;8.9;2.6;0.9;1.1;1.3;2.1;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;October;Jalen McDaniels;6;0;13.2;6.5;0.5;1.3;1.8;1.3;0.5;0.2;0.3;1.5;4.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;October;Nick Richards;4;0;5.8;2.8;0.5;1.0;1.5;0.0;0.0;0.8;0.3;0.3;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;October;Vernon Carey Jr.;1;0;1.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;October;Kai Jones;2;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;October;James Bouknight;2;0;1.0;0.0;0.0;0.5;0.5;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;October;JT Thor;2;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;October;Total;7;"";"";118.6;11.1;33.6;44.7;27.4;8.9;4.7;12.4;18.3;2.2
+Charlotte Hornets;cha;2021 - 2022 Regular Season;November;LaMelo Ball;16;16;34.6;19.6;1.8;6.8;8.6;9.1;2.0;0.4;3.4;3.1;2.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;November;Terry Rozier;16;16;33.2;19.2;0.8;3.0;3.8;3.3;1.3;0.6;1.3;1.3;2.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;November;Miles Bridges;16;16;36.6;17.7;1.3;6.0;7.3;3.4;1.1;1.0;1.7;2.5;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;November;Gordon Hayward;16;16;33.4;16.8;0.9;4.3;5.2;3.0;1.0;0.6;1.6;1.7;1.9
+Charlotte Hornets;cha;2021 - 2022 Regular Season;November;Kelly Oubre Jr.;16;0;25.1;14.3;1.1;2.4;3.5;0.7;0.8;0.4;1.1;2.5;0.6
+Charlotte Hornets;cha;2021 - 2022 Regular Season;November;P.J. Washington;6;2;22.0;11.7;1.0;2.8;3.8;1.2;0.7;1.0;1.7;1.7;0.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;November;Cody Martin;15;0;24.8;6.9;1.3;2.7;4.0;2.3;1.3;0.5;0.3;1.9;6.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;November;Mason Plumlee;13;13;25.1;6.5;2.3;4.1;6.4;2.8;0.8;0.9;1.2;3.5;2.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;November;Jalen McDaniels;15;0;15.3;5.1;0.7;3.1;3.8;0.8;0.3;0.3;0.7;1.7;1.2
+Charlotte Hornets;cha;2021 - 2022 Regular Season;November;Nick Richards;14;1;9.9;3.6;1.1;1.1;2.2;0.3;0.3;0.6;0.8;1.9;0.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;November;Ish Smith;9;0;7.9;1.4;0.0;0.8;0.8;0.6;0.2;0.2;1.2;0.2;0.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;November;Kai Jones;4;0;1.5;0.5;0.0;0.3;0.3;0.0;0.0;0.0;0.3;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;November;James Bouknight;5;0;2.0;0.4;0.2;0.0;0.2;0.4;0.0;0.0;0.0;0.2;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;November;Total;16;"";"";112.6;10.9;33.8;44.8;25.9;9.1;5.7;12.9;19.7;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;December;LaMelo Ball;7;7;30.0;20.9;2.1;4.6;6.7;7.4;1.9;0.6;3.3;3.4;2.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;December;Miles Bridges;11;11;36.2;19.6;1.1;5.8;6.9;4.8;0.8;0.6;2.4;2.3;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;December;Kelly Oubre Jr.;13;5;32.2;19.2;0.7;3.2;3.8;1.9;1.7;0.3;1.5;2.6;1.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;December;Gordon Hayward;12;12;32.8;17.1;0.7;3.4;4.1;4.4;0.8;0.5;1.6;1.3;2.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;December;Terry Rozier;9;9;30.7;16.4;0.7;3.7;4.3;3.6;1.0;0.4;0.8;1.1;4.6
+Charlotte Hornets;cha;2021 - 2022 Regular Season;December;Cody Martin;9;5;33.8;11.8;1.6;3.4;5.0;3.9;1.6;0.7;1.6;1.9;2.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;December;P.J. Washington;10;1;28.2;11.5;1.4;5.0;6.4;3.1;0.6;1.3;0.8;3.2;3.9
+Charlotte Hornets;cha;2021 - 2022 Regular Season;December;Jalen McDaniels;8;2;26.4;11.0;1.3;3.6;4.9;1.3;0.6;0.8;1.3;2.6;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;December;Vernon Carey Jr.;1;1;11.0;7.0;2.0;0.0;2.0;0.0;1.0;0.0;1.0;1.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;December;Mason Plumlee;7;7;23.1;6.9;1.7;6.0;7.7;2.7;1.0;0.9;1.1;2.7;2.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;December;James Bouknight;9;0;13.1;6.8;1.2;1.3;2.6;0.9;0.1;0.0;0.6;1.1;1.6
+Charlotte Hornets;cha;2021 - 2022 Regular Season;December;Ish Smith;8;1;16.8;5.8;0.3;2.0;2.3;3.3;0.8;0.4;1.3;1.6;2.6
+Charlotte Hornets;cha;2021 - 2022 Regular Season;December;Nick Richards;11;4;9.5;4.4;0.8;1.2;2.0;0.6;0.4;0.5;0.3;1.4;2.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;December;JT Thor;6;0;16.2;4.0;0.8;1.5;2.3;1.0;0.7;0.5;0.5;2.0;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;December;Kai Jones;4;0;4.3;1.3;0.3;0.8;1.0;0.3;0.0;0.0;0.3;0.3;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;December;Scottie Lewis;2;0;3.5;0.5;0.0;0.0;0.0;0.5;0.5;0.0;0.0;0.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;December;Arnoldas Kulboka;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;December;Total;13;"";"";116.5;10.0;32.0;42.0;27.6;8.6;5.2;12.1;19.2;2.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;January;Miles Bridges;15;15;35.2;21.3;1.1;6.5;7.5;2.9;0.9;1.0;1.5;2.8;1.9
+Charlotte Hornets;cha;2021 - 2022 Regular Season;January;Terry Rozier;15;15;33.9;19.3;0.6;4.1;4.7;5.1;1.2;0.2;1.1;1.6;4.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;January;LaMelo Ball;14;14;31.9;19.0;1.4;5.0;6.4;6.9;0.8;0.5;2.8;2.8;2.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;January;Kelly Oubre Jr.;9;0;23.9;17.6;1.0;3.0;4.0;0.6;1.1;0.4;0.7;2.2;0.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;January;Gordon Hayward;10;10;31.7;16.2;0.8;4.1;4.9;3.7;1.3;0.3;1.1;2.2;3.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;January;P.J. Washington;13;0;21.4;7.8;1.2;3.8;5.1;1.8;0.7;0.8;1.7;2.8;1.1
+Charlotte Hornets;cha;2021 - 2022 Regular Season;January;James Bouknight;8;0;14.8;7.3;0.6;1.0;1.6;1.1;0.5;0.0;0.6;1.4;1.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;January;Mason Plumlee;15;15;24.8;6.9;2.5;4.9;7.4;3.1;0.8;0.3;1.5;3.3;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;January;Cody Martin;15;6;28.1;6.5;1.1;3.0;4.1;2.5;1.3;0.4;1.1;1.8;2.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;January;Jalen McDaniels;10;0;16.7;5.4;0.6;2.3;2.9;1.3;0.7;0.4;0.8;1.4;1.6
+Charlotte Hornets;cha;2021 - 2022 Regular Season;January;Ish Smith;10;0;13.1;4.4;0.6;1.0;1.6;2.8;0.6;0.3;0.9;1.0;3.1
+Charlotte Hornets;cha;2021 - 2022 Regular Season;January;Nick Richards;8;0;5.1;2.6;0.3;1.8;2.0;0.1;0.1;0.3;0.5;0.1;0.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;January;JT Thor;7;0;4.1;1.4;0.1;0.6;0.7;0.3;0.0;0.4;0.3;0.3;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;January;Kai Jones;6;0;3.5;1.2;0.2;0.3;0.5;0.5;0.0;0.0;0.2;0.7;3.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;January;Vernon Carey Jr.;2;0;2.5;0.5;0.5;0.5;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;January;Total;15;"";"";112.9;10.2;35.1;45.3;28.1;8.3;4.3;12.4;20.1;2.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;February;Terry Rozier;12;12;38.1;21.8;1.3;3.7;4.9;5.7;1.2;0.3;1.7;2.7;3.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;February;LaMelo Ball;12;12;34.7;21.6;1.7;4.6;6.3;6.5;1.6;0.3;3.9;3.9;1.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;February;Miles Bridges;12;12;37.3;18.7;1.0;5.8;6.8;4.2;0.8;1.1;2.7;2.6;1.6
+Charlotte Hornets;cha;2021 - 2022 Regular Season;February;Kelly Oubre Jr.;12;3;30.5;15.1;1.6;3.3;4.9;1.3;1.1;0.8;1.3;2.9;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;February;Montrezl Harrell;7;0;28.6;14.6;2.6;4.4;7.0;2.0;0.4;0.7;1.3;2.9;1.6
+Charlotte Hornets;cha;2021 - 2022 Regular Season;February;P.J. Washington;12;6;31.5;10.5;1.5;5.3;6.8;1.7;1.3;0.8;1.2;2.3;1.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;February;Cody Martin;6;0;21.5;7.0;0.7;2.2;2.8;1.7;1.0;0.2;1.5;1.5;1.1
+Charlotte Hornets;cha;2021 - 2022 Regular Season;February;Mason Plumlee;12;12;25.6;5.9;3.3;6.8;10.1;3.5;1.0;0.3;1.4;3.3;2.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;February;James Bouknight;4;0;11.8;4.8;1.0;1.5;2.5;1.0;0.5;0.3;0.8;1.5;1.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;February;JT Thor;7;0;13.3;3.6;0.7;1.7;2.4;1.4;0.6;0.4;0.3;1.6;5.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;February;Gordon Hayward;3;3;19.0;3.3;0.7;2.3;3.0;1.7;1.0;0.0;1.3;1.7;1.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;February;Ish Smith;3;0;11.7;3.3;0.7;1.0;1.7;2.7;0.3;0.0;0.7;0.3;4.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;February;Kai Jones;2;0;4.5;3.0;0.5;0.5;1.0;0.0;0.5;0.0;0.5;0.5;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;February;Nick Richards;4;0;9.0;2.5;0.5;0.8;1.3;0.3;0.0;0.0;0.5;1.3;0.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;February;Total;12;"";"";112.3;13.4;35.8;49.3;27.1;8.5;4.3;14.8;22.6;1.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;March;Miles Bridges;14;14;34.6;21.9;1.1;5.4;6.5;4.6;0.8;0.6;1.7;1.9;2.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;March;Terry Rozier;14;14;34.1;21.0;0.7;3.7;4.4;4.4;1.7;0.4;1.6;1.8;2.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;March;LaMelo Ball;14;14;31.1;20.5;0.9;4.7;5.6;7.9;1.8;0.4;2.8;3.2;2.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;March;P.J. Washington;14;14;31.4;11.3;1.2;3.1;4.4;3.1;1.0;0.9;1.1;2.0;2.9
+Charlotte Hornets;cha;2021 - 2022 Regular Season;March;Kelly Oubre Jr.;14;0;19.5;10.6;0.8;2.6;3.4;0.9;0.6;0.5;0.4;2.3;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;March;Montrezl Harrell;14;0;17.4;10.1;2.1;2.2;4.4;1.8;0.4;0.3;0.6;1.5;2.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;March;Isaiah Thomas;12;0;13.3;8.7;0.2;1.2;1.3;1.6;0.5;0.2;0.6;1.0;2.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;March;Cody Martin;14;0;24.6;6.5;1.0;2.8;3.8;2.4;0.9;0.4;0.8;1.6;3.1
+Charlotte Hornets;cha;2021 - 2022 Regular Season;March;Mason Plumlee;14;14;23.9;6.0;2.1;5.6;7.7;3.6;0.7;1.1;1.4;3.0;2.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;March;Jalen McDaniels;11;0;11.8;2.9;0.5;1.3;1.7;0.5;0.1;0.2;0.4;1.5;1.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;March;JT Thor;7;0;3.6;0.9;0.0;0.6;0.6;0.0;0.0;0.1;0.1;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;March;Nick Richards;6;0;2.0;0.7;0.2;0.2;0.3;0.0;0.0;0.2;0.2;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;March;Kai Jones;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;March;Total;14;"";"";118.4;10.6;32.6;43.1;30.4;8.4;4.9;11.4;19.3;2.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;April;LaMelo Ball;5;5;31.0;21.0;0.8;5.2;6.0;9.2;1.6;0.0;5.2;2.2;1.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;April;Miles Bridges;5;5;29.2;18.2;0.6;4.8;5.4;3.0;0.4;0.4;1.0;1.6;3.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;April;Terry Rozier;5;5;30.0;17.6;0.8;3.4;4.2;5.8;1.2;0.2;0.6;0.8;9.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;April;Kelly Oubre Jr.;5;0;20.2;11.4;0.4;3.0;3.4;1.0;0.6;0.0;0.2;2.0;5.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;April;P.J. Washington;5;5;29.2;10.6;0.8;3.0;3.8;2.4;1.0;1.2;1.4;2.4;1.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;April;Montrezl Harrell;4;0;20.3;10.5;1.3;1.8;3.0;2.5;0.5;0.8;1.0;2.0;2.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;April;Jalen McDaniels;5;0;16.0;10.2;0.6;2.4;3.0;1.8;1.0;0.8;0.4;1.4;4.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;April;Cody Martin;5;0;25.2;7.6;1.2;2.4;3.6;2.8;1.6;0.4;0.4;0.8;7.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;April;Isaiah Thomas;5;0;12.0;7.4;0.2;0.8;1.0;1.0;0.2;0.2;0.6;2.0;1.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;April;Mason Plumlee;5;5;19.2;7.0;1.4;3.8;5.2;2.4;0.6;0.8;1.8;2.8;1.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;April;Gordon Hayward;1;0;17.0;5.0;0.0;3.0;3.0;4.0;1.0;0.0;1.0;0.0;4.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;April;Nick Richards;3;0;3.7;2.0;1.0;0.3;1.3;0.0;0.0;0.3;0.7;0.7;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;April;Kai Jones;2;0;2.5;1.0;0.0;0.5;0.5;0.0;0.0;1.0;0.0;0.5;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;April;James Bouknight;3;0;3.0;0.7;0.3;1.0;1.3;1.0;0.0;0.0;0.7;0.3;1.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;April;JT Thor;4;0;4.0;0.5;0.0;0.8;0.8;0.3;0.0;0.3;0.5;0.3;0.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;April;Arnoldas Kulboka;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;April;Total;5;"";"";122.8;8.6;32.4;41.0;33.0;8.8;5.4;13.8;18.8;2.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Atlantic Division;Miles Bridges;18;18;36.5;22.2;1.1;5.3;6.4;3.7;0.8;0.7;2.0;3.0;1.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Atlantic Division;LaMelo Ball;15;15;33.9;20.7;1.2;5.3;6.5;7.8;1.7;0.3;4.4;3.0;1.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Atlantic Division;Terry Rozier;14;14;36.0;19.2;0.8;3.7;4.5;5.2;1.8;0.3;1.4;1.8;3.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Atlantic Division;Kelly Oubre Jr.;16;4;27.4;15.0;1.3;3.4;4.8;0.8;1.3;0.5;0.9;2.4;0.9
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Atlantic Division;Gordon Hayward;10;9;31.0;14.7;0.8;2.9;3.7;5.0;1.3;0.3;1.9;2.4;2.6
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Atlantic Division;P.J. Washington;16;8;27.6;9.6;1.4;4.1;5.6;2.1;1.1;1.1;0.9;2.3;2.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Atlantic Division;Montrezl Harrell;7;0;16.9;8.1;1.9;2.3;4.1;2.0;0.1;0.0;0.6;1.7;3.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Atlantic Division;James Bouknight;4;0;15.8;7.8;1.3;1.0;2.3;0.5;0.3;0.0;0.8;1.3;0.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Atlantic Division;Cody Martin;17;4;26.1;7.2;1.1;2.8;3.9;2.4;0.8;0.2;0.8;1.4;2.9
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Atlantic Division;Mason Plumlee;16;16;27.7;6.9;2.7;5.5;8.2;2.6;0.8;0.8;1.4;2.8;1.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Atlantic Division;Jalen McDaniels;11;0;13.8;6.0;0.6;1.8;2.5;0.6;0.2;0.2;0.3;1.8;2.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Atlantic Division;Isaiah Thomas;5;0;11.6;4.8;0.0;1.0;1.0;1.4;0.0;0.2;0.6;1.4;2.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Atlantic Division;Ish Smith;6;0;12.5;4.7;0.0;1.3;1.3;1.3;0.5;0.3;0.7;0.7;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Atlantic Division;JT Thor;7;0;9.4;3.6;0.3;1.0;1.3;0.7;0.3;0.3;0.1;0.4;5.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Atlantic Division;Nick Richards;11;2;7.6;3.3;0.7;1.0;1.7;0.4;0.0;0.4;0.6;0.9;0.6
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Atlantic Division;Kai Jones;2;0;2.5;1.0;0.0;0.5;0.5;0.5;0.0;0.0;0.0;0.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Atlantic Division;Vernon Carey Jr.;1;0;1.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Atlantic Division;Total;18;"";"";112.4;10.9;32.6;43.6;26.8;8.3;4.1;0.0;19.5;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Central Division;LaMelo Ball;18;18;31.9;23.0;1.8;5.0;6.8;7.6;1.7;0.4;3.6;3.3;2.1
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Central Division;Terry Rozier;17;17;34.1;21.4;0.5;4.1;4.6;5.0;1.4;0.4;1.1;1.3;4.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Central Division;Kelly Oubre Jr.;17;3;28.6;18.9;0.8;3.4;4.1;1.6;0.7;0.5;1.1;2.9;1.6
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Central Division;Miles Bridges;17;17;34.8;18.8;0.8;5.7;6.5;3.1;1.1;0.9;1.8;2.4;1.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Central Division;Gordon Hayward;11;11;32.5;16.6;0.6;3.5;4.2;3.5;1.4;0.8;1.7;2.1;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Central Division;Montrezl Harrell;5;0;21.8;10.2;2.0;3.8;5.8;1.6;0.2;0.4;1.2;2.2;1.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Central Division;P.J. Washington;16;5;26.9;9.9;1.4;4.1;5.5;2.5;0.9;0.6;1.3;2.6;1.9
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Central Division;Cody Martin;14;1;24.9;8.0;1.4;2.4;3.8;2.6;1.3;0.5;0.9;2.3;2.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Central Division;Isaiah Thomas;2;0;10.0;6.5;0.5;2.0;2.5;1.5;1.0;0.0;1.5;1.5;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Central Division;Mason Plumlee;16;16;24.3;5.8;2.6;5.3;7.9;3.2;1.0;0.5;1.2;3.5;2.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Central Division;Jalen McDaniels;10;1;17.7;5.6;0.6;2.4;3.0;1.4;0.6;0.7;0.8;1.4;1.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Central Division;James Bouknight;4;0;11.8;5.5;1.0;1.3;2.3;0.5;0.0;0.3;0.5;1.5;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Central Division;Nick Richards;11;1;5.4;3.1;0.1;0.7;0.8;0.2;0.3;0.0;0.4;0.8;0.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Central Division;Ish Smith;9;0;11.2;2.8;0.2;0.9;1.1;3.0;0.3;0.3;0.3;0.6;9.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Central Division;JT Thor;8;0;6.9;1.6;0.3;0.9;1.1;0.4;0.3;0.1;0.5;0.6;0.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Central Division;Kai Jones;6;0;3.3;1.5;0.3;0.2;0.5;0.2;0.2;0.0;0.5;0.8;0.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Central Division;Total;18;"";"";121.5;10.3;34.0;44.3;29.2;9.2;4.7;0.0;21.1;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Pacific Division;Miles Bridges;10;10;37.4;20.7;1.2;5.4;6.6;3.4;1.5;0.7;1.2;2.5;2.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Pacific Division;LaMelo Ball;9;9;32.8;19.3;1.6;5.4;7.0;6.7;1.8;0.4;2.1;2.9;3.2
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Pacific Division;Gordon Hayward;8;8;33.9;16.3;0.5;4.8;5.3;3.0;0.4;0.3;1.1;1.3;2.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Pacific Division;Terry Rozier;9;9;32.6;13.7;0.6;3.2;3.8;2.1;0.4;0.3;1.4;1.6;1.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Pacific Division;Kelly Oubre Jr.;8;1;21.9;12.3;1.0;2.8;3.8;1.1;0.6;0.5;1.5;2.0;0.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Pacific Division;P.J. Washington;4;0;22.0;10.5;0.5;3.5;4.0;1.5;0.5;0.3;0.8;1.3;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Pacific Division;Cody Martin;9;3;28.9;8.6;1.3;3.3;4.7;2.1;1.3;0.7;0.9;2.3;2.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Pacific Division;Vernon Carey Jr.;1;1;11.0;7.0;2.0;0.0;2.0;0.0;1.0;0.0;1.0;1.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Pacific Division;Mason Plumlee;9;9;25.2;6.2;1.9;5.4;7.3;3.8;1.1;0.2;1.7;3.0;2.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Pacific Division;Ish Smith;8;0;15.5;5.5;0.4;1.1;1.5;2.6;0.5;0.4;2.4;1.0;1.1
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Pacific Division;James Bouknight;8;0;10.3;5.0;0.6;1.1;1.8;0.8;0.4;0.0;0.1;0.9;6.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Pacific Division;Jalen McDaniels;7;0;13.4;4.6;0.6;1.4;2.0;0.7;1.0;0.0;0.7;0.9;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Pacific Division;Nick Richards;7;0;11.0;4.1;1.1;1.3;2.4;0.4;0.9;1.0;1.1;1.6;0.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Pacific Division;JT Thor;3;0;12.7;3.0;0.0;1.3;1.3;1.0;0.3;1.7;0.3;2.0;3.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Pacific Division;Kai Jones;4;0;3.3;1.3;0.3;0.5;0.8;0.3;0.0;0.0;0.5;0.3;0.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Pacific Division;Arnoldas Kulboka;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Pacific Division;Total;10;"";"";107.3;9.7;32.8;42.5;24.4;8.9;4.4;0.0;18.4;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Southeast Division;Miles Bridges;16;16;36.8;20.6;1.1;6.2;7.3;3.3;0.8;1.1;2.0;2.4;1.6
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Southeast Division;Terry Rozier;13;13;33.2;18.5;1.2;3.3;4.5;4.2;1.7;0.3;1.3;1.9;3.2
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Southeast Division;LaMelo Ball;15;15;31.9;17.7;1.3;5.6;6.9;7.9;1.3;0.4;3.5;3.1;2.2
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Southeast Division;Montrezl Harrell;4;0;26.5;16.5;2.8;2.0;4.8;1.5;0.8;1.0;1.0;2.0;1.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Southeast Division;Gordon Hayward;10;10;32.5;14.6;0.7;4.5;5.2;3.0;0.9;0.5;1.1;1.7;2.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Southeast Division;Kelly Oubre Jr.;15;3;25.9;11.7;0.9;2.8;3.7;0.8;0.6;0.3;0.4;2.1;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Southeast Division;P.J. Washington;11;5;27.4;10.2;1.2;4.1;5.3;1.7;0.8;1.1;2.1;2.1;0.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Southeast Division;Isaiah Thomas;4;0;11.0;7.8;0.3;0.8;1.0;1.3;0.3;0.3;0.3;1.5;5.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Southeast Division;Cody Martin;15;1;27.6;7.7;1.1;3.1;4.2;2.5;1.6;0.7;0.9;1.4;2.6
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Southeast Division;Mason Plumlee;15;15;21.9;7.3;2.8;4.9;7.7;2.5;0.6;0.9;1.3;2.8;1.9
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Southeast Division;Jalen McDaniels;12;0;16.6;7.0;0.7;2.7;3.3;1.4;0.6;0.7;0.6;1.9;2.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Southeast Division;Ish Smith;8;1;15.8;5.8;0.8;1.6;2.4;3.0;0.9;0.0;0.8;1.3;4.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Southeast Division;Nick Richards;9;1;7.6;2.7;1.0;1.2;2.2;0.1;0.0;0.6;0.2;0.9;0.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Southeast Division;James Bouknight;8;0;4.9;1.4;0.1;0.8;0.9;0.9;0.3;0.0;0.6;0.8;1.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Southeast Division;JT Thor;6;0;6.7;0.8;0.3;0.5;0.8;0.5;0.0;0.2;0.2;0.8;3.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Southeast Division;Kai Jones;4;0;2.0;0.5;0.0;0.3;0.3;0.0;0.0;0.5;0.0;0.3;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Southeast Division;Arnoldas Kulboka;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Southeast Division;Vernon Carey Jr.;1;0;2.0;0.0;1.0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Southeast Division;Total;16;"";"";110.2;11.6;34.7;46.3;26.4;8.4;5.8;0.0;19.4;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Southwest Division;Gordon Hayward;5;5;32.2;22.8;1.0;3.4;4.4;4.2;1.0;0.0;2.0;1.4;2.1
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Southwest Division;Terry Rozier;10;10;33.1;22.8;1.1;3.0;4.1;5.2;0.9;0.6;1.7;1.4;3.1
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Southwest Division;LaMelo Ball;8;8;31.6;18.4;1.1;5.3;6.4;7.8;1.6;0.5;2.1;2.9;3.6
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Southwest Division;Miles Bridges;9;9;32.0;15.7;1.6;5.4;7.0;5.1;0.8;0.7;1.6;1.4;3.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Southwest Division;Kelly Oubre Jr.;10;1;25.1;15.4;1.1;2.1;3.2;1.0;1.3;0.5;1.0;2.9;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Southwest Division;Montrezl Harrell;5;0;21.0;15.2;2.4;3.4;5.8;2.4;0.6;0.6;0.8;1.6;3.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Southwest Division;Isaiah Thomas;3;0;14.7;13.3;0.0;0.7;0.7;1.0;0.3;0.0;1.0;1.0;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Southwest Division;P.J. Washington;8;5;29.8;11.0;1.5;2.8;4.3;3.4;0.8;1.3;1.4;2.8;2.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Southwest Division;Cody Martin;9;2;26.4;8.3;0.8;3.7;4.4;3.0;1.3;0.3;0.9;1.7;3.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Southwest Division;James Bouknight;4;0;12.8;7.5;1.8;1.3;3.0;1.0;0.3;0.0;1.0;1.0;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Southwest Division;Jalen McDaniels;7;1;20.0;7.4;0.6;3.6;4.1;1.3;0.4;0.3;1.4;2.1;0.9
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Southwest Division;Mason Plumlee;8;8;24.3;6.9;1.4;5.8;7.1;4.0;1.0;1.0;1.8;3.5;2.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Southwest Division;Ish Smith;1;0;23.0;3.0;0.0;3.0;3.0;6.0;1.0;0.0;1.0;2.0;6.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Southwest Division;Nick Richards;7;1;6.4;2.4;0.4;0.9;1.3;0.1;0.0;0.6;0.3;1.1;0.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Southwest Division;JT Thor;6;0;7.5;1.0;0.5;1.0;1.5;0.5;0.5;0.2;0.3;0.8;1.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Southwest Division;Kai Jones;3;0;3.7;0.7;0.0;0.7;0.7;0.3;0.0;0.0;0.3;0.0;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Southwest Division;Scottie Lewis;2;0;3.5;0.5;0.0;0.0;0.0;0.5;0.5;0.0;0.0;0.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Southwest Division;Total;10;"";"";122.9;10.9;32.6;43.5;31.7;8.6;5.2;0.0;19.6;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Northwest Division;Miles Bridges;10;10;34.0;21.8;1.3;7.4;8.7;5.0;0.7;0.9;2.5;2.3;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Northwest Division;LaMelo Ball;10;10;31.3;19.7;1.5;4.8;6.3;7.7;1.4;0.4;2.5;3.8;3.1
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Northwest Division;Terry Rozier;10;10;31.8;18.4;0.4;3.6;4.0;4.3;0.9;0.2;1.0;1.9;4.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Northwest Division;Kelly Oubre Jr.;10;1;25.9;14.7;1.2;2.6;3.8;1.2;1.7;0.2;0.7;2.6;1.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Northwest Division;Gordon Hayward;5;5;27.8;11.6;1.4;3.6;5.0;2.8;0.4;0.6;2.6;0.8;1.1
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Northwest Division;P.J. Washington;10;5;26.8;11.4;0.9;4.3;5.2;2.1;0.9;1.1;0.9;2.5;2.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Northwest Division;Isaiah Thomas;3;0;17.7;11.0;0.3;1.3;1.7;2.0;1.0;0.3;0.0;1.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Northwest Division;Montrezl Harrell;4;0;21.3;8.8;1.8;2.3;4.0;2.3;0.8;0.8;1.0;2.5;2.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Northwest Division;Jalen McDaniels;8;0;16.6;6.3;1.0;2.8;3.8;0.8;0.1;0.4;0.4;1.9;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Northwest Division;Mason Plumlee;9;9;23.6;5.9;2.4;5.3;7.8;3.3;0.7;1.0;1.1;3.0;3.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Northwest Division;Cody Martin;7;0;22.9;5.9;1.3;1.7;3.0;2.9;1.1;0.4;0.6;0.4;5.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Northwest Division;Ish Smith;5;0;12.2;4.4;0.0;1.0;1.0;2.4;0.4;0.4;0.6;1.0;4.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Northwest Division;JT Thor;3;0;6.0;3.0;0.7;1.7;2.3;0.7;0.0;0.3;0.3;0.7;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Northwest Division;James Bouknight;3;0;7.3;2.7;0.0;0.3;0.3;1.7;0.0;0.0;0.0;0.3;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Northwest Division;Nick Richards;5;0;6.8;2.0;1.0;1.4;2.4;0.4;0.0;0.2;0.2;1.0;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Northwest Division;Vernon Carey Jr.;1;0;3.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Northwest Division;Kai Jones;2;0;3.0;1.0;0.0;0.5;0.5;0.0;0.0;0.0;0.0;0.5;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Northwest Division;Total;10;"";"";118.2;11.4;35.9;47.3;30.9;8.1;5.4;0.0;20.7;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Eastern Conference;LaMelo Ball;48;48;32.5;20.6;1.5;5.3;6.8;7.8;1.6;0.4;3.8;3.1;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Eastern Conference;Miles Bridges;51;51;36.0;20.5;1.0;5.7;6.7;3.3;0.9;0.9;1.9;2.6;1.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Eastern Conference;Terry Rozier;44;44;34.4;19.8;0.8;3.7;4.5;4.8;1.6;0.3;1.3;1.6;3.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Eastern Conference;Kelly Oubre Jr.;48;10;27.4;15.4;1.0;3.2;4.2;1.1;0.9;0.4;0.8;2.5;1.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Eastern Conference;Gordon Hayward;31;30;32.0;15.4;0.7;3.6;4.4;3.8;1.2;0.5;1.6;2.1;2.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Eastern Conference;Montrezl Harrell;16;0;20.8;10.9;2.1;2.7;4.8;1.8;0.3;0.4;0.9;1.9;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Eastern Conference;P.J. Washington;43;18;27.3;9.9;1.4;4.1;5.5;2.2;0.9;0.9;1.4;2.3;1.6
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Eastern Conference;Cody Martin;46;6;26.2;7.6;1.2;2.8;4.0;2.5;1.2;0.4;0.9;1.7;2.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Eastern Conference;Mason Plumlee;47;47;24.7;6.7;2.7;5.2;7.9;2.8;0.8;0.7;1.3;3.0;2.1
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Eastern Conference;Jalen McDaniels;33;1;16.0;6.2;0.6;2.3;2.9;1.2;0.5;0.5;0.5;1.7;2.1
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Eastern Conference;Isaiah Thomas;11;0;11.1;6.2;0.2;1.1;1.3;1.4;0.3;0.2;0.6;1.5;2.1
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Eastern Conference;Ish Smith;23;1;13.1;4.3;0.3;1.3;1.6;2.6;0.6;0.2;0.6;0.8;4.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Eastern Conference;James Bouknight;16;0;9.4;4.0;0.6;0.9;1.6;0.7;0.2;0.1;0.6;1.1;1.1
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Eastern Conference;Nick Richards;31;4;6.8;3.0;0.6;1.0;1.5;0.2;0.1;0.3;0.4;0.9;0.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Eastern Conference;JT Thor;21;0;7.7;2.0;0.3;0.8;1.1;0.5;0.2;0.2;0.3;0.6;1.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Eastern Conference;Kai Jones;12;0;2.8;1.1;0.2;0.3;0.4;0.2;0.1;0.2;0.3;0.5;0.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Eastern Conference;Arnoldas Kulboka;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Eastern Conference;Vernon Carey Jr.;2;0;1.5;0.0;0.5;1.0;1.5;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Eastern Conference;Total;52;"";"";114.9;10.9;33.7;44.7;27.5;8.7;4.8;0.0;20.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Western Conference;Miles Bridges;29;29;34.6;19.5;1.3;6.1;7.4;4.5;1.0;0.8;1.8;2.1;2.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Western Conference;LaMelo Ball;27;27;31.9;19.2;1.4;5.1;6.6;7.4;1.6;0.4;2.3;3.2;3.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Western Conference;Terry Rozier;29;29;32.5;18.4;0.7;3.3;4.0;3.9;0.8;0.4;1.4;1.6;2.9
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Western Conference;Gordon Hayward;18;18;31.8;16.8;0.9;4.1;4.9;3.3;0.6;0.3;1.8;1.2;1.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Western Conference;Kelly Oubre Jr.;28;3;24.5;14.3;1.1;2.5;3.6;1.1;1.3;0.4;1.0;2.5;1.1
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Western Conference;Montrezl Harrell;9;0;21.1;12.3;2.1;2.9;5.0;2.3;0.7;0.7;0.9;2.0;2.6
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Western Conference;Isaiah Thomas;6;0;16.2;12.2;0.2;1.0;1.2;1.5;0.7;0.2;0.5;1.0;3.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Western Conference;P.J. Washington;22;10;27.0;11.1;1.0;3.6;4.6;2.5;0.8;1.0;1.0;2.4;2.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Western Conference;Cody Martin;25;5;26.4;7.7;1.1;3.0;4.1;2.6;1.3;0.5;0.8;1.6;3.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Western Conference;Mason Plumlee;26;26;24.3;6.3;1.9;5.5;7.4;3.7;0.9;0.7;1.5;3.2;2.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Western Conference;Jalen McDaniels;22;1;16.7;6.1;0.7;2.6;3.3;0.9;0.5;0.2;0.8;1.6;1.1
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Western Conference;James Bouknight;15;0;10.3;5.2;0.8;1.0;1.8;1.0;0.3;0.0;0.3;0.8;3.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Western Conference;Ish Smith;14;0;14.9;4.9;0.2;1.2;1.4;2.8;0.5;0.4;1.6;1.1;1.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Western Conference;Vernon Carey Jr.;2;1;7.0;4.0;1.0;0.0;1.0;0.0;0.5;0.0;0.5;0.5;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Western Conference;Nick Richards;19;1;8.2;2.9;0.8;1.2;2.0;0.3;0.3;0.6;0.6;1.3;0.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Western Conference;JT Thor;12;0;8.3;2.0;0.4;1.3;1.7;0.7;0.3;0.6;0.3;1.1;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Western Conference;Kai Jones;9;0;3.3;1.0;0.1;0.6;0.7;0.2;0.0;0.0;0.3;0.2;0.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Western Conference;Scottie Lewis;2;0;3.5;0.5;0.0;0.0;0.0;0.5;0.5;0.0;0.0;0.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Western Conference;Arnoldas Kulboka;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Western Conference;Total;30;"";"";116.1;10.7;33.8;44.4;29.0;8.5;5.0;0.0;19.6;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Pre All-Star;LaMelo Ball;53;53;32.7;20.0;1.6;5.5;7.1;7.5;1.6;0.4;3.2;3.2;2.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Pre All-Star;Miles Bridges;58;58;36.3;20.0;1.2;6.0;7.2;3.6;1.0;0.9;2.0;2.6;1.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Pre All-Star;Terry Rozier;51;51;33.7;18.7;0.8;3.5;4.3;4.3;1.1;0.4;1.3;1.6;3.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Pre All-Star;Montrezl Harrell;4;0;32.0;17.8;3.0;4.8;7.8;1.3;0.8;1.0;1.8;3.0;0.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Pre All-Star;Kelly Oubre Jr.;54;13;28.5;16.2;1.2;2.9;4.1;1.1;1.2;0.4;1.0;2.6;1.1
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Pre All-Star;Gordon Hayward;48;48;32.2;16.1;0.8;3.8;4.6;3.6;1.0;0.5;1.7;1.8;2.2
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Pre All-Star;P.J. Washington;43;6;25.4;9.8;1.3;4.3;5.6;2.0;0.8;0.9;1.3;2.5;1.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Pre All-Star;Cody Martin;49;11;27.2;8.0;1.2;3.0;4.2;2.6;1.3;0.5;0.9;1.7;2.9
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Pre All-Star;Mason Plumlee;51;51;25.5;6.7;2.6;5.4;8.0;3.1;0.9;0.6;1.4;3.1;2.2
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Pre All-Star;Jalen McDaniels;39;2;17.6;6.6;0.7;2.7;3.5;1.1;0.5;0.4;0.8;1.8;1.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Pre All-Star;James Bouknight;28;0;10.6;5.0;0.8;1.0;1.7;0.8;0.3;0.0;0.5;1.0;1.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Pre All-Star;Ish Smith;37;1;13.8;4.5;0.3;1.2;1.5;2.6;0.5;0.3;1.0;0.9;2.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Pre All-Star;Nick Richards;41;5;8.4;3.4;0.7;1.2;2.0;0.3;0.2;0.5;0.5;1.2;0.6
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Pre All-Star;JT Thor;19;0;9.0;2.6;0.5;0.9;1.4;0.7;0.3;0.4;0.3;1.0;2.2
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Pre All-Star;Vernon Carey Jr.;4;1;4.3;2.0;0.8;0.5;1.3;0.0;0.3;0.0;0.3;0.3;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Pre All-Star;Kai Jones;17;0;2.8;0.9;0.1;0.4;0.5;0.2;0.0;0.0;0.3;0.3;0.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Pre All-Star;Scottie Lewis;2;0;3.5;0.5;0.0;0.0;0.0;0.5;0.5;0.0;0.0;0.0;INF
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Pre All-Star;Arnoldas Kulboka;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Pre All-Star;Total;60;"";"";113.8;11.1;34.1;45.1;27.2;8.7;4.8;12.9;20.0;2.1
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Post All-Star;Terry Rozier;22;22;33.5;20.7;0.8;3.6;4.4;5.0;1.6;0.3;1.4;1.7;3.6
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Post All-Star;Miles Bridges;22;22;33.4;20.5;1.0;5.4;6.4;4.2;0.6;0.7;1.6;1.8;2.6
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Post All-Star;LaMelo Ball;22;22;31.3;20.3;1.0;4.7;5.7;7.8;1.6;0.4;3.5;3.0;2.2
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Post All-Star;Kelly Oubre Jr.;22;0;21.0;11.9;0.7;2.9;3.6;1.0;0.6;0.4;0.5;2.1;1.9
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Post All-Star;P.J. Washington;22;22;30.7;11.2;1.1;3.2;4.3;2.8;1.0;1.0;1.1;2.0;2.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Post All-Star;Montrezl Harrell;21;0;18.9;10.2;2.0;2.4;4.3;2.1;0.4;0.4;0.7;1.8;2.9
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Post All-Star;Isaiah Thomas;17;0;12.9;8.3;0.2;1.1;1.2;1.4;0.4;0.2;0.6;1.3;2.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Post All-Star;Cody Martin;22;0;24.1;7.0;1.0;2.5;3.5;2.3;1.1;0.3;0.8;1.5;3.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Post All-Star;Mason Plumlee;22;22;22.5;6.1;2.0;5.1;7.1;3.1;0.7;1.0;1.4;3.0;2.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Post All-Star;Jalen McDaniels;16;0;13.1;5.2;0.5;1.6;2.1;0.9;0.4;0.4;0.4;1.4;2.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Post All-Star;Gordon Hayward;1;0;17.0;5.0;0.0;3.0;3.0;4.0;1.0;0.0;1.0;0.0;4.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Post All-Star;Kai Jones;4;0;3.8;1.5;0.3;0.5;0.8;0.0;0.3;0.5;0.3;0.8;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Post All-Star;JT Thor;14;0;6.5;1.3;0.1;1.0;1.1;0.4;0.1;0.2;0.3;0.5;1.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Post All-Star;Nick Richards;9;0;2.6;1.1;0.4;0.2;0.7;0.0;0.0;0.2;0.3;0.2;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Post All-Star;James Bouknight;3;0;3.0;0.7;0.3;1.0;1.3;1.0;0.0;0.0;0.7;0.3;1.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Post All-Star;Arnoldas Kulboka;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;Post All-Star;Total;22;"";"";119.5;10.2;32.8;43.0;30.5;8.5;5.1;12.2;19.5;2.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;3+ Days Rest;LaMelo Ball;6;6;27.8;19.8;1.5;4.5;6.0;6.0;1.0;0.3;3.3;2.3;1.8
+Charlotte Hornets;cha;2021 - 2022 Regular Season;3+ Days Rest;Kelly Oubre Jr.;7;2;30.7;18.7;0.9;2.3;3.1;0.6;1.6;0.9;1.1;2.1;0.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;3+ Days Rest;Terry Rozier;6;6;28.8;16.5;0.3;2.8;3.2;4.0;0.8;0.5;1.3;2.3;3.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;3+ Days Rest;Miles Bridges;4;4;32.5;16.5;1.0;5.3;6.3;4.5;1.8;1.0;2.0;2.5;2.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;3+ Days Rest;Montrezl Harrell;3;0;22.0;16.3;2.7;3.3;6.0;2.0;0.7;1.0;1.3;2.3;1.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;3+ Days Rest;Gordon Hayward;7;6;27.9;11.6;0.7;3.9;4.6;3.3;1.4;0.0;2.0;1.9;1.6
+Charlotte Hornets;cha;2021 - 2022 Regular Season;3+ Days Rest;P.J. Washington;7;1;23.7;9.3;1.9;3.7;5.6;1.7;1.0;1.0;1.7;1.7;1.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;3+ Days Rest;Cody Martin;5;0;22.6;8.8;0.8;2.8;3.6;2.4;1.8;0.2;1.0;1.2;2.4
+Charlotte Hornets;cha;2021 - 2022 Regular Season;3+ Days Rest;Mason Plumlee;5;5;26.0;7.6;1.8;5.8;7.6;3.2;1.0;1.0;1.6;2.0;2.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;3+ Days Rest;Isaiah Thomas;2;0;12.5;7.5;0.5;2.0;2.5;2.5;1.0;0.0;1.0;0.5;2.5
+Charlotte Hornets;cha;2021 - 2022 Regular Season;3+ Days Rest;Jalen McDaniels;6;1;16.8;6.8;0.3;2.2;2.5;1.0;1.0;0.0;1.2;1.7;0.9
+Charlotte Hornets;cha;2021 - 2022 Regular Season;3+ Days Rest;Ish Smith;12;1;13.9;5.8;0.4;1.3;1.8;3.3;0.9;0.2;0.8;1.0;3.9
+Charlotte Hornets;cha;2021 - 2022 Regular Season;3+ Days Rest;Nick Richards;17;2;6.2;2.7;0.4;0.8;1.2;0.1;0.1;0.6;0.5;0.7;0.3
+Charlotte Hornets;cha;2021 - 2022 Regular Season;3+ Days Rest;Vernon Carey Jr.;3;1;4.7;2.7;0.7;0.3;1.0;0.0;0.3;0.0;0.3;0.3;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;3+ Days Rest;James Bouknight;13;0;6.1;1.7;0.2;0.5;0.8;0.8;0.1;0.1;0.2;0.6;3.7
+Charlotte Hornets;cha;2021 - 2022 Regular Season;3+ Days Rest;Kai Jones;11;0;3.1;1.5;0.2;0.5;0.7;0.1;0.1;0.0;0.5;0.4;0.2
+Charlotte Hornets;cha;2021 - 2022 Regular Season;3+ Days Rest;JT Thor;12;0;5.7;1.5;0.2;0.9;1.1;0.3;0.2;0.3;0.1;0.5;3.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;3+ Days Rest;Scottie Lewis;1;0;4.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;3+ Days Rest;Arnoldas Kulboka;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Charlotte Hornets;cha;2021 - 2022 Regular Season;3+ Days Rest;Total;5;"";"";120.0;8.8;33.2;42.0;28.8;10.2;5.6;12.6;18.4;2.3

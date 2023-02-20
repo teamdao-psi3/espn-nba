@@ -1,0 +1,941 @@
+teamName;teamCode;season;split;player_name;GP;GS;MIN;PTS;ORB;DR;REB;AST;STL;BLK;TO;PF;AST_TO
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;All Splits;Kevin Durant;55;55;37.2;29.9;0.5;6.9;7.4;6.4;0.9;0.9;3.5;2.1;1.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;All Splits;Kyrie Irving;29;29;37.7;27.4;0.6;3.8;4.4;5.8;1.4;0.6;2.5;2.8;2.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;All Splits;James Harden;44;44;37.0;22.5;1.0;7.0;8.0;10.2;1.3;0.7;4.8;2.4;2.1
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;All Splits;Seth Curry;19;19;29.9;14.9;0.2;2.4;2.6;2.6;0.9;0.2;1.3;2.5;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;All Splits;LaMarcus Aldridge;47;12;22.3;12.9;1.6;3.9;5.5;0.9;0.3;1.0;0.9;1.7;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;All Splits;Andre Drummond;24;24;22.3;11.8;3.9;6.4;10.3;1.4;0.9;1.0;1.5;3.0;0.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;All Splits;Patty Mills;81;48;29.0;11.4;0.2;1.7;1.9;2.3;0.6;0.2;0.9;1.4;2.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;All Splits;Joe Harris;14;14;30.2;11.3;0.4;3.6;4.0;1.0;0.5;0.1;1.1;2.2;0.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;All Splits;Bruce Brown;72;45;24.6;9.0;1.4;3.4;4.8;2.1;1.1;0.7;0.8;2.4;2.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;All Splits;Nic Claxton;47;19;20.7;8.7;1.9;3.7;5.6;0.9;0.5;1.1;0.8;2.3;1.1
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;All Splits;Cam Thomas;67;2;17.6;8.5;0.2;2.2;2.4;1.2;0.5;0.1;0.8;1.0;1.4
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;All Splits;Goran Dragic;16;6;25.5;7.3;0.7;2.5;3.2;4.8;0.9;0.2;2.1;2.3;2.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;All Splits;Blake Griffin;56;24;17.1;6.4;1.1;3.0;4.1;1.9;0.5;0.3;0.6;1.7;3.4
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;All Splits;Day'Ron Sharpe;32;8;12.2;6.2;2.5;2.5;5.0;0.5;0.3;0.5;0.9;1.9;0.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;All Splits;Kessler Edwards;48;23;20.6;5.9;0.9;2.7;3.6;0.6;0.6;0.5;0.9;1.8;0.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;All Splits;DeAndre' Bembry;48;20;19.8;5.8;0.8;2.4;3.2;1.3;1.0;0.5;0.6;2.2;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;All Splits;James Johnson;62;10;19.2;5.5;0.8;2.6;3.5;2.1;0.5;0.5;0.8;2.6;2.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;All Splits;David Duke Jr.;22;7;15.5;4.7;1.4;1.7;3.0;0.8;0.6;0.3;0.4;1.6;1.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;All Splits;Jevon Carter;46;1;12.0;3.6;0.2;1.3;1.5;1.0;0.3;0.2;0.6;1.0;1.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;All Splits;Paul Millsap;24;0;11.3;3.4;1.2;2.5;3.7;1.0;0.2;0.5;0.5;2.0;2.2
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;All Splits;Langston Galloway;4;0;14.5;3.0;0.3;1.8;2.0;1.3;0.0;0.0;1.3;1.3;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;All Splits;James Ennis III;2;0;7.0;2.5;1.0;1.5;2.5;0.0;0.5;0.5;0.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;All Splits;Shaquille Harrison;2;0;11.5;2.0;0.5;1.5;2.0;1.5;0.5;0.5;1.0;1.5;1.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;All Splits;Wenyen Gabriel;1;0;1.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;All Splits;Total;82;"";"";112.9;10.3;34.1;44.4;25.3;7.1;5.5;13.2;20.4;1.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Home;Kevin Durant;31;31;37.6;29.2;0.4;6.8;7.3;6.2;0.8;1.0;3.5;2.0;1.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Home;Kyrie Irving;6;6;40.7;26.7;0.3;3.3;3.7;6.5;1.3;0.5;3.3;2.7;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Home;James Harden;21;21;36.7;23.2;1.0;7.3;8.4;9.7;1.3;0.9;4.9;2.3;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Home;Seth Curry;11;11;29.6;14.0;0.4;2.8;3.2;2.5;0.6;0.1;1.5;2.5;1.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Home;Andre Drummond;14;14;23.0;12.2;4.0;6.3;10.3;1.4;0.9;1.0;1.9;3.1;0.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Home;LaMarcus Aldridge;23;7;22.8;12.0;1.5;3.7;5.2;0.7;0.3;1.0;1.1;1.6;0.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Home;Joe Harris;6;6;30.5;12.0;0.3;4.2;4.5;0.7;0.5;0.3;1.5;2.7;0.4
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Home;Patty Mills;40;26;29.1;10.8;0.3;1.9;2.2;2.5;0.6;0.2;1.1;1.3;2.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Home;Bruce Brown;37;26;26.6;10.4;1.6;3.7;5.3;2.3;1.2;0.9;1.1;2.6;2.2
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Home;Nic Claxton;24;8;20.6;9.5;2.1;3.7;5.8;0.9;0.7;0.9;0.9;2.1;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Home;Goran Dragic;9;5;29.4;8.9;0.7;2.6;3.2;5.6;1.2;0.2;2.6;2.4;2.2
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Home;Cam Thomas;34;1;17.6;8.1;0.2;2.3;2.5;1.4;0.5;0.1;1.0;0.9;1.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Home;Kessler Edwards;24;9;21.4;6.6;1.2;2.8;3.9;1.0;0.4;0.6;1.0;1.5;0.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Home;DeAndre' Bembry;23;10;21.2;6.1;0.8;2.3;3.2;1.2;1.0;0.5;0.7;2.3;1.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Home;David Duke Jr.;14;5;18.2;6.1;1.6;2.1;3.8;0.9;0.8;0.5;0.5;1.6;1.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Home;Blake Griffin;25;12;16.8;5.6;1.0;3.1;4.1;2.0;0.4;0.3;0.6;1.6;3.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Home;Paul Millsap;10;0;12.7;5.1;1.5;3.0;4.5;1.5;0.3;0.6;0.4;2.2;3.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Home;James Johnson;29;3;18.5;4.7;0.8;2.4;3.2;2.1;0.4;0.5;0.9;2.4;2.4
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Home;Day'Ron Sharpe;18;3;9.9;4.4;2.1;2.1;4.2;0.3;0.1;0.3;0.6;1.4;0.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Home;Jevon Carter;22;1;13.3;4.3;0.2;1.2;1.5;1.0;0.5;0.2;0.5;1.4;2.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Home;Shaquille Harrison;1;0;21.0;4.0;1.0;3.0;4.0;3.0;1.0;1.0;2.0;3.0;1.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Home;Langston Galloway;2;0;16.0;3.5;0.5;2.0;2.5;1.5;0.0;0.0;1.0;0.0;1.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Home;James Ennis III;1;0;12.0;3.0;2.0;2.0;4.0;0.0;1.0;1.0;0.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Home;Total;41;"";"";110.4;11.0;34.5;45.5;25.1;7.0;5.7;14.4;19.7;1.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Away;Kevin Durant;24;24;36.7;30.8;0.7;6.9;7.6;6.6;1.0;0.9;3.4;2.1;1.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Away;Kyrie Irving;23;23;36.8;27.7;0.6;4.0;4.6;5.6;1.4;0.6;2.3;2.8;2.4
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Away;James Harden;23;23;37.2;21.9;0.9;6.7;7.6;10.6;1.2;0.5;4.8;2.4;2.2
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Away;Seth Curry;8;8;30.3;16.3;0.0;1.8;1.8;2.6;1.3;0.3;1.1;2.4;2.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Away;LaMarcus Aldridge;24;5;21.9;13.8;1.6;4.2;5.8;1.1;0.3;1.0;0.8;1.8;1.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Away;Patty Mills;41;22;28.9;12.0;0.1;1.5;1.7;2.0;0.6;0.2;0.7;1.5;2.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Away;Andre Drummond;10;10;21.3;11.1;3.7;6.6;10.3;1.5;1.0;0.9;1.0;2.8;1.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Away;Joe Harris;8;8;30.0;10.8;0.4;3.3;3.6;1.3;0.5;0.0;0.9;1.9;1.4
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Away;Cam Thomas;33;1;17.5;8.9;0.2;2.0;2.3;1.0;0.5;0.2;0.6;1.1;1.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Away;Day'Ron Sharpe;14;5;15.1;8.4;3.1;3.0;6.1;0.9;0.6;0.7;1.4;2.4;0.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Away;Nic Claxton;23;11;20.8;7.9;1.8;3.7;5.5;0.9;0.3;1.3;0.7;2.6;1.2
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Away;Bruce Brown;35;19;22.6;7.5;1.2;3.1;4.3;1.8;0.9;0.5;0.5;2.3;3.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Away;Blake Griffin;31;12;17.4;7.1;1.1;2.9;4.1;1.8;0.5;0.2;0.5;1.7;3.4
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Away;James Johnson;33;7;19.8;6.2;0.8;2.8;3.7;2.1;0.5;0.6;0.7;2.8;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Away;DeAndre' Bembry;25;10;18.5;5.5;0.8;2.4;3.2;1.3;1.0;0.6;0.5;2.0;2.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Away;Goran Dragic;7;1;20.4;5.3;0.7;2.4;3.1;3.9;0.4;0.1;1.4;2.1;2.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Away;Kessler Edwards;24;14;19.8;5.2;0.7;2.6;3.3;0.3;0.8;0.4;0.7;2.0;0.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Away;Jevon Carter;24;0;10.8;3.0;0.2;1.3;1.5;1.0;0.2;0.2;0.7;0.6;1.4
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Away;Langston Galloway;2;0;13.5;2.5;0.0;1.5;1.5;1.0;0.0;0.0;1.5;2.5;0.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Away;David Duke Jr.;8;2;10.8;2.4;0.9;0.9;1.8;0.6;0.4;0.0;0.3;1.6;2.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Away;Paul Millsap;14;0;10.2;2.2;1.0;2.1;3.1;0.6;0.1;0.4;0.5;1.9;1.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Away;James Ennis III;1;0;1.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Away;Shaquille Harrison;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Away;Wenyen Gabriel;1;0;1.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Away;Total;41;"";"";115.4;9.6;33.7;43.3;25.4;7.2;5.2;12.1;21.0;2.1
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Boston Celtics;Kevin Durant;2;2;38.0;29.0;1.5;3.5;5.0;8.0;1.5;1.0;5.0;2.5;1.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Boston Celtics;James Harden;1;1;36.0;20.0;1.0;6.0;7.0;11.0;2.0;0.0;3.0;4.0;3.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Boston Celtics;Kyrie Irving;1;1;37.0;19.0;1.0;3.0;4.0;6.0;3.0;0.0;3.0;3.0;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Boston Celtics;Seth Curry;2;2;30.0;15.0;0.0;4.5;4.5;1.0;1.0;0.0;0.0;2.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Boston Celtics;Jevon Carter;2;0;20.5;13.5;0.0;3.5;3.5;2.5;0.0;0.5;0.5;2.5;5.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Boston Celtics;LaMarcus Aldridge;3;1;23.0;13.3;1.3;4.7;6.0;1.3;0.3;1.3;1.0;0.7;1.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Boston Celtics;Bruce Brown;3;3;32.0;11.7;1.0;4.3;5.3;3.7;1.3;0.7;1.3;2.7;2.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Boston Celtics;Cam Thomas;4;0;22.0;10.8;1.0;1.5;2.5;2.3;0.5;0.3;1.3;1.8;1.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Boston Celtics;Andre Drummond;2;2;18.0;8.5;2.5;4.0;6.5;1.0;0.5;0.5;1.0;1.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Boston Celtics;James Johnson;4;1;20.3;8.3;0.0;3.3;3.3;2.8;0.3;0.5;1.0;3.0;2.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Boston Celtics;Patty Mills;4;3;24.3;8.0;0.0;1.0;1.0;2.0;0.0;0.0;0.5;0.5;4.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Boston Celtics;David Duke Jr.;2;0;18.0;8.0;0.5;1.5;2.0;1.5;2.5;0.0;0.5;1.0;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Boston Celtics;DeAndre' Bembry;2;2;23.0;7.5;1.0;5.5;6.5;1.5;1.5;0.5;1.5;4.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Boston Celtics;Goran Dragic;1;0;22.0;7.0;3.0;3.0;6.0;1.0;0.0;0.0;1.0;5.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Boston Celtics;Nic Claxton;2;0;14.5;6.5;0.5;2.5;3.0;0.5;0.5;0.0;0.0;2.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Boston Celtics;Kessler Edwards;3;1;12.0;4.3;1.3;1.3;2.7;0.7;0.0;0.0;0.7;0.7;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Boston Celtics;Day'Ron Sharpe;3;0;11.0;4.3;3.0;1.0;4.0;1.0;0.0;0.3;0.3;0.7;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Boston Celtics;Paul Millsap;1;0;17.0;3.0;1.0;5.0;6.0;0.0;0.0;1.0;1.0;4.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Boston Celtics;Blake Griffin;2;1;11.5;3.0;1.5;2.0;3.5;1.0;0.0;0.0;1.0;1.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Boston Celtics;Total;4;"";"";110.0;11.3;32.0;43.3;25.0;7.0;4.0;12.0;20.8;2.1
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. New York Knicks;Kevin Durant;3;3;42.0;37.3;1.0;6.0;7.0;9.7;1.0;1.0;3.3;3.7;2.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. New York Knicks;James Harden;1;1;40.0;34.0;2.0;8.0;10.0;8.0;3.0;0.0;5.0;1.0;1.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. New York Knicks;Kyrie Irving;1;1;43.0;24.0;2.0;6.0;8.0;7.0;3.0;0.0;3.0;3.0;2.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. New York Knicks;Seth Curry;2;2;33.0;17.5;0.0;1.5;1.5;4.0;0.5;0.0;1.0;2.5;4.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. New York Knicks;Andre Drummond;3;3;22.3;11.0;3.7;9.0;12.7;0.7;0.7;0.7;1.3;1.7;0.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. New York Knicks;Patty Mills;4;3;30.3;9.5;1.0;0.8;1.8;2.5;0.8;0.0;0.5;0.8;5.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. New York Knicks;Nic Claxton;2;0;22.0;9.0;2.5;3.5;6.0;0.5;1.0;1.0;1.0;2.5;0.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. New York Knicks;Bruce Brown;4;3;28.5;8.8;2.0;3.5;5.5;2.8;0.8;0.3;0.5;2.8;5.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. New York Knicks;LaMarcus Aldridge;3;1;19.7;8.7;2.0;3.7;5.7;0.7;0.0;1.3;0.3;0.7;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. New York Knicks;Cam Thomas;4;0;15.8;8.3;0.3;1.0;1.3;1.0;0.3;0.0;0.0;0.5;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. New York Knicks;James Johnson;3;1;27.0;7.7;0.3;4.3;4.7;3.7;1.3;0.3;2.0;4.3;1.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. New York Knicks;Goran Dragic;1;1;38.0;7.0;1.0;2.0;3.0;6.0;2.0;1.0;3.0;3.0;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. New York Knicks;DeAndre' Bembry;1;1;30.0;6.0;2.0;3.0;5.0;3.0;1.0;1.0;0.0;2.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. New York Knicks;Blake Griffin;2;0;7.5;4.0;0.0;0.0;0.0;0.0;0.5;0.0;0.0;1.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. New York Knicks;Kessler Edwards;2;0;12.5;3.5;0.5;1.0;1.5;0.5;0.0;0.5;0.0;1.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. New York Knicks;Paul Millsap;1;0;15.0;2.0;3.0;2.0;5.0;1.0;1.0;0.0;1.0;3.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. New York Knicks;Jevon Carter;2;0;6.5;1.0;0.0;2.0;2.0;1.0;0.0;0.5;1.5;1.0;0.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. New York Knicks;Total;4;"";"";110.8;12.5;31.8;44.3;26.5;7.5;4.3;11.0;18.8;2.4
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Kevin Durant;4;4;36.5;30.3;1.3;10.3;11.5;7.8;0.8;1.0;3.8;1.8;2.1
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Philadelphia 76ers;James Harden;2;2;39.0;26.5;2.0;8.5;10.5;9.0;2.0;0.0;5.5;1.5;1.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Seth Curry;1;1;27.0;24.0;0.0;1.0;1.0;2.0;5.0;1.0;2.0;1.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Kyrie Irving;1;1;30.0;22.0;1.0;3.0;4.0;5.0;1.0;2.0;1.0;3.0;5.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Philadelphia 76ers;LaMarcus Aldridge;2;1;25.0;17.5;2.5;4.0;6.5;0.0;0.0;2.0;0.5;4.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Joe Harris;1;1;33.0;14.0;1.0;4.0;5.0;1.0;1.0;0.0;4.0;2.0;0.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Patty Mills;4;2;30.0;10.0;0.3;2.3;2.5;1.8;0.8;0.3;1.5;1.3;1.2
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Nic Claxton;4;3;23.5;9.8;2.0;3.5;5.5;1.3;1.0;2.0;0.8;3.0;1.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Blake Griffin;3;2;20.3;8.0;1.0;4.0;5.0;1.0;0.3;0.3;0.0;2.3;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Paul Millsap;1;0;17.0;7.0;1.0;3.0;4.0;0.0;0.0;0.0;0.0;2.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Andre Drummond;1;1;21.0;7.0;3.0;4.0;7.0;2.0;0.0;3.0;0.0;3.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Philadelphia 76ers;James Johnson;3;0;16.0;6.7;0.7;1.3;2.0;1.0;0.0;2.0;0.7;1.0;1.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Philadelphia 76ers;David Duke Jr.;1;1;32.0;6.0;2.0;2.0;4.0;2.0;1.0;0.0;2.0;4.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Bruce Brown;2;1;22.5;5.5;0.0;3.0;3.0;0.5;0.5;0.5;1.0;3.0;0.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Cam Thomas;3;0;12.3;5.0;0.3;2.3;2.7;1.3;0.0;0.0;0.3;0.7;4.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Kessler Edwards;2;0;19.0;4.5;1.5;3.5;5.0;1.0;0.5;0.0;1.0;1.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Goran Dragic;1;0;22.0;3.0;0.0;2.0;2.0;7.0;1.0;0.0;1.0;0.0;7.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Langston Galloway;1;0;9.0;3.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Jevon Carter;1;0;23.0;3.0;1.0;0.0;1.0;2.0;0.0;1.0;0.0;2.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Day'Ron Sharpe;1;0;13.0;3.0;2.0;3.0;5.0;0.0;0.0;0.0;0.0;1.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Philadelphia 76ers;DeAndre' Bembry;1;0;16.0;0.0;0.0;1.0;1.0;2.0;1.0;1.0;0.0;2.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Total;4;"";"";114.8;10.8;37.3;48.0;24.3;6.8;8.3;13.5;18.8;1.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Toronto Raptors;Kevin Durant;2;2;42.5;32.5;1.0;9.0;10.0;9.0;0.0;0.5;5.0;1.5;1.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Toronto Raptors;James Harden;1;1;39.0;28.0;5.0;5.0;10.0;8.0;0.0;0.0;2.0;4.0;4.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Toronto Raptors;Seth Curry;2;2;30.5;14.5;0.0;3.5;3.5;4.5;0.5;0.0;1.5;3.5;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Toronto Raptors;Patty Mills;4;3;30.0;13.5;0.3;1.8;2.0;1.8;0.3;0.0;2.3;1.3;0.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Toronto Raptors;James Johnson;2;2;25.0;12.0;1.0;2.0;3.0;3.0;0.0;1.0;2.0;3.0;1.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Toronto Raptors;Bruce Brown;3;3;29.7;11.7;2.7;3.0;5.7;1.7;1.3;0.7;1.7;2.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Toronto Raptors;LaMarcus Aldridge;3;1;22.3;11.0;1.0;5.0;6.0;3.0;0.0;0.3;0.0;0.7;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Toronto Raptors;Joe Harris;1;1;32.0;11.0;1.0;3.0;4.0;2.0;0.0;0.0;0.0;2.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Toronto Raptors;Blake Griffin;4;2;21.5;10.5;1.5;3.8;5.3;2.8;0.5;0.0;1.0;2.5;2.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Toronto Raptors;Cam Thomas;3;0;22.0;9.7;0.0;2.3;2.3;2.0;0.3;0.0;3.0;1.7;0.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Toronto Raptors;Nic Claxton;3;1;20.3;8.7;1.7;3.7;5.3;0.7;0.3;1.7;1.0;1.3;0.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Toronto Raptors;Goran Dragic;2;0;16.0;8.0;0.0;1.5;1.5;3.5;0.0;0.0;1.5;2.5;2.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Toronto Raptors;Day'Ron Sharpe;2;0;12.5;8.0;3.0;4.0;7.0;0.5;0.0;0.5;1.5;1.0;0.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Toronto Raptors;Kessler Edwards;3;0;23.3;7.3;1.3;3.3;4.7;0.7;1.0;0.0;2.0;1.3;0.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Toronto Raptors;David Duke Jr.;2;1;28.5;7.0;3.0;4.0;7.0;2.0;1.5;1.0;0.0;3.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Toronto Raptors;DeAndre' Bembry;1;0;21.0;5.0;0.0;3.0;3.0;1.0;1.0;0.0;1.0;3.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Toronto Raptors;Andre Drummond;1;1;16.0;3.0;3.0;3.0;6.0;2.0;0.0;1.0;3.0;1.0;0.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Toronto Raptors;Paul Millsap;1;0;5.0;0.0;0.0;2.0;2.0;1.0;0.0;0.0;0.0;1.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Toronto Raptors;Jevon Carter;1;0;4.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Toronto Raptors;Total;4;"";"";113.0;13.0;34.5;47.5;25.3;4.3;3.8;16.3;19.0;1.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Chicago Bulls;Kevin Durant;3;3;34.3;31.0;0.3;7.3;7.7;5.7;0.7;0.7;1.3;2.7;4.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Chicago Bulls;LaMarcus Aldridge;2;1;28.0;19.5;1.5;5.5;7.0;0.0;1.0;1.0;0.5;1.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Chicago Bulls;James Harden;3;3;35.7;17.7;0.7;6.7;7.3;11.7;1.0;0.7;2.0;1.3;5.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Chicago Bulls;Patty Mills;3;1;25.7;12.7;0.0;1.3;1.3;1.3;0.7;0.3;1.0;1.3;1.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Chicago Bulls;Day'Ron Sharpe;2;1;12.5;11.0;1.5;2.5;4.0;0.0;0.5;0.5;2.0;3.5;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Chicago Bulls;Kyrie Irving;1;1;25.0;9.0;0.0;4.0;4.0;3.0;0.0;0.0;1.0;0.0;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Chicago Bulls;Joe Harris;1;1;34.0;9.0;1.0;4.0;5.0;2.0;1.0;0.0;1.0;3.0;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Chicago Bulls;Kessler Edwards;1;1;29.0;9.0;1.0;0.0;1.0;1.0;3.0;1.0;1.0;4.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Chicago Bulls;Paul Millsap;2;0;11.0;6.5;3.0;1.5;4.5;1.0;0.0;1.0;0.0;1.5;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Chicago Bulls;DeAndre' Bembry;3;1;20.0;5.7;1.0;3.0;4.0;1.3;2.0;1.0;0.3;2.3;4.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Chicago Bulls;Blake Griffin;2;1;20.5;5.5;1.5;4.5;6.0;3.0;0.5;0.0;0.5;0.5;6.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Chicago Bulls;Cam Thomas;3;0;15.0;3.3;0.0;2.0;2.0;1.3;0.7;0.0;0.3;0.0;4.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Chicago Bulls;David Duke Jr.;1;0;7.0;3.0;0.0;2.0;2.0;1.0;0.0;0.0;0.0;1.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Chicago Bulls;James Johnson;1;0;5.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;2.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Chicago Bulls;Jevon Carter;3;0;7.0;2.0;0.0;0.0;0.0;0.3;0.3;0.3;0.0;0.7;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Chicago Bulls;Bruce Brown;3;1;21.3;2.0;1.7;3.3;5.0;0.7;0.3;0.7;1.0;2.7;0.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Chicago Bulls;Total;3;"";"";113.3;9.3;36.7;46.0;27.3;8.3;5.7;9.3;18.7;2.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Kevin Durant;3;3;39.0;28.7;0.3;4.7;5.0;5.7;0.3;1.7;2.7;1.7;2.1
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Kyrie Irving;2;2;38.5;22.5;0.0;6.5;6.5;8.5;1.5;0.0;2.0;3.5;4.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;James Harden;3;3;38.7;21.0;1.0;6.7;7.7;10.3;2.3;0.3;5.0;1.7;2.1
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;LaMarcus Aldridge;3;0;29.0;19.3;2.3;5.3;7.7;1.0;0.3;1.0;0.3;2.3;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Andre Drummond;1;1;24.0;15.0;5.0;7.0;12.0;2.0;1.0;1.0;1.0;4.0;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Patty Mills;4;3;31.3;14.3;0.3;0.8;1.0;1.5;0.8;0.3;0.3;1.0;6.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Seth Curry;1;1;29.0;12.0;1.0;2.0;3.0;4.0;0.0;0.0;1.0;2.0;4.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Day'Ron Sharpe;1;1;24.0;10.0;3.0;3.0;6.0;2.0;2.0;1.0;4.0;3.0;0.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Bruce Brown;3;2;26.7;9.3;2.3;4.7;7.0;4.7;1.3;1.3;0.7;3.0;7.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Kessler Edwards;2;1;31.0;9.0;1.0;2.5;3.5;0.5;0.0;0.5;0.5;2.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Cam Thomas;3;0;11.7;5.7;0.0;1.7;1.7;0.0;0.3;0.3;0.7;1.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Jevon Carter;2;0;11.0;5.0;0.0;1.0;1.0;1.0;0.0;0.0;0.5;3.0;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;James Johnson;2;0;26.0;4.5;1.5;5.0;6.5;4.5;1.5;0.0;0.5;4.5;9.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;DeAndre' Bembry;2;1;20.5;4.0;1.0;0.5;1.5;0.5;0.0;0.5;0.0;3.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Nic Claxton;1;0;16.0;4.0;0.0;5.0;5.0;1.0;0.0;1.0;0.0;4.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Blake Griffin;3;2;14.7;3.0;0.3;3.0;3.3;2.7;0.7;0.3;0.7;1.7;4.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Paul Millsap;1;0;10.0;2.0;1.0;3.0;4.0;0.0;1.0;0.0;0.0;2.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;David Duke Jr.;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Total;4;"";"";112.8;9.3;33.0;42.3;29.5;7.3;5.3;11.0;21.3;2.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Detroit Pistons;Kevin Durant;4;4;36.3;36.0;0.0;7.3;7.3;6.0;0.5;1.8;3.3;2.5;1.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Detroit Pistons;Kyrie Irving;1;1;40.0;24.0;0.0;1.0;1.0;4.0;1.0;0.0;6.0;4.0;0.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Detroit Pistons;LaMarcus Aldridge;3;1;22.0;15.7;1.3;3.0;4.3;0.7;0.0;0.7;2.0;2.7;0.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Detroit Pistons;James Harden;2;2;33.0;15.5;0.0;10.0;10.0;11.0;1.0;0.5;7.0;2.0;1.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Detroit Pistons;Andre Drummond;1;1;28.0;14.0;4.0;9.0;13.0;1.0;1.0;0.0;0.0;3.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Detroit Pistons;Seth Curry;1;1;30.0;11.0;0.0;3.0;3.0;4.0;2.0;0.0;2.0;1.0;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Detroit Pistons;Joe Harris;2;2;29.5;9.5;0.0;4.5;4.5;1.5;0.0;0.0;0.5;1.5;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Detroit Pistons;Goran Dragic;1;0;27.0;9.0;2.0;4.0;6.0;3.0;1.0;0.0;4.0;2.0;0.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Detroit Pistons;Bruce Brown;4;3;23.5;8.8;0.3;2.8;3.0;1.8;0.8;0.3;1.0;1.8;1.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Detroit Pistons;Patty Mills;4;1;23.3;8.3;0.0;1.0;1.0;3.0;0.3;0.0;0.8;1.3;4.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Detroit Pistons;Blake Griffin;3;2;19.0;7.3;0.7;3.3;4.0;2.0;0.3;0.7;0.7;2.7;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Detroit Pistons;DeAndre' Bembry;3;1;19.0;7.3;0.3;4.3;4.7;1.3;1.0;0.0;1.0;2.0;1.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Detroit Pistons;Nic Claxton;2;0;21.0;6.5;2.0;1.0;3.0;0.0;1.5;1.0;1.5;2.5;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Detroit Pistons;Cam Thomas;2;0;17.5;6.5;0.0;2.0;2.0;2.0;0.5;0.0;0.0;1.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Detroit Pistons;Day'Ron Sharpe;1;0;7.0;5.0;1.0;1.0;2.0;0.0;0.0;0.0;0.0;2.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Detroit Pistons;James Johnson;3;1;19.3;3.0;0.7;2.3;3.0;2.3;0.3;0.7;1.3;0.7;1.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Detroit Pistons;Jevon Carter;3;0;11.0;2.7;0.0;2.3;2.3;1.0;0.7;0.3;1.0;1.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Detroit Pistons;Paul Millsap;1;0;12.0;0.0;1.0;3.0;4.0;0.0;0.0;0.0;2.0;3.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Detroit Pistons;David Duke Jr.;1;0;9.0;0.0;0.0;2.0;2.0;0.0;1.0;0.0;0.0;1.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Detroit Pistons;Kessler Edwards;1;0;4.0;0.0;0.0;0.0;0.0;1.0;2.0;0.0;1.0;0.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Detroit Pistons;Total;4;"";"";114.8;5.5;37.0;42.5;26.8;6.8;4.5;17.8;19.8;1.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Indiana Pacers;Kyrie Irving;2;2;36.0;28.5;0.5;4.5;5.0;4.5;2.0;0.5;2.5;2.5;1.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Indiana Pacers;Kevin Durant;3;3;39.7;27.0;0.3;9.3;9.7;10.0;1.0;0.0;5.3;1.7;1.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Indiana Pacers;James Harden;2;2;37.5;23.5;0.5;6.0;6.5;7.0;1.0;1.0;2.5;3.0;2.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Indiana Pacers;Andre Drummond;1;1;20.0;20.0;4.0;9.0;13.0;0.0;0.0;2.0;1.0;3.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Indiana Pacers;LaMarcus Aldridge;2;0;22.0;17.0;2.5;3.0;5.5;0.0;0.5;0.5;1.5;2.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Indiana Pacers;Bruce Brown;2;2;31.0;14.5;1.0;5.5;6.5;1.5;1.5;1.5;1.5;3.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Indiana Pacers;Nic Claxton;2;1;23.5;13.0;2.0;3.5;5.5;3.5;1.0;0.5;1.0;4.5;3.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Indiana Pacers;Kessler Edwards;1;1;39.0;10.0;1.0;4.0;5.0;0.0;0.0;2.0;2.0;3.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Indiana Pacers;Joe Harris;1;1;31.0;9.0;0.0;2.0;2.0;1.0;0.0;0.0;3.0;1.0;0.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Indiana Pacers;Paul Millsap;1;0;14.0;8.0;1.0;3.0;4.0;0.0;0.0;0.0;0.0;2.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Indiana Pacers;Patty Mills;3;0;28.3;6.3;0.3;2.0;2.3;3.0;1.0;0.3;1.0;1.0;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Indiana Pacers;DeAndre' Bembry;2;0;16.5;6.0;0.5;3.5;4.0;0.5;2.0;1.0;0.5;1.5;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Indiana Pacers;Cam Thomas;1;0;9.0;6.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Indiana Pacers;James Johnson;1;0;9.0;5.0;2.0;1.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Indiana Pacers;David Duke Jr.;1;1;18.0;2.0;1.0;2.0;3.0;1.0;1.0;0.0;2.0;3.0;0.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Indiana Pacers;Blake Griffin;2;1;12.5;1.5;1.0;1.0;2.0;0.5;1.0;0.0;0.5;1.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Indiana Pacers;Jevon Carter;1;0;18.0;0.0;0.0;2.0;2.0;2.0;2.0;1.0;1.0;2.0;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Indiana Pacers;Total;3;"";"";122.7;9.0;37.0;46.0;26.0;9.0;5.3;16.3;19.0;1.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Kyrie Irving;2;2;42.0;31.5;0.0;4.0;4.0;5.0;2.0;0.0;2.5;2.5;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Kevin Durant;3;3;37.3;29.0;0.7;8.3;9.0;7.3;0.7;1.3;3.0;3.3;2.4
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Milwaukee Bucks;James Harden;2;2;33.0;18.0;1.5;7.0;8.5;7.5;0.5;1.5;4.5;2.0;1.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Seth Curry;2;2;32.0;17.5;0.5;1.5;2.0;1.5;0.5;0.5;1.0;4.0;1.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Nic Claxton;3;2;24.3;12.3;2.0;5.0;7.0;0.7;1.0;0.7;1.0;3.0;0.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Bruce Brown;4;2;20.0;11.3;0.8;3.5;4.3;1.3;0.3;1.0;0.8;1.5;1.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Andre Drummond;2;2;29.0;10.5;3.0;8.0;11.0;4.5;2.0;1.0;1.0;4.0;4.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Joe Harris;1;1;31.0;9.0;0.0;2.0;2.0;2.0;0.0;0.0;2.0;1.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Cam Thomas;3;0;15.3;8.3;0.3;1.7;2.0;1.3;1.0;0.0;0.7;0.7;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Patty Mills;4;1;23.5;7.0;0.0;1.5;1.5;1.8;1.0;0.3;0.0;0.8;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Milwaukee Bucks;David Duke Jr.;1;1;21.0;7.0;1.0;2.0;3.0;0.0;0.0;0.0;0.0;2.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Blake Griffin;1;1;23.0;6.0;1.0;4.0;5.0;0.0;1.0;0.0;1.0;1.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Day'Ron Sharpe;1;0;7.0;6.0;3.0;0.0;3.0;0.0;0.0;0.0;0.0;1.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Goran Dragic;2;0;18.0;5.5;1.0;1.5;2.5;2.0;1.0;0.0;1.0;1.0;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Milwaukee Bucks;LaMarcus Aldridge;3;0;14.7;4.7;0.7;1.7;2.3;0.3;0.0;0.7;0.7;1.3;0.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Milwaukee Bucks;James Johnson;4;1;19.5;3.5;0.5;1.8;2.3;2.0;0.8;1.3;0.3;2.5;8.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Kessler Edwards;3;0;8.3;3.0;0.7;1.7;2.3;1.7;0.0;0.3;0.0;1.3;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Jevon Carter;2;0;13.0;2.5;0.0;1.0;1.0;0.0;0.5;0.0;0.5;0.5;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Paul Millsap;1;0;5.0;0.0;1.0;2.0;3.0;0.0;0.0;1.0;1.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Milwaukee Bucks;DeAndre' Bembry;2;0;5.5;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Total;4;"";"";114.5;9.0;34.5;43.5;24.3;7.5;6.5;11.3;20.5;2.2
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Atlanta Hawks;Kevin Durant;3;3;39.0;39.3;0.0;6.3;6.3;4.7;1.0;1.3;4.0;2.3;1.2
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Atlanta Hawks;Kyrie Irving;1;1;44.0;31.0;0.0;2.0;2.0;6.0;1.0;0.0;2.0;5.0;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Atlanta Hawks;James Harden;2;2;38.0;18.0;0.0;4.5;4.5;11.0;0.5;0.5;4.5;1.5;2.4
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Atlanta Hawks;Joe Harris;1;1;34.0;18.0;0.0;6.0;6.0;0.0;2.0;1.0;2.0;1.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Atlanta Hawks;LaMarcus Aldridge;2;1;20.0;12.5;0.0;3.5;3.5;2.0;1.5;2.5;0.0;0.5;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Atlanta Hawks;Bruce Brown;2;1;25.5;12.5;2.5;1.0;3.5;1.0;1.5;0.5;1.0;3.5;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Atlanta Hawks;Kessler Edwards;1;1;19.0;9.0;0.0;3.0;3.0;0.0;0.0;1.0;0.0;4.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Atlanta Hawks;Patty Mills;3;2;28.3;8.3;0.0;1.3;1.3;2.3;0.3;0.3;1.3;3.0;1.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Atlanta Hawks;Andre Drummond;1;1;18.0;8.0;6.0;7.0;13.0;1.0;2.0;1.0;1.0;2.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Atlanta Hawks;Cam Thomas;2;0;25.0;8.0;0.0;7.0;7.0;1.5;0.5;0.0;1.0;2.5;1.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Atlanta Hawks;DeAndre' Bembry;2;1;13.0;5.0;0.5;1.0;1.5;1.0;0.5;0.0;1.5;2.5;0.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Atlanta Hawks;Nic Claxton;2;0;20.5;4.0;2.0;3.5;5.5;0.5;0.0;0.5;0.0;2.5;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Atlanta Hawks;Blake Griffin;2;1;18.5;3.5;2.0;2.5;4.5;2.5;0.0;0.5;0.0;3.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Atlanta Hawks;James Johnson;2;0;26.0;3.5;1.5;7.0;8.5;3.0;1.5;0.0;1.0;3.5;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Atlanta Hawks;Paul Millsap;2;0;10.0;1.0;1.0;2.5;3.5;0.5;0.0;0.5;0.0;1.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Atlanta Hawks;Jevon Carter;2;0;5.5;0.0;0.5;1.5;2.0;1.5;0.0;0.0;0.5;0.0;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Atlanta Hawks;Total;3;"";"";115.0;8.7;36.3;45.0;25.7;7.0;6.0;13.3;23.0;1.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Charlotte Hornets;Kyrie Irving;2;2;39.0;33.0;0.5;2.0;2.5;8.5;0.5;1.5;2.5;3.0;3.4
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Charlotte Hornets;Kevin Durant;3;3;39.3;26.3;0.3;5.0;5.3;5.7;1.0;0.0;3.3;1.7;1.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Charlotte Hornets;Andre Drummond;2;2;27.5;20.0;4.5;10.5;15.0;1.0;2.0;2.5;2.0;2.5;0.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Charlotte Hornets;James Harden;1;1;33.0;15.0;2.0;5.0;7.0;8.0;1.0;1.0;8.0;5.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Charlotte Hornets;Bruce Brown;3;2;26.7;10.7;2.0;5.0;7.0;2.0;2.0;1.0;0.7;1.3;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Charlotte Hornets;Seth Curry;2;2;30.5;10.5;0.0;1.5;1.5;1.5;0.5;0.5;1.0;3.0;1.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Charlotte Hornets;LaMarcus Aldridge;1;0;22.0;9.0;3.0;5.0;8.0;0.0;1.0;2.0;2.0;2.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Charlotte Hornets;Joe Harris;1;1;28.0;7.0;1.0;3.0;4.0;0.0;0.0;0.0;1.0;5.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Charlotte Hornets;Patty Mills;3;0;21.0;6.3;0.0;2.7;2.7;1.7;0.0;0.0;0.0;1.3;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Charlotte Hornets;Goran Dragic;2;0;29.0;6.0;0.5;3.5;4.0;6.5;2.0;0.5;1.0;1.5;6.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Charlotte Hornets;Nic Claxton;3;1;17.7;6.0;1.0;2.3;3.3;0.7;0.3;1.3;1.7;2.7;0.4
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Charlotte Hornets;Paul Millsap;1;0;8.0;5.0;0.0;3.0;3.0;3.0;2.0;0.0;0.0;2.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Charlotte Hornets;Jevon Carter;1;1;26.0;3.0;0.0;2.0;2.0;1.0;2.0;1.0;0.0;3.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Charlotte Hornets;Kessler Edwards;2;0;2.0;2.5;0.5;0.0;0.5;0.0;0.0;0.5;0.5;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Charlotte Hornets;James Johnson;3;0;9.3;2.0;0.3;1.7;2.0;1.3;0.3;0.3;0.0;0.3;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Charlotte Hornets;DeAndre' Bembry;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Charlotte Hornets;Cam Thomas;2;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Charlotte Hornets;Day'Ron Sharpe;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Charlotte Hornets;Total;3;"";"";112.3;9.7;34.3;44.0;27.0;9.0;7.7;14.0;19.7;1.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Miami Heat;Kevin Durant;3;3;34.3;26.3;0.0;6.0;6.0;3.7;1.3;1.3;4.3;2.0;0.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Miami Heat;Kyrie Irving;2;2;36.0;20.0;0.0;4.5;4.5;5.5;2.0;0.5;1.5;2.5;3.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Miami Heat;Joe Harris;1;1;34.0;15.0;0.0;3.0;3.0;0.0;1.0;1.0;1.0;5.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Miami Heat;James Harden;1;1;36.0;14.0;0.0;7.0;7.0;7.0;1.0;1.0;4.0;3.0;1.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Miami Heat;Bruce Brown;4;4;29.3;13.0;0.8;3.0;3.8;2.3;2.5;0.3;1.0;2.3;2.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Miami Heat;Seth Curry;2;2;28.5;12.5;0.5;0.5;1.0;1.5;1.0;0.0;0.5;2.5;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Miami Heat;Andre Drummond;2;2;19.0;10.5;4.0;3.0;7.0;1.0;1.0;0.0;1.0;4.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Miami Heat;Patty Mills;4;1;29.0;9.0;0.5;1.5;2.0;2.3;0.3;0.0;1.0;1.8;2.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Miami Heat;Blake Griffin;3;2;17.0;7.7;0.7;3.0;3.7;0.7;0.3;0.0;0.7;1.7;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Miami Heat;Goran Dragic;2;1;24.5;7.5;0.0;3.5;3.5;5.5;0.5;0.5;2.5;2.5;2.2
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Miami Heat;Cam Thomas;4;0;14.5;7.5;0.8;1.8;2.5;1.8;0.3;0.3;0.5;1.3;3.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Miami Heat;Paul Millsap;1;0;15.0;7.0;0.0;4.0;4.0;2.0;0.0;0.0;1.0;3.0;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Miami Heat;Kessler Edwards;2;1;22.0;6.5;0.0;2.5;2.5;0.0;1.5;0.5;0.0;3.5;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Miami Heat;Nic Claxton;2;0;12.0;6.0;1.5;3.0;4.5;0.5;0.5;1.5;0.5;1.5;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Miami Heat;LaMarcus Aldridge;2;0;18.0;5.5;1.0;2.5;3.5;0.5;0.5;0.5;0.5;1.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Miami Heat;Day'Ron Sharpe;2;0;14.5;5.0;2.5;3.5;6.0;1.5;0.5;0.0;0.5;2.5;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Miami Heat;James Johnson;3;0;16.3;4.7;0.3;2.3;2.7;1.7;1.0;0.7;1.0;3.0;1.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Miami Heat;DeAndre' Bembry;1;0;13.0;4.0;0.0;1.0;1.0;1.0;1.0;2.0;1.0;3.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Miami Heat;Jevon Carter;2;0;6.5;0.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;0.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Miami Heat;David Duke Jr.;1;0;6.0;0.0;1.0;0.0;1.0;0.0;1.0;0.0;0.0;2.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Miami Heat;Total;4;"";"";105.3;7.8;30.5;38.3;21.8;9.8;4.8;12.3;24.3;1.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Orlando Magic;Kyrie Irving;1;1;35.0;60.0;2.0;4.0;6.0;4.0;4.0;1.0;1.0;3.0;4.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Orlando Magic;James Harden;2;2;35.5;26.5;1.0;9.5;10.5;9.5;2.5;1.0;6.0;2.5;1.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Orlando Magic;Kevin Durant;2;2;29.5;24.5;0.0;5.0;5.0;4.5;0.5;0.0;3.5;1.5;1.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Orlando Magic;LaMarcus Aldridge;2;0;23.0;18.0;3.0;3.5;6.5;0.0;0.0;1.5;0.5;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Orlando Magic;David Duke Jr.;1;1;36.0;18.0;8.0;6.0;14.0;1.0;2.0;2.0;1.0;2.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Orlando Magic;Patty Mills;4;2;29.0;16.5;0.5;2.0;2.5;2.8;0.8;0.3;1.0;1.0;2.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Orlando Magic;Nic Claxton;1;0;24.0;12.0;1.0;9.0;10.0;2.0;0.0;0.0;2.0;3.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Orlando Magic;James Johnson;2;0;24.0;11.5;1.5;5.0;6.5;4.0;0.0;1.0;1.0;5.0;4.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Orlando Magic;Kessler Edwards;2;1;32.0;11.5;1.5;4.0;5.5;2.0;0.5;1.5;1.5;1.5;1.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Orlando Magic;Andre Drummond;1;1;18.0;10.0;2.0;4.0;6.0;0.0;0.0;1.0;3.0;4.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Orlando Magic;Joe Harris;1;1;26.0;9.0;0.0;3.0;3.0;0.0;0.0;0.0;0.0;2.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Orlando Magic;DeAndre' Bembry;2;1;29.5;9.0;0.0;2.0;2.0;2.0;0.0;1.0;0.5;2.5;4.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Orlando Magic;Jevon Carter;2;0;23.0;8.0;1.0;2.5;3.5;3.0;0.5;0.5;0.0;2.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Orlando Magic;Bruce Brown;3;3;23.3;8.0;0.3;3.3;3.7;3.7;1.7;1.0;0.3;1.7;11.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Orlando Magic;Blake Griffin;4;3;22.0;6.8;1.0;3.8;4.8;3.3;1.3;0.8;1.0;2.3;3.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Orlando Magic;Cam Thomas;3;1;17.7;5.7;0.0;2.7;2.7;1.3;0.3;0.7;1.3;0.7;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Orlando Magic;Paul Millsap;1;0;19.0;5.0;2.0;3.0;5.0;1.0;0.0;1.0;1.0;4.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Orlando Magic;Langston Galloway;1;0;23.0;4.0;1.0;3.0;4.0;3.0;0.0;0.0;1.0;0.0;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Orlando Magic;Shaquille Harrison;1;0;21.0;4.0;1.0;3.0;4.0;3.0;1.0;1.0;2.0;3.0;1.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Orlando Magic;Day'Ron Sharpe;1;0;7.0;4.0;3.0;2.0;5.0;0.0;1.0;1.0;1.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Orlando Magic;James Ennis III;1;0;12.0;3.0;2.0;2.0;4.0;0.0;1.0;1.0;0.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Orlando Magic;Goran Dragic;1;1;20.0;0.0;0.0;3.0;3.0;4.0;0.0;0.0;2.0;3.0;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Orlando Magic;Total;4;"";"";120.3;11.3;36.5;47.8;26.8;7.8;7.5;13.3;18.5;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Washington Wizards;Kyrie Irving;2;2;38.0;30.5;0.5;3.5;4.0;6.5;0.5;0.5;3.0;3.0;2.2
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Washington Wizards;Kevin Durant;1;1;35.0;25.0;0.0;8.0;8.0;4.0;2.0;0.0;1.0;1.0;4.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Washington Wizards;LaMarcus Aldridge;2;0;30.0;21.5;1.5;3.5;5.0;2.0;0.0;2.0;0.5;3.0;4.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Washington Wizards;Patty Mills;4;3;31.3;16.8;0.5;2.8;3.3;3.0;1.3;0.5;1.3;2.0;2.4
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Washington Wizards;James Harden;2;2;35.0;16.0;0.5;6.5;7.0;9.0;0.5;0.5;5.0;2.0;1.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Washington Wizards;Cam Thomas;4;1;22.5;12.8;0.3;2.3;2.5;0.5;0.8;0.0;0.8;1.8;0.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Washington Wizards;Seth Curry;1;1;31.0;12.0;1.0;3.0;4.0;4.0;0.0;0.0;3.0;0.0;1.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Washington Wizards;Joe Harris;1;1;30.0;11.0;1.0;7.0;8.0;2.0;0.0;0.0;1.0;2.0;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Washington Wizards;James Johnson;2;0;17.0;7.5;0.5;1.0;1.5;1.5;0.5;0.0;0.0;2.5;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Washington Wizards;Bruce Brown;4;2;25.0;7.5;1.5;1.8;3.3;1.8;0.0;0.3;0.3;3.0;7.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Washington Wizards;Jevon Carter;3;0;15.7;7.3;0.7;1.7;2.3;0.7;0.0;0.0;1.3;1.7;0.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Washington Wizards;DeAndre' Bembry;1;0;18.0;7.0;1.0;2.0;3.0;1.0;2.0;1.0;1.0;2.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Washington Wizards;Day'Ron Sharpe;4;1;9.5;6.3;2.0;2.0;4.0;0.5;0.8;0.3;0.3;1.5;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Washington Wizards;Blake Griffin;3;2;18.0;6.0;1.7;5.7;7.3;1.3;0.3;0.3;1.0;1.0;1.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Washington Wizards;Andre Drummond;1;1;19.0;6.0;3.0;6.0;9.0;1.0;1.0;0.0;3.0;4.0;0.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Washington Wizards;Nic Claxton;1;0;16.0;6.0;1.0;7.0;8.0;1.0;0.0;2.0;0.0;1.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Washington Wizards;Kessler Edwards;3;3;25.0;1.7;1.0;3.0;4.0;0.7;1.0;0.3;0.7;2.7;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Washington Wizards;David Duke Jr.;2;0;16.0;1.0;0.5;1.0;1.5;0.0;0.0;0.5;0.0;1.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Washington Wizards;Paul Millsap;1;0;9.0;0.0;0.0;3.0;3.0;2.0;0.0;0.0;1.0;3.0;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Washington Wizards;Total;4;"";"";109.5;10.3;33.3;43.5;21.0;5.8;4.0;11.5;21.3;1.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Denver Nuggets;Kyrie Irving;1;1;41.0;27.0;2.0;3.0;5.0;11.0;1.0;3.0;2.0;3.0;5.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Denver Nuggets;Cam Thomas;2;0;29.0;22.5;0.0;2.0;2.0;2.5;0.5;1.0;2.5;2.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Denver Nuggets;LaMarcus Aldridge;1;1;33.0;18.0;0.0;8.0;8.0;0.0;0.0;1.0;1.0;3.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Denver Nuggets;Patty Mills;2;2;31.5;17.5;0.0;3.5;3.5;4.0;1.5;0.0;1.0;1.5;4.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Denver Nuggets;Blake Griffin;2;1;22.5;12.5;1.0;3.5;4.5;3.0;0.0;0.0;0.5;0.5;6.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Denver Nuggets;James Johnson;2;2;32.5;8.5;0.5;5.5;6.0;3.5;2.0;0.0;2.0;4.5;1.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Denver Nuggets;DeAndre' Bembry;2;1;27.0;8.5;0.5;2.5;3.0;2.5;1.5;1.5;0.5;4.0;5.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Denver Nuggets;Jevon Carter;2;0;12.5;6.5;0.0;1.0;1.0;1.5;0.5;0.0;0.5;2.0;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Denver Nuggets;Kessler Edwards;2;2;28.5;5.5;2.0;4.0;6.0;1.0;0.5;1.0;1.0;2.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Denver Nuggets;Bruce Brown;2;0;12.5;5.0;2.0;2.0;4.0;1.0;0.0;0.0;0.5;1.5;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Denver Nuggets;Day'Ron Sharpe;1;0;14.0;4.0;0.0;1.0;1.0;1.0;0.0;1.0;2.0;2.0;0.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Denver Nuggets;Total;2;"";"";111.0;7.0;30.0;37.0;25.0;7.0;6.0;11.0;22.0;2.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Kevin Durant;1;1;38.0;30.0;1.0;9.0;10.0;6.0;0.0;0.0;5.0;4.0;1.2
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Kyrie Irving;1;1;35.0;30.0;0.0;6.0;6.0;5.0;1.0;0.0;3.0;1.0;1.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Patty Mills;2;2;34.0;22.0;0.0;1.5;1.5;2.0;0.5;0.0;1.0;1.5;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;James Harden;2;2;35.5;16.5;0.0;6.0;6.0;11.0;1.5;0.0;6.0;3.0;1.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Kessler Edwards;1;1;29.0;15.0;0.0;5.0;5.0;0.0;0.0;0.0;0.0;5.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;LaMarcus Aldridge;2;1;25.5;9.5;1.0;2.5;3.5;1.5;0.0;0.5;2.5;5.0;0.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;James Johnson;2;0;22.5;9.0;3.0;2.5;5.5;2.5;0.5;0.5;0.0;5.5;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Day'Ron Sharpe;1;1;22.0;8.0;6.0;3.0;9.0;0.0;0.0;1.0;2.0;3.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Cam Thomas;2;0;16.5;7.0;0.0;2.0;2.0;0.5;0.0;0.0;0.5;1.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Blake Griffin;1;0;6.0;5.0;1.0;1.0;2.0;1.0;0.0;0.0;0.0;1.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;DeAndre' Bembry;2;1;21.5;4.5;1.0;3.5;4.5;0.5;0.5;0.0;1.0;1.0;0.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Paul Millsap;1;0;10.0;4.0;1.0;3.0;4.0;2.0;0.0;1.0;0.0;2.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Bruce Brown;2;0;9.5;3.0;2.0;1.0;3.0;0.5;0.5;0.5;0.0;3.5;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Jevon Carter;2;0;3.0;0.0;0.0;0.5;0.5;1.0;0.0;0.0;0.5;0.0;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Nic Claxton;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;3.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Total;2;"";"";117.5;11.5;33.0;44.5;26.5;4.0;2.5;17.0;30.0;1.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Kevin Durant;1;1;34.0;33.0;0.0;8.0;8.0;4.0;1.0;0.0;1.0;1.0;4.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Patty Mills;1;0;31.0;29.0;0.0;0.0;0.0;1.0;2.0;0.0;1.0;3.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;James Harden;2;2;36.5;21.0;1.0;5.5;6.5;11.0;3.0;1.5;4.5;1.5;2.4
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;LaMarcus Aldridge;1;0;22.0;15.0;2.0;6.0;8.0;2.0;0.0;2.0;1.0;2.0;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;David Duke Jr.;1;0;20.0;13.0;3.0;2.0;5.0;1.0;0.0;1.0;2.0;1.0;0.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Cam Thomas;2;0;18.0;12.5;0.5;1.5;2.0;0.0;1.0;0.0;0.5;1.5;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Kessler Edwards;1;1;25.0;9.0;2.0;0.0;2.0;0.0;0.0;1.0;0.0;2.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Paul Millsap;1;0;19.0;8.0;4.0;6.0;10.0;1.0;0.0;3.0;1.0;1.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Bruce Brown;2;2;27.5;8.0;2.5;5.0;7.5;1.5;1.5;1.0;1.5;3.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Jevon Carter;2;0;23.5;6.0;0.5;1.0;1.5;0.5;0.5;0.0;0.5;1.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Blake Griffin;2;1;18.0;5.0;1.0;2.5;3.5;2.0;0.0;0.5;0.5;1.5;4.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Day'Ron Sharpe;1;1;20.0;4.0;2.0;4.0;6.0;1.0;0.0;1.0;1.0;2.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Joe Harris;1;1;14.0;3.0;0.0;3.0;3.0;1.0;0.0;0.0;0.0;0.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;DeAndre' Bembry;2;1;16.0;3.0;1.0;2.0;3.0;2.0;0.0;0.0;1.0;2.5;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;James Johnson;2;0;8.0;2.0;1.0;1.0;2.0;1.0;0.0;0.0;0.5;0.0;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Total;2;"";"";114.5;14.0;33.0;47.0;23.5;7.5;7.0;12.5;17.0;1.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Kevin Durant;2;2;39.5;33.0;0.5;7.5;8.0;5.5;1.0;1.0;4.5;3.0;1.2
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Seth Curry;1;1;38.0;27.0;0.0;3.0;3.0;2.0;2.0;0.0;2.0;4.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Kyrie Irving;1;1;40.0;22.0;1.0;7.0;8.0;4.0;1.0;1.0;4.0;2.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Andre Drummond;1;1;23.0;17.0;6.0;3.0;9.0;1.0;0.0;0.0;2.0;1.0;0.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Bruce Brown;1;1;34.0;17.0;0.0;7.0;7.0;3.0;1.0;1.0;1.0;4.0;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Cam Thomas;2;0;20.0;16.0;0.5;3.5;4.0;1.0;2.0;0.0;2.0;1.0;0.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Day'Ron Sharpe;1;0;24.0;14.0;4.0;3.0;7.0;2.0;0.0;3.0;3.0;4.0;0.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Goran Dragic;1;1;36.0;9.0;1.0;1.0;2.0;10.0;3.0;0.0;5.0;4.0;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Portland Trail Blazers;David Duke Jr.;1;1;13.0;5.0;2.0;0.0;2.0;2.0;0.0;0.0;0.0;3.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Nic Claxton;2;1;18.5;4.5;2.5;2.5;5.0;0.5;0.0;1.0;1.5;3.5;0.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Portland Trail Blazers;DeAndre' Bembry;1;1;18.0;4.0;1.0;1.0;2.0;1.0;2.0;0.0;1.0;1.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Portland Trail Blazers;James Johnson;2;0;9.0;3.0;1.0;1.0;2.0;0.0;0.0;0.0;0.0;0.5;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Kessler Edwards;2;0;10.0;2.5;0.5;2.0;2.5;0.0;0.5;0.0;0.5;1.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Patty Mills;2;0;24.5;1.5;0.0;1.0;1.0;2.5;0.0;0.5;0.0;1.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Blake Griffin;1;0;11.0;0.0;0.0;2.0;2.0;3.0;0.0;0.0;1.0;1.0;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Total;2;"";"";118.0;12.5;31.0;43.5;23.5;8.0;5.0;18.0;22.0;1.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Utah Jazz;Kevin Durant;1;1;38.0;37.0;0.0;9.0;9.0;8.0;1.0;0.0;4.0;1.0;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Utah Jazz;Cam Thomas;2;0;22.0;17.0;0.0;2.0;2.0;2.5;1.0;0.0;1.0;1.0;2.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Utah Jazz;Kyrie Irving;1;1;31.0;15.0;1.0;2.0;3.0;6.0;0.0;0.0;1.0;3.0;6.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Utah Jazz;Bruce Brown;2;1;28.5;14.0;1.5;4.5;6.0;4.0;1.0;0.0;0.5;1.0;8.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Utah Jazz;DeAndre' Bembry;1;0;27.0;13.0;1.0;4.0;5.0;1.0;2.0;0.0;1.0;1.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Utah Jazz;Patty Mills;2;1;27.0;12.0;1.0;1.0;2.0;1.0;0.0;0.5;1.0;1.5;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Utah Jazz;Day'Ron Sharpe;1;0;16.0;11.0;7.0;1.0;8.0;2.0;1.0;1.0;1.0;3.0;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Utah Jazz;Blake Griffin;2;0;21.0;9.0;0.5;4.0;4.5;4.0;1.5;0.5;1.5;1.5;2.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Utah Jazz;Nic Claxton;2;2;16.5;7.5;1.5;3.0;4.5;2.0;0.5;1.0;0.5;1.0;4.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Utah Jazz;Goran Dragic;1;1;32.0;7.0;1.0;2.0;3.0;7.0;0.0;0.0;3.0;2.0;2.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Utah Jazz;Jevon Carter;1;0;25.0;5.0;0.0;3.0;3.0;2.0;0.0;1.0;1.0;0.0;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Utah Jazz;Kessler Edwards;2;1;15.0;2.5;0.0;2.0;2.0;0.0;1.5;0.0;0.5;2.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Utah Jazz;James Johnson;2;1;19.0;2.0;2.0;3.0;5.0;1.5;0.0;0.0;0.5;2.0;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Utah Jazz;Seth Curry;1;1;12.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Utah Jazz;Total;2;"";"";108.0;11.5;30.0;41.5;28.0;7.5;3.0;11.5;15.5;2.4
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Golden State Warriors;Kyrie Irving;1;1;39.0;32.0;2.0;6.0;8.0;7.0;3.0;0.0;5.0;4.0;1.4
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Golden State Warriors;James Harden;1;1;32.0;24.0;0.0;4.0;4.0;4.0;0.0;0.0;5.0;3.0;0.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Golden State Warriors;Kevin Durant;1;1;32.0;19.0;1.0;4.0;5.0;3.0;0.0;0.0;2.0;1.0;1.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Golden State Warriors;Patty Mills;2;2;34.5;16.0;0.5;2.5;3.0;4.0;1.5;1.0;0.0;1.5;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Golden State Warriors;Nic Claxton;1;1;17.0;9.0;6.0;2.0;8.0;0.0;0.0;0.0;1.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Golden State Warriors;Bruce Brown;2;1;24.0;8.0;1.5;4.5;6.0;2.0;1.5;1.0;0.0;2.5;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Golden State Warriors;James Johnson;2;0;15.5;7.0;0.5;2.0;2.5;1.0;0.5;0.5;0.5;2.0;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Golden State Warriors;Blake Griffin;2;1;19.0;6.0;0.5;2.5;3.0;0.5;0.5;0.5;0.0;2.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Golden State Warriors;Kessler Edwards;2;1;20.5;6.0;1.5;3.0;4.5;0.5;0.0;1.0;2.0;1.0;0.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Golden State Warriors;LaMarcus Aldridge;2;0;12.5;5.5;1.0;2.0;3.0;1.0;0.5;1.0;0.0;0.5;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Golden State Warriors;DeAndre' Bembry;2;1;25.0;5.5;2.0;2.0;4.0;1.5;1.0;0.5;0.0;3.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Golden State Warriors;Day'Ron Sharpe;1;0;9.0;4.0;2.0;5.0;7.0;0.0;0.0;1.0;3.0;1.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Golden State Warriors;Jevon Carter;1;0;16.0;3.0;0.0;1.0;1.0;1.0;2.0;0.0;0.0;3.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Golden State Warriors;Cam Thomas;2;0;16.5;3.0;0.5;2.0;2.5;3.0;1.5;0.0;0.0;0.5;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Golden State Warriors;Total;2;"";"";102.5;13.5;31.5;45.0;21.0;9.5;6.0;10.5;19.0;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. LA Clippers;James Harden;2;2;40.0;36.5;1.0;9.0;10.0;14.0;1.5;0.0;3.5;3.5;4.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. LA Clippers;Kevin Durant;1;1;39.0;28.0;0.0;9.0;9.0;3.0;0.0;1.0;3.0;1.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. LA Clippers;Patty Mills;2;2;33.5;17.5;0.0;1.5;1.5;2.0;1.0;0.0;2.5;3.0;0.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. LA Clippers;Nic Claxton;2;1;26.5;15.5;2.5;5.0;7.5;1.0;0.5;2.0;1.0;2.5;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. LA Clippers;LaMarcus Aldridge;1;1;20.0;10.0;4.0;5.0;9.0;0.0;1.0;0.0;3.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. LA Clippers;DeAndre' Bembry;2;1;28.0;9.5;0.5;3.5;4.0;3.5;1.5;1.0;0.5;2.0;7.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. LA Clippers;Blake Griffin;2;0;12.0;6.0;3.0;3.0;6.0;1.0;0.5;0.0;0.0;1.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. LA Clippers;Jevon Carter;1;0;12.0;6.0;1.0;2.0;3.0;0.0;0.0;1.0;1.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. LA Clippers;Bruce Brown;2;2;24.5;5.0;1.5;4.0;5.5;0.5;2.0;0.0;0.5;5.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. LA Clippers;James Johnson;2;0;26.0;4.5;1.0;4.0;5.0;3.5;0.5;0.5;1.5;3.5;2.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. LA Clippers;Langston Galloway;1;0;13.0;3.0;0.0;1.0;1.0;1.0;0.0;0.0;1.0;1.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. LA Clippers;Paul Millsap;1;0;10.0;2.0;0.0;1.0;1.0;2.0;0.0;1.0;0.0;2.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. LA Clippers;James Ennis III;1;0;1.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. LA Clippers;Shaquille Harrison;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. LA Clippers;Wenyen Gabriel;1;0;1.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. LA Clippers;Total;2;"";"";120.0;12.0;40.0;52.0;28.5;8.0;5.0;13.5;22.5;2.1
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Los Angeles Lakers;James Harden;2;2;38.5;34.5;2.5;8.5;11.0;10.5;1.5;2.0;5.0;3.0;2.1
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Patty Mills;2;2;33.0;24.5;0.0;1.0;1.0;4.5;1.0;0.0;0.5;3.0;9.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Los Angeles Lakers;DeAndre' Bembry;2;2;28.5;13.5;1.5;3.0;4.5;1.0;0.5;0.5;2.0;3.0;0.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Bruce Brown;2;1;29.0;10.0;0.5;5.0;5.5;3.0;0.5;0.0;1.0;3.0;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Los Angeles Lakers;LaMarcus Aldridge;1;0;20.0;9.0;2.0;4.0;6.0;0.0;1.0;0.0;2.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Los Angeles Lakers;James Johnson;2;0;24.5;8.0;2.5;1.5;4.0;2.5;0.5;0.5;1.0;1.0;2.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Nic Claxton;2;1;24.5;7.5;1.5;4.5;6.0;1.5;0.0;2.0;0.5;0.5;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Kessler Edwards;1;1;33.0;5.0;0.0;6.0;6.0;1.0;1.0;1.0;1.0;2.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Day'Ron Sharpe;1;1;11.0;4.0;3.0;5.0;8.0;0.0;0.0;0.0;1.0;1.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Langston Galloway;1;0;14.0;2.0;0.0;2.0;2.0;1.0;0.0;0.0;2.0;4.0;0.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Jevon Carter;2;0;9.5;1.0;0.5;1.0;1.5;0.5;0.5;0.0;1.0;0.5;0.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Paul Millsap;1;0;6.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Blake Griffin;1;0;11.0;0.0;1.0;1.0;2.0;1.0;0.0;0.0;0.0;1.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Cam Thomas;1;0;9.0;0.0;0.0;3.0;3.0;1.0;0.0;0.0;0.0;0.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Total;2;"";"";109.0;12.0;35.5;47.5;25.5;5.5;5.5;14.0;18.5;1.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Phoenix Suns;Kevin Durant;1;1;45.0;39.0;0.0;9.0;9.0;7.0;4.0;1.0;6.0;0.0;1.2
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Phoenix Suns;Kyrie Irving;1;1;37.0;26.0;0.0;4.0;4.0;3.0;1.0;0.0;2.0;2.0;1.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Phoenix Suns;LaMarcus Aldridge;1;1;28.0;18.0;0.0;6.0;6.0;0.0;0.0;0.0;1.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Phoenix Suns;Blake Griffin;1;0;27.0;17.0;2.0;4.0;6.0;2.0;1.0;0.0;1.0;3.0;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Phoenix Suns;James Harden;2;2;38.5;17.0;1.5;7.5;9.0;12.0;1.0;1.0;5.5;2.0;2.2
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Phoenix Suns;Kessler Edwards;1;1;29.0;13.0;0.0;5.0;5.0;0.0;1.0;0.0;1.0;3.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Phoenix Suns;DeAndre' Bembry;2;1;27.0;12.5;2.5;4.0;6.5;1.5;1.5;0.0;0.0;3.5;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Phoenix Suns;Patty Mills;2;2;35.0;9.0;0.0;2.0;2.0;1.5;0.5;0.5;1.0;3.5;1.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Phoenix Suns;Nic Claxton;1;1;19.0;6.0;1.0;2.0;3.0;1.0;0.0;0.0;1.0;3.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Phoenix Suns;James Johnson;2;0;20.0;3.0;2.0;1.5;3.5;2.0;0.0;0.5;0.5;4.5;4.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Phoenix Suns;Jevon Carter;2;0;3.0;2.5;0.0;0.0;0.0;0.5;0.0;0.0;0.5;0.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Phoenix Suns;Cam Thomas;2;0;13.5;2.5;0.0;0.5;0.5;0.0;0.0;0.0;1.0;0.5;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Phoenix Suns;Paul Millsap;1;0;8.0;2.0;1.0;0.0;1.0;1.0;0.0;0.0;0.0;2.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Phoenix Suns;Day'Ron Sharpe;1;0;3.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Phoenix Suns;Bruce Brown;2;0;6.0;1.0;0.0;1.0;1.0;0.5;0.5;0.5;1.0;0.5;0.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Phoenix Suns;Total;2;"";"";109.0;8.0;32.0;40.0;25.0;7.0;3.0;15.5;21.0;1.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Sacramento Kings;Seth Curry;1;1;32.0;23.0;0.0;7.0;7.0;5.0;0.0;0.0;4.0;3.0;1.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Sacramento Kings;Nic Claxton;1;1;29.0;23.0;6.0;5.0;11.0;1.0;1.0;5.0;0.0;3.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Sacramento Kings;LaMarcus Aldridge;1;0;19.0;19.0;2.0;6.0;8.0;0.0;0.0;1.0;5.0;3.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Sacramento Kings;Kyrie Irving;1;1;37.0;14.0;0.0;3.0;3.0;1.0;1.0;2.0;4.0;1.0;0.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Sacramento Kings;James Johnson;2;0;24.5;11.0;0.5;3.0;3.5;1.5;0.5;1.0;0.5;3.5;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Sacramento Kings;Patty Mills;2;2;31.5;11.0;0.0;2.5;2.5;3.0;1.5;0.0;1.5;1.0;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Sacramento Kings;Andre Drummond;1;1;24.0;11.0;3.0;6.0;9.0;4.0;2.0;1.0;2.0;5.0;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Sacramento Kings;Cam Thomas;2;0;22.5;11.0;0.0;3.5;3.5;1.5;0.0;0.5;0.0;2.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Sacramento Kings;Bruce Brown;2;1;24.0;10.5;0.0;3.5;3.5;3.5;2.5;1.5;0.0;1.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Sacramento Kings;Kessler Edwards;2;2;22.0;5.0;0.5;4.0;4.5;0.0;0.0;0.0;2.0;1.5;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Sacramento Kings;Blake Griffin;2;0;10.5;4.5;1.5;0.5;2.0;1.5;0.5;0.0;0.0;1.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Sacramento Kings;James Harden;1;1;37.0;4.0;0.0;7.0;7.0;12.0;0.0;1.0;6.0;3.0;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Sacramento Kings;Jevon Carter;1;0;17.0;3.0;0.0;2.0;2.0;2.0;0.0;0.0;0.0;0.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Sacramento Kings;David Duke Jr.;1;0;2.0;3.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Sacramento Kings;DeAndre' Bembry;1;0;10.0;2.0;0.0;2.0;2.0;0.0;0.0;1.0;0.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Sacramento Kings;Day'Ron Sharpe;1;0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Sacramento Kings;Total;2;"";"";105.0;8.0;36.5;44.5;23.5;7.0;8.5;14.5;19.0;1.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Dallas Mavericks;Kevin Durant;2;2;40.0;23.5;2.0;4.5;6.5;6.5;0.5;0.5;3.5;2.0;1.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Dallas Mavericks;James Harden;1;1;42.0;23.0;0.0;9.0;9.0;12.0;0.0;1.0;5.0;2.0;2.4
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Dallas Mavericks;Goran Dragic;1;1;36.0;21.0;0.0;3.0;3.0;4.0;0.0;0.0;2.0;3.0;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Dallas Mavericks;LaMarcus Aldridge;1;1;23.0;15.0;1.0;4.0;5.0;1.0;0.0;0.0;1.0;3.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Dallas Mavericks;Andre Drummond;1;1;22.0;14.0;8.0;9.0;17.0;1.0;0.0;1.0;2.0;4.0;0.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Dallas Mavericks;Kessler Edwards;1;0;20.0;12.0;1.0;0.0;1.0;2.0;0.0;0.0;1.0;0.0;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Dallas Mavericks;Patty Mills;2;2;35.0;9.5;0.0;2.5;2.5;2.0;1.0;0.0;0.0;0.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Dallas Mavericks;Bruce Brown;2;1;26.5;9.5;2.5;3.5;6.0;3.5;0.0;0.0;0.5;3.0;7.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Dallas Mavericks;Nic Claxton;2;0;23.5;9.5;3.0;4.0;7.0;1.5;0.0;0.0;0.5;3.0;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Dallas Mavericks;James Johnson;2;0;20.5;7.0;0.0;3.5;3.5;3.0;0.5;1.0;0.5;5.0;6.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Dallas Mavericks;DeAndre' Bembry;1;1;14.0;4.0;0.0;1.0;1.0;0.0;1.0;1.0;0.0;4.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Dallas Mavericks;Cam Thomas;2;0;11.5;3.0;0.5;2.0;2.5;0.0;0.0;0.0;0.0;0.5;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Dallas Mavericks;Paul Millsap;1;0;4.0;0.0;1.0;2.0;3.0;2.0;0.0;0.0;1.0;0.0;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Dallas Mavericks;Jevon Carter;1;0;5.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;1.0;0.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Dallas Mavericks;Total;2;"";"";106.5;13.5;34.0;47.5;28.0;2.5;3.0;11.5;21.5;2.4
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Houston Rockets;Kyrie Irving;1;1;40.0;42.0;0.0;3.0;3.0;6.0;2.0;1.0;4.0;2.0;1.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Houston Rockets;James Harden;1;1;39.0;25.0;0.0;11.0;11.0;8.0;2.0;0.0;8.0;3.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Houston Rockets;Kevin Durant;1;1;37.0;18.0;0.0;9.0;9.0;7.0;0.0;2.0;3.0;2.0;2.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Houston Rockets;Cam Thomas;2;0;24.5;15.5;0.5;2.5;3.0;0.0;0.5;0.0;0.5;0.5;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Houston Rockets;Bruce Brown;2;1;26.5;10.5;2.0;2.5;4.5;2.0;1.5;1.5;1.5;3.5;1.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Houston Rockets;Paul Millsap;1;0;19.0;10.0;3.0;3.0;6.0;3.0;1.0;0.0;1.0;4.0;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Houston Rockets;Andre Drummond;1;1;20.0;10.0;5.0;6.0;11.0;1.0;1.0;2.0;2.0;5.0;0.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Houston Rockets;Patty Mills;2;2;28.5;9.0;0.5;1.5;2.0;1.5;0.5;0.5;0.5;1.0;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Houston Rockets;David Duke Jr.;1;0;22.0;9.0;2.0;1.0;3.0;1.0;0.0;0.0;0.0;3.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Houston Rockets;Nic Claxton;2;1;21.5;8.5;2.0;4.5;6.5;0.0;0.5;0.5;0.5;2.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Houston Rockets;Blake Griffin;1;0;13.0;7.0;0.0;3.0;3.0;0.0;0.0;0.0;0.0;3.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Houston Rockets;DeAndre' Bembry;1;1;19.0;5.0;2.0;1.0;3.0;0.0;0.0;1.0;1.0;2.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Houston Rockets;Kessler Edwards;1;0;24.0;5.0;2.0;5.0;7.0;2.0;1.0;1.0;1.0;3.0;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Houston Rockets;James Johnson;1;1;19.0;4.0;0.0;4.0;4.0;4.0;0.0;0.0;1.0;2.0;4.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Houston Rockets;LaMarcus Aldridge;1;0;17.0;0.0;2.0;1.0;3.0;1.0;0.0;0.0;1.0;3.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Houston Rockets;Jevon Carter;1;0;9.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Houston Rockets;Total;2;"";"";111.0;13.0;35.0;48.0;20.0;6.5;6.0;14.5;23.0;1.4
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Kyrie Irving;1;1;44.0;43.0;0.0;2.0;2.0;8.0;1.0;1.0;3.0;5.0;2.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Kevin Durant;2;2;35.5;30.5;0.5;6.5;7.0;7.0;2.5;2.5;3.5;1.0;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Memphis Grizzlies;James Harden;1;1;32.0;19.0;2.0;2.0;4.0;8.0;1.0;1.0;5.0;1.0;1.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Andre Drummond;1;1;28.0;15.0;2.0;3.0;5.0;1.0;1.0;0.0;2.0;4.0;0.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Bruce Brown;2;1;30.0;11.5;3.0;4.0;7.0;3.0;1.0;4.0;1.0;3.0;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Blake Griffin;1;0;14.0;10.0;0.0;3.0;3.0;1.0;1.0;0.0;0.0;1.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Nic Claxton;2;1;22.5;9.0;1.0;3.0;4.0;0.5;1.0;1.0;0.5;1.5;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Memphis Grizzlies;DeAndre' Bembry;1;1;22.0;6.0;2.0;2.0;4.0;2.0;1.0;0.0;0.0;2.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Jevon Carter;1;0;9.0;6.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Cam Thomas;2;0;14.5;6.0;0.0;2.0;2.0;1.5;0.5;0.0;0.0;0.5;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Day'Ron Sharpe;1;0;9.0;6.0;1.0;3.0;4.0;0.0;0.0;0.0;0.0;5.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Kessler Edwards;1;1;20.0;3.0;2.0;4.0;6.0;0.0;1.0;1.0;0.0;3.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Memphis Grizzlies;James Johnson;2;0;16.5;1.0;0.0;1.0;1.0;0.5;0.0;1.0;1.0;1.5;0.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Patty Mills;2;1;27.5;0.0;0.0;0.5;0.5;0.5;0.0;0.0;1.5;1.5;0.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Memphis Grizzlies;David Duke Jr.;1;0;9.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Total;2;"";"";112.0;9.0;27.0;36.0;23.0;8.0;10.0;13.0;20.0;1.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. New Orleans Pelicans;James Harden;2;2;39.0;33.0;0.5;6.0;6.5;13.5;1.0;1.0;6.0;3.0;2.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Joe Harris;1;1;37.0;24.0;0.0;2.0;2.0;0.0;2.0;0.0;0.0;4.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Kevin Durant;2;2;25.0;20.0;0.0;5.0;5.0;5.0;0.5;0.5;1.5;0.5;3.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Cam Thomas;1;0;35.0;20.0;0.0;6.0;6.0;0.0;1.0;0.0;2.0;1.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Kessler Edwards;1;1;37.0;16.0;1.0;5.0;6.0;2.0;0.0;1.0;1.0;3.0;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Day'Ron Sharpe;1;1;27.0;12.0;6.0;4.0;10.0;0.0;0.0;1.0;1.0;6.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Patty Mills;2;1;27.0;10.5;0.0;1.5;1.5;2.0;0.5;0.0;1.0;1.5;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. New Orleans Pelicans;LaMarcus Aldridge;1;0;22.0;7.0;1.0;5.0;6.0;1.0;1.0;1.0;1.0;1.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Blake Griffin;2;1;23.0;7.0;1.5;3.5;5.0;4.5;0.5;1.0;0.5;2.5;9.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Bruce Brown;2;1;20.0;5.0;1.5;2.5;4.0;0.0;1.5;0.0;0.5;3.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Jevon Carter;2;0;6.5;4.0;0.0;0.0;0.0;0.5;0.0;0.0;0.0;0.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Paul Millsap;1;0;6.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. New Orleans Pelicans;DeAndre' Bembry;2;0;16.0;0.0;0.5;1.5;2.0;1.5;1.0;0.5;1.0;1.0;1.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. New Orleans Pelicans;David Duke Jr.;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Total;2;"";"";120.0;8.0;31.0;39.0;28.5;7.0;4.5;13.0;20.5;2.2
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. San Antonio Spurs;James Harden;2;2;40.5;31.5;0.5;8.0;8.5;11.5;0.5;1.0;4.5;3.0;2.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. San Antonio Spurs;Kevin Durant;1;1;43.0;28.0;2.0;2.0;4.0;6.0;1.0;3.0;3.0;4.0;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. San Antonio Spurs;Kyrie Irving;1;1;35.0;24.0;1.0;2.0;3.0;4.0;0.0;0.0;0.0;3.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. San Antonio Spurs;LaMarcus Aldridge;1;0;22.0;16.0;2.0;5.0;7.0;2.0;0.0;1.0;0.0;2.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. San Antonio Spurs;Nic Claxton;1;1;33.0;16.0;5.0;9.0;14.0;1.0;0.0;0.0;1.0;1.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. San Antonio Spurs;Patty Mills;2;2;35.5;11.0;0.0;5.0;5.0;3.5;0.0;1.0;1.5;0.0;2.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. San Antonio Spurs;Blake Griffin;2;0;10.0;7.0;1.0;2.0;3.0;1.5;0.0;0.0;0.5;2.0;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. San Antonio Spurs;Cam Thomas;2;0;20.0;6.5;0.0;3.5;3.5;0.5;0.5;0.0;2.5;0.5;0.2
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. San Antonio Spurs;Day'Ron Sharpe;2;1;13.0;6.5;3.5;4.5;8.0;0.0;0.5;0.0;0.5;2.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. San Antonio Spurs;Bruce Brown;1;0;20.0;6.0;1.0;4.0;5.0;1.0;0.0;2.0;0.0;1.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. San Antonio Spurs;Kessler Edwards;2;1;22.5;5.5;1.0;3.0;4.0;0.0;2.0;1.0;2.0;1.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. San Antonio Spurs;DeAndre' Bembry;2;0;14.0;3.0;0.0;1.0;1.0;0.5;1.5;0.0;0.0;0.5;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. San Antonio Spurs;David Duke Jr.;2;1;9.0;3.0;1.0;2.0;3.0;0.5;0.0;0.5;0.5;1.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. San Antonio Spurs;James Johnson;2;0;11.5;0.0;0.0;1.5;1.5;0.0;0.0;0.0;0.0;2.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;vs. San Antonio Spurs;Total;2;"";"";119.0;12.5;41.5;54.0;25.0;5.5;6.5;14.0;17.5;1.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;October;Kevin Durant;7;7;34.3;27.7;0.6;8.3;8.9;5.3;0.9;0.9;3.1;1.4;1.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;October;James Harden;7;7;33.3;18.6;1.1;6.4;7.6;8.6;1.0;1.0;4.6;2.1;1.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;October;LaMarcus Aldridge;6;0;20.2;12.7;1.8;3.2;5.0;0.3;0.3;1.2;1.2;2.3;0.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;October;Joe Harris;7;7;30.3;11.0;0.4;3.6;4.0;1.0;0.3;0.1;1.9;2.6;0.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;October;Patty Mills;7;0;26.4;10.6;0.4;1.9;2.3;2.6;0.6;0.3;0.4;1.4;6.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;October;Bruce Brown;6;4;23.8;7.3;0.8;3.5;4.3;0.5;1.3;0.7;0.5;1.8;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;October;Nic Claxton;4;3;19.0;6.5;0.8;4.8;5.5;0.8;0.0;1.0;0.8;1.3;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;October;Blake Griffin;6;6;20.0;4.8;0.7;4.2;4.8;0.7;0.5;0.3;0.7;1.7;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;October;Paul Millsap;6;0;11.3;4.5;0.5;3.0;3.5;1.2;0.3;0.2;0.5;2.0;2.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;October;DeAndre' Bembry;6;0;12.2;4.3;0.2;2.2;2.3;0.5;1.2;0.5;0.8;1.8;0.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;October;Jevon Carter;7;1;17.6;2.0;0.1;1.6;1.7;1.3;0.7;0.4;0.4;1.7;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;October;Day'Ron Sharpe;4;0;3.5;1.8;0.3;0.3;0.5;0.0;0.0;0.0;0.0;0.5;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;October;James Johnson;5;0;11.2;1.2;0.2;1.0;1.2;0.6;0.4;0.4;0.6;1.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;October;Cam Thomas;5;0;3.4;0.4;0.0;0.2;0.2;0.2;0.0;0.0;0.2;0.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;October;Total;7;"";"";104.6;6.9;39.1;46.0;22.4;6.9;6.0;14.6;19.3;1.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;November;Kevin Durant;13;13;36.6;29.0;0.4;6.4;6.8;5.7;0.6;0.5;2.9;1.3;1.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;November;James Harden;14;14;36.6;22.1;1.0;7.1;8.1;9.7;1.7;0.6;5.2;2.5;1.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;November;LaMarcus Aldridge;14;3;23.6;13.9;1.3;4.9;6.2;1.1;0.3;1.2;0.4;1.2;2.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;November;Patty Mills;14;7;28.6;13.0;0.2;1.3;1.5;2.4;0.5;0.1;1.0;1.4;2.4
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;November;Joe Harris;7;7;30.1;11.6;0.3;3.7;4.0;1.0;0.7;0.1;0.4;1.9;2.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;November;Bruce Brown;12;10;23.5;7.2;1.0;2.7;3.7;1.3;1.3;0.4;0.8;2.3;1.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;November;DeAndre' Bembry;14;5;23.2;6.4;1.0;2.6;3.6;1.4;0.9;0.4;0.6;2.4;2.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;November;Blake Griffin;11;11;22.6;5.8;1.5;3.5;5.0;2.7;0.5;0.7;0.5;2.6;6.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;November;James Johnson;8;0;19.8;5.8;1.4;3.4;4.8;1.9;0.4;0.4;0.8;2.9;2.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;November;Cam Thomas;9;0;12.2;5.4;0.2;1.0;1.2;1.0;0.4;0.3;0.2;0.6;4.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;November;Kessler Edwards;2;0;6.0;4.0;0.5;1.0;1.5;0.0;0.0;0.0;0.5;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;November;Jevon Carter;14;0;11.6;3.5;0.2;1.4;1.6;1.1;0.2;0.3;0.3;1.2;3.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;November;Day'Ron Sharpe;4;0;5.5;3.5;1.8;2.0;3.8;0.0;0.5;0.5;1.5;0.5;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;November;Paul Millsap;10;0;11.1;1.8;1.0;2.3;3.3;0.5;0.2;0.4;0.5;2.2;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;November;Total;14;"";"";112.1;8.5;35.0;43.5;26.9;6.9;5.1;12.9;18.6;2.1
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;December;Kevin Durant;8;8;40.1;33.1;0.6;8.0;8.6;6.4;0.4;1.4;3.9;2.9;1.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;December;James Harden;8;8;39.5;26.3;0.8;8.1;8.9;11.1;1.3;0.5;4.8;3.0;2.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;December;Patty Mills;12;12;35.3;17.5;0.3;2.3;2.7;2.7;0.8;0.3;1.7;1.3;1.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;December;LaMarcus Aldridge;6;6;27.5;15.0;1.5;4.0;5.5;1.0;0.7;1.2;1.2;2.7;0.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;December;Kessler Edwards;3;1;38.3;11.7;2.7;4.7;7.3;2.0;1.0;1.0;1.7;2.0;1.2
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;December;Cam Thomas;10;1;23.5;9.1;0.2;3.6;3.8;1.7;0.5;0.1;0.9;0.7;1.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;December;Nic Claxton;10;6;22.4;9.0;1.7;3.1;4.8;0.9;0.5;1.5;0.7;2.9;1.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;December;Blake Griffin;8;3;19.3;8.8;1.3;3.8;5.0;2.4;0.6;0.1;0.5;2.5;4.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;December;David Duke Jr.;5;3;27.2;8.6;3.6;3.6;7.2;1.4;1.2;0.8;0.6;2.8;2.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;December;Bruce Brown;9;2;21.6;6.6;1.9;3.4;5.3;1.6;1.0;0.2;0.7;3.8;2.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;December;James Johnson;8;2;23.0;6.4;0.9;4.1;5.0;2.6;0.6;0.6;0.8;2.6;3.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;December;DeAndre' Bembry;9;8;20.3;6.2;0.4;2.8;3.2;1.6;0.7;0.9;1.0;2.4;1.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;December;Day'Ron Sharpe;2;0;13.5;5.0;3.0;3.0;6.0;0.0;0.0;0.5;1.0;1.5;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;December;Paul Millsap;7;0;10.3;4.1;1.7;1.9;3.6;1.6;0.1;0.4;0.3;1.9;5.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;December;Langston Galloway;4;0;14.5;3.0;0.3;1.8;2.0;1.3;0.0;0.0;1.3;1.3;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;December;James Ennis III;2;0;7.0;2.5;1.0;1.5;2.5;0.0;0.5;0.5;0.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;December;Shaquille Harrison;2;0;11.5;2.0;0.5;1.5;2.0;1.5;0.5;0.5;1.0;1.5;1.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;December;Jevon Carter;8;0;7.3;1.0;0.3;1.3;1.5;0.8;0.3;0.1;0.8;0.3;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;December;Wenyen Gabriel;1;0;1.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;December;Total;12;"";"";111.5;10.9;36.8;47.8;25.8;6.3;6.0;13.5;21.5;1.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;January;Kevin Durant;8;8;34.5;27.1;0.8;5.3;6.0;5.6;1.4;1.3;2.0;2.3;2.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;January;Kyrie Irving;8;8;35.1;24.5;0.6;4.6;5.3;5.4;1.3;0.3;2.5;2.4;2.2
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;January;James Harden;13;13;37.9;24.2;1.0;6.8;7.8;10.8;1.1;0.8;4.5;2.1;2.4
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;January;Patty Mills;15;12;32.3;13.5;0.1;2.3;2.3;2.7;0.8;0.5;0.7;1.5;4.1
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;January;LaMarcus Aldridge;10;2;20.8;12.3;1.6;3.6;5.2;0.8;0.3;0.8;1.2;1.6;0.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;January;Cam Thomas;14;0;21.4;10.5;0.1;2.8;2.9;0.9;0.7;0.0;1.3;1.2;0.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;January;Nic Claxton;8;6;22.1;10.4;3.3;3.4;6.6;0.9;0.8;0.5;0.9;2.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;January;Day'Ron Sharpe;12;8;17.3;9.3;3.3;3.5;6.8;0.6;0.3;0.8;1.3;3.3;0.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;January;Paul Millsap;1;0;19.0;8.0;4.0;6.0;10.0;1.0;0.0;3.0;1.0;1.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;January;Kessler Edwards;13;10;27.7;7.6;1.0;3.3;4.3;0.7;0.9;0.9;1.2;2.6;0.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;January;DeAndre' Bembry;14;6;18.9;5.4;1.0;2.0;3.0;1.2;1.1;0.3;0.4;1.6;2.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;January;James Johnson;13;1;17.2;5.3;1.2;1.6;2.8;1.8;0.5;0.2;0.6;1.7;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;January;Blake Griffin;13;0;12.6;5.2;0.9;2.4;3.3;1.9;0.3;0.1;0.2;1.0;8.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;January;Bruce Brown;13;2;17.1;4.5;1.3;3.2;4.5;1.0;0.5;0.8;0.7;2.5;1.4
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;January;Jevon Carter;8;0;9.9;4.5;0.1;0.4;0.5;0.5;0.5;0.0;0.5;1.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;January;David Duke Jr.;9;4;12.0;4.0;1.0;1.3;2.3;0.7;0.1;0.2;0.6;1.6;1.2
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;January;Total;16;"";"";115.1;12.2;33.1;45.3;25.2;7.6;5.3;13.0;20.1;1.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;February;Kyrie Irving;7;7;37.9;25.7;0.4;3.9;4.3;5.3;1.0;1.0;2.3;2.6;2.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;February;Seth Curry;6;6;30.5;17.8;0.2;3.7;3.8;3.7;0.5;0.2;1.8;2.2;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;February;Cam Thomas;13;1;26.8;16.5;0.4;2.7;3.1;2.2;0.7;0.2;1.2;1.8;1.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;February;LaMarcus Aldridge;6;0;20.8;14.7;2.0;3.3;5.3;0.8;0.0;1.0;1.5;1.3;0.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;February;James Harden;2;2;37.0;13.0;0.5;5.5;6.0;11.0;0.5;0.5;5.0;2.0;2.2
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;February;Andre Drummond;6;6;21.7;9.8;3.3;6.8;10.2;2.5;1.2;0.8;2.0;2.7;1.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;February;Bruce Brown;13;8;24.0;9.2;1.5;3.0;4.5;2.2;1.1;0.5;0.7;1.5;3.1
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;February;Patty Mills;13;12;28.7;8.6;0.3;1.6;1.9;2.5;0.9;0.1;0.9;1.6;2.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;February;James Johnson;12;6;24.1;8.4;0.8;3.0;3.8;2.8;0.5;0.7;1.2;4.0;2.4
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;February;Blake Griffin;12;4;16.8;8.2;1.1;2.6;3.7;1.5;0.7;0.1;0.8;1.2;1.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;February;Nic Claxton;5;3;15.2;7.8;2.0;2.4;4.4;0.6;0.4;1.2;0.2;1.2;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;February;Jevon Carter;9;0;14.4;6.4;0.2;1.7;1.9;1.3;0.0;0.2;1.0;0.7;1.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;February;DeAndre' Bembry;5;1;21.0;6.2;1.0;2.4;3.4;1.2;1.0;0.8;0.4;2.8;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;February;Goran Dragic;2;0;15.5;6.0;1.0;1.0;2.0;3.5;0.0;0.0;1.0;2.0;3.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;February;Day'Ron Sharpe;10;0;12.2;5.6;2.7;2.2;4.9;1.0;0.4;0.3;0.7;1.3;1.4
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;February;Kessler Edwards;13;9;19.9;4.5;0.8;3.0;3.8;0.5;0.6;0.2;1.0;1.7;0.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;February;David Duke Jr.;7;0;13.6;3.6;0.4;1.0;1.4;0.6;1.0;0.1;0.1;1.1;4.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;February;Total;13;"";"";106.5;11.3;30.2;41.5;22.3;7.2;4.5;11.8;19.8;1.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;March;Kevin Durant;14;14;37.9;30.6;0.4;6.6;7.1;7.3;1.1;0.9;4.4;2.5;1.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;March;Kyrie Irving;9;9;37.7;30.0;0.6;2.7;3.2;6.1;1.7;0.8;2.6;3.1;2.4
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;March;Bruce Brown;15;15;31.8;14.7;1.5;4.0;5.5;3.7;1.3;0.9;0.9;2.6;4.2
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;March;Seth Curry;11;11;29.6;13.6;0.2;1.7;1.9;1.9;1.2;0.2;1.2;2.6;1.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;March;Andre Drummond;13;13;23.5;12.8;3.8;6.0;9.8;1.2;0.8;0.9;1.4;3.0;0.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;March;LaMarcus Aldridge;3;1;25.7;11.7;1.7;4.3;6.0;1.7;0.3;0.3;0.3;1.0;5.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;March;Nic Claxton;15;1;20.5;8.9;1.7;4.0;5.7;1.0;0.7;1.3;1.1;2.4;0.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;March;Goran Dragic;14;6;26.9;7.5;0.6;2.7;3.4;5.0;1.0;0.2;2.2;2.4;2.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;March;Patty Mills;15;3;22.9;7.1;0.2;1.2;1.4;1.2;0.3;0.1;0.5;1.1;2.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;March;Blake Griffin;5;0;12.6;6.2;0.8;2.2;3.0;1.8;0.2;0.2;1.0;1.4;1.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;March;James Johnson;15;1;16.6;4.3;0.3;2.3;2.7;2.1;0.5;0.9;0.6;2.6;3.4
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;March;Cam Thomas;11;0;10.2;3.9;0.5;1.2;1.6;0.6;0.4;0.1;0.5;0.6;1.2
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;March;Kessler Edwards;12;1;9.8;3.8;0.5;1.2;1.7;0.4;0.4;0.2;0.4;0.9;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;March;Total;15;"";"";119.9;9.9;31.7;41.6;27.2;8.0;5.9;13.9;21.5;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;April;Kevin Durant;5;5;40.6;32.2;0.6;7.6;8.2;8.4;0.8;1.2;4.4;2.0;1.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;April;Kyrie Irving;5;5;41.4;30.0;0.6;4.6;5.2;6.4;1.8;0.2;2.8;3.2;2.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;April;Bruce Brown;4;4;35.8;14.8;1.5;5.3;6.8;4.8;1.0;2.5;1.8;3.5;2.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;April;Seth Curry;2;2;29.5;13.5;0.5;2.0;2.5;3.0;0.5;0.0;0.5;2.5;6.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;April;Andre Drummond;5;5;19.8;11.4;4.6;7.0;11.6;0.8;1.0;1.2;1.2;3.2;0.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;April;Nic Claxton;5;0;22.6;7.8;2.0;4.8;6.8;1.2;0.2;0.6;0.8;3.6;1.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;April;Kessler Edwards;5;2;24.8;7.6;1.2;3.2;4.4;0.8;0.2;1.0;0.6;2.4;1.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;April;Patty Mills;5;2;26.8;7.4;0.0;1.2;1.2;1.6;0.4;0.0;1.4;1.4;1.1
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;April;Cam Thomas;5;0;11.2;4.8;0.0;2.4;2.4;0.4;0.2;0.0;0.8;1.2;0.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;April;James Johnson;1;0;31.0;3.0;2.0;7.0;9.0;3.0;0.0;0.0;2.0;4.0;1.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;April;LaMarcus Aldridge;2;0;11.5;0.0;1.0;2.0;3.0;0.5;0.0;0.5;1.0;2.0;0.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;April;Blake Griffin;1;0;6.0;0.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;2.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;April;David Duke Jr.;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;April;Total;5;"";"";119.0;11.2;38.4;49.6;25.4;5.6;6.4;14.4;22.8;1.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Atlantic Division;Kevin Durant;11;11;39.4;32.4;1.2;7.6;8.8;8.5;0.8;0.9;4.1;2.4;2.1
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Atlantic Division;James Harden;5;5;38.6;27.0;2.4;7.2;9.6;9.0;1.8;0.0;4.2;2.4;2.1
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Atlantic Division;Kyrie Irving;3;3;36.7;21.7;1.3;4.0;5.3;6.0;2.3;0.7;2.3;3.0;2.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Atlantic Division;Seth Curry;7;7;30.6;16.9;0.0;2.9;2.9;3.0;1.3;0.1;1.0;2.4;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Atlantic Division;Joe Harris;2;2;32.5;12.5;1.0;3.5;4.5;1.5;0.5;0.0;2.0;2.0;0.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Atlantic Division;LaMarcus Aldridge;11;4;22.4;12.2;1.6;4.4;6.0;1.4;0.1;1.2;0.5;1.3;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Atlantic Division;Patty Mills;16;11;28.6;10.3;0.4;1.4;1.8;2.0;0.4;0.1;1.2;0.9;1.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Atlantic Division;Bruce Brown;12;10;28.7;9.7;1.6;3.5;5.1;2.3;1.0;0.5;1.1;2.6;2.2
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Atlantic Division;Nic Claxton;11;4;20.8;8.7;1.7;3.4;5.1;0.8;0.7;1.4;0.7;2.3;1.1
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Atlantic Division;Andre Drummond;7;7;19.9;8.6;3.1;6.0;9.1;1.1;0.4;1.0;1.3;1.6;0.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Atlantic Division;Cam Thomas;14;0;18.1;8.6;0.4;1.7;2.1;1.6;0.3;0.1;1.1;1.1;1.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Atlantic Division;James Johnson;12;4;21.6;8.3;0.4;2.8;3.3;2.6;0.4;0.9;1.3;2.8;1.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Atlantic Division;Blake Griffin;11;5;16.7;7.3;1.1;2.8;3.9;1.5;0.4;0.1;0.5;1.9;2.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Atlantic Division;David Duke Jr.;5;2;25.2;7.2;1.8;2.6;4.4;1.8;1.8;0.4;0.6;2.4;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Atlantic Division;Goran Dragic;5;1;22.8;6.6;0.8;2.0;2.8;4.2;0.6;0.2;1.6;2.6;2.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Atlantic Division;Jevon Carter;6;0;13.5;5.3;0.2;1.8;2.0;1.5;0.0;0.5;0.7;1.5;2.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Atlantic Division;Day'Ron Sharpe;6;0;11.8;5.3;2.8;2.3;5.2;0.7;0.0;0.3;0.7;0.8;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Atlantic Division;DeAndre' Bembry;5;3;22.6;5.2;0.8;3.6;4.4;1.8;1.2;0.6;0.8;3.0;2.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Atlantic Division;Kessler Edwards;10;1;17.0;5.1;1.2;2.3;3.5;0.7;0.4;0.1;1.0;1.0;0.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Atlantic Division;Paul Millsap;4;0;13.5;3.0;1.3;3.0;4.3;0.5;0.3;0.3;0.5;2.5;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Atlantic Division;Langston Galloway;1;0;9.0;3.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Atlantic Division;Total;16;"";"";112.1;11.9;33.9;45.8;25.3;6.4;5.1;0.0;19.3;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Central Division;Kevin Durant;16;16;37.3;30.7;0.3;7.4;7.7;6.9;0.6;1.1;3.1;2.4;2.2
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Central Division;Kyrie Irving;8;8;37.1;24.8;0.1;4.4;4.5;5.4;1.5;0.1;2.6;2.6;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Central Division;James Harden;12;12;35.8;19.2;0.8;7.2;7.9;9.8;1.3;0.8;4.1;1.9;2.4
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Central Division;LaMarcus Aldridge;13;2;22.8;14.8;1.6;3.6;5.2;0.5;0.3;0.8;1.0;1.9;0.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Central Division;Seth Curry;4;4;30.8;14.5;0.5;2.0;2.5;2.8;0.8;0.3;1.3;2.8;2.2
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Central Division;Andre Drummond;5;5;26.0;14.0;3.8;8.2;12.0;2.4;1.2;1.0;0.8;3.6;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Central Division;Nic Claxton;8;3;22.3;10.0;1.8;3.6;5.4;1.3;1.0;0.8;1.0;3.4;1.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Central Division;Patty Mills;18;6;26.3;9.7;0.1;1.3;1.4;2.1;0.7;0.2;0.6;1.1;3.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Central Division;Joe Harris;5;5;31.0;9.2;0.2;3.4;3.6;1.6;0.2;0.0;1.4;1.6;1.1
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Central Division;Bruce Brown;16;10;23.8;8.9;1.1;3.8;4.9;1.9;0.8;0.9;0.9;2.3;2.1
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Central Division;Day'Ron Sharpe;5;2;12.4;8.6;2.0;1.8;3.8;0.4;0.6;0.4;1.6;2.6;0.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Central Division;Goran Dragic;3;0;20.7;6.7;1.3;2.3;3.7;2.3;1.0;0.0;2.0;1.3;1.2
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Central Division;Cam Thomas;12;0;14.1;5.9;0.1;1.7;1.8;1.0;0.6;0.1;0.5;0.6;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Central Division;Kessler Edwards;8;3;19.9;5.8;0.8;1.8;2.5;1.0;0.6;0.6;0.6;1.9;1.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Central Division;DeAndre' Bembry;12;3;16.8;4.9;0.6;2.5;3.1;0.8;1.1;0.5;0.4;1.9;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Central Division;Blake Griffin;11;7;17.3;4.6;0.8;3.1;3.9;1.9;0.6;0.3;0.6;1.5;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Central Division;Paul Millsap;6;0;10.5;3.8;1.7;2.3;4.0;0.3;0.2;0.5;0.5;1.7;0.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Central Division;James Johnson;11;2;18.4;3.5;0.8;2.4;3.2;2.2;0.6;0.6;0.6;2.1;3.4
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Central Division;Jevon Carter;11;0;10.8;2.6;0.0;1.2;1.2;0.7;0.5;0.3;0.5;1.3;1.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Central Division;David Duke Jr.;5;2;11.2;2.4;0.4;1.6;2.0;0.4;0.4;0.0;0.4;1.4;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Central Division;Total;18;"";"";115.3;8.3;35.5;43.8;26.8;7.7;5.4;0.0;19.9;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pacific Division;Kevin Durant;3;3;38.7;28.7;0.3;7.3;7.7;4.3;1.3;0.7;3.7;0.7;1.2
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pacific Division;James Harden;8;8;38.0;25.5;1.3;7.6;8.9;11.1;1.0;0.9;4.9;2.9;2.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pacific Division;Kyrie Irving;3;3;37.7;24.0;0.7;4.3;5.0;3.7;1.7;0.7;3.7;2.3;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pacific Division;Seth Curry;1;1;32.0;23.0;0.0;7.0;7.0;5.0;0.0;0.0;4.0;3.0;1.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pacific Division;Patty Mills;10;10;33.7;15.6;0.1;1.9;2.0;3.0;1.1;0.3;1.1;2.4;2.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pacific Division;Nic Claxton;7;5;24.0;12.0;3.0;4.0;7.0;1.0;0.3;1.9;0.7;1.7;1.4
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pacific Division;LaMarcus Aldridge;6;2;18.7;11.2;1.7;4.2;5.8;0.3;0.5;0.5;1.8;0.7;0.2
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pacific Division;Andre Drummond;1;1;24.0;11.0;3.0;6.0;9.0;4.0;2.0;1.0;2.0;5.0;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pacific Division;DeAndre' Bembry;9;5;25.3;9.3;1.4;3.0;4.4;1.7;1.0;0.6;0.6;2.6;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pacific Division;Bruce Brown;10;5;21.5;6.9;0.7;3.6;4.3;1.9;1.4;0.6;0.5;2.4;3.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pacific Division;James Johnson;10;0;22.1;6.7;1.3;2.4;3.7;2.1;0.4;0.6;0.8;2.9;2.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pacific Division;Kessler Edwards;6;5;24.3;6.7;0.7;4.2;4.8;0.3;0.3;0.5;1.7;1.7;0.2
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pacific Division;Blake Griffin;8;1;15.1;6.3;1.6;2.1;3.8;1.1;0.5;0.1;0.1;1.5;9.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pacific Division;Cam Thomas;7;0;16.3;4.7;0.1;2.1;2.3;1.4;0.4;0.1;0.3;0.9;5.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pacific Division;David Duke Jr.;1;0;2.0;3.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pacific Division;Day'Ron Sharpe;4;1;6.0;3.0;1.3;2.8;4.0;0.0;0.0;0.3;1.0;0.5;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pacific Division;Jevon Carter;7;0;10.0;2.7;0.3;1.0;1.3;0.7;0.4;0.1;0.6;0.6;1.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pacific Division;Langston Galloway;2;0;13.5;2.5;0.0;1.5;1.5;1.0;0.0;0.0;1.5;2.5;0.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pacific Division;James Ennis III;1;0;1.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pacific Division;Paul Millsap;3;0;8.0;1.3;0.3;0.7;1.0;1.0;0.0;0.3;0.0;1.7;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pacific Division;Shaquille Harrison;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pacific Division;Wenyen Gabriel;1;0;1.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pacific Division;Total;10;"";"";109.1;10.7;35.1;45.8;24.7;7.4;5.6;0.0;20.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southeast Division;Kyrie Irving;8;8;38.1;32.3;0.5;3.3;3.8;6.4;1.4;0.8;2.1;3.1;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southeast Division;Kevin Durant;12;12;35.9;29.2;0.1;5.8;5.9;4.6;1.1;0.7;3.6;1.8;1.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southeast Division;James Harden;8;8;35.6;18.8;0.6;6.6;7.3;9.3;1.1;0.8;5.4;2.5;1.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southeast Division;LaMarcus Aldridge;9;1;22.7;13.8;1.6;3.4;5.0;1.0;0.6;1.7;0.6;1.2;1.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southeast Division;Andre Drummond;7;7;21.1;12.1;4.0;6.3;10.3;0.9;1.3;1.0;1.9;3.3;0.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southeast Division;Joe Harris;5;5;30.4;12.0;0.4;4.4;4.8;0.4;0.6;0.4;1.0;3.0;0.4
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southeast Division;Patty Mills;18;8;28.1;11.8;0.3;2.1;2.4;2.4;0.6;0.2;0.9;1.8;2.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southeast Division;Seth Curry;5;5;29.8;11.6;0.4;1.4;1.8;2.0;0.6;0.2;1.2;2.2;1.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southeast Division;Bruce Brown;16;12;26.1;10.2;1.3;2.9;4.2;2.2;1.5;0.6;0.6;2.3;3.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southeast Division;Cam Thomas;15;2;16.9;7.6;0.3;2.5;2.8;1.1;0.4;0.2;0.7;1.3;1.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southeast Division;Blake Griffin;12;8;19.2;6.3;1.3;3.8;5.1;2.0;0.6;0.4;0.8;1.9;2.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southeast Division;Nic Claxton;9;1;17.6;6.2;1.3;4.0;5.3;0.8;0.2;1.1;0.9;2.2;0.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southeast Division;DeAndre' Bembry;7;2;16.9;5.6;0.3;1.3;1.6;1.1;0.6;0.7;0.9;2.1;1.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southeast Division;Kessler Edwards;10;6;20.6;5.5;0.7;2.5;3.2;0.6;0.7;0.7;0.6;2.2;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southeast Division;James Johnson;12;0;17.6;5.4;0.8;3.2;3.9;2.2;0.7;0.4;0.6;2.7;3.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southeast Division;Goran Dragic;5;2;25.2;5.4;0.2;3.4;3.6;5.6;1.0;0.4;1.8;2.2;3.1
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southeast Division;David Duke Jr.;4;1;18.5;5.0;2.5;2.0;4.5;0.3;0.8;0.8;0.3;1.5;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southeast Division;Day'Ron Sharpe;8;1;9.4;4.9;2.0;2.1;4.1;0.6;0.6;0.3;0.4;1.4;1.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southeast Division;Jevon Carter;10;1;14.2;4.1;0.5;1.7;2.2;1.4;0.3;0.2;0.5;1.2;2.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southeast Division;Langston Galloway;1;0;23.0;4.0;1.0;3.0;4.0;3.0;0.0;0.0;1.0;0.0;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southeast Division;Shaquille Harrison;1;0;21.0;4.0;1.0;3.0;4.0;3.0;1.0;1.0;2.0;3.0;1.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southeast Division;Paul Millsap;6;0;11.8;3.2;0.7;3.0;3.7;1.5;0.3;0.3;0.5;2.3;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southeast Division;James Ennis III;1;0;12.0;3.0;2.0;2.0;4.0;0.0;1.0;1.0;0.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southeast Division;Total;18;"";"";112.3;9.6;34.1;43.6;24.2;7.8;5.9;0.0;21.3;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southwest Division;Kyrie Irving;3;3;40.0;36.3;0.3;2.3;2.7;6.0;1.0;0.7;2.3;3.3;2.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southwest Division;James Harden;7;7;39.0;28.0;0.6;7.1;7.7;11.1;0.9;0.9;5.6;2.6;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southwest Division;Kevin Durant;8;8;35.1;24.3;0.9;5.4;6.3;6.3;1.0;1.5;2.9;1.6;2.2
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southwest Division;Joe Harris;1;1;37.0;24.0;0.0;2.0;2.0;0.0;2.0;0.0;0.0;4.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southwest Division;Goran Dragic;1;1;36.0;21.0;0.0;3.0;3.0;4.0;0.0;0.0;2.0;3.0;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southwest Division;Andre Drummond;3;3;23.3;13.0;5.0;6.0;11.0;1.0;0.7;1.0;2.0;4.3;0.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southwest Division;Nic Claxton;7;3;24.1;10.0;2.4;4.6;7.0;0.7;0.4;0.4;0.6;2.0;1.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southwest Division;LaMarcus Aldridge;4;1;21.3;9.5;1.5;3.8;5.3;1.3;0.3;0.5;0.8;2.3;1.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southwest Division;Cam Thomas;9;0;19.3;9.1;0.2;2.9;3.1;0.4;0.4;0.0;0.9;0.6;0.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southwest Division;Bruce Brown;9;4;25.2;8.8;2.1;3.2;5.3;2.0;0.9;1.4;0.8;2.9;2.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southwest Division;Patty Mills;10;8;30.7;8.0;0.1;2.2;2.3;1.9;0.4;0.3;0.9;0.8;2.1
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southwest Division;Kessler Edwards;6;3;24.3;7.8;1.3;3.3;4.7;1.0;1.0;0.8;1.2;1.8;0.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southwest Division;Day'Ron Sharpe;4;2;15.5;7.8;3.5;4.0;7.5;0.0;0.3;0.3;0.5;3.8;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southwest Division;Blake Griffin;6;1;15.5;7.5;0.8;2.8;3.7;2.2;0.3;0.3;0.3;2.2;6.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southwest Division;Paul Millsap;3;0;9.7;4.0;1.3;1.7;3.0;1.7;0.3;0.0;0.7;2.0;2.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southwest Division;DeAndre' Bembry;7;3;16.4;3.0;0.7;1.3;2.0;0.9;1.0;0.4;0.4;1.6;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southwest Division;David Duke Jr.;5;1;10.2;3.0;0.8;1.0;1.8;0.4;0.0;0.2;0.2;1.4;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southwest Division;James Johnson;7;1;16.6;2.9;0.0;2.3;2.3;1.6;0.1;0.6;0.6;2.7;2.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southwest Division;Jevon Carter;5;0;7.4;2.8;0.0;0.4;0.4;0.4;0.0;0.0;0.6;0.0;0.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Southwest Division;Total;10;"";"";113.7;11.2;33.7;44.9;24.9;5.9;6.0;0.0;20.5;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Northwest Division;Kevin Durant;5;5;37.8;33.2;0.4;8.2;8.6;5.8;0.8;0.4;3.8;2.4;1.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Northwest Division;Kyrie Irving;4;4;36.8;23.5;1.0;4.5;5.5;6.5;0.8;1.0;2.5;2.3;2.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Northwest Division;James Harden;4;4;35.8;18.8;0.5;5.8;6.3;11.0;2.3;0.8;5.3;2.3;2.1
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Northwest Division;Andre Drummond;1;1;23.0;17.0;6.0;3.0;9.0;1.0;0.0;0.0;2.0;1.0;0.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Northwest Division;Patty Mills;9;5;29.4;15.0;0.2;1.6;1.8;2.2;0.7;0.2;0.8;1.6;2.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Northwest Division;Cam Thomas;10;0;21.1;15.0;0.2;2.2;2.4;1.3;0.9;0.2;1.3;1.3;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Northwest Division;Seth Curry;2;2;25.0;13.5;0.0;1.5;1.5;1.0;1.0;0.0;1.5;2.5;0.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Northwest Division;LaMarcus Aldridge;4;2;26.8;13.0;1.0;4.8;5.8;1.3;0.0;1.0;1.8;3.8;0.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Northwest Division;David Duke Jr.;2;1;16.5;9.0;2.5;1.0;3.5;1.5;0.0;0.5;1.0;2.0;1.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Northwest Division;Bruce Brown;9;4;21.1;8.6;1.8;3.6;5.3;1.9;0.8;0.4;0.7;2.4;2.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Northwest Division;Day'Ron Sharpe;5;2;19.2;8.2;3.8;2.4;6.2;1.2;0.2;1.4;1.8;2.8;0.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Northwest Division;Goran Dragic;2;2;34.5;8.0;1.0;1.5;2.5;8.5;1.5;0.0;4.0;3.0;2.1
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Northwest Division;Blake Griffin;8;2;17.5;7.3;0.8;2.9;3.6;2.8;0.4;0.3;0.8;1.1;3.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Northwest Division;DeAndre' Bembry;8;4;21.8;6.1;0.9;2.6;3.5;1.5;1.0;0.4;0.9;2.1;1.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Northwest Division;Paul Millsap;2;0;15.0;6.0;2.5;4.5;7.0;1.5;0.0;2.0;0.5;1.5;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Northwest Division;Kessler Edwards;8;5;20.0;5.6;0.9;2.6;3.5;0.3;0.6;0.4;0.5;2.1;0.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Northwest Division;James Johnson;10;3;18.3;4.9;1.5;2.6;4.1;1.7;0.5;0.1;0.6;2.5;2.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Northwest Division;Nic Claxton;5;3;14.6;4.8;1.6;2.2;3.8;1.0;0.2;0.8;1.0;2.4;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Northwest Division;Jevon Carter;7;0;14.7;4.3;0.1;1.1;1.3;1.1;0.3;0.1;0.6;0.9;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Northwest Division;Joe Harris;1;1;14.0;3.0;0.0;3.0;3.0;1.0;0.0;0.0;0.0;0.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Northwest Division;Total;10;"";"";113.8;11.3;31.4;42.7;25.3;6.8;4.7;0.0;21.3;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Eastern Conference;Kevin Durant;39;39;37.5;30.7;0.5;7.0;7.5;6.6;0.8;0.9;3.5;2.2;1.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Eastern Conference;Kyrie Irving;19;19;37.5;27.4;0.5;3.8;4.3;5.9;1.6;0.5;2.4;2.9;2.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Eastern Conference;James Harden;25;25;36.3;20.6;1.0;7.0;8.0;9.4;1.3;0.6;4.5;2.2;2.1
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Eastern Conference;Seth Curry;16;16;30.4;14.6;0.3;2.2;2.4;2.6;0.9;0.2;1.1;2.4;2.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Eastern Conference;LaMarcus Aldridge;33;7;22.6;13.6;1.6;3.8;5.4;0.9;0.3;1.2;0.7;1.5;1.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Eastern Conference;Andre Drummond;19;19;21.9;11.3;3.6;6.7;10.3;1.4;0.9;1.0;1.4;2.7;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Eastern Conference;Joe Harris;12;12;31.0;10.9;0.4;3.8;4.3;1.1;0.4;0.2;1.3;2.3;0.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Eastern Conference;Patty Mills;52;25;27.6;10.6;0.3;1.6;1.9;2.2;0.6;0.2;0.9;1.3;2.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Eastern Conference;Bruce Brown;44;32;26.0;9.6;1.3;3.4;4.7;2.1;1.1;0.7;0.9;2.4;2.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Eastern Conference;Nic Claxton;28;8;20.2;8.3;1.6;3.6;5.3;0.9;0.6;1.1;0.9;2.6;1.1
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Eastern Conference;Cam Thomas;41;2;16.5;7.4;0.3;2.0;2.3;1.2;0.4;0.1;0.8;1.0;1.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Eastern Conference;Goran Dragic;13;3;23.3;6.2;0.7;2.6;3.3;4.3;0.8;0.2;1.8;2.2;2.4
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Eastern Conference;Blake Griffin;34;20;17.8;6.1;1.1;3.3;4.3;1.8;0.5;0.3;0.6;1.8;2.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Eastern Conference;Day'Ron Sharpe;19;3;11.0;6.0;2.3;2.1;4.4;0.6;0.4;0.3;0.8;1.5;0.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Eastern Conference;James Johnson;35;6;19.2;5.8;0.7;2.8;3.5;2.3;0.6;0.7;0.9;2.5;2.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Eastern Conference;Kessler Edwards;28;10;19.1;5.4;0.9;2.2;3.1;0.8;0.6;0.5;0.8;1.7;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Eastern Conference;DeAndre' Bembry;24;8;18.0;5.2;0.5;2.4;2.9;1.1;1.0;0.6;0.6;2.2;1.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Eastern Conference;David Duke Jr.;14;5;18.2;4.9;1.5;2.1;3.6;0.9;1.0;0.4;0.4;1.8;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Eastern Conference;Shaquille Harrison;1;0;21.0;4.0;1.0;3.0;4.0;3.0;1.0;1.0;2.0;3.0;1.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Eastern Conference;Jevon Carter;27;1;12.7;3.8;0.2;1.5;1.7;1.1;0.3;0.3;0.6;1.3;2.1
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Eastern Conference;Langston Galloway;2;0;16.0;3.5;0.5;2.0;2.5;1.5;0.0;0.0;1.0;0.0;1.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Eastern Conference;Paul Millsap;16;0;11.8;3.4;1.2;2.8;3.9;0.8;0.3;0.4;0.5;2.1;1.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Eastern Conference;James Ennis III;1;0;12.0;3.0;2.0;2.0;4.0;0.0;1.0;1.0;0.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Eastern Conference;Total;52;"";"";113.3;9.8;34.5;44.3;25.4;7.3;5.5;0.0;20.2;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Western Conference;Kevin Durant;16;16;36.6;27.9;0.6;6.6;7.3;5.8;1.0;1.0;3.3;1.7;1.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Western Conference;Kyrie Irving;10;10;37.9;27.5;0.7;3.8;4.5;5.5;1.1;0.8;2.8;2.6;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Western Conference;James Harden;19;19;37.9;25.0;0.8;7.1;7.9;11.1;1.2;0.8;5.2;2.6;2.1
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Western Conference;Seth Curry;3;3;27.3;16.7;0.0;3.3;3.3;2.3;0.7;0.0;2.3;2.7;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Western Conference;Joe Harris;2;2;25.5;13.5;0.0;2.5;2.5;0.5;1.0;0.0;0.0;2.0;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Western Conference;Andre Drummond;5;5;23.4;13.4;4.8;5.4;10.2;1.6;0.8;0.8;2.0;3.8;0.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Western Conference;Patty Mills;29;23;31.3;12.8;0.1;1.9;2.0;2.4;0.7;0.3;0.9;1.6;2.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Western Conference;Goran Dragic;3;3;34.7;12.3;0.7;2.0;2.7;7.0;1.0;0.0;3.3;3.0;2.1
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Western Conference;LaMarcus Aldridge;14;5;21.6;11.2;1.4;4.2;5.6;0.9;0.3;0.6;1.5;2.0;0.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Western Conference;Cam Thomas;26;0;19.2;10.2;0.2;2.4;2.6;1.0;0.6;0.1;0.9;0.9;1.2
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Western Conference;Nic Claxton;19;11;21.6;9.4;2.4;3.7;6.2;0.9;0.3;1.1;0.7;2.0;1.2
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Western Conference;Bruce Brown;28;13;22.6;8.0;1.5;3.5;5.0;1.9;1.0;0.8;0.6;2.6;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Western Conference;Blake Griffin;22;4;16.1;7.0;1.1;2.6;3.7;2.0;0.4;0.2;0.4;1.5;4.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Western Conference;Kessler Edwards;20;13;22.6;6.6;1.0;3.3;4.3;0.5;0.7;0.6;1.1;1.9;0.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Western Conference;Day'Ron Sharpe;13;5;14.0;6.5;2.9;3.0;5.9;0.5;0.2;0.7;1.2;2.4;0.4
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Western Conference;DeAndre' Bembry;24;12;21.5;6.4;1.0;2.4;3.4;1.4;1.0;0.5;0.6;2.1;2.2
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Western Conference;James Johnson;27;4;19.3;5.0;1.0;2.4;3.5;1.8;0.4;0.4;0.7;2.7;2.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Western Conference;David Duke Jr.;8;2;10.8;4.5;1.1;1.0;2.1;0.6;0.0;0.3;0.4;1.4;1.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Western Conference;Paul Millsap;8;0;10.3;3.5;1.3;2.0;3.3;1.4;0.1;0.6;0.4;1.8;3.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Western Conference;Jevon Carter;19;0;11.1;3.3;0.2;0.9;1.1;0.8;0.3;0.1;0.6;0.5;1.4
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Western Conference;Langston Galloway;2;0;13.5;2.5;0.0;1.5;1.5;1.0;0.0;0.0;1.5;2.5;0.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Western Conference;James Ennis III;1;0;1.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Western Conference;Shaquille Harrison;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Western Conference;Wenyen Gabriel;1;0;1.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Western Conference;Total;30;"";"";112.2;11.1;33.4;44.5;25.0;6.7;5.4;0.0;20.6;INF
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pre All-Star;Kevin Durant;36;36;36.5;29.3;0.6;6.9;7.4;5.8;0.8;0.9;3.0;1.9;1.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pre All-Star;Kyrie Irving;14;14;36.2;24.1;0.6;4.2;4.8;5.4;1.1;0.6;2.4;2.4;2.2
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pre All-Star;James Harden;44;44;37.0;22.5;1.0;7.0;8.0;10.2;1.3;0.7;4.8;2.4;2.1
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pre All-Star;Seth Curry;3;3;33.0;18.3;0.3;3.7;4.0;5.0;0.0;0.0;3.0;1.7;1.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pre All-Star;LaMarcus Aldridge;39;11;22.9;13.8;1.6;4.1;5.7;0.8;0.3;1.1;1.0;1.8;0.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pre All-Star;Patty Mills;58;41;31.1;13.4;0.3;1.9;2.2;2.6;0.8;0.3;1.0;1.5;2.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pre All-Star;Joe Harris;14;14;30.2;11.3;0.4;3.6;4.0;1.0;0.5;0.1;1.1;2.2;0.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pre All-Star;Cam Thomas;48;2;19.5;9.8;0.2;2.4;2.6;1.3;0.5;0.1;0.8;1.0;1.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pre All-Star;Andre Drummond;3;3;21.7;9.3;3.7;8.7;12.3;2.3;1.3;0.7;1.7;3.3;1.4
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pre All-Star;Nic Claxton;25;18;21.2;9.1;2.2;3.4;5.6;0.8;0.5;1.1;0.7;2.2;1.2
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pre All-Star;Blake Griffin;48;24;18.2;6.7;1.2;3.2;4.4;2.0;0.5;0.3;0.5;1.8;3.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pre All-Star;Bruce Brown;50;23;21.3;6.5;1.2;3.1;4.3;1.3;1.0;0.5;0.6;2.3;2.1
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pre All-Star;Kessler Edwards;28;20;24.6;6.4;1.0;3.2;4.3;0.6;0.8;0.6;1.0;2.0;0.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pre All-Star;Day'Ron Sharpe;30;8;12.4;6.1;2.6;2.5;5.1;0.5;0.3;0.5;1.0;2.0;0.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pre All-Star;James Johnson;43;6;19.3;5.9;1.0;2.6;3.6;2.0;0.5;0.3;0.8;2.5;2.6
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pre All-Star;DeAndre' Bembry;48;20;19.8;5.8;0.8;2.4;3.2;1.3;1.0;0.5;0.6;2.2;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pre All-Star;David Duke Jr.;19;7;16.4;5.1;1.6;1.8;3.4;0.8;0.6;0.4;0.4;1.7;1.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pre All-Star;Jevon Carter;46;1;12.0;3.6;0.2;1.3;1.5;1.0;0.3;0.2;0.6;1.0;1.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pre All-Star;Paul Millsap;24;0;11.3;3.4;1.2;2.5;3.7;1.0;0.2;0.5;0.5;2.0;2.2
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pre All-Star;Langston Galloway;4;0;14.5;3.0;0.3;1.8;2.0;1.3;0.0;0.0;1.3;1.3;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pre All-Star;James Ennis III;2;0;7.0;2.5;1.0;1.5;2.5;0.0;0.5;0.5;0.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pre All-Star;Shaquille Harrison;2;0;11.5;2.0;0.5;1.5;2.0;1.5;0.5;0.5;1.0;1.5;1.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pre All-Star;Wenyen Gabriel;1;0;1.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Pre All-Star;Total;59;"";"";110.8;10.3;34.6;44.8;24.8;7.0;5.3;13.0;19.9;1.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Post All-Star;Kevin Durant;19;19;38.6;31.1;0.5;6.9;7.4;7.6;1.1;0.9;4.4;2.4;1.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Post All-Star;Kyrie Irving;15;15;39.0;30.5;0.5;3.5;4.0;6.1;1.7;0.5;2.6;3.1;2.4
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Post All-Star;Bruce Brown;22;22;32.3;14.7;1.7;4.2;5.9;3.7;1.2;1.1;1.1;2.7;3.4
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Post All-Star;Seth Curry;16;16;29.3;14.3;0.2;2.1;2.3;2.1;1.1;0.2;1.0;2.6;2.1
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Post All-Star;Andre Drummond;21;21;22.3;12.1;3.9;6.1;10.0;1.3;0.9;1.0;1.5;2.9;0.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Post All-Star;LaMarcus Aldridge;8;1;19.5;8.8;1.3;3.0;4.3;1.1;0.1;0.6;0.8;1.0;1.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Post All-Star;Nic Claxton;22;1;20.2;8.3;1.6;4.0;5.6;1.0;0.5;1.0;0.9;2.5;1.1
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Post All-Star;Day'Ron Sharpe;2;0;9.0;8.0;1.5;2.5;4.0;1.0;0.0;0.0;0.5;0.0;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Post All-Star;Goran Dragic;16;6;25.5;7.3;0.7;2.5;3.2;4.8;0.9;0.2;2.1;2.3;2.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Post All-Star;Patty Mills;23;7;23.6;6.4;0.1;1.1;1.3;1.4;0.3;0.0;0.7;1.1;2.1
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Post All-Star;Cam Thomas;19;0;12.5;5.3;0.3;1.6;1.9;0.8;0.4;0.1;0.8;1.0;1.1
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Post All-Star;Kessler Edwards;20;3;14.9;5.2;0.8;1.9;2.7;0.7;0.4;0.4;0.7;1.5;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Post All-Star;Blake Griffin;8;0;10.6;4.6;0.5;1.9;2.4;1.1;0.1;0.1;0.8;1.4;1.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Post All-Star;James Johnson;19;4;19.1;4.5;0.5;2.7;3.3;2.4;0.4;1.0;0.8;2.9;3.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Post All-Star;David Duke Jr.;3;0;9.7;2.3;0.0;0.7;0.7;0.7;0.7;0.0;0.3;1.0;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;Post All-Star;Total;23;"";"";118.3;10.3;32.9;43.3;26.4;7.3;5.9;13.9;21.6;1.9
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;3+ Days Rest;Kyrie Irving;9;9;38.0;32.7;0.7;4.7;5.3;5.9;2.0;0.6;2.8;3.2;2.1
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;3+ Days Rest;Kevin Durant;4;4;35.8;30.8;0.0;6.8;6.8;5.3;0.0;1.8;2.5;2.8;2.1
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;3+ Days Rest;James Harden;3;3;35.7;26.0;2.0;5.7;7.7;9.3;1.0;1.7;4.0;3.0;2.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;3+ Days Rest;Seth Curry;5;5;30.6;20.8;0.0;3.8;3.8;2.0;1.0;0.0;1.2;2.6;1.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;3+ Days Rest;Patty Mills;3;2;31.0;18.7;0.0;1.7;1.7;4.0;0.7;0.3;0.3;1.7;12.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;3+ Days Rest;Andre Drummond;3;3;23.7;12.3;2.3;4.3;6.7;2.0;1.3;0.7;2.0;3.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;3+ Days Rest;LaMarcus Aldridge;7;1;19.3;9.6;1.4;3.4;4.9;0.7;0.1;1.0;1.7;2.0;0.4
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;3+ Days Rest;Joe Harris;1;1;31.0;9.0;0.0;2.0;2.0;2.0;0.0;0.0;2.0;1.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;3+ Days Rest;Bruce Brown;8;3;19.6;7.9;0.4;3.4;3.8;1.5;0.8;0.8;0.9;1.9;1.7
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;3+ Days Rest;Kessler Edwards;7;0;15.3;7.4;1.3;2.7;4.0;1.3;0.4;0.1;0.9;0.7;1.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;3+ Days Rest;Nic Claxton;8;3;17.3;6.5;1.5;3.6;5.1;0.6;0.1;0.6;0.5;1.4;1.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;3+ Days Rest;Goran Dragic;2;0;18.0;6.0;1.0;2.5;3.5;3.0;0.0;0.5;1.5;2.0;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;3+ Days Rest;Day'Ron Sharpe;11;0;6.6;4.7;1.5;1.7;3.2;0.2;0.1;0.2;0.7;1.1;0.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;3+ Days Rest;Cam Thomas;10;0;11.7;4.5;0.2;1.9;2.1;1.2;0.5;0.0;0.6;0.8;2.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;3+ Days Rest;James Johnson;7;1;20.3;4.4;0.3;2.3;2.6;2.4;0.4;0.6;0.7;2.6;3.4
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;3+ Days Rest;Blake Griffin;12;1;10.8;4.3;0.5;1.9;2.4;0.7;0.1;0.2;0.5;1.4;1.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;3+ Days Rest;DeAndre' Bembry;4;1;10.5;4.3;0.0;1.5;1.5;0.5;0.3;0.3;0.5;1.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;3+ Days Rest;David Duke Jr.;8;0;12.3;3.6;0.5;0.9;1.4;0.6;0.9;0.0;0.1;1.1;5.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;3+ Days Rest;Jevon Carter;7;0;8.7;3.1;0.1;0.7;0.9;0.4;0.4;0.0;0.6;0.3;0.8
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;3+ Days Rest;Langston Galloway;2;0;11.5;2.5;0.0;1.5;1.5;0.5;0.0;0.0;1.5;2.0;0.3
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;3+ Days Rest;James Ennis III;2;0;7.0;2.5;1.0;1.5;2.5;0.0;0.5;0.5;0.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;3+ Days Rest;Paul Millsap;5;0;10.6;2.4;1.2;3.2;4.4;0.4;0.2;1.0;0.4;1.0;1.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;3+ Days Rest;Shaquille Harrison;2;0;11.5;2.0;0.5;1.5;2.0;1.5;0.5;0.5;1.0;1.5;1.5
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;3+ Days Rest;Wenyen Gabriel;1;0;1.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Brooklyn Nets;bkn;2021 - 2022 Regular Season;3+ Days Rest;Total;3;"";"";110.7;6.3;34.7;41.0;25.0;5.7;7.3;10.7;19.3;2.3

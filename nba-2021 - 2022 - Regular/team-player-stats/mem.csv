@@ -1,0 +1,892 @@
+teamName;teamCode;season;split;player_name;GP;GS;MIN;PTS;ORB;DR;REB;AST;STL;BLK;TO;PF;AST_TO
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;All Splits;Ja Morant;57;57;33.1;27.4;1.4;4.4;5.7;6.7;1.2;0.4;3.4;1.5;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;All Splits;Dillon Brooks;32;31;27.7;18.4;0.9;2.3;3.2;2.8;1.1;0.3;1.6;3.3;1.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;All Splits;Desmond Bane;76;76;29.8;18.2;0.6;3.8;4.4;2.7;1.2;0.4;1.5;2.6;1.9
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;All Splits;Jaren Jackson Jr.;78;78;27.3;16.3;1.5;4.3;5.8;1.1;0.9;2.3;1.7;3.5;0.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;All Splits;De'Anthony Melton;73;15;22.7;10.8;0.9;3.6;4.5;2.7;1.4;0.5;1.5;1.8;1.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;All Splits;Brandon Clarke;64;1;19.5;10.4;2.1;3.2;5.3;1.3;0.6;1.1;0.5;1.9;2.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;All Splits;Tyus Jones;73;23;21.2;8.7;0.2;2.2;2.4;4.4;0.9;0.0;0.6;0.4;7.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;All Splits;Ziaire Williams;62;31;21.7;8.1;0.4;1.7;2.1;1.0;0.6;0.2;0.7;1.8;1.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;All Splits;Kyle Anderson;69;11;21.5;7.6;1.0;4.3;5.3;2.7;1.1;0.7;1.0;1.6;2.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;All Splits;Steven Adams;76;75;26.3;6.9;4.6;5.4;10.0;3.4;0.9;0.8;1.5;2.0;2.2
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;All Splits;John Konchar;72;7;17.9;4.8;1.2;3.4;4.6;1.5;0.6;0.3;0.4;1.3;3.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;All Splits;Xavier Tillman;53;2;13.2;4.8;1.2;1.8;3.0;1.2;0.9;0.3;0.6;1.2;1.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;All Splits;Sam Merrill;6;0;9.7;4.2;0.2;1.0;1.2;0.7;0.0;0.0;0.3;0.5;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;All Splits;Santi Aldama;32;0;11.3;4.1;1.0;1.7;2.7;0.7;0.2;0.3;0.5;1.1;1.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;All Splits;Jarrett Culver;37;0;9.1;3.5;0.4;0.9;1.3;0.9;0.5;0.1;0.5;1.1;1.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;All Splits;Killian Tillie;36;3;12.8;3.3;0.6;1.1;1.7;0.6;0.6;0.4;0.4;1.6;1.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;All Splits;Yves Pons;12;0;5.9;1.1;0.4;0.6;1.0;0.1;0.1;0.3;0.1;0.5;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;All Splits;Dakota Mathias;6;0;2.7;1.0;0.0;0.3;0.3;0.2;0.2;0.0;0.0;0.2;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;All Splits;Shaq Buchanan;2;0;5.0;1.0;0.5;0.5;1.0;1.0;0.5;0.0;1.0;0.5;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;All Splits;Tyrell Terry;2;0;1.5;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;All Splits;DaQuan Jeffries;3;0;3.0;0.7;0.0;0.7;0.7;0.3;0.0;0.0;0.0;0.3;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;All Splits;Xavier Sneed;2;0;4.0;0.0;0.5;0.5;1.0;0.0;0.0;0.0;0.0;1.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;All Splits;Jon Teske;3;0;2.7;0.0;0.0;0.7;0.7;0.3;0.3;0.0;0.0;0.3;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;All Splits;Total;82;"";"";115.6;14.1;35.0;49.2;26.0;9.8;6.5;12.5;19.8;2.1
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Home;Ja Morant;28;28;31.5;27.2;1.4;4.8;6.1;6.6;1.1;0.6;3.2;1.6;2.1
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Home;Dillon Brooks;18;17;26.8;20.5;0.8;2.2;3.0;2.8;1.1;0.2;1.2;3.3;2.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Home;Desmond Bane;38;38;28.7;16.4;0.5;3.3;3.8;2.8;1.0;0.4;1.3;2.4;2.1
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Home;Jaren Jackson Jr.;37;37;26.4;15.8;1.2;4.4;5.6;0.8;1.1;2.4;1.7;3.4;0.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Home;Brandon Clarke;30;1;19.6;11.7;2.1;3.4;5.5;1.5;0.6;1.0;0.5;1.5;3.1
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Home;De'Anthony Melton;38;10;22.6;11.5;0.8;3.2;4.0;2.9;1.3;0.6;1.6;1.8;1.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Home;Kyle Anderson;37;8;21.7;8.6;0.9;4.4;5.3;2.5;1.2;0.6;1.0;1.4;2.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Home;Tyus Jones;36;11;21.5;8.6;0.3;2.5;2.8;4.9;0.9;0.0;0.6;0.2;8.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Home;Ziaire Williams;29;15;21.5;7.7;0.4;1.8;2.2;1.2;0.5;0.2;0.6;1.5;1.9
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Home;John Konchar;37;2;18.2;5.9;1.2;3.7;4.8;1.7;0.7;0.2;0.4;1.3;3.9
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Home;Steven Adams;37;36;24.8;5.4;4.0;5.1;9.2;3.1;0.8;0.9;1.5;1.8;2.1
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Home;Xavier Tillman;31;2;13.9;4.8;1.4;1.8;3.2;1.2;0.9;0.3;0.6;1.3;2.1
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Home;Santi Aldama;19;0;10.8;4.5;1.1;1.5;2.6;0.8;0.2;0.4;0.5;1.3;1.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Home;Sam Merrill;4;0;9.0;3.8;0.3;1.0;1.3;0.5;0.0;0.0;0.5;0.3;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Home;Killian Tillie;19;0;13.8;3.7;0.7;1.4;2.2;0.7;0.5;0.6;0.3;1.7;2.2
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Home;Jarrett Culver;19;0;9.1;3.7;0.2;1.1;1.3;1.1;0.5;0.2;0.6;0.9;1.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Home;DaQuan Jeffries;1;0;4.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Home;Shaq Buchanan;1;0;7.0;2.0;1.0;1.0;2.0;1.0;1.0;0.0;1.0;0.0;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Home;Dakota Mathias;4;0;3.0;1.5;0.0;0.5;0.5;0.3;0.3;0.0;0.0;0.3;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Home;Yves Pons;8;0;7.0;1.4;0.4;0.6;1.0;0.1;0.0;0.5;0.1;0.5;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Home;Xavier Sneed;1;0;6.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;2.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Home;Jon Teske;1;0;3.0;0.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;0.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Home;Tyrell Terry;1;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Home;Total;41;"";"";117.3;13.3;35.8;49.0;26.8;9.7;6.8;12.0;19.0;2.2
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Away;Ja Morant;29;29;34.7;27.7;1.3;3.9;5.3;6.9;1.2;0.2;3.7;1.4;1.9
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Away;Desmond Bane;38;38;30.9;20.1;0.7;4.3;5.0;2.7;1.4;0.4;1.6;2.7;1.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Away;Jaren Jackson Jr.;41;41;28.1;16.8;1.8;4.2;6.0;1.3;0.8;2.1;1.7;3.5;0.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Away;Dillon Brooks;14;14;28.7;15.8;1.1;2.4;3.4;2.7;1.2;0.3;2.1;3.3;1.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Away;De'Anthony Melton;35;5;22.9;10.1;0.9;4.1;5.0;2.4;1.5;0.4;1.5;1.7;1.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Away;Brandon Clarke;34;0;19.4;9.3;2.1;3.1;5.2;1.2;0.6;1.1;0.6;2.3;2.1
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Away;Tyus Jones;37;12;20.9;8.7;0.1;1.9;2.0;4.0;0.9;0.0;0.6;0.6;6.1
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Away;Steven Adams;39;39;27.7;8.4;5.1;5.7;10.8;3.6;0.9;0.7;1.6;2.2;2.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Away;Ziaire Williams;33;16;21.9;8.4;0.4;1.5;2.0;0.9;0.6;0.2;0.7;2.1;1.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Away;Kyle Anderson;32;3;21.3;6.3;1.2;4.2;5.4;2.8;1.0;0.8;1.0;1.8;2.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Away;Sam Merrill;2;0;11.0;5.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;1.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Away;Xavier Tillman;22;0;12.2;4.6;1.1;1.7;2.8;1.1;1.0;0.3;0.7;1.0;1.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Away;John Konchar;35;5;17.7;3.7;1.3;3.0;4.3;1.3;0.5;0.4;0.4;1.2;3.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Away;Santi Aldama;13;0;11.8;3.5;1.0;1.9;2.9;0.4;0.2;0.2;0.5;0.9;0.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Away;Jarrett Culver;18;0;9.2;3.3;0.5;0.8;1.3;0.7;0.6;0.1;0.5;1.4;1.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Away;Killian Tillie;17;3;11.7;2.8;0.4;0.7;1.1;0.5;0.8;0.2;0.4;1.5;1.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Away;Tyrell Terry;1;0;3.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Away;Yves Pons;4;0;3.8;0.5;0.5;0.5;1.0;0.0;0.3;0.0;0.0;0.5;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Away;Dakota Mathias;2;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Away;DaQuan Jeffries;2;0;2.0;0.0;0.0;0.5;0.5;0.5;0.0;0.0;0.0;0.5;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Away;Xavier Sneed;1;0;1.0;0.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Away;Jon Teske;2;0;2.5;0.0;0.0;0.5;0.5;0.0;0.5;0.0;0.0;0.5;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Away;Shaq Buchanan;1;0;3.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;1.0;1.0;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Away;Total;41;"";"";113.9;15.0;34.3;49.3;25.1;9.8;6.2;13.0;20.6;1.9
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Boston Celtics;Ja Morant;1;1;37.0;38.0;2.0;2.0;4.0;7.0;0.0;0.0;2.0;1.0;3.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Boston Celtics;Jaren Jackson Jr.;1;1;36.0;20.0;3.0;4.0;7.0;1.0;0.0;1.0;2.0;4.0;0.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Boston Celtics;Santi Aldama;1;0;31.0;20.0;6.0;4.0;10.0;4.0;2.0;0.0;4.0;3.0;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Boston Celtics;Desmond Bane;1;1;34.0;17.0;0.0;7.0;7.0;1.0;1.0;0.0;0.0;2.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Boston Celtics;Jarrett Culver;1;0;32.0;14.0;0.0;2.0;2.0;1.0;1.0;0.0;2.0;3.0;0.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Boston Celtics;Ziaire Williams;2;2;21.5;11.5;0.5;2.0;2.5;1.0;0.5;0.0;0.5;0.5;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Boston Celtics;Kyle Anderson;2;1;25.0;11.0;1.0;5.0;6.0;3.5;4.5;1.0;0.0;1.5;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Boston Celtics;De'Anthony Melton;2;1;21.5;9.5;1.5;3.5;5.0;3.0;1.0;0.5;1.0;2.0;3.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Boston Celtics;Brandon Clarke;1;0;21.0;9.0;1.0;1.0;2.0;1.0;0.0;1.0;0.0;1.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Boston Celtics;John Konchar;2;1;26.5;8.5;4.0;3.5;7.5;5.0;1.5;1.5;1.0;1.0;5.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Boston Celtics;Yves Pons;1;0;26.0;6.0;0.0;2.0;2.0;1.0;0.0;3.0;0.0;3.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Boston Celtics;Xavier Tillman;1;1;35.0;5.0;3.0;1.0;4.0;2.0;2.0;0.0;1.0;3.0;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Boston Celtics;Steven Adams;1;1;26.0;4.0;7.0;1.0;8.0;4.0;0.0;0.0;1.0;2.0;4.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Boston Celtics;Tyus Jones;1;0;14.0;3.0;0.0;1.0;1.0;4.0;0.0;0.0;0.0;0.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Boston Celtics;Total;2;"";"";108.5;18.0;26.5;44.5;25.5;10.5;5.5;8.5;16.0;3.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Brooklyn Nets;Ja Morant;1;1;34.0;36.0;2.0;4.0;6.0;8.0;0.0;0.0;3.0;0.0;2.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Brooklyn Nets;Desmond Bane;2;2;34.0;26.0;1.0;5.0;6.0;3.5;1.5;0.0;3.0;4.0;1.2
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Brooklyn Nets;De'Anthony Melton;1;0;27.0;23.0;0.0;4.0;4.0;1.0;0.0;0.0;3.0;1.0;0.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Brooklyn Nets;Dillon Brooks;1;1;34.0;21.0;2.0;1.0;3.0;2.0;1.0;1.0;0.0;5.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Brooklyn Nets;Brandon Clarke;2;0;22.5;15.0;4.0;4.5;8.5;1.5;0.0;0.0;0.5;1.0;3.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Brooklyn Nets;Tyus Jones;2;1;26.5;14.0;0.5;2.0;2.5;7.5;1.0;0.0;1.0;0.0;7.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Brooklyn Nets;Jarrett Culver;1;0;30.0;12.0;0.0;3.0;3.0;0.0;3.0;0.0;0.0;4.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Brooklyn Nets;Kyle Anderson;1;0;15.0;10.0;2.0;1.0;3.0;2.0;2.0;1.0;0.0;3.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Brooklyn Nets;Jaren Jackson Jr.;2;2;29.0;9.0;1.5;3.5;5.0;2.0;0.5;3.5;2.0;3.5;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Brooklyn Nets;Steven Adams;2;2;27.5;6.5;6.0;5.5;11.5;5.0;1.0;0.5;1.5;1.5;3.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Brooklyn Nets;John Konchar;1;0;10.0;5.0;1.0;5.0;6.0;0.0;1.0;0.0;1.0;2.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Brooklyn Nets;Santi Aldama;1;0;17.0;2.0;2.0;6.0;8.0;0.0;0.0;1.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Brooklyn Nets;Dakota Mathias;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Brooklyn Nets;DaQuan Jeffries;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Brooklyn Nets;Xavier Sneed;1;0;1.0;0.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Brooklyn Nets;Jon Teske;1;0;1.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Brooklyn Nets;Killian Tillie;1;1;16.0;0.0;2.0;2.0;4.0;0.0;2.0;1.0;1.0;5.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Brooklyn Nets;Yves Pons;1;0;7.0;0.0;1.0;1.0;2.0;0.0;0.0;0.0;0.0;1.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Brooklyn Nets;Ziaire Williams;1;0;7.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;2.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Brooklyn Nets;Total;2;"";"";125.0;19.5;34.0;53.5;26.0;9.5;6.0;12.0;21.5;2.2
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. New York Knicks;Ja Morant;2;2;37.0;30.0;2.0;2.5;4.5;8.5;2.5;0.5;2.0;1.0;4.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. New York Knicks;Jaren Jackson Jr.;2;2;30.5;19.5;0.5;6.5;7.0;1.0;0.5;3.5;0.5;3.0;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. New York Knicks;Ziaire Williams;2;2;28.5;17.0;0.5;3.0;3.5;2.0;0.5;0.0;0.5;1.5;4.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. New York Knicks;Desmond Bane;2;2;31.0;12.5;1.5;4.5;6.0;1.5;2.0;1.0;1.0;3.5;1.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. New York Knicks;Brandon Clarke;2;0;21.5;10.0;3.0;4.5;7.5;0.0;1.5;2.0;0.0;2.5;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. New York Knicks;De'Anthony Melton;2;0;18.0;10.0;0.5;2.0;2.5;2.5;0.5;1.5;2.5;2.0;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. New York Knicks;Tyus Jones;2;0;15.5;7.5;0.5;1.5;2.0;3.0;0.5;0.0;0.0;1.5;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. New York Knicks;Kyle Anderson;2;0;16.5;5.0;1.0;4.0;5.0;4.0;1.0;1.5;1.5;2.5;2.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. New York Knicks;Steven Adams;2;2;27.5;4.0;7.0;4.0;11.0;2.0;0.5;0.5;1.5;3.5;1.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. New York Knicks;John Konchar;2;0;13.5;3.5;0.5;3.0;3.5;2.0;0.0;0.0;0.0;1.5;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. New York Knicks;Total;2;"";"";119.0;17.0;35.5;52.5;26.5;9.5;10.5;9.5;22.5;2.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Ja Morant;1;1;42.0;37.0;0.0;5.0;5.0;5.0;1.0;0.0;9.0;3.0;0.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Dillon Brooks;1;1;27.0;23.0;1.0;5.0;6.0;2.0;1.0;0.0;1.0;3.0;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Jaren Jackson Jr.;2;2;30.5;20.0;2.5;3.0;5.5;1.5;1.0;2.0;1.0;2.5;1.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Desmond Bane;2;2;30.0;19.5;0.5;7.0;7.5;3.5;2.0;0.5;0.5;1.5;7.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Philadelphia 76ers;De'Anthony Melton;2;0;17.5;9.5;0.0;1.5;1.5;3.0;1.0;0.5;0.5;0.0;6.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Tyus Jones;2;1;20.5;8.5;1.5;1.5;3.0;3.0;2.0;0.0;0.0;0.5;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Xavier Tillman;1;0;19.0;8.0;2.0;3.0;5.0;3.0;1.0;1.0;1.0;3.0;3.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Ziaire Williams;1;1;34.0;8.0;2.0;7.0;9.0;2.0;0.0;0.0;1.0;1.0;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Steven Adams;2;2;29.0;6.5;3.5;4.5;8.0;1.5;1.5;1.5;2.0;1.0;0.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Kyle Anderson;2;0;19.0;6.0;0.0;2.0;2.0;3.0;3.5;0.0;0.5;2.0;6.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Killian Tillie;1;0;18.0;6.0;2.0;2.0;4.0;2.0;0.0;1.0;1.0;5.0;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Philadelphia 76ers;John Konchar;2;0;18.0;5.5;0.5;2.5;3.0;1.0;0.0;0.0;0.0;1.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Brandon Clarke;1;0;13.0;4.0;2.0;0.0;2.0;0.0;1.0;1.0;0.0;1.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Yves Pons;1;0;7.0;3.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Santi Aldama;1;0;7.0;3.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;2.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Jarrett Culver;1;0;7.0;2.0;0.0;3.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Total;2;"";"";122.5;13.0;36.0;49.0;23.5;13.0;6.0;11.5;17.5;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Toronto Raptors;Ja Morant;1;1;35.0;23.0;4.0;2.0;6.0;9.0;3.0;0.0;4.0;1.0;2.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Toronto Raptors;Desmond Bane;2;2;33.5;21.5;1.0;4.5;5.5;1.5;0.5;0.0;3.0;2.0;0.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Toronto Raptors;Jaren Jackson Jr.;2;2;30.0;20.5;0.5;3.5;4.0;1.0;0.5;3.5;1.0;4.5;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Toronto Raptors;Dillon Brooks;2;2;29.5;18.5;0.5;2.5;3.0;2.0;2.0;1.0;4.0;4.5;0.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Toronto Raptors;Brandon Clarke;2;0;21.0;11.0;2.5;4.0;6.5;1.5;0.5;1.0;0.5;2.5;3.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Toronto Raptors;De'Anthony Melton;1;0;17.0;9.0;4.0;6.0;10.0;2.0;1.0;0.0;1.0;0.0;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Toronto Raptors;Kyle Anderson;2;0;22.0;8.5;1.5;4.0;5.5;1.0;0.5;1.0;1.0;1.0;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Toronto Raptors;Steven Adams;2;2;23.0;3.0;2.5;4.5;7.0;2.0;1.0;0.0;2.0;0.5;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Toronto Raptors;Ziaire Williams;1;0;21.0;3.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;2.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Toronto Raptors;John Konchar;2;0;13.0;2.0;1.0;3.0;4.0;0.5;0.5;0.0;0.5;0.0;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Toronto Raptors;Tyus Jones;2;1;24.0;2.0;0.0;1.5;1.5;5.5;2.0;0.0;1.0;0.5;5.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Toronto Raptors;Santi Aldama;1;0;15.0;2.0;2.0;2.0;4.0;1.0;0.0;0.0;0.0;1.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Toronto Raptors;Total;2;"";"";105.5;14.5;32.5;47.0;21.5;9.5;6.5;15.5;17.5;1.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Chicago Bulls;Ja Morant;2;2;34.0;35.5;1.0;3.0;4.0;3.0;1.0;0.0;3.5;1.5;0.9
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Chicago Bulls;Desmond Bane;2;2;28.5;18.5;0.5;2.0;2.5;4.5;1.0;0.0;0.0;3.5;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Chicago Bulls;Tyus Jones;2;0;18.0;11.0;0.0;1.0;1.0;6.0;0.5;0.0;0.5;0.5;12.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Chicago Bulls;Jaren Jackson Jr.;2;2;25.5;11.0;1.0;3.5;4.5;0.5;0.0;4.5;2.0;3.5;0.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Chicago Bulls;Brandon Clarke;2;0;15.5;9.5;2.0;3.0;5.0;1.0;1.0;0.5;1.0;2.0;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Chicago Bulls;De'Anthony Melton;2;0;19.5;8.5;1.0;4.0;5.0;1.5;2.0;0.0;2.0;1.0;0.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Chicago Bulls;Steven Adams;2;2;29.0;7.0;6.0;9.5;15.5;5.5;1.0;1.5;2.0;0.5;2.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Chicago Bulls;Ziaire Williams;2;2;23.5;5.5;0.5;4.0;4.5;0.5;0.5;0.0;1.0;1.0;0.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Chicago Bulls;Kyle Anderson;2;0;25.0;5.0;2.5;5.5;8.0;2.5;1.5;2.0;2.0;3.5;1.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Chicago Bulls;John Konchar;2;0;15.5;5.0;0.0;4.0;4.0;0.5;1.0;0.0;0.5;0.5;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Chicago Bulls;Jarrett Culver;1;0;4.0;2.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;1.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Chicago Bulls;Dakota Mathias;1;0;4.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Chicago Bulls;Xavier Tillman;1;0;4.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Chicago Bulls;Santi Aldama;1;0;4.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Chicago Bulls;Total;2;"";"";117.5;14.5;40.0;54.5;26.0;9.5;8.5;15.0;18.5;1.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Ja Morant;2;2;33.5;31.5;0.5;5.0;5.5;6.0;1.0;2.0;2.0;1.5;3.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;De'Anthony Melton;1;1;31.0;20.0;2.0;2.0;4.0;3.0;0.0;0.0;0.0;0.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Jaren Jackson Jr.;2;2;30.5;17.5;0.5;4.0;4.5;1.5;0.5;2.0;2.0;3.5;0.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Desmond Bane;2;2;32.0;16.5;1.0;3.0;4.0;5.0;1.5;1.0;2.0;2.5;2.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Tyus Jones;2;0;19.5;10.5;0.0;1.5;1.5;3.5;1.0;0.0;0.5;0.5;7.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Kyle Anderson;1;0;22.0;10.0;0.0;7.0;7.0;4.0;2.0;0.0;0.0;2.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Brandon Clarke;2;0;18.5;9.5;1.5;4.5;6.0;0.5;0.5;2.0;0.0;2.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Steven Adams;2;2;32.5;7.5;5.5;7.0;12.5;3.0;0.5;1.0;1.5;0.5;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Ziaire Williams;2;0;15.5;6.5;0.0;1.0;1.0;0.5;0.5;0.0;0.5;1.0;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Killian Tillie;1;1;17.0;5.0;0.0;3.0;3.0;1.0;0.0;0.0;1.0;0.0;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;John Konchar;1;0;19.0;4.0;2.0;4.0;6.0;0.0;1.0;0.0;0.0;4.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Jarrett Culver;1;0;16.0;2.0;2.0;3.0;5.0;1.0;0.0;0.0;1.0;3.0;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Santi Aldama;1;0;13.0;2.0;1.0;2.0;3.0;0.0;0.0;0.0;0.0;1.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Total;2;"";"";121.0;12.5;36.5;49.0;24.5;7.0;8.0;9.5;16.5;2.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Detroit Pistons;Ja Morant;2;2;27.5;22.5;1.5;5.0;6.5;6.0;0.5;0.5;3.5;1.0;1.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Detroit Pistons;Desmond Bane;1;1;28.0;22.0;0.0;6.0;6.0;2.0;0.0;0.0;1.0;3.0;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Detroit Pistons;Dillon Brooks;1;1;25.0;18.0;2.0;1.0;3.0;5.0;3.0;2.0;1.0;1.0;5.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Detroit Pistons;Kyle Anderson;1;0;26.0;13.0;3.0;8.0;11.0;2.0;1.0;1.0;2.0;5.0;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Detroit Pistons;Brandon Clarke;2;0;20.5;12.5;3.0;3.5;6.5;2.5;0.5;1.0;2.0;3.5;1.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Detroit Pistons;Jaren Jackson Jr.;2;2;25.5;11.5;1.5;4.5;6.0;1.0;0.5;1.0;2.5;3.0;0.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Detroit Pistons;Ziaire Williams;2;2;23.5;11.0;0.0;0.5;0.5;1.0;1.0;0.0;1.0;1.0;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Detroit Pistons;Steven Adams;2;2;24.0;9.0;6.0;8.0;14.0;4.5;0.0;1.0;1.0;1.0;4.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Detroit Pistons;De'Anthony Melton;2;0;22.0;9.0;1.0;5.0;6.0;5.0;1.0;1.0;2.0;1.5;2.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Detroit Pistons;Tyus Jones;2;0;18.5;8.0;0.0;2.0;2.0;4.5;1.0;0.0;0.5;0.5;9.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Detroit Pistons;Santi Aldama;1;0;18.0;7.0;1.0;2.0;3.0;1.0;0.0;0.0;1.0;3.0;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Detroit Pistons;Dakota Mathias;1;0;3.0;6.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;1.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Detroit Pistons;Killian Tillie;1;0;19.0;5.0;3.0;2.0;5.0;0.0;1.0;0.0;0.0;2.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Detroit Pistons;Jarrett Culver;2;0;5.0;3.5;0.5;0.5;1.0;1.0;0.0;0.0;0.0;0.5;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Detroit Pistons;John Konchar;1;0;20.0;3.0;0.0;4.0;4.0;1.0;0.0;1.0;0.0;2.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Detroit Pistons;DaQuan Jeffries;1;0;4.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Detroit Pistons;Jon Teske;1;0;3.0;0.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;0.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Detroit Pistons;Total;2;"";"";125.0;18.0;42.5;60.5;31.5;7.0;6.5;15.0;20.5;2.1
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Indiana Pacers;Desmond Bane;2;2;23.5;25.5;0.5;4.0;4.5;5.5;1.0;1.0;2.0;2.0;2.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Indiana Pacers;Jaren Jackson Jr.;2;2;19.0;19.5;2.0;3.0;5.0;1.0;1.5;2.5;1.5;3.5;0.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Indiana Pacers;De'Anthony Melton;2;0;24.5;18.5;1.0;4.0;5.0;3.5;1.5;0.0;2.0;1.5;1.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Indiana Pacers;John Konchar;2;0;22.0;13.5;1.5;5.5;7.0;3.5;0.0;0.5;0.0;0.5;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Indiana Pacers;Brandon Clarke;1;0;18.0;13.0;1.0;1.0;2.0;1.0;1.0;3.0;0.0;2.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Indiana Pacers;Xavier Tillman;2;0;15.5;10.5;1.0;1.5;2.5;0.0;0.5;0.5;1.0;1.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Indiana Pacers;Dillon Brooks;1;1;24.0;10.0;0.0;1.0;1.0;4.0;1.0;1.0;1.0;2.0;4.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Indiana Pacers;Steven Adams;2;2;23.0;9.5;8.0;6.5;14.5;4.0;1.5;2.0;1.0;2.0;4.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Indiana Pacers;Tyus Jones;2;2;26.0;9.5;0.0;3.0;3.0;8.0;1.0;0.0;0.5;0.5;16.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Indiana Pacers;Ziaire Williams;2;1;23.5;7.0;0.0;2.0;2.0;2.5;0.5;0.5;2.0;3.0;1.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Indiana Pacers;Kyle Anderson;2;0;22.0;6.0;1.0;5.0;6.0;3.5;0.5;0.0;0.5;1.5;7.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Indiana Pacers;Jarrett Culver;2;0;8.5;3.0;1.0;0.0;1.0;1.0;0.5;0.0;0.0;0.5;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Indiana Pacers;Killian Tillie;1;0;6.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;1.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Indiana Pacers;Santi Aldama;1;0;18.0;0.0;1.0;1.0;2.0;1.0;0.0;2.0;2.0;1.0;0.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Indiana Pacers;Total;2;"";"";134.0;17.0;36.0;53.0;36.0;9.5;10.0;12.0;19.0;3.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Ja Morant;1;1;39.0;33.0;1.0;7.0;8.0;14.0;0.0;0.0;1.0;3.0;14.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Jaren Jackson Jr.;2;2;29.5;22.5;1.5;6.0;7.5;0.5;0.5;3.0;3.0;5.0;0.2
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Desmond Bane;1;1;28.0;20.0;0.0;3.0;3.0;5.0;2.0;0.0;0.0;1.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Dillon Brooks;1;1;25.0;19.0;1.0;2.0;3.0;1.0;0.0;0.0;1.0;4.0;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Milwaukee Bucks;De'Anthony Melton;2;0;19.5;14.5;0.5;1.5;2.0;1.5;2.5;0.0;1.5;3.5;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Brandon Clarke;1;0;26.0;14.0;1.0;3.0;4.0;1.0;2.0;2.0;0.0;0.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Tyus Jones;1;1;29.0;13.0;1.0;3.0;4.0;10.0;1.0;0.0;0.0;0.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Kyle Anderson;1;0;20.0;9.0;0.0;4.0;4.0;0.0;1.0;2.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Ziaire Williams;2;1;25.5;8.5;0.0;2.0;2.0;2.0;1.0;0.5;0.0;1.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Xavier Tillman;2;0;13.5;5.0;2.5;3.5;6.0;2.0;0.0;0.0;1.0;1.0;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Milwaukee Bucks;John Konchar;2;1;24.0;4.5;1.0;5.0;6.0;2.0;0.5;1.5;0.5;0.5;4.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Steven Adams;2;2;25.0;4.0;7.0;4.0;11.0;3.5;1.5;1.0;1.0;2.0;3.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Santi Aldama;2;0;8.5;4.0;0.5;1.5;2.0;0.0;0.0;0.0;0.0;0.5;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Jarrett Culver;2;0;10.0;3.5;1.0;0.0;1.0;1.0;1.0;0.5;0.5;2.0;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Yves Pons;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Total;2;"";"";120.5;16.0;34.5;50.5;28.0;10.0;8.5;8.5;19.5;3.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Atlanta Hawks;Ja Morant;2;2;21.0;15.5;1.0;1.0;2.0;2.5;0.0;0.5;3.0;1.0;0.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Atlanta Hawks;Jaren Jackson Jr.;2;2;23.5;14.5;1.5;4.0;5.5;0.5;1.0;1.5;3.0;5.0;0.2
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Atlanta Hawks;Desmond Bane;2;2;27.5;12.0;1.0;2.5;3.5;2.0;1.5;0.5;1.5;2.0;1.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Atlanta Hawks;Dillon Brooks;2;2;22.5;11.5;2.0;2.5;4.5;1.0;0.5;0.5;0.5;3.5;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Atlanta Hawks;John Konchar;2;0;9.5;10.0;0.0;3.5;3.5;1.5;0.0;0.0;1.0;0.5;1.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Atlanta Hawks;Killian Tillie;1;0;12.0;7.0;0.0;0.0;0.0;2.0;1.0;1.0;0.0;0.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Atlanta Hawks;De'Anthony Melton;2;0;20.5;6.5;0.0;2.0;2.0;1.5;1.0;0.5;1.5;2.0;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Atlanta Hawks;Santi Aldama;1;0;12.0;6.0;0.0;1.0;1.0;2.0;0.0;0.0;0.0;3.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Atlanta Hawks;Xavier Tillman;2;0;7.5;5.5;1.0;1.0;2.0;2.5;0.5;0.0;0.0;1.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Atlanta Hawks;Tyus Jones;2;0;16.0;5.0;0.0;0.5;0.5;1.5;0.0;0.5;0.5;0.0;3.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Atlanta Hawks;Kyle Anderson;2;0;19.0;4.5;1.0;2.5;3.5;1.5;1.0;0.5;0.0;0.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Atlanta Hawks;Brandon Clarke;2;0;14.5;4.0;2.5;3.0;5.5;2.5;0.0;2.5;1.0;1.5;2.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Atlanta Hawks;Jarrett Culver;2;0;7.5;3.5;0.0;0.5;0.5;0.5;0.0;0.0;1.0;0.0;0.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Atlanta Hawks;Steven Adams;2;2;24.0;2.5;2.5;4.0;6.5;1.5;0.5;0.5;0.5;0.5;3.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Atlanta Hawks;Ziaire Williams;2;0;15.0;1.0;0.0;2.0;2.0;1.5;0.5;0.5;1.0;0.0;1.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Atlanta Hawks;Total;2;"";"";102.5;12.5;29.5;42.0;22.5;7.0;8.5;14.5;18.5;1.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Charlotte Hornets;Ja Morant;2;2;35.5;29.0;1.5;5.0;6.5;7.0;1.5;0.0;3.0;1.0;2.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Charlotte Hornets;Dillon Brooks;1;0;26.0;20.0;0.0;4.0;4.0;6.0;2.0;0.0;2.0;4.0;3.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Charlotte Hornets;Jaren Jackson Jr.;2;2;30.5;18.5;3.5;4.5;8.0;1.5;1.0;2.0;0.0;4.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Charlotte Hornets;Desmond Bane;2;2;26.5;13.5;0.0;2.5;2.5;2.5;2.0;0.5;4.0;4.5;0.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Charlotte Hornets;Steven Adams;2;2;22.0;12.0;8.0;4.5;12.5;3.5;0.0;2.5;1.0;3.5;3.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Charlotte Hornets;Brandon Clarke;2;0;22.0;9.0;2.0;3.0;5.0;2.0;1.0;1.0;1.0;1.5;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Charlotte Hornets;De'Anthony Melton;2;1;24.0;8.0;1.0;6.5;7.5;2.5;2.5;1.0;1.5;1.0;1.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Charlotte Hornets;Kyle Anderson;2;0;21.0;7.0;0.5;6.5;7.0;4.0;1.0;0.0;2.0;2.5;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Charlotte Hornets;John Konchar;2;0;19.0;6.0;1.0;3.0;4.0;0.5;2.0;1.0;1.0;1.0;0.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Charlotte Hornets;Ziaire Williams;1;1;23.0;4.0;0.0;0.0;0.0;0.0;1.0;0.0;1.0;2.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Charlotte Hornets;Tyus Jones;2;0;15.0;1.5;0.5;1.5;2.0;2.5;0.0;0.0;1.5;0.0;1.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Charlotte Hornets;Total;2;"";"";116.5;18.0;39.0;57.0;29.0;12.5;8.0;16.5;22.0;1.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Miami Heat;Dillon Brooks;1;1;36.0;21.0;0.0;3.0;3.0;8.0;2.0;0.0;3.0;3.0;2.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Miami Heat;Ja Morant;1;1;33.0;20.0;1.0;3.0;4.0;7.0;2.0;0.0;3.0;2.0;2.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Miami Heat;Desmond Bane;2;2;28.5;19.0;1.0;4.0;5.0;2.0;1.5;0.5;2.0;3.0;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Miami Heat;Kyle Anderson;1;0;19.0;13.0;0.0;2.0;2.0;2.0;1.0;1.0;2.0;0.0;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Miami Heat;De'Anthony Melton;2;1;25.5;12.5;1.5;1.5;3.0;4.5;2.0;0.5;2.5;1.5;1.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Miami Heat;Steven Adams;2;2;25.0;11.5;4.0;6.5;10.5;2.0;0.5;0.5;1.0;2.0;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Miami Heat;Jaren Jackson Jr.;2;2;28.0;11.0;1.0;2.0;3.0;1.0;1.5;2.0;1.5;2.5;0.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Miami Heat;Tyus Jones;2;1;23.5;9.5;0.0;0.5;0.5;6.0;0.5;0.0;1.0;1.0;6.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Miami Heat;Xavier Tillman;2;0;15.0;3.5;2.0;3.0;5.0;0.5;1.5;0.5;0.0;0.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Miami Heat;Sam Merrill;1;0;16.0;3.0;0.0;0.0;0.0;1.0;0.0;0.0;2.0;0.0;0.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Miami Heat;John Konchar;2;0;17.5;2.5;0.5;3.5;4.0;1.0;1.0;1.5;1.0;2.5;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Miami Heat;Ziaire Williams;2;0;9.5;2.5;0.0;1.0;1.0;0.0;0.5;0.0;1.0;1.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Miami Heat;Brandon Clarke;1;0;6.0;2.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Miami Heat;Jarrett Culver;1;0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Miami Heat;Santi Aldama;2;0;8.5;1.5;0.5;1.0;1.5;0.0;0.5;0.0;1.5;1.5;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Miami Heat;Killian Tillie;2;0;3.5;0.0;1.0;0.5;1.5;0.0;0.0;0.5;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Miami Heat;Yves Pons;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Miami Heat;Total;2;"";"";104.0;12.0;27.5;39.5;26.0;12.5;6.5;16.5;17.5;1.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Orlando Magic;Ja Morant;2;2;28.5;29.0;0.0;4.5;4.5;7.0;0.5;1.0;3.5;1.0;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Orlando Magic;Jaren Jackson Jr.;2;2;27.0;17.0;1.0;3.5;4.5;0.0;0.5;2.0;0.5;2.5;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Orlando Magic;Desmond Bane;2;2;25.0;15.5;0.5;6.5;7.0;2.5;0.5;0.0;0.0;1.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Orlando Magic;De'Anthony Melton;2;0;23.0;12.5;1.0;6.0;7.0;3.0;2.0;0.5;0.0;2.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Orlando Magic;Tyus Jones;2;0;18.0;12.0;0.0;1.0;1.0;3.5;0.5;0.0;0.5;0.0;7.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Orlando Magic;Brandon Clarke;2;0;21.0;10.5;3.0;5.0;8.0;1.5;1.0;0.0;0.0;3.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Orlando Magic;Ziaire Williams;2;2;23.5;9.5;0.0;2.0;2.0;1.5;0.5;0.0;0.5;1.0;3.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Orlando Magic;Steven Adams;2;2;23.0;8.0;2.5;6.0;8.5;6.0;0.0;0.0;1.5;2.5;4.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Orlando Magic;Kyle Anderson;2;0;18.5;8.0;1.5;4.5;6.0;1.0;0.5;1.0;0.5;1.0;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Orlando Magic;Xavier Tillman;2;0;4.0;5.0;0.5;1.5;2.0;0.0;0.0;0.0;0.5;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Orlando Magic;John Konchar;2;0;20.5;2.5;0.5;6.5;7.0;2.5;0.5;0.0;0.0;1.5;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Orlando Magic;Killian Tillie;2;0;4.0;0.0;0.5;0.5;1.0;0.5;0.0;0.0;0.0;1.5;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Orlando Magic;Jarrett Culver;2;0;3.5;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Orlando Magic;Total;2;"";"";129.5;11.0;47.5;58.5;29.0;6.5;4.5;7.5;17.5;3.9
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Washington Wizards;Ja Morant;2;2;32.0;22.5;1.5;3.0;4.5;3.0;0.5;0.0;1.0;0.5;3.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Washington Wizards;Desmond Bane;2;2;25.5;14.5;0.5;0.0;0.5;2.0;0.0;0.5;1.0;2.5;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Washington Wizards;Jaren Jackson Jr.;2;2;23.5;11.5;2.0;6.0;8.0;2.0;1.5;2.0;2.5;2.0;0.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Washington Wizards;Ziaire Williams;1;0;19.0;9.0;0.0;0.0;0.0;0.0;2.0;0.0;2.0;3.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Washington Wizards;De'Anthony Melton;2;1;23.5;8.5;1.5;3.0;4.5;1.0;1.5;1.0;0.5;1.0;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Washington Wizards;Brandon Clarke;2;0;15.0;8.0;1.0;2.0;3.0;0.5;0.5;0.5;0.5;1.5;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Washington Wizards;Steven Adams;2;2;24.0;7.5;6.5;4.0;10.5;3.0;0.5;1.5;0.5;1.5;6.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Washington Wizards;Tyus Jones;1;0;17.0;7.0;1.0;2.0;3.0;2.0;2.0;0.0;0.0;1.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Washington Wizards;John Konchar;2;1;20.0;5.5;1.5;4.5;6.0;2.5;1.0;0.0;0.5;1.5;5.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Washington Wizards;Sam Merrill;1;0;10.0;4.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;1.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Washington Wizards;Jarrett Culver;2;0;6.0;4.0;0.5;0.5;1.0;1.0;0.0;0.5;0.0;0.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Washington Wizards;Killian Tillie;2;0;13.0;3.0;0.0;1.0;1.0;0.5;1.0;1.0;0.0;2.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Washington Wizards;Xavier Tillman;2;0;7.0;3.0;0.0;0.0;0.0;1.0;0.5;0.0;0.0;0.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Washington Wizards;Kyle Anderson;2;0;21.5;2.0;1.0;5.5;6.5;4.0;1.0;0.0;1.0;1.5;4.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Washington Wizards;Santi Aldama;2;0;6.0;1.0;0.0;1.5;1.5;0.0;0.0;0.0;0.5;1.5;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Washington Wizards;Yves Pons;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Washington Wizards;Total;2;"";"";101.0;16.5;33.0;49.5;21.5;10.0;7.0;9.0;18.0;2.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Denver Nuggets;Ja Morant;3;3;35.0;27.3;2.0;4.3;6.3;6.7;2.0;0.0;4.3;0.3;1.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Denver Nuggets;Jaren Jackson Jr.;4;4;25.0;15.8;0.5;4.3;4.8;1.0;0.5;2.3;1.8;3.5;0.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Denver Nuggets;Desmond Bane;3;3;28.0;13.7;0.3;3.0;3.3;2.3;1.3;0.0;1.0;3.3;2.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Denver Nuggets;De'Anthony Melton;4;2;26.0;12.8;0.5;4.5;5.0;2.5;0.5;0.8;1.0;1.5;2.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Denver Nuggets;Kyle Anderson;3;0;23.7;12.0;0.3;5.0;5.3;2.7;0.7;0.0;0.3;2.3;8.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Denver Nuggets;Dillon Brooks;1;1;26.0;12.0;0.0;1.0;1.0;2.0;1.0;1.0;2.0;4.0;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Denver Nuggets;Ziaire Williams;4;1;22.8;11.3;0.8;2.0;2.8;0.5;0.8;0.8;0.5;1.8;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Denver Nuggets;Tyus Jones;3;1;23.7;9.7;0.3;3.0;3.3;5.0;0.7;0.0;1.0;0.0;5.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Denver Nuggets;Brandon Clarke;2;0;18.0;8.5;2.0;1.5;3.5;0.5;0.0;1.5;0.5;2.0;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Denver Nuggets;Santi Aldama;1;0;9.0;8.0;2.0;3.0;5.0;1.0;1.0;0.0;1.0;1.0;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Denver Nuggets;Jarrett Culver;1;0;16.0;6.0;0.0;4.0;4.0;2.0;2.0;0.0;3.0;5.0;0.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Denver Nuggets;Steven Adams;4;4;29.8;5.0;1.8;5.5;7.3;3.3;1.5;0.5;1.3;2.0;2.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Denver Nuggets;Xavier Tillman;4;0;11.0;4.8;1.3;1.3;2.5;1.3;0.8;0.0;1.0;1.8;1.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Denver Nuggets;John Konchar;4;1;20.0;3.5;0.5;2.0;2.5;1.8;0.3;0.8;0.3;1.3;7.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Denver Nuggets;Yves Pons;1;0;5.0;2.0;1.0;1.0;2.0;0.0;1.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Denver Nuggets;Total;4;"";"";111.3;9.3;34.0;43.3;24.3;9.0;6.0;12.5;19.8;1.9
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Ja Morant;4;4;33.5;20.0;1.8;3.8;5.5;6.5;1.0;0.5;3.3;2.0;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Desmond Bane;4;4;32.0;17.3;1.0;2.5;3.5;1.8;1.5;0.0;2.0;2.8;0.9
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Jaren Jackson Jr.;4;4;30.5;16.8;2.3;4.8;7.0;1.0;1.0;3.0;2.0;4.0;0.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;De'Anthony Melton;3;1;23.3;12.7;0.7;3.0;3.7;3.3;1.7;0.3;1.3;1.3;2.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Brandon Clarke;4;0;22.5;11.8;3.8;2.8;6.5;1.3;0.3;1.0;0.5;2.0;2.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Ziaire Williams;3;2;22.0;11.0;1.0;0.3;1.3;0.3;0.7;0.0;0.7;2.0;0.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Tyus Jones;4;0;16.8;7.5;0.0;2.3;2.3;2.5;0.8;0.3;1.0;0.3;2.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;John Konchar;4;0;20.3;6.5;2.3;6.0;8.3;2.0;0.3;0.3;0.3;1.8;8.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Kyle Anderson;4;2;21.3;5.5;1.3;4.0;5.3;3.3;0.0;0.5;1.5;1.5;2.2
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Steven Adams;3;3;21.7;5.0;2.7;3.0;5.7;2.3;0.0;1.0;2.0;2.7;1.2
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Xavier Tillman;3;0;16.7;4.7;1.3;2.0;3.3;0.7;2.0;0.3;0.0;1.3;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Jarrett Culver;1;0;8.0;4.0;0.0;0.0;0.0;1.0;1.0;0.0;1.0;0.0;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Killian Tillie;1;0;7.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;3.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Santi Aldama;1;0;12.0;2.0;1.0;3.0;4.0;2.0;0.0;0.0;0.0;0.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Total;4;"";"";112.5;16.8;33.0;49.8;24.0;8.3;6.8;13.8;20.5;1.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Jaren Jackson Jr.;3;3;28.0;20.0;1.3;3.3;4.7;1.0;1.3;1.0;1.7;2.3;0.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Santi Aldama;1;0;28.0;18.0;5.0;5.0;10.0;3.0;1.0;1.0;0.0;1.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Ja Morant;2;2;30.5;16.5;1.0;4.5;5.5;9.0;1.0;0.5;3.5;1.5;2.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Desmond Bane;3;3;28.3;16.0;1.7;4.7;6.3;2.3;1.3;0.3;0.7;1.7;3.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Dillon Brooks;3;3;25.3;15.0;0.7;1.0;1.7;3.0;1.3;0.0;2.0;3.3;1.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Brandon Clarke;2;0;19.0;11.5;1.0;5.0;6.0;0.5;0.5;1.5;1.0;1.5;0.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;John Konchar;2;0;19.5;11.0;1.0;1.5;2.5;3.0;2.0;0.0;0.0;1.5;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Tyus Jones;2;1;19.5;11.0;0.5;3.5;4.0;6.0;2.5;0.0;1.0;0.5;6.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Jarrett Culver;1;0;14.0;11.0;1.0;3.0;4.0;6.0;2.0;0.0;0.0;1.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Ziaire Williams;1;0;22.0;11.0;2.0;1.0;3.0;3.0;1.0;1.0;1.0;3.0;3.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Xavier Tillman;2;0;22.5;9.5;2.0;0.5;2.5;2.0;1.5;1.0;0.5;2.0;4.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;De'Anthony Melton;3;0;19.0;9.0;1.0;2.3;3.3;4.0;0.3;0.3;1.3;1.3;3.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Steven Adams;3;3;22.0;7.0;4.7;8.0;12.7;2.3;0.0;0.7;1.3;1.3;1.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Kyle Anderson;2;0;20.0;5.0;1.5;5.0;6.5;2.0;0.5;0.5;0.0;0.5;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Killian Tillie;2;0;13.0;3.0;0.5;1.5;2.0;0.0;0.0;0.0;0.5;3.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Total;3;"";"";125.3;17.0;36.7;53.7;31.7;11.0;5.3;11.7;18.7;2.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Ja Morant;2;2;34.5;30.5;1.0;6.0;7.0;10.5;0.5;0.5;5.5;2.5;1.9
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Dillon Brooks;2;2;36.0;29.5;1.0;4.0;5.0;4.5;0.5;0.0;1.5;3.0;3.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Desmond Bane;4;4;30.8;20.3;0.5;3.5;4.0;2.0;0.8;0.5;1.3;3.3;1.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Brandon Clarke;2;0;20.5;9.0;3.5;3.5;7.0;0.5;1.0;1.0;0.0;2.5;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Jaren Jackson Jr.;4;4;22.0;8.5;0.8;1.5;2.3;1.3;0.0;1.5;1.5;5.0;0.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Kyle Anderson;4;0;21.3;8.0;0.5;5.0;5.5;2.0;2.5;0.8;1.5;1.0;1.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Steven Adams;4;4;29.8;7.3;4.8;4.3;9.0;2.8;1.5;0.3;1.5;2.8;1.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Tyus Jones;4;2;24.0;7.3;0.0;0.5;0.5;2.8;0.8;0.0;0.8;0.5;3.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Santi Aldama;1;0;6.0;7.0;2.0;0.0;2.0;0.0;0.0;0.0;0.0;1.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Sam Merrill;1;0;12.0;6.0;0.0;0.0;0.0;2.0;0.0;0.0;0.0;1.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Portland Trail Blazers;John Konchar;4;0;15.8;5.5;1.8;2.5;4.3;1.3;0.5;0.0;0.8;2.0;1.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Ziaire Williams;2;1;19.0;5.5;0.5;1.0;1.5;0.0;0.5;0.0;0.0;2.5;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Portland Trail Blazers;De'Anthony Melton;4;1;21.5;5.3;0.8;4.5;5.3;2.3;1.8;0.8;1.5;1.5;1.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Xavier Tillman;3;0;11.3;5.0;0.3;1.3;1.7;0.3;1.3;0.7;1.0;1.7;0.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Jarrett Culver;1;0;6.0;1.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Killian Tillie;3;0;7.7;0.7;0.3;0.7;1.0;0.0;0.7;0.0;0.3;0.7;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Total;4;"";"";107.0;13.0;30.8;43.8;22.8;10.5;5.0;13.3;23.5;1.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Utah Jazz;Ja Morant;2;2;36.5;31.0;2.0;5.0;7.0;8.5;1.5;0.5;3.5;2.0;2.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Utah Jazz;Jaren Jackson Jr.;3;3;34.3;24.0;1.3;5.3;6.7;1.7;1.7;3.3;1.0;4.0;1.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Utah Jazz;Desmond Bane;3;3;34.0;22.7;0.7;3.7;4.3;3.0;2.7;0.0;2.0;3.7;1.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Utah Jazz;Tyus Jones;2;1;24.5;12.0;0.0;2.0;2.0;3.5;0.5;0.0;0.5;0.5;7.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Utah Jazz;Brandon Clarke;3;0;23.7;12.0;1.7;2.7;4.3;0.7;1.0;0.3;0.7;3.3;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Utah Jazz;De'Anthony Melton;2;0;28.0;12.0;1.5;8.0;9.5;5.0;1.0;1.0;1.0;1.5;5.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Utah Jazz;Kyle Anderson;2;1;20.5;8.5;1.5;4.5;6.0;3.0;0.5;1.0;2.0;2.0;1.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Utah Jazz;Ziaire Williams;3;2;30.7;8.3;0.0;1.7;1.7;0.7;0.7;0.0;0.3;1.7;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Utah Jazz;Killian Tillie;1;0;16.0;5.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;3.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Utah Jazz;Xavier Tillman;1;0;11.0;5.0;1.0;2.0;3.0;2.0;0.0;0.0;0.0;0.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Utah Jazz;John Konchar;3;0;18.3;2.7;0.7;3.0;3.7;0.7;0.7;0.0;0.3;2.7;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Utah Jazz;Steven Adams;3;3;25.3;2.3;3.3;6.0;9.3;5.0;1.7;0.7;2.0;2.3;2.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Utah Jazz;Total;3;"";"";117.7;11.3;36.3;47.7;25.7;10.7;6.0;11.3;22.7;2.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Golden State Warriors;Ja Morant;3;3;36.7;26.7;0.0;5.0;5.0;6.3;1.7;0.7;3.3;0.7;1.9
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Golden State Warriors;Dillon Brooks;2;2;28.5;17.0;0.5;1.0;1.5;1.0;1.5;0.0;2.0;4.0;0.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Golden State Warriors;Desmond Bane;4;4;31.8;16.0;0.5;2.8;3.3;2.5;1.0;0.3;1.8;1.8;1.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Golden State Warriors;Jaren Jackson Jr.;3;3;27.7;16.0;2.3;5.7;8.0;1.0;1.7;1.7;2.3;3.7;0.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Golden State Warriors;Brandon Clarke;2;0;25.5;13.0;2.5;4.0;6.5;1.5;0.5;1.5;1.0;3.0;1.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Golden State Warriors;De'Anthony Melton;4;1;23.3;12.5;0.8;4.8;5.5;2.0;1.8;1.0;2.0;3.0;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Golden State Warriors;Ziaire Williams;3;1;25.0;9.7;0.3;1.7;2.0;2.3;0.7;0.7;0.7;2.0;3.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Golden State Warriors;Kyle Anderson;4;2;24.5;9.3;1.5;4.3;5.8;2.0;0.8;1.3;1.5;1.8;1.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Golden State Warriors;Tyus Jones;4;1;20.8;7.8;0.3;3.3;3.5;4.8;1.3;0.0;0.3;0.3;19.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Golden State Warriors;Steven Adams;3;3;21.7;6.7;2.7;4.3;7.0;2.0;1.3;0.7;1.0;1.7;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Golden State Warriors;Xavier Tillman;4;0;20.8;4.8;2.8;4.0;6.8;1.8;1.0;0.5;0.3;1.0;7.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Golden State Warriors;Jarrett Culver;1;0;8.0;4.0;1.0;2.0;3.0;0.0;2.0;0.0;2.0;4.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Golden State Warriors;John Konchar;4;0;13.0;1.3;0.5;2.0;2.5;1.8;1.0;0.0;0.3;0.0;7.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Golden State Warriors;Total;4;"";"";111.8;12.0;36.5;48.5;24.8;12.3;6.5;13.5;18.3;1.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. LA Clippers;Ja Morant;3;3;30.7;28.7;0.7;4.0;4.7;6.0;1.0;0.0;3.7;2.3;1.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. LA Clippers;Jaren Jackson Jr.;4;4;28.8;22.8;3.3;4.8;8.0;1.3;1.3;2.8;0.8;3.3;1.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. LA Clippers;Desmond Bane;4;4;28.8;15.8;0.8;4.8;5.5;3.0;1.3;0.8;1.5;2.5;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. LA Clippers;Brandon Clarke;4;0;21.8;13.3;2.8;5.5;8.3;2.5;0.3;1.5;0.3;1.5;10.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. LA Clippers;De'Anthony Melton;4;1;26.8;10.5;1.8;4.5;6.3;3.8;1.8;0.5;1.0;2.0;3.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. LA Clippers;Dillon Brooks;2;2;16.5;10.0;0.5;0.5;1.0;1.0;1.0;0.0;0.5;2.5;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. LA Clippers;Steven Adams;3;3;24.7;9.3;4.3;4.7;9.0;4.3;0.7;0.3;2.3;1.3;1.9
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. LA Clippers;Tyus Jones;4;1;18.8;7.8;0.0;3.5;3.5;4.3;0.3;0.0;0.5;1.3;8.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. LA Clippers;Kyle Anderson;3;0;21.0;7.0;2.0;4.0;6.0;1.3;1.7;0.7;0.3;0.7;4.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. LA Clippers;Ziaire Williams;4;1;17.3;6.8;0.5;0.8;1.3;1.0;0.3;0.0;1.0;2.3;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. LA Clippers;Killian Tillie;2;1;12.0;4.5;0.0;0.0;0.0;0.0;0.5;0.0;0.0;0.5;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. LA Clippers;Jarrett Culver;2;0;13.5;4.0;0.5;1.0;1.5;1.5;0.0;0.5;0.5;0.5;3.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. LA Clippers;Santi Aldama;2;0;11.0;3.5;0.5;0.5;1.0;0.0;0.0;0.5;0.5;0.5;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. LA Clippers;John Konchar;3;0;13.7;3.3;0.7;1.3;2.0;0.7;0.3;0.0;0.7;0.3;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. LA Clippers;Xavier Tillman;1;0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. LA Clippers;Dakota Mathias;1;0;4.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. LA Clippers;DaQuan Jeffries;1;0;4.0;0.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;1.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. LA Clippers;Jon Teske;1;0;4.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. LA Clippers;Sam Merrill;1;0;2.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. LA Clippers;Total;4;"";"";124.5;15.5;36.0;51.5;26.5;8.5;6.8;11.0;18.8;2.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Ja Morant;3;3;35.0;32.3;1.7;4.0;5.7;6.3;2.0;1.0;5.0;2.3;1.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Desmond Bane;4;4;30.8;20.8;0.3;3.8;4.0;3.0;2.0;0.5;1.3;2.0;2.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Jaren Jackson Jr.;4;4;29.8;18.3;1.5;5.0;6.5;0.5;2.0;2.3;1.8;3.0;0.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Los Angeles Lakers;De'Anthony Melton;3;2;25.3;9.7;1.0;2.7;3.7;4.0;2.0;0.0;2.0;1.7;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Los Angeles Lakers;John Konchar;2;0;20.0;9.5;2.0;3.0;5.0;2.0;1.5;0.0;0.0;2.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Kyle Anderson;4;2;23.5;7.8;0.8;3.5;4.3;3.5;0.5;1.3;0.3;1.5;14.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Steven Adams;3;3;30.0;7.3;6.3;5.3;11.7;3.0;0.0;0.0;2.3;1.7;1.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Brandon Clarke;3;0;15.3;7.3;1.3;2.3;3.7;1.0;0.3;0.7;0.7;0.7;1.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Tyus Jones;4;1;21.3;6.8;0.3;2.5;2.8;4.8;1.0;0.0;1.0;0.3;4.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Xavier Tillman;4;0;17.5;6.8;1.3;2.3;3.5;0.5;2.3;0.3;0.3;1.5;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Ziaire Williams;2;1;22.5;6.0;0.5;2.0;2.5;1.5;1.0;0.0;1.0;2.0;1.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Jarrett Culver;2;0;9.5;4.0;0.0;1.5;1.5;1.0;1.0;0.5;0.0;2.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Shaq Buchanan;1;0;7.0;2.0;1.0;1.0;2.0;1.0;1.0;0.0;1.0;0.0;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Killian Tillie;3;0;12.7;1.7;0.7;2.0;2.7;0.7;0.7;0.3;0.3;1.0;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Santi Aldama;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Total;4;"";"";114.3;13.8;32.8;46.5;26.0;13.5;6.0;13.0;16.8;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Phoenix Suns;Dillon Brooks;1;1;35.0;30.0;2.0;2.0;4.0;7.0;0.0;0.0;2.0;1.0;3.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Phoenix Suns;Ja Morant;2;2;32.5;29.5;1.0;7.0;8.0;5.0;2.0;0.0;3.5;2.0;1.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Phoenix Suns;Desmond Bane;2;2;30.0;20.5;0.5;6.5;7.0;2.0;0.5;1.5;1.5;3.5;1.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Phoenix Suns;Jaren Jackson Jr.;2;2;27.5;15.0;0.0;3.5;3.5;1.0;0.0;2.0;2.0;2.5;0.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Phoenix Suns;Ziaire Williams;2;1;27.0;10.5;0.5;2.5;3.0;1.5;0.0;0.0;0.0;2.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Phoenix Suns;De'Anthony Melton;2;2;23.0;10.0;0.5;3.0;3.5;2.0;0.5;0.5;3.5;2.0;0.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Phoenix Suns;Steven Adams;2;2;26.5;9.0;7.5;5.5;13.0;4.0;0.5;0.5;2.0;3.0;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Phoenix Suns;John Konchar;3;1;27.3;8.3;2.7;4.3;7.0;1.0;1.3;0.0;0.3;2.0;3.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Phoenix Suns;Brandon Clarke;3;0;19.3;8.3;2.0;1.7;3.7;1.7;0.7;0.7;0.7;1.3;2.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Phoenix Suns;Santi Aldama;2;0;13.0;7.0;1.0;2.0;3.0;1.0;0.5;0.5;0.0;1.5;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Phoenix Suns;Killian Tillie;1;0;19.0;6.0;1.0;2.0;3.0;1.0;1.0;1.0;0.0;0.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Phoenix Suns;Tyus Jones;2;0;16.5;5.5;0.5;1.0;1.5;2.0;0.0;0.0;1.0;0.5;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Phoenix Suns;Xavier Tillman;3;1;13.7;5.0;1.3;2.0;3.3;3.0;1.0;0.0;1.0;1.0;3.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Phoenix Suns;Kyle Anderson;3;1;23.0;4.0;1.0;5.0;6.0;2.3;1.7;0.3;2.7;2.3;0.9
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Phoenix Suns;Sam Merrill;1;0;8.0;3.0;0.0;2.0;2.0;1.0;0.0;0.0;0.0;1.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Phoenix Suns;Jarrett Culver;1;0;11.0;0.0;0.0;2.0;2.0;1.0;0.0;0.0;1.0;1.0;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Phoenix Suns;Yves Pons;1;0;3.0;0.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Phoenix Suns;Total;3;"";"";110.0;16.0;36.3;52.3;23.7;7.7;4.7;14.7;19.0;1.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Sacramento Kings;Desmond Bane;3;3;28.3;23.3;0.0;3.7;3.7;1.7;1.0;0.3;1.7;1.7;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Sacramento Kings;Dillon Brooks;2;2;27.5;22.0;2.0;4.0;6.0;1.5;1.5;0.0;1.0;2.0;1.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Sacramento Kings;Jaren Jackson Jr.;3;3;25.3;19.7;1.3;5.7;7.0;1.7;0.7;2.0;1.7;4.3;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Sacramento Kings;Ja Morant;1;1;30.0;18.0;2.0;5.0;7.0;9.0;0.0;0.0;4.0;1.0;2.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Sacramento Kings;De'Anthony Melton;2;0;20.5;16.5;1.0;3.0;4.0;3.5;2.0;0.5;0.5;1.5;7.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Sacramento Kings;Brandon Clarke;2;0;15.5;14.5;0.5;5.0;5.5;1.5;0.0;1.0;0.0;1.5;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Sacramento Kings;Kyle Anderson;3;0;21.3;9.0;0.3;4.3;4.7;4.3;0.3;0.0;1.0;1.0;4.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Sacramento Kings;Tyus Jones;3;2;23.3;8.3;0.0;3.3;3.3;4.7;0.3;0.0;0.3;0.3;14.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Sacramento Kings;Ziaire Williams;1;0;17.0;8.0;0.0;2.0;2.0;1.0;0.0;0.0;0.0;3.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Sacramento Kings;John Konchar;3;1;20.7;6.7;3.0;5.3;8.3;1.7;0.7;0.7;0.3;1.7;5.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Sacramento Kings;Steven Adams;3;3;26.0;6.0;5.0;6.0;11.0;4.7;1.3;1.0;1.3;2.7;3.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Sacramento Kings;Killian Tillie;3;0;16.7;5.7;1.0;0.0;1.0;0.3;1.0;1.0;0.3;3.0;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Sacramento Kings;Santi Aldama;1;0;10.0;3.0;1.0;2.0;3.0;1.0;0.0;2.0;0.0;1.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Sacramento Kings;Tyrell Terry;1;0;3.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Sacramento Kings;Xavier Tillman;3;0;11.0;1.3;1.0;2.0;3.0;1.7;1.0;0.0;1.0;0.7;1.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Sacramento Kings;Jarrett Culver;2;0;5.5;1.0;0.0;1.0;1.0;0.5;0.0;0.0;0.0;0.5;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Sacramento Kings;Yves Pons;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Sacramento Kings;Shaq Buchanan;1;0;3.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;1.0;1.0;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Sacramento Kings;Total;3;"";"";126.3;15.0;42.0;57.0;29.3;8.7;6.7;10.3;21.7;2.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Dallas Mavericks;Ja Morant;2;2;36.5;27.0;3.5;5.5;9.0;7.0;1.5;0.0;7.5;2.5;0.9
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Dallas Mavericks;Desmond Bane;3;3;32.0;19.7;0.7;5.0;5.7;1.7;1.0;0.7;1.3;2.3;1.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Dallas Mavericks;Jaren Jackson Jr.;4;4;31.0;14.3;1.5;4.5;6.0;0.8;0.8;0.8;2.0;4.0;0.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Dallas Mavericks;Dillon Brooks;2;2;31.5;13.0;0.5;3.0;3.5;2.5;1.0;0.0;1.5;5.0;1.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Dallas Mavericks;Kyle Anderson;1;0;19.0;12.0;1.0;4.0;5.0;1.0;0.0;0.0;0.0;0.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Dallas Mavericks;De'Anthony Melton;4;0;23.3;9.5;1.0;3.0;4.0;2.3;2.3;0.8;1.8;2.8;1.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Dallas Mavericks;Brandon Clarke;1;1;20.0;9.0;0.0;1.0;1.0;1.0;1.0;2.0;1.0;1.0;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Dallas Mavericks;Ziaire Williams;2;2;26.0;8.0;0.5;1.5;2.0;1.5;0.0;0.0;0.0;3.5;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Dallas Mavericks;Steven Adams;4;3;27.8;7.0;4.0;5.8;9.8;2.8;1.5;0.5;2.3;2.0;1.2
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Dallas Mavericks;Tyus Jones;3;2;27.7;7.0;0.3;3.7;4.0;5.7;1.3;0.0;0.7;0.3;8.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Dallas Mavericks;Killian Tillie;3;0;16.3;4.3;0.0;1.0;1.0;1.0;1.7;0.3;0.7;1.3;1.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Dallas Mavericks;Xavier Tillman;4;0;12.8;4.3;1.3;1.8;3.0;1.0;0.8;0.5;2.3;1.8;0.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Dallas Mavericks;Santi Aldama;4;0;10.0;2.3;0.3;1.8;2.0;0.3;0.0;0.3;0.3;1.3;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Dallas Mavericks;Jarrett Culver;2;0;4.0;2.0;0.5;0.0;0.5;0.0;0.5;0.0;1.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Dallas Mavericks;John Konchar;4;1;18.3;1.5;1.8;2.3;4.0;1.0;0.3;0.3;0.3;1.3;4.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Dallas Mavericks;Dakota Mathias;1;0;5.0;0.0;0.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Dallas Mavericks;Total;4;"";"";92.3;13.3;32.5;45.8;20.5;10.5;4.3;16.0;21.8;1.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Houston Rockets;Ja Morant;2;2;30.0;22.0;1.0;4.0;5.0;6.0;1.5;0.5;3.0;2.5;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Houston Rockets;Desmond Bane;4;4;31.0;20.8;0.0;4.0;4.0;3.8;1.8;0.3;1.3;2.8;3.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Houston Rockets;Dillon Brooks;3;3;27.0;20.3;0.3;1.7;2.0;2.0;1.7;0.0;1.3;3.0;1.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Houston Rockets;Jaren Jackson Jr.;3;3;19.3;13.7;0.3;4.7;5.0;1.0;1.3;2.0;1.7;3.7;0.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Houston Rockets;Killian Tillie;1;0;17.0;12.0;1.0;2.0;3.0;2.0;1.0;0.0;0.0;2.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Houston Rockets;Tyus Jones;4;2;24.5;10.8;0.3;2.5;2.8;5.8;1.8;0.0;0.3;0.5;23.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Houston Rockets;Kyle Anderson;4;1;21.8;10.3;0.8;5.0;5.8;2.0;1.5;1.0;1.3;2.3;1.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Houston Rockets;Steven Adams;4;4;25.8;9.0;3.5;5.3;8.8;3.8;1.0;0.8;1.3;2.5;3.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Houston Rockets;Sam Merrill;1;0;9.0;9.0;1.0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Houston Rockets;Brandon Clarke;3;0;22.3;8.7;1.3;2.3;3.7;2.0;1.0;1.7;0.7;3.0;3.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Houston Rockets;De'Anthony Melton;4;0;20.0;7.5;0.0;3.3;3.3;1.8;1.5;0.3;2.3;2.3;0.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Houston Rockets;Ziaire Williams;3;1;19.3;6.3;0.0;2.3;2.3;0.7;0.3;0.7;0.3;2.7;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Houston Rockets;Xavier Tillman;3;0;12.3;4.3;1.3;2.7;4.0;1.0;0.3;0.7;0.3;2.0;3.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Houston Rockets;Jarrett Culver;3;0;7.3;3.3;0.0;0.3;0.3;0.7;0.3;0.0;0.3;0.3;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Houston Rockets;Santi Aldama;2;0;5.0;3.0;1.0;0.5;1.5;1.0;0.0;0.0;0.0;0.5;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Houston Rockets;John Konchar;4;0;12.5;2.3;0.3;2.3;2.5;0.5;0.3;0.0;0.0;0.8;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. Houston Rockets;Total;4;"";"";120.8;8.8;35.8;44.5;27.0;12.5;6.3;11.3;24.0;2.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Dillon Brooks;2;2;27.0;23.0;1.0;3.0;4.0;2.5;0.0;0.0;1.5;2.5;1.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Ja Morant;3;3;30.3;22.3;1.7;5.3;7.0;9.0;1.0;0.7;2.3;1.7;3.9
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Desmond Bane;4;4;27.0;16.3;1.0;2.8;3.8;3.0;0.3;0.0;1.5;4.0;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Jaren Jackson Jr.;4;4;23.3;15.3;1.5;4.0;5.5;0.5;1.0;2.5;0.8;2.5;0.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Brandon Clarke;4;0;16.5;13.0;2.5;3.3;5.8;2.0;0.8;0.3;0.3;1.8;8.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Ziaire Williams;4;2;20.5;11.5;1.5;1.3;2.8;0.8;0.5;0.0;0.8;2.5;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. New Orleans Pelicans;De'Anthony Melton;4;0;21.0;10.8;0.5;2.3;2.8;2.0;1.0;0.5;1.0;1.8;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Steven Adams;4;4;29.8;9.3;4.0;5.5;9.5;4.0;1.0;1.0;1.3;2.8;3.2
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Tyus Jones;4;1;19.3;8.0;0.3;1.5;1.8;5.0;0.8;0.0;1.0;0.3;5.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Kyle Anderson;4;0;19.0;6.3;0.3;2.8;3.0;2.8;0.3;0.3;1.0;0.8;2.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. New Orleans Pelicans;John Konchar;3;0;18.0;3.7;1.0;3.7;4.7;1.7;0.3;0.3;1.3;0.7;1.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Xavier Tillman;2;0;7.5;2.5;0.0;0.0;0.0;0.5;1.0;0.0;0.0;1.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Jarrett Culver;2;0;9.0;1.5;0.5;0.0;0.5;1.5;1.0;0.5;1.5;3.0;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Yves Pons;2;0;7.5;1.0;1.0;0.5;1.5;0.0;0.0;0.5;0.5;0.5;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Killian Tillie;1;0;8.0;0.0;0.0;2.0;2.0;0.0;0.0;1.0;2.0;1.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Total;4;"";"";123.8;14.8;32.3;47.0;30.3;7.5;6.0;12.5;21.8;2.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. San Antonio Spurs;Ja Morant;3;3;34.7;41.0;1.0;5.0;6.0;6.0;0.7;0.0;1.7;0.7;3.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. San Antonio Spurs;Dillon Brooks;1;1;31.0;21.0;2.0;4.0;6.0;4.0;0.0;0.0;2.0;5.0;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. San Antonio Spurs;Tyus Jones;3;1;28.0;18.7;0.3;3.7;4.0;3.7;1.3;0.0;0.3;0.7;11.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. San Antonio Spurs;Desmond Bane;4;4;31.8;15.3;0.3;3.0;3.3;3.8;0.5;0.5;1.3;1.3;3.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. San Antonio Spurs;De'Anthony Melton;3;0;24.0;12.7;0.7;4.0;4.7;0.7;1.3;0.3;2.3;2.3;0.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. San Antonio Spurs;Jaren Jackson Jr.;4;4;26.8;12.3;2.5;5.0;7.5;2.3;1.3;3.0;2.8;3.0;0.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. San Antonio Spurs;Brandon Clarke;4;0;18.8;10.8;1.8;4.0;5.8;1.8;0.5;1.0;0.8;2.0;2.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. San Antonio Spurs;Steven Adams;4;4;29.3;7.0;4.5;6.3;10.8;3.3;0.8;1.5;1.8;2.8;1.9
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. San Antonio Spurs;Kyle Anderson;3;1;23.7;5.7;1.3;4.0;5.3;4.0;1.0;0.3;1.3;1.7;3.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. San Antonio Spurs;Ziaire Williams;3;2;21.0;4.7;0.0;2.0;2.0;1.0;0.7;0.3;1.0;1.3;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. San Antonio Spurs;Killian Tillie;3;0;18.3;3.7;0.7;1.7;2.3;1.7;0.7;0.7;0.3;1.3;5.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. San Antonio Spurs;Santi Aldama;1;0;13.0;3.0;1.0;1.0;2.0;0.0;0.0;1.0;1.0;1.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. San Antonio Spurs;John Konchar;2;0;16.0;1.0;1.0;2.0;3.0;1.5;0.0;0.5;0.0;0.5;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. San Antonio Spurs;Dakota Mathias;1;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. San Antonio Spurs;Xavier Sneed;1;0;6.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;2.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. San Antonio Spurs;Xavier Tillman;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. San Antonio Spurs;Yves Pons;1;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. San Antonio Spurs;Tyrell Terry;1;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;vs. San Antonio Spurs;Total;4;"";"";116.5;13.3;36.0;49.3;25.5;7.3;7.8;12.5;17.3;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;October;Ja Morant;6;6;35.3;28.7;1.0;4.2;5.2;7.7;1.8;0.3;5.0;2.0;1.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;October;Desmond Bane;6;6;29.7;18.8;0.5;3.7;4.2;2.3;1.2;0.3;2.0;2.0;1.2
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;October;De'Anthony Melton;6;6;29.8;13.7;1.2;3.8;5.0;2.8;1.8;0.8;1.5;1.8;1.9
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;October;Jaren Jackson Jr.;6;6;27.3;12.7;1.0;4.2;5.2;1.3;0.8;1.7;1.7;3.7;0.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;October;Steven Adams;6;6;25.0;10.2;4.7;5.0;9.7;3.0;0.8;0.3;1.7;1.7;1.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;October;Kyle Anderson;6;0;21.5;7.2;1.5;4.0;5.5;2.2;0.8;0.8;0.8;1.3;2.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;October;Tyus Jones;6;0;14.3;5.5;0.0;1.5;1.5;3.0;0.7;0.0;0.0;0.7;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;October;Sam Merrill;2;0;14.0;4.5;0.0;0.0;0.0;1.5;0.0;0.0;1.0;0.5;1.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;October;Santi Aldama;2;0;5.5;4.5;1.0;0.5;1.5;0.0;0.0;0.0;0.0;1.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;October;Ziaire Williams;6;0;17.7;4.3;0.3;1.2;1.5;0.7;0.7;0.3;0.8;1.8;0.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;October;Brandon Clarke;5;0;13.4;4.2;1.2;2.2;3.4;1.0;0.2;0.4;0.2;1.6;5.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;October;Xavier Tillman;4;0;16.8;3.5;1.3;2.8;4.0;1.3;2.0;0.3;0.5;0.3;2.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;October;John Konchar;5;0;14.2;2.6;1.2;2.0;3.2;1.2;0.6;0.4;0.6;1.6;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;October;Jarrett Culver;1;0;6.0;1.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;October;Killian Tillie;2;0;5.5;0.0;1.5;0.5;2.0;0.0;1.0;0.5;0.5;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;October;Total;6;"";"";112.2;13.8;33.3;47.2;26.2;11.0;5.7;15.0;18.3;1.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;November;Ja Morant;13;13;31.3;22.0;1.5;4.3;5.8;6.4;1.5;0.2;2.3;1.0;2.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;November;Dillon Brooks;8;7;25.8;18.4;0.9;2.8;3.6;2.1;1.4;0.3;2.0;3.4;1.1
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;November;Jaren Jackson Jr.;15;15;26.7;16.5;1.3;4.6;5.9;0.8;0.8;2.3;1.4;3.4;0.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;November;Desmond Bane;15;15;28.7;14.8;0.6;3.4;4.0;1.8;0.6;0.3;1.3;2.7;1.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;November;Brandon Clarke;13;0;17.2;8.8;2.1;2.8;4.9;1.5;0.5;1.0;0.5;1.9;3.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;November;De'Anthony Melton;12;6;22.4;8.2;0.8;3.0;3.8;2.1;1.3;0.6;1.4;1.6;1.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;November;Kyle Anderson;15;2;21.7;8.1;0.9;4.2;5.1;2.5;0.9;0.3;1.0;1.5;2.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;November;Tyus Jones;15;2;18.1;6.3;0.2;2.2;2.4;3.6;0.7;0.1;0.9;0.3;4.2
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;November;Ziaire Williams;12;0;19.1;5.3;0.3;1.3;1.6;0.7;0.3;0.3;0.4;1.8;1.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;November;Steven Adams;15;15;24.1;4.9;3.1;4.3;7.3;2.7;0.9;0.9;1.5;1.7;1.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;November;Xavier Tillman;10;0;11.1;4.3;0.9;1.5;2.4;1.2;0.7;0.1;0.5;1.0;2.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;November;Jarrett Culver;5;0;8.8;4.2;0.2;1.0;1.2;1.0;0.2;0.0;0.4;0.0;2.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;November;Sam Merrill;4;0;7.5;4.0;0.3;1.5;1.8;0.3;0.0;0.0;0.0;0.5;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;November;John Konchar;14;0;14.4;3.7;0.9;2.7;3.6;1.1;0.6;0.1;0.6;1.0;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;November;Killian Tillie;5;0;8.2;3.0;0.2;0.2;0.4;0.4;0.4;0.8;0.0;1.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;November;Santi Aldama;8;0;9.0;2.6;0.8;1.5;2.3;1.1;0.0;0.3;0.0;0.8;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;November;Yves Pons;1;0;3.0;0.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;November;Total;15;"";"";109.2;12.6;34.9;47.5;24.5;8.8;6.5;12.0;19.0;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;December;Ja Morant;6;6;31.8;26.5;1.3;4.7;6.0;6.2;1.2;0.5;3.2;1.8;1.9
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;December;Dillon Brooks;11;11;31.8;20.0;0.6;2.6;3.3;3.2;1.1;0.0;1.8;3.5;1.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;December;Desmond Bane;16;16;30.6;18.9;0.3;4.4;4.7;2.6;1.3;0.6;1.3;2.5;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;December;Jaren Jackson Jr.;15;15;28.3;17.5;1.1;3.7;4.8;1.3;1.2;1.5;1.9;3.3;0.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;December;De'Anthony Melton;12;1;23.0;11.2;1.1;3.2;4.3;3.3;1.9;0.7;1.9;1.9;1.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;December;Brandon Clarke;5;0;16.2;10.4;0.6;3.8;4.4;1.2;0.0;1.0;0.8;1.0;1.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;December;Tyus Jones;15;10;27.3;9.8;0.5;2.7;3.1;5.0;1.3;0.0;0.9;0.5;5.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;December;Kyle Anderson;12;3;23.6;8.5;0.4;4.9;5.3;2.8;1.3;0.7;1.2;1.8;2.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;December;Steven Adams;16;16;27.0;8.1;5.1;5.6;10.6;3.1;0.9;0.3;1.7;1.7;1.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;December;John Konchar;14;2;19.1;5.7;1.4;3.1;4.6;1.6;1.1;0.2;0.3;1.2;5.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;December;Xavier Tillman;15;0;15.8;5.7;1.7;1.9;3.6;1.3;1.4;0.8;0.9;1.7;1.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;December;Jarrett Culver;6;0;9.0;4.8;0.2;1.5;1.7;1.5;0.8;0.2;0.2;0.8;9.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;December;Santi Aldama;7;0;12.1;4.4;1.3;2.0;3.3;0.4;0.3;0.3;0.9;1.4;0.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;December;Killian Tillie;15;0;15.1;4.0;0.7;1.4;2.1;0.7;0.7;0.5;0.3;1.9;2.2
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;December;Shaq Buchanan;2;0;5.0;1.0;0.5;0.5;1.0;1.0;0.5;0.0;1.0;0.5;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;December;Tyrell Terry;2;0;1.5;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;December;Yves Pons;4;0;2.8;0.8;0.0;0.5;0.5;0.0;0.0;0.0;0.0;0.3;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;December;Dakota Mathias;1;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;December;Xavier Sneed;1;0;6.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;2.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;December;Ziaire Williams;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;December;Total;16;"";"";112.5;13.3;34.2;47.5;25.1;11.6;5.4;12.8;19.6;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;January;Ja Morant;15;15;34.9;29.1;1.6;4.8;6.4;7.1;0.9;0.5;4.0;1.4;1.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;January;Desmond Bane;12;12;31.8;20.8;0.8;3.6;4.3;3.1;1.5;0.4;1.8;2.3;1.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;January;Jaren Jackson Jr.;16;16;28.8;16.7;1.8;5.0;6.8;1.0;1.1;3.3;2.0;3.5;0.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;January;Brandon Clarke;15;1;22.2;12.5;2.4;3.5;5.9;1.3;0.7;1.4;0.6;1.5;2.2
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;January;Dillon Brooks;2;2;15.5;10.0;1.5;0.5;2.0;2.5;2.0;1.0;0.5;1.5;5.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;January;Tyus Jones;10;1;20.0;9.9;0.3;2.9;3.2;4.4;0.8;0.0;0.8;0.5;5.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;January;Ziaire Williams;14;12;25.4;9.6;0.4;1.9;2.3;1.1;0.6;0.1;0.6;2.0;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;January;De'Anthony Melton;14;0;20.4;8.0;1.1;3.9;5.1;2.8;1.5;0.4;1.1;1.9;2.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;January;Kyle Anderson;7;3;22.7;7.3;1.3;4.0;5.3;3.3;1.6;0.7;1.0;1.1;3.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;January;John Konchar;12;4;24.2;5.7;1.3;4.7;6.0;1.8;0.5;0.5;0.4;1.6;4.2
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;January;Steven Adams;12;11;28.1;4.9;4.8;5.5;10.3;3.3;1.3;1.0;1.6;1.8;2.1
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;January;Killian Tillie;9;3;16.1;4.4;0.6;1.3;1.9;0.8;0.9;0.2;0.6;2.0;1.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;January;Jarrett Culver;11;0;11.1;3.6;0.5;1.3;1.8;0.9;0.7;0.2;0.6;1.9;1.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;January;Xavier Tillman;9;0;10.1;3.2;0.7;1.6;2.2;0.4;0.6;0.0;0.6;1.4;0.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;January;Santi Aldama;10;0;10.7;2.9;0.6;1.4;2.0;0.2;0.0;0.3;0.3;0.9;0.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;January;Dakota Mathias;5;0;3.2;1.2;0.0;0.4;0.4;0.2;0.2;0.0;0.0;0.2;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;January;DaQuan Jeffries;3;0;3.0;0.7;0.0;0.7;0.7;0.3;0.0;0.0;0.0;0.3;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;January;Xavier Sneed;1;0;1.0;0.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;January;Jon Teske;3;0;2.7;0.0;0.0;0.7;0.7;0.3;0.3;0.0;0.0;0.3;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;January;Yves Pons;2;0;4.5;0.0;0.5;0.5;1.0;0.0;0.0;0.0;0.0;0.5;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;January;Total;16;"";"";114.4;14.5;35.7;50.2;24.6;9.9;7.8;12.8;19.0;1.9
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;February;Ja Morant;9;9;33.1;33.0;1.1;4.4;5.6;5.9;0.9;0.4;3.3;1.6;1.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;February;Jaren Jackson Jr.;10;10;27.1;16.8;2.8;4.5;7.3;1.0;0.9;1.8;1.3;3.6;0.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;February;Desmond Bane;10;10;29.9;14.7;0.8;4.0;4.8;3.2;1.3;0.3;1.8;3.5;1.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;February;Brandon Clarke;10;0;21.4;12.0;3.0;4.0;7.0;1.7;0.8;0.9;0.5;2.9;3.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;February;De'Anthony Melton;10;0;21.4;11.5;0.8;4.2;5.0;2.5;1.6;0.4;1.5;1.2;1.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;February;Ziaire Williams;10;10;24.8;9.7;0.5;1.8;2.3;0.9;0.8;0.0;0.6;2.3;1.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;February;Steven Adams;10;10;27.7;9.2;5.8;6.5;12.3;4.8;0.2;1.1;1.8;2.7;2.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;February;Tyus Jones;10;1;18.0;8.3;0.0;1.1;1.1;3.9;0.9;0.0;0.3;0.5;13.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;February;Kyle Anderson;10;0;19.2;5.6;1.4;4.3;5.7;2.9;0.8;0.8;1.1;1.9;2.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;February;John Konchar;9;0;18.0;4.6;0.8;3.2;4.0;1.0;0.3;0.3;0.2;1.4;4.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;February;Jarrett Culver;4;0;5.8;2.8;0.5;0.0;0.5;0.5;0.3;0.3;0.8;1.0;0.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;February;Xavier Tillman;2;0;2.0;2.5;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;February;Killian Tillie;2;0;9.0;1.5;1.0;0.5;1.5;0.0;0.0;0.0;0.0;1.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;February;Total;10;"";"";123.5;17.2;37.6;54.8;27.3;8.5;6.1;12.4;21.9;2.2
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;March;Ja Morant;7;7;33.0;27.4;1.1;3.6;4.7;7.1;1.0;0.3;3.3;1.9;2.2
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;March;Desmond Bane;14;14;29.2;21.1;0.7;3.9;4.6;3.7;1.2;0.3;1.0;2.0;3.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;March;Dillon Brooks;8;8;26.6;17.3;1.3;1.9;3.1;2.1;1.0;0.4;1.1;3.6;1.9
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;March;Jaren Jackson Jr.;13;13;24.8;15.5;1.3;3.5;4.8;1.3;0.7;2.5;1.6;3.8;0.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;March;De'Anthony Melton;14;0;21.7;13.2;0.4;3.6;4.1;2.2;1.0;0.4;1.6;1.9;1.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;March;Tyus Jones;14;7;23.4;10.5;0.3;2.4;2.6;5.5;0.9;0.0;0.4;0.4;15.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;March;Brandon Clarke;12;0;20.8;10.3;2.3;3.3;5.6;1.0;0.7;1.5;0.7;2.2;1.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;March;Steven Adams;14;14;26.3;7.4;5.0;5.3;10.3;3.1;0.9;1.0;0.9;2.4;3.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;March;Ziaire Williams;14;6;18.9;7.4;0.5;1.9;2.4;1.4;0.5;0.4;0.9;1.4;1.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;March;Kyle Anderson;14;1;20.1;7.1;1.1;4.1;5.1;2.1;1.4;0.7;0.7;1.4;3.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;March;Xavier Tillman;8;0;12.1;5.6;1.6;2.3;3.9;1.0;0.5;0.1;0.8;1.0;1.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;March;John Konchar;13;0;15.0;4.3;0.8;4.0;4.8;1.5;0.5;0.4;0.3;0.8;4.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;March;Jarrett Culver;8;0;5.9;1.8;0.4;0.3;0.6;0.6;0.5;0.1;0.5;1.0;1.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;March;Yves Pons;2;0;5.0;1.0;0.5;0.0;0.5;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;March;Santi Aldama;2;0;11.0;1.0;0.5;1.0;1.5;0.5;0.0;1.0;1.0;1.0;0.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;March;Killian Tillie;3;0;6.3;0.0;0.0;1.0;1.0;0.7;0.0;0.3;0.7;1.3;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;March;Total;14;"";"";121.9;14.4;35.5;49.9;27.5;9.2;7.4;11.2;20.1;2.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;April;Dillon Brooks;3;3;28.3;21.7;0.7;2.0;2.7;4.7;0.3;0.3;1.3;2.3;3.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;April;Ja Morant;1;1;27.0;21.0;2.0;2.0;4.0;9.0;0.0;1.0;4.0;2.0;2.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;April;Desmond Bane;3;3;26.7;18.3;0.7;2.7;3.3;1.7;2.7;0.0;1.7;4.3;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;April;Jaren Jackson Jr.;3;3;28.0;16.7;0.7;5.3;6.0;1.0;0.7;2.7;1.3;2.7;0.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;April;Ziaire Williams;5;3;27.8;15.4;0.8;1.8;2.6;1.6;0.8;0.0;0.6;2.0;2.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;April;Santi Aldama;3;0;20.7;13.3;3.0;3.7;6.7;2.0;1.3;0.3;1.7;2.3;1.2
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;April;De'Anthony Melton;5;2;25.6;13.0;1.0;3.8;4.8;3.6;0.4;1.0;2.0;2.2;1.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;April;Brandon Clarke;4;0;19.8;11.5;1.5;1.8;3.3;1.5;1.3;0.0;0.3;1.5;6.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;April;Tyus Jones;3;2;25.3;9.7;0.0;1.3;1.3;5.7;0.7;0.0;1.0;0.3;5.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;April;Kyle Anderson;5;2;22.8;9.6;0.6;5.0;5.6;3.6;1.0;1.0;1.8;2.2;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;April;John Konchar;5;1;20.8;7.8;3.0;2.6;5.6;3.2;0.6;0.2;0.6;1.8;5.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;April;Jarrett Culver;2;0;21.5;7.0;0.0;2.0;2.0;1.0;0.5;0.0;1.5;2.0;0.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;April;Xavier Tillman;5;2;18.4;6.2;1.4;1.4;2.8;2.8;1.0;0.0;0.4;1.2;7.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;April;Steven Adams;3;3;24.3;3.0;3.0;7.7;10.7;5.7;0.7;0.7;2.0;3.0;2.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;April;Yves Pons;3;0;13.0;2.7;0.7;1.3;2.0;0.3;0.3;1.3;0.3;1.3;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;April;Total;5;"";"";119.4;13.6;31.6;45.2;30.8;9.0;5.6;12.6;21.6;2.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Atlantic Division;Ja Morant;6;6;37.0;32.3;2.0;3.0;5.0;7.7;1.5;0.2;3.7;1.2;2.1
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Atlantic Division;Dillon Brooks;4;4;30.0;20.3;1.0;2.8;3.8;2.0;1.5;0.8;2.3;4.3;0.9
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Atlantic Division;Desmond Bane;9;9;32.3;19.6;0.9;5.4;6.3;2.3;1.4;0.3;1.7;2.7;1.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Atlantic Division;Jaren Jackson Jr.;9;9;30.4;17.6;1.4;4.1;5.6;1.3;0.6;2.9;1.2;3.4;1.1
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Atlantic Division;De'Anthony Melton;8;1;19.9;11.3;1.0;3.0;4.0;2.5;0.8;0.6;1.5;1.1;1.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Atlantic Division;Brandon Clarke;8;0;20.6;10.6;2.8;3.4;6.1;0.9;0.6;1.0;0.3;1.8;3.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Atlantic Division;Ziaire Williams;7;5;23.1;9.7;0.6;2.4;3.0;1.3;0.4;0.0;0.4;1.3;3.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Atlantic Division;Jarrett Culver;3;0;23.0;9.3;0.0;2.7;2.7;0.3;1.3;0.0;0.7;2.3;0.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Atlantic Division;Kyle Anderson;9;1;20.0;7.9;1.0;3.4;4.4;2.8;2.3;0.9;0.7;1.9;4.2
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Atlantic Division;Tyus Jones;9;3;20.8;7.4;0.6;1.6;2.1;4.7;1.2;0.0;0.4;0.6;10.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Atlantic Division;Santi Aldama;4;0;17.5;6.8;2.5;3.3;5.8;1.3;0.5;0.3;1.3;1.5;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Atlantic Division;Xavier Tillman;2;1;27.0;6.5;2.5;2.0;4.5;2.5;1.5;0.5;1.0;3.0;2.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Atlantic Division;Steven Adams;9;9;26.7;4.9;5.0;4.2;9.2;2.8;0.9;0.6;1.7;1.7;1.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Atlantic Division;John Konchar;9;1;17.0;4.9;1.4;3.2;4.7;1.9;0.6;0.3;0.4;1.0;4.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Atlantic Division;Killian Tillie;2;1;17.0;3.0;2.0;2.0;4.0;1.0;1.0;1.0;1.0;5.0;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Atlantic Division;Yves Pons;3;0;13.3;3.0;0.3;1.7;2.0;0.3;0.0;1.0;0.0;1.3;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Atlantic Division;Dakota Mathias;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Atlantic Division;DaQuan Jeffries;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Atlantic Division;Xavier Sneed;1;0;1.0;0.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Atlantic Division;Jon Teske;1;0;1.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Atlantic Division;Total;10;"";"";116.1;16.4;32.9;49.3;24.6;10.4;6.9;0.0;19.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Central Division;Ja Morant;7;7;32.7;30.3;1.0;4.7;5.7;6.3;0.7;0.7;2.7;1.6;2.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Central Division;Desmond Bane;8;8;28.0;20.4;0.5;3.4;3.9;4.6;1.1;0.5;1.1;2.5;4.1
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Central Division;Jaren Jackson Jr.;10;10;25.9;16.4;1.3;4.2;5.5;0.9;0.6;2.6;2.2;3.7;0.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Central Division;Dillon Brooks;3;3;24.3;15.7;1.0;1.3;2.3;3.3;1.3;1.0;1.0;2.3;3.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Central Division;De'Anthony Melton;9;1;22.3;13.4;1.0;3.4;4.4;2.9;1.6;0.2;1.7;1.7;1.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Central Division;Brandon Clarke;8;0;19.1;11.3;1.9;3.3;5.1;1.3;0.9;1.5;0.8;2.1;1.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Central Division;Tyus Jones;9;3;21.4;10.1;0.1;2.0;2.1;6.0;0.9;0.0;0.4;0.4;13.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Central Division;Kyle Anderson;7;0;23.0;7.7;1.4;5.7;7.1;2.6;1.1;1.0;1.0;2.4;2.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Central Division;Ziaire Williams;10;6;22.3;7.7;0.1;1.9;2.0;1.3;0.7;0.2;0.9;1.4;1.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Central Division;Steven Adams;10;10;26.7;7.4;6.5;7.0;13.5;4.1;0.9;1.3;1.3;1.2;3.2
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Central Division;John Konchar;8;1;20.3;6.6;0.9;4.6;5.5;1.6;0.5;0.6;0.3;1.1;6.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Central Division;Xavier Tillman;5;0;12.4;6.2;1.4;2.0;3.4;0.8;0.2;0.2;1.0;1.0;0.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Central Division;Killian Tillie;3;1;14.0;3.3;1.0;1.7;2.7;0.7;0.3;0.0;0.3;1.0;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Central Division;Dakota Mathias;2;0;3.5;3.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.5;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Central Division;Jarrett Culver;8;0;8.1;3.0;0.9;0.6;1.5;1.0;0.4;0.1;0.3;1.3;4.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Central Division;Santi Aldama;6;0;11.5;2.8;0.7;1.3;2.0;0.3;0.0;0.3;0.5;1.0;0.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Central Division;DaQuan Jeffries;1;0;4.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Central Division;Jon Teske;1;0;3.0;0.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;0.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Central Division;Yves Pons;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Central Division;Total;10;"";"";123.6;15.6;37.9;53.5;29.2;8.6;8.3;0.0;18.8;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pacific Division;Ja Morant;12;12;33.5;28.3;0.9;4.8;5.8;6.3;1.5;0.4;3.9;1.8;1.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pacific Division;Desmond Bane;17;17;29.9;18.9;0.4;4.1;4.5;2.5;1.2;0.6;1.5;2.2;1.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pacific Division;Jaren Jackson Jr.;16;16;28.0;18.8;1.9;5.0;6.9;1.1;1.3;2.2;1.6;3.4;0.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pacific Division;Dillon Brooks;7;7;25.7;18.3;1.1;1.9;3.0;2.0;1.1;0.0;1.3;2.6;1.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pacific Division;De'Anthony Melton;15;6;24.2;11.6;1.1;3.8;4.9;3.1;1.7;0.5;1.7;2.1;1.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pacific Division;Brandon Clarke;14;0;19.5;11.1;1.9;3.7;5.6;1.7;0.4;1.1;0.5;1.5;3.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pacific Division;Ziaire Williams;12;4;21.7;8.1;0.4;1.6;2.0;1.5;0.4;0.2;0.7;2.2;2.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pacific Division;Steven Adams;14;14;25.7;7.6;5.0;5.1;10.1;3.6;0.8;0.5;1.8;2.0;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pacific Division;Kyle Anderson;17;5;22.8;7.5;1.1;4.2;5.3;2.7;0.9;0.8;1.1;1.5;2.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pacific Division;Tyus Jones;17;5;20.4;7.4;0.2;2.9;3.1;4.3;0.6;0.0;0.6;0.5;7.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pacific Division;John Konchar;15;2;18.5;5.3;1.7;3.1;4.8;1.4;0.9;0.1;0.3;1.1;4.2
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pacific Division;Xavier Tillman;15;1;15.3;4.5;1.5;2.5;4.0;1.5;1.3;0.2;0.5;1.0;2.9
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pacific Division;Killian Tillie;9;1;14.6;4.1;0.7;0.9;1.6;0.4;0.8;0.6;0.2;1.4;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pacific Division;Santi Aldama;6;0;10.3;4.0;0.7;1.2;1.8;0.5;0.2;0.7;0.2;0.8;3.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pacific Division;Jarrett Culver;8;0;9.5;2.8;0.3;1.4;1.6;0.9;0.5;0.3;0.5;1.4;1.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pacific Division;Tyrell Terry;1;0;3.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pacific Division;Sam Merrill;2;0;5.0;1.5;0.0;1.5;1.5;0.5;0.0;0.0;0.0;0.5;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pacific Division;Shaq Buchanan;2;0;5.0;1.0;0.5;0.5;1.0;1.0;0.5;0.0;1.0;0.5;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pacific Division;Dakota Mathias;1;0;4.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pacific Division;DaQuan Jeffries;1;0;4.0;0.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;1.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pacific Division;Jon Teske;1;0;4.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pacific Division;Yves Pons;2;0;2.5;0.0;0.5;0.0;0.5;0.0;0.0;0.0;0.0;0.5;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pacific Division;Total;18;"";"";117.3;14.3;36.4;50.8;26.0;10.3;6.2;0.0;18.7;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Southeast Division;Ja Morant;9;9;29.6;23.6;1.0;3.3;4.3;5.1;0.8;0.3;2.7;1.0;1.9
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Southeast Division;Dillon Brooks;4;3;26.8;16.0;1.0;3.0;4.0;4.0;1.3;0.3;1.5;3.5;2.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Southeast Division;Desmond Bane;10;10;26.6;14.9;0.6;3.1;3.7;2.2;1.1;0.4;1.7;2.6;1.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Southeast Division;Jaren Jackson Jr.;10;10;26.5;14.5;1.8;4.0;5.8;1.0;1.1;1.9;1.5;3.2;0.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Southeast Division;De'Anthony Melton;10;3;23.3;9.6;1.0;3.8;4.8;2.5;1.8;0.7;1.2;1.5;2.1
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Southeast Division;Steven Adams;10;10;23.6;8.3;4.7;5.0;9.7;3.2;0.3;1.0;0.9;2.0;3.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Southeast Division;Brandon Clarke;9;0;16.7;7.2;1.9;2.9;4.8;1.4;0.7;0.9;0.6;1.7;2.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Southeast Division;Tyus Jones;9;1;17.9;7.0;0.2;1.0;1.2;3.2;0.4;0.1;0.8;0.3;4.1
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Southeast Division;Kyle Anderson;9;0;19.9;6.2;0.9;4.4;5.3;2.6;0.9;0.4;1.0;1.1;2.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Southeast Division;John Konchar;10;1;17.3;5.3;0.7;4.2;4.9;1.6;0.9;0.5;0.7;1.4;2.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Southeast Division;Ziaire Williams;8;3;17.3;4.9;0.0;1.3;1.3;0.8;0.8;0.1;1.0;1.1;0.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Southeast Division;Xavier Tillman;8;0;8.4;4.3;0.9;1.4;2.3;1.0;0.6;0.1;0.1;0.3;8.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Southeast Division;Sam Merrill;2;0;13.0;3.5;0.0;1.0;1.0;0.5;0.0;0.0;1.0;0.5;0.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Southeast Division;Jarrett Culver;7;0;5.0;2.4;0.1;0.3;0.4;0.4;0.0;0.1;0.3;0.1;1.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Southeast Division;Santi Aldama;5;0;8.0;2.2;0.2;1.2;1.4;0.4;0.2;0.0;0.8;1.8;0.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Southeast Division;Killian Tillie;7;0;7.6;1.9;0.4;0.6;1.0;0.6;0.4;0.6;0.0;1.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Southeast Division;Yves Pons;2;0;1.5;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Southeast Division;Total;10;"";"";110.7;14.0;35.3;49.3;25.6;9.7;6.9;0.0;18.7;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Southwest Division;Ja Morant;10;10;32.8;28.8;1.7;5.0;6.7;7.1;1.1;0.3;3.3;1.7;2.2
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Southwest Division;Dillon Brooks;8;8;28.8;19.3;0.8;2.6;3.4;2.5;0.9;0.0;1.5;3.6;1.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Southwest Division;Desmond Bane;15;15;30.3;17.9;0.5;3.6;4.1;3.1;0.9;0.3;1.3;2.6;2.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Southwest Division;Jaren Jackson Jr.;15;15;25.5;13.9;1.5;4.5;6.1;1.1;1.1;2.1;1.8;3.3;0.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Southwest Division;Tyus Jones;14;6;24.4;10.9;0.3;2.7;3.0;5.1;1.3;0.0;0.6;0.4;8.9
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Southwest Division;Brandon Clarke;12;1;19.0;10.8;1.8;3.1;4.8;1.8;0.8;1.0;0.6;2.1;3.1
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Southwest Division;De'Anthony Melton;15;0;21.9;9.9;0.5;3.1;3.6;1.7;1.5;0.5;1.8;2.3;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Southwest Division;Sam Merrill;1;0;9.0;9.0;1.0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Southwest Division;Steven Adams;16;15;28.1;8.1;4.0;5.7;9.7;3.4;1.1;0.9;1.6;2.5;2.1
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Southwest Division;Kyle Anderson;12;2;21.1;7.9;0.8;3.9;4.7;2.7;0.8;0.5;1.1;1.4;2.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Southwest Division;Ziaire Williams;12;7;21.3;7.9;0.6;1.8;2.3;0.9;0.4;0.3;0.6;2.4;1.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Southwest Division;Killian Tillie;8;0;16.1;4.5;0.4;1.5;1.9;1.3;1.0;0.5;0.6;1.4;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Southwest Division;Xavier Tillman;10;0;10.5;3.5;0.9;1.5;2.4;0.8;0.6;0.4;1.0;1.5;0.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Southwest Division;Santi Aldama;7;0;9.0;2.6;0.6;1.3;1.9;0.4;0.0;0.3;0.3;1.0;1.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Southwest Division;Jarrett Culver;7;0;6.9;2.4;0.3;0.1;0.4;0.7;0.6;0.1;0.9;1.0;0.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Southwest Division;John Konchar;13;1;16.1;2.2;1.0;2.5;3.5;1.1;0.2;0.2;0.4;0.8;2.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Southwest Division;Yves Pons;3;0;5.0;0.7;0.7;0.3;1.0;0.0;0.0;0.3;0.3;0.3;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Southwest Division;Dakota Mathias;2;0;2.5;0.0;0.0;0.0;0.0;0.5;0.5;0.0;0.0;0.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Southwest Division;Xavier Sneed;1;0;6.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;2.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Southwest Division;Tyrell Terry;1;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Southwest Division;Total;16;"";"";113.3;12.5;34.1;46.6;25.8;9.4;6.1;0.0;21.2;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Northwest Division;Ja Morant;13;13;34.1;24.5;1.6;4.5;6.2;7.8;1.2;0.4;3.9;1.6;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Northwest Division;Dillon Brooks;6;6;29.0;19.3;0.7;2.0;2.7;3.3;1.0;0.2;1.8;3.3;1.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Northwest Division;Desmond Bane;17;17;30.6;18.1;0.8;3.4;4.2;2.2;1.5;0.2;1.4;2.9;1.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Northwest Division;Jaren Jackson Jr.;18;18;27.7;16.4;1.2;3.8;5.0;1.2;0.8;2.2;1.6;3.8;0.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Northwest Division;Brandon Clarke;13;0;21.2;10.8;2.5;3.0;5.5;0.8;0.5;1.0;0.5;2.3;1.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Northwest Division;De'Anthony Melton;16;4;23.3;10.1;0.8;4.3;5.1;3.2;1.1;0.6;1.3;1.4;2.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Northwest Division;Ziaire Williams;13;6;23.8;9.6;0.7;1.3;2.0;0.6;0.7;0.3;0.5;2.0;1.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Northwest Division;Tyus Jones;15;5;21.4;8.9;0.1;2.1;2.2;3.7;0.9;0.1;0.9;0.3;4.2
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Northwest Division;Santi Aldama;4;0;13.8;8.8;2.5;2.8;5.3;1.5;0.5;0.3;0.3;0.8;6.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Northwest Division;Kyle Anderson;15;3;21.5;7.8;0.9;4.7;5.6;2.6;0.9;0.5;1.1;1.5;2.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Northwest Division;Sam Merrill;1;0;12.0;6.0;0.0;0.0;0.0;2.0;0.0;0.0;0.0;1.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Northwest Division;Xavier Tillman;13;0;14.1;5.5;1.2;1.4;2.5;1.1;1.2;0.4;0.6;1.5;1.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Northwest Division;Jarrett Culver;4;0;11.0;5.5;0.3;2.0;2.3;2.3;1.3;0.0;1.0;1.5;2.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Northwest Division;Steven Adams;17;17;26.2;5.4;3.4;5.3;8.7;3.1;1.0;0.6;1.6;2.2;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Northwest Division;John Konchar;17;1;18.7;5.4;1.3;3.2;4.5;1.6;0.6;0.2;0.4;1.8;4.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Northwest Division;Killian Tillie;7;0;10.1;2.3;0.3;0.9;1.1;0.0;0.3;0.0;0.4;2.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Northwest Division;Yves Pons;1;0;5.0;2.0;1.0;1.0;2.0;0.0;1.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Northwest Division;Total;18;"";"";114.0;13.4;33.9;47.3;25.3;9.8;5.8;0.0;21.1;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Eastern Conference;Ja Morant;22;22;32.5;28.1;1.3;3.7;5.0;6.2;1.0;0.4;3.0;1.2;2.1
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Eastern Conference;Desmond Bane;27;27;28.9;18.1;0.7;4.0;4.6;3.0;1.2;0.4;1.5;2.6;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Eastern Conference;Dillon Brooks;11;10;27.4;17.5;1.0;2.5;3.5;3.1;1.4;0.6;1.6;3.5;1.9
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Eastern Conference;Jaren Jackson Jr.;29;29;27.5;16.1;1.5;4.1;5.6;1.1;0.8;2.4;1.7;3.4;0.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Eastern Conference;De'Anthony Melton;27;5;22.0;11.4;1.0;3.4;4.4;2.6;1.4;0.5;1.4;1.4;1.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Eastern Conference;Brandon Clarke;25;0;18.7;9.6;2.2;3.2;5.3;1.2;0.7;1.1;0.5;1.8;2.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Eastern Conference;Tyus Jones;27;7;20.0;8.2;0.3;1.5;1.8;4.6;0.9;0.0;0.6;0.4;8.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Eastern Conference;Ziaire Williams;25;14;20.9;7.4;0.2;1.8;2.0;1.1;0.6;0.1;0.8;1.3;1.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Eastern Conference;Kyle Anderson;25;1;20.8;7.2;1.1;4.4;5.5;2.6;1.5;0.8;0.9;1.8;3.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Eastern Conference;Steven Adams;29;29;25.6;6.9;5.4;5.4;10.9;3.4;0.7;1.0;1.3;1.6;2.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Eastern Conference;John Konchar;27;3;18.0;5.6;1.0;4.0;5.0;1.7;0.7;0.5;0.5;1.2;3.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Eastern Conference;Xavier Tillman;15;1;12.2;5.2;1.3;1.7;2.9;1.1;0.6;0.2;0.5;0.9;2.1
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Eastern Conference;Jarrett Culver;18;0;9.4;3.8;0.4;0.8;1.3;0.7;0.4;0.1;0.3;1.0;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Eastern Conference;Santi Aldama;15;0;11.9;3.7;1.0;1.8;2.8;0.6;0.2;0.2;0.8;1.4;0.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Eastern Conference;Sam Merrill;2;0;13.0;3.5;0.0;1.0;1.0;0.5;0.0;0.0;1.0;0.5;0.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Eastern Conference;Killian Tillie;12;2;10.8;2.4;0.8;1.1;1.9;0.7;0.5;0.5;0.3;1.7;2.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Eastern Conference;Dakota Mathias;3;0;2.7;2.0;0.0;0.7;0.7;0.0;0.0;0.0;0.0;0.3;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Eastern Conference;Yves Pons;6;0;7.7;1.5;0.2;0.8;1.0;0.2;0.0;0.5;0.0;0.7;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Eastern Conference;DaQuan Jeffries;2;0;2.5;1.0;0.0;0.5;0.5;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Eastern Conference;Xavier Sneed;1;0;1.0;0.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Eastern Conference;Jon Teske;2;0;2.0;0.0;0.0;0.5;0.5;0.5;0.5;0.0;0.0;0.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Eastern Conference;Total;30;"";"";116.8;15.3;35.4;50.7;26.5;9.6;7.4;0.0;18.8;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Western Conference;Ja Morant;35;35;33.5;27.0;1.4;4.8;6.2;7.1;1.3;0.4;3.7;1.7;1.9
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Western Conference;Dillon Brooks;21;21;27.8;19.0;0.9;2.2;3.0;2.6;1.0;0.0;1.5;3.2;1.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Western Conference;Desmond Bane;49;49;30.3;18.3;0.6;3.7;4.3;2.6;1.2;0.4;1.4;2.6;1.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Western Conference;Jaren Jackson Jr.;49;49;27.1;16.4;1.5;4.4;5.9;1.1;1.0;2.2;1.7;3.5;0.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Western Conference;Brandon Clarke;39;1;19.9;10.9;2.1;3.3;5.4;1.4;0.5;1.0;0.5;1.9;2.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Western Conference;De'Anthony Melton;46;10;23.1;10.5;0.8;3.7;4.5;2.7;1.4;0.5;1.6;1.9;1.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Western Conference;Tyus Jones;46;16;21.9;8.9;0.2;2.6;2.8;4.3;0.9;0.0;0.7;0.4;6.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Western Conference;Ziaire Williams;37;17;22.2;8.6;0.6;1.5;2.1;1.0;0.5;0.2;0.6;2.2;1.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Western Conference;Kyle Anderson;44;10;21.9;7.7;1.0;4.3;5.2;2.7;0.9;0.6;1.1;1.5;2.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Western Conference;Steven Adams;47;46;26.7;7.0;4.1;5.4;9.5;3.4;1.0;0.7;1.7;2.3;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Western Conference;Xavier Tillman;38;1;13.6;4.6;1.2;1.8;3.1;1.2;1.1;0.3;0.7;1.3;1.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Western Conference;Santi Aldama;17;0;10.6;4.5;1.1;1.6;2.6;0.7;0.2;0.4;0.2;0.9;3.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Western Conference;Sam Merrill;4;0;8.0;4.5;0.3;1.0;1.3;0.8;0.0;0.0;0.0;0.5;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Western Conference;John Konchar;45;4;17.9;4.4;1.3;3.0;4.3;1.4;0.6;0.2;0.4;1.3;3.9
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Western Conference;Killian Tillie;24;1;13.8;3.7;0.5;1.1;1.5;0.6;0.7;0.4;0.4;1.6;1.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Western Conference;Jarrett Culver;19;0;8.8;3.2;0.3;1.1;1.3;1.1;0.7;0.2;0.7;1.3;1.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Western Conference;Shaq Buchanan;2;0;5.0;1.0;0.5;0.5;1.0;1.0;0.5;0.0;1.0;0.5;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Western Conference;Tyrell Terry;2;0;1.5;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Western Conference;Yves Pons;6;0;4.2;0.7;0.7;0.3;1.0;0.0;0.2;0.2;0.2;0.3;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Western Conference;Dakota Mathias;3;0;3.0;0.0;0.0;0.0;0.0;0.3;0.3;0.0;0.0;0.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Western Conference;DaQuan Jeffries;1;0;4.0;0.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;1.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Western Conference;Xavier Sneed;1;0;6.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;2.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Western Conference;Jon Teske;1;0;4.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Western Conference;Total;52;"";"";114.9;13.4;34.8;48.3;25.7;9.9;6.0;0.0;20.3;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pre All-Star;Ja Morant;46;46;33.2;26.8;1.3;4.5;5.8;6.9;1.2;0.4;3.4;1.5;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pre All-Star;Dillon Brooks;21;20;28.0;18.4;0.8;2.5;3.3;2.7;1.3;0.2;1.8;3.3;1.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pre All-Star;Desmond Bane;56;56;30.2;17.9;0.6;3.9;4.5;2.5;1.2;0.4;1.6;2.6;1.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pre All-Star;Jaren Jackson Jr.;59;59;27.8;16.7;1.6;4.4;6.0;1.1;1.0;2.2;1.7;3.4;0.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pre All-Star;Brandon Clarke;45;1;19.3;10.5;2.1;3.4;5.5;1.4;0.6;1.1;0.5;1.8;2.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pre All-Star;De'Anthony Melton;51;13;22.7;9.9;1.0;3.5;4.5;2.7;1.6;0.5;1.4;1.7;1.9
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pre All-Star;Tyus Jones;53;14;20.7;8.1;0.2;2.2;2.5;4.2;0.9;0.0;0.7;0.4;6.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pre All-Star;Kyle Anderson;47;8;21.7;7.6;0.9;4.3;5.2;2.7;1.1;0.6;1.0;1.5;2.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pre All-Star;Ziaire Williams;40;19;21.5;7.3;0.3;1.5;1.8;0.9;0.6;0.2;0.6;2.0;1.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pre All-Star;Steven Adams;56;55;26.1;7.0;4.5;5.1;9.6;3.2;0.9;0.7;1.6;1.9;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pre All-Star;John Konchar;52;6;18.6;4.8;1.1;3.3;4.4;1.4;0.7;0.3;0.4;1.3;3.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pre All-Star;Xavier Tillman;39;0;13.1;4.5;1.2;1.8;3.0;1.0;1.1;0.4;0.7;1.3;1.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pre All-Star;Sam Merrill;6;0;9.7;4.2;0.2;1.0;1.2;0.7;0.0;0.0;0.3;0.5;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pre All-Star;Jarrett Culver;27;0;9.2;3.8;0.4;1.1;1.4;1.0;0.6;0.1;0.5;1.1;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pre All-Star;Killian Tillie;32;3;13.3;3.6;0.6;1.1;1.7;0.6;0.7;0.4;0.3;1.7;1.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pre All-Star;Santi Aldama;27;0;10.3;3.3;0.9;1.5;2.4;0.5;0.1;0.3;0.3;1.0;1.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pre All-Star;Dakota Mathias;6;0;2.7;1.0;0.0;0.3;0.3;0.2;0.2;0.0;0.0;0.2;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pre All-Star;Shaq Buchanan;2;0;5.0;1.0;0.5;0.5;1.0;1.0;0.5;0.0;1.0;0.5;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pre All-Star;Tyrell Terry;2;0;1.5;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pre All-Star;DaQuan Jeffries;3;0;3.0;0.7;0.0;0.7;0.7;0.3;0.0;0.0;0.0;0.3;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pre All-Star;Yves Pons;7;0;3.1;0.4;0.3;0.4;0.7;0.0;0.0;0.0;0.0;0.3;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pre All-Star;Xavier Sneed;2;0;4.0;0.0;0.5;0.5;1.0;0.0;0.0;0.0;0.0;1.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pre All-Star;Jon Teske;3;0;2.7;0.0;0.0;0.7;0.7;0.3;0.3;0.0;0.0;0.3;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Pre All-Star;Total;60;"";"";113.8;13.9;35.0;48.9;25.3;10.1;6.3;12.7;19.5;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Post All-Star;Ja Morant;11;11;33.0;30.1;1.4;3.7;5.1;6.2;0.9;0.4;3.5;1.7;1.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Post All-Star;Desmond Bane;20;20;28.8;19.2;0.7;3.5;4.1;3.4;1.4;0.2;1.1;2.7;3.2
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Post All-Star;Dillon Brooks;11;11;27.1;18.5;1.1;1.9;3.0;2.8;0.8;0.4;1.2;3.3;2.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Post All-Star;Jaren Jackson Jr.;19;19;25.5;15.1;1.4;3.8;5.3;1.2;0.8;2.5;1.7;3.7;0.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Post All-Star;De'Anthony Melton;22;2;22.8;12.9;0.5;3.9;4.5;2.6;0.9;0.5;1.8;1.9;1.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Post All-Star;Tyus Jones;20;9;22.6;10.2;0.2;2.1;2.3;5.1;0.9;0.0;0.5;0.5;11.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Post All-Star;Brandon Clarke;19;0;19.9;10.1;2.2;2.8;5.0;1.2;0.7;1.1;0.6;2.2;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Post All-Star;Ziaire Williams;22;12;22.0;9.5;0.7;2.0;2.6;1.4;0.6;0.2;0.8;1.5;1.7
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Post All-Star;Santi Aldama;5;0;16.6;8.4;2.0;2.6;4.6;1.4;0.8;0.6;1.4;1.8;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Post All-Star;Kyle Anderson;22;3;21.0;7.5;1.1;4.4;5.5;2.6;1.1;0.9;1.0;1.6;2.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Post All-Star;Steven Adams;20;20;26.8;6.8;4.9;6.3;11.2;3.8;0.8;1.1;1.3;2.4;2.9
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Post All-Star;Xavier Tillman;14;2;13.6;5.4;1.4;1.8;3.2;1.6;0.6;0.1;0.6;1.0;2.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Post All-Star;John Konchar;20;1;16.3;5.1;1.4;3.6;5.0;1.8;0.5;0.4;0.4;1.0;5.1
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Post All-Star;Jarrett Culver;10;0;9.0;2.8;0.3;0.6;0.9;0.7;0.5;0.1;0.7;1.2;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Post All-Star;Yves Pons;5;0;9.8;2.0;0.6;0.8;1.4;0.2;0.2;0.8;0.2;0.8;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Post All-Star;Killian Tillie;4;0;8.5;0.8;0.3;1.0;1.3;0.5;0.0;0.3;0.5;1.3;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;Post All-Star;Total;22;"";"";120.5;14.9;35.1;50.0;27.8;8.8;7.0;12.0;20.5;2.3
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;3+ Days Rest;Ja Morant;6;6;32.3;27.8;1.3;4.0;5.3;7.0;0.7;1.0;3.5;2.0;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;3+ Days Rest;Desmond Bane;5;5;31.8;20.4;1.0;3.6;4.6;2.4;2.2;0.2;2.6;2.6;0.9
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;3+ Days Rest;Jaren Jackson Jr.;5;5;30.4;18.6;1.6;5.0;6.6;2.4;1.0;2.8;1.6;2.6;1.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;3+ Days Rest;Dillon Brooks;5;4;25.6;17.0;0.8;1.6;2.4;4.0;1.4;0.8;1.8;3.6;2.2
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;3+ Days Rest;De'Anthony Melton;5;1;24.2;11.0;0.8;4.6;5.4;4.0;0.8;0.8;1.8;1.6;2.2
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;3+ Days Rest;Brandon Clarke;7;0;17.7;8.6;1.6;2.3;3.9;1.6;0.6;0.7;0.7;2.6;2.2
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;3+ Days Rest;Tyus Jones;5;1;19.6;8.4;0.2;1.2;1.4;3.2;1.6;0.0;0.2;0.4;16.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;3+ Days Rest;Kyle Anderson;6;1;20.2;7.5;0.7;4.8;5.5;3.8;0.7;1.0;1.0;1.5;3.8
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;3+ Days Rest;Ziaire Williams;6;2;19.3;7.5;0.5;0.8;1.3;0.5;0.7;0.0;0.8;1.8;0.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;3+ Days Rest;Xavier Tillman;13;1;12.8;6.5;1.2;1.8;3.0;1.4;0.5;0.2;0.4;1.1;3.6
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;3+ Days Rest;Steven Adams;4;3;27.0;5.8;4.8;6.5;11.3;4.8;1.3;1.3;2.0;2.3;2.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;3+ Days Rest;John Konchar;7;0;17.0;5.3;2.0;3.0;5.0;1.3;0.4;0.6;0.3;2.0;4.5
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;3+ Days Rest;Sam Merrill;3;0;10.0;4.3;0.0;1.3;1.3;1.0;0.0;0.0;0.0;1.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;3+ Days Rest;Santi Aldama;11;0;10.5;4.1;0.7;1.3;2.0;0.6;0.2;0.5;0.5;1.4;1.4
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;3+ Days Rest;Jarrett Culver;17;0;8.4;3.8;0.4;0.7;1.1;0.8;0.5;0.1;0.4;0.8;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;3+ Days Rest;Killian Tillie;11;0;11.1;2.5;0.5;0.5;1.1;0.7;0.7;0.3;0.4;1.4;2.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;3+ Days Rest;Tyrell Terry;2;0;1.5;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;3+ Days Rest;Yves Pons;9;0;3.3;0.8;0.3;0.3;0.7;0.0;0.1;0.0;0.0;0.1;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;3+ Days Rest;Dakota Mathias;2;0;2.5;0.0;0.0;0.0;0.0;0.5;0.5;0.0;0.0;0.0;INF
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;3+ Days Rest;DaQuan Jeffries;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;3+ Days Rest;Xavier Sneed;1;0;6.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;2.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;3+ Days Rest;Jon Teske;1;0;1.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;3+ Days Rest;Shaq Buchanan;1;0;3.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;1.0;1.0;1.0
+Memphis Grizzlies;mem;2021 - 2022 Regular Season;3+ Days Rest;Total;3;"";"";120.3;16.3;38.0;54.3;26.3;10.0;7.3;12.3;21.7;2.1

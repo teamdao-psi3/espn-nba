@@ -1,0 +1,948 @@
+teamName;teamCode;season;split;player_name;GP;GS;MIN;PTS;ORB;DR;REB;AST;STL;BLK;TO;PF;AST_TO
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;All Splits;Shai Gilgeous-Alexander;56;56;34.7;24.5;0.7;4.3;5.0;5.9;1.3;0.8;2.8;2.5;2.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;All Splits;Georgios Kalaitzakis;4;4;41.5;17.5;0.5;2.8;3.3;3.0;2.5;0.3;4.0;2.8;0.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;All Splits;Luguentz Dort;51;51;32.6;17.2;0.7;3.4;4.2;1.7;0.9;0.4;1.7;2.9;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;All Splits;Jaylen Hoard;7;5;34.3;14.7;4.3;7.7;12.0;2.4;0.9;0.7;1.1;2.0;2.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;All Splits;Josh Giddey;54;54;31.5;12.5;1.8;6.0;7.8;6.4;0.9;0.4;3.2;1.6;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;All Splits;Zavier Simpson;4;4;43.5;11.0;0.5;4.8;5.3;7.5;1.3;1.0;2.5;3.8;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;All Splits;Darius Bazley;69;53;27.9;10.8;1.0;5.3;6.3;1.4;0.8;1.0;1.3;1.0;1.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;All Splits;Melvin Frazier Jr.;3;0;40.0;10.7;1.7;2.7;4.3;0.3;0.3;0.0;1.0;2.7;0.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;All Splits;Tre Mann;60;26;22.8;10.4;0.4;2.4;2.9;1.5;0.8;0.2;1.2;1.7;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;All Splits;Isaiah Roby;45;28;21.1;10.1;1.7;3.2;4.8;1.6;0.8;0.8;1.0;2.4;1.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;All Splits;Aaron Wiggins;50;35;24.2;8.3;1.0;2.5;3.6;1.4;0.6;0.2;1.1;1.9;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;All Splits;Mike Muscala;43;0;13.8;8.0;0.5;2.5;3.0;0.5;0.4;0.6;0.3;1.3;1.6
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;All Splits;Lindy Waters III;25;1;18.6;8.0;0.2;2.7;2.9;1.0;0.8;0.3;0.4;1.2;2.2
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;All Splits;Aleksej Pokusevski;61;12;20.2;7.6;1.2;4.0;5.2;2.1;0.6;0.6;1.5;1.4;1.4
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;All Splits;Jeremiah Robinson-Earl;49;36;22.2;7.5;1.5;4.1;5.6;1.0;0.6;0.3;0.8;1.5;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;All Splits;Kenrich Williams;49;0;21.9;7.4;1.5;3.0;4.5;2.2;0.9;0.2;0.9;1.7;2.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;All Splits;Ty Jerome;48;4;16.7;7.1;0.4;1.2;1.6;2.3;0.6;0.1;0.8;1.5;2.9
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;All Splits;Theo Maledon;51;7;17.8;7.1;0.4;2.2;2.6;2.2;0.6;0.2;1.3;1.3;1.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;All Splits;Olivier Sarr;22;2;19.1;7.0;1.5;2.7;4.2;0.9;0.3;0.7;1.0;2.4;0.9
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;All Splits;Vit Krejci;30;8;23.0;6.2;0.6;2.8;3.4;1.9;0.6;0.3;1.0;2.2;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;All Splits;Derrick Favors;39;18;16.7;5.3;1.5;3.2;4.7;0.6;0.4;0.3;0.2;1.6;2.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;All Splits;Mamadi Diakite;13;3;14.5;4.3;1.3;3.2;4.5;0.2;0.4;0.7;0.5;2.5;0.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;All Splits;Scotty Hopson;1;0;18.0;4.0;0.0;1.0;1.0;1.0;0.0;0.0;2.0;1.0;0.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;All Splits;Paul Watson;9;3;17.3;3.4;0.3;2.7;3.0;0.9;0.3;0.3;0.4;1.1;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;All Splits;Gabriel Deck;7;0;8.0;2.6;0.1;0.7;0.9;0.7;0.1;0.0;0.3;0.3;2.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;All Splits;Rob Edwards;2;0;5.5;1.5;0.0;1.5;1.5;0.0;0.0;0.0;0.5;0.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;All Splits;Total;82;"";"";103.7;10.4;35.2;45.6;22.2;7.6;4.6;13.3;18.3;1.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Home;Shai Gilgeous-Alexander;30;30;34.3;24.3;0.7;4.3;4.9;6.3;1.3;0.9;2.5;2.9;2.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Home;Luguentz Dort;25;25;32.8;18.1;1.0;3.4;4.4;1.8;1.1;0.3;1.8;2.8;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Home;Georgios Kalaitzakis;1;1;43.0;17.0;0.0;1.0;1.0;2.0;3.0;1.0;7.0;1.0;0.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Home;Jaylen Hoard;3;2;36.3;13.0;5.0;10.0;15.0;2.3;1.0;0.7;1.3;1.7;1.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Home;Josh Giddey;27;27;31.5;11.8;1.7;6.9;8.5;6.4;1.0;0.3;3.1;1.6;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Home;Darius Bazley;34;26;27.7;10.7;1.1;4.7;5.9;1.5;0.7;1.1;1.4;1.0;1.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Home;Zavier Simpson;1;1;44.0;10.0;0.0;3.0;3.0;5.0;1.0;2.0;2.0;3.0;2.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Home;Tre Mann;32;14;22.2;10.0;0.5;2.2;2.7;1.7;0.8;0.1;1.3;1.8;1.4
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Home;Isaiah Roby;22;13;21.2;9.2;1.5;3.4;4.9;1.4;0.7;0.9;0.8;2.0;1.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Home;Olivier Sarr;12;1;21.5;9.2;2.0;3.2;5.2;0.9;0.3;1.0;1.3;2.6;0.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Home;Lindy Waters III;14;0;19.3;8.9;0.2;2.8;3.0;0.8;0.7;0.6;0.4;1.3;1.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Home;Jeremiah Robinson-Earl;25;19;22.6;8.7;1.7;4.2;6.0;1.2;0.6;0.4;1.1;1.6;1.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Home;Aleksej Pokusevski;33;6;20.2;8.3;1.4;3.7;5.1;2.2;0.6;0.6;1.6;1.6;1.4
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Home;Aaron Wiggins;25;19;22.7;7.5;0.8;2.6;3.4;1.2;0.5;0.3;1.1;2.0;1.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Home;Mike Muscala;21;0;13.0;7.3;0.5;2.0;2.4;0.4;0.5;0.7;0.3;1.3;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Home;Theo Maledon;30;5;17.6;7.3;0.4;1.9;2.3;2.2;0.8;0.2;1.1;1.5;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Home;Kenrich Williams;25;0;22.1;7.1;1.5;3.0;4.5;2.2;0.8;0.1;0.9;1.8;2.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Home;Ty Jerome;22;1;15.7;6.8;0.4;1.2;1.6;1.8;0.4;0.1;0.7;1.5;2.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Home;Vit Krejci;15;4;23.0;6.3;0.5;2.8;3.3;2.1;0.7;0.3;1.0;2.2;2.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Home;Derrick Favors;23;10;16.2;4.4;1.1;3.1;4.2;0.7;0.4;0.2;0.1;1.4;8.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Home;Mamadi Diakite;5;0;10.6;3.4;1.2;2.0;3.2;0.0;0.4;0.8;0.4;2.4;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Home;Rob Edwards;1;0;9.0;3.0;0.0;3.0;3.0;0.0;0.0;0.0;1.0;0.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Home;Paul Watson;4;1;10.5;2.8;0.3;1.5;1.8;0.5;0.3;0.0;0.0;0.5;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Home;Gabriel Deck;1;0;3.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Home;Total;41;"";"";104.7;10.6;35.2;45.8;22.6;7.7;5.0;13.3;18.6;1.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Away;Shai Gilgeous-Alexander;26;26;35.0;24.7;0.7;4.3;5.0;5.5;1.2;0.8;3.0;2.1;1.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Away;Georgios Kalaitzakis;3;3;41.0;17.7;0.7;3.3;4.0;3.3;2.3;0.0;3.0;3.3;1.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Away;Luguentz Dort;26;26;32.6;16.3;0.5;3.5;4.0;1.7;0.7;0.4;1.7;3.1;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Away;Jaylen Hoard;4;3;32.5;16.0;3.8;6.0;9.8;2.5;0.8;0.8;1.0;2.3;2.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Away;Josh Giddey;27;27;31.5;13.1;2.0;5.1;7.1;6.4;0.9;0.4;3.2;1.7;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Away;Zavier Simpson;3;3;43.7;11.3;0.7;5.3;6.0;8.3;1.3;0.7;2.7;4.0;3.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Away;Isaiah Roby;23;15;21.0;11.0;1.8;3.0;4.7;1.8;0.9;0.6;1.1;2.9;1.6
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Away;Tre Mann;28;12;23.4;10.9;0.4;2.7;3.0;1.3;0.8;0.3;1.1;1.6;1.2
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Away;Darius Bazley;35;27;28.1;10.9;0.9;5.8;6.8;1.3;0.9;0.9;1.2;1.0;1.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Away;Melvin Frazier Jr.;3;0;40.0;10.7;1.7;2.7;4.3;0.3;0.3;0.0;1.0;2.7;0.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Away;Aaron Wiggins;25;16;25.6;9.2;1.3;2.4;3.7;1.5;0.7;0.1;1.0;1.7;1.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Away;Mike Muscala;22;0;14.5;8.7;0.5;3.0;3.5;0.6;0.3;0.5;0.3;1.4;1.9
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Away;Kenrich Williams;24;0;21.7;7.8;1.5;2.9;4.5;2.3;1.0;0.3;1.0;1.5;2.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Away;Ty Jerome;26;3;17.5;7.3;0.4;1.2;1.7;2.7;0.8;0.1;0.8;1.6;3.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Away;Lindy Waters III;11;1;17.8;6.8;0.3;2.5;2.8;1.2;0.8;0.0;0.5;1.2;2.6
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Away;Theo Maledon;21;2;18.0;6.8;0.3;2.6;2.9;2.1;0.4;0.2;1.5;1.1;1.4
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Away;Aleksej Pokusevski;28;6;20.3;6.8;1.0;4.4;5.4;2.1;0.6;0.6;1.5;1.3;1.4
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Away;Derrick Favors;16;8;17.6;6.6;2.0;3.4;5.4;0.5;0.5;0.5;0.4;1.8;1.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Away;Jeremiah Robinson-Earl;24;17;21.8;6.2;1.3;3.9;5.2;0.8;0.5;0.3;0.5;1.4;1.6
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Away;Vit Krejci;15;4;23.0;6.2;0.7;2.7;3.5;1.7;0.5;0.2;0.9;2.1;1.9
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Away;Mamadi Diakite;8;3;16.9;4.9;1.4;4.0;5.4;0.3;0.4;0.6;0.6;2.6;0.4
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Away;Olivier Sarr;10;1;16.3;4.3;1.0;2.1;3.1;0.8;0.2;0.3;0.7;2.1;1.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Away;Scotty Hopson;1;0;18.0;4.0;0.0;1.0;1.0;1.0;0.0;0.0;2.0;1.0;0.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Away;Paul Watson;5;2;22.8;4.0;0.4;3.6;4.0;1.2;0.4;0.6;0.8;1.6;1.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Away;Gabriel Deck;6;0;8.8;2.7;0.2;0.7;0.8;0.8;0.2;0.0;0.3;0.3;2.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Away;Rob Edwards;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Away;Total;41;"";"";102.8;10.2;35.2;45.5;21.8;7.5;4.3;13.3;17.9;1.6
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Boston Celtics;Tre Mann;1;1;36.0;35.0;1.0;6.0;7.0;4.0;0.0;0.0;3.0;5.0;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Boston Celtics;Shai Gilgeous-Alexander;2;2;35.5;22.5;0.0;2.0;2.0;6.0;0.0;0.0;2.5;4.5;2.4
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Boston Celtics;Luguentz Dort;1;1;36.0;16.0;1.0;3.0;4.0;3.0;0.0;0.0;2.0;3.0;1.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Boston Celtics;Josh Giddey;1;1;29.0;15.0;2.0;6.0;8.0;3.0;1.0;0.0;2.0;1.0;1.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Boston Celtics;Darius Bazley;2;2;35.0;13.0;2.5;7.5;10.0;4.5;1.0;0.5;0.5;1.0;9.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Boston Celtics;Jeremiah Robinson-Earl;1;0;27.0;13.0;2.0;6.0;8.0;1.0;0.0;0.0;0.0;1.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Boston Celtics;Ty Jerome;1;0;15.0;12.0;0.0;1.0;1.0;1.0;1.0;0.0;0.0;2.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Boston Celtics;Aleksej Pokusevski;2;0;18.5;9.5;0.5;3.5;4.0;2.5;0.5;0.0;1.5;1.0;1.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Boston Celtics;Derrick Favors;1;1;20.0;9.0;1.0;5.0;6.0;0.0;1.0;0.0;0.0;2.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Boston Celtics;Kenrich Williams;1;0;19.0;7.0;3.0;2.0;5.0;2.0;1.0;0.0;0.0;0.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Boston Celtics;Aaron Wiggins;2;1;17.0;7.0;0.5;2.0;2.5;1.0;0.5;0.0;1.5;2.0;0.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Boston Celtics;Isaiah Roby;2;1;17.5;4.5;4.0;2.5;6.5;1.0;0.0;0.5;0.0;2.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Boston Celtics;Lindy Waters III;1;0;22.0;3.0;0.0;4.0;4.0;0.0;0.0;0.0;0.0;2.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Boston Celtics;Theo Maledon;1;0;10.0;3.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;0.0;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Boston Celtics;Vit Krejci;1;0;22.0;2.0;0.0;2.0;2.0;1.0;1.0;2.0;0.0;4.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Boston Celtics;Total;2;"";"";114.0;12.5;35.5;48.0;23.0;5.0;2.0;10.0;20.5;2.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Brooklyn Nets;Shai Gilgeous-Alexander;2;2;32.5;28.0;1.0;7.0;8.0;5.5;1.0;1.0;4.0;0.5;1.4
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Brooklyn Nets;Luguentz Dort;2;2;30.0;23.5;0.0;2.0;2.0;1.0;0.5;0.0;0.5;3.5;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Brooklyn Nets;Mike Muscala;1;0;12.0;14.0;0.0;0.0;0.0;0.0;1.0;1.0;0.0;1.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Brooklyn Nets;Josh Giddey;2;2;28.0;12.5;1.0;3.0;4.0;5.5;1.0;0.0;3.0;1.0;1.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Brooklyn Nets;Darius Bazley;2;1;22.5;10.5;1.5;3.5;5.0;0.5;0.0;0.5;1.5;0.5;0.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Brooklyn Nets;Kenrich Williams;1;0;22.0;9.0;0.0;3.0;3.0;3.0;2.0;0.0;1.0;5.0;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Brooklyn Nets;Aleksej Pokusevski;1;0;20.0;8.0;2.0;4.0;6.0;1.0;0.0;1.0;1.0;1.0;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Brooklyn Nets;Ty Jerome;2;0;20.5;7.0;0.5;0.5;1.0;3.5;1.0;0.0;0.5;2.5;7.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Brooklyn Nets;Aaron Wiggins;2;1;24.0;6.0;1.5;3.5;5.0;3.0;1.0;0.5;1.0;2.5;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Brooklyn Nets;Tre Mann;2;0;14.5;5.0;0.5;3.5;4.0;2.0;1.5;0.5;0.5;1.0;4.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Brooklyn Nets;Isaiah Roby;1;0;12.0;4.0;0.0;0.0;0.0;1.0;1.0;0.0;0.0;1.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Brooklyn Nets;Derrick Favors;1;0;14.0;2.0;0.0;3.0;3.0;1.0;0.0;0.0;0.0;1.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Brooklyn Nets;Mamadi Diakite;1;0;10.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Brooklyn Nets;Jeremiah Robinson-Earl;2;2;23.0;1.0;2.5;3.5;6.0;2.0;0.5;1.0;0.0;3.5;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Brooklyn Nets;Total;2;"";"";113.0;9.5;31.5;41.0;26.0;8.5;4.5;12.0;20.5;2.2
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. New York Knicks;Tre Mann;1;1;32.0;30.0;0.0;2.0;2.0;1.0;2.0;0.0;1.0;0.0;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. New York Knicks;Josh Giddey;1;1;39.0;28.0;2.0;9.0;11.0;12.0;1.0;0.0;7.0;1.0;1.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. New York Knicks;Shai Gilgeous-Alexander;1;1;35.0;23.0;0.0;4.0;4.0;4.0;2.0;1.0;4.0;3.0;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. New York Knicks;Darius Bazley;1;1;40.0;23.0;1.0;7.0;8.0;3.0;1.0;0.0;0.0;2.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. New York Knicks;Ty Jerome;2;0;23.0;12.0;1.0;2.0;3.0;4.5;1.0;0.0;0.0;2.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. New York Knicks;Kenrich Williams;2;0;27.5;10.5;1.5;4.0;5.5;3.5;0.5;0.0;0.5;2.5;7.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. New York Knicks;Mike Muscala;1;0;14.0;9.0;0.0;0.0;0.0;1.0;1.0;1.0;0.0;1.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. New York Knicks;Aaron Wiggins;2;2;30.0;7.5;0.0;3.5;3.5;2.0;1.0;0.5;0.0;1.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. New York Knicks;Derrick Favors;2;0;18.0;7.0;0.5;3.0;3.5;1.0;0.0;0.5;0.5;2.5;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. New York Knicks;Isaiah Roby;2;2;20.0;7.0;1.0;6.5;7.5;0.0;0.5;0.0;1.0;3.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. New York Knicks;Luguentz Dort;1;1;33.0;6.0;0.0;4.0;4.0;2.0;1.0;0.0;1.0;2.0;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. New York Knicks;Aleksej Pokusevski;2;0;18.5;4.0;1.0;5.0;6.0;0.5;0.5;0.0;0.0;1.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. New York Knicks;Theo Maledon;2;0;9.5;2.5;0.5;1.5;2.0;1.5;0.0;0.0;1.0;0.5;1.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. New York Knicks;Paul Watson;1;1;14.0;2.0;1.0;2.0;3.0;0.0;0.0;0.0;0.0;1.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. New York Knicks;Vit Krejci;1;0;5.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;1.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. New York Knicks;Total;2;"";"";111.0;7.5;40.0;47.5;24.5;7.5;2.0;10.0;18.0;2.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Shai Gilgeous-Alexander;1;1;39.0;29.0;0.0;6.0;6.0;8.0;1.0;1.0;2.0;2.0;4.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Luguentz Dort;2;2;32.0;14.0;0.0;4.0;4.0;2.0;0.5;0.0;1.5;2.5;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Josh Giddey;2;2;28.5;14.0;1.0;6.5;7.5;6.0;2.0;0.5;3.0;2.0;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Derrick Favors;2;2;23.5;11.0;3.5;3.5;7.0;0.5;1.0;1.5;0.5;2.0;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Darius Bazley;2;2;32.5;11.0;1.0;10.0;11.0;1.5;0.5;1.5;0.5;1.0;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Aleksej Pokusevski;2;0;18.5;9.5;0.0;3.5;3.5;1.0;0.0;1.0;1.5;1.5;0.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Mike Muscala;1;0;16.0;9.0;0.0;2.0;2.0;1.0;2.0;0.0;0.0;4.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Kenrich Williams;2;0;22.5;7.5;2.0;4.0;6.0;2.5;0.0;0.5;0.5;2.0;5.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Jeremiah Robinson-Earl;1;0;14.0;5.0;1.0;3.0;4.0;0.0;0.0;0.0;2.0;1.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Vit Krejci;1;0;9.0;4.0;0.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Isaiah Roby;1;0;12.0;2.0;0.0;0.0;0.0;0.0;2.0;0.0;2.0;2.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Tre Mann;2;1;14.0;2.0;0.5;0.5;1.0;0.0;0.0;0.0;0.0;1.5;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Theo Maledon;2;0;15.0;1.5;0.0;1.0;1.0;1.0;0.5;0.5;1.5;1.0;0.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Ty Jerome;1;0;17.0;0.0;0.0;0.0;0.0;5.0;1.0;0.0;2.0;2.0;2.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Lindy Waters III;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Total;2;"";"";95.0;8.5;38.5;47.0;22.5;7.5;6.0;13.0;19.0;1.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Toronto Raptors;Shai Gilgeous-Alexander;1;1;37.0;26.0;0.0;2.0;2.0;9.0;1.0;0.0;2.0;1.0;4.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Toronto Raptors;Luguentz Dort;2;2;34.5;18.5;1.0;4.0;5.0;3.5;0.5;0.5;4.0;3.0;0.9
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Toronto Raptors;Theo Maledon;1;0;31.0;18.0;0.0;2.0;2.0;3.0;1.0;1.0;1.0;3.0;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Toronto Raptors;Darius Bazley;2;2;28.0;14.0;1.5;3.0;4.5;1.0;2.0;0.5;1.5;1.0;0.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Toronto Raptors;Ty Jerome;1;0;31.0;13.0;1.0;2.0;3.0;4.0;1.0;0.0;0.0;3.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Toronto Raptors;Josh Giddey;2;2;29.5;13.0;1.5;5.0;6.5;7.0;0.5;0.5;3.5;1.5;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Toronto Raptors;Aleksej Pokusevski;2;0;20.0;10.5;0.5;3.0;3.5;0.5;3.0;1.0;0.5;1.5;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Toronto Raptors;Kenrich Williams;2;0;26.0;7.5;2.5;5.0;7.5;5.0;2.5;0.5;1.5;1.5;3.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Toronto Raptors;Mike Muscala;1;0;15.0;6.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;1.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Toronto Raptors;Jeremiah Robinson-Earl;1;1;18.0;5.0;1.0;5.0;6.0;1.0;0.0;0.0;0.0;3.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Toronto Raptors;Derrick Favors;2;1;16.0;4.0;2.5;3.5;6.0;0.5;0.5;0.0;0.5;1.0;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Toronto Raptors;Tre Mann;2;1;18.0;2.5;0.0;2.0;2.0;1.5;1.0;0.0;1.5;2.5;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Toronto Raptors;Paul Watson;1;0;3.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Toronto Raptors;Total;2;"";"";104.0;10.5;32.0;42.5;28.0;11.5;3.5;15.0;17.5;1.9
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Chicago Bulls;Shai Gilgeous-Alexander;1;1;39.0;31.0;0.0;3.0;3.0;10.0;3.0;1.0;3.0;1.0;3.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Chicago Bulls;Luguentz Dort;2;2;34.5;23.5;1.5;3.0;4.5;1.5;0.5;0.5;0.5;3.5;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Chicago Bulls;Mike Muscala;1;0;15.0;14.0;1.0;1.0;2.0;0.0;0.0;1.0;0.0;2.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Chicago Bulls;Jeremiah Robinson-Earl;1;1;22.0;12.0;0.0;3.0;3.0;3.0;2.0;1.0;2.0;3.0;1.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Chicago Bulls;Darius Bazley;2;1;28.0;11.0;0.5;7.5;8.0;3.0;1.0;1.5;0.5;0.5;6.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Chicago Bulls;Josh Giddey;2;2;32.0;10.0;2.0;8.0;10.0;8.0;0.0;0.0;3.5;0.0;2.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Chicago Bulls;Kenrich Williams;2;0;28.5;9.0;1.5;4.0;5.5;1.5;1.5;0.0;0.5;0.5;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Chicago Bulls;Isaiah Roby;1;1;24.0;7.0;2.0;2.0;4.0;1.0;3.0;3.0;1.0;3.0;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Chicago Bulls;Aleksej Pokusevski;1;0;15.0;7.0;2.0;2.0;4.0;0.0;0.0;3.0;2.0;1.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Chicago Bulls;Tre Mann;2;1;21.0;6.0;0.0;1.0;1.0;0.5;0.0;0.5;0.0;0.5;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Chicago Bulls;Aaron Wiggins;2;1;17.5;5.0;0.0;1.5;1.5;0.5;0.0;0.0;0.0;3.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Chicago Bulls;Ty Jerome;2;0;16.5;4.5;0.0;3.0;3.0;2.0;1.0;0.0;0.5;1.0;4.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Chicago Bulls;Mamadi Diakite;1;0;7.0;2.0;1.0;2.0;3.0;0.0;1.0;1.0;0.0;2.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Chicago Bulls;Lindy Waters III;1;0;4.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Chicago Bulls;Total;2;"";"";105.5;8.5;35.0;43.5;24.0;8.5;7.5;9.5;15.0;2.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Shai Gilgeous-Alexander;2;2;36.5;25.0;1.5;5.0;6.5;6.5;2.0;1.5;3.0;4.5;2.2
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Luguentz Dort;2;2;30.5;13.5;0.0;1.5;1.5;0.5;1.0;0.0;1.5;3.0;0.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Kenrich Williams;1;0;25.0;12.0;2.0;2.0;4.0;2.0;0.0;0.0;1.0;1.0;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Darius Bazley;2;1;25.0;10.5;0.5;6.5;7.0;1.5;1.5;0.0;1.5;3.0;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Josh Giddey;2;2;32.0;9.5;2.5;5.0;7.5;3.0;1.0;0.5;4.5;4.0;0.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Mike Muscala;1;0;8.0;9.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;1.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Ty Jerome;2;0;17.5;6.5;0.0;1.5;1.5;1.5;1.0;0.5;0.5;0.5;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Derrick Favors;1;1;17.0;6.0;5.0;3.0;8.0;1.0;0.0;0.0;0.0;1.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Aaron Wiggins;2;0;16.0;5.5;0.5;0.5;1.0;0.5;1.0;0.0;1.5;1.0;0.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Tre Mann;2;0;17.0;5.5;0.0;1.5;1.5;1.0;0.0;0.0;0.5;3.0;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Jeremiah Robinson-Earl;2;2;26.5;3.0;2.5;5.0;7.5;0.5;0.5;0.5;1.0;3.0;0.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Mamadi Diakite;2;0;14.0;2.0;1.5;4.5;6.0;0.0;0.5;1.0;0.5;1.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Total;2;"";"";94.5;12.5;33.5;46.0;16.5;9.0;4.0;15.0;24.5;1.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Detroit Pistons;Shai Gilgeous-Alexander;1;1;37.0;30.0;0.0;2.0;2.0;13.0;0.0;2.0;3.0;3.0;4.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Detroit Pistons;Luguentz Dort;1;1;37.0;28.0;0.0;2.0;2.0;0.0;2.0;2.0;1.0;3.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Detroit Pistons;Theo Maledon;1;1;37.0;28.0;2.0;4.0;6.0;6.0;1.0;2.0;3.0;4.0;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Detroit Pistons;Lindy Waters III;1;0;23.0;16.0;0.0;5.0;5.0;4.0;0.0;1.0;0.0;2.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Detroit Pistons;Isaiah Roby;1;1;35.0;16.0;1.0;8.0;9.0;3.0;0.0;1.0;2.0;2.0;1.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Detroit Pistons;Kenrich Williams;1;0;27.0;12.0;0.0;3.0;3.0;3.0;4.0;2.0;0.0;2.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Detroit Pistons;Josh Giddey;1;1;30.0;12.0;0.0;0.0;0.0;5.0;1.0;0.0;4.0;2.0;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Detroit Pistons;Olivier Sarr;1;0;30.0;11.0;2.0;3.0;5.0;2.0;0.0;2.0;1.0;1.0;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Detroit Pistons;Jaylen Hoard;1;1;40.0;11.0;6.0;14.0;20.0;3.0;0.0;2.0;0.0;1.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Detroit Pistons;Mike Muscala;1;0;16.0;8.0;1.0;2.0;3.0;0.0;1.0;0.0;0.0;1.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Detroit Pistons;Aaron Wiggins;1;1;25.0;7.0;1.0;2.0;3.0;1.0;0.0;0.0;3.0;1.0;0.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Detroit Pistons;Darius Bazley;1;1;29.0;7.0;1.0;7.0;8.0;0.0;2.0;3.0;1.0;1.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Detroit Pistons;Tre Mann;1;0;13.0;7.0;0.0;3.0;3.0;0.0;0.0;0.0;0.0;1.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Detroit Pistons;Vit Krejci;1;1;41.0;7.0;0.0;4.0;4.0;3.0;0.0;0.0;4.0;4.0;0.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Detroit Pistons;Derrick Favors;1;0;17.0;6.0;1.0;4.0;5.0;1.0;0.0;1.0;0.0;0.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Detroit Pistons;Jeremiah Robinson-Earl;2;1;14.0;3.5;1.0;4.0;5.0;1.0;0.0;0.0;1.5;0.0;0.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Detroit Pistons;Aleksej Pokusevski;1;0;12.0;2.0;1.0;5.0;6.0;0.0;0.0;1.0;1.0;0.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Detroit Pistons;Ty Jerome;1;0;4.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Detroit Pistons;Total;2;"";"";107.5;9.0;38.0;47.0;23.0;5.5;9.5;13.0;14.0;1.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Indiana Pacers;Luguentz Dort;1;1;41.0;27.0;2.0;6.0;8.0;4.0;2.0;0.0;2.0;4.0;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Indiana Pacers;Shai Gilgeous-Alexander;2;2;27.5;23.0;0.5;4.5;5.0;4.0;2.0;2.0;3.5;1.0;1.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Indiana Pacers;Tre Mann;2;2;30.5;15.5;0.0;2.5;2.5;3.0;2.5;0.0;1.5;3.5;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Indiana Pacers;Josh Giddey;1;1;40.0;15.0;2.0;8.0;10.0;5.0;1.0;0.0;2.0;1.0;2.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Indiana Pacers;Darius Bazley;2;1;32.5;14.0;1.5;5.5;7.0;0.5;2.0;1.0;0.0;1.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Indiana Pacers;Aleksej Pokusevski;1;0;19.0;13.0;0.0;1.0;1.0;2.0;0.0;0.0;2.0;0.0;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Indiana Pacers;Ty Jerome;1;0;17.0;10.0;1.0;2.0;3.0;4.0;0.0;0.0;3.0;2.0;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Indiana Pacers;Isaiah Roby;1;1;28.0;10.0;3.0;8.0;11.0;4.0;0.0;0.0;2.0;4.0;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Indiana Pacers;Theo Maledon;2;0;15.5;8.5;0.5;2.5;3.0;2.5;0.0;0.0;0.0;1.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Indiana Pacers;Lindy Waters III;1;0;24.0;8.0;0.0;5.0;5.0;0.0;1.0;0.0;0.0;0.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Indiana Pacers;Aaron Wiggins;1;1;31.0;8.0;1.0;3.0;4.0;0.0;0.0;0.0;0.0;0.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Indiana Pacers;Jeremiah Robinson-Earl;1;1;22.0;7.0;2.0;4.0;6.0;0.0;1.0;1.0;0.0;3.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Indiana Pacers;Mike Muscala;1;0;20.0;6.0;1.0;2.0;3.0;0.0;1.0;1.0;0.0;3.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Indiana Pacers;Kenrich Williams;1;0;26.0;5.0;1.0;2.0;3.0;2.0;0.0;0.0;2.0;3.0;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Indiana Pacers;Mamadi Diakite;1;0;11.0;4.0;1.0;1.0;2.0;0.0;1.0;1.0;1.0;5.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Indiana Pacers;Olivier Sarr;1;0;21.0;4.0;1.0;3.0;4.0;2.0;0.0;0.0;0.0;5.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Indiana Pacers;Vit Krejci;1;0;18.0;0.0;1.0;1.0;2.0;2.0;0.0;0.0;0.0;3.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Indiana Pacers;Total;2;"";"";119.5;10.5;38.0;48.5;22.5;10.0;4.5;12.0;23.0;1.9
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Shai Gilgeous-Alexander;2;2;35.5;25.0;0.5;6.5;7.0;8.5;2.0;0.5;3.5;3.0;2.4
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Lindy Waters III;1;0;25.0;16.0;0.0;3.0;3.0;0.0;1.0;0.0;0.0;0.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Mike Muscala;1;0;20.0;14.0;0.0;9.0;9.0;0.0;0.0;1.0;1.0;2.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Josh Giddey;1;1;32.0;14.0;6.0;6.0;12.0;4.0;0.0;0.0;2.0;0.0;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Isaiah Roby;1;1;26.0;12.0;0.0;3.0;3.0;2.0;0.0;1.0;0.0;2.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Tre Mann;1;1;29.0;11.0;0.0;2.0;2.0;0.0;1.0;0.0;2.0;3.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Ty Jerome;1;0;15.0;10.0;2.0;2.0;4.0;1.0;1.0;0.0;1.0;2.0;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Luguentz Dort;1;1;32.0;10.0;0.0;6.0;6.0;1.0;1.0;0.0;1.0;4.0;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Aleksej Pokusevski;2;0;20.0;8.5;1.5;4.0;5.5;3.0;0.0;0.0;0.5;2.0;6.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Kenrich Williams;1;0;18.0;7.0;1.0;1.0;2.0;4.0;0.0;0.0;1.0;2.0;4.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Jeremiah Robinson-Earl;1;1;28.0;7.0;0.0;2.0;2.0;0.0;3.0;0.0;2.0;3.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Darius Bazley;2;2;27.5;6.5;0.5;5.5;6.0;0.5;0.0;2.0;2.0;2.5;0.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Vit Krejci;1;0;19.0;6.0;1.0;0.0;1.0;2.0;1.0;0.0;0.0;2.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Aaron Wiggins;2;1;22.5;5.0;0.5;2.5;3.0;1.0;0.0;0.0;0.5;3.0;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Theo Maledon;1;0;14.0;4.0;1.0;1.0;2.0;3.0;0.0;0.0;3.0;0.0;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Olivier Sarr;1;0;11.0;3.0;0.0;0.0;0.0;0.0;0.0;2.0;1.0;1.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Total;2;"";"";102.0;8.5;36.0;44.5;21.5;6.0;4.5;13.5;21.0;1.6
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Atlanta Hawks;Lindy Waters III;1;0;33.0;25.0;0.0;4.0;4.0;1.0;1.0;0.0;2.0;3.0;0.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Atlanta Hawks;Theo Maledon;1;1;34.0;18.0;0.0;4.0;4.0;8.0;1.0;0.0;4.0;1.0;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Atlanta Hawks;Olivier Sarr;1;0;26.0;17.0;2.0;7.0;9.0;2.0;0.0;1.0;2.0;6.0;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Atlanta Hawks;Ty Jerome;1;0;16.0;15.0;1.0;0.0;1.0;4.0;3.0;0.0;0.0;1.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Atlanta Hawks;Luguentz Dort;1;1;30.0;15.0;1.0;4.0;5.0;1.0;0.0;0.0;2.0;3.0;0.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Atlanta Hawks;Josh Giddey;1;1;31.0;15.0;2.0;5.0;7.0;8.0;1.0;2.0;3.0;1.0;2.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Atlanta Hawks;Jeremiah Robinson-Earl;2;1;24.0;11.0;1.0;5.5;6.5;1.5;1.0;0.5;0.5;1.0;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Atlanta Hawks;Aleksej Pokusevski;2;1;25.5;11.0;1.5;5.0;6.5;5.0;0.0;0.0;1.5;1.0;3.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Atlanta Hawks;Derrick Favors;1;1;17.0;10.0;1.0;3.0;4.0;0.0;0.0;1.0;0.0;0.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Atlanta Hawks;Mike Muscala;1;0;16.0;9.0;2.0;1.0;3.0;1.0;0.0;0.0;0.0;2.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Atlanta Hawks;Isaiah Roby;2;1;22.5;9.0;3.0;3.0;6.0;1.0;0.0;0.5;1.5;0.5;0.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Atlanta Hawks;Vit Krejci;1;1;35.0;9.0;3.0;2.0;5.0;5.0;2.0;0.0;1.0;4.0;5.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Atlanta Hawks;Aaron Wiggins;2;1;25.5;8.0;0.0;2.0;2.0;2.0;0.0;0.0;2.0;1.5;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Atlanta Hawks;Kenrich Williams;1;0;14.0;4.0;3.0;1.0;4.0;3.0;0.0;0.0;0.0;1.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Atlanta Hawks;Darius Bazley;1;1;33.0;4.0;0.0;4.0;4.0;3.0;0.0;1.0;1.0;2.0;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Atlanta Hawks;Gabriel Deck;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Atlanta Hawks;Total;2;"";"";109.5;13.0;33.0;46.0;27.5;5.0;3.5;13.0;16.0;2.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Charlotte Hornets;Shai Gilgeous-Alexander;2;2;34.5;30.5;2.0;4.5;6.5;5.5;0.5;0.5;2.0;4.0;2.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Charlotte Hornets;Josh Giddey;1;1;33.0;21.0;3.0;6.0;9.0;3.0;0.0;0.0;1.0;1.0;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Charlotte Hornets;Aleksej Pokusevski;1;0;27.0;17.0;3.0;2.0;5.0;5.0;0.0;0.0;6.0;1.0;0.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Charlotte Hornets;Darius Bazley;2;1;27.5;16.0;0.0;3.5;3.5;2.0;0.0;0.5;1.5;0.0;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Charlotte Hornets;Jeremiah Robinson-Earl;1;1;24.0;12.0;1.0;10.0;11.0;2.0;2.0;0.0;0.0;0.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Charlotte Hornets;Vit Krejci;1;0;15.0;12.0;1.0;2.0;3.0;2.0;0.0;0.0;2.0;2.0;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Charlotte Hornets;Tre Mann;2;1;22.5;9.5;1.0;1.5;2.5;3.0;1.0;0.0;0.5;1.5;6.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Charlotte Hornets;Kenrich Williams;1;0;16.0;7.0;4.0;2.0;6.0;3.0;0.0;0.0;1.0;1.0;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Charlotte Hornets;Olivier Sarr;1;1;32.0;7.0;3.0;4.0;7.0;3.0;0.0;1.0;1.0;3.0;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Charlotte Hornets;Theo Maledon;1;1;31.0;6.0;2.0;5.0;7.0;4.0;1.0;0.0;2.0;2.0;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Charlotte Hornets;Aaron Wiggins;1;1;27.0;5.0;3.0;3.0;6.0;1.0;2.0;0.0;1.0;3.0;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Charlotte Hornets;Lindy Waters III;1;0;24.0;4.0;0.0;6.0;6.0;2.0;2.0;1.0;1.0;2.0;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Charlotte Hornets;Mike Muscala;1;0;12.0;3.0;0.0;3.0;3.0;2.0;0.0;0.0;0.0;2.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Charlotte Hornets;Ty Jerome;1;0;19.0;3.0;1.0;1.0;2.0;2.0;0.0;0.0;2.0;3.0;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Charlotte Hornets;Luguentz Dort;1;1;29.0;3.0;0.0;3.0;3.0;1.0;0.0;0.0;3.0;2.0;0.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Charlotte Hornets;Mamadi Diakite;1;0;12.0;2.0;1.0;3.0;4.0;0.0;0.0;0.0;1.0;3.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Charlotte Hornets;Isaiah Roby;1;0;9.0;0.0;0.0;4.0;4.0;0.0;0.0;1.0;0.0;4.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Charlotte Hornets;Total;2;"";"";107.0;14.0;36.5;50.5;25.5;5.0;2.5;14.5;20.0;1.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Miami Heat;Luguentz Dort;1;1;31.0;20.0;1.0;3.0;4.0;3.0;1.0;0.0;3.0;2.0;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Miami Heat;Shai Gilgeous-Alexander;2;2;34.0;18.0;0.5;4.5;5.0;4.5;1.0;1.0;3.0;2.5;1.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Miami Heat;Jeremiah Robinson-Earl;1;1;26.0;16.0;1.0;4.0;5.0;2.0;0.0;1.0;2.0;0.0;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Miami Heat;Tre Mann;2;0;17.5;12.5;1.0;4.0;5.0;0.0;0.0;0.0;0.5;2.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Miami Heat;Aaron Wiggins;2;1;24.5;11.5;0.5;1.0;1.5;0.5;0.5;0.0;2.5;2.0;0.2
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Miami Heat;Darius Bazley;2;2;27.0;11.0;0.5;3.5;4.0;0.5;1.0;2.5;0.5;1.5;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Miami Heat;Aleksej Pokusevski;2;1;25.0;10.5;2.5;6.0;8.5;3.0;0.5;0.0;1.5;1.0;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Miami Heat;Josh Giddey;1;1;32.0;6.0;2.0;7.0;9.0;9.0;1.0;2.0;4.0;1.0;2.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Miami Heat;Kenrich Williams;1;0;17.0;5.0;0.0;2.0;2.0;3.0;1.0;0.0;2.0;1.0;1.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Miami Heat;Lindy Waters III;1;0;11.0;5.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;0.0;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Miami Heat;Theo Maledon;1;0;14.0;4.0;0.0;4.0;4.0;2.0;0.0;1.0;1.0;0.0;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Miami Heat;Isaiah Roby;2;0;15.0;3.5;0.0;2.0;2.0;3.0;0.0;1.0;0.0;0.5;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Miami Heat;Ty Jerome;1;0;12.0;3.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Miami Heat;Vit Krejci;1;0;29.0;3.0;3.0;2.0;5.0;2.0;0.0;0.0;0.0;0.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Miami Heat;Mike Muscala;1;0;8.0;2.0;1.0;3.0;4.0;0.0;0.0;0.0;1.0;1.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Miami Heat;Olivier Sarr;1;1;14.0;0.0;2.0;1.0;3.0;0.0;0.0;1.0;0.0;1.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Miami Heat;Total;2;"";"";99.0;10.0;34.5;44.5;22.5;5.0;7.5;15.0;12.5;1.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Orlando Magic;Theo Maledon;2;0;26.5;17.5;0.0;4.5;4.5;5.0;1.0;1.5;3.5;3.0;1.4
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Orlando Magic;Tre Mann;2;2;30.0;17.0;1.0;2.5;3.5;1.0;1.0;0.5;2.0;1.5;0.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Orlando Magic;Isaiah Roby;2;2;31.0;16.0;4.5;4.0;8.5;3.5;2.5;2.0;1.5;3.0;2.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Orlando Magic;Darius Bazley;2;2;28.5;14.0;0.0;2.5;2.5;1.0;0.5;0.0;0.5;1.5;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Orlando Magic;Vit Krejci;2;0;30.0;10.0;0.0;8.0;8.0;1.5;1.0;0.0;1.5;2.5;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Orlando Magic;Lindy Waters III;2;0;20.0;9.5;0.5;4.5;5.0;0.5;0.5;0.5;0.0;1.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Orlando Magic;Aleksej Pokusevski;2;2;30.5;6.5;1.5;6.0;7.5;4.5;2.0;2.0;3.5;2.5;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Orlando Magic;Olivier Sarr;2;0;19.0;6.0;0.5;2.5;3.0;1.5;0.5;0.0;0.5;3.5;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Orlando Magic;Aaron Wiggins;2;2;24.5;5.0;1.5;1.5;3.0;1.5;0.5;0.0;0.5;1.5;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Orlando Magic;Total;2;"";"";101.5;9.5;36.0;45.5;20.0;9.5;6.5;13.5;20.0;1.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Washington Wizards;Shai Gilgeous-Alexander;2;2;34.5;23.5;0.0;5.5;5.5;8.5;1.0;0.5;1.5;2.5;5.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Washington Wizards;Luguentz Dort;2;2;35.0;19.0;0.5;4.0;4.5;2.0;1.0;0.0;0.0;2.5;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Washington Wizards;Josh Giddey;2;2;32.5;14.5;1.5;5.0;6.5;6.0;1.5;0.0;1.5;1.0;4.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Washington Wizards;Kenrich Williams;1;0;24.0;11.0;3.0;2.0;5.0;1.0;1.0;0.0;0.0;3.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Washington Wizards;Darius Bazley;2;1;26.0;11.0;1.5;5.5;7.0;0.5;0.0;0.5;0.0;1.5;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Washington Wizards;Tre Mann;2;0;20.0;9.0;0.5;1.0;1.5;0.0;0.5;0.0;0.0;1.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Washington Wizards;Jeremiah Robinson-Earl;2;2;25.5;8.5;0.5;2.0;2.5;1.0;0.0;0.5;1.0;2.0;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Washington Wizards;Ty Jerome;2;0;12.5;8.0;0.5;0.5;1.0;1.5;0.0;0.0;0.0;0.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Washington Wizards;Aleksej Pokusevski;1;0;17.0;7.0;2.0;4.0;6.0;2.0;1.0;0.0;3.0;3.0;0.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Washington Wizards;Mike Muscala;2;0;13.5;4.0;0.0;1.5;1.5;1.5;0.5;1.0;0.5;1.0;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Washington Wizards;Aaron Wiggins;1;1;18.0;2.0;2.0;4.0;6.0;0.0;1.0;0.0;1.0;3.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Washington Wizards;Derrick Favors;2;0;10.5;1.0;1.0;1.5;2.5;0.5;0.0;0.0;0.5;1.5;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Washington Wizards;Total;2;"";"";108.5;9.5;31.5;41.0;23.0;6.0;2.5;7.0;17.5;3.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Denver Nuggets;Shai Gilgeous-Alexander;3;3;35.0;21.3;1.0;6.7;7.7;7.0;1.3;1.3;3.0;3.0;2.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Denver Nuggets;Luguentz Dort;2;2;31.5;14.5;1.0;4.5;5.5;1.0;0.0;0.5;2.0;3.5;0.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Denver Nuggets;Theo Maledon;2;1;25.5;14.5;0.0;3.5;3.5;3.5;1.0;0.0;2.5;1.5;1.4
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Denver Nuggets;Jeremiah Robinson-Earl;2;2;29.5;13.0;3.5;3.0;6.5;1.5;2.0;0.0;0.5;1.5;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Denver Nuggets;Isaiah Roby;3;2;20.3;12.7;2.3;3.0;5.3;2.7;0.7;1.3;0.7;3.0;4.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Denver Nuggets;Josh Giddey;2;2;33.0;12.5;0.5;5.5;6.0;5.5;1.5;0.5;1.5;1.0;3.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Denver Nuggets;Darius Bazley;4;2;24.5;11.5;1.5;5.3;6.8;1.3;0.8;1.3;0.8;0.5;1.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Denver Nuggets;Tre Mann;4;2;25.8;10.5;0.8;3.3;4.0;2.5;1.3;0.3;1.8;1.5;1.4
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Denver Nuggets;Lindy Waters III;2;0;22.5;10.0;0.0;2.5;2.5;1.5;1.5;0.0;0.5;3.5;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Denver Nuggets;Aaron Wiggins;2;0;24.0;9.0;0.5;1.0;1.5;3.0;0.5;1.0;0.5;0.0;6.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Denver Nuggets;Aleksej Pokusevski;4;2;22.3;8.3;0.0;4.8;4.8;2.3;1.3;0.5;2.0;1.8;1.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Denver Nuggets;Mike Muscala;1;0;14.0;8.0;1.0;2.0;3.0;1.0;1.0;0.0;0.0;1.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Denver Nuggets;Vit Krejci;2;0;24.0;8.0;0.5;3.5;4.0;3.0;0.0;1.0;1.0;2.5;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Denver Nuggets;Derrick Favors;2;2;18.0;6.0;1.0;3.0;4.0;1.5;0.5;0.0;0.0;2.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Denver Nuggets;Olivier Sarr;2;0;16.5;5.5;2.0;0.5;2.5;2.0;0.0;0.0;1.0;1.0;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Denver Nuggets;Kenrich Williams;2;0;17.0;5.0;1.0;3.0;4.0;2.0;0.5;0.0;0.5;2.5;4.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Denver Nuggets;Ty Jerome;1;0;7.0;2.0;0.0;3.0;3.0;1.0;0.0;0.0;1.0;0.0;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Denver Nuggets;Total;4;"";"";107.3;10.0;36.8;46.8;26.0;8.8;5.5;12.5;18.0;2.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Isaiah Roby;2;2;36.0;18.0;2.5;4.5;7.0;2.5;3.0;0.0;2.0;3.5;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Shai Gilgeous-Alexander;4;4;31.8;18.0;0.3;3.0;3.3;6.5;1.0;0.3;4.3;2.3;1.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Luguentz Dort;1;1;27.0;18.0;0.0;3.0;3.0;1.0;0.0;2.0;1.0;2.0;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Aaron Wiggins;3;3;34.0;16.3;2.3;4.0;6.3;3.3;1.3;0.0;1.3;2.0;2.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Josh Giddey;2;2;32.5;12.0;2.5;7.5;10.0;5.5;1.0;0.0;4.5;2.5;1.2
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Tre Mann;3;1;23.7;9.3;0.3;4.7;5.0;0.7;1.0;0.0;3.7;1.3;0.2
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Mike Muscala;2;0;14.0;9.0;0.5;3.0;3.5;0.5;2.0;2.0;0.5;2.5;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Theo Maledon;3;0;17.7;9.0;0.7;2.7;3.3;2.0;0.3;0.0;1.7;2.3;1.2
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Aleksej Pokusevski;4;2;20.3;8.5;0.8;3.0;3.8;1.3;0.8;0.5;1.0;1.5;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Kenrich Williams;2;0;20.5;7.5;3.5;3.0;6.5;2.0;3.0;0.0;1.0;2.0;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Darius Bazley;4;2;23.3;7.3;1.0;3.3;4.3;1.5;0.8;0.8;1.8;1.0;0.9
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Lindy Waters III;2;1;27.5;6.5;0.0;3.5;3.5;2.0;0.5;0.5;1.0;2.0;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Paul Watson;1;0;4.0;6.0;0.0;2.0;2.0;1.0;0.0;0.0;0.0;0.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Vit Krejci;2;0;26.5;4.5;0.5;0.5;1.0;1.0;1.0;0.0;1.0;1.0;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Ty Jerome;2;0;8.0;4.0;1.0;0.5;1.5;2.5;0.0;0.0;0.5;1.0;5.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Jeremiah Robinson-Earl;2;2;23.5;3.5;1.5;3.5;5.0;1.0;0.5;1.0;1.0;1.5;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Olivier Sarr;2;0;12.5;2.5;1.0;3.0;4.0;0.5;0.5;0.0;1.0;2.5;0.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Total;4;"";"";99.5;11.0;33.5;44.5;23.0;10.3;3.8;18.5;18.8;1.2
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Isaiah Roby;2;2;40.5;24.0;1.5;5.5;7.0;3.5;1.5;4.0;2.5;3.0;1.4
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Jaylen Hoard;1;1;46.0;24.0;7.0;14.0;21.0;3.0;3.0;0.0;2.0;2.0;1.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Luguentz Dort;2;2;33.5;20.5;2.0;4.5;6.5;2.5;1.5;0.5;3.0;2.0;0.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Aaron Wiggins;2;2;34.0;17.5;3.5;3.0;6.5;4.0;0.0;0.0;2.0;0.5;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Georgios Kalaitzakis;1;1;43.0;17.0;0.0;1.0;1.0;2.0;3.0;1.0;7.0;1.0;0.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Josh Giddey;2;2;34.0;15.0;1.5;8.0;9.5;3.5;0.5;0.5;4.0;2.0;0.9
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Vit Krejci;2;2;27.0;11.5;0.0;3.0;3.0;1.5;2.5;0.5;1.0;1.0;1.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Olivier Sarr;2;0;37.0;11.0;3.0;5.5;8.5;0.5;1.0;1.0;1.5;2.0;0.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Tre Mann;2;2;28.0;11.0;0.5;2.0;2.5;0.5;1.5;0.0;1.0;0.0;0.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Aleksej Pokusevski;1;1;41.0;11.0;1.0;7.0;8.0;11.0;0.0;1.0;6.0;3.0;1.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Ty Jerome;2;0;21.5;10.0;0.0;1.5;1.5;7.0;0.0;0.0;1.0;3.0;7.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Lindy Waters III;2;0;14.5;10.0;0.5;1.0;1.5;1.5;0.5;0.0;1.5;1.0;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Zavier Simpson;1;1;44.0;10.0;0.0;3.0;3.0;5.0;1.0;2.0;2.0;3.0;2.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Darius Bazley;2;1;31.0;9.5;2.0;6.5;8.5;3.0;0.5;0.5;1.0;0.0;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Kenrich Williams;2;0;24.0;9.0;3.0;2.0;5.0;3.0;1.0;0.0;1.0;1.5;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Mike Muscala;2;0;13.0;8.0;1.0;3.0;4.0;0.5;0.5;1.0;0.0;1.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Theo Maledon;3;1;20.0;7.7;0.0;4.0;4.0;2.3;0.0;0.0;1.3;1.0;1.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Mamadi Diakite;2;1;19.5;7.5;0.5;4.5;5.0;1.0;0.0;1.5;1.0;3.5;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Derrick Favors;1;1;21.0;6.0;0.0;7.0;7.0;0.0;0.0;1.0;0.0;3.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Jeremiah Robinson-Earl;1;0;15.0;6.0;2.0;6.0;8.0;1.0;1.0;0.0;0.0;0.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Total;4;"";"";106.5;12.0;37.5;49.5;23.3;7.5;6.0;15.5;14.0;1.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Utah Jazz;Shai Gilgeous-Alexander;2;2;35.5;25.5;0.5;5.0;5.5;5.0;2.0;0.5;0.5;3.0;10.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Utah Jazz;Jaylen Hoard;1;1;36.0;23.0;2.0;3.0;5.0;3.0;1.0;1.0;1.0;4.0;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Utah Jazz;Luguentz Dort;2;2;33.5;17.0;1.0;3.5;4.5;2.5;1.5;0.0;2.5;2.5;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Utah Jazz;Jeremiah Robinson-Earl;3;1;19.3;13.7;0.7;4.0;4.7;1.3;0.0;0.0;0.3;1.7;4.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Utah Jazz;Isaiah Roby;2;1;20.5;13.0;3.0;2.5;5.5;3.0;0.5;0.0;0.5;4.0;6.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Utah Jazz;Josh Giddey;2;2;31.0;11.5;1.0;7.5;8.5;5.5;0.0;0.0;3.5;2.5;1.6
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Utah Jazz;Darius Bazley;3;3;32.3;11.3;0.7;6.0;6.7;1.7;0.7;2.0;0.7;0.3;2.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Utah Jazz;Olivier Sarr;1;0;20.0;11.0;5.0;4.0;9.0;0.0;1.0;2.0;3.0;2.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Utah Jazz;Georgios Kalaitzakis;1;1;30.0;11.0;1.0;1.0;2.0;1.0;2.0;0.0;2.0;3.0;0.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Utah Jazz;Kenrich Williams;2;0;16.5;9.5;0.0;1.0;1.0;2.0;1.5;0.0;1.0;2.5;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Utah Jazz;Melvin Frazier Jr.;1;0;33.0;8.0;3.0;2.0;5.0;0.0;1.0;0.0;1.0;0.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Utah Jazz;Ty Jerome;1;0;18.0;8.0;0.0;2.0;2.0;0.0;0.0;1.0;0.0;1.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Utah Jazz;Lindy Waters III;2;0;19.5;8.0;0.5;2.5;3.0;0.5;0.0;1.0;0.0;1.5;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Utah Jazz;Tre Mann;2;1;20.0;7.5;0.0;2.0;2.0;2.0;0.5;0.5;0.5;0.5;4.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Utah Jazz;Aaron Wiggins;2;2;30.5;6.0;2.0;1.5;3.5;1.5;1.5;0.0;1.0;3.0;1.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Utah Jazz;Theo Maledon;3;0;17.7;5.7;0.0;2.3;2.3;1.3;0.3;0.0;0.7;1.0;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Utah Jazz;Aleksej Pokusevski;3;1;21.3;5.3;1.7;3.3;5.0;2.7;0.7;0.3;1.3;1.0;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Utah Jazz;Mike Muscala;1;0;8.0;5.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;1.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Utah Jazz;Vit Krejci;3;1;19.0;5.0;0.0;3.0;3.0;2.0;0.7;0.0;0.7;2.7;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Utah Jazz;Zavier Simpson;1;1;39.0;4.0;1.0;2.0;3.0;11.0;3.0;0.0;4.0;3.0;2.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Utah Jazz;Derrick Favors;2;1;17.0;2.5;2.0;4.5;6.5;0.5;0.5;0.5;0.5;0.5;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Utah Jazz;Total;4;"";"";98.5;10.3;32.8;43.0;21.8;7.8;4.0;10.8;18.5;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Golden State Warriors;Shai Gilgeous-Alexander;2;2;32.0;22.5;0.0;3.0;3.0;3.0;1.0;0.0;1.0;2.5;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Golden State Warriors;Luguentz Dort;3;3;33.7;17.0;1.7;1.3;3.0;1.7;1.3;0.3;3.0;2.3;0.6
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Golden State Warriors;Josh Giddey;3;3;28.3;11.0;1.7;6.3;8.0;5.7;1.0;0.7;2.3;2.3;2.4
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Golden State Warriors;Darius Bazley;3;3;28.0;10.7;1.3;5.7;7.0;0.3;1.0;0.7;1.0;0.7;0.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Golden State Warriors;Jeremiah Robinson-Earl;2;2;23.0;9.0;1.5;2.5;4.0;1.0;0.5;0.0;2.5;0.5;0.4
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Golden State Warriors;Aleksej Pokusevski;2;0;19.0;8.0;0.0;6.5;6.5;0.5;0.5;0.5;2.0;1.5;0.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Golden State Warriors;Kenrich Williams;3;0;25.3;7.0;0.7;4.3;5.0;2.7;0.7;0.3;1.3;0.3;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Golden State Warriors;Gabriel Deck;1;0;7.0;7.0;1.0;0.0;1.0;0.0;1.0;0.0;1.0;0.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Golden State Warriors;Ty Jerome;2;0;19.0;6.5;0.5;2.0;2.5;3.0;1.0;0.0;0.0;1.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Golden State Warriors;Tre Mann;2;1;22.0;6.5;0.0;3.0;3.0;2.0;1.0;0.5;1.5;1.0;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Golden State Warriors;Mamadi Diakite;1;0;14.0;6.0;2.0;3.0;5.0;0.0;0.0;1.0;0.0;1.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Golden State Warriors;Mike Muscala;2;0;16.5;5.5;1.0;3.0;4.0;0.0;0.0;1.0;1.0;0.5;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Golden State Warriors;Derrick Favors;2;1;18.5;3.0;2.0;2.5;4.5;0.0;0.5;0.0;0.0;1.5;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Golden State Warriors;Theo Maledon;3;0;14.3;1.3;0.3;1.3;1.7;1.3;0.3;0.0;1.3;1.3;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Golden State Warriors;Isaiah Roby;2;0;5.5;1.0;0.0;1.0;1.0;0.0;0.0;0.0;0.5;0.5;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Golden State Warriors;Total;3;"";"";92.7;10.0;35.7;45.7;18.0;7.7;3.7;15.0;13.3;1.2
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. LA Clippers;Luguentz Dort;1;1;37.0;29.0;1.0;4.0;5.0;1.0;2.0;0.0;2.0;4.0;0.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. LA Clippers;Shai Gilgeous-Alexander;2;2;38.0;23.0;1.5;3.5;5.0;4.0;1.5;0.5;2.0;4.5;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. LA Clippers;Zavier Simpson;1;1;45.0;17.0;1.0;8.0;9.0;7.0;1.0;1.0;2.0;3.0;3.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. LA Clippers;Georgios Kalaitzakis;1;1;48.0;17.0;1.0;5.0;6.0;3.0;2.0;0.0;3.0;4.0;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. LA Clippers;Isaiah Roby;1;1;18.0;16.0;1.0;2.0;3.0;1.0;2.0;0.0;1.0;0.0;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. LA Clippers;Vit Krejci;1;1;40.0;16.0;2.0;1.0;3.0;2.0;0.0;0.0;1.0;3.0;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. LA Clippers;Jaylen Hoard;1;1;45.0;14.0;6.0;9.0;15.0;3.0;1.0;1.0;1.0;2.0;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. LA Clippers;Darius Bazley;2;1;27.5;12.5;1.0;3.0;4.0;0.5;0.0;1.5;4.0;0.0;0.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. LA Clippers;Josh Giddey;2;2;33.0;11.5;2.0;9.5;11.5;8.5;1.0;1.0;3.5;2.0;2.4
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. LA Clippers;Tre Mann;1;0;18.0;11.0;0.0;3.0;3.0;1.0;0.0;1.0;1.0;2.0;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. LA Clippers;Aleksej Pokusevski;2;0;12.0;9.5;2.0;3.0;5.0;0.5;0.5;0.5;0.5;0.5;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. LA Clippers;Melvin Frazier Jr.;1;0;43.0;8.0;1.0;3.0;4.0;1.0;0.0;0.0;0.0;4.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. LA Clippers;Theo Maledon;1;0;28.0;7.0;2.0;5.0;7.0;1.0;0.0;0.0;3.0;2.0;0.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. LA Clippers;Mike Muscala;2;0;19.5;5.0;0.0;5.0;5.0;2.0;0.5;0.0;0.5;1.0;4.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. LA Clippers;Aaron Wiggins;1;1;18.0;5.0;1.0;2.0;3.0;1.0;0.0;1.0;0.0;1.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. LA Clippers;Jeremiah Robinson-Earl;2;2;20.5;5.0;1.5;3.5;5.0;1.0;1.0;0.0;1.0;2.0;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. LA Clippers;Derrick Favors;2;1;13.5;4.5;0.0;3.0;3.0;0.5;0.0;0.0;0.0;1.5;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. LA Clippers;Kenrich Williams;2;0;22.0;2.0;3.5;2.0;5.5;1.0;0.0;0.5;1.0;1.5;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. LA Clippers;Ty Jerome;1;0;6.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;1.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. LA Clippers;Total;3;"";"";95.3;13.0;35.7;48.7;19.0;6.0;4.0;13.0;17.3;1.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Jaylen Hoard;1;1;47.0;27.0;6.0;11.0;17.0;4.0;1.0;1.0;2.0;3.0;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Georgios Kalaitzakis;1;1;45.0;25.0;0.0;4.0;4.0;6.0;3.0;0.0;4.0;3.0;1.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Shai Gilgeous-Alexander;3;3;35.7;22.0;1.3;3.3;4.7;5.0;0.3;0.7;2.0;1.0;2.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Melvin Frazier Jr.;1;0;44.0;16.0;1.0;3.0;4.0;0.0;0.0;0.0;2.0;4.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Luguentz Dort;3;3;34.0;15.0;0.3;2.7;3.0;1.7;0.7;0.0;2.0;2.0;0.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Darius Bazley;3;3;26.7;14.3;1.0;5.0;6.0;1.7;2.7;0.3;2.3;1.0;0.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Zavier Simpson;1;1;47.0;13.0;0.0;6.0;6.0;7.0;0.0;1.0;2.0;6.0;3.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Josh Giddey;3;3;32.0;11.7;1.3;4.3;5.7;8.3;1.7;0.3;3.7;2.0;2.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Derrick Favors;3;2;22.3;11.3;2.3;5.0;7.3;0.0;0.0;0.0;0.7;2.3;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Tre Mann;2;0;16.5;11.0;0.5;1.5;2.0;0.0;0.5;0.0;0.0;2.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Isaiah Roby;3;1;11.7;9.7;1.3;1.3;2.7;1.0;0.0;0.3;1.0;2.7;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Ty Jerome;2;0;17.5;8.5;0.0;2.5;2.5;2.5;1.0;0.0;1.0;2.0;2.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Kenrich Williams;3;0;22.7;6.0;2.3;3.7;6.0;1.7;1.0;0.0;1.0;1.3;1.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Vit Krejci;1;1;43.0;6.0;1.0;8.0;9.0;2.0;1.0;1.0;2.0;5.0;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Mike Muscala;2;0;5.5;4.0;1.0;2.5;3.5;0.0;0.0;0.0;1.0;1.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Jeremiah Robinson-Earl;3;1;14.0;2.7;1.7;2.0;3.7;0.3;0.0;0.3;0.7;0.7;0.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Aleksej Pokusevski;3;0;11.3;2.3;0.7;2.3;3.0;0.3;0.3;0.3;1.0;1.3;0.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Gabriel Deck;1;0;3.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Theo Maledon;3;0;5.3;1.7;0.7;0.7;1.3;0.7;0.0;0.3;0.3;0.0;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Paul Watson;1;0;5.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;1.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Total;4;"";"";106.5;12.5;34.3;46.8;21.5;7.3;2.8;15.0;18.8;1.4
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Phoenix Suns;Shai Gilgeous-Alexander;2;2;36.5;30.5;1.0;2.5;3.5;6.0;0.0;0.5;5.5;2.5;1.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Phoenix Suns;Ty Jerome;1;1;35.0;24.0;5.0;3.0;8.0;5.0;3.0;0.0;2.0;3.0;2.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Phoenix Suns;Josh Giddey;2;2;34.0;16.0;2.0;5.5;7.5;4.0;1.5;0.0;2.5;0.5;1.6
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Phoenix Suns;Aaron Wiggins;4;4;27.3;12.5;0.8;5.3;6.0;1.8;1.0;0.3;1.5;2.0;1.2
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Phoenix Suns;Jeremiah Robinson-Earl;2;1;23.5;12.5;2.5;2.5;5.0;0.0;0.0;0.5;1.0;0.5;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Phoenix Suns;Mike Muscala;2;0;14.0;11.5;1.5;4.0;5.5;1.0;0.0;0.5;0.0;3.5;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Phoenix Suns;Paul Watson;1;1;37.0;11.0;0.0;6.0;6.0;2.0;0.0;0.0;1.0;1.0;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Phoenix Suns;Isaiah Roby;3;2;24.7;10.0;1.0;3.0;4.0;1.7;0.7;0.3;0.3;2.7;5.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Phoenix Suns;Aleksej Pokusevski;3;1;22.7;10.0;1.0;4.7;5.7;4.3;0.7;0.7;2.3;2.3;1.9
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Phoenix Suns;Luguentz Dort;2;2;34.0;9.5;0.5;4.0;4.5;2.0;1.0;0.5;1.0;3.0;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Phoenix Suns;Vit Krejci;2;1;29.0;9.5;0.5;3.5;4.0;4.5;0.5;0.5;1.0;2.5;4.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Phoenix Suns;Olivier Sarr;3;0;8.3;8.0;0.7;1.3;2.0;0.3;0.0;0.7;0.7;1.0;0.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Phoenix Suns;Tre Mann;2;0;24.5;7.5;0.0;3.0;3.0;4.0;2.0;0.0;0.0;1.5;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Phoenix Suns;Lindy Waters III;2;0;12.0;5.0;1.5;1.0;2.5;0.0;1.5;0.5;0.5;0.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Phoenix Suns;Darius Bazley;2;1;21.5;5.0;1.0;7.0;8.0;1.0;0.5;1.0;1.5;0.5;0.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Phoenix Suns;Theo Maledon;3;1;17.0;5.0;0.0;2.7;2.7;2.0;0.3;0.0;0.7;1.3;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Phoenix Suns;Scotty Hopson;1;0;18.0;4.0;0.0;1.0;1.0;1.0;0.0;0.0;2.0;1.0;0.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Phoenix Suns;Kenrich Williams;2;0;14.0;3.5;1.0;1.5;2.5;1.5;0.5;0.0;2.0;0.5;0.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Phoenix Suns;Derrick Favors;2;1;15.0;3.0;1.0;1.5;2.5;1.0;1.0;0.0;0.0;2.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Phoenix Suns;Jaylen Hoard;2;0;13.0;2.0;1.5;1.5;3.0;0.5;0.0;0.0;1.0;1.0;0.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Phoenix Suns;Rob Edwards;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Phoenix Suns;Total;4;"";"";104.8;11.0;35.3;46.3;22.8;7.3;3.5;13.8;17.8;1.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Sacramento Kings;Shai Gilgeous-Alexander;3;3;34.3;30.7;0.3;4.3;4.7;6.0;1.7;0.0;3.3;4.7;1.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Sacramento Kings;Luguentz Dort;2;2;32.5;20.5;2.0;4.5;6.5;1.0;1.5;0.5;2.0;3.5;0.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Sacramento Kings;Josh Giddey;2;2;31.0;15.5;0.0;4.5;4.5;6.5;0.0;0.0;2.5;1.5;2.6
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Sacramento Kings;Darius Bazley;3;3;33.0;13.7;1.3;4.3;5.7;1.0;1.3;1.3;1.7;0.7;0.6
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Sacramento Kings;Tre Mann;3;2;27.3;13.0;0.3;2.3;2.7;2.7;0.7;0.0;2.3;2.7;1.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Sacramento Kings;Vit Krejci;1;0;29.0;10.0;1.0;4.0;5.0;2.0;1.0;0.0;1.0;4.0;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Sacramento Kings;Mamadi Diakite;1;1;24.0;9.0;2.0;6.0;8.0;0.0;0.0;0.0;0.0;2.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Sacramento Kings;Aaron Wiggins;2;2;17.5;8.5;1.5;1.5;3.0;0.0;0.5;0.5;0.5;2.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Sacramento Kings;Isaiah Roby;2;2;21.0;8.0;1.5;3.5;5.0;1.0;1.5;1.0;1.5;3.5;0.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Sacramento Kings;Olivier Sarr;2;0;18.5;8.0;0.0;4.5;4.5;0.0;0.0;1.0;0.0;2.5;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Sacramento Kings;Theo Maledon;3;0;21.3;8.0;0.0;0.7;0.7;2.0;1.0;0.0;0.7;0.7;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Sacramento Kings;Mike Muscala;2;0;13.0;7.5;0.0;1.5;1.5;0.0;0.0;1.5;0.0;1.5;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Sacramento Kings;Aleksej Pokusevski;3;0;22.7;7.3;3.3;4.3;7.7;3.3;0.7;1.3;1.3;0.7;2.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Sacramento Kings;Kenrich Williams;3;0;21.0;7.0;1.0;5.0;6.0;1.0;0.7;0.3;1.0;1.3;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Sacramento Kings;Derrick Favors;2;0;15.0;5.0;0.5;2.0;2.5;0.0;1.0;0.0;0.5;1.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Sacramento Kings;Paul Watson;1;1;22.0;5.0;0.0;4.0;4.0;2.0;2.0;0.0;0.0;3.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Sacramento Kings;Gabriel Deck;1;0;11.0;5.0;0.0;1.0;1.0;2.0;0.0;0.0;0.0;0.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Sacramento Kings;Ty Jerome;3;1;16.0;3.3;0.3;1.0;1.3;2.7;0.7;0.0;1.0;2.7;2.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Sacramento Kings;Lindy Waters III;1;0;18.0;3.0;0.0;3.0;3.0;0.0;0.0;0.0;0.0;1.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Sacramento Kings;Jeremiah Robinson-Earl;1;1;29.0;2.0;4.0;10.0;14.0;1.0;2.0;0.0;0.0;0.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Sacramento Kings;Total;4;"";"";107.3;9.5;34.5;44.0;20.0;8.5;4.5;12.3;20.3;1.6
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Dallas Mavericks;Shai Gilgeous-Alexander;2;2;35.0;26.0;0.5;4.5;5.0;5.0;1.0;1.0;1.5;2.5;3.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Dallas Mavericks;Luguentz Dort;3;3;30.7;19.3;0.3;4.7;5.0;1.7;0.3;0.7;1.7;3.7;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Dallas Mavericks;Tre Mann;3;1;24.7;13.0;0.0;1.3;1.3;1.7;0.7;0.3;1.0;3.0;1.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Dallas Mavericks;Isaiah Roby;1;1;20.0;12.0;3.0;1.0;4.0;1.0;0.0;0.0;1.0;2.0;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Dallas Mavericks;Josh Giddey;4;4;33.8;11.8;2.0;6.3;8.3;8.3;2.0;0.3;4.3;1.5;1.9
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Dallas Mavericks;Jeremiah Robinson-Earl;2;2;19.5;10.0;0.0;2.5;2.5;1.0;0.5;0.0;0.0;2.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Dallas Mavericks;Aaron Wiggins;3;2;31.0;8.7;0.7;4.3;5.0;0.3;1.0;0.0;1.3;2.3;0.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Dallas Mavericks;Darius Bazley;3;2;28.3;8.3;1.0;6.7;7.7;1.0;0.7;2.3;1.7;2.0;0.6
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Dallas Mavericks;Ty Jerome;4;1;19.3;8.3;0.0;1.3;1.3;1.8;0.0;0.3;1.3;1.3;1.4
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Dallas Mavericks;Derrick Favors;2;0;15.0;6.5;0.5;4.0;4.5;0.0;0.0;0.5;0.0;1.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Dallas Mavericks;Aleksej Pokusevski;2;1;26.0;6.5;1.0;6.0;7.0;2.0;1.0;1.0;1.0;1.5;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Dallas Mavericks;Kenrich Williams;3;0;23.7;6.3;0.3;2.0;2.3;2.7;0.7;0.3;1.0;2.0;2.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Dallas Mavericks;Mike Muscala;4;0;15.8;5.0;0.5;2.5;3.0;0.5;0.3;0.5;0.8;1.3;0.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Dallas Mavericks;Rob Edwards;1;0;9.0;3.0;0.0;3.0;3.0;0.0;0.0;0.0;1.0;0.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Dallas Mavericks;Theo Maledon;3;0;16.7;2.7;0.0;0.3;0.3;1.0;1.3;0.0;0.0;1.3;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Dallas Mavericks;Mamadi Diakite;2;1;12.0;2.0;2.5;3.5;6.0;0.0;1.0;0.5;0.5;2.5;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Dallas Mavericks;Total;4;"";"";98.0;7.3;35.8;43.0;21.0;7.5;5.3;13.3;20.0;1.6
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Houston Rockets;Shai Gilgeous-Alexander;4;4;33.5;22.3;0.8;3.8;4.5;4.3;1.5;1.0;2.8;1.3;1.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Houston Rockets;Luguentz Dort;4;4;31.3;17.0;0.8;2.8;3.5;2.8;1.5;0.8;1.3;3.3;2.2
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Houston Rockets;Tre Mann;4;1;21.5;10.8;0.3;2.3;2.5;0.3;1.0;0.3;1.3;1.3;0.2
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Houston Rockets;Mike Muscala;2;0;13.0;9.5;0.0;2.5;2.5;0.0;0.5;0.5;0.0;0.5;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Houston Rockets;Isaiah Roby;3;1;17.0;8.7;0.7;2.3;3.0;1.0;0.7;1.0;1.0;1.3;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Houston Rockets;Josh Giddey;3;3;26.0;7.3;0.7;5.3;6.0;4.3;0.7;1.3;2.0;2.0;2.2
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Houston Rockets;Jeremiah Robinson-Earl;4;3;25.3;6.5;2.0;5.8;7.8;1.3;0.8;0.3;0.5;2.3;2.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Houston Rockets;Kenrich Williams;2;0;20.5;6.0;1.5;1.5;3.0;2.5;0.0;0.5;1.0;2.5;2.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Houston Rockets;Ty Jerome;4;0;13.0;5.8;0.0;0.3;0.3;0.5;0.3;0.0;0.5;1.5;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Houston Rockets;Darius Bazley;4;4;22.3;5.0;0.5;5.8;6.3;1.0;1.3;0.5;1.3;0.5;0.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Houston Rockets;Aleksej Pokusevski;4;0;11.8;4.5;0.8;2.8;3.5;1.3;1.0;0.8;1.3;1.5;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Houston Rockets;Theo Maledon;3;0;9.7;3.3;0.3;0.7;1.0;1.0;1.0;0.3;2.0;1.3;0.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Houston Rockets;Derrick Favors;2;0;14.0;2.5;1.0;3.5;4.5;0.0;0.5;0.0;0.0;1.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Houston Rockets;Vit Krejci;1;0;6.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Houston Rockets;Aaron Wiggins;3;0;7.0;1.7;0.0;1.0;1.0;0.3;0.0;0.0;0.0;2.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Houston Rockets;Paul Watson;2;0;19.5;1.5;0.5;3.5;4.0;0.5;0.0;1.0;0.5;0.5;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Houston Rockets;Gabriel Deck;1;0;9.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Houston Rockets;Total;4;"";"";97.8;7.8;36.0;43.8;18.0;9.5;6.5;13.5;18.8;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Shai Gilgeous-Alexander;2;2;37.5;27.0;0.5;5.0;5.5;5.5;2.5;1.5;1.0;2.5;5.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Josh Giddey;1;1;30.0;19.0;2.0;3.0;5.0;11.0;1.0;0.0;3.0;3.0;3.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Lindy Waters III;1;0;30.0;16.0;0.0;2.0;2.0;3.0;2.0;1.0;0.0;1.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Darius Bazley;3;2;25.7;14.0;0.7;5.3;6.0;1.3;0.3;2.0;3.0;1.0;0.4
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Luguentz Dort;2;2;30.5;13.5;0.0;3.5;3.5;1.5;0.5;1.0;1.5;2.5;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Kenrich Williams;1;0;23.0;13.0;1.0;2.0;3.0;1.0;1.0;0.0;2.0;4.0;0.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Ty Jerome;1;1;35.0;12.0;0.0;2.0;2.0;4.0;2.0;0.0;5.0;1.0;0.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Mike Muscala;2;0;15.5;10.5;0.0;3.0;3.0;0.0;0.0;0.0;0.0;0.5;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Tre Mann;3;2;25.3;9.7;0.7;1.3;2.0;2.3;0.0;0.7;1.3;0.0;1.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Theo Maledon;1;1;26.0;9.0;2.0;3.0;5.0;4.0;1.0;0.0;0.0;3.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Isaiah Roby;2;1;20.5;8.5;0.0;3.5;3.5;0.5;0.0;0.0;1.5;2.0;0.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Derrick Favors;1;1;17.0;6.0;4.0;1.0;5.0;1.0;1.0;1.0;0.0;3.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Aleksej Pokusevski;3;0;20.3;5.7;2.7;3.0;5.7;1.3;0.0;1.0;1.7;1.7;0.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Paul Watson;1;0;32.0;4.0;1.0;2.0;3.0;2.0;0.0;1.0;1.0;3.0;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Gabriel Deck;1;0;22.0;4.0;0.0;2.0;2.0;2.0;0.0;0.0;1.0;2.0;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Jeremiah Robinson-Earl;2;2;21.0;3.5;2.0;3.0;5.0;0.5;0.0;0.0;1.0;1.0;0.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Olivier Sarr;1;0;16.0;2.0;4.0;0.0;4.0;0.0;1.0;0.0;2.0;4.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Aaron Wiggins;1;0;6.0;0.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;0.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Vit Krejci;1;0;20.0;0.0;0.0;3.0;3.0;3.0;0.0;1.0;2.0;3.0;1.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Total;3;"";"";99.7;10.3;28.7;39.0;21.0;5.3;6.7;14.7;17.3;1.4
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Shai Gilgeous-Alexander;3;3;36.0;29.3;0.7;4.7;5.3;3.7;1.0;2.0;3.0;3.0;1.2
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Luguentz Dort;2;2;33.0;20.0;0.0;3.5;3.5;1.5;2.0;0.0;1.5;2.5;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Aaron Wiggins;2;2;27.5;14.0;1.0;3.0;4.0;0.5;0.5;0.0;1.5;3.0;0.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Mike Muscala;3;0;12.3;11.0;0.3;3.0;3.3;0.7;0.3;0.7;0.3;0.7;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Kenrich Williams;3;0;22.7;10.3;0.3;4.3;4.7;1.0;0.7;0.0;0.7;1.3;1.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Darius Bazley;2;2;28.5;8.0;1.5;3.0;4.5;0.5;0.5;0.0;1.0;3.0;0.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Josh Giddey;3;3;31.7;8.0;3.0;7.3;10.3;8.7;0.7;0.3;3.0;2.0;2.9
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Jeremiah Robinson-Earl;3;1;21.0;7.7;1.3;4.3;5.7;0.3;0.3;0.0;1.0;2.3;0.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Tre Mann;2;0;18.5;7.5;0.5;2.5;3.0;2.0;0.5;0.5;0.5;4.5;4.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Theo Maledon;2;0;11.0;6.0;1.0;2.0;3.0;0.0;1.0;0.0;0.0;2.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Derrick Favors;3;2;17.3;3.7;1.0;3.3;4.3;2.7;0.7;0.7;0.3;2.7;8.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Ty Jerome;3;0;10.0;3.0;0.0;0.7;0.7;1.7;0.3;0.3;1.0;1.0;1.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Aleksej Pokusevski;2;0;14.0;2.5;0.0;2.5;2.5;2.0;0.5;0.0;0.5;1.0;4.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Gabriel Deck;1;0;2.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Total;3;"";"";111.7;9.3;39.0;48.3;23.0;7.3;4.3;12.7;23.7;1.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. San Antonio Spurs;Shai Gilgeous-Alexander;3;3;33.3;20.3;1.0;4.7;5.7;8.0;2.0;0.7;3.0;1.0;2.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. San Antonio Spurs;Luguentz Dort;2;2;31.0;14.0;1.5;3.0;4.5;0.0;0.0;0.0;1.0;4.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. San Antonio Spurs;Isaiah Roby;2;2;21.5;13.5;3.5;4.0;7.5;0.5;1.5;0.5;0.0;4.5;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. San Antonio Spurs;Tre Mann;3;2;25.3;13.3;1.3;3.7;5.0;2.3;0.3;0.0;2.0;1.3;1.2
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. San Antonio Spurs;Mike Muscala;2;0;10.5;13.0;0.5;2.0;2.5;0.0;0.0;1.0;0.0;1.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. San Antonio Spurs;Darius Bazley;4;3;30.3;11.0;1.3;6.0;7.3;2.8;0.5;0.5;1.5;0.3;1.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. San Antonio Spurs;Josh Giddey;3;3;31.0;11.0;3.7;5.7;9.3;7.3;0.3;0.0;3.7;1.0;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. San Antonio Spurs;Theo Maledon;3;0;20.3;10.0;0.3;2.0;2.3;3.7;1.3;0.3;1.3;1.0;2.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. San Antonio Spurs;Aleksej Pokusevski;3;0;25.0;9.7;1.3;5.7;7.0;1.7;0.3;0.7;1.3;2.3;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. San Antonio Spurs;Ty Jerome;2;0;18.0;9.5;0.0;1.0;1.0;0.0;0.5;0.0;0.0;2.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. San Antonio Spurs;Aaron Wiggins;3;3;30.3;9.3;1.3;2.3;3.7;1.0;0.3;1.0;1.7;2.0;0.6
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. San Antonio Spurs;Mamadi Diakite;1;0;19.0;8.0;1.0;2.0;3.0;0.0;0.0;0.0;1.0;4.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. San Antonio Spurs;Olivier Sarr;1;0;18.0;8.0;0.0;1.0;1.0;0.0;0.0;0.0;2.0;3.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. San Antonio Spurs;Jeremiah Robinson-Earl;2;2;25.5;8.0;1.0;5.5;6.5;1.5;0.5;1.0;0.5;0.5;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. San Antonio Spurs;Kenrich Williams;1;0;20.0;7.0;1.0;3.0;4.0;1.0;1.0;1.0;0.0;0.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. San Antonio Spurs;Vit Krejci;3;0;9.3;2.7;0.7;2.0;2.7;0.0;0.3;0.0;0.3;1.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. San Antonio Spurs;Lindy Waters III;2;0;10.0;2.5;0.0;1.5;1.5;0.5;1.0;0.0;0.0;1.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. San Antonio Spurs;Derrick Favors;2;0;11.5;2.0;2.5;2.0;4.5;0.5;1.0;0.0;0.0;1.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;vs. San Antonio Spurs;Total;4;"";"";105.3;13.5;36.5;50.0;22.5;6.8;4.0;13.0;16.3;1.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;October;Shai Gilgeous-Alexander;6;6;33.3;22.0;0.5;4.3;4.8;3.8;0.5;0.2;2.0;2.0;1.9
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;October;Luguentz Dort;6;6;31.8;11.7;0.8;2.8;3.7;2.2;1.2;0.3;2.0;2.2;1.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;October;Josh Giddey;6;6;28.2;10.7;1.0;4.8;5.8;5.7;1.3;0.5;1.8;1.8;3.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;October;Darius Bazley;6;6;26.5;10.0;0.7;5.8;6.5;1.5;1.2;1.0;1.2;0.5;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;October;Mike Muscala;4;0;15.3;8.3;0.5;2.5;3.0;0.3;0.8;0.5;0.5;1.3;0.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;October;Kenrich Williams;6;0;20.5;6.8;0.7;2.3;3.0;1.3;0.3;0.2;1.2;1.8;1.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;October;Jeremiah Robinson-Earl;6;2;16.7;6.2;1.0;2.7;3.7;0.3;0.2;0.2;1.3;0.7;0.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;October;Derrick Favors;5;3;17.0;5.8;1.8;3.6;5.4;0.4;0.4;0.2;0.4;1.6;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;October;Isaiah Roby;5;1;10.2;5.2;1.0;1.2;2.2;0.4;0.0;0.2;0.6;1.6;0.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;October;Aleksej Pokusevski;6;0;13.8;5.0;0.5;3.5;4.0;1.2;0.7;0.3;1.7;1.0;0.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;October;Tre Mann;5;0;10.6;4.8;0.4;0.6;1.0;0.2;0.2;0.4;0.2;1.0;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;October;Ty Jerome;3;0;16.0;4.3;0.0;1.3;1.3;2.0;1.3;0.0;0.7;1.0;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;October;Gabriel Deck;3;0;6.3;3.0;0.3;0.3;0.7;0.3;0.3;0.0;0.3;0.0;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;October;Theo Maledon;6;0;14.8;2.2;0.2;1.2;1.3;1.7;0.3;0.0;1.3;1.0;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;October;Vit Krejci;2;0;4.5;1.0;0.0;1.0;1.0;0.0;0.0;0.0;0.5;0.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;October;Total;6;"";"";97.2;8.5;34.8;43.3;19.8;7.5;3.7;14.5;15.8;1.4
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;November;Shai Gilgeous-Alexander;12;12;35.5;19.3;0.6;4.7;5.3;5.0;1.4;0.8;2.8;2.1;1.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;November;Luguentz Dort;13;13;32.9;19.2;0.8;3.8;4.6;1.7;0.7;0.2;1.5;3.2;1.2
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;November;Josh Giddey;14;14;29.9;10.2;1.8;5.9;7.7;5.9;0.9;0.7;3.1;1.7;1.9
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;November;Darius Bazley;14;14;28.6;8.6;1.1;5.7;6.8;1.4;0.4;1.1;1.5;0.9;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;November;Mike Muscala;11;0;14.2;8.4;0.4;2.9;3.3;0.7;0.3;0.7;0.5;1.4;1.6
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;November;Isaiah Roby;5;0;14.0;7.6;1.4;1.8;3.2;0.8;0.4;0.4;0.6;1.0;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;November;Jeremiah Robinson-Earl;14;11;23.5;7.4;1.7;4.7;6.4;1.0;0.8;0.4;0.6;1.6;1.6
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;November;Tre Mann;7;0;14.7;7.4;0.6;1.9;2.4;0.3;0.9;0.3;0.9;1.9;0.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;November;Ty Jerome;14;0;12.3;7.1;0.4;0.8;1.2;0.9;0.6;0.1;0.1;1.3;6.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;November;Kenrich Williams;13;0;20.1;6.8;1.2;2.5;3.8;1.9;0.8;0.2;0.6;1.7;3.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;November;Derrick Favors;11;5;16.5;5.7;1.4;3.5;4.8;0.4;0.5;0.1;0.3;1.1;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;November;Aleksej Pokusevski;14;0;15.2;4.5;1.1;3.1;4.2;1.4;0.3;0.4;1.1;1.3;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;November;Theo Maledon;5;0;11.6;3.4;0.6;1.4;2.0;0.4;0.2;0.2;0.6;0.6;0.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;November;Aaron Wiggins;8;1;15.0;3.3;0.1;1.5;1.6;1.3;0.4;0.1;0.9;1.3;1.4
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;November;Paul Watson;1;0;20.0;0.0;1.0;5.0;6.0;0.0;0.0;2.0;1.0;1.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;November;Gabriel Deck;2;0;2.0;0.0;0.0;0.5;0.5;0.0;0.0;0.0;0.0;0.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;November;Vit Krejci;1;0;0.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;November;Total;14;"";"";99.1;11.0;38.6;49.6;20.4;7.1;5.0;12.8;17.4;1.6
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;December;Shai Gilgeous-Alexander;13;13;35.8;26.2;0.7;3.6;4.3;5.9;0.8;1.0;2.1;2.5;2.9
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;December;Luguentz Dort;14;14;32.7;15.6;0.6;3.2;3.8;1.6;1.1;0.5;1.7;2.9;0.9
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;December;Josh Giddey;10;10;31.3;11.8;1.3;5.8;7.1;6.7;0.8;0.4;2.9;1.7;2.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;December;Aaron Wiggins;9;7;22.6;9.7;0.9;2.8;3.7;0.8;0.7;0.3;0.7;2.1;1.2
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;December;Darius Bazley;11;7;24.8;8.6;1.2;4.8;6.0;0.8;1.1;1.6;1.4;1.0;0.6
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;December;Mike Muscala;13;0;13.3;8.3;0.5;2.5;3.1;0.5;0.2;0.4;0.2;1.2;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;December;Jeremiah Robinson-Earl;12;11;24.1;8.2;2.1;4.0;6.1;0.8;0.3;0.1;1.0;1.8;0.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;December;Tre Mann;11;2;20.2;8.1;0.4;1.9;2.3;0.9;0.4;0.2;0.7;1.7;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;December;Ty Jerome;10;2;17.9;7.5;0.6;1.4;2.0;2.3;0.7;0.1;1.6;1.6;1.4
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;December;Kenrich Williams;13;0;21.6;7.0;1.5;2.8;4.3;2.1;1.2;0.2;0.8;1.8;2.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;December;Isaiah Roby;7;3;15.0;6.4;0.7;3.3;4.0;0.9;0.3;0.4;1.1;1.6;0.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;December;Derrick Favors;11;3;15.6;4.7;1.2;3.2;4.4;1.4;0.4;0.4;0.1;2.0;15.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;December;Gabriel Deck;2;0;16.5;4.5;0.0;1.5;1.5;2.0;0.0;0.0;0.5;1.0;4.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;December;Theo Maledon;8;0;12.3;4.1;0.5;1.6;2.1;0.9;0.5;0.1;0.8;1.1;1.2
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;December;Scotty Hopson;1;0;18.0;4.0;0.0;1.0;1.0;1.0;0.0;0.0;2.0;1.0;0.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;December;Aleksej Pokusevski;12;0;14.2;3.8;0.9;3.2;4.1;0.8;0.6;0.6;0.9;1.3;0.9
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;December;Paul Watson;7;3;18.9;3.6;0.3;2.4;2.7;1.0;0.4;0.1;0.4;1.3;2.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;December;Olivier Sarr;2;0;7.0;2.0;0.0;2.5;2.5;0.0;0.0;1.0;0.0;0.5;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;December;Rob Edwards;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;December;Jaylen Hoard;1;0;2.0;0.0;1.0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;December;Total;15;"";"";102.5;9.9;34.4;44.3;20.5;6.9;4.9;12.2;19.2;1.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;January;Shai Gilgeous-Alexander;12;12;33.0;22.6;0.9;3.7;4.6;6.3;1.6;0.9;2.6;2.5;2.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;January;Luguentz Dort;12;12;31.8;16.7;0.8;3.3;4.2;1.6;0.8;0.4;1.3;2.9;1.2
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;January;Josh Giddey;14;14;33.2;13.3;2.2;6.4;8.6;6.1;1.0;0.1;3.3;1.6;1.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;January;Isaiah Roby;1;1;20.0;12.0;3.0;1.0;4.0;1.0;0.0;0.0;1.0;2.0;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;January;Darius Bazley;13;2;23.5;9.5;1.0;4.5;5.5;1.1;0.5;0.8;1.1;1.3;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;January;Aaron Wiggins;13;9;25.6;8.3;1.4;3.2;4.5;1.2;1.1;0.2;1.0;2.1;1.2
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;January;Kenrich Williams;9;0;22.2;7.8;2.3;2.7;5.0;2.1;0.9;0.0;1.1;1.4;1.9
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;January;Mike Muscala;13;0;13.2;7.3;0.3;2.0;2.3;0.5;0.8;0.8;0.2;1.6;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;January;Tre Mann;13;2;19.7;7.2;0.2;2.2;2.3;1.2;0.9;0.1;0.9;1.8;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;January;Ty Jerome;13;1;17.7;7.1;0.3;1.1;1.4;2.5;0.5;0.1;0.8;1.3;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;January;Aleksej Pokusevski;4;2;19.5;6.8;0.8;2.5;3.3;1.0;0.8;0.5;1.5;1.0;0.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;January;Jeremiah Robinson-Earl;12;12;24.7;6.3;1.3;4.4;5.8;1.5;1.0;0.6;0.5;2.1;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;January;Paul Watson;1;0;4.0;6.0;0.0;2.0;2.0;1.0;0.0;0.0;0.0;0.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;January;Theo Maledon;4;0;14.5;4.5;0.0;1.3;1.3;1.3;0.8;0.0;0.3;1.3;5.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;January;Derrick Favors;5;3;15.8;4.0;1.6;3.2;4.8;0.6;0.0;0.4;0.0;1.6;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;January;Rob Edwards;1;0;9.0;3.0;0.0;3.0;3.0;0.0;0.0;0.0;1.0;0.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;January;Mamadi Diakite;9;0;11.3;3.0;1.0;2.1;3.1;0.0;0.4;0.4;0.4;2.4;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;January;Total;14;"";"";101.9;10.9;33.9;44.8;22.4;8.6;4.1;12.5;19.4;1.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;February;Shai Gilgeous-Alexander;3;3;35.3;35.0;1.0;4.7;5.7;6.7;1.7;1.0;6.0;3.7;1.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;February;Luguentz Dort;6;6;34.3;23.3;0.8;3.7;4.5;2.0;0.8;0.3;2.8;3.0;0.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;February;Josh Giddey;10;10;33.4;16.3;2.3;6.4;8.7;7.7;0.9;0.1;4.1;1.4;1.9
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;February;Tre Mann;12;11;30.0;14.6;0.2;2.8;2.9;2.7;1.1;0.2;1.1;1.8;2.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;February;Darius Bazley;12;11;33.2;12.3;1.5;6.4;7.9;1.8;1.3;0.9;1.4;0.8;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;February;Aleksej Pokusevski;9;0;24.0;11.0;1.6;4.3;5.9;1.9;0.8;1.1;1.3;1.2;1.4
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;February;Kenrich Williams;8;0;26.0;9.1;1.8;4.8;6.5;3.6;1.0;0.6;1.3;1.5;2.9
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;February;Isaiah Roby;7;5;22.9;8.4;2.1;3.3;5.4;1.3;1.6;0.9;0.9;3.7;1.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;February;Mike Muscala;2;0;16.0;8.0;2.0;3.5;5.5;0.5;0.0;0.5;0.5;0.5;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;February;Ty Jerome;8;1;21.5;7.5;0.4;2.0;2.4;4.3;0.6;0.1;0.8;2.4;5.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;February;Mamadi Diakite;4;3;21.5;7.3;2.0;5.8;7.8;0.5;0.3;1.3;0.8;2.8;0.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;February;Theo Maledon;11;0;16.4;7.0;0.2;1.3;1.5;1.7;0.6;0.3;1.0;1.2;1.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;February;Derrick Favors;7;4;19.3;6.0;1.9;2.7;4.6;0.1;0.7;0.6;0.4;1.7;0.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;February;Aaron Wiggins;7;6;24.1;5.6;0.7;2.4;3.1;0.9;0.3;0.4;0.6;2.3;1.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;February;Olivier Sarr;3;0;16.0;5.3;0.3;2.3;2.7;0.7;0.0;0.0;0.0;3.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;February;Vit Krejci;6;0;15.0;3.7;0.3;1.5;1.8;1.2;0.3;0.0;0.5;1.8;2.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;February;Lindy Waters III;6;0;9.2;2.7;0.0;1.5;1.5;0.0;0.2;0.2;0.0;0.5;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;February;Total;12;"";"";106.6;11.0;35.9;46.9;24.2;8.1;4.8;13.8;18.3;1.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;March;Shai Gilgeous-Alexander;10;10;34.9;29.0;0.4;5.4;5.8;7.5;1.7;0.9;3.3;3.1;2.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;March;Tre Mann;12;11;31.1;15.9;0.9;4.0;4.9;2.6;0.9;0.3;2.6;1.7;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;March;Darius Bazley;13;13;29.8;15.3;0.6;4.7;5.3;1.8;0.8;0.6;1.2;1.1;1.4
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;March;Isaiah Roby;14;12;26.9;12.9;2.3;3.8;6.1;2.4;1.1;1.1;1.0;2.9;2.4
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;March;Aleksej Pokusevski;15;9;29.1;12.2;1.7;5.7;7.3;4.1;0.9;0.7;2.3;1.9;1.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;March;Aaron Wiggins;11;10;30.4;12.0;1.6;2.2;3.8;2.3;0.5;0.1;1.8;1.7;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;March;Theo Maledon;15;5;24.0;11.1;0.5;3.8;4.3;3.8;0.8;0.3;2.1;1.6;1.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;March;Lindy Waters III;15;1;22.3;9.3;0.1;3.1;3.3;1.3;0.9;0.4;0.7;1.7;1.9
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;March;Jeremiah Robinson-Earl;2;0;15.5;7.5;1.0;4.5;5.5;1.5;1.0;0.0;0.5;0.0;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;March;Vit Krejci;15;2;24.9;6.9;0.8;2.9;3.7;1.9;0.8;0.3;0.9;2.3;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;March;Olivier Sarr;14;2;19.2;6.3;1.7;2.4;4.1;0.9;0.4;0.5;1.3;2.6;0.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;March;Total;15;"";"";112.5;9.7;34.3;44.1;24.6;7.9;4.5;14.8;18.2;1.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;April;Theo Maledon;2;2;32.0;18.5;1.0;4.0;5.0;5.5;1.0;1.0;2.5;3.5;2.2
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;April;Georgios Kalaitzakis;4;4;41.5;17.5;0.5;2.8;3.3;3.0;2.5;0.3;4.0;2.8;0.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;April;Jaylen Hoard;6;5;39.7;17.2;4.8;8.8;13.7;2.8;1.0;0.8;1.3;2.3;2.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;April;Aleksej Pokusevski;1;1;36.0;17.0;1.0;9.0;10.0;12.0;1.0;1.0;6.0;5.0;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;April;Isaiah Roby;6;6;27.7;15.5;1.3;4.5;5.8;2.7;1.0;1.2;1.3;2.8;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;April;Olivier Sarr;3;0;30.3;15.0;3.0;4.7;7.7;1.3;0.0;2.0;1.3;1.7;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;April;Jeremiah Robinson-Earl;3;0;14.0;12.3;0.7;2.3;3.0;0.7;0.0;0.0;1.0;0.3;0.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;April;Aaron Wiggins;2;2;25.0;12.0;0.5;4.0;4.5;2.5;0.0;0.0;2.0;1.0;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;April;Lindy Waters III;4;0;19.3;11.0;1.0;2.8;3.8;1.3;1.0;0.3;0.3;0.5;5.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;April;Zavier Simpson;4;4;43.5;11.0;0.5;4.8;5.3;7.5;1.3;1.0;2.5;3.8;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;April;Melvin Frazier Jr.;3;0;40.0;10.7;1.7;2.7;4.3;0.3;0.3;0.0;1.0;2.7;0.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;April;Vit Krejci;6;6;36.2;10.0;0.7;4.5;5.2;3.7;0.8;0.5;1.8;3.3;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;April;Total;6;"";"";101.0;11.5;33.7;45.2;22.8;6.7;5.0;13.2;17.8;1.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Atlantic Division;Shai Gilgeous-Alexander;7;7;35.1;25.6;0.3;4.3;4.6;6.3;0.9;0.6;3.0;2.3;2.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Atlantic Division;Luguentz Dort;8;8;32.9;16.8;0.4;3.4;3.8;2.3;0.5;0.1;1.9;2.9;1.2
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Atlantic Division;Josh Giddey;8;8;30.0;15.3;1.4;5.5;6.9;6.5;1.1;0.3;3.5;1.4;1.9
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Atlantic Division;Darius Bazley;9;8;30.7;13.3;1.6;6.1;7.7;2.0;0.9;0.7;0.9;1.0;2.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Atlantic Division;Tre Mann;8;4;20.1;10.5;0.4;2.5;2.9;1.5;0.9;0.1;1.0;1.9;1.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Atlantic Division;Mike Muscala;4;0;14.3;9.5;0.0;0.8;0.8;0.8;1.0;0.5;0.0;1.8;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Atlantic Division;Ty Jerome;7;0;21.4;9.0;0.6;1.1;1.7;3.7;1.0;0.0;0.4;2.3;8.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Atlantic Division;Kenrich Williams;8;0;24.0;8.4;1.9;3.9;5.8;3.4;1.1;0.3;0.8;2.1;4.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Atlantic Division;Aleksej Pokusevski;9;0;19.0;8.3;0.7;3.8;4.4;1.1;0.9;0.6;0.9;1.2;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Atlantic Division;Derrick Favors;8;4;18.6;6.9;1.8;3.5;5.3;0.6;0.5;0.5;0.4;1.8;1.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Atlantic Division;Aaron Wiggins;6;4;23.5;6.8;0.7;3.0;3.7;2.0;0.8;0.3;0.8;1.8;2.4
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Atlantic Division;Jeremiah Robinson-Earl;5;3;21.0;5.0;1.8;4.2;6.0;1.2;0.2;0.4;0.4;2.4;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Atlantic Division;Isaiah Roby;6;3;16.7;4.8;1.7;3.0;4.7;0.5;0.7;0.2;0.7;2.2;0.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Atlantic Division;Theo Maledon;6;0;14.8;4.8;0.2;1.3;1.5;1.5;0.5;0.3;1.2;1.0;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Atlantic Division;Mamadi Diakite;1;0;10.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Atlantic Division;Vit Krejci;3;0;12.0;2.0;0.0;1.0;1.0;1.0;0.3;0.7;0.3;1.7;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Atlantic Division;Lindy Waters III;2;0;11.5;1.5;0.0;2.0;2.0;0.0;0.0;0.0;0.0;1.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Atlantic Division;Paul Watson;2;1;8.5;1.0;0.5;1.5;2.0;0.0;0.0;0.0;0.5;0.5;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Atlantic Division;Total;10;"";"";107.4;9.7;35.5;45.2;24.8;8.0;3.6;0.0;19.1;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Central Division;Shai Gilgeous-Alexander;8;8;34.4;25.9;0.6;4.6;5.3;7.6;1.9;1.4;3.3;2.6;2.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Central Division;Luguentz Dort;7;7;34.4;19.9;0.7;3.3;4.0;1.3;1.1;0.4;1.1;3.4;1.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Central Division;Theo Maledon;4;1;20.5;12.3;1.0;2.5;3.5;3.5;0.3;0.5;1.5;1.5;2.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Central Division;Josh Giddey;7;7;32.7;11.4;2.4;5.7;8.1;5.1;0.6;0.1;3.4;1.6;1.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Central Division;Isaiah Roby;4;4;28.3;11.3;1.5;5.3;6.8;2.5;0.8;1.3;1.3;2.8;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Central Division;Jaylen Hoard;1;1;40.0;11.0;6.0;14.0;20.0;3.0;0.0;2.0;0.0;1.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Central Division;Mike Muscala;5;0;15.8;10.2;0.6;2.8;3.4;0.0;0.6;0.6;0.2;1.8;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Central Division;Darius Bazley;9;6;28.3;10.1;0.8;6.3;7.1;1.2;1.2;1.3;1.0;1.7;1.2
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Central Division;Lindy Waters III;4;0;18.8;10.0;0.0;3.5;3.5;1.0;0.5;0.3;0.0;0.5;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Central Division;Kenrich Williams;6;0;25.3;9.0;1.2;2.7;3.8;2.3;1.2;0.3;0.8;1.5;2.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Central Division;Tre Mann;8;4;22.4;9.0;0.0;1.9;1.9;1.1;0.8;0.1;0.8;2.3;1.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Central Division;Aleksej Pokusevski;5;0;17.0;7.8;1.2;3.2;4.4;1.6;0.0;0.8;1.2;1.0;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Central Division;Derrick Favors;2;1;17.0;6.0;3.0;3.5;6.5;1.0;0.0;0.5;0.0;0.5;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Central Division;Ty Jerome;7;0;14.7;6.0;0.4;1.9;2.3;1.7;0.7;0.1;0.9;1.0;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Central Division;Olivier Sarr;3;0;20.7;6.0;1.0;2.0;3.0;1.3;0.0;1.3;0.7;2.3;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Central Division;Aaron Wiggins;8;4;20.9;5.8;0.5;1.8;2.3;0.6;0.3;0.0;0.9;1.9;0.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Central Division;Jeremiah Robinson-Earl;7;6;21.9;5.6;1.3;3.9;5.1;0.9;1.0;0.4;1.3;2.1;0.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Central Division;Vit Krejci;3;1;26.0;4.3;0.7;1.7;2.3;2.3;0.3;0.0;1.3;3.0;1.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Central Division;Mamadi Diakite;4;0;11.8;2.5;1.3;3.0;4.3;0.0;0.8;1.0;0.5;2.3;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Central Division;Total;10;"";"";105.8;9.8;36.1;45.9;21.5;7.8;6.0;0.0;19.5;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pacific Division;Shai Gilgeous-Alexander;12;12;35.3;25.8;0.8;3.4;4.3;4.9;0.9;0.3;2.8;3.0;1.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pacific Division;Georgios Kalaitzakis;2;2;46.5;21.0;0.5;4.5;5.0;4.5;2.5;0.0;3.5;3.5;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pacific Division;Luguentz Dort;11;11;33.8;16.8;1.1;3.0;4.1;1.5;1.2;0.3;2.1;2.7;0.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pacific Division;Zavier Simpson;2;2;46.0;15.0;0.5;7.0;7.5;7.0;0.5;1.0;2.0;4.5;3.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pacific Division;Josh Giddey;12;12;31.4;12.8;1.4;5.9;7.3;6.7;1.1;0.4;2.9;1.8;2.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pacific Division;Melvin Frazier Jr.;2;0;43.5;12.0;1.0;3.0;4.0;0.5;0.0;0.0;1.0;4.0;0.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pacific Division;Darius Bazley;13;11;27.8;11.6;1.2;5.0;6.2;0.9;1.2;0.9;2.0;0.6;0.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pacific Division;Jaylen Hoard;4;2;29.5;11.3;3.8;5.8;9.5;2.0;0.5;0.5;1.3;1.8;1.6
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pacific Division;Aaron Wiggins;7;7;23.3;10.3;1.0;3.7;4.7;1.1;0.7;0.4;1.0;1.9;1.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pacific Division;Vit Krejci;5;3;34.2;10.2;1.0;4.0;5.0;3.0;0.6;0.4;1.2;3.4;2.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pacific Division;Tre Mann;10;3;22.7;10.0;0.2;2.5;2.7;2.1;0.9;0.2;1.1;1.9;1.9
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pacific Division;Isaiah Roby;11;6;16.4;8.5;1.0;2.2;3.2;1.0;0.6;0.4;0.8;2.2;1.2
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pacific Division;Olivier Sarr;5;0;12.4;8.0;0.4;2.6;3.0;0.2;0.0;0.8;0.4;1.6;0.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pacific Division;Mamadi Diakite;2;1;19.0;7.5;2.0;4.5;6.5;0.0;0.0;0.5;0.0;1.5;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pacific Division;Aleksej Pokusevski;13;1;17.8;7.2;1.5;4.1;5.5;2.0;0.5;0.7;1.5;1.3;1.4
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pacific Division;Ty Jerome;9;2;18.1;7.1;0.8;1.7;2.4;2.7;1.1;0.0;0.8;2.0;3.4
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pacific Division;Mike Muscala;10;0;13.8;6.7;0.7;3.2;3.9;0.6;0.1;0.6;0.5;1.5;1.2
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pacific Division;Jeremiah Robinson-Earl;10;7;20.5;6.3;2.0;3.3;5.3;0.6;0.5;0.2;1.1;0.8;0.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pacific Division;Derrick Favors;11;5;17.4;5.9;1.3;3.0;4.3;0.3;0.5;0.0;0.3;1.7;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pacific Division;Kenrich Williams;13;0;21.4;5.5;1.6;3.5;5.2;1.6;0.6;0.2;1.2;1.0;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pacific Division;Paul Watson;3;2;21.3;5.3;0.0;3.3;3.3;1.3;1.0;0.0;0.3;1.7;4.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pacific Division;Gabriel Deck;3;0;7.0;4.7;0.3;0.7;1.0;0.7;0.3;0.0;0.3;0.0;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pacific Division;Lindy Waters III;3;0;14.0;4.3;1.0;1.7;2.7;0.0;1.0;0.3;0.3;0.3;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pacific Division;Theo Maledon;13;1;15.6;4.2;0.4;1.6;2.0;1.5;0.4;0.1;0.9;0.9;1.6
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pacific Division;Scotty Hopson;1;0;18.0;4.0;0.0;1.0;1.0;1.0;0.0;0.0;2.0;1.0;0.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pacific Division;Rob Edwards;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pacific Division;Total;18;"";"";102.1;11.2;35.0;46.2;20.4;7.4;3.7;0.0;17.7;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southeast Division;Shai Gilgeous-Alexander;6;6;34.3;24.0;0.8;4.8;5.7;6.2;0.8;0.7;2.2;3.0;2.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southeast Division;Luguentz Dort;5;5;32.0;15.2;0.6;3.6;4.2;1.8;0.6;0.0;1.6;2.4;1.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southeast Division;Josh Giddey;5;5;32.0;14.2;2.0;5.6;7.6;6.4;1.0;0.8;2.2;1.0;2.9
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southeast Division;Theo Maledon;5;2;26.2;12.6;0.4;4.4;4.8;4.8;0.8;0.8;2.8;1.8;1.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southeast Division;Darius Bazley;9;7;27.9;12.0;0.4;3.8;4.2;1.2;0.3;0.9;0.7;1.2;1.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southeast Division;Tre Mann;8;3;22.4;12.0;0.9;2.3;3.1;1.0;0.6;0.1;0.8;1.5;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southeast Division;Jeremiah Robinson-Earl;6;5;24.8;11.2;0.8;4.8;5.7;1.5;0.7;0.5;0.8;1.0;1.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southeast Division;Lindy Waters III;5;0;21.6;10.6;0.2;4.0;4.2;1.0;1.0;0.4;0.8;1.4;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southeast Division;Aleksej Pokusevski;8;4;25.9;10.0;2.0;5.0;7.0;4.0;0.8;0.5;2.8;1.6;1.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southeast Division;Vit Krejci;5;1;27.8;8.8;1.4;4.4;5.8;2.4;0.8;0.0;1.2;2.2;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southeast Division;Isaiah Roby;7;3;20.9;8.1;2.1;3.1;5.3;2.1;0.7;1.1;0.9;1.7;2.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southeast Division;Ty Jerome;5;0;14.4;7.4;0.6;0.4;1.0;1.8;0.6;0.2;0.4;0.8;4.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southeast Division;Olivier Sarr;5;2;22.0;7.2;1.6;3.4;5.0;1.6;0.2;0.6;0.8;3.4;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southeast Division;Aaron Wiggins;8;6;24.3;7.0;1.1;2.0;3.1;1.1;0.6;0.0;1.5;2.0;0.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southeast Division;Kenrich Williams;4;0;18.0;6.8;2.5;1.8;4.3;2.5;0.5;0.0;0.8;1.5;3.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southeast Division;Mike Muscala;5;0;12.8;4.4;0.6;2.0;2.6;1.2;0.2;0.4;0.4;1.4;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southeast Division;Derrick Favors;3;1;12.7;4.0;1.0;2.0;3.0;0.3;0.0;0.3;0.3;1.0;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southeast Division;Mamadi Diakite;1;0;12.0;2.0;1.0;3.0;4.0;0.0;0.0;0.0;1.0;3.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southeast Division;Gabriel Deck;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southeast Division;Total;10;"";"";105.1;11.2;34.3;45.5;23.7;6.1;4.5;0.0;17.2;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southwest Division;Shai Gilgeous-Alexander;14;14;34.8;24.6;0.7;4.4;5.1;5.2;1.6;1.2;2.4;1.9;2.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southwest Division;Luguentz Dort;13;13;31.2;17.0;0.5;3.5;4.0;1.7;0.9;0.5;1.4;3.2;1.2
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southwest Division;Tre Mann;15;6;23.3;11.1;0.5;2.2;2.7;1.6;0.5;0.3;1.3;1.8;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southwest Division;Josh Giddey;14;14;30.9;10.4;2.3;5.9;8.2;7.5;1.0;0.4;3.3;1.7;2.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southwest Division;Isaiah Roby;8;5;19.3;10.3;1.5;2.9;4.4;0.8;0.6;0.5;0.9;2.4;0.9
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southwest Division;Darius Bazley;16;13;26.9;9.2;0.9;5.6;6.5;1.4;0.7;1.1;1.7;1.1;0.9
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southwest Division;Mike Muscala;13;0;13.7;9.2;0.3;2.6;2.9;0.3;0.2;0.5;0.3;0.8;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southwest Division;Kenrich Williams;10;0;22.3;8.2;0.7;2.7;3.4;1.8;0.6;0.3;0.9;1.9;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southwest Division;Aaron Wiggins;12;7;22.1;7.3;0.7;2.5;3.2;0.6;0.4;0.3;1.0;2.1;0.6
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southwest Division;Jeremiah Robinson-Earl;13;10;22.8;7.1;1.4;4.5;5.8;0.9;0.5;0.2;0.6;1.8;1.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southwest Division;Lindy Waters III;3;0;16.7;7.0;0.0;1.7;1.7;1.3;1.3;0.3;0.0;1.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southwest Division;Ty Jerome;14;2;16.4;6.9;0.0;0.9;0.9;1.3;0.4;0.1;1.1;1.4;1.2
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southwest Division;Aleksej Pokusevski;14;1;18.8;5.9;1.2;3.9;5.1;1.6;0.6;0.7;1.2;1.6;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southwest Division;Theo Maledon;12;1;15.6;5.8;0.5;1.3;1.8;1.8;1.2;0.2;0.8;1.5;2.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southwest Division;Olivier Sarr;2;0;17.0;5.0;2.0;0.5;2.5;0.0;0.5;0.0;2.0;3.5;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southwest Division;Mamadi Diakite;3;1;14.3;4.0;2.0;3.0;5.0;0.0;0.7;0.3;0.7;3.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southwest Division;Derrick Favors;10;3;14.9;3.9;1.5;3.0;4.5;1.0;0.6;0.4;0.1;1.7;10.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southwest Division;Rob Edwards;1;0;9.0;3.0;0.0;3.0;3.0;0.0;0.0;0.0;1.0;0.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southwest Division;Paul Watson;3;0;23.7;2.3;0.7;3.0;3.7;1.0;0.0;1.0;0.7;1.3;1.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southwest Division;Vit Krejci;5;0;10.8;2.0;0.4;2.0;2.4;0.6;0.2;0.2;0.8;1.2;0.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southwest Division;Gabriel Deck;3;0;11.0;1.3;0.0;1.0;1.0;1.0;0.0;0.0;0.3;0.7;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Southwest Division;Total;18;"";"";102.1;9.6;35.3;44.9;21.0;7.4;5.3;0.0;19.1;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Northwest Division;Jaylen Hoard;2;2;41.0;23.5;4.5;8.5;13.0;3.0;2.0;0.5;1.5;3.0;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Northwest Division;Shai Gilgeous-Alexander;9;9;33.7;20.8;0.6;4.7;5.2;6.3;1.3;0.7;3.0;2.7;2.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Northwest Division;Luguentz Dort;7;7;32.0;17.4;1.1;4.0;5.1;1.9;0.9;0.6;2.3;2.6;0.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Northwest Division;Isaiah Roby;9;7;28.3;16.4;2.3;3.8;6.1;2.9;1.3;1.3;1.3;3.3;2.2
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Northwest Division;Georgios Kalaitzakis;2;2;36.0;14.0;0.5;1.0;1.5;1.5;2.5;0.5;4.5;2.0;0.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Northwest Division;Josh Giddey;8;8;32.8;12.8;1.4;7.1;8.5;5.0;0.8;0.3;3.4;2.0;1.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Northwest Division;Aaron Wiggins;9;7;30.9;12.7;2.1;2.6;4.7;3.0;0.9;0.2;1.2;1.4;2.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Northwest Division;Jeremiah Robinson-Earl;8;5;22.4;10.0;1.8;3.9;5.6;1.3;0.8;0.3;0.5;1.4;2.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Northwest Division;Darius Bazley;13;8;26.9;9.8;1.2;5.0;6.2;1.7;0.7;1.2;1.1;0.5;1.6
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Northwest Division;Tre Mann;11;6;24.6;9.7;0.5;3.2;3.6;1.5;1.1;0.2;1.9;1.0;0.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Northwest Division;Theo Maledon;11;2;19.6;8.7;0.2;3.1;3.3;2.2;0.4;0.0;1.5;1.5;1.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Northwest Division;Lindy Waters III;8;1;21.0;8.6;0.3;2.4;2.6;1.4;0.6;0.4;0.8;2.0;1.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Northwest Division;Melvin Frazier Jr.;1;0;33.0;8.0;3.0;2.0;5.0;0.0;1.0;0.0;1.0;0.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Northwest Division;Mike Muscala;6;0;12.5;7.8;0.7;2.5;3.2;0.5;1.0;1.0;0.3;1.5;1.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Northwest Division;Aleksej Pokusevski;12;6;22.9;7.8;0.8;4.0;4.8;2.8;0.8;0.5;1.8;1.6;1.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Northwest Division;Kenrich Williams;8;0;19.5;7.8;1.9;2.3;4.1;2.3;1.5;0.0;0.9;2.1;2.6
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Northwest Division;Mamadi Diakite;2;1;19.5;7.5;0.5;4.5;5.0;1.0;0.0;1.5;1.0;3.5;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Northwest Division;Zavier Simpson;2;2;41.0;7.0;0.5;2.5;3.0;8.0;2.0;1.0;3.0;3.0;2.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Northwest Division;Olivier Sarr;7;0;21.9;7.0;2.4;3.1;5.6;0.9;0.6;0.6;1.4;1.9;0.6
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Northwest Division;Vit Krejci;9;3;23.6;7.0;0.2;2.6;2.8;1.9;1.0;0.3;0.9;1.9;2.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Northwest Division;Ty Jerome;6;0;13.8;6.3;0.3;1.5;1.8;3.3;0.0;0.2;0.7;1.5;5.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Northwest Division;Paul Watson;1;0;4.0;6.0;0.0;2.0;2.0;1.0;0.0;0.0;0.0;0.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Northwest Division;Derrick Favors;5;4;18.4;4.6;1.2;4.4;5.6;0.8;0.4;0.4;0.2;1.6;4.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Northwest Division;Total;16;"";"";102.9;10.8;35.1;45.9;23.5;8.6;4.8;0.0;17.3;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Eastern Conference;Shai Gilgeous-Alexander;21;21;34.7;25.2;0.6;4.6;5.1;6.8;1.2;0.9;2.9;2.6;2.4
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Eastern Conference;Luguentz Dort;20;20;33.2;17.5;0.6;3.4;4.0;1.8;0.8;0.2;1.6;3.0;1.2
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Eastern Conference;Josh Giddey;20;20;31.5;13.7;1.9;5.6;7.5;6.0;0.9;0.4;3.2;1.4;1.9
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Eastern Conference;Darius Bazley;27;21;29.0;11.8;0.9;5.4;6.3;1.5;0.8;1.0;0.9;1.3;1.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Eastern Conference;Jaylen Hoard;1;1;40.0;11.0;6.0;14.0;20.0;3.0;0.0;2.0;0.0;1.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Eastern Conference;Tre Mann;24;11;21.6;10.5;0.4;2.2;2.6;1.2;0.8;0.1;0.8;1.9;1.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Eastern Conference;Theo Maledon;15;3;20.1;9.4;0.5;2.7;3.1;3.1;0.5;0.5;1.8;1.4;1.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Eastern Conference;Aleksej Pokusevski;22;4;21.0;8.8;1.3;4.1;5.4;2.3;0.6;0.6;1.6;1.3;1.4
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Eastern Conference;Lindy Waters III;11;0;18.7;8.7;0.1;3.5;3.5;0.8;0.6;0.3;0.4;1.0;2.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Eastern Conference;Kenrich Williams;18;0;23.1;8.2;1.8;3.0;4.8;2.8;1.0;0.2;0.8;1.8;3.6
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Eastern Conference;Mike Muscala;14;0;14.4;7.9;0.4;1.9;2.4;0.6;0.6;0.5;0.2;1.6;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Eastern Conference;Isaiah Roby;17;10;21.1;7.7;1.8;3.6;5.4;1.6;0.7;0.8;0.9;2.1;1.9
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Eastern Conference;Ty Jerome;19;0;17.1;7.5;0.5;1.2;1.7;2.5;0.8;0.1;0.6;1.4;4.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Eastern Conference;Jeremiah Robinson-Earl;18;14;22.6;7.3;1.3;4.3;5.6;1.2;0.7;0.4;0.9;1.8;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Eastern Conference;Olivier Sarr;8;2;21.5;6.8;1.4;2.9;4.3;1.5;0.1;0.9;0.8;3.0;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Eastern Conference;Aaron Wiggins;22;14;22.8;6.5;0.8;2.2;3.0;1.2;0.5;0.1;1.1;1.9;1.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Eastern Conference;Derrick Favors;13;6;17.0;6.1;1.8;3.2;4.9;0.6;0.3;0.5;0.3;1.4;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Eastern Conference;Vit Krejci;11;2;23.0;5.7;0.8;2.7;3.5;2.0;0.5;0.2;1.0;2.3;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Eastern Conference;Mamadi Diakite;6;0;11.3;2.3;1.0;2.5;3.5;0.0;0.5;0.7;0.5;2.3;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Eastern Conference;Paul Watson;2;1;8.5;1.0;0.5;1.5;2.0;0.0;0.0;0.0;0.5;0.5;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Eastern Conference;Gabriel Deck;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Eastern Conference;Total;30;"";"";106.1;10.2;35.3;45.5;23.3;7.3;4.7;0.0;18.6;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Western Conference;Shai Gilgeous-Alexander;35;35;34.7;24.0;0.7;4.1;4.9;5.4;1.3;0.8;2.7;2.5;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Western Conference;Georgios Kalaitzakis;4;4;41.5;17.5;0.5;2.8;3.3;3.0;2.5;0.3;4.0;2.8;0.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Western Conference;Luguentz Dort;31;31;32.3;17.0;0.9;3.4;4.3;1.7;1.0;0.5;1.8;2.9;0.9
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Western Conference;Jaylen Hoard;6;4;33.3;15.3;4.0;6.7;10.7;2.3;1.0;0.5;1.3;2.2;1.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Western Conference;Josh Giddey;34;34;31.5;11.8;1.8;6.2;8.0;6.6;1.0;0.4;3.2;1.8;2.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Western Conference;Isaiah Roby;28;18;21.1;11.5;1.6;2.9;4.5;1.5;0.9;0.7;1.0;2.6;1.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Western Conference;Zavier Simpson;4;4;43.5;11.0;0.5;4.8;5.3;7.5;1.3;1.0;2.5;3.8;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Western Conference;Melvin Frazier Jr.;3;0;40.0;10.7;1.7;2.7;4.3;0.3;0.3;0.0;1.0;2.7;0.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Western Conference;Tre Mann;36;15;23.6;10.4;0.4;2.6;3.0;1.7;0.8;0.3;1.4;1.6;1.2
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Western Conference;Darius Bazley;42;32;27.2;10.1;1.1;5.2;6.3;1.4;0.9;1.0;1.6;0.8;0.9
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Western Conference;Aaron Wiggins;28;21;25.2;9.8;1.2;2.8;4.0;1.5;0.6;0.3;1.1;1.8;1.4
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Western Conference;Mike Muscala;29;0;13.5;8.0;0.5;2.8;3.3;0.4;0.3;0.7;0.4;1.2;1.2
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Western Conference;Jeremiah Robinson-Earl;31;22;22.0;7.6;1.7;3.9;5.6;0.9;0.5;0.2;0.7;1.4;1.2
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Western Conference;Lindy Waters III;14;1;18.5;7.4;0.4;2.1;2.4;1.1;0.9;0.4;0.5;1.4;2.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Western Conference;Olivier Sarr;14;0;17.8;7.1;1.6;2.6;4.2;0.5;0.4;0.6;1.1;2.0;0.4
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Western Conference;Kenrich Williams;31;0;21.2;6.9;1.4;2.9;4.3;1.8;0.8;0.2;1.0;1.6;1.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Western Conference;Aleksej Pokusevski;39;8;19.7;6.9;1.2;4.0;5.1;2.1;0.6;0.6;1.5;1.5;1.4
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Western Conference;Ty Jerome;29;4;16.4;6.8;0.3;1.2;1.6;2.1;0.5;0.1;0.9;1.6;2.4
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Western Conference;Vit Krejci;19;6;23.0;6.5;0.5;2.8;3.3;1.8;0.7;0.3;0.9;2.1;1.9
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Western Conference;Theo Maledon;36;4;16.8;6.1;0.4;2.0;2.3;1.8;0.6;0.1;1.1;1.3;1.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Western Conference;Mamadi Diakite;7;3;17.1;6.0;1.6;3.9;5.4;0.3;0.3;0.7;0.6;2.7;0.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Western Conference;Derrick Favors;26;12;16.6;4.9;1.3;3.3;4.6;0.7;0.5;0.2;0.2;1.7;3.4
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Western Conference;Paul Watson;7;2;19.9;4.1;0.3;3.0;3.3;1.1;0.4;0.4;0.4;1.3;2.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Western Conference;Scotty Hopson;1;0;18.0;4.0;0.0;1.0;1.0;1.0;0.0;0.0;2.0;1.0;0.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Western Conference;Gabriel Deck;6;0;9.0;3.0;0.2;0.8;1.0;0.8;0.2;0.0;0.3;0.3;2.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Western Conference;Rob Edwards;2;0;5.5;1.5;0.0;1.5;1.5;0.0;0.0;0.0;0.5;0.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Western Conference;Total;52;"";"";102.4;10.5;35.2;45.7;21.6;7.8;4.6;0.0;18.1;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pre All-Star;Shai Gilgeous-Alexander;43;43;34.6;22.7;0.7;4.0;4.7;5.5;1.1;0.8;2.4;2.3;2.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pre All-Star;Luguentz Dort;51;51;32.6;17.2;0.7;3.4;4.2;1.7;0.9;0.4;1.7;2.9;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pre All-Star;Josh Giddey;53;53;31.4;12.4;1.8;6.0;7.8;6.4;0.9;0.4;3.2;1.6;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pre All-Star;Darius Bazley;53;37;27.3;9.8;1.1;5.4;6.6;1.3;0.8;1.1;1.3;1.0;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pre All-Star;Tre Mann;45;13;20.0;8.7;0.3;1.9;2.2;1.0;0.7;0.2;0.8;1.7;1.2
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pre All-Star;Mike Muscala;43;0;13.8;8.0;0.5;2.5;3.0;0.5;0.4;0.6;0.3;1.3;1.6
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pre All-Star;Kenrich Williams;49;0;21.9;7.4;1.5;3.0;4.5;2.2;0.9;0.2;0.9;1.7;2.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pre All-Star;Aaron Wiggins;34;20;22.4;7.1;0.9;2.5;3.4;1.1;0.7;0.2;0.8;2.0;1.4
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pre All-Star;Jeremiah Robinson-Earl;44;36;23.0;7.1;1.6;4.2;5.8;1.0;0.6;0.3;0.8;1.7;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pre All-Star;Ty Jerome;48;4;16.7;7.1;0.4;1.2;1.6;2.3;0.6;0.1;0.8;1.5;2.9
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pre All-Star;Isaiah Roby;22;8;15.1;7.0;1.4;2.3;3.7;0.7;0.6;0.5;0.8;1.9;0.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pre All-Star;Aleksej Pokusevski;42;2;16.6;5.5;1.0;3.4;4.3;1.2;0.5;0.6;1.2;1.2;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pre All-Star;Derrick Favors;38;17;16.7;5.3;1.5;3.2;4.8;0.6;0.4;0.3;0.2;1.6;2.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pre All-Star;Mamadi Diakite;13;3;14.5;4.3;1.3;3.2;4.5;0.2;0.4;0.7;0.5;2.5;0.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pre All-Star;Theo Maledon;31;0;14.2;4.3;0.3;1.4;1.6;1.2;0.5;0.2;0.9;1.1;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pre All-Star;Scotty Hopson;1;0;18.0;4.0;0.0;1.0;1.0;1.0;0.0;0.0;2.0;1.0;0.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pre All-Star;Paul Watson;9;3;17.3;3.4;0.3;2.7;3.0;0.9;0.3;0.3;0.4;1.1;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pre All-Star;Gabriel Deck;7;0;8.0;2.6;0.1;0.7;0.9;0.7;0.1;0.0;0.3;0.3;2.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pre All-Star;Olivier Sarr;2;0;7.0;2.0;0.0;2.5;2.5;0.0;0.0;1.0;0.0;0.5;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pre All-Star;Lindy Waters III;3;0;4.0;1.7;0.0;0.3;0.3;0.0;0.0;0.0;0.0;0.7;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pre All-Star;Rob Edwards;2;0;5.5;1.5;0.0;1.5;1.5;0.0;0.0;0.0;0.5;0.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pre All-Star;Vit Krejci;6;0;5.2;1.0;0.0;0.8;0.8;0.3;0.0;0.0;0.3;0.3;1.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pre All-Star;Jaylen Hoard;1;0;2.0;0.0;1.0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Pre All-Star;Total;58;"";"";101.2;10.6;35.5;46.1;21.4;7.5;4.7;12.9;18.2;1.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Post All-Star;Shai Gilgeous-Alexander;13;13;35.0;30.4;0.5;5.2;5.8;7.3;1.7;0.9;3.9;3.2;1.9
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Post All-Star;Georgios Kalaitzakis;4;4;41.5;17.5;0.5;2.8;3.3;3.0;2.5;0.3;4.0;2.8;0.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Post All-Star;Jaylen Hoard;6;5;39.7;17.2;4.8;8.8;13.7;2.8;1.0;0.8;1.3;2.3;2.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Post All-Star;Tre Mann;15;13;31.3;15.7;0.7;4.0;4.7;3.1;1.1;0.2;2.3;1.8;1.4
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Post All-Star;Josh Giddey;1;1;37.0;15.0;3.0;6.0;9.0;6.0;2.0;0.0;4.0;1.0;1.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Post All-Star;Darius Bazley;16;16;29.7;13.9;0.7;4.8;5.5;1.6;0.9;0.7;1.3;1.0;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Post All-Star;Isaiah Roby;23;20;26.7;13.1;1.9;4.0;5.9;2.4;1.0;1.0;1.1;3.0;2.2
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Post All-Star;Aleksej Pokusevski;19;10;28.3;12.4;1.7;5.5;7.2;4.3;0.8;0.7;2.4;1.9;1.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Post All-Star;Theo Maledon;20;7;23.5;11.4;0.6;3.5;4.0;3.8;0.9;0.3;1.9;1.7;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Post All-Star;Zavier Simpson;4;4;43.5;11.0;0.5;4.8;5.3;7.5;1.3;1.0;2.5;3.8;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Post All-Star;Aaron Wiggins;16;15;27.9;10.8;1.3;2.6;3.9;1.9;0.4;0.1;1.7;1.6;1.1
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Post All-Star;Melvin Frazier Jr.;3;0;40.0;10.7;1.7;2.7;4.3;0.3;0.3;0.0;1.0;2.7;0.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Post All-Star;Jeremiah Robinson-Earl;5;0;14.8;10.4;0.8;3.2;4.0;1.0;0.4;0.0;0.8;0.2;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Post All-Star;Lindy Waters III;22;1;20.6;8.8;0.3;3.0;3.3;1.1;0.9;0.4;0.5;1.3;2.2
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Post All-Star;Vit Krejci;24;8;27.5;7.5;0.8;3.3;4.0;2.3;0.8;0.3;1.1;2.6;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Post All-Star;Olivier Sarr;20;2;20.4;7.5;1.7;2.7;4.4;1.0;0.3;0.7;1.1;2.6;0.9
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Post All-Star;Derrick Favors;1;1;18.0;6.0;0.0;3.0;3.0;1.0;2.0;0.0;0.0;1.0;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;Post All-Star;Total;24;"";"";109.8;10.0;34.4;44.4;24.1;7.8;4.6;14.3;18.5;1.7
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;3+ Days Rest;Shai Gilgeous-Alexander;7;7;33.1;22.1;0.3;3.4;3.7;6.3;0.7;1.0;2.3;2.7;2.8
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;3+ Days Rest;Luguentz Dort;6;6;34.5;21.0;0.8;3.7;4.5;1.8;1.3;0.7;2.0;3.2;0.9
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;3+ Days Rest;Georgios Kalaitzakis;1;1;43.0;17.0;0.0;1.0;1.0;2.0;3.0;1.0;7.0;1.0;0.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;3+ Days Rest;Darius Bazley;6;4;30.0;12.8;1.2;5.7;6.8;1.2;0.8;1.3;1.3;1.2;0.9
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;3+ Days Rest;Josh Giddey;5;5;34.2;12.6;1.6;6.8;8.4;6.6;1.6;0.0;2.8;1.4;2.4
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;3+ Days Rest;Zavier Simpson;1;1;44.0;10.0;0.0;3.0;3.0;5.0;1.0;2.0;2.0;3.0;2.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;3+ Days Rest;Aleksej Pokusevski;9;1;20.6;9.8;2.0;4.7;6.7;2.2;0.7;0.6;1.7;1.7;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;3+ Days Rest;Mike Muscala;5;0;15.8;8.4;0.6;2.6;3.2;0.0;0.6;0.6;0.4;1.2;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;3+ Days Rest;Tre Mann;8;2;21.3;8.4;0.4;2.5;2.9;1.6;1.1;0.4;1.0;1.6;1.6
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;3+ Days Rest;Melvin Frazier Jr.;1;0;33.0;8.0;3.0;2.0;5.0;0.0;1.0;0.0;1.0;0.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;3+ Days Rest;Kenrich Williams;4;0;21.3;7.8;1.3;1.8;3.0;2.3;1.0;0.5;1.0;2.0;2.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;3+ Days Rest;Isaiah Roby;12;3;14.5;6.4;1.2;1.8;2.9;0.7;0.4;0.3;0.8;1.3;0.9
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;3+ Days Rest;Jeremiah Robinson-Earl;5;3;18.0;6.4;1.2;4.0;5.2;0.4;0.6;0.6;0.2;1.0;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;3+ Days Rest;Theo Maledon;9;1;13.1;5.8;0.3;1.8;2.1;1.3;0.4;0.2;0.4;1.2;3.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;3+ Days Rest;Jaylen Hoard;2;1;21.0;5.5;3.5;7.5;11.0;1.5;0.0;1.0;0.0;0.5;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;3+ Days Rest;Aaron Wiggins;8;5;22.9;5.4;1.1;2.8;3.9;1.4;0.6;0.3;0.9;2.0;1.6
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;3+ Days Rest;Lindy Waters III;4;0;10.0;5.3;0.0;0.5;0.5;0.8;0.5;0.5;0.0;0.8;INF
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;3+ Days Rest;Ty Jerome;8;0;12.4;4.5;0.1;1.1;1.3;1.6;0.4;0.0;1.3;0.8;1.3
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;3+ Days Rest;Derrick Favors;8;5;17.3;4.3;1.4;3.4;4.8;0.9;0.5;0.5;0.3;1.5;3.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;3+ Days Rest;Scotty Hopson;1;0;18.0;4.0;0.0;1.0;1.0;1.0;0.0;0.0;2.0;1.0;0.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;3+ Days Rest;Mamadi Diakite;2;0;10.5;3.0;0.5;0.5;1.0;0.0;0.5;0.5;0.5;3.5;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;3+ Days Rest;Paul Watson;4;1;12.5;2.8;0.3;3.0;3.3;0.8;0.5;0.5;0.5;1.0;1.5
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;3+ Days Rest;Vit Krejci;5;0;10.6;2.4;0.0;1.4;1.4;1.2;0.2;0.2;0.6;1.0;2.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;3+ Days Rest;Olivier Sarr;3;0;9.3;2.0;1.3;1.7;3.0;0.0;0.3;0.7;0.7;1.7;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;3+ Days Rest;Gabriel Deck;6;0;8.2;1.8;0.0;0.8;0.8;0.8;0.0;0.0;0.2;0.3;5.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;3+ Days Rest;Rob Edwards;2;0;5.5;1.5;0.0;1.5;1.5;0.0;0.0;0.0;0.5;0.0;0.0
+Oklahoma City Thunder;okc;2021 - 2022 Regular Season;3+ Days Rest;Total;5;"";"";106.4;10.4;33.4;43.8;22.0;8.6;6.2;13.0;19.0;1.7

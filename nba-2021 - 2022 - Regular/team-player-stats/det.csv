@@ -1,0 +1,932 @@
+teamName;teamCode;season;split;player_name;GP;GS;MIN;PTS;ORB;DR;REB;AST;STL;BLK;TO;PF;AST_TO
+Detroit Pistons;det;2021 - 2022 Regular Season;All Splits;Jerami Grant;47;47;31.9;19.2;0.6;3.5;4.1;2.4;0.9;1.0;1.8;2.3;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;All Splits;Cade Cunningham;64;64;32.6;17.4;0.9;4.6;5.5;5.6;1.2;0.7;3.7;3.1;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;All Splits;Saddiq Bey;82;82;33.0;16.1;1.3;4.1;5.4;2.8;0.9;0.2;1.2;1.6;2.4
+Detroit Pistons;det;2021 - 2022 Regular Season;All Splits;Marvin Bagley III;18;8;27.2;14.6;2.1;4.7;6.8;1.1;0.7;0.4;1.0;2.4;1.1
+Detroit Pistons;det;2021 - 2022 Regular Season;All Splits;Hamidou Diallo;58;29;21.9;11.0;1.2;3.6;4.8;1.3;1.2;0.3;1.0;2.5;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;All Splits;Frank Jackson;53;7;22.0;10.6;0.4;1.3;1.6;1.0;0.5;0.2;0.7;1.7;1.4
+Detroit Pistons;det;2021 - 2022 Regular Season;All Splits;Trey Lyles;51;3;19.4;10.4;1.2;3.6;4.8;1.1;0.4;0.5;1.1;1.8;1.1
+Detroit Pistons;det;2021 - 2022 Regular Season;All Splits;Kelly Olynyk;40;1;19.1;9.1;1.4;3.1;4.4;2.8;0.8;0.5;1.5;2.5;1.9
+Detroit Pistons;det;2021 - 2022 Regular Season;All Splits;Braxton Key;9;0;21.2;8.6;1.3;4.0;5.3;1.1;1.0;1.2;1.0;2.8;1.1
+Detroit Pistons;det;2021 - 2022 Regular Season;All Splits;Isaiah Stewart;71;71;25.6;8.3;3.2;5.5;8.7;1.2;0.3;1.1;1.2;3.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;All Splits;Cory Joseph;65;39;24.6;8.0;0.4;2.2;2.7;3.6;0.6;0.3;1.3;2.3;2.8
+Detroit Pistons;det;2021 - 2022 Regular Season;All Splits;Josh Jackson;39;3;18.1;7.1;0.4;2.7;3.2;1.3;0.5;0.5;1.0;1.8;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;All Splits;Killian Hayes;66;40;25.0;6.9;0.5;2.6;3.2;4.2;1.2;0.5;1.7;2.8;2.5
+Detroit Pistons;det;2021 - 2022 Regular Season;All Splits;Isaiah Livers;19;5;20.2;6.4;0.8;2.2;3.0;1.1;0.7;0.4;0.8;1.9;1.4
+Detroit Pistons;det;2021 - 2022 Regular Season;All Splits;Derrick Walton Jr.;3;3;36.0;6.3;0.7;2.7;3.3;7.0;2.3;1.3;3.7;2.7;1.9
+Detroit Pistons;det;2021 - 2022 Regular Season;All Splits;Luka Garza;32;5;12.2;5.8;1.8;1.3;3.1;0.6;0.3;0.2;0.6;1.7;1.1
+Detroit Pistons;det;2021 - 2022 Regular Season;All Splits;Cassius Stanley;9;1;17.2;5.8;0.6;1.6;2.1;0.4;0.6;0.2;0.7;1.9;0.7
+Detroit Pistons;det;2021 - 2022 Regular Season;All Splits;Carsen Edwards;4;0;19.8;5.8;0.5;1.0;1.5;3.5;0.5;0.0;1.3;1.0;2.8
+Detroit Pistons;det;2021 - 2022 Regular Season;All Splits;Saben Lee;37;0;16.3;5.6;0.5;1.9;2.4;2.9;1.0;0.3;1.0;1.2;3.0
+Detroit Pistons;det;2021 - 2022 Regular Season;All Splits;Justin Robinson;5;0;18.2;5.6;0.4;1.0;1.4;1.8;0.2;0.2;1.0;1.6;1.8
+Detroit Pistons;det;2021 - 2022 Regular Season;All Splits;Rodney McGruder;51;2;14.8;5.4;0.6;1.6;2.2;0.9;0.4;0.1;0.5;1.1;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;All Splits;Micah Potter;3;0;10.3;4.0;1.3;1.7;3.0;0.0;0.3;0.3;0.3;1.3;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;All Splits;Jamorko Pickett;13;0;13.5;3.8;0.5;2.0;2.5;0.5;0.0;0.5;0.4;0.9;1.4
+Detroit Pistons;det;2021 - 2022 Regular Season;All Splits;Cheick Diallo;3;0;10.3;3.7;1.3;2.7;4.0;0.0;0.3;0.0;0.3;2.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;All Splits;Deividas Sirvydis;3;0;9.0;1.0;0.0;2.0;2.0;0.3;1.0;0.3;0.0;1.3;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;All Splits;Jaysean Paige;1;0;7.0;0.0;0.0;1.0;1.0;1.0;0.0;0.0;1.0;2.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;All Splits;Trayvon Palmer;1;0;17.0;0.0;0.0;2.0;2.0;0.0;0.0;0.0;1.0;2.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;All Splits;Total;82;"";"";104.8;11.0;32.0;43.0;23.5;7.7;4.8;13.4;21.9;1.8
+Detroit Pistons;det;2021 - 2022 Regular Season;Home;Cade Cunningham;35;35;33.6;18.7;1.0;4.9;5.9;6.2;1.4;0.7;3.6;3.1;1.7
+Detroit Pistons;det;2021 - 2022 Regular Season;Home;Jerami Grant;25;25;31.0;17.9;0.5;3.6;4.0;2.5;0.8;1.0;1.6;1.9;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;Home;Marvin Bagley III;11;5;28.5;16.4;2.1;4.7;6.8;1.0;0.8;0.5;0.5;2.3;2.2
+Detroit Pistons;det;2021 - 2022 Regular Season;Home;Saddiq Bey;41;41;33.7;15.8;1.4;3.5;4.9;2.6;0.9;0.2;1.2;1.8;2.2
+Detroit Pistons;det;2021 - 2022 Regular Season;Home;Hamidou Diallo;28;13;21.9;12.9;1.4;3.9;5.2;1.2;1.4;0.4;1.0;2.5;1.1
+Detroit Pistons;det;2021 - 2022 Regular Season;Home;Frank Jackson;28;2;21.0;10.6;0.4;1.3;1.7;0.9;0.6;0.3;0.6;1.8;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;Home;Derrick Walton Jr.;2;2;38.5;9.5;1.0;2.0;3.0;7.5;3.0;1.0;4.5;2.5;1.7
+Detroit Pistons;det;2021 - 2022 Regular Season;Home;Trey Lyles;24;0;18.5;8.7;1.2;3.6;4.8;1.2;0.5;0.5;1.2;1.6;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Home;Kelly Olynyk;20;0;19.0;8.5;1.2;3.5;4.6;2.8;0.5;0.6;1.5;2.7;1.9
+Detroit Pistons;det;2021 - 2022 Regular Season;Home;Cory Joseph;33;19;25.4;8.2;0.4;2.6;3.0;3.8;0.7;0.2;1.1;2.3;3.6
+Detroit Pistons;det;2021 - 2022 Regular Season;Home;Isaiah Stewart;36;36;25.8;7.8;3.2;5.8;9.1;1.1;0.4;1.1;1.4;3.0;0.8
+Detroit Pistons;det;2021 - 2022 Regular Season;Home;Braxton Key;5;0;17.4;7.6;0.6;3.4;4.0;0.8;0.8;1.6;1.0;2.2;0.8
+Detroit Pistons;det;2021 - 2022 Regular Season;Home;Cassius Stanley;5;1;21.0;7.0;0.4;2.0;2.4;0.6;0.6;0.2;1.0;2.2;0.6
+Detroit Pistons;det;2021 - 2022 Regular Season;Home;Killian Hayes;34;19;24.7;6.5;0.5;2.8;3.3;4.1;1.0;0.6;1.7;2.9;2.4
+Detroit Pistons;det;2021 - 2022 Regular Season;Home;Luka Garza;13;3;14.3;6.4;2.3;1.7;4.0;0.5;0.3;0.2;0.6;2.1;0.9
+Detroit Pistons;det;2021 - 2022 Regular Season;Home;Josh Jackson;17;1;16.4;5.9;0.4;2.5;2.8;1.1;0.4;0.4;0.9;1.9;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;Home;Isaiah Livers;8;2;20.5;5.8;0.9;2.0;2.9;1.0;0.6;0.1;0.6;2.4;1.6
+Detroit Pistons;det;2021 - 2022 Regular Season;Home;Justin Robinson;2;0;17.0;5.5;0.0;1.0;1.0;1.5;0.0;0.5;0.5;2.5;3.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Home;Saben Lee;16;0;15.4;5.3;0.4;1.7;2.1;2.3;0.9;0.3;0.7;1.3;3.3
+Detroit Pistons;det;2021 - 2022 Regular Season;Home;Rodney McGruder;23;1;14.8;5.3;0.8;1.7;2.4;0.9;0.5;0.2;0.6;1.1;1.6
+Detroit Pistons;det;2021 - 2022 Regular Season;Home;Jamorko Pickett;4;0;11.0;4.5;0.3;1.8;2.0;0.3;0.0;0.3;0.5;2.0;0.5
+Detroit Pistons;det;2021 - 2022 Regular Season;Home;Micah Potter;1;0;13.0;4.0;1.0;1.0;2.0;0.0;0.0;1.0;1.0;2.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Home;Carsen Edwards;2;0;11.5;2.5;0.0;1.0;1.0;0.5;0.0;0.0;0.5;0.5;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Home;Jaysean Paige;1;0;7.0;0.0;0.0;1.0;1.0;1.0;0.0;0.0;1.0;2.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Home;Trayvon Palmer;1;0;17.0;0.0;0.0;2.0;2.0;0.0;0.0;0.0;1.0;2.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Home;Cheick Diallo;1;0;9.0;0.0;1.0;2.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Home;Deividas Sirvydis;2;0;4.5;0.0;0.0;1.5;1.5;0.0;0.5;0.0;0.0;0.5;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Home;Total;41;"";"";105.1;11.0;32.6;43.6;23.4;7.8;4.9;13.3;22.4;1.8
+Detroit Pistons;det;2021 - 2022 Regular Season;Away;Jerami Grant;22;22;33.0;20.7;0.7;3.4;4.1;2.2;1.0;1.1;2.0;2.7;1.1
+Detroit Pistons;det;2021 - 2022 Regular Season;Away;Saddiq Bey;41;41;32.3;16.4;1.2;4.7;5.9;3.0;0.9;0.2;1.1;1.4;2.7
+Detroit Pistons;det;2021 - 2022 Regular Season;Away;Cade Cunningham;29;29;31.4;15.8;0.8;4.3;5.1;4.8;1.0;0.6;3.7;3.2;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;Away;Trey Lyles;27;3;20.2;12.0;1.2;3.6;4.8;1.1;0.3;0.6;1.0;1.9;1.2
+Detroit Pistons;det;2021 - 2022 Regular Season;Away;Marvin Bagley III;7;3;25.3;11.7;2.1;4.7;6.9;1.1;0.6;0.3;1.9;2.6;0.6
+Detroit Pistons;det;2021 - 2022 Regular Season;Away;Frank Jackson;25;5;23.1;10.5;0.3;1.3;1.6;1.2;0.4;0.1;0.8;1.5;1.6
+Detroit Pistons;det;2021 - 2022 Regular Season;Away;Kelly Olynyk;20;1;19.2;9.8;1.6;2.7;4.3;2.8;1.1;0.4;1.5;2.3;1.9
+Detroit Pistons;det;2021 - 2022 Regular Season;Away;Braxton Key;4;0;25.8;9.8;2.3;4.8;7.0;1.5;1.3;0.8;1.0;3.5;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;Away;Hamidou Diallo;30;16;21.9;9.2;1.0;3.3;4.4;1.3;1.1;0.2;1.0;2.5;1.4
+Detroit Pistons;det;2021 - 2022 Regular Season;Away;Carsen Edwards;2;0;28.0;9.0;1.0;1.0;2.0;6.5;1.0;0.0;2.0;1.5;3.3
+Detroit Pistons;det;2021 - 2022 Regular Season;Away;Isaiah Stewart;35;35;25.3;8.8;3.1;5.2;8.3;1.2;0.3;1.1;1.0;3.0;1.2
+Detroit Pistons;det;2021 - 2022 Regular Season;Away;Josh Jackson;22;2;19.5;8.0;0.5;2.9;3.4;1.4;0.6;0.5;1.0;1.8;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;Away;Cory Joseph;32;20;23.8;7.8;0.5;1.9;2.3;3.5;0.6;0.3;1.6;2.2;2.2
+Detroit Pistons;det;2021 - 2022 Regular Season;Away;Killian Hayes;32;21;25.2;7.2;0.6;2.5;3.1;4.3;1.3;0.5;1.7;2.7;2.6
+Detroit Pistons;det;2021 - 2022 Regular Season;Away;Isaiah Livers;11;3;19.9;6.8;0.7;2.4;3.1;1.2;0.7;0.5;0.9;1.6;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;Away;Saben Lee;21;0;17.0;5.9;0.6;2.0;2.6;3.4;1.0;0.3;1.2;1.1;2.8
+Detroit Pistons;det;2021 - 2022 Regular Season;Away;Justin Robinson;3;0;19.0;5.7;0.7;1.0;1.7;2.0;0.3;0.0;1.3;1.0;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;Away;Cheick Diallo;2;0;11.0;5.5;1.5;3.0;4.5;0.0;0.5;0.0;0.5;3.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Away;Rodney McGruder;28;1;14.8;5.4;0.5;1.5;2.0;1.0;0.4;0.1;0.4;1.2;2.5
+Detroit Pistons;det;2021 - 2022 Regular Season;Away;Luka Garza;19;2;10.7;5.4;1.5;1.1;2.5;0.7;0.3;0.2;0.5;1.5;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;Away;Cassius Stanley;4;0;12.5;4.3;0.8;1.0;1.8;0.3;0.5;0.3;0.3;1.5;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Away;Micah Potter;2;0;9.0;4.0;1.5;2.0;3.5;0.0;0.5;0.0;0.0;1.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Away;Jamorko Pickett;9;0;14.7;3.6;0.6;2.1;2.7;0.7;0.0;0.7;0.3;0.4;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Away;Deividas Sirvydis;1;0;18.0;3.0;0.0;3.0;3.0;1.0;2.0;1.0;0.0;3.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;Away;Derrick Walton Jr.;1;1;31.0;0.0;0.0;4.0;4.0;6.0;1.0;2.0;2.0;3.0;3.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Away;Total;41;"";"";104.6;11.0;31.4;42.4;23.5;7.6;4.7;13.5;21.5;1.7
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Boston Celtics;Cade Cunningham;3;3;34.7;24.0;1.0;6.7;7.7;5.0;0.0;0.0;3.7;4.0;1.4
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Boston Celtics;Jerami Grant;4;4;30.8;16.3;0.0;2.5;2.5;1.8;0.8;1.0;1.3;2.3;1.4
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Boston Celtics;Saddiq Bey;4;4;35.8;15.8;2.0;4.0;6.0;4.8;0.8;0.0;0.3;0.8;19.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Boston Celtics;Marvin Bagley III;3;1;25.0;13.3;2.3;4.7;7.0;0.3;1.3;0.0;1.7;0.7;0.2
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Boston Celtics;Hamidou Diallo;3;1;18.3;11.0;2.3;4.0;6.3;1.3;0.7;0.0;1.0;2.3;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Boston Celtics;Trey Lyles;1;0;16.0;9.0;1.0;5.0;6.0;0.0;0.0;0.0;4.0;2.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Boston Celtics;Isaiah Stewart;3;3;30.7;9.0;5.0;6.0;11.0;0.7;0.3;0.7;1.7;2.0;0.4
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Boston Celtics;Jamorko Pickett;1;0;10.0;8.0;1.0;2.0;3.0;0.0;0.0;0.0;0.0;1.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Boston Celtics;Cory Joseph;4;4;30.0;7.8;0.3;2.8;3.0;3.8;0.5;0.5;1.3;3.5;3.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Boston Celtics;Kelly Olynyk;4;0;15.5;6.5;2.0;2.5;4.5;1.8;0.8;0.3;1.8;2.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Boston Celtics;Frank Jackson;1;0;23.0;6.0;0.0;0.0;0.0;1.0;2.0;0.0;0.0;3.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Boston Celtics;Killian Hayes;3;0;20.3;6.0;1.0;1.3;2.3;3.7;0.7;1.0;2.0;4.0;1.8
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Boston Celtics;Luka Garza;1;0;2.0;4.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Boston Celtics;Rodney McGruder;3;0;14.0;2.7;0.3;0.7;1.0;1.0;0.0;0.0;0.3;0.7;3.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Boston Celtics;Saben Lee;1;0;18.0;2.0;2.0;1.0;3.0;0.0;0.0;0.0;0.0;3.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Boston Celtics;Isaiah Livers;1;0;14.0;0.0;2.0;1.0;3.0;0.0;0.0;1.0;2.0;0.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Boston Celtics;Total;4;"";"";103.0;14.8;31.8;46.5;21.3;5.5;3.3;13.8;21.3;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Brooklyn Nets;Cade Cunningham;3;3;32.7;25.7;0.0;4.3;4.3;4.7;2.0;0.3;5.7;2.3;0.8
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Brooklyn Nets;Frank Jackson;4;0;20.5;13.0;0.0;1.5;1.5;0.5;1.0;0.5;0.8;1.3;0.7
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Brooklyn Nets;Marvin Bagley III;1;1;24.0;11.0;2.0;3.0;5.0;2.0;0.0;0.0;2.0;4.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Brooklyn Nets;Kelly Olynyk;3;0;21.0;10.3;1.3;3.7;5.0;4.0;1.0;0.3;0.7;2.3;6.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Brooklyn Nets;Cory Joseph;3;1;23.0;10.0;0.3;2.3;2.7;3.0;0.3;0.0;0.7;1.7;4.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Brooklyn Nets;Saddiq Bey;4;4;29.3;10.0;0.8;1.8;2.5;3.5;1.8;0.3;1.8;1.5;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Brooklyn Nets;Isaiah Stewart;4;4;28.0;9.3;2.5;5.0;7.5;0.8;0.8;1.3;0.8;3.5;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Brooklyn Nets;Saben Lee;2;0;16.5;9.0;0.5;3.0;3.5;4.5;1.5;0.5;2.0;0.0;2.3
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Brooklyn Nets;Hamidou Diallo;2;2;20.0;8.5;1.0;2.5;3.5;0.5;0.5;0.0;1.0;2.0;0.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Brooklyn Nets;Killian Hayes;3;2;25.0;8.3;0.7;1.7;2.3;2.7;3.3;0.7;1.3;2.0;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Brooklyn Nets;Jerami Grant;2;2;33.5;8.0;0.0;4.0;4.0;2.0;0.5;1.0;3.5;2.5;0.6
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Brooklyn Nets;Josh Jackson;3;1;22.7;6.3;0.3;3.0;3.3;1.7;1.0;0.3;0.3;3.3;5.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Brooklyn Nets;Braxton Key;1;0;24.0;5.0;3.0;3.0;6.0;0.0;1.0;1.0;1.0;4.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Brooklyn Nets;Trey Lyles;3;0;12.0;4.3;1.7;2.0;3.7;1.3;0.3;0.0;0.7;1.7;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Brooklyn Nets;Rodney McGruder;4;0;10.3;3.0;0.8;1.3;2.0;0.8;0.0;0.3;0.5;1.0;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Brooklyn Nets;Jamorko Pickett;1;0;4.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Brooklyn Nets;Luka Garza;1;0;9.0;2.0;1.0;0.0;1.0;0.0;1.0;0.0;0.0;1.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Brooklyn Nets;Total;4;"";"";102.0;9.5;28.5;38.0;22.5;11.3;4.5;14.8;21.8;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. New York Knicks;Marvin Bagley III;1;1;35.0;27.0;2.0;5.0;7.0;0.0;0.0;1.0;1.0;3.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. New York Knicks;Hamidou Diallo;2;2;36.0;20.5;2.0;7.5;9.5;2.5;5.0;0.0;3.0;4.5;0.8
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. New York Knicks;Saddiq Bey;3;3;37.3;20.3;0.0;6.3;6.3;2.7;0.7;0.3;2.3;1.3;1.1
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. New York Knicks;Saben Lee;1;0;25.0;16.0;0.0;3.0;3.0;3.0;2.0;1.0;0.0;1.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. New York Knicks;Trey Lyles;1;0;17.0;13.0;1.0;4.0;5.0;1.0;0.0;1.0;0.0;1.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. New York Knicks;Cade Cunningham;2;2;35.0;12.5;0.0;4.5;4.5;8.0;0.5;1.5;4.5;2.0;1.8
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. New York Knicks;Cory Joseph;2;2;23.0;12.0;0.0;4.0;4.0;2.5;0.0;0.0;1.0;3.5;2.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. New York Knicks;Isaiah Stewart;2;2;34.5;9.5;4.5;6.0;10.5;2.0;1.0;1.0;0.5;2.5;4.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. New York Knicks;Braxton Key;1;0;13.0;9.0;1.0;1.0;2.0;0.0;2.0;1.0;0.0;3.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. New York Knicks;Derrick Walton Jr.;1;1;37.0;8.0;0.0;0.0;0.0;9.0;2.0;2.0;5.0;4.0;1.8
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. New York Knicks;Killian Hayes;1;0;25.0;6.0;1.0;5.0;6.0;2.0;1.0;0.0;2.0;4.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. New York Knicks;Frank Jackson;3;1;15.7;4.3;0.3;0.7;1.0;1.7;0.7;0.3;0.3;1.3;5.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. New York Knicks;Cassius Stanley;1;0;27.0;4.0;1.0;3.0;4.0;0.0;1.0;0.0;3.0;3.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. New York Knicks;Justin Robinson;1;0;11.0;3.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;1.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. New York Knicks;Kelly Olynyk;1;0;18.0;2.0;1.0;2.0;3.0;4.0;0.0;0.0;0.0;2.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. New York Knicks;Luka Garza;2;1;22.0;2.0;2.0;2.5;4.5;1.0;0.5;0.5;0.0;1.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. New York Knicks;Rodney McGruder;2;0;11.5;1.5;0.5;1.5;2.0;0.0;0.5;0.0;0.0;1.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. New York Knicks;Trayvon Palmer;1;0;17.0;0.0;0.0;2.0;2.0;0.0;0.0;0.0;1.0;2.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. New York Knicks;Cheick Diallo;1;0;9.0;0.0;1.0;2.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. New York Knicks;Deividas Sirvydis;1;0;4.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;1.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. New York Knicks;Total;3;"";"";92.7;9.0;33.7;42.7;21.3;9.3;4.7;13.0;20.7;1.6
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Cade Cunningham;2;2;33.5;22.5;2.0;4.0;6.0;5.0;2.5;0.0;2.5;4.0;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Jerami Grant;2;2;37.0;20.5;1.5;4.5;6.0;3.5;2.5;1.0;2.5;1.5;1.4
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Luka Garza;2;0;17.5;13.0;3.5;1.5;5.0;2.0;0.0;0.5;0.5;2.5;4.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Saddiq Bey;4;4;29.5;12.8;1.5;2.8;4.3;3.0;0.5;0.0;0.5;0.5;6.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Kelly Olynyk;3;0;21.0;12.3;1.0;4.0;5.0;2.0;1.7;0.7;1.7;4.0;1.2
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Isaiah Livers;2;1;22.5;11.5;1.0;1.5;2.5;1.5;0.5;0.0;1.5;3.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Saben Lee;1;0;32.0;11.0;2.0;0.0;2.0;8.0;1.0;0.0;7.0;4.0;1.1
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Killian Hayes;4;3;24.3;9.3;0.8;2.0;2.8;2.3;1.8;0.3;0.5;1.8;4.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Braxton Key;2;0;19.0;9.0;1.0;3.5;4.5;2.0;0.5;1.5;1.5;0.0;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Marvin Bagley III;1;1;24.0;8.0;1.0;7.0;8.0;2.0;0.0;1.0;0.0;2.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Frank Jackson;4;1;18.0;7.3;0.0;1.0;1.0;0.8;0.3;0.0;0.5;1.3;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Josh Jackson;2;1;20.0;7.0;0.5;1.5;2.0;1.0;0.0;0.0;1.5;2.0;0.7
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Cory Joseph;3;1;18.7;6.3;0.0;0.7;0.7;2.3;1.0;0.0;1.0;1.0;2.3
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Jamorko Pickett;1;0;23.0;6.0;0.0;5.0;5.0;0.0;0.0;1.0;2.0;0.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Trey Lyles;2;0;12.0;5.5;0.5;2.0;2.5;1.0;0.0;0.0;0.0;0.5;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Rodney McGruder;1;0;25.0;5.0;0.0;5.0;5.0;1.0;0.0;1.0;1.0;3.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Carsen Edwards;1;0;26.0;5.0;1.0;0.0;1.0;4.0;0.0;0.0;3.0;0.0;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Isaiah Stewart;4;4;22.3;5.0;1.0;6.0;7.0;2.5;0.3;0.5;0.5;2.5;5.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Hamidou Diallo;1;0;11.0;2.0;2.0;1.0;3.0;1.0;0.0;0.0;2.0;2.0;0.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Total;4;"";"";102.0;10.5;29.0;39.5;23.8;8.0;3.5;12.8;19.3;1.9
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Toronto Raptors;Jerami Grant;2;2;35.5;25.0;2.0;2.0;4.0;4.5;0.0;0.5;1.5;3.5;3.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Toronto Raptors;Saddiq Bey;3;3;34.3;18.0;1.0;5.0;6.0;3.3;0.7;0.3;0.7;1.7;5.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Toronto Raptors;Cade Cunningham;3;3;34.7;16.7;1.0;6.3;7.3;4.7;1.3;0.7;1.3;3.0;3.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Toronto Raptors;Trey Lyles;2;0;25.0;14.5;1.0;4.0;5.0;1.0;1.0;1.0;0.0;0.5;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Toronto Raptors;Hamidou Diallo;2;1;20.5;14.5;2.5;2.5;5.0;0.0;1.5;0.5;1.0;3.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Toronto Raptors;Frank Jackson;1;0;15.0;14.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;3.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Toronto Raptors;Josh Jackson;2;0;23.0;14.0;0.5;3.5;4.0;1.5;0.0;0.5;1.5;2.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Toronto Raptors;Isaiah Stewart;3;3;25.7;10.3;1.7;2.7;4.3;1.7;0.0;2.0;2.0;3.7;0.8
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Toronto Raptors;Cory Joseph;3;1;25.3;7.0;0.7;1.7;2.3;4.3;1.0;0.3;1.3;3.7;3.3
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Toronto Raptors;Rodney McGruder;1;0;10.0;6.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;2.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Toronto Raptors;Killian Hayes;3;2;25.3;6.0;1.3;3.3;4.7;6.0;0.7;0.7;1.7;3.7;3.6
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Toronto Raptors;Kelly Olynyk;1;0;18.0;5.0;0.0;3.0;3.0;2.0;0.0;0.0;1.0;3.0;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Toronto Raptors;Saben Lee;1;0;13.0;3.0;0.0;2.0;2.0;3.0;0.0;0.0;0.0;1.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Toronto Raptors;Isaiah Livers;1;0;5.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Toronto Raptors;Cassius Stanley;1;0;14.0;0.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;3.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Toronto Raptors;Total;3;"";"";112.7;9.7;30.0;39.7;27.0;5.3;5.7;10.0;25.7;2.7
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Chicago Bulls;Jerami Grant;3;3;32.0;15.0;1.7;3.0;4.7;1.7;1.7;2.0;2.3;2.7;0.7
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Chicago Bulls;Cade Cunningham;2;2;32.5;15.0;0.5;5.0;5.5;4.5;0.5;0.0;6.0;4.5;0.8
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Chicago Bulls;Saddiq Bey;4;4;34.3;14.8;1.5;6.5;8.0;3.8;0.3;0.5;2.0;2.3;1.9
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Chicago Bulls;Kelly Olynyk;3;0;20.7;10.7;0.3;4.0;4.3;2.7;0.7;0.3;1.7;1.7;1.6
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Chicago Bulls;Marvin Bagley III;1;1;28.0;10.0;2.0;4.0;6.0;1.0;0.0;0.0;1.0;4.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Chicago Bulls;Isaiah Stewart;3;3;26.0;9.7;3.3;5.7;9.0;0.7;0.0;1.7;1.7;1.3;0.4
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Chicago Bulls;Josh Jackson;3;0;21.3;9.0;1.0;1.7;2.7;1.3;1.0;0.3;3.0;3.0;0.4
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Chicago Bulls;Trey Lyles;3;0;17.0;7.3;0.3;4.3;4.7;0.7;0.7;0.3;1.3;0.7;0.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Chicago Bulls;Hamidou Diallo;4;1;15.3;7.3;0.3;2.5;2.8;1.0;1.3;0.3;0.5;2.0;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Chicago Bulls;Saben Lee;3;0;17.3;6.3;0.3;1.7;2.0;1.3;0.3;0.3;1.0;0.3;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Chicago Bulls;Frank Jackson;2;2;24.5;6.0;0.0;1.5;1.5;0.5;0.0;0.0;1.5;3.0;0.3
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Chicago Bulls;Cory Joseph;3;1;25.0;5.7;1.0;1.0;2.0;2.3;1.0;1.0;1.3;0.3;1.8
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Chicago Bulls;Rodney McGruder;2;0;8.5;4.5;0.5;1.5;2.0;0.0;0.5;0.0;0.5;0.5;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Chicago Bulls;Luka Garza;2;0;8.0;4.5;1.5;0.5;2.0;0.5;1.0;1.0;0.0;0.5;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Chicago Bulls;Cassius Stanley;1;0;18.0;4.0;1.0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Chicago Bulls;Killian Hayes;3;3;24.3;3.3;0.7;2.3;3.0;3.3;1.7;0.0;2.0;2.3;1.7
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Chicago Bulls;Isaiah Livers;1;0;16.0;2.0;1.0;2.0;3.0;0.0;0.0;0.0;0.0;3.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Chicago Bulls;Jamorko Pickett;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Chicago Bulls;Total;4;"";"";91.3;10.5;32.8;43.3;18.3;7.8;5.8;17.5;19.5;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Jerami Grant;3;3;30.7;24.0;0.3;2.0;2.3;1.0;1.7;1.0;1.7;2.3;0.6
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Frank Jackson;2;0;24.5;15.5;0.0;2.5;2.5;1.5;0.0;0.5;1.0;3.0;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Cade Cunningham;4;4;34.0;15.0;2.8;4.3;7.0;7.3;1.5;1.0;3.8;2.8;1.9
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Saddiq Bey;4;4;32.3;14.5;1.3;3.0;4.3;2.5;1.0;0.5;1.8;0.8;1.4
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Hamidou Diallo;2;1;20.0;13.5;2.0;4.0;6.0;0.5;1.0;0.0;1.0;2.5;0.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Josh Jackson;1;0;21.0;11.0;1.0;4.0;5.0;1.0;0.0;0.0;3.0;0.0;0.3
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Marvin Bagley III;2;0;20.5;9.0;1.0;1.5;2.5;0.5;0.0;0.5;1.0;4.0;0.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Isaiah Stewart;4;4;24.3;8.8;3.8;6.0;9.8;0.3;0.0;0.8;0.8;3.0;0.3
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Trey Lyles;2;0;17.5;8.5;1.0;3.5;4.5;1.0;1.0;1.0;3.0;3.5;0.3
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Rodney McGruder;4;0;14.0;6.8;0.3;2.8;3.0;0.3;0.5;0.3;0.3;1.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Cory Joseph;4;3;25.3;5.3;1.3;2.0;3.3;2.8;0.5;0.8;1.8;1.3;1.6
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Luka Garza;1;0;14.0;5.0;1.0;1.0;2.0;2.0;1.0;0.0;0.0;0.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Kelly Olynyk;2;0;19.0;4.0;0.0;4.5;4.5;3.0;1.0;0.0;0.0;2.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Isaiah Livers;1;0;19.0;4.0;0.0;1.0;1.0;0.0;1.0;2.0;1.0;2.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Killian Hayes;3;1;25.3;3.7;0.3;4.0;4.3;5.3;2.7;0.3;0.7;1.7;8.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Saben Lee;1;0;16.0;3.0;0.0;1.0;1.0;3.0;2.0;0.0;1.0;1.0;3.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Total;4;"";"";102.0;12.3;32.3;44.5;22.5;9.3;5.8;14.3;20.0;1.6
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Indiana Pacers;Saddiq Bey;4;4;32.3;24.8;1.5;4.0;5.5;2.8;1.0;0.3;2.0;1.3;1.4
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Indiana Pacers;Cade Cunningham;3;3;33.3;18.3;0.3;7.3;7.7;4.3;1.3;1.0;2.3;2.7;1.9
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Indiana Pacers;Marvin Bagley III;1;0;22.0;18.0;3.0;5.0;8.0;2.0;1.0;0.0;1.0;2.0;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Indiana Pacers;Frank Jackson;3;1;29.3;16.0;0.3;2.0;2.3;2.3;0.3;0.0;0.3;1.7;7.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Indiana Pacers;Jerami Grant;2;2;30.0;13.5;1.5;2.5;4.0;2.5;1.5;1.5;1.0;1.5;2.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Indiana Pacers;Carsen Edwards;1;0;31.0;13.0;1.0;2.0;3.0;9.0;2.0;0.0;1.0;3.0;9.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Indiana Pacers;Cory Joseph;2;1;29.0;12.5;0.0;2.5;2.5;2.0;1.0;0.0;1.0;2.0;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Indiana Pacers;Braxton Key;1;0;28.0;12.0;2.0;7.0;9.0;2.0;3.0;0.0;1.0;4.0;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Indiana Pacers;Saben Lee;1;0;21.0;11.0;0.0;1.0;1.0;5.0;3.0;0.0;1.0;2.0;5.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Indiana Pacers;Rodney McGruder;3;0;19.7;7.7;1.0;2.7;3.7;1.0;0.0;0.7;0.7;1.7;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Indiana Pacers;Trey Lyles;2;0;19.0;7.5;0.5;2.0;2.5;1.5;1.5;0.0;1.0;2.0;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Indiana Pacers;Isaiah Stewart;4;4;26.5;7.3;3.8;6.5;10.3;1.3;0.0;1.0;2.0;4.0;0.6
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Indiana Pacers;Kelly Olynyk;2;0;16.0;6.5;1.0;2.0;3.0;2.0;0.5;1.5;1.5;2.0;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Indiana Pacers;Hamidou Diallo;3;1;17.3;6.3;0.0;2.0;2.0;1.0;0.0;0.3;0.0;2.3;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Indiana Pacers;Isaiah Livers;3;1;15.0;5.3;1.0;0.7;1.7;1.0;1.0;0.7;1.0;0.7;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Indiana Pacers;Killian Hayes;4;3;23.0;4.8;0.5;1.8;2.3;4.0;1.3;0.8;1.5;2.5;2.7
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Indiana Pacers;Total;4;"";"";110.5;10.8;31.5;42.3;23.8;8.8;5.5;12.0;21.0;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Saddiq Bey;4;4;34.0;17.8;1.5;4.3;5.8;2.5;0.3;0.0;0.5;1.5;5.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Jerami Grant;2;2;26.0;17.0;0.5;2.5;3.0;1.0;1.5;0.5;1.0;1.5;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Trey Lyles;3;1;25.0;14.3;2.0;5.0;7.0;1.3;0.3;0.0;0.7;3.0;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Cade Cunningham;4;4;33.8;12.0;0.3;4.8;5.0;6.0;0.0;0.5;4.3;2.8;1.4
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Josh Jackson;3;0;18.3;11.7;0.7;2.3;3.0;1.3;0.3;0.3;0.3;2.0;4.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Kelly Olynyk;2;0;19.5;11.0;1.0;3.5;4.5;4.0;0.0;1.0;2.5;2.5;1.6
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Rodney McGruder;3;0;11.3;8.7;0.7;0.3;1.0;1.0;0.7;0.0;0.3;1.0;3.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Hamidou Diallo;3;1;19.3;7.0;1.0;4.3;5.3;1.7;1.0;0.3;0.7;2.7;2.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Killian Hayes;3;3;25.7;6.3;0.0;2.7;2.7;3.7;0.7;0.3;1.7;2.7;2.2
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Frank Jackson;3;0;18.3;5.7;0.3;2.3;2.7;1.0;0.3;0.0;0.0;0.7;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Saben Lee;3;0;15.7;5.7;0.3;3.0;3.3;3.0;1.7;0.0;0.3;0.3;9.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Justin Robinson;1;0;23.0;5.0;1.0;1.0;2.0;1.0;1.0;0.0;0.0;1.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Braxton Key;1;0;20.0;5.0;0.0;4.0;4.0;2.0;1.0;0.0;1.0;3.0;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Carsen Edwards;1;0;13.0;5.0;0.0;2.0;2.0;1.0;0.0;0.0;0.0;1.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Isaiah Stewart;2;2;25.5;5.0;4.5;5.5;10.0;2.0;0.0;2.0;1.0;3.0;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Luka Garza;3;1;15.0;4.3;2.0;1.3;3.3;0.3;0.3;0.0;1.3;2.3;0.3
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Cory Joseph;2;1;11.0;3.5;0.0;1.0;1.0;1.5;0.0;0.0;0.5;0.5;3.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Micah Potter;1;0;2.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Isaiah Livers;1;1;19.0;0.0;0.0;3.0;3.0;0.0;2.0;0.0;0.0;2.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Total;4;"";"";99.5;10.3;34.0;44.3;23.8;6.0;3.0;11.5;20.8;2.1
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Atlanta Hawks;Cade Cunningham;2;2;39.0;22.5;1.0;5.0;6.0;9.0;1.0;1.0;4.0;4.0;2.3
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Atlanta Hawks;Jerami Grant;2;2;28.5;22.0;0.5;5.5;6.0;3.0;0.5;0.0;0.5;2.0;6.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Atlanta Hawks;Josh Jackson;1;1;32.0;18.0;1.0;5.0;6.0;4.0;0.0;0.0;1.0;0.0;4.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Atlanta Hawks;Marvin Bagley III;2;0;32.0;16.0;2.0;6.0;8.0;0.5;2.0;0.5;0.5;2.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Atlanta Hawks;Kelly Olynyk;3;1;22.0;14.3;1.7;3.0;4.7;2.7;0.7;0.7;2.0;2.3;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Atlanta Hawks;Saddiq Bey;3;3;33.3;13.3;2.0;3.7;5.7;2.7;1.3;0.0;1.0;2.0;2.7
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Atlanta Hawks;Killian Hayes;3;1;30.0;12.7;1.0;3.3;4.3;4.7;1.0;0.3;1.3;2.7;3.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Atlanta Hawks;Isaiah Livers;1;0;25.0;9.0;1.0;1.0;2.0;2.0;3.0;0.0;2.0;3.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Atlanta Hawks;Trey Lyles;1;0;21.0;8.0;2.0;2.0;4.0;2.0;0.0;1.0;1.0;0.0;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Atlanta Hawks;Isaiah Stewart;3;3;20.3;7.0;2.0;4.3;6.3;1.7;0.7;1.3;1.3;2.0;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Atlanta Hawks;Cory Joseph;3;2;18.7;5.0;0.7;2.0;2.7;2.3;0.7;0.0;1.3;1.7;1.8
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Atlanta Hawks;Rodney McGruder;3;0;13.7;5.0;0.7;2.3;3.0;2.3;0.0;0.0;0.7;1.0;3.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Atlanta Hawks;Frank Jackson;1;0;14.0;4.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;1.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Atlanta Hawks;Hamidou Diallo;1;0;11.0;2.0;0.0;2.0;2.0;1.0;1.0;0.0;0.0;0.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Atlanta Hawks;Luka Garza;1;0;13.0;2.0;0.0;2.0;2.0;0.0;0.0;1.0;1.0;4.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Atlanta Hawks;Jamorko Pickett;2;0;4.0;1.5;0.0;0.0;0.0;0.0;0.0;0.0;0.5;0.5;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Atlanta Hawks;Saben Lee;1;0;7.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Atlanta Hawks;Total;3;"";"";113.0;11.7;34.0;45.7;27.7;8.0;4.0;13.7;20.3;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Charlotte Hornets;Saddiq Bey;3;3;33.7;21.3;2.3;2.7;5.0;2.3;1.0;0.3;2.0;1.7;1.2
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Charlotte Hornets;Jerami Grant;2;2;30.0;20.5;0.0;3.5;3.5;2.5;0.5;1.5;2.0;2.5;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Charlotte Hornets;Trey Lyles;1;1;24.0;17.0;2.0;5.0;7.0;1.0;0.0;0.0;1.0;1.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Charlotte Hornets;Cade Cunningham;3;3;27.0;15.7;0.3;3.7;4.0;5.0;1.3;0.3;5.0;3.3;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Charlotte Hornets;Josh Jackson;1;0;25.0;15.0;0.0;5.0;5.0;2.0;1.0;1.0;1.0;2.0;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Charlotte Hornets;Kelly Olynyk;2;0;21.0;14.5;3.5;3.0;6.5;3.0;1.0;0.0;1.0;3.0;3.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Charlotte Hornets;Hamidou Diallo;3;1;25.0;12.7;1.0;4.3;5.3;1.3;2.3;0.0;1.0;3.0;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Charlotte Hornets;Isaiah Stewart;2;2;29.5;11.0;5.5;6.0;11.5;1.5;0.5;2.0;1.0;3.5;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Charlotte Hornets;Justin Robinson;1;0;25.0;9.0;1.0;2.0;3.0;2.0;0.0;0.0;4.0;2.0;0.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Charlotte Hornets;Killian Hayes;3;1;27.7;8.3;1.3;2.3;3.7;7.7;1.7;0.0;1.0;3.7;7.7
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Charlotte Hornets;Micah Potter;1;0;16.0;8.0;3.0;3.0;6.0;0.0;1.0;0.0;0.0;2.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Charlotte Hornets;Rodney McGruder;3;0;18.0;6.7;0.3;1.0;1.3;1.3;1.3;0.0;0.3;0.7;4.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Charlotte Hornets;Isaiah Livers;1;0;13.0;6.0;2.0;0.0;2.0;1.0;0.0;0.0;0.0;1.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Charlotte Hornets;Saben Lee;2;0;11.5;3.5;0.5;0.5;1.0;2.5;1.0;1.0;0.5;0.5;5.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Charlotte Hornets;Luka Garza;2;0;6.0;2.5;1.0;0.5;1.5;0.5;0.0;0.0;0.0;0.5;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Charlotte Hornets;Cory Joseph;2;2;21.0;2.0;1.0;2.0;3.0;4.0;0.5;0.0;0.5;2.5;8.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Charlotte Hornets;Frank Jackson;1;0;9.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;1.0;0.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Charlotte Hornets;Total;3;"";"";119.0;15.7;29.3;45.0;29.3;10.7;4.0;15.0;23.3;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Miami Heat;Jerami Grant;2;2;36.5;21.5;0.5;5.0;5.5;1.5;2.5;0.5;0.0;1.5;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Miami Heat;Saddiq Bey;4;4;38.0;19.3;0.3;5.3;5.5;3.3;0.3;0.0;1.8;2.3;1.9
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Miami Heat;Isaiah Livers;1;0;32.0;16.0;0.0;6.0;6.0;2.0;1.0;0.0;0.0;3.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Miami Heat;Frank Jackson;3;1;30.7;14.7;0.7;1.3;2.0;1.0;0.3;0.3;0.3;5.0;3.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Miami Heat;Trey Lyles;3;1;26.7;14.0;1.7;6.0;7.7;1.7;0.7;2.0;1.7;1.7;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Miami Heat;Marvin Bagley III;1;0;30.0;13.0;1.0;5.0;6.0;1.0;0.0;2.0;2.0;5.0;0.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Miami Heat;Hamidou Diallo;3;2;26.3;12.3;0.7;4.3;5.0;2.7;0.7;0.3;1.7;2.7;1.6
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Miami Heat;Cory Joseph;4;3;29.5;12.0;0.3;3.0;3.3;6.3;1.0;0.0;2.3;3.3;2.8
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Miami Heat;Killian Hayes;2;1;25.5;10.0;0.0;3.0;3.0;4.5;1.0;0.0;2.5;5.0;1.8
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Miami Heat;Kelly Olynyk;1;0;13.0;6.0;3.0;2.0;5.0;1.0;2.0;0.0;1.0;1.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Miami Heat;Luka Garza;3;1;9.7;5.0;2.0;0.7;2.7;0.7;0.0;0.0;0.3;2.0;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Miami Heat;Cade Cunningham;2;2;30.0;5.0;0.0;3.0;3.0;8.0;1.5;0.0;4.0;5.0;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Miami Heat;Josh Jackson;2;0;16.0;4.5;0.0;2.5;2.5;0.5;1.0;0.0;2.0;1.0;0.3
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Miami Heat;Isaiah Stewart;2;2;25.5;4.5;2.5;8.5;11.0;1.0;0.0;1.0;1.5;5.0;0.7
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Miami Heat;Rodney McGruder;2;1;11.0;4.0;0.0;1.0;1.0;0.5;0.0;0.0;0.5;0.5;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Miami Heat;Cheick Diallo;1;0;3.0;2.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Miami Heat;Saben Lee;2;0;13.0;1.5;0.0;2.5;2.5;0.0;0.0;0.0;1.5;2.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Miami Heat;Jamorko Pickett;1;0;15.0;0.0;0.0;3.0;3.0;0.0;0.0;0.0;0.0;1.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Miami Heat;Total;4;"";"";100.5;6.8;34.3;41.0;23.0;6.5;3.3;13.8;26.5;1.7
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Orlando Magic;Saddiq Bey;4;4;35.3;24.3;2.3;4.5;6.8;2.5;1.3;0.5;0.8;1.3;3.3
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Orlando Magic;Jerami Grant;1;1;35.0;22.0;2.0;5.0;7.0;5.0;1.0;0.0;1.0;2.0;5.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Orlando Magic;Marvin Bagley III;1;1;32.0;20.0;4.0;7.0;11.0;2.0;2.0;0.0;2.0;3.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Orlando Magic;Trey Lyles;3;0;21.3;15.3;1.0;4.0;5.0;1.3;1.0;1.3;1.7;1.3;0.8
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Orlando Magic;Kelly Olynyk;2;0;23.5;13.5;1.0;3.5;4.5;3.0;2.0;1.5;1.0;2.5;3.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Orlando Magic;Hamidou Diallo;2;2;25.0;11.5;1.5;3.5;5.0;0.5;2.0;0.5;1.0;3.0;0.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Orlando Magic;Cory Joseph;4;2;25.5;10.5;0.5;3.5;4.0;4.8;0.8;0.3;1.3;3.8;3.8
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Orlando Magic;Isaiah Stewart;4;4;24.3;9.8;2.5;6.0;8.5;0.8;0.8;1.0;1.0;2.0;0.8
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Orlando Magic;Josh Jackson;3;0;19.0;9.0;0.7;5.0;5.7;1.7;1.7;1.0;1.3;2.3;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Orlando Magic;Frank Jackson;2;0;20.0;8.5;1.0;0.5;1.5;0.5;0.5;0.0;1.0;1.5;0.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Orlando Magic;Cade Cunningham;3;3;27.0;7.3;1.0;3.0;4.0;3.7;0.3;0.3;2.0;1.7;1.8
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Orlando Magic;Saben Lee;3;0;14.0;6.0;0.3;0.7;1.0;4.0;1.3;0.3;0.3;2.0;12.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Orlando Magic;Rodney McGruder;3;0;17.3;5.3;1.3;1.0;2.3;2.7;0.3;0.0;0.0;1.3;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Orlando Magic;Isaiah Livers;1;0;20.0;5.0;0.0;3.0;3.0;1.0;1.0;0.0;0.0;4.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Orlando Magic;Killian Hayes;4;3;20.5;4.8;0.3;1.8;2.0;4.3;0.5;0.5;1.3;1.8;3.4
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Orlando Magic;Jamorko Pickett;1;0;18.0;2.0;0.0;1.0;1.0;1.0;0.0;2.0;0.0;0.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Orlando Magic;Cassius Stanley;1;0;3.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Orlando Magic;Total;4;"";"";111.0;12.0;33.8;45.8;26.5;10.0;6.0;10.5;21.0;2.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Washington Wizards;Cade Cunningham;4;4;32.8;18.8;1.8;4.3;6.0;5.3;1.0;0.3;2.8;4.0;1.9
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Washington Wizards;Jerami Grant;4;4;28.8;18.3;0.3;2.3;2.5;2.0;1.0;0.8;2.3;1.8;0.9
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Washington Wizards;Marvin Bagley III;2;0;27.5;17.5;2.0;4.5;6.5;0.5;1.0;0.5;0.0;0.5;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Washington Wizards;Saddiq Bey;4;4;29.8;14.8;1.0;4.0;5.0;2.5;1.0;0.0;1.3;1.0;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Washington Wizards;Isaiah Stewart;4;4;27.3;10.8;3.5;5.5;9.0;1.3;0.5;0.8;1.5;3.5;0.8
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Washington Wizards;Hamidou Diallo;3;0;23.3;9.3;0.3;3.0;3.3;0.7;1.0;0.7;0.3;2.3;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Washington Wizards;Frank Jackson;3;0;20.0;8.0;0.3;1.3;1.7;1.0;0.7;0.0;0.7;1.0;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Washington Wizards;Josh Jackson;1;0;14.0;7.0;0.0;0.0;0.0;2.0;0.0;1.0;0.0;1.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Washington Wizards;Cory Joseph;4;3;22.8;6.5;0.3;2.5;2.8;2.3;1.0;0.0;1.0;2.3;2.3
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Washington Wizards;Killian Hayes;4;1;22.3;5.3;0.8;3.0;3.8;3.3;1.3;1.0;2.0;2.0;1.6
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Washington Wizards;Kelly Olynyk;2;0;17.0;5.0;1.5;2.0;3.5;2.0;0.5;0.5;1.5;1.5;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Washington Wizards;Trey Lyles;1;0;23.0;4.0;1.0;5.0;6.0;1.0;0.0;0.0;0.0;3.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Washington Wizards;Braxton Key;1;0;18.0;4.0;1.0;4.0;5.0;0.0;0.0;2.0;2.0;3.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Washington Wizards;Rodney McGruder;3;0;15.3;3.0;0.7;2.3;3.0;1.0;1.0;0.0;0.7;1.7;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Washington Wizards;Isaiah Livers;1;0;10.0;2.0;1.0;0.0;1.0;1.0;0.0;0.0;0.0;2.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Washington Wizards;Total;4;"";"";105.0;11.0;32.0;43.0;20.8;8.5;4.5;13.3;21.5;1.6
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Denver Nuggets;Cade Cunningham;2;2;38.0;26.0;0.5;6.0;6.5;8.0;1.5;2.5;5.0;4.0;1.6
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Denver Nuggets;Saddiq Bey;2;2;32.5;16.0;0.5;4.0;4.5;3.0;1.5;0.0;1.5;1.5;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Denver Nuggets;Trey Lyles;2;0;22.0;14.0;1.0;4.5;5.5;1.5;1.0;0.5;1.0;1.5;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Denver Nuggets;Cory Joseph;2;2;26.0;12.5;1.0;2.5;3.5;3.5;0.5;0.0;1.0;3.0;3.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Denver Nuggets;Hamidou Diallo;2;2;23.5;11.5;2.5;1.0;3.5;1.5;1.0;0.0;1.5;4.5;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Denver Nuggets;Frank Jackson;1;0;14.0;11.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Denver Nuggets;Isaiah Stewart;2;2;26.0;9.0;0.0;3.5;3.5;1.0;0.5;0.0;2.0;5.5;0.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Denver Nuggets;Killian Hayes;2;0;26.5;7.0;0.5;2.0;2.5;6.5;1.0;1.0;1.5;2.5;4.3
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Denver Nuggets;Rodney McGruder;2;0;22.0;3.5;0.5;2.0;2.5;1.0;1.5;0.0;1.0;1.5;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Denver Nuggets;Josh Jackson;2;0;12.0;2.0;0.0;1.0;1.0;0.5;0.5;1.0;1.0;1.0;0.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Denver Nuggets;Cassius Stanley;1;0;11.0;2.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;4.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Denver Nuggets;Total;2;"";"";108.0;6.5;28.5;35.0;26.5;9.0;5.0;15.5;27.0;1.7
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Saddiq Bey;2;2;33.5;22.5;3.5;7.0;10.5;5.5;0.5;0.5;0.5;1.0;11.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Frank Jackson;2;0;25.5;17.0;1.0;2.5;3.5;2.0;0.5;0.0;0.5;1.0;4.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Jerami Grant;2;2;31.5;15.0;0.0;3.5;3.5;3.0;0.0;1.5;2.0;2.0;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Trey Lyles;2;0;17.5;14.5;0.5;3.0;3.5;0.5;0.0;0.0;1.0;1.5;0.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Cory Joseph;2;2;29.5;11.0;0.0;3.0;3.0;5.0;0.5;1.5;3.5;4.5;1.4
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Hamidou Diallo;2;1;18.5;10.0;1.0;3.5;4.5;0.0;1.5;0.0;0.0;2.5;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Isaiah Stewart;2;2;32.5;7.5;6.5;6.0;12.5;1.0;0.0;2.0;1.5;2.0;0.7
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Killian Hayes;2;0;22.0;6.0;0.0;2.0;2.0;6.0;0.5;1.5;3.0;3.0;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Rodney McGruder;2;1;15.0;4.0;0.0;1.0;1.0;1.5;0.5;0.0;0.0;2.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Kelly Olynyk;2;0;14.5;3.5;1.0;1.0;2.0;3.0;0.5;0.5;0.5;3.5;6.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Total;2;"";"";111.0;13.5;32.5;46.0;27.5;4.5;7.5;12.5;23.0;2.2
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Jerami Grant;1;1;35.0;20.0;1.0;5.0;6.0;5.0;0.0;2.0;3.0;1.0;1.7
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Killian Hayes;2;2;33.5;17.5;0.5;4.0;4.5;6.5;3.0;1.5;3.0;4.0;2.2
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Isaiah Livers;1;1;43.0;17.0;0.0;11.0;11.0;3.0;1.0;1.0;2.0;2.0;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Frank Jackson;2;0;25.5;15.0;1.0;0.5;1.5;0.0;0.5;0.0;1.0;3.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Cade Cunningham;2;2;22.0;15.0;1.5;4.0;5.5;2.5;0.5;0.0;4.0;2.0;0.6
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Jamorko Pickett;1;0;39.0;13.0;2.0;6.0;8.0;4.0;0.0;3.0;0.0;0.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Braxton Key;1;0;30.0;10.0;2.0;6.0;8.0;1.0;0.0;1.0;0.0;6.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Saben Lee;2;0;27.5;10.0;1.0;3.5;4.5;7.5;2.0;1.0;1.0;2.0;7.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Saddiq Bey;2;2;23.0;9.0;1.0;2.5;3.5;1.0;1.0;0.0;0.0;1.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Josh Jackson;1;0;14.0;7.0;0.0;3.0;3.0;0.0;1.0;0.0;0.0;5.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Trey Lyles;1;0;14.0;5.0;3.0;3.0;6.0;0.0;0.0;0.0;0.0;2.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Isaiah Stewart;2;2;17.5;3.0;1.5;4.0;5.5;1.0;0.5;1.5;0.5;2.0;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Luka Garza;1;0;4.0;2.0;3.0;1.0;4.0;0.0;0.0;0.0;0.0;2.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Total;2;"";"";106.5;12.0;36.0;48.0;25.0;8.5;7.5;12.0;23.0;2.1
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Cade Cunningham;2;2;34.5;25.5;0.0;5.0;5.0;4.0;2.5;2.0;7.5;4.5;0.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Marvin Bagley III;1;1;29.0;15.0;3.0;6.0;9.0;2.0;0.0;0.0;0.0;2.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Jerami Grant;1;1;35.0;14.0;0.0;3.0;3.0;3.0;0.0;1.0;5.0;2.0;0.6
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Saddiq Bey;2;2;30.0;13.5;0.5;3.0;3.5;3.0;0.5;0.0;0.5;2.0;6.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Isaiah Stewart;2;2;32.0;11.5;5.0;8.5;13.5;1.0;0.0;1.5;1.5;4.0;0.7
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Killian Hayes;2;2;33.5;11.5;1.0;4.5;5.5;4.0;0.5;0.5;2.5;4.5;1.6
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Frank Jackson;1;0;24.0;10.0;0.0;2.0;2.0;0.0;0.0;0.0;1.0;2.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Saben Lee;1;0;19.0;9.0;1.0;2.0;3.0;2.0;1.0;0.0;0.0;3.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Luka Garza;2;0;10.0;6.5;0.5;0.5;1.0;0.0;1.0;0.5;0.5;2.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Cory Joseph;1;0;21.0;6.0;0.0;4.0;4.0;4.0;1.0;1.0;1.0;1.0;4.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Trey Lyles;1;0;12.0;5.0;0.0;2.0;2.0;1.0;0.0;0.0;0.0;1.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Isaiah Livers;1;0;25.0;5.0;0.0;5.0;5.0;2.0;0.0;0.0;2.0;4.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Jamorko Pickett;1;0;14.0;5.0;1.0;2.0;3.0;1.0;0.0;0.0;0.0;4.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Hamidou Diallo;1;0;10.0;1.0;0.0;3.0;3.0;0.0;0.0;0.0;1.0;1.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Rodney McGruder;1;0;5.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Josh Jackson;1;0;8.0;0.0;0.0;2.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Total;2;"";"";103.5;9.5;37.0;46.5;19.5;6.0;6.0;18.0;27.0;1.1
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Utah Jazz;Cade Cunningham;2;2;40.0;27.0;1.0;2.5;3.5;6.5;2.0;2.5;3.5;3.5;1.9
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Utah Jazz;Saddiq Bey;2;2;33.5;21.0;0.5;3.0;3.5;2.5;1.0;0.5;1.5;2.5;1.7
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Utah Jazz;Rodney McGruder;1;0;23.0;15.0;0.0;4.0;4.0;0.0;0.0;0.0;0.0;2.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Utah Jazz;Trey Lyles;2;0;27.0;15.0;3.0;2.5;5.5;3.5;0.5;0.5;1.5;3.0;2.3
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Utah Jazz;Cory Joseph;2;1;30.5;12.0;0.5;2.0;2.5;3.5;1.5;0.0;0.0;2.5;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Utah Jazz;Hamidou Diallo;2;2;21.5;9.0;0.0;4.5;4.5;3.0;1.5;0.0;0.5;1.0;6.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Utah Jazz;Josh Jackson;2;0;19.5;7.5;1.0;4.0;5.0;1.0;0.0;0.0;1.0;0.5;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Utah Jazz;Isaiah Stewart;2;2;23.5;7.0;2.0;5.5;7.5;0.5;0.0;1.5;1.0;3.5;0.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Utah Jazz;Killian Hayes;1;1;23.0;5.0;0.0;2.0;2.0;3.0;1.0;0.0;0.0;1.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Utah Jazz;Kelly Olynyk;1;0;19.0;4.0;0.0;4.0;4.0;5.0;0.0;0.0;2.0;4.0;2.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Utah Jazz;Cassius Stanley;1;0;5.0;4.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Utah Jazz;Saben Lee;2;0;9.5;1.0;1.0;1.5;2.5;1.0;0.5;0.5;0.5;2.0;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Utah Jazz;Total;2;"";"";113.5;9.0;30.5;39.5;26.0;7.5;5.5;10.5;22.0;2.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Golden State Warriors;Frank Jackson;1;0;33.0;27.0;0.0;2.0;2.0;0.0;3.0;0.0;0.0;1.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Golden State Warriors;Rodney McGruder;1;0;22.0;19.0;1.0;4.0;5.0;1.0;1.0;0.0;1.0;0.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Golden State Warriors;Jerami Grant;1;1;34.0;19.0;0.0;4.0;4.0;2.0;2.0;3.0;2.0;3.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Golden State Warriors;Cade Cunningham;2;2;32.0;13.5;1.0;2.5;3.5;5.0;2.0;1.0;3.5;2.0;1.4
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Golden State Warriors;Hamidou Diallo;2;1;24.0;13.0;2.5;6.5;9.0;0.5;1.0;0.5;1.0;4.0;0.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Golden State Warriors;Trey Lyles;2;0;21.0;8.5;0.0;4.0;4.0;2.0;0.0;0.5;1.5;2.5;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Golden State Warriors;Saddiq Bey;2;2;33.0;8.5;2.0;1.0;3.0;2.0;0.0;0.5;1.0;2.5;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Golden State Warriors;Isaiah Stewart;2;2;21.5;8.0;3.5;4.0;7.5;0.0;0.0;0.5;1.0;1.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Golden State Warriors;Cory Joseph;2;0;26.5;5.0;1.0;0.5;1.5;5.5;1.0;0.0;2.5;1.5;2.2
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Golden State Warriors;Luka Garza;1;0;7.0;3.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;1.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Golden State Warriors;Josh Jackson;1;0;17.0;2.0;0.0;4.0;4.0;0.0;0.0;1.0;0.0;6.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Golden State Warriors;Saben Lee;1;0;22.0;2.0;1.0;8.0;9.0;4.0;0.0;2.0;3.0;0.0;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Golden State Warriors;Killian Hayes;2;2;13.5;1.5;0.0;2.0;2.0;0.5;0.5;0.0;0.5;3.5;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Golden State Warriors;Total;2;"";"";94.0;11.0;31.5;42.5;19.5;7.5;6.0;14.0;22.5;1.4
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. LA Clippers;Jerami Grant;2;2;35.0;20.5;0.5;7.0;7.5;2.0;0.0;0.5;1.5;4.0;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. LA Clippers;Cade Cunningham;2;2;36.5;16.5;1.0;6.5;7.5;8.0;1.5;1.0;3.5;3.0;2.3
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. LA Clippers;Marvin Bagley III;1;1;32.0;15.0;3.0;5.0;8.0;3.0;0.0;0.0;1.0;3.0;3.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. LA Clippers;Trey Lyles;1;0;15.0;13.0;2.0;3.0;5.0;0.0;0.0;0.0;0.0;1.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. LA Clippers;Saddiq Bey;2;2;28.0;11.0;0.5;4.5;5.0;0.5;1.0;0.0;0.5;1.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. LA Clippers;Cory Joseph;2;2;30.0;10.0;1.0;3.0;4.0;4.0;1.0;0.0;1.0;2.0;4.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. LA Clippers;Frank Jackson;1;0;21.0;10.0;1.0;0.0;1.0;0.0;0.0;0.0;4.0;0.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. LA Clippers;Kelly Olynyk;1;0;15.0;9.0;1.0;2.0;3.0;0.0;0.0;0.0;2.0;3.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. LA Clippers;Isaiah Livers;1;0;27.0;9.0;2.0;3.0;5.0;1.0;0.0;1.0;0.0;2.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. LA Clippers;Josh Jackson;1;0;19.0;5.0;0.0;1.0;1.0;0.0;0.0;1.0;0.0;1.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. LA Clippers;Luka Garza;1;0;10.0;5.0;1.0;2.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. LA Clippers;Hamidou Diallo;1;0;18.0;4.0;3.0;4.0;7.0;1.0;2.0;1.0;1.0;2.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. LA Clippers;Saben Lee;2;0;18.5;4.0;0.0;1.5;1.5;3.0;0.5;0.5;1.0;1.0;3.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. LA Clippers;Isaiah Stewart;1;1;27.0;4.0;2.0;10.0;12.0;0.0;1.0;1.0;2.0;3.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. LA Clippers;Total;2;"";"";99.0;10.5;37.5;48.0;20.0;5.5;4.0;12.5;18.5;1.6
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Jerami Grant;2;2;35.0;34.0;1.0;4.0;5.0;3.5;0.5;0.5;2.5;2.5;1.4
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Frank Jackson;2;0;27.0;16.0;0.5;1.5;2.0;2.5;0.5;1.5;1.0;1.0;2.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Cade Cunningham;2;2;36.0;14.0;1.0;10.5;11.5;6.0;1.0;0.5;4.0;2.0;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Hamidou Diallo;2;0;17.5;13.5;1.5;2.5;4.0;0.5;1.0;0.5;1.0;1.0;0.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Trey Lyles;2;0;14.0;10.0;1.5;3.0;4.5;1.0;0.0;0.5;1.0;4.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Saddiq Bey;2;2;33.5;10.0;2.5;5.0;7.5;2.0;2.0;0.0;1.5;3.5;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Killian Hayes;1;1;29.0;6.0;0.0;3.0;3.0;8.0;0.0;0.0;1.0;4.0;8.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Isaiah Stewart;2;2;23.0;4.5;1.5;2.0;3.5;1.0;0.0;1.0;2.0;1.0;0.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Cory Joseph;2;1;29.0;3.5;0.0;3.0;3.0;5.0;0.5;0.0;0.0;2.5;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Josh Jackson;2;0;11.0;2.5;0.5;3.0;3.5;2.5;0.5;0.5;0.5;2.5;5.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Total;2;"";"";111.0;10.0;36.0;46.0;28.0;6.0;5.0;14.0;22.0;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Phoenix Suns;Jerami Grant;1;1;38.0;34.0;1.0;5.0;6.0;3.0;2.0;1.0;1.0;2.0;3.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Phoenix Suns;Cade Cunningham;2;2;28.0;20.0;0.5;1.0;1.5;4.5;1.0;0.5;2.5;3.0;1.8
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Phoenix Suns;Cory Joseph;2;0;21.5;12.0;0.0;1.5;1.5;4.5;0.0;0.5;0.5;2.5;9.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Phoenix Suns;Trey Lyles;2;0;15.5;11.0;1.0;3.0;4.0;1.0;0.5;0.0;0.5;1.5;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Phoenix Suns;Killian Hayes;2;2;29.5;9.5;0.0;4.5;4.5;4.0;0.0;1.5;1.0;2.5;4.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Phoenix Suns;Isaiah Stewart;2;2;29.0;8.5;3.5;6.5;10.0;2.0;0.5;0.5;1.0;3.0;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Phoenix Suns;Saddiq Bey;2;2;30.5;8.0;0.0;2.5;2.5;1.5;0.0;0.0;1.5;0.5;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Phoenix Suns;Cassius Stanley;1;0;22.0;8.0;0.0;3.0;3.0;1.0;2.0;0.0;1.0;1.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Phoenix Suns;Hamidou Diallo;2;1;25.0;7.5;0.5;2.0;2.5;1.0;0.5;0.5;1.0;3.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Phoenix Suns;Frank Jackson;1;0;18.0;7.0;0.0;0.0;0.0;1.0;1.0;0.0;0.0;1.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Phoenix Suns;Luka Garza;2;0;5.5;3.0;0.0;2.0;2.0;0.0;0.0;0.0;1.0;1.5;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Phoenix Suns;Saben Lee;1;0;18.0;2.0;0.0;1.0;1.0;3.0;2.0;0.0;1.0;1.0;3.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Phoenix Suns;Josh Jackson;1;0;15.0;1.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;2.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Phoenix Suns;Total;2;"";"";105.5;6.0;28.0;34.0;22.5;6.0;4.0;10.5;21.0;2.1
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Sacramento Kings;Saddiq Bey;2;2;31.0;29.0;1.5;4.0;5.5;3.0;1.5;0.0;2.0;3.0;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Sacramento Kings;Kelly Olynyk;1;0;22.0;22.0;4.0;5.0;9.0;5.0;1.0;1.0;1.0;2.0;5.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Sacramento Kings;Cade Cunningham;2;2;28.0;19.0;1.0;3.5;4.5;4.0;1.0;0.0;2.5;3.5;1.6
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Sacramento Kings;Cory Joseph;2;1;21.5;10.5;0.5;2.0;2.5;4.5;0.0;0.5;1.0;0.5;4.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Sacramento Kings;Rodney McGruder;2;0;21.5;10.5;2.5;0.5;3.0;1.5;0.5;0.0;0.5;1.0;3.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Sacramento Kings;Frank Jackson;1;0;18.0;8.0;0.0;0.0;0.0;0.0;1.0;0.0;2.0;0.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Sacramento Kings;Hamidou Diallo;2;1;18.5;8.0;0.0;2.0;2.0;2.0;0.5;0.0;0.5;2.5;4.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Sacramento Kings;Isaiah Stewart;2;2;24.5;7.5;5.0;5.5;10.5;2.5;0.0;0.5;1.0;2.0;2.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Sacramento Kings;Jerami Grant;1;1;27.0;7.0;0.0;1.0;1.0;1.0;0.0;0.0;1.0;1.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Sacramento Kings;Trey Lyles;2;0;17.0;6.0;0.5;3.0;3.5;0.0;0.0;1.0;1.0;1.5;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Sacramento Kings;Josh Jackson;2;0;17.0;5.5;0.0;1.5;1.5;2.0;0.0;1.0;0.5;1.0;4.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Sacramento Kings;Luka Garza;1;0;17.0;5.0;3.0;4.0;7.0;1.0;0.0;0.0;0.0;2.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Sacramento Kings;Saben Lee;2;0;8.0;3.0;0.0;0.0;0.0;0.5;0.0;0.0;0.5;0.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Sacramento Kings;Killian Hayes;1;1;23.0;0.0;0.0;5.0;5.0;3.0;1.0;1.0;2.0;1.0;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Sacramento Kings;Total;2;"";"";120.0;14.5;29.5;44.0;25.0;5.0;4.0;12.5;18.0;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Dallas Mavericks;Cade Cunningham;1;1;38.0;25.0;1.0;6.0;7.0;9.0;2.0;1.0;5.0;4.0;1.8
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Dallas Mavericks;Hamidou Diallo;1;1;26.0;18.0;1.0;4.0;5.0;1.0;1.0;0.0;1.0;3.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Dallas Mavericks;Isaiah Stewart;2;2;29.0;16.5;5.5;9.0;14.5;1.0;0.5;0.5;0.5;3.5;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Dallas Mavericks;Jerami Grant;1;1;30.0;15.0;0.0;4.0;4.0;1.0;1.0;0.0;0.0;2.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Dallas Mavericks;Braxton Key;1;0;19.0;14.0;1.0;4.0;5.0;1.0;1.0;3.0;1.0;2.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Dallas Mavericks;Trey Lyles;1;0;18.0;12.0;2.0;4.0;6.0;1.0;0.0;1.0;1.0;2.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Dallas Mavericks;Saben Lee;1;0;19.0;11.0;1.0;2.0;3.0;4.0;1.0;0.0;1.0;1.0;4.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Dallas Mavericks;Jamorko Pickett;1;0;20.0;10.0;0.0;3.0;3.0;0.0;0.0;0.0;0.0;3.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Dallas Mavericks;Frank Jackson;2;0;20.5;8.5;1.0;2.5;3.5;2.5;0.0;0.0;0.0;1.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Dallas Mavericks;Killian Hayes;2;1;25.5;8.5;0.5;2.5;3.0;2.0;1.5;0.0;4.5;4.0;0.4
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Dallas Mavericks;Kelly Olynyk;1;0;19.0;7.0;2.0;1.0;3.0;4.0;0.0;0.0;2.0;1.0;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Dallas Mavericks;Isaiah Livers;1;1;26.0;7.0;1.0;1.0;2.0;1.0;0.0;0.0;0.0;1.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Dallas Mavericks;Saddiq Bey;2;2;32.5;5.0;0.0;2.0;2.0;5.5;1.0;0.5;0.0;2.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Dallas Mavericks;Cory Joseph;1;1;27.0;3.0;1.0;2.0;3.0;1.0;0.0;0.0;3.0;3.0;0.3
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Dallas Mavericks;Rodney McGruder;1;0;13.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;2.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Dallas Mavericks;Carsen Edwards;1;0;10.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Dallas Mavericks;Total;2;"";"";99.5;12.0;31.5;43.5;23.0;6.0;3.5;12.5;22.5;1.8
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Houston Rockets;Jerami Grant;1;1;35.0;35.0;0.0;5.0;5.0;3.0;0.0;2.0;1.0;2.0;3.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Houston Rockets;Cade Cunningham;2;2;33.5;20.5;1.5;4.0;5.5;7.0;2.0;1.0;3.5;3.0;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Houston Rockets;Saddiq Bey;2;2;36.0;19.5;3.0;3.5;6.5;3.0;1.0;0.5;0.0;2.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Houston Rockets;Kelly Olynyk;1;0;26.0;13.0;2.0;4.0;6.0;1.0;2.0;1.0;2.0;6.0;0.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Houston Rockets;Isaiah Stewart;2;2;17.5;10.0;3.5;4.5;8.0;1.0;0.5;1.0;2.0;4.5;0.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Houston Rockets;Luka Garza;1;0;9.0;9.0;3.0;0.0;3.0;0.0;0.0;0.0;1.0;2.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Houston Rockets;Hamidou Diallo;1;1;22.0;8.0;0.0;3.0;3.0;0.0;2.0;0.0;1.0;2.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Houston Rockets;Trey Lyles;2;0;17.5;6.5;1.5;2.5;4.0;1.0;0.0;0.5;1.5;2.0;0.7
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Houston Rockets;Frank Jackson;2;0;19.5;6.0;0.5;1.0;1.5;0.0;0.0;0.0;1.0;1.5;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Houston Rockets;Killian Hayes;2;2;33.0;6.0;1.0;1.5;2.5;6.5;1.0;0.5;2.0;2.0;3.3
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Houston Rockets;Cory Joseph;1;0;17.0;5.0;0.0;2.0;2.0;5.0;0.0;0.0;5.0;3.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Houston Rockets;Josh Jackson;2;0;14.5;4.0;1.0;4.0;5.0;2.0;0.0;0.5;0.5;0.5;4.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Houston Rockets;Saben Lee;1;0;19.0;4.0;1.0;2.0;3.0;2.0;1.0;0.0;0.0;3.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Houston Rockets;Rodney McGruder;1;0;9.0;0.0;1.0;2.0;3.0;0.0;0.0;1.0;3.0;1.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Houston Rockets;Total;2;"";"";109.5;15.5;30.0;45.5;26.0;7.0;6.0;17.0;25.0;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Jerami Grant;1;1;29.0;20.0;0.0;4.0;4.0;4.0;1.0;2.0;3.0;3.0;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Hamidou Diallo;2;2;28.5;14.5;2.0;6.0;8.0;2.0;0.0;0.5;0.5;2.0;4.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Saben Lee;1;0;16.0;14.0;0.0;2.0;2.0;5.0;2.0;0.0;3.0;0.0;1.7
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Frank Jackson;1;0;29.0;12.0;0.0;1.0;1.0;1.0;2.0;0.0;0.0;3.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Cade Cunningham;1;1;31.0;12.0;1.0;4.0;5.0;6.0;0.0;0.0;1.0;2.0;6.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Trey Lyles;1;0;26.0;10.0;1.0;5.0;6.0;1.0;1.0;0.0;1.0;3.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Saddiq Bey;2;2;34.0;10.0;0.5;4.5;5.0;1.5;1.0;0.0;0.0;0.5;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Kelly Olynyk;1;0;21.0;9.0;2.0;5.0;7.0;2.0;0.0;0.0;1.0;1.0;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Rodney McGruder;2;0;20.5;8.0;1.0;0.5;1.5;0.5;0.5;0.5;0.5;1.5;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Josh Jackson;1;0;16.0;8.0;0.0;2.0;2.0;0.0;1.0;0.0;1.0;1.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Isaiah Stewart;2;2;19.0;8.0;3.0;2.0;5.0;1.0;0.5;2.0;0.0;4.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Luka Garza;2;0;14.0;7.5;1.5;2.0;3.5;1.5;0.0;0.0;0.5;1.5;3.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Cory Joseph;1;1;31.0;4.0;0.0;2.0;2.0;9.0;0.0;1.0;0.0;4.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Killian Hayes;2;1;21.5;3.5;0.0;2.0;2.0;3.0;0.0;0.5;3.5;3.5;0.9
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Justin Robinson;1;0;8.0;3.0;0.0;0.0;0.0;3.0;0.0;0.0;0.0;0.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Total;2;"";"";97.5;10.0;29.5;39.5;25.0;5.5;5.0;10.0;21.5;2.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Jerami Grant;2;2;28.5;14.0;0.5;2.5;3.0;1.5;0.0;2.0;3.0;4.0;0.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Trey Lyles;2;0;23.5;13.5;0.5;4.0;4.5;0.5;0.5;0.5;1.0;1.0;0.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Hamidou Diallo;2;0;16.5;11.5;1.5;3.5;5.0;2.0;0.5;0.5;0.0;0.5;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Frank Jackson;2;0;21.5;11.0;0.0;1.5;1.5;1.5;0.5;0.5;2.0;2.5;0.8
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Cade Cunningham;2;2;26.0;11.0;0.5;2.5;3.0;2.5;2.5;0.0;2.0;2.5;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Cory Joseph;2;1;21.5;10.0;0.0;1.5;1.5;2.5;0.5;0.0;2.0;0.0;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Saddiq Bey;2;2;30.0;9.0;0.5;3.5;4.0;2.0;1.5;0.0;0.0;2.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Killian Hayes;2;1;23.5;7.0;0.0;3.0;3.0;4.0;0.5;0.0;1.0;2.0;4.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Isaiah Stewart;2;2;25.0;6.0;2.5;5.5;8.0;1.0;0.0;1.0;0.5;3.5;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Kelly Olynyk;1;0;17.0;3.0;0.0;2.0;2.0;6.0;0.0;0.0;5.0;4.0;1.2
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Luka Garza;1;0;3.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Saben Lee;1;0;9.0;2.0;1.0;2.0;3.0;2.0;0.0;0.0;0.0;0.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Rodney McGruder;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Josh Jackson;1;0;15.0;0.0;0.0;1.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Total;2;"";"";97.0;6.5;30.0;36.5;21.5;7.0;4.5;15.0;20.0;1.4
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. San Antonio Spurs;Hamidou Diallo;2;2;44.5;31.0;2.5;6.0;8.5;3.0;4.0;1.5;5.0;3.5;0.6
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. San Antonio Spurs;Saddiq Bey;2;2;44.0;22.0;2.0;10.5;12.5;2.0;1.5;0.0;3.5;3.0;0.6
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. San Antonio Spurs;Luka Garza;2;2;30.0;20.0;7.0;3.0;10.0;1.0;0.5;0.0;2.0;5.0;0.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. San Antonio Spurs;Frank Jackson;1;1;34.0;17.0;2.0;0.0;2.0;2.0;1.0;0.0;0.0;1.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. San Antonio Spurs;Cassius Stanley;2;1;28.0;14.0;1.5;1.5;3.0;1.0;1.0;1.0;1.0;3.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. San Antonio Spurs;Cheick Diallo;1;0;19.0;9.0;3.0;6.0;9.0;0.0;0.0;0.0;1.0;6.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. San Antonio Spurs;Justin Robinson;1;0;23.0;8.0;0.0;1.0;1.0;3.0;0.0;1.0;0.0;4.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. San Antonio Spurs;Derrick Walton Jr.;2;2;35.5;5.5;1.0;4.0;5.0;6.0;2.5;1.0;3.0;2.0;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. San Antonio Spurs;Micah Potter;1;0;13.0;4.0;1.0;1.0;2.0;0.0;0.0;1.0;1.0;2.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. San Antonio Spurs;Deividas Sirvydis;2;0;11.0;1.5;0.0;3.0;3.0;0.5;1.0;0.5;0.0;1.5;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. San Antonio Spurs;Jaysean Paige;1;0;7.0;0.0;0.0;1.0;1.0;1.0;0.0;0.0;1.0;2.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. San Antonio Spurs;Jamorko Pickett;2;0;11.5;0.0;1.0;2.0;3.0;0.5;0.0;0.5;1.0;1.0;0.5
+Detroit Pistons;det;2021 - 2022 Regular Season;vs. San Antonio Spurs;Total;2;"";"";113.0;18.0;34.5;52.5;17.0;11.0;5.5;17.0;26.5;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;October;Jerami Grant;5;5;32.6;16.0;2.0;3.6;5.6;2.2;1.8;1.2;2.2;2.8;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;October;Saddiq Bey;6;6;32.7;15.8;1.8;6.2;8.0;2.8;0.8;0.5;1.5;1.3;1.9
+Detroit Pistons;det;2021 - 2022 Regular Season;October;Kelly Olynyk;6;1;24.2;13.7;1.0;3.7;4.7;2.8;1.7;0.7;1.5;2.0;1.9
+Detroit Pistons;det;2021 - 2022 Regular Season;October;Josh Jackson;6;2;23.3;10.2;1.0;3.5;4.5;2.5;0.5;0.5;1.7;2.2;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;October;Trey Lyles;6;0;16.8;8.8;1.0;3.0;4.0;1.7;0.5;0.3;1.3;0.7;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;October;Isaiah Stewart;6;6;22.7;8.5;2.0;4.5;6.5;1.3;0.5;1.0;1.3;1.8;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;October;Cory Joseph;6;0;21.3;6.8;0.5;0.5;1.0;2.8;1.0;0.3;1.0;1.3;2.8
+Detroit Pistons;det;2021 - 2022 Regular Season;October;Frank Jackson;6;2;20.5;6.0;0.3;1.2;1.5;0.5;0.7;0.0;1.3;1.3;0.4
+Detroit Pistons;det;2021 - 2022 Regular Season;October;Killian Hayes;6;6;23.7;5.3;0.7;1.8;2.5;2.8;1.5;0.3;1.8;2.0;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;October;Hamidou Diallo;5;1;14.2;4.4;0.6;1.2;1.8;0.8;0.4;0.2;0.8;1.4;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;October;Luka Garza;4;0;8.0;3.3;0.5;0.8;1.3;0.3;0.8;0.3;0.3;2.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;October;Cade Cunningham;1;1;19.0;2.0;2.0;5.0;7.0;2.0;0.0;1.0;2.0;0.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;October;Rodney McGruder;3;0;4.3;1.0;0.0;0.7;0.7;0.3;0.0;0.3;0.0;0.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;October;Saben Lee;3;0;7.3;1.0;0.0;1.0;1.0;1.0;0.3;0.0;0.7;0.3;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;October;Jamorko Pickett;3;0;3.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.3;0.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;October;Total;6;"";"";96.2;11.2;30.5;41.7;21.0;9.7;5.3;15.0;17.7;1.4
+Detroit Pistons;det;2021 - 2022 Regular Season;November;Jerami Grant;15;15;32.9;20.6;0.6;3.8;4.4;2.5;0.9;0.9;2.0;2.0;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;November;Cade Cunningham;15;15;32.2;14.6;0.9;5.6;6.5;4.7;1.3;0.6;3.7;2.7;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;November;Frank Jackson;15;0;22.0;11.3;0.2;1.1;1.3;0.9;0.5;0.3;0.7;1.5;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;November;Saddiq Bey;15;15;32.0;11.2;2.1;3.4;5.5;2.5;1.1;0.1;1.3;1.9;1.9
+Detroit Pistons;det;2021 - 2022 Regular Season;November;Kelly Olynyk;4;0;21.0;10.8;1.8;4.5;6.3;1.5;1.0;0.8;1.5;3.8;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;November;Trey Lyles;15;0;15.9;7.5;1.5;2.8;4.3;0.5;0.2;0.1;0.8;1.6;0.6
+Detroit Pistons;det;2021 - 2022 Regular Season;November;Hamidou Diallo;10;0;14.0;7.1;1.2;2.3;3.5;0.5;0.7;0.6;0.7;1.7;0.7
+Detroit Pistons;det;2021 - 2022 Regular Season;November;Isaiah Stewart;13;13;25.4;6.9;2.5;5.6;8.2;0.9;0.3;1.2;1.0;2.6;0.9
+Detroit Pistons;det;2021 - 2022 Regular Season;November;Cory Joseph;15;4;21.9;6.7;0.3;1.9;2.2;3.8;0.8;0.1;1.5;1.6;2.5
+Detroit Pistons;det;2021 - 2022 Regular Season;November;Killian Hayes;10;10;26.5;6.4;0.8;3.5;4.3;4.2;1.3;0.3;1.6;3.1;2.6
+Detroit Pistons;det;2021 - 2022 Regular Season;November;Josh Jackson;13;1;17.0;6.0;0.4;2.6;3.0;1.4;0.4;0.5;1.0;1.5;1.4
+Detroit Pistons;det;2021 - 2022 Regular Season;November;Saben Lee;5;0;14.0;5.0;0.2;1.6;1.8;1.6;1.2;0.2;0.6;0.6;2.7
+Detroit Pistons;det;2021 - 2022 Regular Season;November;Luka Garza;8;2;12.4;4.5;1.1;1.5;2.6;0.8;0.4;0.0;0.4;1.5;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;November;Rodney McGruder;6;0;5.8;1.8;0.3;0.3;0.7;0.3;0.0;0.0;0.2;0.2;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;November;Total;15;"";"";99.7;10.7;32.3;43.1;21.5;7.6;4.5;14.1;20.0;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;December;Jerami Grant;4;4;35.0;23.3;1.0;4.5;5.5;3.3;1.0;2.0;2.5;2.5;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;December;Saddiq Bey;12;12;35.2;18.0;0.5;5.5;6.0;2.4;0.8;0.2;1.8;1.9;1.4
+Detroit Pistons;det;2021 - 2022 Regular Season;December;Cade Cunningham;9;9;34.0;17.9;0.9;4.8;5.7;6.3;1.7;0.7;4.1;3.2;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;December;Hamidou Diallo;11;8;28.1;14.1;0.6;4.1;4.7;1.8;1.8;0.3;1.7;3.4;1.1
+Detroit Pistons;det;2021 - 2022 Regular Season;December;Frank Jackson;12;3;24.7;12.3;0.5;1.3;1.8;1.3;0.4;0.3;0.8;2.0;1.7
+Detroit Pistons;det;2021 - 2022 Regular Season;December;Trey Lyles;10;1;19.6;9.6;1.0;3.3;4.3;1.3;0.4;0.8;1.1;2.1;1.2
+Detroit Pistons;det;2021 - 2022 Regular Season;December;Isaiah Stewart;9;9;29.1;9.0;3.2;6.8;10.0;1.2;0.6;1.0;1.4;3.7;0.8
+Detroit Pistons;det;2021 - 2022 Regular Season;December;Saben Lee;7;0;20.0;8.9;0.4;2.9;3.3;3.0;1.6;0.4;1.0;1.6;3.0
+Detroit Pistons;det;2021 - 2022 Regular Season;December;Cory Joseph;6;2;23.2;8.7;0.2;2.5;2.7;3.8;0.5;0.2;2.0;2.2;1.9
+Detroit Pistons;det;2021 - 2022 Regular Season;December;Killian Hayes;8;8;26.9;7.1;0.1;2.5;2.6;3.8;0.6;0.8;1.3;2.4;3.0
+Detroit Pistons;det;2021 - 2022 Regular Season;December;Cassius Stanley;2;0;23.5;6.5;1.5;2.0;3.5;0.5;1.5;0.5;2.0;2.5;0.3
+Detroit Pistons;det;2021 - 2022 Regular Season;December;Luka Garza;9;2;10.8;5.2;2.2;0.9;3.1;0.4;0.1;0.1;0.6;1.7;0.8
+Detroit Pistons;det;2021 - 2022 Regular Season;December;Derrick Walton Jr.;2;2;34.0;4.0;0.0;2.0;2.0;7.5;1.5;2.0;3.5;3.5;2.1
+Detroit Pistons;det;2021 - 2022 Regular Season;December;Cheick Diallo;3;0;10.3;3.7;1.3;2.7;4.0;0.0;0.3;0.0;0.3;2.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;December;Justin Robinson;1;0;11.0;3.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;1.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;December;Josh Jackson;6;0;14.5;3.0;0.0;1.8;1.8;0.7;0.7;0.2;0.5;1.8;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;December;Rodney McGruder;5;0;12.4;2.6;1.2;2.4;3.6;0.8;0.0;0.2;1.2;1.4;0.7
+Detroit Pistons;det;2021 - 2022 Regular Season;December;Deividas Sirvydis;2;0;11.0;1.5;0.0;1.5;1.5;0.5;1.5;0.5;0.0;2.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;December;Trayvon Palmer;1;0;17.0;0.0;0.0;2.0;2.0;0.0;0.0;0.0;1.0;2.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;December;Isaiah Livers;1;0;5.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;December;Jamorko Pickett;2;0;16.5;0.0;1.0;2.5;3.5;0.5;0.0;0.0;0.0;1.5;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;December;Total;12;"";"";103.0;9.2;32.9;42.1;21.8;8.2;4.9;14.8;23.5;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;January;Saddiq Bey;16;16;34.1;17.8;0.9;3.9;4.9;2.4;0.9;0.3;1.3;1.6;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;January;Cade Cunningham;15;15;32.3;17.3;0.9;3.3;4.2;5.6;1.1;0.8;3.1;3.3;1.8
+Detroit Pistons;det;2021 - 2022 Regular Season;January;Trey Lyles;15;2;24.3;14.1;1.2;4.8;6.0;1.7;0.7;0.8;1.0;2.3;1.7
+Detroit Pistons;det;2021 - 2022 Regular Season;January;Frank Jackson;3;0;20.0;14.0;0.0;1.7;1.7;0.3;0.0;0.0;0.7;2.3;0.5
+Detroit Pistons;det;2021 - 2022 Regular Season;January;Kelly Olynyk;2;0;20.5;13.0;2.0;4.5;6.5;5.0;0.5;0.5;1.5;3.0;3.3
+Detroit Pistons;det;2021 - 2022 Regular Season;January;Hamidou Diallo;16;16;26.6;12.3;1.7;4.4;6.1;1.6;1.4;0.3;1.1;2.9;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;January;Derrick Walton Jr.;1;1;40.0;11.0;2.0;4.0;6.0;6.0;4.0;0.0;4.0;1.0;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;January;Cory Joseph;11;6;27.0;10.9;0.8;2.5;3.3;4.5;0.5;0.2;0.8;2.6;5.4
+Detroit Pistons;det;2021 - 2022 Regular Season;January;Rodney McGruder;10;0;21.4;8.6;0.8;2.2;3.0;1.3;1.0;0.0;0.5;1.5;2.6
+Detroit Pistons;det;2021 - 2022 Regular Season;January;Josh Jackson;14;0;18.5;8.5;0.4;2.9;3.3;0.9;0.6;0.6;0.9;2.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;January;Isaiah Stewart;13;13;23.8;7.8;2.7;4.2;6.8;1.2;0.2;1.2;1.5;3.2;0.8
+Detroit Pistons;det;2021 - 2022 Regular Season;January;Luka Garza;6;1;16.3;7.7;2.7;2.2;4.8;0.7;0.2;0.3;1.2;1.8;0.6
+Detroit Pistons;det;2021 - 2022 Regular Season;January;Justin Robinson;4;0;20.0;6.3;0.5;1.0;1.5;2.3;0.3;0.3;1.0;1.8;2.3
+Detroit Pistons;det;2021 - 2022 Regular Season;January;Killian Hayes;13;9;24.7;6.1;0.3;2.2;2.5;4.3;1.2;0.5;1.3;2.3;3.3
+Detroit Pistons;det;2021 - 2022 Regular Season;January;Cassius Stanley;7;1;15.4;5.6;0.3;1.4;1.7;0.4;0.3;0.1;0.3;1.7;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;January;Micah Potter;3;0;10.3;4.0;1.3;1.7;3.0;0.0;0.3;0.3;0.3;1.3;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;January;Saben Lee;12;0;14.2;3.9;0.5;2.1;2.6;2.7;0.6;0.5;1.1;0.8;2.5
+Detroit Pistons;det;2021 - 2022 Regular Season;January;Jaysean Paige;1;0;7.0;0.0;0.0;1.0;1.0;1.0;0.0;0.0;1.0;2.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;January;Jamorko Pickett;1;0;5.0;0.0;0.0;2.0;2.0;0.0;0.0;1.0;2.0;0.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;January;Deividas Sirvydis;1;0;5.0;0.0;0.0;3.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;January;Total;16;"";"";106.6;10.7;31.8;42.4;24.0;7.7;4.9;12.4;22.3;1.9
+Detroit Pistons;det;2021 - 2022 Regular Season;February;Saddiq Bey;12;12;33.7;17.2;2.2;4.0;6.2;4.1;0.7;0.3;0.8;1.3;4.9
+Detroit Pistons;det;2021 - 2022 Regular Season;February;Jerami Grant;12;12;30.1;16.5;0.0;2.8;2.8;2.1;0.7;0.9;1.8;2.4;1.2
+Detroit Pistons;det;2021 - 2022 Regular Season;February;Cade Cunningham;7;7;28.3;15.9;1.0;4.7;5.7;4.0;0.7;0.4;3.4;3.7;1.2
+Detroit Pistons;det;2021 - 2022 Regular Season;February;Hamidou Diallo;12;4;21.8;13.3;1.4;4.5;5.9;1.3;1.3;0.2;0.8;2.4;1.7
+Detroit Pistons;det;2021 - 2022 Regular Season;February;Trey Lyles;5;0;18.0;11.8;0.8;3.8;4.6;0.6;0.2;0.4;1.6;1.6;0.4
+Detroit Pistons;det;2021 - 2022 Regular Season;February;Marvin Bagley III;4;0;22.5;11.5;2.3;3.3;5.5;0.3;0.5;0.3;0.3;1.5;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;February;Frank Jackson;7;0;22.7;10.6;0.4;1.4;1.9;1.3;0.9;0.1;0.6;2.0;2.3
+Detroit Pistons;det;2021 - 2022 Regular Season;February;Isaiah Stewart;12;12;28.2;9.8;4.9;5.6;10.5;0.9;0.3;1.2;1.0;2.9;0.9
+Detroit Pistons;det;2021 - 2022 Regular Season;February;Cory Joseph;12;12;27.9;7.5;0.4;2.8;3.2;3.8;0.5;0.6;1.8;2.9;2.2
+Detroit Pistons;det;2021 - 2022 Regular Season;February;Kelly Olynyk;12;0;17.5;6.4;1.8;2.7;4.4;2.8;0.6;0.3;1.5;2.2;1.9
+Detroit Pistons;det;2021 - 2022 Regular Season;February;Isaiah Livers;1;0;13.0;6.0;2.0;0.0;2.0;1.0;0.0;0.0;0.0;1.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;February;Killian Hayes;12;0;21.2;5.3;0.8;2.0;2.8;4.8;0.8;0.6;2.5;3.3;1.9
+Detroit Pistons;det;2021 - 2022 Regular Season;February;Luka Garza;2;0;7.0;4.5;1.5;0.5;2.0;0.5;0.0;0.0;0.5;1.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;February;Rodney McGruder;12;1;14.4;4.4;0.3;1.1;1.3;0.8;0.4;0.2;0.2;1.1;5.0
+Detroit Pistons;det;2021 - 2022 Regular Season;February;Saben Lee;1;0;4.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;February;Total;12;"";"";105.9;14.0;31.7;45.7;24.3;6.5;4.7;13.4;23.3;1.8
+Detroit Pistons;det;2021 - 2022 Regular Season;March;Cade Cunningham;14;14;36.6;22.9;0.9;4.9;5.9;7.0;1.4;0.7;4.0;3.4;1.8
+Detroit Pistons;det;2021 - 2022 Regular Season;March;Jerami Grant;11;11;31.1;20.4;0.5;3.4;3.8;2.2;0.8;1.0;1.2;2.2;1.8
+Detroit Pistons;det;2021 - 2022 Regular Season;March;Saddiq Bey;16;16;34.4;17.9;0.9;3.9;4.8;3.2;1.1;0.2;0.9;1.5;3.4
+Detroit Pistons;det;2021 - 2022 Regular Season;March;Marvin Bagley III;14;8;28.6;15.4;2.1;5.1;7.2;1.3;0.8;0.4;1.2;2.6;1.1
+Detroit Pistons;det;2021 - 2022 Regular Season;March;Isaiah Stewart;13;13;26.3;8.2;3.4;6.2;9.6;1.2;0.3;1.0;1.4;3.5;0.9
+Detroit Pistons;det;2021 - 2022 Regular Season;March;Kelly Olynyk;14;0;17.3;8.1;1.0;2.6;3.6;2.7;0.6;0.4;1.3;2.8;2.1
+Detroit Pistons;det;2021 - 2022 Regular Season;March;Hamidou Diallo;4;0;15.5;8.0;0.8;2.5;3.3;1.0;1.0;0.0;0.5;1.5;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;March;Killian Hayes;12;2;26.7;8.0;0.8;3.4;4.2;4.4;1.5;0.6;1.8;3.2;2.4
+Detroit Pistons;det;2021 - 2022 Regular Season;March;Cory Joseph;15;15;24.9;7.9;0.5;2.5;3.0;3.0;0.6;0.2;0.9;2.5;3.2
+Detroit Pistons;det;2021 - 2022 Regular Season;March;Luka Garza;2;0;9.0;7.5;0.5;1.0;1.5;0.0;0.5;0.5;0.0;2.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;March;Saben Lee;6;0;18.5;6.3;0.5;1.2;1.7;3.2;1.0;0.2;0.3;2.2;9.5
+Detroit Pistons;det;2021 - 2022 Regular Season;March;Braxton Key;4;0;18.0;6.0;1.3;3.0;4.3;0.3;0.8;1.5;1.0;2.5;0.3
+Detroit Pistons;det;2021 - 2022 Regular Season;March;Isaiah Livers;12;0;18.3;5.5;0.8;1.9;2.7;1.0;0.5;0.3;0.7;2.3;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;March;Rodney McGruder;12;1;15.3;5.3;0.8;1.5;2.3;1.1;0.3;0.1;0.6;1.2;1.9
+Detroit Pistons;det;2021 - 2022 Regular Season;March;Frank Jackson;5;0;14.4;5.0;0.2;0.8;1.0;1.2;0.6;0.0;0.6;1.0;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;March;Jamorko Pickett;4;0;11.8;4.5;0.5;1.3;1.8;0.5;0.0;0.5;0.0;1.5;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;March;Total;16;"";"";110.0;10.6;32.4;43.0;25.0;7.6;4.6;12.4;23.6;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;April;Luka Garza;1;0;31.0;20.0;7.0;3.0;10.0;4.0;0.0;1.0;1.0;3.0;4.0
+Detroit Pistons;det;2021 - 2022 Regular Season;April;Rodney McGruder;3;0;24.7;14.7;0.7;3.7;4.3;1.7;0.7;0.7;1.0;2.7;1.7
+Detroit Pistons;det;2021 - 2022 Regular Season;April;Cade Cunningham;3;3;28.3;13.7;0.3;4.0;4.3;5.3;0.7;0.7;4.3;3.0;1.2
+Detroit Pistons;det;2021 - 2022 Regular Season;April;Frank Jackson;5;2;24.8;13.4;0.8;1.8;2.6;1.6;0.4;0.0;0.4;1.8;4.0
+Detroit Pistons;det;2021 - 2022 Regular Season;April;Saddiq Bey;5;5;21.6;13.2;0.4;1.4;1.8;2.2;0.6;0.0;0.4;1.0;5.5
+Detroit Pistons;det;2021 - 2022 Regular Season;April;Killian Hayes;5;5;26.0;12.2;0.2;2.8;3.0;4.2;1.8;0.6;1.0;2.6;4.2
+Detroit Pistons;det;2021 - 2022 Regular Season;April;Kelly Olynyk;2;0;20.5;12.0;1.0;2.5;3.5;3.0;0.5;1.0;2.0;1.0;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;April;Saben Lee;3;0;28.3;11.0;1.7;2.0;3.7;8.0;1.3;0.3;3.0;2.3;2.7
+Detroit Pistons;det;2021 - 2022 Regular Season;April;Braxton Key;5;0;23.8;10.6;1.4;4.8;6.2;1.8;1.2;1.0;1.0;3.0;1.8
+Detroit Pistons;det;2021 - 2022 Regular Season;April;Isaiah Livers;5;5;29.2;9.8;0.8;3.8;4.6;1.6;1.2;0.4;1.2;1.6;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;April;Jamorko Pickett;3;0;27.7;9.7;0.7;4.7;5.3;1.3;0.0;1.3;0.7;1.0;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;April;Isaiah Stewart;5;5;19.2;8.2;2.8;5.6;8.4;1.8;0.0;0.8;0.4;2.4;4.5
+Detroit Pistons;det;2021 - 2022 Regular Season;April;Carsen Edwards;4;0;19.8;5.8;0.5;1.0;1.5;3.5;0.5;0.0;1.3;1.0;2.8
+Detroit Pistons;det;2021 - 2022 Regular Season;April;Total;5;"";"";110.2;10.6;31.2;41.8;27.8;7.4;5.2;11.8;19.6;2.4
+Detroit Pistons;det;2021 - 2022 Regular Season;Atlantic Division;Cade Cunningham;13;13;34.1;20.7;0.8;5.3;6.1;5.3;1.2;0.5;3.5;3.1;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;Atlantic Division;Jerami Grant;10;10;33.5;17.2;0.7;3.1;3.8;2.7;0.9;0.9;2.0;2.4;1.4
+Detroit Pistons;det;2021 - 2022 Regular Season;Atlantic Division;Saddiq Bey;18;18;32.9;14.9;1.1;3.8;4.9;3.5;0.9;0.2;1.1;1.1;3.3
+Detroit Pistons;det;2021 - 2022 Regular Season;Atlantic Division;Marvin Bagley III;6;4;26.5;14.3;2.0;4.8;6.8;0.8;0.7;0.3;1.3;1.8;0.6
+Detroit Pistons;det;2021 - 2022 Regular Season;Atlantic Division;Hamidou Diallo;10;6;22.0;12.2;2.0;3.8;5.8;1.1;1.6;0.1;1.5;2.8;0.7
+Detroit Pistons;det;2021 - 2022 Regular Season;Atlantic Division;Frank Jackson;13;2;18.4;8.8;0.1;0.9;1.0;0.9;0.7;0.2;0.5;1.5;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Atlantic Division;Josh Jackson;7;2;21.9;8.7;0.4;2.7;3.1;1.4;0.4;0.3;1.0;2.6;1.4
+Detroit Pistons;det;2021 - 2022 Regular Season;Atlantic Division;Kelly Olynyk;12;0;18.8;8.4;1.3;3.2;4.5;2.6;0.9;0.3;1.3;2.7;2.1
+Detroit Pistons;det;2021 - 2022 Regular Season;Atlantic Division;Isaiah Stewart;16;16;27.4;8.4;2.7;5.1;7.8;1.5;0.4;1.1;1.1;2.9;1.4
+Detroit Pistons;det;2021 - 2022 Regular Season;Atlantic Division;Cory Joseph;15;9;24.5;8.3;0.3;2.2;2.5;3.3;0.6;0.2;1.1;2.7;3.1
+Detroit Pistons;det;2021 - 2022 Regular Season;Atlantic Division;Trey Lyles;9;0;15.9;8.3;1.1;3.0;4.1;1.0;0.3;0.3;0.7;1.1;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;Atlantic Division;Saben Lee;6;0;20.0;8.3;0.8;2.0;2.8;3.8;1.0;0.3;1.8;1.5;2.1
+Detroit Pistons;det;2021 - 2022 Regular Season;Atlantic Division;Derrick Walton Jr.;1;1;37.0;8.0;0.0;0.0;0.0;9.0;2.0;2.0;5.0;4.0;1.8
+Detroit Pistons;det;2021 - 2022 Regular Season;Atlantic Division;Braxton Key;4;0;18.8;8.0;1.5;2.8;4.3;1.0;1.0;1.3;1.0;1.8;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Atlantic Division;Killian Hayes;14;7;23.9;7.4;0.9;2.3;3.2;3.4;1.6;0.6;1.4;2.9;2.5
+Detroit Pistons;det;2021 - 2022 Regular Season;Atlantic Division;Luka Garza;6;1;14.8;6.0;2.0;1.5;3.5;1.0;0.3;0.3;0.2;1.5;6.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Atlantic Division;Isaiah Livers;4;1;16.0;5.8;1.0;1.0;2.0;1.0;0.3;0.3;1.3;1.5;0.8
+Detroit Pistons;det;2021 - 2022 Regular Season;Atlantic Division;Jamorko Pickett;3;0;12.7;5.7;0.3;2.3;2.7;0.0;0.0;0.3;0.7;0.3;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Atlantic Division;Carsen Edwards;1;0;26.0;5.0;1.0;0.0;1.0;4.0;0.0;0.0;3.0;0.0;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;Atlantic Division;Rodney McGruder;11;0;12.8;3.1;0.5;1.5;2.0;0.6;0.1;0.2;0.4;1.2;1.8
+Detroit Pistons;det;2021 - 2022 Regular Season;Atlantic Division;Justin Robinson;1;0;11.0;3.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;1.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Atlantic Division;Cassius Stanley;2;0;20.5;2.0;0.5;2.5;3.0;0.0;0.5;0.0;1.5;3.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Atlantic Division;Trayvon Palmer;1;0;17.0;0.0;0.0;2.0;2.0;0.0;0.0;0.0;1.0;2.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Atlantic Division;Cheick Diallo;1;0;9.0;0.0;1.0;2.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Atlantic Division;Deividas Sirvydis;1;0;4.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;1.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Atlantic Division;Total;18;"";"";102.4;10.8;30.4;41.3;23.1;7.9;4.2;0.0;21.6;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;Central Division;Saddiq Bey;16;16;33.1;17.9;1.4;4.4;5.9;2.9;0.6;0.3;1.6;1.4;1.8
+Detroit Pistons;det;2021 - 2022 Regular Season;Central Division;Jerami Grant;10;10;30.1;17.8;1.0;2.5;3.5;1.5;1.6;1.3;1.6;2.1;0.9
+Detroit Pistons;det;2021 - 2022 Regular Season;Central Division;Cade Cunningham;13;13;33.5;14.8;1.1;5.2;6.3;5.8;0.8;0.7;3.9;3.0;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;Central Division;Marvin Bagley III;4;1;22.5;11.5;1.8;3.0;4.8;1.0;0.3;0.3;1.0;3.5;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Central Division;Frank Jackson;10;3;24.0;10.8;0.2;2.1;2.3;1.4;0.2;0.1;0.6;1.9;2.3
+Detroit Pistons;det;2021 - 2022 Regular Season;Central Division;Josh Jackson;7;0;20.1;10.4;0.9;2.3;3.1;1.3;0.6;0.3;1.9;2.1;0.7
+Detroit Pistons;det;2021 - 2022 Regular Season;Central Division;Trey Lyles;10;1;20.0;9.7;1.0;3.9;4.9;1.1;0.8;0.3;1.4;2.2;0.8
+Detroit Pistons;det;2021 - 2022 Regular Season;Central Division;Carsen Edwards;2;0;22.0;9.0;0.5;2.0;2.5;5.0;1.0;0.0;0.5;2.0;10.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Central Division;Braxton Key;2;0;24.0;8.5;1.0;5.5;6.5;2.0;2.0;0.0;1.0;3.5;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Central Division;Kelly Olynyk;9;0;19.0;8.3;0.6;3.6;4.1;2.9;0.6;0.7;1.4;2.0;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Central Division;Hamidou Diallo;12;4;17.6;8.0;0.7;3.1;3.8;1.1;0.8;0.3;0.5;2.3;2.2
+Detroit Pistons;det;2021 - 2022 Regular Season;Central Division;Isaiah Stewart;13;13;25.6;7.9;3.8;6.0;9.8;0.9;0.0;1.2;1.4;2.9;0.7
+Detroit Pistons;det;2021 - 2022 Regular Season;Central Division;Rodney McGruder;12;0;13.8;7.1;0.6;1.9;2.5;0.6;0.4;0.3;0.4;1.1;1.4
+Detroit Pistons;det;2021 - 2022 Regular Season;Central Division;Cory Joseph;11;6;23.3;6.4;0.7;1.6;2.4;2.3;0.6;0.5;1.3;1.0;1.8
+Detroit Pistons;det;2021 - 2022 Regular Season;Central Division;Saben Lee;8;0;17.0;6.3;0.3;2.0;2.3;2.6;1.4;0.1;0.8;0.6;3.5
+Detroit Pistons;det;2021 - 2022 Regular Season;Central Division;Justin Robinson;1;0;23.0;5.0;1.0;1.0;2.0;1.0;1.0;0.0;0.0;1.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;Central Division;Killian Hayes;13;10;24.5;4.5;0.4;2.6;3.0;4.1;1.5;0.4;1.5;2.3;2.8
+Detroit Pistons;det;2021 - 2022 Regular Season;Central Division;Luka Garza;6;1;12.5;4.5;1.7;1.0;2.7;0.7;0.7;0.3;0.7;1.3;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Central Division;Cassius Stanley;1;0;18.0;4.0;1.0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Central Division;Isaiah Livers;6;2;16.7;3.7;0.7;1.3;2.0;0.5;1.0;0.7;0.7;1.5;0.8
+Detroit Pistons;det;2021 - 2022 Regular Season;Central Division;Micah Potter;1;0;2.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Central Division;Jamorko Pickett;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Central Division;Total;16;"";"";100.8;10.9;32.6;43.6;22.1;7.9;5.0;0.0;20.3;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;Pacific Division;Jerami Grant;7;7;34.3;24.1;0.6;4.6;5.1;2.4;0.7;0.9;1.7;2.7;1.4
+Detroit Pistons;det;2021 - 2022 Regular Season;Pacific Division;Cade Cunningham;10;10;32.0;16.6;0.9;4.8;5.7;5.5;1.3;0.6;3.2;2.7;1.7
+Detroit Pistons;det;2021 - 2022 Regular Season;Pacific Division;Kelly Olynyk;2;0;18.0;15.5;2.5;3.5;6.0;2.5;0.5;0.5;1.5;2.5;1.7
+Detroit Pistons;det;2021 - 2022 Regular Season;Pacific Division;Marvin Bagley III;1;1;32.0;15.0;3.0;5.0;8.0;3.0;0.0;0.0;1.0;3.0;3.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Pacific Division;Frank Jackson;6;0;24.0;14.0;0.3;0.8;1.2;1.0;1.0;0.5;1.3;0.7;0.8
+Detroit Pistons;det;2021 - 2022 Regular Season;Pacific Division;Rodney McGruder;3;0;21.7;13.3;2.0;1.7;3.7;1.3;0.7;0.0;0.7;0.7;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Pacific Division;Saddiq Bey;10;10;31.2;13.3;1.3;3.4;4.7;1.8;0.9;0.1;1.3;2.1;1.4
+Detroit Pistons;det;2021 - 2022 Regular Season;Pacific Division;Hamidou Diallo;9;3;20.9;9.8;1.3;3.3;4.7;1.0;0.9;0.4;0.9;2.6;1.1
+Detroit Pistons;det;2021 - 2022 Regular Season;Pacific Division;Trey Lyles;9;0;16.7;9.3;0.9;3.2;4.1;0.9;0.1;0.4;0.9;2.2;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Pacific Division;Isaiah Livers;1;0;27.0;9.0;2.0;3.0;5.0;1.0;0.0;1.0;0.0;2.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;Pacific Division;Cory Joseph;10;4;25.8;8.2;0.5;2.0;2.5;4.7;0.5;0.2;1.0;1.8;4.7
+Detroit Pistons;det;2021 - 2022 Regular Season;Pacific Division;Cassius Stanley;1;0;22.0;8.0;0.0;3.0;3.0;1.0;2.0;0.0;1.0;1.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Pacific Division;Isaiah Stewart;9;9;24.8;6.8;3.2;5.1;8.3;1.2;0.2;0.7;1.3;1.9;0.9
+Detroit Pistons;det;2021 - 2022 Regular Season;Pacific Division;Killian Hayes;6;6;23.0;4.7;0.0;3.5;3.5;3.3;0.3;0.7;1.0;2.8;3.3
+Detroit Pistons;det;2021 - 2022 Regular Season;Pacific Division;Luka Garza;5;0;9.2;3.8;0.8;2.0;2.8;0.4;0.0;0.0;0.4;1.2;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Pacific Division;Josh Jackson;7;0;15.3;3.4;0.1;2.1;2.3;1.3;0.1;0.7;0.3;2.3;4.5
+Detroit Pistons;det;2021 - 2022 Regular Season;Pacific Division;Saben Lee;6;0;15.5;3.0;0.2;2.0;2.2;2.3;0.5;0.5;1.2;0.5;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Pacific Division;Total;10;"";"";105.9;10.4;32.5;42.9;23.0;6.0;4.6;0.0;20.4;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;Southeast Division;Jerami Grant;11;11;30.9;20.3;0.5;3.8;4.3;2.5;1.1;0.6;1.4;1.9;1.8
+Detroit Pistons;det;2021 - 2022 Regular Season;Southeast Division;Saddiq Bey;18;18;34.0;18.7;1.5;4.1;5.6;2.7;0.9;0.2;1.3;1.6;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Southeast Division;Marvin Bagley III;6;1;30.2;16.7;2.2;5.5;7.7;0.8;1.3;0.7;0.8;2.2;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Southeast Division;Cade Cunningham;14;14;30.8;14.2;0.9;3.8;4.7;5.8;1.0;0.4;3.4;3.5;1.7
+Detroit Pistons;det;2021 - 2022 Regular Season;Southeast Division;Trey Lyles;9;2;23.7;13.0;1.4;4.7;6.1;1.4;0.6;1.2;1.3;1.4;1.1
+Detroit Pistons;det;2021 - 2022 Regular Season;Southeast Division;Kelly Olynyk;10;1;20.1;11.5;2.0;2.8;4.8;2.5;1.1;0.6;1.4;2.2;1.8
+Detroit Pistons;det;2021 - 2022 Regular Season;Southeast Division;Hamidou Diallo;12;5;23.8;10.7;0.8;3.7;4.4;1.3;1.4;0.3;0.9;2.5;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;Southeast Division;Josh Jackson;8;1;20.1;9.5;0.4;3.8;4.1;1.8;1.0;0.6;1.3;1.5;1.4
+Detroit Pistons;det;2021 - 2022 Regular Season;Southeast Division;Justin Robinson;1;0;25.0;9.0;1.0;2.0;3.0;2.0;0.0;0.0;4.0;2.0;0.5
+Detroit Pistons;det;2021 - 2022 Regular Season;Southeast Division;Isaiah Stewart;15;15;25.2;8.9;3.1;5.9;8.9;1.2;0.5;1.1;1.3;3.0;0.9
+Detroit Pistons;det;2021 - 2022 Regular Season;Southeast Division;Frank Jackson;10;1;21.5;8.9;0.5;0.9;1.4;0.8;0.4;0.1;0.8;2.2;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Southeast Division;Micah Potter;1;0;16.0;8.0;3.0;3.0;6.0;0.0;1.0;0.0;0.0;2.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Southeast Division;Cory Joseph;17;12;24.0;7.9;0.5;2.7;3.2;4.0;0.8;0.1;1.4;2.8;3.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Southeast Division;Killian Hayes;16;7;24.7;7.7;0.7;2.6;3.3;4.8;1.1;0.4;1.6;2.8;3.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Southeast Division;Isaiah Livers;5;0;20.0;7.6;0.8;2.0;2.8;1.4;1.0;0.0;0.4;2.6;3.5
+Detroit Pistons;det;2021 - 2022 Regular Season;Southeast Division;Rodney McGruder;14;1;15.4;4.9;0.6;1.6;2.2;1.6;0.6;0.0;0.4;1.1;3.8
+Detroit Pistons;det;2021 - 2022 Regular Season;Southeast Division;Braxton Key;1;0;18.0;4.0;1.0;4.0;5.0;0.0;0.0;2.0;2.0;3.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Southeast Division;Luka Garza;6;1;9.0;3.7;1.3;0.8;2.2;0.5;0.0;0.2;0.3;1.8;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;Southeast Division;Saben Lee;8;0;12.4;3.5;0.3;1.1;1.4;2.1;0.8;0.4;0.6;1.5;3.4
+Detroit Pistons;det;2021 - 2022 Regular Season;Southeast Division;Cheick Diallo;1;0;3.0;2.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Southeast Division;Cassius Stanley;1;0;3.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Southeast Division;Jamorko Pickett;4;0;10.3;1.3;0.0;1.0;1.0;0.3;0.0;0.5;0.3;0.5;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Southeast Division;Total;18;"";"";109.0;11.2;32.8;43.9;25.1;8.7;4.4;0.0;22.6;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;Southwest Division;Jerami Grant;5;5;30.2;19.6;0.2;3.6;3.8;2.2;0.4;1.6;2.0;3.0;1.1
+Detroit Pistons;det;2021 - 2022 Regular Season;Southwest Division;Hamidou Diallo;8;6;28.4;17.5;1.6;4.8;6.4;1.9;1.5;0.6;1.6;2.1;1.2
+Detroit Pistons;det;2021 - 2022 Regular Season;Southwest Division;Cade Cunningham;6;6;31.5;16.7;1.0;3.8;4.8;5.7;1.8;0.5;2.8;2.8;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Southwest Division;Braxton Key;1;0;19.0;14.0;1.0;4.0;5.0;1.0;1.0;3.0;1.0;2.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Southwest Division;Cassius Stanley;2;1;28.0;14.0;1.5;1.5;3.0;1.0;1.0;1.0;1.0;3.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Southwest Division;Saddiq Bey;10;10;35.4;13.1;1.2;4.8;6.0;2.8;1.2;0.2;0.7;1.9;4.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Southwest Division;Luka Garza;6;2;16.7;11.2;3.3;1.7;5.0;0.8;0.2;0.0;1.3;2.5;0.6
+Detroit Pistons;det;2021 - 2022 Regular Season;Southwest Division;Trey Lyles;6;0;20.8;10.3;1.2;3.7;4.8;0.8;0.3;0.5;1.2;1.8;0.7
+Detroit Pistons;det;2021 - 2022 Regular Season;Southwest Division;Isaiah Stewart;8;8;22.5;10.1;3.6;5.3;8.9;1.0;0.4;1.1;0.8;3.9;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;Southwest Division;Frank Jackson;8;1;23.3;10.0;0.6;1.4;2.0;1.4;0.5;0.1;0.8;1.8;1.8
+Detroit Pistons;det;2021 - 2022 Regular Season;Southwest Division;Cheick Diallo;1;0;19.0;9.0;3.0;6.0;9.0;0.0;0.0;0.0;1.0;6.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Southwest Division;Kelly Olynyk;4;0;20.5;8.0;1.5;3.0;4.5;3.3;0.5;0.3;2.5;3.0;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;Southwest Division;Saben Lee;4;0;15.5;7.8;0.8;2.0;2.8;3.3;1.0;0.0;1.0;1.0;3.3
+Detroit Pistons;det;2021 - 2022 Regular Season;Southwest Division;Isaiah Livers;1;1;26.0;7.0;1.0;1.0;2.0;1.0;0.0;0.0;0.0;1.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;Southwest Division;Cory Joseph;5;3;23.6;6.4;0.2;1.8;2.0;4.0;0.2;0.2;2.4;2.0;1.7
+Detroit Pistons;det;2021 - 2022 Regular Season;Southwest Division;Killian Hayes;8;5;26.0;6.3;0.4;2.3;2.6;3.9;0.8;0.3;2.8;2.9;1.4
+Detroit Pistons;det;2021 - 2022 Regular Season;Southwest Division;Derrick Walton Jr.;2;2;35.5;5.5;1.0;4.0;5.0;6.0;2.5;1.0;3.0;2.0;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Southwest Division;Justin Robinson;2;0;15.5;5.5;0.0;0.5;0.5;3.0;0.0;0.5;0.0;2.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;Southwest Division;Josh Jackson;4;0;15.0;4.0;0.5;2.8;3.3;1.0;0.5;0.3;0.5;0.5;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Southwest Division;Micah Potter;1;0;13.0;4.0;1.0;1.0;2.0;0.0;0.0;1.0;1.0;2.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Southwest Division;Jamorko Pickett;3;0;14.3;3.3;0.7;2.3;3.0;0.3;0.0;0.3;0.7;1.7;0.5
+Detroit Pistons;det;2021 - 2022 Regular Season;Southwest Division;Rodney McGruder;5;0;13.2;3.2;0.6;0.6;1.2;0.4;0.2;0.4;0.8;1.2;0.5
+Detroit Pistons;det;2021 - 2022 Regular Season;Southwest Division;Deividas Sirvydis;2;0;11.0;1.5;0.0;3.0;3.0;0.5;1.0;0.5;0.0;1.5;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;Southwest Division;Jaysean Paige;1;0;7.0;0.0;0.0;1.0;1.0;1.0;0.0;0.0;1.0;2.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Southwest Division;Carsen Edwards;1;0;10.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Southwest Division;Total;10;"";"";103.3;12.4;31.1;43.5;22.5;7.3;4.9;0.0;23.1;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;Northwest Division;Cade Cunningham;8;8;33.5;23.4;0.8;4.4;5.1;5.3;1.6;1.8;5.0;3.5;1.1
+Detroit Pistons;det;2021 - 2022 Regular Season;Northwest Division;Saddiq Bey;10;10;30.4;16.4;1.2;3.9;5.1;3.0;0.9;0.2;0.8;1.6;3.8
+Detroit Pistons;det;2021 - 2022 Regular Season;Northwest Division;Jerami Grant;4;4;33.5;16.0;0.3;3.8;4.0;3.5;0.0;1.5;3.0;1.8;1.2
+Detroit Pistons;det;2021 - 2022 Regular Season;Northwest Division;Marvin Bagley III;1;1;29.0;15.0;3.0;6.0;9.0;2.0;0.0;0.0;0.0;2.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;Northwest Division;Frank Jackson;6;0;23.3;14.2;0.7;1.7;2.3;0.7;0.3;0.0;0.7;1.7;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Northwest Division;Trey Lyles;8;0;19.9;12.1;1.5;3.1;4.6;1.5;0.4;0.3;0.9;1.9;1.7
+Detroit Pistons;det;2021 - 2022 Regular Season;Northwest Division;Cory Joseph;7;5;27.4;11.0;0.4;2.7;3.1;4.0;0.9;0.6;1.4;3.0;2.8
+Detroit Pistons;det;2021 - 2022 Regular Season;Northwest Division;Isaiah Livers;2;1;34.0;11.0;0.0;8.0;8.0;2.5;0.5;0.5;2.0;3.0;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;Northwest Division;Braxton Key;1;0;30.0;10.0;2.0;6.0;8.0;1.0;0.0;1.0;0.0;6.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;Northwest Division;Killian Hayes;9;5;28.2;9.9;0.4;3.0;3.4;5.4;1.2;1.0;2.2;3.2;2.5
+Detroit Pistons;det;2021 - 2022 Regular Season;Northwest Division;Jamorko Pickett;2;0;26.5;9.0;1.5;4.0;5.5;2.5;0.0;1.5;0.0;2.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;Northwest Division;Hamidou Diallo;7;5;19.6;8.9;1.0;3.0;4.0;1.3;1.1;0.0;0.7;2.4;1.8
+Detroit Pistons;det;2021 - 2022 Regular Season;Northwest Division;Isaiah Stewart;10;10;26.3;7.6;3.0;5.5;8.5;0.9;0.2;1.3;1.3;3.4;0.7
+Detroit Pistons;det;2021 - 2022 Regular Season;Northwest Division;Saben Lee;5;0;18.8;6.2;1.0;2.4;3.4;3.8;1.2;0.6;0.6;2.2;6.3
+Detroit Pistons;det;2021 - 2022 Regular Season;Northwest Division;Rodney McGruder;6;1;17.0;5.0;0.2;1.7;1.8;0.8;0.7;0.0;0.5;1.5;1.7
+Detroit Pistons;det;2021 - 2022 Regular Season;Northwest Division;Luka Garza;3;0;8.0;5.0;1.3;0.7;2.0;0.0;0.7;0.3;0.3;2.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Northwest Division;Josh Jackson;6;0;14.0;4.3;0.3;2.5;2.8;0.5;0.5;0.5;0.7;1.3;0.8
+Detroit Pistons;det;2021 - 2022 Regular Season;Northwest Division;Kelly Olynyk;3;0;16.0;3.7;0.7;2.0;2.7;3.7;0.3;0.3;1.0;3.7;3.7
+Detroit Pistons;det;2021 - 2022 Regular Season;Northwest Division;Cassius Stanley;2;0;8.0;3.0;0.0;1.0;1.0;0.5;0.0;0.0;0.0;2.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;Northwest Division;Total;10;"";"";108.5;10.1;32.9;43.0;24.9;7.1;6.3;0.0;24.4;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;Eastern Conference;Jerami Grant;31;31;31.5;18.5;0.7;3.2;3.9;2.2;1.2;0.9;1.6;2.1;1.4
+Detroit Pistons;det;2021 - 2022 Regular Season;Eastern Conference;Saddiq Bey;52;52;33.3;17.2;1.3;4.1;5.4;3.0;0.8;0.2;1.3;1.4;2.3
+Detroit Pistons;det;2021 - 2022 Regular Season;Eastern Conference;Cade Cunningham;40;40;32.8;16.5;0.9;4.8;5.7;5.6;1.0;0.5;3.6;3.2;1.6
+Detroit Pistons;det;2021 - 2022 Regular Season;Eastern Conference;Marvin Bagley III;16;6;26.9;14.5;2.0;4.6;6.6;0.9;0.8;0.4;1.1;2.4;0.8
+Detroit Pistons;det;2021 - 2022 Regular Season;Eastern Conference;Trey Lyles;28;3;19.9;10.3;1.2;3.9;5.0;1.2;0.6;0.6;1.1;1.6;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Eastern Conference;Hamidou Diallo;34;15;21.1;10.2;1.1;3.5;4.6;1.2;1.3;0.2;0.9;2.5;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;Eastern Conference;Josh Jackson;22;3;20.7;9.5;0.5;3.0;3.5;1.5;0.7;0.4;1.4;2.0;1.1
+Detroit Pistons;det;2021 - 2022 Regular Season;Eastern Conference;Frank Jackson;33;6;21.0;9.4;0.2;1.3;1.5;1.0;0.5;0.2;0.6;1.8;1.7
+Detroit Pistons;det;2021 - 2022 Regular Season;Eastern Conference;Kelly Olynyk;31;1;19.3;9.4;1.3;3.2;4.5;2.6;0.9;0.5;1.4;2.3;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Eastern Conference;Isaiah Stewart;44;44;26.1;8.4;3.1;5.6;8.8;1.2;0.3;1.1;1.2;2.9;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Eastern Conference;Derrick Walton Jr.;1;1;37.0;8.0;0.0;0.0;0.0;9.0;2.0;2.0;5.0;4.0;1.8
+Detroit Pistons;det;2021 - 2022 Regular Season;Eastern Conference;Cory Joseph;43;27;24.0;7.7;0.5;2.3;2.7;3.3;0.7;0.2;1.2;2.3;2.7
+Detroit Pistons;det;2021 - 2022 Regular Season;Eastern Conference;Carsen Edwards;3;0;23.3;7.7;0.7;1.3;2.0;4.7;0.7;0.0;1.3;1.3;3.5
+Detroit Pistons;det;2021 - 2022 Regular Season;Eastern Conference;Braxton Key;7;0;20.3;7.6;1.3;3.7;5.0;1.1;1.1;1.0;1.1;2.4;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Eastern Conference;Killian Hayes;43;24;24.3;6.7;0.7;2.5;3.2;4.1;1.4;0.5;1.5;2.7;2.8
+Detroit Pistons;det;2021 - 2022 Regular Season;Eastern Conference;Saben Lee;22;0;16.1;5.8;0.4;1.7;2.1;2.8;1.0;0.3;1.0;1.2;2.8
+Detroit Pistons;det;2021 - 2022 Regular Season;Eastern Conference;Justin Robinson;3;0;20.0;5.7;0.7;1.3;2.0;1.0;0.3;0.0;1.7;1.3;0.6
+Detroit Pistons;det;2021 - 2022 Regular Season;Eastern Conference;Isaiah Livers;15;3;17.5;5.5;0.8;1.5;2.3;0.9;0.8;0.3;0.7;1.9;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;Eastern Conference;Rodney McGruder;37;1;14.1;5.1;0.6;1.7;2.2;1.0;0.4;0.1;0.4;1.1;2.5
+Detroit Pistons;det;2021 - 2022 Regular Season;Eastern Conference;Luka Garza;18;3;12.2;4.7;1.7;1.1;2.8;0.7;0.3;0.3;0.4;1.6;1.9
+Detroit Pistons;det;2021 - 2022 Regular Season;Eastern Conference;Micah Potter;2;0;9.0;4.0;1.5;2.0;3.5;0.0;0.5;0.0;0.0;1.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Eastern Conference;Jamorko Pickett;8;0;10.0;2.8;0.1;1.4;1.5;0.1;0.0;0.4;0.4;0.4;0.3
+Detroit Pistons;det;2021 - 2022 Regular Season;Eastern Conference;Cassius Stanley;4;0;15.3;2.5;0.5;1.5;2.0;0.0;0.3;0.0;0.8;1.5;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Eastern Conference;Cheick Diallo;2;0;6.0;1.0;0.5;1.0;1.5;0.0;0.5;0.0;0.0;0.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Eastern Conference;Trayvon Palmer;1;0;17.0;0.0;0.0;2.0;2.0;0.0;0.0;0.0;1.0;2.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Eastern Conference;Deividas Sirvydis;1;0;4.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;1.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Eastern Conference;Total;52;"";"";104.2;11.0;31.9;42.9;23.5;8.2;4.5;0.0;21.5;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;Western Conference;Jerami Grant;16;16;32.8;20.7;0.4;4.1;4.4;2.6;0.4;1.3;2.1;2.6;1.2
+Detroit Pistons;det;2021 - 2022 Regular Season;Western Conference;Cade Cunningham;24;24;32.4;18.9;0.9;4.4;5.3;5.5;1.5;1.0;3.7;3.0;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;Western Conference;Marvin Bagley III;2;2;30.0;15.0;3.0;5.5;8.5;2.5;0.0;0.0;0.5;2.5;5.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Western Conference;Saddiq Bey;30;30;32.3;14.3;1.2;4.0;5.3;2.5;1.0;0.2;0.9;1.9;2.7
+Detroit Pistons;det;2021 - 2022 Regular Season;Western Conference;Frank Jackson;20;1;23.5;12.5;0.6;1.3;1.9;1.1;0.6;0.2;0.9;1.4;1.2
+Detroit Pistons;det;2021 - 2022 Regular Season;Western Conference;Hamidou Diallo;24;14;23.0;12.1;1.3;3.7;5.0;1.4;1.2;0.4;1.1;2.4;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;Western Conference;Braxton Key;2;0;24.5;12.0;1.5;5.0;6.5;1.0;0.5;2.0;0.5;4.0;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Western Conference;Trey Lyles;23;0;18.9;10.6;1.2;3.3;4.5;1.1;0.3;0.4;1.0;2.0;1.1
+Detroit Pistons;det;2021 - 2022 Regular Season;Western Conference;Isaiah Livers;4;2;30.0;9.5;0.8;5.0;5.8;1.8;0.3;0.5;1.0;2.3;1.8
+Detroit Pistons;det;2021 - 2022 Regular Season;Western Conference;Cheick Diallo;1;0;19.0;9.0;3.0;6.0;9.0;0.0;0.0;0.0;1.0;6.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Western Conference;Cory Joseph;22;12;25.8;8.7;0.4;2.2;2.6;4.3;0.5;0.3;1.5;2.2;3.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Western Conference;Cassius Stanley;5;1;18.8;8.4;0.6;1.6;2.2;0.8;0.8;0.4;0.6;2.2;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;Western Conference;Kelly Olynyk;9;0;18.6;8.2;1.4;2.8;4.2;3.2;0.4;0.3;1.8;3.1;1.8
+Detroit Pistons;det;2021 - 2022 Regular Season;Western Conference;Isaiah Stewart;27;27;24.7;8.1;3.3;5.3;8.6;1.0;0.3;1.0;1.1;3.0;0.9
+Detroit Pistons;det;2021 - 2022 Regular Season;Western Conference;Killian Hayes;23;16;26.1;7.3;0.3;2.9;3.2;4.3;0.8;0.7;2.1;3.0;2.1
+Detroit Pistons;det;2021 - 2022 Regular Season;Western Conference;Luka Garza;14;2;12.1;7.2;2.0;1.6;3.6;0.5;0.2;0.1;0.8;1.9;0.6
+Detroit Pistons;det;2021 - 2022 Regular Season;Western Conference;Rodney McGruder;14;1;16.6;6.1;0.7;1.3;2.0;0.8;0.5;0.1;0.6;1.2;1.2
+Detroit Pistons;det;2021 - 2022 Regular Season;Western Conference;Jamorko Pickett;5;0;19.2;5.6;1.0;3.0;4.0;1.2;0.0;0.8;0.4;1.8;3.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Western Conference;Derrick Walton Jr.;2;2;35.5;5.5;1.0;4.0;5.0;6.0;2.5;1.0;3.0;2.0;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Western Conference;Justin Robinson;2;0;15.5;5.5;0.0;0.5;0.5;3.0;0.0;0.5;0.0;2.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;Western Conference;Saben Lee;15;0;16.6;5.3;0.6;2.1;2.7;3.1;0.9;0.4;0.9;1.2;3.3
+Detroit Pistons;det;2021 - 2022 Regular Season;Western Conference;Micah Potter;1;0;13.0;4.0;1.0;1.0;2.0;0.0;0.0;1.0;1.0;2.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Western Conference;Josh Jackson;17;0;14.8;3.9;0.3;2.4;2.7;0.9;0.4;0.5;0.5;1.5;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Western Conference;Deividas Sirvydis;2;0;11.0;1.5;0.0;3.0;3.0;0.5;1.0;0.5;0.0;1.5;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;Western Conference;Jaysean Paige;1;0;7.0;0.0;0.0;1.0;1.0;1.0;0.0;0.0;1.0;2.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Western Conference;Carsen Edwards;1;0;10.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Western Conference;Total;30;"";"";105.9;11.0;32.2;43.1;23.5;6.8;5.3;0.0;22.6;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;Pre All-Star;Jerami Grant;33;33;32.2;19.0;0.7;3.6;4.3;2.5;1.0;1.1;2.0;2.2;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;Pre All-Star;Saddiq Bey;58;58;33.6;15.9;1.4;4.4;5.8;2.8;0.9;0.2;1.3;1.6;2.2
+Detroit Pistons;det;2021 - 2022 Regular Season;Pre All-Star;Cade Cunningham;44;44;31.8;15.7;0.9;4.5;5.5;5.2;1.3;0.7;3.5;3.0;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;Pre All-Star;Hamidou Diallo;51;29;22.6;11.1;1.2;3.7;4.9;1.3;1.2;0.3;1.0;2.6;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;Pre All-Star;Frank Jackson;43;5;22.5;10.9;0.3;1.3;1.6;1.0;0.5;0.2;0.8;1.7;1.2
+Detroit Pistons;det;2021 - 2022 Regular Season;Pre All-Star;Trey Lyles;51;3;19.4;10.4;1.2;3.6;4.8;1.1;0.4;0.5;1.1;1.8;1.1
+Detroit Pistons;det;2021 - 2022 Regular Season;Pre All-Star;Kelly Olynyk;21;1;20.0;9.7;1.6;3.3;4.9;2.8;0.9;0.5;1.7;2.4;1.6
+Detroit Pistons;det;2021 - 2022 Regular Season;Pre All-Star;Isaiah Stewart;50;50;26.0;8.3;3.1;5.4;8.4;1.1;0.3;1.1;1.3;2.9;0.9
+Detroit Pistons;det;2021 - 2022 Regular Season;Pre All-Star;Cory Joseph;47;21;24.4;8.1;0.4;2.1;2.5;3.9;0.7;0.3;1.4;2.2;2.7
+Detroit Pistons;det;2021 - 2022 Regular Season;Pre All-Star;Marvin Bagley III;2;0;22.0;8.0;2.5;4.5;7.0;0.5;0.0;0.0;0.5;0.5;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Pre All-Star;Josh Jackson;39;3;18.1;7.1;0.4;2.7;3.2;1.3;0.5;0.5;1.0;1.8;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;Pre All-Star;Derrick Walton Jr.;3;3;36.0;6.3;0.7;2.7;3.3;7.0;2.3;1.3;3.7;2.7;1.9
+Detroit Pistons;det;2021 - 2022 Regular Season;Pre All-Star;Killian Hayes;46;33;24.4;6.2;0.5;2.4;2.9;4.1;1.0;0.5;1.7;2.7;2.4
+Detroit Pistons;det;2021 - 2022 Regular Season;Pre All-Star;Cassius Stanley;9;1;17.2;5.8;0.6;1.6;2.1;0.4;0.6;0.2;0.7;1.9;0.7
+Detroit Pistons;det;2021 - 2022 Regular Season;Pre All-Star;Justin Robinson;5;0;18.2;5.6;0.4;1.0;1.4;1.8;0.2;0.2;1.0;1.6;1.8
+Detroit Pistons;det;2021 - 2022 Regular Season;Pre All-Star;Luka Garza;29;5;11.7;5.2;1.7;1.3;3.0;0.6;0.3;0.1;0.6;1.7;0.9
+Detroit Pistons;det;2021 - 2022 Regular Season;Pre All-Star;Saben Lee;28;0;14.5;4.9;0.4;2.0;2.4;2.3;0.9;0.4;0.9;0.9;2.6
+Detroit Pistons;det;2021 - 2022 Regular Season;Pre All-Star;Rodney McGruder;33;1;13.5;4.5;0.5;1.4;1.9;0.8;0.4;0.1;0.4;1.0;2.1
+Detroit Pistons;det;2021 - 2022 Regular Season;Pre All-Star;Micah Potter;3;0;10.3;4.0;1.3;1.7;3.0;0.0;0.3;0.3;0.3;1.3;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Pre All-Star;Cheick Diallo;3;0;10.3;3.7;1.3;2.7;4.0;0.0;0.3;0.0;0.3;2.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Pre All-Star;Deividas Sirvydis;3;0;9.0;1.0;0.0;2.0;2.0;0.3;1.0;0.3;0.0;1.3;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;Pre All-Star;Jamorko Pickett;6;0;7.8;0.5;0.3;1.2;1.5;0.2;0.0;0.2;0.5;0.5;0.3
+Detroit Pistons;det;2021 - 2022 Regular Season;Pre All-Star;Jaysean Paige;1;0;7.0;0.0;0.0;1.0;1.0;1.0;0.0;0.0;1.0;2.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Pre All-Star;Trayvon Palmer;1;0;17.0;0.0;0.0;2.0;2.0;0.0;0.0;0.0;1.0;2.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Pre All-Star;Isaiah Livers;1;0;5.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;1.0;1.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Pre All-Star;Total;58;"";"";102.6;10.9;31.9;42.8;22.7;7.7;4.8;13.8;21.5;1.6
+Detroit Pistons;det;2021 - 2022 Regular Season;Post All-Star;Cade Cunningham;20;20;34.4;21.1;0.9;4.8;5.7;6.5;1.1;0.7;3.9;3.4;1.7
+Detroit Pistons;det;2021 - 2022 Regular Season;Post All-Star;Jerami Grant;14;14;31.3;19.8;0.4;3.2;3.6;2.0;0.9;1.0;1.4;2.4;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;Post All-Star;Saddiq Bey;24;24;31.4;16.5;1.0;3.3;4.3;2.9;0.8;0.1;1.0;1.4;3.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Post All-Star;Marvin Bagley III;16;8;27.9;15.4;2.1;4.8;6.8;1.1;0.8;0.4;1.1;2.6;1.1
+Detroit Pistons;det;2021 - 2022 Regular Season;Post All-Star;Luka Garza;3;0;16.3;11.7;2.7;1.7;4.3;1.3;0.3;0.7;0.3;2.3;4.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Post All-Star;Hamidou Diallo;7;0;16.9;10.3;0.9;2.9;3.7;1.3;1.4;0.0;1.1;1.7;1.1
+Detroit Pistons;det;2021 - 2022 Regular Season;Post All-Star;Frank Jackson;10;2;19.6;9.2;0.5;1.3;1.8;1.4;0.5;0.0;0.5;1.4;2.8
+Detroit Pistons;det;2021 - 2022 Regular Season;Post All-Star;Braxton Key;9;0;21.2;8.6;1.3;4.0;5.3;1.1;1.0;1.2;1.0;2.8;1.1
+Detroit Pistons;det;2021 - 2022 Regular Season;Post All-Star;Kelly Olynyk;19;0;18.2;8.5;1.1;2.8;3.9;2.8;0.6;0.4;1.2;2.6;2.4
+Detroit Pistons;det;2021 - 2022 Regular Season;Post All-Star;Killian Hayes;20;7;26.2;8.4;0.7;3.2;3.9;4.5;1.6;0.6;1.6;3.1;2.8
+Detroit Pistons;det;2021 - 2022 Regular Season;Post All-Star;Isaiah Stewart;21;21;24.6;8.3;3.5;5.9;9.3;1.3;0.2;1.0;1.0;3.1;1.2
+Detroit Pistons;det;2021 - 2022 Regular Season;Post All-Star;Saben Lee;9;0;21.8;7.9;0.9;1.4;2.3;4.8;1.1;0.2;1.2;2.2;3.9
+Detroit Pistons;det;2021 - 2022 Regular Season;Post All-Star;Cory Joseph;18;18;25.1;7.8;0.4;2.7;3.1;2.9;0.6;0.3;0.9;2.5;3.1
+Detroit Pistons;det;2021 - 2022 Regular Season;Post All-Star;Rodney McGruder;18;1;17.2;6.9;0.8;1.9;2.7;1.2;0.4;0.2;0.6;1.4;1.9
+Detroit Pistons;det;2021 - 2022 Regular Season;Post All-Star;Isaiah Livers;18;5;21.1;6.7;0.8;2.3;3.2;1.2;0.7;0.3;0.8;2.0;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;Post All-Star;Jamorko Pickett;7;0;18.6;6.7;0.6;2.7;3.3;0.9;0.0;0.9;0.3;1.3;3.0
+Detroit Pistons;det;2021 - 2022 Regular Season;Post All-Star;Carsen Edwards;4;0;19.8;5.8;0.5;1.0;1.5;3.5;0.5;0.0;1.3;1.0;2.8
+Detroit Pistons;det;2021 - 2022 Regular Season;Post All-Star;Total;24;"";"";110.3;11.2;32.2;43.4;25.4;7.5;4.8;12.3;22.9;2.1
+Detroit Pistons;det;2021 - 2022 Regular Season;3+ Days Rest;Jerami Grant;8;8;32.1;23.4;1.1;3.5;4.6;2.5;1.1;1.0;1.5;2.4;1.7
+Detroit Pistons;det;2021 - 2022 Regular Season;3+ Days Rest;Cade Cunningham;9;9;31.7;17.4;1.6;4.7;6.2;5.3;1.1;1.1;4.1;3.1;1.3
+Detroit Pistons;det;2021 - 2022 Regular Season;3+ Days Rest;Saddiq Bey;5;5;33.6;15.0;2.4;5.2;7.6;3.2;0.6;0.0;1.2;2.2;2.7
+Detroit Pistons;det;2021 - 2022 Regular Season;3+ Days Rest;Marvin Bagley III;3;0;23.0;14.7;2.7;4.0;6.7;1.0;0.3;0.3;0.3;2.7;3.0
+Detroit Pistons;det;2021 - 2022 Regular Season;3+ Days Rest;Carsen Edwards;1;0;31.0;13.0;1.0;2.0;3.0;9.0;2.0;0.0;1.0;3.0;9.0
+Detroit Pistons;det;2021 - 2022 Regular Season;3+ Days Rest;Hamidou Diallo;6;1;19.0;11.7;0.3;2.0;2.3;0.8;1.2;0.3;0.5;2.2;1.7
+Detroit Pistons;det;2021 - 2022 Regular Season;3+ Days Rest;Kelly Olynyk;8;0;20.9;10.6;1.1;3.5;4.6;3.6;0.6;0.6;1.8;2.5;2.1
+Detroit Pistons;det;2021 - 2022 Regular Season;3+ Days Rest;Rodney McGruder;14;1;15.2;7.9;0.6;2.1;2.7;1.4;0.4;0.2;0.8;0.9;1.8
+Detroit Pistons;det;2021 - 2022 Regular Season;3+ Days Rest;Josh Jackson;7;0;16.9;7.9;0.9;3.3;4.1;1.7;0.6;0.4;1.0;2.4;1.7
+Detroit Pistons;det;2021 - 2022 Regular Season;3+ Days Rest;Trey Lyles;5;1;20.6;7.4;1.0;4.6;5.6;1.4;0.8;0.0;0.8;2.0;1.8
+Detroit Pistons;det;2021 - 2022 Regular Season;3+ Days Rest;Cory Joseph;8;2;22.3;6.6;0.6;3.0;3.6;3.8;0.6;0.3;1.9;2.0;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;3+ Days Rest;Isaiah Stewart;8;8;23.0;6.5;3.0;5.8;8.8;0.4;0.4;1.4;1.3;3.4;0.3
+Detroit Pistons;det;2021 - 2022 Regular Season;3+ Days Rest;Frank Jackson;7;1;18.6;6.4;0.3;1.3;1.6;0.4;0.1;0.0;0.9;1.4;0.5
+Detroit Pistons;det;2021 - 2022 Regular Season;3+ Days Rest;Killian Hayes;10;7;27.6;5.7;0.3;2.8;3.1;4.7;0.6;0.6;2.0;3.2;2.4
+Detroit Pistons;det;2021 - 2022 Regular Season;3+ Days Rest;Saben Lee;14;0;14.1;5.4;0.3;1.6;1.9;3.3;0.9;0.2;0.6;0.9;5.1
+Detroit Pistons;det;2021 - 2022 Regular Season;3+ Days Rest;Luka Garza;13;1;8.5;5.2;1.1;0.8;1.9;0.5;0.4;0.2;0.5;1.5;0.9
+Detroit Pistons;det;2021 - 2022 Regular Season;3+ Days Rest;Isaiah Livers;3;0;13.0;5.0;1.0;0.3;1.3;1.0;0.3;0.3;0.7;2.0;1.5
+Detroit Pistons;det;2021 - 2022 Regular Season;3+ Days Rest;Jamorko Pickett;9;0;14.1;4.6;0.4;2.1;2.6;0.7;0.0;0.7;0.2;1.0;3.0
+Detroit Pistons;det;2021 - 2022 Regular Season;3+ Days Rest;Cassius Stanley;4;0;9.5;4.3;0.5;0.8;1.3;0.5;0.5;0.3;0.3;1.5;2.0
+Detroit Pistons;det;2021 - 2022 Regular Season;3+ Days Rest;Braxton Key;1;0;18.0;4.0;1.0;4.0;5.0;0.0;0.0;2.0;2.0;3.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;3+ Days Rest;Micah Potter;1;0;13.0;4.0;1.0;1.0;2.0;0.0;0.0;1.0;1.0;2.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;3+ Days Rest;Justin Robinson;1;0;11.0;3.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;1.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;3+ Days Rest;Deividas Sirvydis;1;0;18.0;3.0;0.0;3.0;3.0;1.0;2.0;1.0;0.0;3.0;INF
+Detroit Pistons;det;2021 - 2022 Regular Season;3+ Days Rest;Cheick Diallo;1;0;3.0;2.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;3+ Days Rest;Derrick Walton Jr.;1;1;31.0;0.0;0.0;4.0;4.0;6.0;1.0;2.0;2.0;3.0;3.0
+Detroit Pistons;det;2021 - 2022 Regular Season;3+ Days Rest;Jaysean Paige;1;0;7.0;0.0;0.0;1.0;1.0;1.0;0.0;0.0;1.0;2.0;1.0
+Detroit Pistons;det;2021 - 2022 Regular Season;3+ Days Rest;Trayvon Palmer;1;0;17.0;0.0;0.0;2.0;2.0;0.0;0.0;0.0;1.0;2.0;0.0
+Detroit Pistons;det;2021 - 2022 Regular Season;3+ Days Rest;Total;5;"";"";104.4;12.4;34.4;46.8;20.8;7.0;6.0;13.6;23.0;1.5

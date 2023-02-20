@@ -1,0 +1,834 @@
+teamName;teamCode;season;split;player_name;GP;GS;MIN;PTS;ORB;DR;REB;AST;STL;BLK;TO;PF;AST_TO
+Houston Rockets;hou;2021 - 2022 Regular Season;All Splits;Christian Wood;68;67;30.8;17.9;1.6;8.5;10.1;2.3;0.8;1.0;1.9;2.5;1.2
+Houston Rockets;hou;2021 - 2022 Regular Season;All Splits;Jalen Green;67;67;31.9;17.3;0.5;2.9;3.4;2.6;0.7;0.3;2.0;1.5;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;All Splits;Kevin Porter Jr.;61;61;31.3;15.6;0.7;3.7;4.4;6.2;1.1;0.4;3.1;2.6;2.0
+Houston Rockets;hou;2021 - 2022 Regular Season;All Splits;Eric Gordon;57;46;29.3;13.4;0.3;1.7;2.0;2.7;0.5;0.3;1.9;1.1;1.4
+Houston Rockets;hou;2021 - 2022 Regular Season;All Splits;Jae'Sean Tate;78;77;26.4;11.8;1.7;3.7;5.4;2.8;0.9;0.5;1.8;3.7;1.6
+Houston Rockets;hou;2021 - 2022 Regular Season;All Splits;Dennis Schroder;15;4;26.9;10.9;0.4;2.9;3.3;5.9;0.8;0.2;2.6;2.5;2.3
+Houston Rockets;hou;2021 - 2022 Regular Season;All Splits;Garrison Mathews;65;33;26.3;10.0;0.5;2.4;2.9;1.0;0.9;0.4;0.6;2.6;1.6
+Houston Rockets;hou;2021 - 2022 Regular Season;All Splits;Alperen Sengun;72;13;20.7;9.6;1.9;3.5;5.5;2.6;0.8;0.9;2.0;3.0;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;All Splits;Kenyon Martin Jr.;79;2;21.0;8.8;1.0;2.7;3.8;1.3;0.4;0.5;0.8;1.4;1.7
+Houston Rockets;hou;2021 - 2022 Regular Season;All Splits;Daniel Theis;26;21;22.5;8.4;1.2;3.8;5.0;0.8;0.4;0.7;1.2;2.4;0.6
+Houston Rockets;hou;2021 - 2022 Regular Season;All Splits;Josh Christopher;74;2;18.0;7.9;0.7;1.8;2.5;2.0;0.9;0.2;1.5;1.3;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;All Splits;Bruno Fernando;10;0;9.4;6.9;1.1;2.9;4.0;0.3;0.1;0.8;0.9;1.8;0.3
+Houston Rockets;hou;2021 - 2022 Regular Season;All Splits;Armoni Brooks;41;8;16.8;6.2;0.3;1.7;2.0;1.2;0.5;0.2;0.6;1.5;2.1
+Houston Rockets;hou;2021 - 2022 Regular Season;All Splits;D.J. Augustin;34;2;15.0;5.4;0.2;1.0;1.2;2.2;0.3;0.0;1.3;0.5;1.6
+Houston Rockets;hou;2021 - 2022 Regular Season;All Splits;David Nwaba;46;4;13.2;5.1;0.9;2.4;3.3;0.8;0.6;0.4;0.5;1.2;1.7
+Houston Rockets;hou;2021 - 2022 Regular Season;All Splits;Danuel House Jr.;16;1;14.6;4.8;0.3;2.4;2.7;1.2;0.3;0.3;1.1;1.0;1.1
+Houston Rockets;hou;2021 - 2022 Regular Season;All Splits;Trevelin Queen;10;0;7.4;4.3;0.7;0.9;1.6;0.4;0.5;0.1;0.7;0.6;0.6
+Houston Rockets;hou;2021 - 2022 Regular Season;All Splits;Daishen Nix;24;0;10.9;3.2;0.3;1.1;1.4;1.7;0.6;0.0;1.1;0.9;1.5
+Houston Rockets;hou;2021 - 2022 Regular Season;All Splits;Usman Garuba;24;2;10.0;2.0;0.9;2.6;3.5;0.7;0.4;0.5;0.3;1.2;2.8
+Houston Rockets;hou;2021 - 2022 Regular Season;All Splits;Total;82;"";"";109.7;9.6;32.4;42.0;23.6;7.3;4.7;15.7;20.6;1.5
+Houston Rockets;hou;2021 - 2022 Regular Season;Home;Christian Wood;33;32;31.9;20.1;1.8;8.1;9.9;2.3;0.8;1.2;1.6;2.5;1.4
+Houston Rockets;hou;2021 - 2022 Regular Season;Home;Jalen Green;34;34;32.9;19.4;0.5;3.0;3.5;2.8;0.7;0.3;2.0;1.6;1.4
+Houston Rockets;hou;2021 - 2022 Regular Season;Home;Kevin Porter Jr.;34;34;32.3;16.5;0.7;3.9;4.6;7.0;1.0;0.4;3.3;2.8;2.2
+Houston Rockets;hou;2021 - 2022 Regular Season;Home;Bruno Fernando;4;0;17.3;12.8;1.5;6.3;7.8;0.8;0.3;1.8;1.5;3.0;0.5
+Houston Rockets;hou;2021 - 2022 Regular Season;Home;Garrison Mathews;32;18;28.2;12.3;0.4;2.6;3.0;1.0;1.1;0.4;0.6;2.5;1.7
+Houston Rockets;hou;2021 - 2022 Regular Season;Home;Eric Gordon;28;22;29.2;12.1;0.3;1.6;1.9;2.8;0.4;0.3;1.7;1.1;1.6
+Houston Rockets;hou;2021 - 2022 Regular Season;Home;Jae'Sean Tate;38;37;26.1;10.8;1.6;3.4;5.0;3.2;0.9;0.4;1.5;3.7;2.1
+Houston Rockets;hou;2021 - 2022 Regular Season;Home;Dennis Schroder;8;2;27.3;10.3;0.3;3.6;3.9;5.9;0.3;0.0;2.3;2.6;2.6
+Houston Rockets;hou;2021 - 2022 Regular Season;Home;Daniel Theis;10;10;23.4;9.3;0.8;3.5;4.3;0.8;0.5;0.8;0.8;3.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Home;Alperen Sengun;34;6;20.5;9.0;1.8;3.5;5.2;2.1;0.8;1.0;1.9;3.0;1.1
+Houston Rockets;hou;2021 - 2022 Regular Season;Home;Kenyon Martin Jr.;39;2;20.4;8.8;0.9;2.9;3.8;1.3;0.4;0.5;0.8;1.4;1.7
+Houston Rockets;hou;2021 - 2022 Regular Season;Home;Josh Christopher;39;0;17.6;8.0;0.5;1.7;2.2;1.9;1.0;0.1;1.4;1.3;1.4
+Houston Rockets;hou;2021 - 2022 Regular Season;Home;Armoni Brooks;18;3;17.6;6.2;0.3;1.8;2.2;1.3;0.4;0.1;0.6;1.9;2.4
+Houston Rockets;hou;2021 - 2022 Regular Season;Home;Danuel House Jr.;10;0;17.3;6.1;0.3;3.0;3.3;1.5;0.3;0.2;1.0;1.2;1.5
+Houston Rockets;hou;2021 - 2022 Regular Season;Home;Trevelin Queen;3;0;9.0;4.3;1.0;1.0;2.0;0.3;0.3;0.0;1.3;1.0;0.3
+Houston Rockets;hou;2021 - 2022 Regular Season;Home;David Nwaba;21;3;12.3;3.9;0.9;2.2;3.1;0.5;0.6;0.5;0.4;1.0;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;Home;D.J. Augustin;13;0;13.7;3.6;0.2;1.2;1.4;2.5;0.2;0.0;1.2;0.7;2.1
+Houston Rockets;hou;2021 - 2022 Regular Season;Home;Daishen Nix;14;0;10.1;2.9;0.3;1.1;1.4;1.4;0.6;0.0;1.1;0.9;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;Home;Usman Garuba;11;2;12.5;1.9;1.1;3.6;4.7;0.8;0.3;0.5;0.4;1.4;2.3
+Houston Rockets;hou;2021 - 2022 Regular Season;Home;Total;41;"";"";111.9;8.9;32.4;41.3;24.6;7.1;4.8;14.7;21.0;1.7
+Houston Rockets;hou;2021 - 2022 Regular Season;Away;Christian Wood;35;35;29.7;15.9;1.5;8.8;10.3;2.2;0.8;0.7;2.1;2.5;1.1
+Houston Rockets;hou;2021 - 2022 Regular Season;Away;Jalen Green;33;33;30.9;15.0;0.5;2.8;3.2;2.4;0.6;0.2;2.1;1.4;1.2
+Houston Rockets;hou;2021 - 2022 Regular Season;Away;Eric Gordon;29;24;29.4;14.7;0.2;1.8;2.0;2.7;0.6;0.3;2.0;1.1;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;Away;Kevin Porter Jr.;27;27;29.9;14.4;0.7;3.4;4.1;5.1;1.3;0.3;3.0;2.2;1.7
+Houston Rockets;hou;2021 - 2022 Regular Season;Away;Jae'Sean Tate;40;40;26.6;12.8;1.8;3.9;5.7;2.6;0.9;0.6;2.1;3.6;1.2
+Houston Rockets;hou;2021 - 2022 Regular Season;Away;Dennis Schroder;7;2;26.7;11.6;0.6;2.1;2.7;5.9;1.4;0.4;3.0;2.4;2.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Away;Alperen Sengun;38;7;20.8;10.2;2.1;3.6;5.7;2.9;0.9;0.9;2.1;3.0;1.4
+Houston Rockets;hou;2021 - 2022 Regular Season;Away;Kenyon Martin Jr.;40;0;21.5;8.9;1.1;2.6;3.7;1.3;0.5;0.5;0.8;1.4;1.7
+Houston Rockets;hou;2021 - 2022 Regular Season;Away;Josh Christopher;35;2;18.5;7.9;0.9;1.9;2.8;2.1;0.7;0.3;1.7;1.3;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;Away;Daniel Theis;16;11;21.9;7.8;1.5;3.9;5.4;0.8;0.4;0.6;1.4;2.0;0.5
+Houston Rockets;hou;2021 - 2022 Regular Season;Away;Garrison Mathews;33;15;24.5;7.7;0.6;2.2;2.8;1.0;0.6;0.3;0.7;2.6;1.5
+Houston Rockets;hou;2021 - 2022 Regular Season;Away;D.J. Augustin;21;2;15.8;6.4;0.2;0.9;1.1;2.0;0.4;0.0;1.4;0.4;1.4
+Houston Rockets;hou;2021 - 2022 Regular Season;Away;Armoni Brooks;23;5;16.2;6.2;0.3;1.6;1.8;1.1;0.6;0.3;0.6;1.1;1.9
+Houston Rockets;hou;2021 - 2022 Regular Season;Away;David Nwaba;25;1;14.0;6.1;0.9;2.5;3.4;1.0;0.6;0.4;0.5;1.4;1.9
+Houston Rockets;hou;2021 - 2022 Regular Season;Away;Trevelin Queen;7;0;6.9;4.3;0.6;0.9;1.4;0.4;0.6;0.1;0.4;0.4;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Away;Daishen Nix;10;0;12.1;3.6;0.3;1.1;1.4;2.0;0.6;0.0;1.1;0.8;1.8
+Houston Rockets;hou;2021 - 2022 Regular Season;Away;Bruno Fernando;6;0;4.2;3.0;0.8;0.7;1.5;0.0;0.0;0.2;0.5;1.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Away;Danuel House Jr.;6;1;10.0;2.7;0.2;1.5;1.7;0.7;0.3;0.5;1.3;0.7;0.5
+Houston Rockets;hou;2021 - 2022 Regular Season;Away;Usman Garuba;13;0;7.8;2.1;0.7;1.7;2.4;0.6;0.5;0.5;0.2;1.0;4.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Away;Total;41;"";"";107.5;10.3;32.5;42.7;22.5;7.5;4.5;16.6;20.2;1.4
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Boston Celtics;Jalen Green;2;2;30.5;19.5;0.5;2.5;3.0;1.5;0.5;1.0;2.0;1.5;0.8
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Boston Celtics;Armoni Brooks;1;0;25.0;17.0;0.0;3.0;3.0;2.0;2.0;1.0;2.0;1.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Boston Celtics;Kevin Porter Jr.;1;1;37.0;15.0;0.0;3.0;3.0;3.0;0.0;0.0;8.0;6.0;0.4
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Boston Celtics;Christian Wood;2;2;29.5;12.0;0.5;8.5;9.0;2.0;0.5;0.5;0.5;1.5;4.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Boston Celtics;Kenyon Martin Jr.;1;0;22.0;10.0;1.0;5.0;6.0;1.0;1.0;1.0;1.0;1.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Boston Celtics;Jae'Sean Tate;2;2;28.5;9.0;1.0;5.5;6.5;3.0;1.0;0.0;1.0;2.0;3.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Boston Celtics;Alperen Sengun;2;0;20.0;7.5;0.5;4.5;5.0;5.5;2.5;0.5;1.5;5.0;3.7
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Boston Celtics;Daniel Theis;2;2;22.0;6.5;0.5;4.5;5.0;1.5;0.0;1.0;1.0;3.0;1.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Boston Celtics;Eric Gordon;2;1;25.5;5.5;0.0;2.5;2.5;1.5;0.0;0.0;2.0;0.5;0.8
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Boston Celtics;Josh Christopher;2;0;3.0;5.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Boston Celtics;D.J. Augustin;2;0;14.0;3.5;0.0;0.5;0.5;1.5;0.0;0.0;1.0;1.5;1.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Boston Celtics;Garrison Mathews;1;0;19.0;3.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Boston Celtics;David Nwaba;2;0;4.5;1.5;0.5;1.5;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Boston Celtics;Danuel House Jr.;2;0;10.5;1.0;0.0;1.0;1.0;0.0;0.0;0.0;0.5;0.5;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Boston Celtics;Total;2;"";"";93.5;4.5;36.5;41.0;19.5;6.0;4.0;16.0;20.0;1.2
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Brooklyn Nets;Kevin Porter Jr.;1;1;41.0;36.0;0.0;2.0;2.0;4.0;1.0;1.0;3.0;3.0;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Brooklyn Nets;Jalen Green;1;1;41.0;30.0;1.0;5.0;6.0;2.0;1.0;1.0;2.0;0.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Brooklyn Nets;Eric Gordon;1;1;28.0;21.0;1.0;1.0;2.0;2.0;0.0;1.0;4.0;2.0;0.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Brooklyn Nets;Armoni Brooks;1;1;29.0;14.0;0.0;5.0;5.0;4.0;1.0;1.0;3.0;2.0;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Brooklyn Nets;Christian Wood;1;1;34.0;12.0;3.0;12.0;15.0;3.0;1.0;3.0;1.0;3.0;3.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Brooklyn Nets;Garrison Mathews;2;2;30.5;11.5;0.5;2.5;3.0;0.0;1.5;0.5;0.0;4.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Brooklyn Nets;Josh Christopher;2;0;27.0;11.5;1.5;3.5;5.0;2.0;2.0;1.5;2.0;2.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Brooklyn Nets;Alperen Sengun;2;1;25.0;10.0;4.0;2.5;6.5;3.0;0.0;0.5;0.5;2.0;6.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Brooklyn Nets;D.J. Augustin;1;0;20.0;8.0;0.0;4.0;4.0;4.0;1.0;0.0;2.0;0.0;2.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Brooklyn Nets;Jae'Sean Tate;2;2;28.0;8.0;2.0;3.5;5.5;4.0;2.0;0.5;2.0;4.0;2.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Brooklyn Nets;Kenyon Martin Jr.;2;0;20.5;6.0;1.0;1.5;2.5;1.0;0.0;0.5;0.0;2.5;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Brooklyn Nets;Daishen Nix;1;0;8.0;2.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;1.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Brooklyn Nets;Usman Garuba;1;0;12.0;2.0;3.0;2.0;5.0;2.0;0.0;1.0;0.0;2.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Brooklyn Nets;David Nwaba;1;0;5.0;0.0;1.0;1.0;2.0;0.0;0.0;0.0;0.0;1.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Brooklyn Nets;Total;2;"";"";109.5;13.5;29.5;43.0;20.5;8.5;7.5;12.0;21.5;1.7
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. New York Knicks;Christian Wood;1;1;37.0;18.0;1.0;11.0;12.0;3.0;0.0;2.0;6.0;4.0;0.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. New York Knicks;Jalen Green;1;1;36.0;16.0;2.0;0.0;2.0;2.0;0.0;0.0;3.0;1.0;0.7
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. New York Knicks;Jae'Sean Tate;2;2;30.0;15.5;2.0;4.5;6.5;4.5;0.5;1.0;3.5;5.5;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. New York Knicks;Josh Christopher;1;0;33.0;14.0;0.0;0.0;0.0;3.0;2.0;0.0;1.0;3.0;3.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. New York Knicks;Garrison Mathews;2;1;23.5;12.5;2.0;4.0;6.0;1.0;0.0;0.0;1.0;2.5;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. New York Knicks;Kenyon Martin Jr.;2;0;25.0;12.5;0.5;3.5;4.0;3.0;1.0;0.5;0.5;2.0;6.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. New York Knicks;Daniel Theis;2;2;28.0;12.0;1.5;6.0;7.5;1.0;0.5;1.5;1.5;3.0;0.7
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. New York Knicks;Eric Gordon;2;2;33.5;10.0;0.0;1.5;1.5;7.0;0.0;1.0;4.0;1.5;1.8
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. New York Knicks;D.J. Augustin;2;0;15.0;6.5;0.5;0.0;0.5;2.5;1.0;0.0;1.5;0.0;1.7
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. New York Knicks;Alperen Sengun;2;0;19.5;5.5;1.0;3.0;4.0;2.0;0.0;1.0;2.0;3.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. New York Knicks;David Nwaba;1;0;10.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. New York Knicks;Armoni Brooks;2;1;6.0;1.5;0.0;0.5;0.5;0.0;0.5;0.0;0.0;0.5;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. New York Knicks;Danuel House Jr.;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. New York Knicks;Usman Garuba;1;0;2.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. New York Knicks;Total;2;"";"";101.0;9.0;29.5;38.5;25.0;4.5;6.0;19.5;23.0;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Eric Gordon;1;1;29.0;14.0;1.0;2.0;3.0;3.0;1.0;0.0;3.0;1.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Christian Wood;1;1;36.0;14.0;0.0;6.0;6.0;2.0;1.0;0.0;0.0;2.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Garrison Mathews;2;1;27.0;14.0;0.5;5.0;5.5;2.0;0.5;0.0;1.0;3.5;2.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Josh Christopher;2;0;22.0;13.0;0.0;2.0;2.0;3.0;2.0;0.0;1.5;0.5;2.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Jalen Green;2;2;28.5;13.0;0.5;3.5;4.0;0.5;0.0;0.0;4.5;0.5;0.1
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Jae'Sean Tate;2;2;26.5;11.5;0.0;2.0;2.0;3.0;0.5;2.0;0.0;2.5;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Kenyon Martin Jr.;2;0;23.5;10.5;2.5;3.5;6.0;2.0;0.0;1.0;1.5;1.0;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Daniel Theis;2;2;28.0;9.5;2.0;4.5;6.5;0.5;1.0;1.0;1.0;3.5;0.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Philadelphia 76ers;David Nwaba;2;0;15.0;8.0;1.0;1.5;2.5;2.0;1.0;1.0;0.0;0.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Kevin Porter Jr.;1;1;28.0;8.0;0.0;6.0;6.0;5.0;0.0;0.0;4.0;1.0;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Trevelin Queen;1;0;3.0;3.0;1.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Philadelphia 76ers;D.J. Augustin;2;0;15.5;2.0;0.5;1.5;2.0;2.0;0.0;0.0;1.0;0.0;2.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Daishen Nix;2;0;3.5;1.0;0.0;0.5;0.5;1.0;0.5;0.0;1.5;0.0;0.7
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Usman Garuba;1;0;5.0;0.0;2.0;1.0;3.0;0.0;1.0;1.0;0.0;0.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Total;2;"";"";102.0;9.0;31.5;40.5;21.5;7.0;5.5;15.5;13.5;1.4
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Toronto Raptors;Kevin Porter Jr.;2;2;37.5;32.5;0.5;6.0;6.5;6.0;1.5;0.0;2.5;1.5;2.4
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Toronto Raptors;Christian Wood;1;1;32.0;17.0;3.0;8.0;11.0;6.0;0.0;2.0;2.0;3.0;3.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Toronto Raptors;Garrison Mathews;2;2;28.5;14.0;0.5;5.0;5.5;1.0;0.5;0.5;1.5;1.5;0.7
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Toronto Raptors;Josh Christopher;2;0;22.5;13.0;0.0;3.5;3.5;2.0;0.5;0.0;2.0;2.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Toronto Raptors;Jalen Green;2;2;36.0;13.0;0.5;3.0;3.5;2.0;0.5;0.0;4.0;1.0;0.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Toronto Raptors;Jae'Sean Tate;2;2;33.0;12.0;2.5;3.0;5.5;4.5;0.5;0.5;2.5;4.0;1.8
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Toronto Raptors;Alperen Sengun;2;1;26.5;8.5;1.0;2.0;3.0;3.5;0.5;0.5;1.5;3.5;2.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Toronto Raptors;Kenyon Martin Jr.;2;0;22.0;8.0;1.5;2.5;4.0;1.0;0.5;0.5;2.5;1.5;0.4
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Toronto Raptors;David Nwaba;1;0;7.0;7.0;2.0;1.0;3.0;0.0;0.0;0.0;1.0;2.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Toronto Raptors;Usman Garuba;1;0;15.0;5.0;1.0;2.0;3.0;2.0;2.0;1.0;0.0;3.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Toronto Raptors;Daishen Nix;1;0;13.0;4.0;1.0;1.0;2.0;1.0;0.0;0.0;3.0;1.0;0.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Toronto Raptors;Total;2;"";"";117.5;10.0;31.0;41.0;24.5;5.5;3.5;19.5;19.5;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Chicago Bulls;Christian Wood;2;2;30.5;19.5;2.5;8.0;10.5;3.5;0.0;1.0;1.5;3.5;2.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Chicago Bulls;Danuel House Jr.;1;0;17.0;18.0;1.0;3.0;4.0;1.0;1.0;2.0;1.0;1.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Chicago Bulls;Kevin Porter Jr.;1;1;37.0;14.0;0.0;6.0;6.0;9.0;1.0;0.0;6.0;0.0;1.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Chicago Bulls;Armoni Brooks;2;1;24.5;13.0;0.5;1.0;1.5;2.5;1.0;0.5;0.0;1.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Chicago Bulls;Jae'Sean Tate;2;2;22.0;12.0;0.5;3.5;4.0;3.5;0.0;0.0;2.5;3.0;1.4
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Chicago Bulls;Jalen Green;1;1;11.0;11.0;0.0;2.0;2.0;1.0;0.0;0.0;0.0;0.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Chicago Bulls;Alperen Sengun;2;0;17.5;10.5;1.5;3.0;4.5;2.0;1.0;0.0;3.0;3.0;0.7
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Chicago Bulls;Eric Gordon;2;2;29.5;10.0;0.0;0.5;0.5;4.0;0.5;0.5;1.5;0.0;2.7
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Chicago Bulls;Kenyon Martin Jr.;2;0;19.5;10.0;0.5;2.0;2.5;1.0;0.5;0.5;1.0;0.5;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Chicago Bulls;Josh Christopher;1;0;20.0;10.0;0.0;3.0;3.0;2.0;0.0;1.0;2.0;1.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Chicago Bulls;Garrison Mathews;2;1;27.0;9.0;0.5;4.0;4.5;1.5;0.5;0.5;0.5;4.0;3.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Chicago Bulls;David Nwaba;1;0;15.0;6.0;0.0;4.0;4.0;2.0;0.0;1.0;1.0;1.0;2.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Chicago Bulls;D.J. Augustin;2;0;16.0;3.5;0.5;2.0;2.5;1.0;0.0;0.0;2.5;0.0;0.4
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Chicago Bulls;Trevelin Queen;1;0;4.0;2.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;0.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Chicago Bulls;Usman Garuba;1;0;4.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Chicago Bulls;Total;2;"";"";118.0;7.0;33.5;40.5;27.0;4.5;5.0;17.5;16.5;1.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Christian Wood;1;1;34.0;21.0;1.0;6.0;7.0;4.0;2.0;0.0;1.0;5.0;4.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Jalen Green;1;1;36.0;21.0;0.0;5.0;5.0;5.0;1.0;1.0;0.0;3.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Kevin Porter Jr.;1;1;32.0;16.0;0.0;1.0;1.0;7.0;1.0;0.0;2.0;3.0;3.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Alperen Sengun;2;0;26.0;14.0;3.0;6.5;9.5;4.0;1.0;1.0;3.0;2.0;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Kenyon Martin Jr.;2;0;22.0;12.0;1.5;1.0;2.5;0.0;1.5;0.0;1.0;0.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Eric Gordon;1;1;30.0;11.0;0.0;2.0;2.0;3.0;0.0;0.0;0.0;1.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;David Nwaba;1;0;27.0;11.0;2.0;3.0;5.0;0.0;0.0;0.0;0.0;2.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Josh Christopher;2;0;20.0;11.0;0.5;1.0;1.5;2.0;0.5;0.0;2.0;1.5;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Jae'Sean Tate;2;2;28.5;9.0;1.5;4.0;5.5;1.5;3.5;0.0;3.0;3.5;0.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Garrison Mathews;2;1;26.5;8.5;0.5;3.5;4.0;1.0;1.0;0.5;0.0;3.5;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Daniel Theis;1;1;18.0;5.0;1.0;5.0;6.0;1.0;1.0;0.0;2.0;3.0;0.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;D.J. Augustin;1;1;17.0;4.0;0.0;1.0;1.0;4.0;1.0;0.0;3.0;2.0;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Armoni Brooks;1;1;22.0;3.0;0.0;1.0;1.0;3.0;1.0;0.0;2.0;2.0;1.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Usman Garuba;1;0;17.0;3.0;0.0;4.0;4.0;1.0;2.0;0.0;0.0;2.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Total;2;"";"";102.0;9.0;30.0;39.0;22.5;12.0;2.0;14.0;22.0;1.6
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Detroit Pistons;Jalen Green;1;1;38.0;23.0;1.0;4.0;5.0;2.0;0.0;0.0;2.0;2.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Detroit Pistons;Christian Wood;2;2;34.0;20.5;2.5;6.0;8.5;2.0;0.5;0.5;1.0;2.5;2.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Detroit Pistons;Kevin Porter Jr.;1;1;36.0;18.0;1.0;4.0;5.0;5.0;1.0;1.0;5.0;2.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Detroit Pistons;Garrison Mathews;1;1;36.0;16.0;0.0;5.0;5.0;2.0;3.0;1.0;2.0;1.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Detroit Pistons;Eric Gordon;2;1;29.0;14.5;0.0;1.0;1.0;3.0;1.0;0.0;2.0;1.0;1.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Detroit Pistons;Jae'Sean Tate;2;2;28.5;12.5;2.0;4.5;6.5;2.5;2.5;0.5;2.0;4.0;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Detroit Pistons;Alperen Sengun;1;0;22.0;9.0;4.0;1.0;5.0;4.0;0.0;2.0;1.0;4.0;4.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Detroit Pistons;D.J. Augustin;1;0;17.0;8.0;1.0;0.0;1.0;2.0;3.0;0.0;2.0;0.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Detroit Pistons;Danuel House Jr.;1;0;19.0;8.0;0.0;2.0;2.0;2.0;0.0;0.0;1.0;1.0;2.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Detroit Pistons;David Nwaba;2;0;14.5;6.5;1.0;4.5;5.5;1.0;1.0;1.0;0.5;2.0;2.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Detroit Pistons;Daniel Theis;1;1;27.0;6.0;0.0;4.0;4.0;1.0;1.0;2.0;1.0;4.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Detroit Pistons;Kenyon Martin Jr.;2;0;18.0;6.0;1.5;6.0;7.5;0.5;0.5;0.0;0.5;1.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Detroit Pistons;Josh Christopher;2;1;16.0;6.0;0.0;2.0;2.0;4.0;0.5;0.0;2.5;1.0;1.6
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Detroit Pistons;Trevelin Queen;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Detroit Pistons;Usman Garuba;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Detroit Pistons;Total;2;"";"";110.0;10.5;34.0;44.5;22.0;10.0;5.0;16.0;19.0;1.4
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Indiana Pacers;Christian Wood;2;2;32.5;27.0;1.5;9.0;10.5;4.5;1.0;1.5;2.0;1.5;2.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Indiana Pacers;Jalen Green;2;2;31.0;20.0;0.5;2.5;3.0;4.0;1.0;1.0;2.0;1.0;2.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Indiana Pacers;Kevin Porter Jr.;1;1;34.0;19.0;0.0;4.0;4.0;4.0;1.0;0.0;1.0;2.0;4.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Indiana Pacers;Eric Gordon;1;1;29.0;15.0;0.0;0.0;0.0;5.0;3.0;1.0;0.0;4.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Indiana Pacers;Alperen Sengun;2;0;21.0;12.5;3.0;3.0;6.0;1.5;0.5;2.5;1.5;2.5;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Indiana Pacers;Jae'Sean Tate;2;2;26.0;12.0;0.5;3.5;4.0;1.0;0.5;0.0;1.0;3.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Indiana Pacers;D.J. Augustin;1;0;19.0;10.0;0.0;1.0;1.0;1.0;1.0;0.0;2.0;0.0;0.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Indiana Pacers;Dennis Schroder;1;0;24.0;6.0;0.0;4.0;4.0;3.0;0.0;0.0;3.0;1.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Indiana Pacers;Garrison Mathews;2;2;25.5;6.0;0.0;1.5;1.5;1.0;1.0;0.0;1.0;2.5;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Indiana Pacers;Armoni Brooks;1;0;25.0;6.0;0.0;3.0;3.0;0.0;1.0;0.0;1.0;3.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Indiana Pacers;Kenyon Martin Jr.;2;0;16.5;3.5;0.5;0.5;1.0;0.5;0.0;1.5;0.5;0.5;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Indiana Pacers;Josh Christopher;2;0;17.0;2.0;0.5;1.5;2.0;0.5;1.0;0.0;1.5;2.0;0.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Indiana Pacers;Daishen Nix;1;0;11.0;2.0;0.0;2.0;2.0;1.0;2.0;0.0;1.0;0.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Indiana Pacers;Total;2;"";"";112.0;6.5;28.5;35.0;20.0;9.0;7.0;13.5;18.0;1.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Christian Wood;2;2;30.0;20.5;3.0;9.0;12.0;0.5;0.0;0.5;3.5;3.5;0.1
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Garrison Mathews;2;2;33.0;16.5;1.5;3.5;5.0;0.5;1.0;1.5;1.5;4.0;0.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Armoni Brooks;2;2;29.5;15.0;0.0;4.0;4.0;1.5;0.0;1.0;1.0;3.0;1.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Eric Gordon;2;2;28.5;13.0;0.5;1.5;2.0;6.0;0.5;0.5;1.5;1.5;4.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Alperen Sengun;2;0;20.0;12.5;2.5;4.0;6.5;2.0;0.5;0.0;2.5;3.0;0.8
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Josh Christopher;2;0;18.0;8.0;2.0;2.0;4.0;2.0;1.5;0.0;2.5;2.0;0.8
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Kenyon Martin Jr.;2;0;23.0;7.0;0.5;3.5;4.0;4.5;0.0;0.5;0.5;0.5;9.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Milwaukee Bucks;D.J. Augustin;2;0;19.0;6.0;0.5;1.0;1.5;4.5;0.0;0.0;1.5;0.5;3.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Milwaukee Bucks;David Nwaba;2;0;11.0;5.5;1.0;2.5;3.5;0.5;0.5;1.5;0.0;1.5;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Jae'Sean Tate;2;2;23.5;5.0;1.0;2.5;3.5;4.5;0.5;0.0;1.0;5.0;4.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Trevelin Queen;1;0;4.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Usman Garuba;1;0;4.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Total;2;"";"";110.0;12.5;33.5;46.0;26.5;4.5;5.5;15.5;24.5;1.7
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Atlanta Hawks;Jalen Green;1;1;40.0;41.0;0.0;1.0;1.0;3.0;1.0;0.0;0.0;1.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Atlanta Hawks;Eric Gordon;1;1;32.0;32.0;1.0;2.0;3.0;3.0;1.0;0.0;4.0;3.0;0.8
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Atlanta Hawks;Kevin Porter Jr.;1;1;41.0;26.0;2.0;6.0;8.0;6.0;0.0;0.0;2.0;1.0;3.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Atlanta Hawks;D.J. Augustin;1;0;23.0;22.0;0.0;2.0;2.0;1.0;0.0;0.0;0.0;1.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Atlanta Hawks;Christian Wood;1;1;25.0;12.0;1.0;4.0;5.0;3.0;1.0;0.0;0.0;3.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Atlanta Hawks;Kenyon Martin Jr.;2;0;22.5;12.0;1.5;2.0;3.5;1.5;0.0;0.5;0.5;2.0;3.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Atlanta Hawks;Jae'Sean Tate;2;2;27.0;10.0;1.0;1.0;2.0;3.0;1.0;1.5;1.0;3.0;3.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Atlanta Hawks;Alperen Sengun;2;1;29.5;10.0;2.0;4.0;6.0;6.0;0.5;1.5;1.0;4.5;6.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Atlanta Hawks;Garrison Mathews;2;2;29.5;9.5;0.0;7.0;7.0;0.5;1.0;0.5;0.5;2.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Atlanta Hawks;David Nwaba;2;0;12.0;6.0;1.5;2.5;4.0;2.0;1.0;0.5;0.5;1.0;4.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Atlanta Hawks;Armoni Brooks;1;1;22.0;6.0;0.0;3.0;3.0;2.0;1.0;0.0;2.0;2.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Atlanta Hawks;Josh Christopher;2;0;21.5;6.0;1.0;1.5;2.5;3.0;0.5;0.0;0.5;2.5;6.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Atlanta Hawks;Usman Garuba;1;0;13.0;0.0;0.0;7.0;7.0;1.0;0.0;0.0;0.0;2.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Atlanta Hawks;Total;2;"";"";123.0;9.0;30.5;39.5;25.5;6.0;4.5;8.0;21.5;3.2
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Charlotte Hornets;Christian Wood;2;2;33.5;24.5;3.5;9.0;12.5;3.0;0.0;1.0;2.0;1.0;1.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Charlotte Hornets;Kevin Porter Jr.;1;1;42.0;23.0;1.0;7.0;8.0;12.0;1.0;0.0;4.0;2.0;3.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Charlotte Hornets;Garrison Mathews;1;1;38.0;20.0;2.0;1.0;3.0;0.0;1.0;0.0;0.0;5.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Charlotte Hornets;Eric Gordon;2;2;30.0;19.0;0.0;1.0;1.0;5.0;0.5;0.0;2.0;1.0;2.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Charlotte Hornets;Trevelin Queen;1;0;29.0;17.0;1.0;5.0;6.0;0.0;4.0;0.0;3.0;3.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Charlotte Hornets;Jae'Sean Tate;1;1;36.0;16.0;0.0;2.0;2.0;5.0;1.0;0.0;2.0;3.0;2.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Charlotte Hornets;Armoni Brooks;2;1;28.0;13.0;0.5;1.5;2.0;2.0;0.5;0.0;0.0;2.5;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Charlotte Hornets;Daishen Nix;1;0;26.0;11.0;0.0;3.0;3.0;3.0;3.0;0.0;3.0;0.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Charlotte Hornets;David Nwaba;1;1;24.0;9.0;2.0;6.0;8.0;1.0;2.0;0.0;2.0;2.0;0.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Charlotte Hornets;Kenyon Martin Jr.;1;0;15.0;7.0;1.0;2.0;3.0;1.0;0.0;0.0;0.0;1.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Charlotte Hornets;Daniel Theis;1;0;22.0;6.0;3.0;1.0;4.0;1.0;0.0;0.0;1.0;0.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Charlotte Hornets;Josh Christopher;1;1;21.0;6.0;0.0;0.0;0.0;2.0;0.0;0.0;3.0;1.0;0.7
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Charlotte Hornets;Alperen Sengun;2;0;17.0;5.0;2.5;3.0;5.5;3.5;0.0;2.0;4.0;3.5;0.9
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Charlotte Hornets;D.J. Augustin;1;0;10.0;3.0;0.0;0.0;0.0;3.0;0.0;0.0;0.0;2.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Charlotte Hornets;Danuel House Jr.;1;0;15.0;2.0;0.0;2.0;2.0;1.0;0.0;0.0;0.0;3.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Charlotte Hornets;Usman Garuba;1;0;13.0;2.0;0.0;4.0;4.0;0.0;0.0;1.0;0.0;2.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Charlotte Hornets;Total;2;"";"";122.5;11.5;31.0;42.5;28.0;7.0;3.5;17.0;20.0;1.6
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Miami Heat;Christian Wood;1;1;34.0;18.0;1.0;7.0;8.0;4.0;1.0;1.0;3.0;2.0;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Miami Heat;Jalen Green;2;2;29.5;18.0;0.0;2.0;2.0;2.5;0.0;0.0;1.0;4.0;2.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Miami Heat;Eric Gordon;1;1;27.0;15.0;0.0;1.0;1.0;4.0;0.0;0.0;0.0;1.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Miami Heat;Kevin Porter Jr.;2;2;30.0;14.5;1.0;3.0;4.0;2.5;1.0;0.5;2.5;3.5;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Miami Heat;Jae'Sean Tate;2;1;25.0;14.0;3.0;3.5;6.5;2.5;1.5;1.0;1.0;3.0;2.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Miami Heat;Josh Christopher;2;0;26.5;11.5;1.0;3.0;4.0;3.0;1.5;1.0;1.0;2.0;3.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Miami Heat;Kenyon Martin Jr.;2;0;23.5;10.0;1.5;2.5;4.0;1.0;1.5;0.5;2.5;1.5;0.4
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Miami Heat;Alperen Sengun;2;1;18.5;9.5;1.5;3.0;4.5;2.0;0.0;1.0;1.5;3.0;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Miami Heat;Armoni Brooks;1;0;22.0;6.0;0.0;4.0;4.0;1.0;0.0;0.0;1.0;2.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Miami Heat;David Nwaba;2;1;17.0;5.5;2.5;4.0;6.5;0.5;1.0;0.0;1.0;2.5;0.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Miami Heat;Bruno Fernando;1;0;3.0;4.0;1.0;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Miami Heat;Daishen Nix;2;0;13.5;3.5;0.0;0.5;0.5;2.0;0.5;0.0;0.5;2.0;4.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Miami Heat;Garrison Mathews;1;1;20.0;0.0;0.0;0.0;0.0;1.0;2.0;0.0;0.0;2.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Miami Heat;Trevelin Queen;2;0;3.5;0.0;0.5;0.0;0.5;0.5;0.0;0.5;1.0;0.5;0.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Miami Heat;Total;2;"";"";108.0;12.0;27.5;39.5;21.5;8.5;5.5;14.0;25.5;1.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Orlando Magic;Jalen Green;1;1;31.0;23.0;0.0;5.0;5.0;2.0;4.0;0.0;1.0;1.0;2.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Orlando Magic;Christian Wood;2;2;31.0;20.5;2.5;9.5;12.0;2.5;0.5;0.5;2.0;2.0;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Orlando Magic;Eric Gordon;2;2;31.0;19.5;0.0;1.0;1.0;2.0;1.0;0.5;2.0;2.5;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Orlando Magic;Garrison Mathews;2;1;28.0;14.5;1.0;1.5;2.5;0.0;2.0;0.5;0.0;1.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Orlando Magic;Jae'Sean Tate;2;2;30.0;14.0;2.0;4.0;6.0;5.0;2.0;1.0;0.5;5.5;10.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Orlando Magic;Dennis Schroder;1;0;28.0;10.0;1.0;2.0;3.0;6.0;0.0;0.0;2.0;3.0;3.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Orlando Magic;Alperen Sengun;2;0;18.5;9.5;1.5;3.0;4.5;4.5;0.5;1.5;2.5;1.5;1.8
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Orlando Magic;D.J. Augustin;1;0;12.0;8.0;0.0;2.0;2.0;3.0;1.0;0.0;1.0;1.0;3.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Orlando Magic;Kevin Porter Jr.;2;2;20.0;7.0;0.5;2.5;3.0;3.5;1.0;0.0;1.5;1.5;2.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Orlando Magic;Kenyon Martin Jr.;2;0;17.5;5.5;0.0;1.0;1.0;0.5;0.0;0.0;0.0;2.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Orlando Magic;Danuel House Jr.;1;0;20.0;4.0;0.0;2.0;2.0;3.0;0.0;0.0;0.0;1.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Orlando Magic;Armoni Brooks;1;0;19.0;3.0;1.0;1.0;2.0;4.0;0.0;0.0;0.0;1.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Orlando Magic;Josh Christopher;2;0;9.5;0.0;0.0;1.0;1.0;0.5;0.0;0.0;1.0;0.5;0.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Orlando Magic;Total;2;"";"";114.5;8.5;29.5;38.0;27.5;9.5;4.0;11.5;20.0;2.4
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Washington Wizards;Christian Wood;2;2;35.0;30.5;1.5;9.0;10.5;1.5;2.0;0.5;1.5;2.5;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Washington Wizards;Jalen Green;2;2;32.5;19.5;0.0;6.0;6.0;3.0;0.5;0.5;0.5;1.5;6.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Washington Wizards;Eric Gordon;2;2;28.5;17.0;0.0;1.0;1.0;2.0;0.5;0.0;2.0;1.5;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Washington Wizards;Jae'Sean Tate;2;2;26.0;10.0;3.0;6.0;9.0;3.0;0.0;0.5;2.5;4.5;1.2
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Washington Wizards;Kevin Porter Jr.;2;2;35.5;10.0;0.5;4.5;5.0;6.0;2.0;0.5;2.5;3.0;2.4
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Washington Wizards;Dennis Schroder;1;0;23.0;8.0;0.0;4.0;4.0;5.0;1.0;0.0;3.0;4.0;1.7
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Washington Wizards;Kenyon Martin Jr.;2;0;19.0;8.0;1.0;2.0;3.0;1.0;0.5;0.5;1.5;3.0;0.7
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Washington Wizards;Alperen Sengun;1;0;25.0;7.0;2.0;5.0;7.0;3.0;1.0;2.0;3.0;1.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Washington Wizards;Garrison Mathews;2;0;24.0;5.5;0.0;2.0;2.0;0.5;0.5;1.0;1.0;3.0;0.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Washington Wizards;David Nwaba;1;0;11.0;5.0;1.0;3.0;4.0;1.0;1.0;1.0;1.0;2.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Washington Wizards;Josh Christopher;2;0;10.5;4.0;0.5;1.5;2.0;1.0;0.0;0.0;1.0;0.5;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Washington Wizards;Total;2;"";"";114.5;8.0;38.0;46.0;22.5;7.5;5.0;16.0;23.0;1.4
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Denver Nuggets;Jalen Green;3;3;30.0;18.7;0.7;2.0;2.7;3.3;0.3;0.3;2.0;0.7;1.7
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Denver Nuggets;Daniel Theis;2;2;29.5;13.0;1.5;3.5;5.0;0.5;1.0;0.5;1.5;2.0;0.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Denver Nuggets;Kenyon Martin Jr.;3;0;23.0;11.7;1.7;2.3;4.0;2.0;0.7;1.3;0.3;1.0;6.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Denver Nuggets;Eric Gordon;2;1;29.5;11.5;0.5;2.0;2.5;1.5;0.5;0.0;4.0;2.5;0.4
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Denver Nuggets;Christian Wood;3;2;25.3;11.3;0.3;9.0;9.3;2.3;0.3;0.7;1.7;2.3;1.4
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Denver Nuggets;Alperen Sengun;2;0;18.0;10.0;1.0;6.0;7.0;2.0;0.5;1.0;0.5;3.0;4.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Denver Nuggets;Jae'Sean Tate;3;3;25.3;9.3;2.0;4.3;6.3;2.0;0.3;0.3;2.0;4.3;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Denver Nuggets;Trevelin Queen;2;0;8.5;8.0;2.0;1.0;3.0;0.5;0.5;0.0;1.0;0.5;0.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Denver Nuggets;Kevin Porter Jr.;3;3;26.3;7.7;0.7;2.0;2.7;3.3;0.7;0.3;2.0;2.3;1.7
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Denver Nuggets;Daishen Nix;2;0;7.0;6.5;0.0;0.0;0.0;0.5;1.0;0.0;1.0;1.0;0.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Denver Nuggets;D.J. Augustin;1;0;9.0;5.0;0.0;1.0;1.0;3.0;0.0;0.0;0.0;0.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Denver Nuggets;Josh Christopher;2;0;20.5;4.5;0.5;1.5;2.0;2.0;0.5;0.5;2.5;2.0;0.8
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Denver Nuggets;David Nwaba;2;1;13.5;3.5;0.0;3.5;3.5;1.0;1.0;0.0;0.5;0.5;2.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Denver Nuggets;Garrison Mathews;1;0;29.0;3.0;0.0;0.0;0.0;1.0;1.0;0.0;0.0;2.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Denver Nuggets;Armoni Brooks;2;0;13.0;3.0;0.5;0.0;0.5;2.0;1.0;0.0;0.5;2.0;4.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Denver Nuggets;Usman Garuba;1;0;13.0;2.0;1.0;3.0;4.0;1.0;2.0;0.0;0.0;0.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Denver Nuggets;Total;3;"";"";102.0;9.7;32.7;42.3;21.3;7.3;4.3;15.7;20.3;1.4
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Christian Wood;2;2;30.5;19.0;2.5;6.0;8.5;3.0;0.0;1.5;0.5;2.5;6.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Josh Christopher;3;0;21.7;18.0;1.0;1.3;2.3;1.7;2.0;0.0;2.0;1.0;0.8
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Jalen Green;3;3;31.7;16.7;0.0;2.7;2.7;4.0;0.3;0.0;1.0;1.3;4.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Eric Gordon;2;1;24.5;14.0;0.0;1.5;1.5;1.5;0.5;0.5;2.5;0.0;0.6
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Kevin Porter Jr.;3;3;29.0;13.7;1.0;4.0;5.0;6.3;1.3;0.0;6.7;3.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Alperen Sengun;2;1;25.5;12.5;4.5;6.0;10.5;3.0;1.5;0.5;4.0;4.0;0.8
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Daniel Theis;1;1;21.0;11.0;2.0;3.0;5.0;0.0;0.0;0.0;1.0;2.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Garrison Mathews;2;1;29.5;10.5;0.0;2.0;2.0;2.0;1.5;1.0;0.5;2.0;4.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Kenyon Martin Jr.;3;0;21.0;10.3;0.7;2.7;3.3;2.0;0.7;1.0;1.0;0.7;2.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;David Nwaba;2;0;17.0;8.0;0.5;4.0;4.5;1.0;1.0;0.5;0.5;4.5;2.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Jae'Sean Tate;3;3;21.7;7.0;1.7;2.3;4.0;2.3;0.7;0.0;1.0;4.0;2.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Armoni Brooks;1;0;8.0;6.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Usman Garuba;2;0;12.0;5.0;1.5;2.5;4.0;0.5;0.5;1.0;0.5;2.5;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Daishen Nix;2;0;10.5;3.5;0.0;1.5;1.5;3.5;0.0;0.0;1.5;0.5;2.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;D.J. Augustin;1;0;17.0;2.0;0.0;0.0;0.0;2.0;1.0;0.0;3.0;1.0;0.7
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Total;3;"";"";120.3;11.0;29.7;40.7;26.7;8.7;4.3;19.7;22.0;1.4
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Jae'Sean Tate;4;4;31.5;19.8;3.0;6.5;9.5;5.5;1.3;1.3;1.5;3.3;3.7
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Christian Wood;4;4;25.8;16.3;2.5;9.8;12.3;0.3;0.5;2.0;0.8;1.5;0.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Jalen Green;2;2;31.0;15.0;0.0;3.0;3.0;2.0;1.5;0.5;1.5;1.0;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Eric Gordon;4;3;31.5;14.0;0.3;1.5;1.8;3.5;0.5;0.5;3.0;0.3;1.2
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Garrison Mathews;3;2;30.0;13.3;0.0;2.0;2.0;0.3;0.3;0.3;0.7;3.0;0.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Kevin Porter Jr.;3;3;25.7;13.0;0.3;4.3;4.7;7.3;2.3;0.7;2.3;1.3;3.1
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Armoni Brooks;4;0;16.5;7.5;0.3;1.3;1.5;1.0;0.8;0.5;0.3;2.3;4.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Kenyon Martin Jr.;4;0;14.0;5.3;0.3;3.0;3.3;1.5;0.3;0.3;0.8;1.5;2.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Daniel Theis;3;1;21.0;4.7;0.3;5.3;5.7;1.3;0.7;0.3;0.7;2.7;2.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Danuel House Jr.;4;1;15.5;4.5;0.3;3.0;3.3;1.3;0.3;0.5;1.8;0.5;0.7
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Josh Christopher;3;0;7.7;4.0;0.7;1.7;2.3;0.3;0.3;0.0;1.0;1.7;0.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Alperen Sengun;4;0;13.3;3.8;1.0;2.3;3.3;2.0;1.0;1.0;2.0;2.5;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;David Nwaba;2;0;11.0;3.5;1.0;3.0;4.0;1.0;1.0;0.5;1.0;0.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;D.J. Augustin;2;0;12.0;1.5;0.0;1.0;1.0;3.0;0.0;0.0;1.0;0.5;3.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Daishen Nix;1;0;2.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Usman Garuba;1;0;6.0;0.0;0.0;1.0;1.0;0.0;0.0;1.0;1.0;0.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Total;4;"";"";107.3;9.0;41.0;50.0;25.3;8.5;7.8;15.5;19.0;1.6
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Jalen Green;4;4;31.0;18.5;0.3;4.8;5.0;2.3;0.5;0.3;2.8;1.3;0.8
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Kevin Porter Jr.;3;3;28.7;13.7;1.0;2.0;3.0;7.7;0.3;0.3;2.0;2.3;3.8
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Christian Wood;4;4;31.0;13.0;0.8;11.0;11.8;2.3;0.8;1.3;1.8;1.8;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Jae'Sean Tate;4;4;23.5;12.8;1.0;3.5;4.5;2.0;1.0;0.3;1.8;4.3;1.1
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Kenyon Martin Jr.;4;0;21.0;12.3;1.0;1.5;2.5;1.3;0.8;0.8;1.0;1.5;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Dennis Schroder;2;0;26.0;12.0;0.0;2.0;2.0;5.5;3.5;1.0;3.0;2.0;1.8
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Alperen Sengun;4;0;19.3;11.8;1.5;3.5;5.0;2.0;0.8;0.5;2.3;2.5;0.9
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Garrison Mathews;3;2;24.7;10.7;0.3;0.7;1.0;1.7;1.7;0.0;0.3;2.3;5.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Daniel Theis;1;1;29.0;9.0;2.0;3.0;5.0;1.0;1.0;1.0;1.0;5.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Josh Christopher;4;0;15.5;7.8;0.8;1.8;2.5;2.0;0.5;0.3;1.0;0.8;2.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Eric Gordon;3;2;29.3;7.7;0.7;2.0;2.7;1.7;1.0;1.0;1.3;2.0;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Danuel House Jr.;1;0;16.0;5.0;0.0;3.0;3.0;1.0;1.0;0.0;1.0;1.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Daishen Nix;2;0;10.5;2.0;0.5;1.0;1.5;2.5;0.5;0.0;0.0;1.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Portland Trail Blazers;D.J. Augustin;2;0;10.0;0.0;0.5;0.0;0.5;0.5;0.0;0.0;1.0;0.0;0.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Armoni Brooks;1;0;7.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Bruno Fernando;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Total;4;"";"";110.5;7.8;32.8;40.5;24.8;9.0;5.0;16.0;20.3;1.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Utah Jazz;Christian Wood;4;4;32.5;16.3;2.3;7.8;10.0;3.5;1.5;1.0;1.5;1.8;2.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Utah Jazz;Jalen Green;4;4;31.8;15.0;0.3;2.5;2.8;2.3;1.0;0.8;2.3;1.3;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Utah Jazz;Garrison Mathews;3;1;32.0;14.7;0.7;3.3;4.0;0.7;0.7;0.3;0.3;3.0;2.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Utah Jazz;Eric Gordon;3;2;29.3;12.7;0.7;2.3;3.0;1.7;0.0;0.3;0.7;1.0;2.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Utah Jazz;Jae'Sean Tate;4;4;18.5;12.0;1.5;1.8;3.3;1.3;0.0;0.0;1.5;3.3;0.8
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Utah Jazz;Kevin Porter Jr.;4;4;29.8;11.0;0.8;1.8;2.5;7.5;1.3;0.0;1.8;3.0;4.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Utah Jazz;Kenyon Martin Jr.;4;0;24.3;10.5;0.8;3.3;4.0;1.5;0.3;0.5;0.8;1.3;2.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Utah Jazz;Alperen Sengun;4;0;18.5;8.8;1.3;2.3;3.5;1.3;1.5;0.3;1.5;3.5;0.8
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Utah Jazz;Daniel Theis;1;1;20.0;7.0;1.0;2.0;3.0;0.0;0.0;0.0;0.0;3.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Utah Jazz;D.J. Augustin;1;0;14.0;6.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;3.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Utah Jazz;Armoni Brooks;2;0;14.0;6.0;1.0;1.5;2.5;0.0;0.0;0.0;0.0;2.5;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Utah Jazz;David Nwaba;3;0;9.3;5.3;0.0;0.7;0.7;0.0;1.0;0.0;0.3;1.3;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Utah Jazz;Dennis Schroder;1;0;18.0;4.0;1.0;2.0;3.0;5.0;1.0;0.0;1.0;2.0;5.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Utah Jazz;Josh Christopher;4;0;14.3;3.5;0.8;1.3;2.0;1.3;0.3;0.0;0.5;0.0;2.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Utah Jazz;Bruno Fernando;1;0;4.0;0.0;1.0;0.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Utah Jazz;Usman Garuba;1;0;10.0;0.0;1.0;3.0;4.0;3.0;0.0;1.0;1.0;2.0;3.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Utah Jazz;Total;4;"";"";108.8;10.0;28.0;38.0;22.3;7.3;3.3;11.8;21.8;1.9
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Golden State Warriors;Christian Wood;3;3;30.3;15.7;1.0;8.7;9.7;2.3;2.7;1.0;3.7;2.7;0.6
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Golden State Warriors;Kevin Porter Jr.;3;3;31.3;15.0;0.0;1.0;1.0;8.7;1.3;0.0;3.0;2.0;2.9
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Golden State Warriors;Daniel Theis;1;1;21.0;14.0;2.0;3.0;5.0;2.0;1.0;1.0;3.0;1.0;0.7
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Golden State Warriors;Jae'Sean Tate;3;3;28.3;13.7;1.0;4.3;5.3;1.0;0.3;0.3;1.7;3.7;0.6
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Golden State Warriors;Garrison Mathews;2;0;23.5;11.5;0.0;4.0;4.0;0.5;1.0;0.0;1.0;2.5;0.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Golden State Warriors;D.J. Augustin;1;0;11.0;11.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Golden State Warriors;Eric Gordon;2;2;34.5;11.0;0.0;1.0;1.0;1.5;0.0;0.0;0.0;0.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Golden State Warriors;Kenyon Martin Jr.;3;0;21.0;10.0;3.0;1.3;4.3;1.3;1.0;0.3;0.3;1.7;4.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Golden State Warriors;Josh Christopher;3;0;17.3;7.7;0.3;1.3;1.7;2.3;0.3;0.3;0.7;0.7;3.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Golden State Warriors;Jalen Green;3;3;29.3;7.3;0.7;1.7;2.3;2.3;0.3;0.0;2.0;1.7;1.2
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Golden State Warriors;Alperen Sengun;3;0;14.3;6.3;1.3;3.7;5.0;1.3;0.0;0.3;2.7;1.0;0.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Golden State Warriors;David Nwaba;1;0;20.0;6.0;3.0;6.0;9.0;1.0;1.0;1.0;1.0;0.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Golden State Warriors;Armoni Brooks;2;0;15.0;6.0;0.5;1.5;2.0;1.0;1.0;0.0;0.0;2.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Golden State Warriors;Usman Garuba;1;0;5.0;3.0;1.0;1.0;2.0;0.0;1.0;0.0;0.0;0.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Golden State Warriors;Total;3;"";"";106.0;9.7;29.7;39.3;22.3;8.3;3.0;16.3;16.7;1.4
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. LA Clippers;Jalen Green;3;3;34.0;17.0;1.3;1.0;2.3;2.0;1.7;0.3;0.3;1.0;6.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. LA Clippers;Christian Wood;3;3;29.0;15.0;1.3;6.0;7.3;1.0;1.0;1.0;0.3;2.7;3.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. LA Clippers;Jae'Sean Tate;3;3;26.3;15.0;1.3;4.7;6.0;3.3;1.3;0.3;1.7;3.7;2.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. LA Clippers;Garrison Mathews;3;1;28.0;11.0;0.7;1.7;2.3;1.3;1.0;0.0;1.3;2.7;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. LA Clippers;Alperen Sengun;3;0;17.3;10.7;1.7;3.3;5.0;1.7;0.7;1.0;2.0;1.7;0.8
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. LA Clippers;Kenyon Martin Jr.;3;0;21.3;10.3;0.3;2.0;2.3;2.0;0.0;0.0;0.0;0.7;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. LA Clippers;Bruno Fernando;1;0;9.0;10.0;2.0;3.0;5.0;0.0;0.0;0.0;1.0;2.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. LA Clippers;Dennis Schroder;3;3;33.0;9.3;1.0;4.0;5.0;8.3;0.3;0.0;4.0;3.3;2.1
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. LA Clippers;Eric Gordon;2;2;28.0;7.5;0.5;1.5;2.0;2.0;0.0;0.0;1.0;1.0;2.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. LA Clippers;Josh Christopher;3;0;20.3;5.7;0.3;3.7;4.0;4.0;2.0;0.0;1.3;1.7;3.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. LA Clippers;David Nwaba;2;0;13.0;1.0;2.5;0.0;2.5;0.5;0.0;0.0;0.5;1.5;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. LA Clippers;Total;3;"";"";103.0;10.7;28.3;39.0;25.3;8.0;2.7;12.3;19.7;2.1
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Jalen Green;4;4;36.5;21.8;0.5;2.5;3.0;4.3;0.8;0.3;3.8;2.3;1.1
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Christian Wood;3;3;35.0;21.3;0.7;11.0;11.7;2.7;1.3;0.3;2.3;3.0;1.1
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Eric Gordon;3;2;34.0;15.0;0.0;2.3;2.3;1.7;0.7;0.3;2.7;0.7;0.6
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Kenyon Martin Jr.;3;1;28.0;14.3;1.0;5.3;6.3;2.3;0.3;0.0;2.3;2.3;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Kevin Porter Jr.;4;4;36.8;14.0;1.8;5.0;6.8;7.8;2.3;0.8;4.0;3.5;1.9
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Jae'Sean Tate;2;2;26.5;13.0;2.5;3.0;5.5;1.5;0.5;2.0;3.0;3.0;0.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Dennis Schroder;1;0;23.0;12.0;0.0;1.0;1.0;6.0;0.0;0.0;1.0;2.0;6.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Alperen Sengun;4;2;25.3;12.0;2.5;4.3;6.8;2.0;1.5;0.8;3.3;3.8;0.6
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Josh Christopher;3;0;17.0;11.7;1.0;2.0;3.0;1.0;1.0;0.0;0.7;1.7;1.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Garrison Mathews;1;0;19.0;7.0;0.0;4.0;4.0;0.0;1.0;0.0;1.0;1.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Armoni Brooks;3;0;12.0;5.0;0.0;0.7;0.7;1.0;0.3;0.0;0.0;1.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Los Angeles Lakers;David Nwaba;4;1;17.8;4.0;0.3;3.0;3.3;0.3;0.5;1.3;0.5;1.0;0.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Los Angeles Lakers;D.J. Augustin;2;0;12.0;3.5;0.0;0.5;0.5;1.0;0.0;0.0;0.5;0.5;2.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Daniel Theis;1;1;21.0;3.0;1.0;3.0;4.0;0.0;0.0;0.0;0.0;2.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Usman Garuba;1;0;1.0;0.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Total;4;"";"";116.0;8.8;34.5;43.3;23.5;8.3;4.5;19.8;20.0;1.2
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Phoenix Suns;Dennis Schroder;2;1;33.0;20.0;0.5;4.0;4.5;7.5;0.5;0.5;3.5;3.5;2.1
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Phoenix Suns;Christian Wood;3;3;30.0;17.7;1.7;9.0;10.7;2.3;0.0;1.0;3.3;2.7;0.7
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Phoenix Suns;Kevin Porter Jr.;3;3;34.7;17.7;0.7;4.7;5.3;5.7;1.3;0.7;3.7;2.3;1.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Phoenix Suns;Jalen Green;4;4;33.3;16.8;0.3;2.3;2.5;2.3;0.5;0.3;2.8;3.0;0.8
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Phoenix Suns;Eric Gordon;3;1;29.7;14.7;0.0;2.0;2.0;2.0;0.3;0.7;2.7;1.7;0.8
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Phoenix Suns;Jae'Sean Tate;4;4;26.8;11.5;2.0;4.0;6.0;2.0;0.3;0.5;1.5;1.5;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Phoenix Suns;Alperen Sengun;4;2;24.5;11.0;2.0;5.8;7.8;3.8;1.5;0.5;1.3;3.5;3.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Phoenix Suns;Daniel Theis;1;1;18.0;8.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;1.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Phoenix Suns;Kenyon Martin Jr.;4;0;18.5;8.0;0.5;2.3;2.8;0.8;0.5;0.8;0.3;1.3;3.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Phoenix Suns;D.J. Augustin;1;0;12.0;6.0;1.0;1.0;2.0;3.0;0.0;0.0;1.0;0.0;3.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Phoenix Suns;Garrison Mathews;2;1;17.5;4.5;0.5;0.5;1.0;1.0;1.5;0.0;1.0;2.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Phoenix Suns;Danuel House Jr.;1;0;20.0;4.0;0.0;5.0;5.0;2.0;0.0;0.0;2.0;3.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Phoenix Suns;Josh Christopher;3;0;14.7;4.0;1.3;1.3;2.7;1.0;0.7;0.3;0.3;0.7;3.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Phoenix Suns;David Nwaba;3;0;13.3;3.7;1.0;1.7;2.7;1.0;1.0;0.0;0.3;1.3;3.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Phoenix Suns;Armoni Brooks;2;0;6.0;1.5;0.5;1.5;2.0;0.0;0.0;0.0;0.5;0.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Phoenix Suns;Daishen Nix;1;0;12.0;1.0;1.0;1.0;2.0;0.0;0.0;0.0;0.0;2.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Phoenix Suns;Usman Garuba;1;0;5.0;0.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Phoenix Suns;Total;4;"";"";108.3;9.5;33.8;43.3;23.3;6.3;4.3;17.0;20.0;1.4
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Sacramento Kings;Christian Wood;2;2;30.0;24.5;0.5;10.5;11.0;1.5;2.0;1.0;2.5;3.5;0.6
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Sacramento Kings;Kevin Porter Jr.;4;4;36.0;24.0;1.3;5.5;6.8;9.5;2.0;0.3;3.3;3.3;2.9
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Sacramento Kings;Jalen Green;4;4;34.5;22.8;0.8;3.3;4.0;2.8;0.3;0.0;1.3;2.5;2.2
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Sacramento Kings;Eric Gordon;2;2;30.5;15.5;0.0;5.5;5.5;1.5;0.0;0.0;1.0;1.0;1.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Sacramento Kings;Bruno Fernando;2;0;20.5;14.5;2.0;6.5;8.5;1.5;0.5;2.0;2.5;3.0;0.6
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Sacramento Kings;Jae'Sean Tate;4;4;27.3;12.3;2.0;3.5;5.5;3.5;1.0;0.3;1.8;4.5;2.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Sacramento Kings;D.J. Augustin;1;0;12.0;11.0;0.0;2.0;2.0;0.0;0.0;0.0;3.0;0.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Sacramento Kings;Garrison Mathews;4;2;26.5;10.5;0.5;1.8;2.3;0.5;0.8;0.5;0.5;4.3;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Sacramento Kings;Alperen Sengun;2;0;14.5;7.5;1.0;1.0;2.0;2.0;0.0;1.0;2.5;1.0;0.8
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Sacramento Kings;Kenyon Martin Jr.;4;0;21.3;6.5;1.3;3.8;5.0;0.3;0.3;0.8;1.0;1.3;0.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Sacramento Kings;Josh Christopher;4;0;18.3;4.0;1.8;1.0;2.8;2.5;1.8;0.0;2.3;1.5;1.1
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Sacramento Kings;Usman Garuba;2;2;27.5;4.0;2.5;8.0;10.5;1.5;0.0;1.0;0.5;2.0;3.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Sacramento Kings;Daishen Nix;2;0;16.0;2.0;0.5;1.5;2.0;1.5;0.0;0.0;1.5;2.5;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Sacramento Kings;Daniel Theis;1;0;6.0;0.0;1.0;1.0;2.0;0.0;0.0;1.0;1.0;2.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Sacramento Kings;Armoni Brooks;1;0;12.0;0.0;0.0;5.0;5.0;1.0;0.0;0.0;0.0;1.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Sacramento Kings;Total;4;"";"";116.8;11.0;37.3;48.3;24.0;7.3;4.5;16.3;24.5;1.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Dallas Mavericks;Christian Wood;3;3;29.3;16.0;1.0;9.0;10.0;1.7;0.7;0.3;1.7;3.3;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Dallas Mavericks;Daniel Theis;1;1;29.0;15.0;4.0;6.0;10.0;1.0;0.0;1.0;1.0;2.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Dallas Mavericks;Kevin Porter Jr.;4;4;28.5;13.0;0.5;3.3;3.8;5.3;0.5;0.5;3.3;4.3;1.6
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Dallas Mavericks;Josh Christopher;3;0;21.3;11.7;0.7;2.7;3.3;1.3;1.3;0.0;2.0;1.7;0.7
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Dallas Mavericks;Jae'Sean Tate;3;3;25.3;11.3;2.7;2.7;5.3;2.3;0.3;0.3;2.3;4.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Dallas Mavericks;Jalen Green;4;4;30.0;10.3;0.5;2.8;3.3;2.5;0.8;0.3;2.0;1.0;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Dallas Mavericks;Bruno Fernando;2;0;13.0;10.0;1.0;5.0;6.0;0.0;0.0;1.0;1.0;2.5;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Dallas Mavericks;Alperen Sengun;3;1;18.7;8.3;1.7;4.3;6.0;1.7;1.7;0.0;1.0;3.0;1.7
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Dallas Mavericks;Eric Gordon;4;3;23.0;8.3;0.0;1.0;1.0;2.3;1.0;0.3;0.3;0.5;9.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Dallas Mavericks;Danuel House Jr.;1;0;9.0;8.0;1.0;3.0;4.0;1.0;1.0;0.0;0.0;0.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Dallas Mavericks;Garrison Mathews;3;0;23.0;8.0;0.7;1.3;2.0;1.3;1.7;1.0;0.7;2.3;2.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Dallas Mavericks;Dennis Schroder;2;0;22.5;7.0;0.0;1.5;1.5;4.0;0.5;0.0;1.5;1.5;2.7
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Dallas Mavericks;Armoni Brooks;1;0;15.0;7.0;0.0;2.0;2.0;0.0;0.0;0.0;2.0;1.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Dallas Mavericks;David Nwaba;3;0;16.7;6.3;0.3;2.3;2.7;1.7;0.0;0.3;0.0;0.3;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Dallas Mavericks;Kenyon Martin Jr.;4;1;17.5;5.3;0.5;3.3;3.8;0.3;0.3;0.3;0.5;1.5;0.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Dallas Mavericks;D.J. Augustin;1;0;11.0;3.0;0.0;0.0;0.0;2.0;0.0;0.0;1.0;0.0;2.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Dallas Mavericks;Trevelin Queen;1;0;8.0;3.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Dallas Mavericks;Daishen Nix;3;0;5.7;0.3;0.3;1.3;1.7;1.3;0.3;0.0;0.0;0.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Dallas Mavericks;Usman Garuba;1;0;3.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Dallas Mavericks;Total;4;"";"";100.8;8.8;34.5;43.3;21.8;7.5;3.5;14.0;21.3;1.6
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Christian Wood;4;4;30.3;18.3;1.3;7.3;8.5;2.3;0.8;0.5;2.0;2.8;1.1
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Dennis Schroder;1;0;27.0;17.0;0.0;4.0;4.0;4.0;0.0;0.0;1.0;2.0;4.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Kevin Porter Jr.;3;3;28.3;16.7;0.0;3.0;3.0;3.7;1.0;1.0;2.7;1.0;1.4
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Jalen Green;3;3;29.7;15.7;1.0;3.3;4.3;2.0;0.3;0.0;1.7;1.7;1.2
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Eric Gordon;1;1;31.0;12.0;0.0;6.0;6.0;2.0;0.0;0.0;3.0;1.0;0.7
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Alperen Sengun;4;0;21.3;10.5;2.0;3.3;5.3;3.5;0.8;1.5;1.3;3.0;2.8
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Daniel Theis;2;2;19.5;9.0;1.0;4.5;5.5;0.0;0.0;1.0;3.0;1.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Armoni Brooks;2;0;22.0;9.0;1.0;2.5;3.5;3.0;0.0;0.0;0.5;1.0;6.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Kenyon Martin Jr.;4;0;19.5;8.8;0.5;2.8;3.3;1.0;0.3;0.5;0.5;1.0;2.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Garrison Mathews;4;2;21.3;7.8;0.3;1.0;1.3;1.5;0.5;0.3;0.5;2.3;3.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Jae'Sean Tate;4;4;23.5;7.3;2.5;3.3;5.8;2.0;1.5;0.3;1.5;3.8;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Josh Christopher;4;0;18.0;6.5;0.5;2.0;2.5;4.0;0.0;0.0;2.8;1.8;1.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Bruno Fernando;1;0;6.0;6.0;1.0;2.0;3.0;0.0;0.0;1.0;0.0;2.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Usman Garuba;1;0;9.0;5.0;2.0;4.0;6.0;2.0;0.0;0.0;0.0;1.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Daishen Nix;1;0;15.0;4.0;0.0;2.0;2.0;2.0;1.0;0.0;2.0;0.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Memphis Grizzlies;David Nwaba;3;0;7.3;3.3;0.3;1.3;1.7;0.3;0.0;0.0;0.3;1.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Memphis Grizzlies;D.J. Augustin;2;1;22.5;2.0;0.0;0.0;0.0;3.5;0.0;0.0;2.5;0.0;1.4
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Danuel House Jr.;1;0;13.0;2.0;0.0;4.0;4.0;0.0;1.0;1.0;1.0;0.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Total;4;"";"";107.3;9.8;34.3;44.0;24.5;5.3;4.8;16.8;19.8;1.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Eric Gordon;1;1;33.0;23.0;0.0;0.0;0.0;5.0;0.0;0.0;2.0;1.0;2.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Christian Wood;4;4;31.3;18.0;2.0;7.3;9.3;2.5;0.3;1.3;2.0;3.3;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Jalen Green;3;3;31.0;15.7;0.7;2.0;2.7;4.0;1.3;0.0;3.0;0.3;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. New Orleans Pelicans;David Nwaba;1;0;14.0;15.0;1.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Kevin Porter Jr.;3;3;32.0;13.7;1.3;3.0;4.3;6.0;0.3;0.7;4.7;3.3;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Jae'Sean Tate;4;4;28.8;12.3;1.0;3.8;4.8;2.8;1.0;0.5;3.5;4.8;0.8
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Garrison Mathews;4;2;29.5;12.3;1.0;2.5;3.5;1.8;0.0;0.3;0.5;2.0;3.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Daniel Theis;1;1;17.0;12.0;1.0;2.0;3.0;1.0;0.0;0.0;1.0;2.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. New Orleans Pelicans;D.J. Augustin;1;0;16.0;9.0;0.0;3.0;3.0;4.0;0.0;0.0;0.0;0.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Alperen Sengun;4;2;21.5;8.8;2.0;3.8;5.8;2.0;0.5;1.3;1.5;5.0;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Daishen Nix;1;0;22.0;8.0;1.0;1.0;2.0;5.0;0.0;0.0;2.0;0.0;2.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Josh Christopher;4;0;17.5;7.3;0.5;1.3;1.8;1.3;0.8;0.0;2.5;1.0;0.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Kenyon Martin Jr.;4;0;21.3;6.8;1.8;2.5;4.3;1.0;0.0;0.0;0.3;2.3;4.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Danuel House Jr.;1;0;20.0;6.0;1.0;1.0;2.0;3.0;0.0;0.0;3.0;2.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Usman Garuba;1;0;7.0;3.0;0.0;3.0;3.0;0.0;1.0;1.0;1.0;1.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Armoni Brooks;3;0;13.3;0.7;0.0;2.0;2.0;0.3;0.7;0.0;0.7;0.7;0.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Bruno Fernando;1;0;2.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;2.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Total;4;"";"";106.8;10.8;29.0;39.8;23.8;4.8;4.3;18.8;23.8;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. San Antonio Spurs;Christian Wood;3;3;29.0;17.0;2.0;7.7;9.7;0.7;0.7;1.0;2.7;2.3;0.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. San Antonio Spurs;Kevin Porter Jr.;4;4;25.8;16.3;0.5;4.8;5.3;4.8;0.5;0.3;2.3;2.0;2.1
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. San Antonio Spurs;Jalen Green;4;4;31.3;15.8;0.5;4.0;4.5;2.5;0.3;0.3;1.8;2.3;1.4
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. San Antonio Spurs;Eric Gordon;3;3;26.0;15.7;1.3;1.7;3.0;2.0;0.3;0.0;1.7;0.7;1.2
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. San Antonio Spurs;Josh Christopher;4;0;25.0;15.5;1.0;3.0;4.0;3.5;1.5;0.8;1.5;2.0;2.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. San Antonio Spurs;Alperen Sengun;3;1;27.0;14.7;2.7;2.0;4.7;1.7;1.0;2.7;3.0;2.7;0.6
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. San Antonio Spurs;Jae'Sean Tate;4;4;25.3;12.0;2.0;3.8;5.8;3.5;1.3;1.0;1.5;3.0;2.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. San Antonio Spurs;D.J. Augustin;1;0;20.0;9.0;0.0;3.0;3.0;3.0;0.0;0.0;0.0;1.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. San Antonio Spurs;Kenyon Martin Jr.;4;0;25.8;8.5;1.0;4.3;5.3;1.3;0.8;0.8;0.5;2.5;2.5
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. San Antonio Spurs;Daniel Theis;1;0;16.0;8.0;0.0;2.0;2.0;1.0;0.0;0.0;0.0;2.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. San Antonio Spurs;Daishen Nix;1;0;15.0;7.0;1.0;2.0;3.0;1.0;2.0;0.0;3.0;3.0;0.3
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. San Antonio Spurs;Usman Garuba;1;0;13.0;5.0;1.0;2.0;3.0;1.0;0.0;0.0;0.0;3.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. San Antonio Spurs;Garrison Mathews;4;1;20.8;2.5;0.0;2.0;2.0;1.0;0.3;0.3;0.3;1.5;4.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. San Antonio Spurs;David Nwaba;1;0;8.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. San Antonio Spurs;Armoni Brooks;2;0;13.5;1.5;0.5;0.0;0.5;0.0;0.5;0.5;0.5;0.5;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;vs. San Antonio Spurs;Total;4;"";"";114.5;10.3;32.8;43.0;21.3;6.8;6.3;14.5;20.0;1.5
+Houston Rockets;hou;2021 - 2022 Regular Season;October;Christian Wood;6;6;33.3;19.2;2.5;9.0;11.5;1.8;0.7;0.8;1.7;2.2;1.1
+Houston Rockets;hou;2021 - 2022 Regular Season;October;Eric Gordon;6;0;26.2;14.3;0.0;1.8;1.8;1.7;0.8;0.3;1.5;0.5;1.1
+Houston Rockets;hou;2021 - 2022 Regular Season;October;Jalen Green;6;6;31.8;13.0;0.2;3.8;4.0;3.0;1.0;0.7;2.2;1.3;1.4
+Houston Rockets;hou;2021 - 2022 Regular Season;October;Kevin Porter Jr.;6;6;29.7;12.5;1.2;3.0;4.2;5.0;1.3;0.3;5.3;3.3;0.9
+Houston Rockets;hou;2021 - 2022 Regular Season;October;Alperen Sengun;6;0;19.0;9.0;1.3;3.2;4.5;1.8;2.5;0.5;2.7;3.3;0.7
+Houston Rockets;hou;2021 - 2022 Regular Season;October;Jae'Sean Tate;6;6;24.0;8.2;1.8;4.7;6.5;2.3;0.5;0.5;2.0;3.2;1.2
+Houston Rockets;hou;2021 - 2022 Regular Season;October;Daniel Theis;6;6;22.0;7.5;1.3;3.7;5.0;0.5;0.0;0.3;0.3;2.5;1.5
+Houston Rockets;hou;2021 - 2022 Regular Season;October;Kenyon Martin Jr.;5;0;10.4;4.8;0.4;2.2;2.6;0.6;0.4;0.0;0.2;0.8;3.0
+Houston Rockets;hou;2021 - 2022 Regular Season;October;David Nwaba;6;0;13.3;4.0;0.5;2.5;3.0;1.2;0.8;0.2;0.7;1.5;1.8
+Houston Rockets;hou;2021 - 2022 Regular Season;October;Armoni Brooks;4;0;7.8;3.8;0.3;0.3;0.5;0.3;0.0;0.0;0.0;1.3;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;October;Danuel House Jr.;3;0;11.3;3.3;0.3;2.7;3.0;1.0;0.7;0.0;0.3;0.0;3.0
+Houston Rockets;hou;2021 - 2022 Regular Season;October;D.J. Augustin;6;0;12.0;2.8;0.0;0.2;0.2;1.5;0.2;0.0;1.0;1.0;1.5
+Houston Rockets;hou;2021 - 2022 Regular Season;October;Josh Christopher;5;0;5.6;2.6;0.2;0.6;0.8;0.6;0.6;0.0;0.8;0.2;0.8
+Houston Rockets;hou;2021 - 2022 Regular Season;October;Usman Garuba;4;0;6.5;1.0;0.8;1.3;2.0;1.0;0.3;1.0;0.5;0.8;2.0
+Houston Rockets;hou;2021 - 2022 Regular Season;October;Total;6;"";"";101.5;10.2;36.5;46.7;21.2;9.2;4.3;18.7;21.0;1.1
+Houston Rockets;hou;2021 - 2022 Regular Season;November;Christian Wood;14;14;32.4;15.8;1.6;10.2;11.9;2.5;0.5;1.1;2.1;2.6;1.2
+Houston Rockets;hou;2021 - 2022 Regular Season;November;Jalen Green;12;12;30.3;14.5;0.5;2.2;2.7;2.0;0.4;0.0;3.0;1.7;0.7
+Houston Rockets;hou;2021 - 2022 Regular Season;November;Kevin Porter Jr.;11;11;33.2;13.7;0.8;4.3;5.1;6.6;1.4;0.4;3.7;1.9;1.8
+Houston Rockets;hou;2021 - 2022 Regular Season;November;Jae'Sean Tate;14;14;28.9;12.8;2.1;4.3;6.4;2.2;0.8;0.5;1.8;3.1;1.2
+Houston Rockets;hou;2021 - 2022 Regular Season;November;Eric Gordon;11;6;30.8;12.7;0.3;1.9;2.2;2.8;0.5;0.8;2.5;1.2;1.1
+Houston Rockets;hou;2021 - 2022 Regular Season;November;Garrison Mathews;7;2;24.0;10.9;1.0;1.7;2.7;0.6;0.3;0.3;0.3;2.9;2.0
+Houston Rockets;hou;2021 - 2022 Regular Season;November;Daniel Theis;9;8;24.2;9.3;0.9;3.6;4.4;0.9;0.8;0.7;1.9;2.6;0.5
+Houston Rockets;hou;2021 - 2022 Regular Season;November;Alperen Sengun;13;2;17.8;8.3;1.5;3.5;4.9;2.8;0.5;0.5;1.7;2.8;1.7
+Houston Rockets;hou;2021 - 2022 Regular Season;November;Kenyon Martin Jr.;14;0;17.1;7.1;0.6;2.6;3.2;1.0;0.4;0.7;0.6;0.7;1.8
+Houston Rockets;hou;2021 - 2022 Regular Season;November;Danuel House Jr.;10;1;14.3;5.3;0.2;2.7;2.9;0.8;0.3;0.4;1.0;1.2;0.8
+Houston Rockets;hou;2021 - 2022 Regular Season;November;Armoni Brooks;12;0;12.1;5.3;0.3;1.2;1.4;0.7;0.7;0.1;0.3;1.3;2.7
+Houston Rockets;hou;2021 - 2022 Regular Season;November;D.J. Augustin;11;0;12.5;4.2;0.2;0.9;1.1;2.2;0.2;0.0;1.3;0.5;1.7
+Houston Rockets;hou;2021 - 2022 Regular Season;November;David Nwaba;9;0;10.7;4.1;0.6;2.6;3.1;0.3;0.6;0.3;0.4;0.7;0.8
+Houston Rockets;hou;2021 - 2022 Regular Season;November;Josh Christopher;7;0;8.3;2.9;0.1;0.7;0.9;1.1;0.4;0.0;0.6;0.6;2.0
+Houston Rockets;hou;2021 - 2022 Regular Season;November;Usman Garuba;3;0;6.3;2.7;1.0;2.3;3.3;0.7;0.3;0.0;0.0;0.3;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;November;Daishen Nix;1;0;2.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;November;Total;14;"";"";104.3;9.2;36.4;45.6;22.2;6.3;4.9;17.3;19.1;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;December;Jalen Green;3;3;30.3;20.0;0.0;2.0;2.0;2.7;1.3;0.3;2.0;2.0;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;December;Christian Wood;14;14;29.7;18.0;1.9;7.1;9.0;2.1;0.7;0.8;1.8;2.3;1.2
+Houston Rockets;hou;2021 - 2022 Regular Season;December;Eric Gordon;14;14;29.5;16.1;0.2;1.1;1.3;4.7;0.6;0.3;2.5;1.3;1.9
+Houston Rockets;hou;2021 - 2022 Regular Season;December;Jae'Sean Tate;14;13;27.5;14.2;1.3;3.4;4.7;4.2;1.3;0.7;1.9;4.0;2.3
+Houston Rockets;hou;2021 - 2022 Regular Season;December;Garrison Mathews;13;13;31.5;11.9;0.5;3.6;4.1;0.9;1.0;0.5;0.8;3.0;1.1
+Houston Rockets;hou;2021 - 2022 Regular Season;December;Kevin Porter Jr.;4;4;24.3;11.8;0.8;2.0;2.8;5.0;1.3;0.5;3.0;3.3;1.7
+Houston Rockets;hou;2021 - 2022 Regular Season;December;Armoni Brooks;15;8;25.7;9.7;0.3;2.6;2.9;2.3;0.7;0.4;0.9;1.9;2.6
+Houston Rockets;hou;2021 - 2022 Regular Season;December;Alperen Sengun;16;0;18.6;9.6;2.1;2.7;4.8;2.8;0.6;1.3;1.9;3.3;1.5
+Houston Rockets;hou;2021 - 2022 Regular Season;December;Kenyon Martin Jr.;14;0;21.4;9.3;1.4;2.5;3.9;1.8;0.4;0.4;0.6;1.6;3.1
+Houston Rockets;hou;2021 - 2022 Regular Season;December;Daniel Theis;6;4;21.5;9.0;1.7;4.7;6.3;1.0;0.3;0.8;1.2;1.8;0.9
+Houston Rockets;hou;2021 - 2022 Regular Season;December;Josh Christopher;16;2;20.6;8.9;0.9;1.5;2.4;2.2;0.9;0.1;1.9;1.7;1.1
+Houston Rockets;hou;2021 - 2022 Regular Season;December;D.J. Augustin;12;2;18.6;7.9;0.3;1.3;1.5;2.8;0.6;0.0;1.5;0.4;1.8
+Houston Rockets;hou;2021 - 2022 Regular Season;December;David Nwaba;12;3;15.9;6.3;1.4;3.5;4.9;0.8;0.6;0.8;0.5;1.7;1.5
+Houston Rockets;hou;2021 - 2022 Regular Season;December;Daishen Nix;2;0;14.5;5.5;0.0;1.5;1.5;1.5;1.5;0.0;1.5;0.5;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;December;Danuel House Jr.;3;0;18.7;4.7;0.3;1.3;1.7;2.7;0.0;0.3;2.3;1.3;1.1
+Houston Rockets;hou;2021 - 2022 Regular Season;December;Trevelin Queen;5;0;8.8;4.2;0.2;1.2;1.4;0.2;0.8;0.0;1.0;0.8;0.2
+Houston Rockets;hou;2021 - 2022 Regular Season;December;Usman Garuba;6;0;7.2;0.8;0.0;1.5;1.5;0.2;0.3;0.2;0.2;0.8;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;December;Total;16;"";"";111.6;9.9;29.4;39.4;24.6;7.7;5.3;15.3;21.6;1.6
+Houston Rockets;hou;2021 - 2022 Regular Season;January;Christian Wood;13;12;29.4;18.6;1.2;8.5;9.8;1.8;1.2;0.9;1.9;2.2;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;January;Kevin Porter Jr.;12;12;29.6;13.9;0.4;3.3;3.7;6.8;1.1;0.1;3.0;2.6;2.3
+Houston Rockets;hou;2021 - 2022 Regular Season;January;Eric Gordon;12;12;30.4;13.8;0.6;2.2;2.8;2.2;0.3;0.1;1.4;0.9;1.5
+Houston Rockets;hou;2021 - 2022 Regular Season;January;Jalen Green;14;14;29.1;13.1;0.6;3.4;3.9;2.0;0.2;0.0;1.9;1.2;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;January;Jae'Sean Tate;14;14;26.1;12.4;1.7;3.6;5.4;3.3;0.8;0.6;1.6;4.1;2.1
+Houston Rockets;hou;2021 - 2022 Regular Season;January;Garrison Mathews;13;2;25.8;11.6;0.2;3.1;3.2;1.2;0.6;0.2;0.7;2.9;1.7
+Houston Rockets;hou;2021 - 2022 Regular Season;January;Kenyon Martin Jr.;14;0;22.7;9.9;1.7;3.3;5.0;1.7;0.6;0.7;1.1;1.8;1.6
+Houston Rockets;hou;2021 - 2022 Regular Season;January;Josh Christopher;14;0;19.1;9.3;0.8;1.8;2.6;2.0;1.0;0.3;1.5;0.8;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;January;Daniel Theis;5;3;21.0;7.0;1.2;3.2;4.4;0.6;0.4;0.8;1.0;2.6;0.6
+Houston Rockets;hou;2021 - 2022 Regular Season;January;Alperen Sengun;7;0;15.1;6.7;1.4;2.0;3.4;1.4;0.3;0.9;2.3;1.3;0.6
+Houston Rockets;hou;2021 - 2022 Regular Season;January;David Nwaba;6;1;17.0;6.7;0.7;3.3;4.0;1.3;0.8;0.8;0.2;1.0;8.0
+Houston Rockets;hou;2021 - 2022 Regular Season;January;Trevelin Queen;3;0;8.3;5.3;1.3;1.0;2.3;0.7;0.3;0.0;0.7;0.7;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;January;D.J. Augustin;5;0;15.4;4.8;0.4;1.6;2.0;1.6;0.0;0.0;1.4;0.2;1.1
+Houston Rockets;hou;2021 - 2022 Regular Season;January;Armoni Brooks;7;0;13.4;3.9;0.6;1.6;2.1;0.9;0.1;0.0;0.6;1.3;1.5
+Houston Rockets;hou;2021 - 2022 Regular Season;January;Daishen Nix;5;0;7.2;3.8;0.2;1.2;1.4;1.2;0.8;0.0;1.2;0.4;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;January;Usman Garuba;2;0;8.5;1.0;1.5;2.0;3.5;0.5;1.5;0.5;0.0;0.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;January;Total;14;"";"";111.4;9.4;33.4;42.7;22.6;6.8;3.9;15.2;18.6;1.5
+Houston Rockets;hou;2021 - 2022 Regular Season;February;Christian Wood;9;9;30.7;17.0;2.0;6.9;8.9;2.4;0.7;0.8;1.8;3.3;1.4
+Houston Rockets;hou;2021 - 2022 Regular Season;February;Jalen Green;10;10;32.2;16.5;0.2;2.3;2.5;2.7;1.4;0.3;1.5;1.8;1.8
+Houston Rockets;hou;2021 - 2022 Regular Season;February;Kevin Porter Jr.;7;7;28.6;14.3;0.9;2.4;3.3;5.4;1.0;0.1;2.3;2.1;2.4
+Houston Rockets;hou;2021 - 2022 Regular Season;February;Jae'Sean Tate;10;10;29.5;13.5;1.4;3.9;5.3;3.1;1.6;0.5;2.4;4.1;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;February;Eric Gordon;6;6;29.8;12.5;0.3;1.8;2.2;1.7;0.2;0.3;0.8;1.7;2.0
+Houston Rockets;hou;2021 - 2022 Regular Season;February;Garrison Mathews;10;2;26.0;11.7;1.0;1.8;2.8;1.3;0.9;0.3;0.8;2.4;1.6
+Houston Rockets;hou;2021 - 2022 Regular Season;February;Dennis Schroder;5;3;30.4;11.4;1.0;3.6;4.6;7.8;0.6;0.2;3.0;3.4;2.6
+Houston Rockets;hou;2021 - 2022 Regular Season;February;Alperen Sengun;10;3;22.2;9.6;1.7;4.1;5.8;2.7;0.7;1.3;2.4;3.1;1.1
+Houston Rockets;hou;2021 - 2022 Regular Season;February;Kenyon Martin Jr.;10;0;22.3;9.5;1.0;2.6;3.6;0.8;0.2;0.0;1.0;1.0;0.8
+Houston Rockets;hou;2021 - 2022 Regular Season;February;Josh Christopher;10;0;16.8;6.5;1.0;1.8;2.8;1.7;0.8;0.1;1.1;1.4;1.5
+Houston Rockets;hou;2021 - 2022 Regular Season;February;Bruno Fernando;2;0;6.5;5.0;1.5;1.5;3.0;0.0;0.0;0.0;1.0;1.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;February;David Nwaba;5;0;11.2;3.2;1.4;0.8;2.2;0.6;0.4;0.0;0.6;1.4;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;February;Armoni Brooks;3;0;11.3;1.0;0.0;1.3;1.3;0.0;0.3;0.3;1.0;0.7;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;February;Total;10;"";"";108.7;10.4;28.4;38.8;23.5;7.6;3.7;15.2;22.1;1.5
+Houston Rockets;hou;2021 - 2022 Regular Season;March;Jalen Green;17;17;33.5;20.8;0.8;2.8;3.6;3.4;0.5;0.5;1.7;1.5;2.0
+Houston Rockets;hou;2021 - 2022 Regular Season;March;Christian Wood;12;12;30.5;19.6;0.9;8.9;9.8;2.8;1.0;1.2;1.8;2.5;1.6
+Houston Rockets;hou;2021 - 2022 Regular Season;March;Kevin Porter Jr.;16;16;32.4;16.5;0.5;4.4;4.9;6.3;0.8;0.7;2.4;2.8;2.7
+Houston Rockets;hou;2021 - 2022 Regular Season;March;Alperen Sengun;16;4;23.8;11.3;2.3;4.6;6.9;2.3;1.1;1.0;1.8;3.3;1.2
+Houston Rockets;hou;2021 - 2022 Regular Season;March;Dennis Schroder;10;1;25.3;10.6;0.1;2.6;2.7;4.9;0.9;0.2;2.4;2.1;2.0
+Houston Rockets;hou;2021 - 2022 Regular Season;March;Kenyon Martin Jr.;17;2;24.4;10.1;0.9;3.1;4.0;1.3;0.5;0.6;0.9;1.8;1.4
+Houston Rockets;hou;2021 - 2022 Regular Season;March;Jae'Sean Tate;15;15;21.9;9.1;1.8;3.3;5.1;1.9;0.6;0.4;1.7;3.5;1.2
+Houston Rockets;hou;2021 - 2022 Regular Season;March;Eric Gordon;8;8;26.9;9.1;0.0;1.8;1.8;1.4;0.5;0.0;1.8;1.0;0.8
+Houston Rockets;hou;2021 - 2022 Regular Season;March;Josh Christopher;17;0;20.8;8.9;0.6;2.6;3.2;2.8;1.0;0.2;1.9;1.6;1.5
+Houston Rockets;hou;2021 - 2022 Regular Season;March;Bruno Fernando;7;0;9.0;6.7;0.9;3.0;3.9;0.3;0.0;0.7;0.7;2.0;0.4
+Houston Rockets;hou;2021 - 2022 Regular Season;March;Garrison Mathews;17;9;23.4;5.6;0.2;1.5;1.8;0.8;1.2;0.4;0.5;1.9;1.8
+Houston Rockets;hou;2021 - 2022 Regular Season;March;David Nwaba;7;0;10.1;5.4;0.6;0.7;1.3;0.6;0.4;0.1;0.4;1.0;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;March;Usman Garuba;4;1;12.3;4.0;0.5;3.0;3.5;0.3;0.3;0.3;0.3;1.5;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;March;Daishen Nix;12;0;12.2;3.2;0.3;1.3;1.6;1.8;0.6;0.0;0.8;1.2;2.4
+Houston Rockets;hou;2021 - 2022 Regular Season;March;Trevelin Queen;2;0;2.5;3.0;1.0;0.0;1.0;0.5;0.0;0.5;0.0;0.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;March;Total;17;"";"";112.5;8.5;33.1;41.6;25.2;7.5;5.1;14.9;21.5;1.7
+Houston Rockets;hou;2021 - 2022 Regular Season;April;Kevin Porter Jr.;5;5;39.0;29.0;1.0;5.0;6.0;6.6;1.8;0.2;3.4;2.4;1.9
+Houston Rockets;hou;2021 - 2022 Regular Season;April;Jalen Green;5;5;38.6;28.6;0.6;4.0;4.6;2.8;0.6;0.2;1.8;1.8;1.6
+Houston Rockets;hou;2021 - 2022 Regular Season;April;Alperen Sengun;4;4;34.0;13.5;3.5;5.0;8.5;5.0;0.3;0.8;2.0;3.5;2.5
+Houston Rockets;hou;2021 - 2022 Regular Season;April;Josh Christopher;5;0;25.8;13.0;0.8;3.0;3.8;2.4;1.2;0.4;2.2;2.4;1.1
+Houston Rockets;hou;2021 - 2022 Regular Season;April;Bruno Fernando;1;0;18.0;12.0;2.0;5.0;7.0;1.0;1.0;3.0;2.0;2.0;0.5
+Houston Rockets;hou;2021 - 2022 Regular Season;April;Garrison Mathews;5;5;28.0;11.2;0.6;3.0;3.6;1.2;1.0;0.8;0.6;2.8;2.0
+Houston Rockets;hou;2021 - 2022 Regular Season;April;Jae'Sean Tate;5;5;26.6;9.4;2.2;2.0;4.2;2.4;0.8;0.2;1.0;3.4;2.4
+Houston Rockets;hou;2021 - 2022 Regular Season;April;Kenyon Martin Jr.;5;0;21.6;7.4;0.4;1.8;2.2;1.0;0.4;0.8;0.4;2.0;2.5
+Houston Rockets;hou;2021 - 2022 Regular Season;April;Usman Garuba;5;1;17.2;2.6;2.0;5.0;7.0;1.6;0.4;0.8;0.4;2.6;4.0
+Houston Rockets;hou;2021 - 2022 Regular Season;April;Daishen Nix;4;0;12.0;2.3;0.5;0.5;1.0;2.0;0.3;0.0;2.0;1.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;April;David Nwaba;1;0;13.0;2.0;1.0;1.0;2.0;1.0;1.0;1.0;0.0;0.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;April;Total;5;"";"";116.6;11.4;29.4;40.8;24.0;7.0;4.8;13.4;21.4;1.8
+Houston Rockets;hou;2021 - 2022 Regular Season;Atlantic Division;Kevin Porter Jr.;5;5;36.2;24.8;0.2;4.6;4.8;4.8;0.8;0.2;4.0;2.6;1.2
+Houston Rockets;hou;2021 - 2022 Regular Season;Atlantic Division;Jalen Green;8;8;33.4;17.1;0.8;2.9;3.6;1.5;0.4;0.4;3.3;0.9;0.5
+Houston Rockets;hou;2021 - 2022 Regular Season;Atlantic Division;Christian Wood;6;6;33.0;14.2;1.3;9.0;10.3;3.0;0.5;1.3;1.7;2.5;1.8
+Houston Rockets;hou;2021 - 2022 Regular Season;Atlantic Division;Garrison Mathews;9;6;26.3;11.9;0.9;3.7;4.6;0.9;0.6;0.2;0.8;2.7;1.1
+Houston Rockets;hou;2021 - 2022 Regular Season;Atlantic Division;Jae'Sean Tate;10;10;29.3;11.2;1.5;3.7;5.2;3.8;0.9;0.8;1.8;3.6;2.1
+Houston Rockets;hou;2021 - 2022 Regular Season;Atlantic Division;Eric Gordon;6;5;29.2;11.0;0.3;1.8;2.2;3.7;0.2;0.5;3.2;1.2;1.2
+Houston Rockets;hou;2021 - 2022 Regular Season;Atlantic Division;Josh Christopher;9;0;20.1;11.0;0.3;2.0;2.3;1.9;1.2;0.3;1.6;1.3;1.2
+Houston Rockets;hou;2021 - 2022 Regular Season;Atlantic Division;Daniel Theis;6;6;26.0;9.3;1.3;5.0;6.3;1.0;0.5;1.2;1.2;3.2;0.9
+Houston Rockets;hou;2021 - 2022 Regular Season;Atlantic Division;Kenyon Martin Jr.;9;0;22.7;9.3;1.3;3.0;4.3;1.7;0.4;0.7;1.1;1.7;1.5
+Houston Rockets;hou;2021 - 2022 Regular Season;Atlantic Division;Armoni Brooks;4;2;16.8;8.5;0.0;2.3;2.3;1.5;1.0;0.5;1.3;1.0;1.2
+Houston Rockets;hou;2021 - 2022 Regular Season;Atlantic Division;Alperen Sengun;8;2;22.9;7.9;1.6;3.0;4.6;3.5;0.8;0.6;1.4;3.4;2.5
+Houston Rockets;hou;2021 - 2022 Regular Season;Atlantic Division;D.J. Augustin;7;0;15.4;4.6;0.3;1.1;1.4;2.3;0.4;0.0;1.3;0.4;1.8
+Houston Rockets;hou;2021 - 2022 Regular Season;Atlantic Division;David Nwaba;7;0;8.9;4.0;0.9;1.3;2.1;0.6;0.3;0.3;0.1;0.6;4.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Atlantic Division;Trevelin Queen;1;0;3.0;3.0;1.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;Atlantic Division;Daishen Nix;4;0;7.0;2.0;0.3;0.5;0.8;0.8;0.5;0.0;1.5;0.5;0.5
+Houston Rockets;hou;2021 - 2022 Regular Season;Atlantic Division;Usman Garuba;4;0;8.5;1.8;1.5;1.5;3.0;1.0;0.8;0.8;0.0;1.3;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;Atlantic Division;Danuel House Jr.;3;0;7.7;0.7;0.0;0.7;0.7;0.0;0.0;0.0;0.7;0.7;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Atlantic Division;Total;10;"";"";104.7;9.2;31.6;40.8;22.2;6.3;5.3;0.0;19.5;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;Central Division;Christian Wood;9;9;32.1;21.8;2.2;7.8;10.0;2.8;0.6;0.8;1.9;3.0;1.5
+Houston Rockets;hou;2021 - 2022 Regular Season;Central Division;Jalen Green;5;5;29.2;19.0;0.4;3.2;3.6;3.2;0.6;0.6;1.2;1.4;2.7
+Houston Rockets;hou;2021 - 2022 Regular Season;Central Division;Kevin Porter Jr.;4;4;34.5;16.8;0.3;3.8;4.0;6.3;1.0;0.3;3.5;1.8;1.8
+Houston Rockets;hou;2021 - 2022 Regular Season;Central Division;Danuel House Jr.;2;0;17.5;13.0;0.5;2.5;3.0;1.5;0.5;1.0;1.0;1.0;1.5
+Houston Rockets;hou;2021 - 2022 Regular Season;Central Division;Eric Gordon;8;7;29.3;12.6;0.1;1.0;1.1;4.3;0.9;0.4;1.3;1.3;3.4
+Houston Rockets;hou;2021 - 2022 Regular Season;Central Division;Alperen Sengun;9;0;21.2;12.0;2.7;3.8;6.4;2.6;0.7;1.0;2.3;2.8;1.1
+Houston Rockets;hou;2021 - 2022 Regular Season;Central Division;Armoni Brooks;6;4;25.8;10.8;0.2;2.3;2.5;1.8;0.7;0.5;0.8;2.2;2.2
+Houston Rockets;hou;2021 - 2022 Regular Season;Central Division;Garrison Mathews;9;7;28.9;10.7;0.6;3.3;3.9;1.1;1.1;0.7;0.9;3.2;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;Central Division;Jae'Sean Tate;10;10;25.6;10.1;1.1;3.6;4.7;2.6;1.4;0.1;1.9;3.7;1.4
+Houston Rockets;hou;2021 - 2022 Regular Season;Central Division;Kenyon Martin Jr.;10;0;19.8;7.7;0.9;2.6;3.5;1.3;0.5;0.5;0.7;0.5;1.9
+Houston Rockets;hou;2021 - 2022 Regular Season;Central Division;Josh Christopher;9;1;18.0;7.1;0.7;1.8;2.4;2.1;0.8;0.1;2.1;1.6;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Central Division;David Nwaba;6;0;15.7;6.8;1.0;3.5;4.5;0.8;0.5;1.0;0.3;1.7;2.5
+Houston Rockets;hou;2021 - 2022 Regular Season;Central Division;Dennis Schroder;1;0;24.0;6.0;0.0;4.0;4.0;3.0;0.0;0.0;3.0;1.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Central Division;D.J. Augustin;7;1;17.6;5.9;0.4;1.1;1.6;2.6;0.7;0.0;2.1;0.4;1.2
+Houston Rockets;hou;2021 - 2022 Regular Season;Central Division;Daniel Theis;2;2;22.5;5.5;0.5;4.5;5.0;1.0;1.0;1.0;1.5;3.5;0.7
+Houston Rockets;hou;2021 - 2022 Regular Season;Central Division;Daishen Nix;1;0;11.0;2.0;0.0;2.0;2.0;1.0;2.0;0.0;1.0;0.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Central Division;Trevelin Queen;3;0;3.7;1.3;0.0;0.3;0.3;0.3;0.0;0.0;0.0;0.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;Central Division;Usman Garuba;4;0;7.0;0.8;0.0;1.0;1.0;0.3;0.5;0.0;0.3;0.8;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Central Division;Total;10;"";"";110.4;9.1;31.9;41.0;23.6;8.0;4.9;0.0;20.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;Pacific Division;Christian Wood;14;14;31.0;18.4;1.1;8.9;10.0;2.0;1.4;0.9;2.4;2.9;0.8
+Houston Rockets;hou;2021 - 2022 Regular Season;Pacific Division;Kevin Porter Jr.;14;14;34.9;17.9;1.0;4.2;5.2;8.0;1.8;0.4;3.5;2.9;2.3
+Houston Rockets;hou;2021 - 2022 Regular Season;Pacific Division;Jalen Green;18;18;33.7;17.7;0.7;2.2;2.9;2.8;0.7;0.2;2.1;2.2;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;Pacific Division;Dennis Schroder;6;4;31.5;13.3;0.7;3.5;4.2;7.7;0.3;0.2;3.3;3.2;2.3
+Houston Rockets;hou;2021 - 2022 Regular Season;Pacific Division;Eric Gordon;12;9;31.4;13.1;0.1;2.4;2.5;1.8;0.3;0.3;1.7;0.9;1.1
+Houston Rockets;hou;2021 - 2022 Regular Season;Pacific Division;Bruno Fernando;3;0;16.7;13.0;2.0;5.3;7.3;1.0;0.3;1.3;2.0;2.7;0.5
+Houston Rockets;hou;2021 - 2022 Regular Season;Pacific Division;Jae'Sean Tate;16;16;27.1;12.9;1.8;3.9;5.7;2.4;0.7;0.6;1.8;3.3;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;Pacific Division;Alperen Sengun;16;4;20.2;9.9;1.8;3.9;5.8;2.3;0.9;0.7;2.3;2.4;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Pacific Division;Kenyon Martin Jr.;17;1;21.8;9.5;1.2;2.9;4.1;1.2;0.4;0.4;0.8;1.4;1.6
+Houston Rockets;hou;2021 - 2022 Regular Season;Pacific Division;Garrison Mathews;12;4;24.3;9.5;0.4;2.1;2.5;0.8;1.0;0.2;0.9;2.9;0.8
+Houston Rockets;hou;2021 - 2022 Regular Season;Pacific Division;D.J. Augustin;5;0;11.8;7.0;0.2;0.8;1.0;1.0;0.0;0.0;1.2;0.2;0.8
+Houston Rockets;hou;2021 - 2022 Regular Season;Pacific Division;Josh Christopher;16;0;17.6;6.4;1.0;1.8;2.8;2.2;1.2;0.1;1.1;1.3;1.9
+Houston Rockets;hou;2021 - 2022 Regular Season;Pacific Division;Daniel Theis;4;3;16.8;6.3;1.0;2.0;3.0;0.5;0.3;0.5;1.3;1.5;0.4
+Houston Rockets;hou;2021 - 2022 Regular Season;Pacific Division;Danuel House Jr.;1;0;20.0;4.0;0.0;5.0;5.0;2.0;0.0;0.0;2.0;3.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Pacific Division;Armoni Brooks;8;0;11.1;3.8;0.3;1.6;1.9;0.8;0.4;0.0;0.1;1.0;6.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Pacific Division;David Nwaba;10;1;15.7;3.5;1.2;2.3;3.5;0.6;0.6;0.6;0.5;1.1;1.2
+Houston Rockets;hou;2021 - 2022 Regular Season;Pacific Division;Usman Garuba;5;2;13.4;2.2;1.4;3.8;5.2;0.6;0.2;0.4;0.2;0.8;3.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Pacific Division;Daishen Nix;3;0;14.3;1.7;0.7;1.3;2.0;1.0;0.0;0.0;1.0;2.3;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Pacific Division;Total;18;"";"";110.6;9.9;33.1;43.0;23.7;7.6;3.9;0.0;20.4;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;Southeast Division;Jalen Green;6;6;32.3;23.2;0.0;3.7;3.7;2.7;1.0;0.2;0.7;2.2;4.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Southeast Division;Christian Wood;8;8;32.4;22.6;2.1;8.3;10.4;2.6;0.9;0.6;1.8;2.0;1.5
+Houston Rockets;hou;2021 - 2022 Regular Season;Southeast Division;Eric Gordon;8;8;29.8;19.8;0.1;1.1;1.3;3.1;0.6;0.1;2.0;1.8;1.6
+Houston Rockets;hou;2021 - 2022 Regular Season;Southeast Division;Kevin Porter Jr.;8;8;31.8;14.0;0.9;4.1;5.0;5.3;1.1;0.3;2.4;2.4;2.2
+Houston Rockets;hou;2021 - 2022 Regular Season;Southeast Division;Jae'Sean Tate;9;8;28.1;12.4;2.0;3.4;5.4;3.6;1.1;0.9;1.3;3.9;2.7
+Houston Rockets;hou;2021 - 2022 Regular Season;Southeast Division;D.J. Augustin;3;0;14.7;11.0;0.0;1.3;1.3;2.3;0.3;0.0;0.3;1.3;7.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Southeast Division;Garrison Mathews;8;5;27.5;9.9;0.5;2.8;3.3;0.4;1.3;0.5;0.4;2.4;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Southeast Division;Dennis Schroder;2;0;25.0;9.0;0.5;3.0;3.5;5.5;0.5;0.0;2.5;3.5;2.2
+Houston Rockets;hou;2021 - 2022 Regular Season;Southeast Division;Kenyon Martin Jr.;9;0;20.0;8.7;1.0;1.9;2.9;1.0;0.4;0.3;1.0;2.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Southeast Division;Alperen Sengun;9;2;21.2;8.3;1.9;3.4;5.3;3.9;0.3;1.6;2.3;2.9;1.7
+Houston Rockets;hou;2021 - 2022 Regular Season;Southeast Division;Armoni Brooks;5;2;23.6;8.2;0.4;2.2;2.6;2.2;0.4;0.0;0.6;2.0;3.7
+Houston Rockets;hou;2021 - 2022 Regular Season;Southeast Division;David Nwaba;6;2;15.5;6.2;1.8;3.7;5.5;1.2;1.2;0.3;1.0;1.8;1.2
+Houston Rockets;hou;2021 - 2022 Regular Season;Southeast Division;Daniel Theis;1;0;22.0;6.0;3.0;1.0;4.0;1.0;0.0;0.0;1.0;0.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Southeast Division;Daishen Nix;3;0;17.3;6.0;0.0;1.3;1.3;2.3;1.3;0.0;1.3;1.3;1.8
+Houston Rockets;hou;2021 - 2022 Regular Season;Southeast Division;Trevelin Queen;3;0;12.0;5.7;0.7;1.7;2.3;0.3;1.3;0.3;1.7;1.3;0.2
+Houston Rockets;hou;2021 - 2022 Regular Season;Southeast Division;Josh Christopher;9;1;17.4;5.4;0.6;1.6;2.1;1.9;0.4;0.2;1.1;1.3;1.7
+Houston Rockets;hou;2021 - 2022 Regular Season;Southeast Division;Bruno Fernando;1;0;3.0;4.0;1.0;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Southeast Division;Danuel House Jr.;2;0;17.5;3.0;0.0;2.0;2.0;2.0;0.0;0.0;0.0;2.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;Southeast Division;Usman Garuba;2;0;13.0;1.0;0.0;5.5;5.5;0.5;0.0;0.5;0.0;2.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;Southeast Division;Total;10;"";"";116.5;9.8;31.3;41.1;25.0;7.7;4.5;0.0;22.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;Southwest Division;Christian Wood;14;14;30.1;17.4;1.6;7.7;9.3;1.9;0.6;0.8;2.1;2.9;0.9
+Houston Rockets;hou;2021 - 2022 Regular Season;Southwest Division;Kevin Porter Jr.;14;14;28.4;14.9;0.6;3.6;4.1;4.9;0.6;0.6;3.1;2.7;1.6
+Houston Rockets;hou;2021 - 2022 Regular Season;Southwest Division;Jalen Green;14;14;30.5;14.1;0.6;3.1;3.7;2.7;0.6;0.1;2.1;1.4;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;Southwest Division;Eric Gordon;9;8;26.1;12.8;0.4;1.7;2.1;2.4;0.6;0.1;1.2;0.7;2.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Southwest Division;Jae'Sean Tate;15;15;25.7;10.7;2.0;3.4;5.4;2.7;1.1;0.5;2.2;3.9;1.2
+Houston Rockets;hou;2021 - 2022 Regular Season;Southwest Division;Daniel Theis;5;4;20.2;10.6;1.4;3.8;5.2;0.6;0.0;0.6;1.6;1.6;0.4
+Houston Rockets;hou;2021 - 2022 Regular Season;Southwest Division;Alperen Sengun;14;4;22.0;10.4;2.1;3.4;5.4;2.3;0.9;1.4;1.6;3.5;1.4
+Houston Rockets;hou;2021 - 2022 Regular Season;Southwest Division;Dennis Schroder;3;0;24.0;10.3;0.0;2.3;2.3;4.0;0.3;0.0;1.3;1.7;3.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Southwest Division;Josh Christopher;15;0;20.3;10.1;0.7;2.2;2.9;2.6;0.9;0.2;2.2;1.6;1.2
+Houston Rockets;hou;2021 - 2022 Regular Season;Southwest Division;Garrison Mathews;15;5;23.7;7.6;0.5;1.7;2.2;1.4;0.5;0.4;0.5;2.0;3.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Southwest Division;Kenyon Martin Jr.;16;1;20.9;7.3;0.9;3.2;4.1;0.9;0.3;0.4;0.4;1.8;2.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Southwest Division;Bruno Fernando;4;0;8.5;6.5;0.8;3.3;4.0;0.0;0.0;0.8;0.5;2.3;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Southwest Division;David Nwaba;8;0;11.6;5.8;0.4;1.5;1.9;0.9;0.1;0.3;0.3;0.6;3.5
+Houston Rockets;hou;2021 - 2022 Regular Season;Southwest Division;Danuel House Jr.;3;0;14.0;5.3;0.7;2.7;3.3;1.3;0.7;0.3;1.3;0.7;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Southwest Division;D.J. Augustin;5;1;18.6;5.0;0.0;1.2;1.2;3.2;0.0;0.0;1.2;0.2;2.7
+Houston Rockets;hou;2021 - 2022 Regular Season;Southwest Division;Armoni Brooks;8;0;15.6;3.8;0.4;1.6;2.0;0.9;0.4;0.1;0.8;0.8;1.2
+Houston Rockets;hou;2021 - 2022 Regular Season;Southwest Division;Daishen Nix;6;0;11.3;3.3;0.5;1.5;2.0;2.0;0.7;0.0;1.2;0.5;1.7
+Houston Rockets;hou;2021 - 2022 Regular Season;Southwest Division;Usman Garuba;4;0;8.0;3.3;0.8;2.5;3.3;0.8;0.3;0.3;0.3;1.3;3.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Southwest Division;Trevelin Queen;1;0;8.0;3.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Southwest Division;Total;16;"";"";107.3;9.9;32.6;42.5;22.8;6.1;4.7;0.0;21.2;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;Northwest Division;Jalen Green;16;16;31.1;16.9;0.3;3.1;3.3;2.8;0.7;0.4;2.0;1.1;1.4
+Houston Rockets;hou;2021 - 2022 Regular Season;Northwest Division;Christian Wood;17;16;29.0;14.9;1.6;9.0;10.6;2.2;0.7;1.3;1.3;1.9;1.7
+Houston Rockets;hou;2021 - 2022 Regular Season;Northwest Division;Jae'Sean Tate;18;18;24.2;12.6;1.8;3.7;5.6;2.7;0.7;0.4;1.6;3.8;1.7
+Houston Rockets;hou;2021 - 2022 Regular Season;Northwest Division;Eric Gordon;14;9;29.3;12.0;0.4;1.9;2.3;2.1;0.5;0.5;2.2;1.1;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Northwest Division;Kevin Porter Jr.;16;16;28.0;11.8;0.8;2.8;3.5;6.5;1.2;0.3;2.9;2.4;2.3
+Houston Rockets;hou;2021 - 2022 Regular Season;Northwest Division;Garrison Mathews;12;6;29.0;11.7;0.3;1.8;2.1;1.1;1.0;0.3;0.4;2.6;2.6
+Houston Rockets;hou;2021 - 2022 Regular Season;Northwest Division;Kenyon Martin Jr.;18;0;20.5;9.9;0.8;2.6;3.4;1.6;0.5;0.7;0.8;1.2;2.1
+Houston Rockets;hou;2021 - 2022 Regular Season;Northwest Division;Dennis Schroder;3;0;23.3;9.3;0.3;2.0;2.3;5.3;2.7;0.7;2.3;2.0;2.3
+Houston Rockets;hou;2021 - 2022 Regular Season;Northwest Division;Alperen Sengun;16;1;18.3;8.9;1.6;3.5;5.1;1.9;1.1;0.6;2.0;3.0;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Northwest Division;Daniel Theis;8;6;24.0;8.4;1.1;3.9;5.0;0.8;0.6;0.4;0.9;2.8;0.9
+Houston Rockets;hou;2021 - 2022 Regular Season;Northwest Division;Trevelin Queen;2;0;8.5;8.0;2.0;1.0;3.0;0.5;0.5;0.0;1.0;0.5;0.5
+Houston Rockets;hou;2021 - 2022 Regular Season;Northwest Division;Josh Christopher;16;0;15.5;7.5;0.8;1.5;2.3;1.4;0.7;0.1;1.3;0.9;1.2
+Houston Rockets;hou;2021 - 2022 Regular Season;Northwest Division;Armoni Brooks;10;0;13.5;5.4;0.4;0.9;1.3;0.8;0.5;0.2;0.3;1.9;2.7
+Houston Rockets;hou;2021 - 2022 Regular Season;Northwest Division;David Nwaba;9;1;12.4;5.1;0.3;2.6;2.9;0.7;1.0;0.2;0.6;1.6;1.2
+Houston Rockets;hou;2021 - 2022 Regular Season;Northwest Division;Danuel House Jr.;5;1;15.4;4.6;0.2;3.0;3.2;1.2;0.4;0.4;1.6;0.6;0.8
+Houston Rockets;hou;2021 - 2022 Regular Season;Northwest Division;Daishen Nix;7;0;8.3;3.4;0.1;0.7;0.9;2.0;0.4;0.0;0.7;0.7;2.8
+Houston Rockets;hou;2021 - 2022 Regular Season;Northwest Division;Usman Garuba;5;0;10.4;2.4;1.0;2.4;3.4;1.0;0.6;0.8;0.6;1.4;1.7
+Houston Rockets;hou;2021 - 2022 Regular Season;Northwest Division;D.J. Augustin;7;0;11.9;2.3;0.1;0.6;0.7;1.7;0.1;0.0;1.1;0.7;1.5
+Houston Rockets;hou;2021 - 2022 Regular Season;Northwest Division;Bruno Fernando;2;0;3.5;0.0;0.5;0.0;0.5;0.0;0.0;0.0;0.5;0.5;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Northwest Division;Total;18;"";"";109.6;9.4;33.0;42.4;24.1;8.2;5.0;0.0;20.6;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;Eastern Conference;Christian Wood;23;23;32.4;20.1;2.0;8.3;10.2;2.8;0.7;0.9;1.8;2.5;1.6
+Houston Rockets;hou;2021 - 2022 Regular Season;Eastern Conference;Jalen Green;19;19;31.9;19.5;0.4;3.2;3.6;2.3;0.6;0.4;1.9;1.4;1.2
+Houston Rockets;hou;2021 - 2022 Regular Season;Eastern Conference;Kevin Porter Jr.;17;17;33.7;17.8;0.5;4.2;4.7;5.4;1.0;0.2;3.1;2.3;1.7
+Houston Rockets;hou;2021 - 2022 Regular Season;Eastern Conference;Eric Gordon;22;20;29.4;14.8;0.2;1.3;1.5;3.7;0.6;0.3;2.0;1.4;1.8
+Houston Rockets;hou;2021 - 2022 Regular Season;Eastern Conference;Jae'Sean Tate;29;28;27.7;11.2;1.5;3.6;5.1;3.3;1.1;0.6;1.7;3.7;2.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Eastern Conference;Garrison Mathews;26;18;27.6;10.8;0.7;3.3;3.9;0.8;1.0;0.5;0.7;2.8;1.2
+Houston Rockets;hou;2021 - 2022 Regular Season;Eastern Conference;Alperen Sengun;26;4;21.7;9.5;2.1;3.4;5.5;3.3;0.6;1.1;2.0;3.0;1.6
+Houston Rockets;hou;2021 - 2022 Regular Season;Eastern Conference;Armoni Brooks;15;8;22.7;9.3;0.2;2.3;2.5;1.9;0.7;0.3;0.9;1.8;2.2
+Houston Rockets;hou;2021 - 2022 Regular Season;Eastern Conference;Kenyon Martin Jr.;28;0;20.8;8.5;1.1;2.5;3.6;1.3;0.5;0.5;0.9;1.4;1.4
+Houston Rockets;hou;2021 - 2022 Regular Season;Eastern Conference;Daniel Theis;9;8;24.9;8.1;1.3;4.4;5.8;1.0;0.6;1.0;1.2;2.9;0.8
+Houston Rockets;hou;2021 - 2022 Regular Season;Eastern Conference;Dennis Schroder;3;0;24.7;8.0;0.3;3.3;3.7;4.7;0.3;0.0;2.7;2.7;1.8
+Houston Rockets;hou;2021 - 2022 Regular Season;Eastern Conference;Josh Christopher;27;2;18.5;7.9;0.5;1.8;2.3;2.0;0.8;0.2;1.6;1.4;1.2
+Houston Rockets;hou;2021 - 2022 Regular Season;Eastern Conference;D.J. Augustin;17;1;16.2;6.2;0.3;1.2;1.5;2.4;0.5;0.0;1.5;0.6;1.6
+Houston Rockets;hou;2021 - 2022 Regular Season;Eastern Conference;David Nwaba;19;2;13.1;5.6;1.2;2.7;3.9;0.8;0.6;0.5;0.5;1.3;1.8
+Houston Rockets;hou;2021 - 2022 Regular Season;Eastern Conference;Danuel House Jr.;7;0;13.4;4.9;0.1;1.6;1.7;1.0;0.1;0.3;0.6;1.1;1.8
+Houston Rockets;hou;2021 - 2022 Regular Season;Eastern Conference;Bruno Fernando;1;0;3.0;4.0;1.0;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Eastern Conference;Daishen Nix;8;0;11.5;3.5;0.1;1.0;1.1;1.4;1.0;0.0;1.4;0.8;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Eastern Conference;Trevelin Queen;7;0;7.1;3.4;0.4;0.9;1.3;0.4;0.6;0.1;0.7;0.6;0.6
+Houston Rockets;hou;2021 - 2022 Regular Season;Eastern Conference;Usman Garuba;10;0;8.8;1.2;0.6;2.1;2.7;0.6;0.5;0.4;0.1;1.2;6.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Eastern Conference;Total;30;"";"";110.5;9.4;31.6;41.0;23.6;7.3;4.9;0.0;20.5;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;Western Conference;Christian Wood;45;44;30.0;16.8;1.4;8.6;10.0;2.0;0.9;1.0;1.9;2.5;1.1
+Houston Rockets;hou;2021 - 2022 Regular Season;Western Conference;Jalen Green;48;48;31.9;16.4;0.5;2.8;3.3;2.8;0.7;0.2;2.1;1.6;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;Western Conference;Kevin Porter Jr.;44;44;30.3;14.7;0.8;3.5;4.3;6.5;1.2;0.4;3.2;2.7;2.1
+Houston Rockets;hou;2021 - 2022 Regular Season;Western Conference;Eric Gordon;35;26;29.2;12.6;0.3;2.0;2.3;2.1;0.4;0.3;1.8;0.9;1.2
+Houston Rockets;hou;2021 - 2022 Regular Season;Western Conference;Jae'Sean Tate;49;49;25.6;12.1;1.9;3.7;5.6;2.6;0.8;0.5;1.8;3.6;1.4
+Houston Rockets;hou;2021 - 2022 Regular Season;Western Conference;Dennis Schroder;12;4;27.6;11.6;0.4;2.8;3.3;6.2;0.9;0.3;2.6;2.5;2.4
+Houston Rockets;hou;2021 - 2022 Regular Season;Western Conference;Alperen Sengun;46;9;20.1;9.7;1.8;3.6;5.4;2.2;1.0;0.9;2.0;3.0;1.1
+Houston Rockets;hou;2021 - 2022 Regular Season;Western Conference;Garrison Mathews;39;15;25.5;9.4;0.4;1.9;2.3;1.1;0.8;0.3;0.6;2.5;1.9
+Houston Rockets;hou;2021 - 2022 Regular Season;Western Conference;Kenyon Martin Jr.;51;2;21.1;9.0;1.0;2.9;3.9;1.3;0.4;0.5;0.7;1.5;1.9
+Houston Rockets;hou;2021 - 2022 Regular Season;Western Conference;Daniel Theis;17;13;21.2;8.5;1.2;3.4;4.6;0.6;0.4;0.5;1.2;2.1;0.6
+Houston Rockets;hou;2021 - 2022 Regular Season;Western Conference;Josh Christopher;47;0;17.7;8.0;0.8;1.8;2.6;2.1;0.9;0.1;1.5;1.3;1.4
+Houston Rockets;hou;2021 - 2022 Regular Season;Western Conference;Bruno Fernando;9;0;10.1;7.2;1.1;3.2;4.3;0.3;0.1;0.8;1.0;2.0;0.3
+Houston Rockets;hou;2021 - 2022 Regular Season;Western Conference;Trevelin Queen;3;0;8.3;6.3;1.3;1.0;2.3;0.3;0.3;0.0;0.7;0.7;0.5
+Houston Rockets;hou;2021 - 2022 Regular Season;Western Conference;Danuel House Jr.;9;1;15.4;4.8;0.3;3.1;3.4;1.3;0.4;0.3;1.6;0.9;0.9
+Houston Rockets;hou;2021 - 2022 Regular Season;Western Conference;David Nwaba;27;2;13.4;4.7;0.7;2.1;2.8;0.7;0.6;0.4;0.4;1.1;1.6
+Houston Rockets;hou;2021 - 2022 Regular Season;Western Conference;D.J. Augustin;17;1;13.8;4.5;0.1;0.8;0.9;1.9;0.1;0.0;1.2;0.4;1.7
+Houston Rockets;hou;2021 - 2022 Regular Season;Western Conference;Armoni Brooks;26;0;13.5;4.4;0.3;1.3;1.7;0.8;0.4;0.1;0.4;1.3;2.1
+Houston Rockets;hou;2021 - 2022 Regular Season;Western Conference;Daishen Nix;16;0;10.6;3.1;0.4;1.1;1.5;1.8;0.4;0.0;0.9;0.9;1.9
+Houston Rockets;hou;2021 - 2022 Regular Season;Western Conference;Usman Garuba;14;2;10.8;2.6;1.1;2.9;4.0;0.8;0.4;0.5;0.4;1.1;2.2
+Houston Rockets;hou;2021 - 2022 Regular Season;Western Conference;Total;52;"";"";109.3;9.7;32.9;42.6;23.5;7.3;4.5;0.0;20.7;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;Pre All-Star;Christian Wood;54;53;30.9;17.5;1.7;8.5;10.2;2.2;0.8;0.9;1.9;2.4;1.2
+Houston Rockets;hou;2021 - 2022 Regular Season;Pre All-Star;Jalen Green;43;43;30.4;14.6;0.4;2.7;3.1;2.3;0.6;0.2;2.2;1.6;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Pre All-Star;Eric Gordon;47;36;29.7;14.3;0.3;1.7;2.0;3.0;0.5;0.4;2.0;1.1;1.5
+Houston Rockets;hou;2021 - 2022 Regular Season;Pre All-Star;Kevin Porter Jr.;39;39;30.1;13.7;0.7;3.2;3.9;6.2;1.2;0.3;3.5;2.5;1.8
+Houston Rockets;hou;2021 - 2022 Regular Season;Pre All-Star;Jae'Sean Tate;56;55;27.4;12.6;1.7;3.9;5.6;3.1;0.9;0.6;1.9;3.7;1.6
+Houston Rockets;hou;2021 - 2022 Regular Season;Pre All-Star;Dennis Schroder;3;2;29.0;12.0;1.0;3.0;4.0;7.7;1.0;0.3;3.7;3.0;2.1
+Houston Rockets;hou;2021 - 2022 Regular Season;Pre All-Star;Garrison Mathews;41;19;27.4;11.4;0.6;2.8;3.4;1.0;0.7;0.3;0.7;2.9;1.5
+Houston Rockets;hou;2021 - 2022 Regular Season;Pre All-Star;Alperen Sengun;50;5;18.7;8.7;1.7;3.1;4.8;2.5;0.8;0.9;2.0;2.9;1.2
+Houston Rockets;hou;2021 - 2022 Regular Season;Pre All-Star;Kenyon Martin Jr.;55;0;19.9;8.6;1.1;2.7;3.9;1.3;0.4;0.5;0.8;1.3;1.7
+Houston Rockets;hou;2021 - 2022 Regular Season;Pre All-Star;Daniel Theis;26;21;22.5;8.4;1.2;3.8;5.0;0.8;0.4;0.7;1.2;2.4;0.6
+Houston Rockets;hou;2021 - 2022 Regular Season;Pre All-Star;Josh Christopher;50;2;16.5;7.4;0.7;1.4;2.1;1.7;0.8;0.1;1.4;1.1;1.2
+Houston Rockets;hou;2021 - 2022 Regular Season;Pre All-Star;Armoni Brooks;41;8;16.8;6.2;0.3;1.7;2.0;1.2;0.5;0.2;0.6;1.5;2.1
+Houston Rockets;hou;2021 - 2022 Regular Season;Pre All-Star;D.J. Augustin;34;2;15.0;5.4;0.2;1.0;1.2;2.2;0.3;0.0;1.3;0.5;1.6
+Houston Rockets;hou;2021 - 2022 Regular Season;Pre All-Star;David Nwaba;38;4;13.8;5.1;0.9;2.7;3.7;0.8;0.6;0.5;0.5;1.3;1.7
+Houston Rockets;hou;2021 - 2022 Regular Season;Pre All-Star;Bruno Fernando;2;0;6.5;5.0;1.5;1.5;3.0;0.0;0.0;0.0;1.0;1.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Pre All-Star;Danuel House Jr.;16;1;14.6;4.8;0.3;2.4;2.7;1.2;0.3;0.3;1.1;1.0;1.1
+Houston Rockets;hou;2021 - 2022 Regular Season;Pre All-Star;Trevelin Queen;8;0;8.6;4.6;0.6;1.1;1.8;0.4;0.6;0.0;0.9;0.8;0.4
+Houston Rockets;hou;2021 - 2022 Regular Season;Pre All-Star;Daishen Nix;8;0;8.4;3.8;0.1;1.1;1.3;1.3;0.9;0.0;1.1;0.4;1.1
+Houston Rockets;hou;2021 - 2022 Regular Season;Pre All-Star;Usman Garuba;15;0;7.0;1.3;0.6;1.7;2.3;0.5;0.5;0.4;0.2;0.6;2.7
+Houston Rockets;hou;2021 - 2022 Regular Season;Pre All-Star;Total;58;"";"";108.5;9.8;32.6;42.3;23.0;7.2;4.6;16.3;20.3;1.4
+Houston Rockets;hou;2021 - 2022 Regular Season;Post All-Star;Jalen Green;24;24;34.6;22.1;0.7;3.1;3.8;3.2;0.8;0.4;1.6;1.5;1.9
+Houston Rockets;hou;2021 - 2022 Regular Season;Post All-Star;Christian Wood;14;14;30.4;19.4;1.2;8.5;9.7;2.5;0.9;1.0;1.8;2.8;1.4
+Houston Rockets;hou;2021 - 2022 Regular Season;Post All-Star;Kevin Porter Jr.;22;22;33.4;18.9;0.6;4.5;5.1;6.1;1.0;0.5;2.5;2.6;2.4
+Houston Rockets;hou;2021 - 2022 Regular Season;Post All-Star;Alperen Sengun;22;8;25.1;11.6;2.5;4.5;7.0;2.7;0.9;1.0;2.0;3.2;1.4
+Houston Rockets;hou;2021 - 2022 Regular Season;Post All-Star;Dennis Schroder;12;2;26.5;10.6;0.3;2.9;3.2;5.4;0.8;0.2;2.3;2.4;2.3
+Houston Rockets;hou;2021 - 2022 Regular Season;Post All-Star;Jae'Sean Tate;22;22;23.7;9.6;1.8;3.1;4.9;2.3;0.9;0.4;1.4;3.5;1.7
+Houston Rockets;hou;2021 - 2022 Regular Season;Post All-Star;Eric Gordon;10;10;27.6;9.4;0.1;1.7;1.8;1.4;0.5;0.0;1.5;1.3;0.9
+Houston Rockets;hou;2021 - 2022 Regular Season;Post All-Star;Kenyon Martin Jr.;24;2;23.3;9.3;0.7;2.8;3.5;1.2;0.4;0.6;0.8;1.8;1.6
+Houston Rockets;hou;2021 - 2022 Regular Season;Post All-Star;Josh Christopher;24;0;21.1;9.0;0.6;2.7;3.3;2.6;1.0;0.3;1.8;1.8;1.4
+Houston Rockets;hou;2021 - 2022 Regular Season;Post All-Star;Garrison Mathews;24;14;24.5;7.5;0.3;1.8;2.1;0.9;1.2;0.4;0.5;2.0;1.8
+Houston Rockets;hou;2021 - 2022 Regular Season;Post All-Star;Bruno Fernando;8;0;10.1;7.4;1.0;3.3;4.3;0.4;0.1;1.0;0.9;2.0;0.4
+Houston Rockets;hou;2021 - 2022 Regular Season;Post All-Star;David Nwaba;8;0;10.5;5.0;0.6;0.8;1.4;0.6;0.5;0.3;0.4;0.9;1.7
+Houston Rockets;hou;2021 - 2022 Regular Season;Post All-Star;Usman Garuba;9;2;14.9;3.2;1.3;4.1;5.4;1.0;0.3;0.6;0.3;2.1;3.0
+Houston Rockets;hou;2021 - 2022 Regular Season;Post All-Star;Trevelin Queen;2;0;2.5;3.0;1.0;0.0;1.0;0.5;0.0;0.5;0.0;0.0;INF
+Houston Rockets;hou;2021 - 2022 Regular Season;Post All-Star;Daishen Nix;16;0;12.2;2.9;0.4;1.1;1.4;1.9;0.5;0.0;1.1;1.1;1.8
+Houston Rockets;hou;2021 - 2022 Regular Season;Post All-Star;Total;24;"";"";112.7;9.1;32.2;41.3;24.9;7.6;4.7;14.2;21.5;1.8
+Houston Rockets;hou;2021 - 2022 Regular Season;3+ Days Rest;Christian Wood;8;8;28.5;16.4;2.5;7.0;9.5;2.1;0.5;0.5;2.1;2.4;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;3+ Days Rest;Jalen Green;6;6;31.0;16.0;0.2;2.7;2.8;2.5;1.7;0.3;1.5;1.2;1.7
+Houston Rockets;hou;2021 - 2022 Regular Season;3+ Days Rest;Kevin Porter Jr.;9;9;31.3;13.2;0.7;3.7;4.3;7.8;1.4;0.1;4.2;2.6;1.8
+Houston Rockets;hou;2021 - 2022 Regular Season;3+ Days Rest;Jae'Sean Tate;6;5;22.3;13.2;1.8;2.5;4.3;2.2;1.2;0.3;1.3;4.2;1.6
+Houston Rockets;hou;2021 - 2022 Regular Season;3+ Days Rest;Eric Gordon;8;5;26.8;13.1;0.5;1.5;2.0;1.3;0.3;0.1;1.9;1.1;0.7
+Houston Rockets;hou;2021 - 2022 Regular Season;3+ Days Rest;Garrison Mathews;5;1;23.8;11.0;0.6;2.2;2.8;0.6;0.4;0.2;0.6;1.8;1.0
+Houston Rockets;hou;2021 - 2022 Regular Season;3+ Days Rest;Dennis Schroder;4;0;24.3;10.8;0.5;2.0;2.5;5.8;0.3;0.0;1.3;2.3;4.6
+Houston Rockets;hou;2021 - 2022 Regular Season;3+ Days Rest;Alperen Sengun;8;1;20.4;10.0;2.6;3.5;6.1;2.3;0.8;1.3;3.0;2.9;0.8
+Houston Rockets;hou;2021 - 2022 Regular Season;3+ Days Rest;Daniel Theis;9;7;21.9;9.0;1.6;3.7;5.2;0.8;0.6;0.6;1.2;1.8;0.6
+Houston Rockets;hou;2021 - 2022 Regular Season;3+ Days Rest;Bruno Fernando;5;0;11.6;8.6;1.2;4.0;5.2;0.4;0.0;1.0;1.0;2.0;0.4
+Houston Rockets;hou;2021 - 2022 Regular Season;3+ Days Rest;Kenyon Martin Jr.;6;0;17.3;7.8;1.2;2.0;3.2;0.5;0.5;0.0;0.7;0.5;0.8
+Houston Rockets;hou;2021 - 2022 Regular Season;3+ Days Rest;Trevelin Queen;5;0;9.2;5.2;0.4;1.2;1.6;0.0;0.8;0.0;1.0;1.0;0.0
+Houston Rockets;hou;2021 - 2022 Regular Season;3+ Days Rest;Danuel House Jr.;2;0;15.0;5.0;0.0;2.5;2.5;2.0;0.5;0.0;0.5;0.5;4.0
+Houston Rockets;hou;2021 - 2022 Regular Season;3+ Days Rest;Armoni Brooks;9;2;16.9;5.0;0.3;1.3;1.7;1.0;0.3;0.2;0.4;1.2;2.3
+Houston Rockets;hou;2021 - 2022 Regular Season;3+ Days Rest;Josh Christopher;9;1;12.6;4.2;0.3;0.8;1.1;1.2;0.6;0.0;1.0;0.3;1.2
+Houston Rockets;hou;2021 - 2022 Regular Season;3+ Days Rest;David Nwaba;11;1;9.3;3.5;0.7;1.9;2.6;0.5;0.5;0.0;0.6;1.5;0.7
+Houston Rockets;hou;2021 - 2022 Regular Season;3+ Days Rest;D.J. Augustin;6;0;13.2;2.3;0.3;0.8;1.2;1.7;0.3;0.0;1.3;0.3;1.3
+Houston Rockets;hou;2021 - 2022 Regular Season;3+ Days Rest;Daishen Nix;6;0;7.8;2.0;0.2;0.8;1.0;1.2;0.7;0.0;0.5;0.3;2.3
+Houston Rockets;hou;2021 - 2022 Regular Season;3+ Days Rest;Usman Garuba;11;0;9.0;2.0;0.6;2.3;2.9;0.6;0.7;0.5;0.2;1.0;3.5
+Houston Rockets;hou;2021 - 2022 Regular Season;3+ Days Rest;Total;5;"";"";104.2;12.6;28.2;40.8;21.4;9.4;3.2;17.0;19.2;1.3

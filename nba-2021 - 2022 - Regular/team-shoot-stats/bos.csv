@@ -1,0 +1,974 @@
+teamName;teamCode;season;split;player_name;FGM;FGA;FG_PCT;FG3M;FG3A;FG3_PCT;FTM;FTA;FT_PCT;PM2;PA2;PCT2;SC_EF;SH_EF
+Boston Celtics;bos;2021 - 2022 Regular Season;All Splits;Jayson Tatum;9.3;20.6;45.3;3.0;8.6;35.3;5.3;6.2;85.3;6.3;12.0;52.4;1.308;0.53
+Boston Celtics;bos;2021 - 2022 Regular Season;All Splits;Jaylen Brown;8.7;18.4;47.3;2.5;7.0;35.8;3.7;4.8;75.8;6.2;11.4;54.4;1.281;0.54
+Boston Celtics;bos;2021 - 2022 Regular Season;All Splits;Dennis Schroder;5.2;11.9;44.0;1.4;3.9;34.9;2.5;3.0;84.8;3.9;8.0;48.5;1.205;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;All Splits;Marcus Smart;4.2;10.1;41.8;1.7;5.1;33.1;2.0;2.5;79.3;2.5;5.0;50.6;1.199;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;All Splits;Derrick White;3.6;8.8;40.9;1.3;4.3;30.6;2.5;2.9;85.3;2.3;4.6;50.4;1.243;0.48
+Boston Celtics;bos;2021 - 2022 Regular Season;All Splits;Al Horford;3.9;8.2;46.7;1.3;3.8;33.6;1.2;1.4;84.2;2.6;4.4;58.2;1.232;0.55
+Boston Celtics;bos;2021 - 2022 Regular Season;All Splits;Robert Williams III;4.4;6.0;73.6;0.0;0.0;0.0;1.1;1.5;72.2;4.4;6.0;73.8;1.649;0.74
+Boston Celtics;bos;2021 - 2022 Regular Season;All Splits;Josh Richardson;3.5;7.8;44.3;1.4;3.5;39.7;1.4;1.6;85.9;2.0;4.3;48.1;1.245;0.53
+Boston Celtics;bos;2021 - 2022 Regular Season;All Splits;Daniel Theis;3.2;5.3;59.8;0.5;1.3;35.7;1.0;1.5;68.8;2.7;4.0;67.9;1.482;0.64
+Boston Celtics;bos;2021 - 2022 Regular Season;All Splits;Grant Williams;2.7;5.6;47.5;1.4;3.4;41.1;1.1;1.2;90.5;1.3;2.3;56.9;1.394;0.60
+Boston Celtics;bos;2021 - 2022 Regular Season;All Splits;Payton Pritchard;2.3;5.3;42.9;1.4;3.5;41.2;0.3;0.3;100.0;0.8;1.8;46.1;1.185;0.56
+Boston Celtics;bos;2021 - 2022 Regular Season;All Splits;Romeo Langford;1.8;4.2;42.9;0.7;1.9;34.9;0.5;0.8;58.8;1.1;2.3;49.5;1.125;0.51
+Boston Celtics;bos;2021 - 2022 Regular Season;All Splits;Jabari Parker;1.5;3.2;47.4;0.7;1.3;50.0;0.8;0.8;100.0;0.8;1.8;45.5;1.395;0.58
+Boston Celtics;bos;2021 - 2022 Regular Season;All Splits;Aaron Nesmith;1.4;3.5;39.6;0.6;2.2;27.0;0.4;0.5;80.8;0.8;1.3;61.2;1.077;0.48
+Boston Celtics;bos;2021 - 2022 Regular Season;All Splits;Enes Freedom;1.5;2.8;52.6;0.1;0.1;40.0;0.7;0.8;85.7;1.4;2.6;53.3;1.320;0.54
+Boston Celtics;bos;2021 - 2022 Regular Season;All Splits;Matt Ryan;1.0;5.0;20.0;1.0;5.0;20.0;0.0;0.0;0.0;0.0;0.0;0.0;0.600;0.30
+Boston Celtics;bos;2021 - 2022 Regular Season;All Splits;Sam Hauser;0.9;1.9;46.0;0.7;1.7;43.2;0.0;0.0;0.0;0.2;0.2;66.7;1.300;0.65
+Boston Celtics;bos;2021 - 2022 Regular Season;All Splits;Luke Kornet;1.0;1.8;57.1;0.0;0.3;0.0;0.2;0.3;66.7;1.0;1.4;70.6;1.238;0.57
+Boston Celtics;bos;2021 - 2022 Regular Season;All Splits;Joe Johnson;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Boston Celtics;bos;2021 - 2022 Regular Season;All Splits;Justin Jackson;0.0;1.0;0.0;0.0;0.0;0.0;2.0;2.0;100.0;0.0;1.0;0.0;2.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;All Splits;Malik Fitts;0.8;1.3;60.0;0.4;0.8;50.0;0.0;0.0;0.0;0.4;0.5;75.0;1.500;0.75
+Boston Celtics;bos;2021 - 2022 Regular Season;All Splits;Brodric Thomas;0.7;1.5;44.4;0.2;0.8;22.2;0.3;0.4;60.0;0.5;0.8;66.7;1.167;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;All Splits;Nik Stauskas;0.3;1.0;33.3;0.3;1.0;33.3;0.2;0.3;50.0;0.0;0.0;0.0;1.167;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;All Splits;Juancho Hernangomez;0.3;1.5;18.5;0.2;1.0;16.7;0.3;0.5;66.7;0.1;0.5;22.2;0.704;0.24
+Boston Celtics;bos;2021 - 2022 Regular Season;All Splits;Bruno Fernando;0.4;0.7;50.0;0.1;0.1;100.0;0.2;0.3;80.0;0.3;0.7;46.2;1.357;0.54
+Boston Celtics;bos;2021 - 2022 Regular Season;All Splits;CJ Miles;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;All Splits;Kelan Martin;0.0;1.0;0.0;0.0;0.3;0.0;0.0;0.0;0.0;0.0;0.7;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;All Splits;Juwan Morgan;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;All Splits;Total;40.7;87.4;46.6;13.2;37.1;35.6;17.0;20.9;81.6;27.5;50.3;54.7;1.279;0.54
+Boston Celtics;bos;2021 - 2022 Regular Season;Home;Jayson Tatum;9.2;20.7;44.4;2.6;8.3;30.9;5.4;6.5;83.3;6.7;12.5;53.4;1.272;0.51
+Boston Celtics;bos;2021 - 2022 Regular Season;Home;Jaylen Brown;8.6;18.4;46.4;2.5;7.1;35.5;3.3;4.1;81.0;6.0;11.3;53.2;1.244;0.53
+Boston Celtics;bos;2021 - 2022 Regular Season;Home;Dennis Schroder;5.2;11.8;44.0;1.4;3.7;37.1;2.3;2.8;83.6;3.8;8.0;47.2;1.195;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;Home;Marcus Smart;4.2;10.0;41.7;1.5;4.5;34.2;2.5;3.1;81.5;2.6;5.5;47.9;1.240;0.49
+Boston Celtics;bos;2021 - 2022 Regular Season;Home;Derrick White;3.8;8.8;43.5;1.5;4.2;34.5;2.7;3.2;83.3;2.4;4.6;51.7;1.339;0.52
+Boston Celtics;bos;2021 - 2022 Regular Season;Home;Josh Richardson;4.0;8.3;47.4;1.8;3.8;47.1;1.5;1.8;82.9;2.2;4.6;47.6;1.339;0.58
+Boston Celtics;bos;2021 - 2022 Regular Season;Home;Robert Williams III;5.0;6.6;74.9;0.0;0.0;0.0;1.0;1.5;68.2;5.0;6.6;74.9;1.648;0.75
+Boston Celtics;bos;2021 - 2022 Regular Season;Home;Al Horford;4.0;8.5;47.2;1.4;3.9;36.4;1.1;1.3;84.4;2.6;4.6;56.4;1.236;0.56
+Boston Celtics;bos;2021 - 2022 Regular Season;Home;Grant Williams;2.6;5.7;46.2;1.4;3.5;40.0;0.7;0.8;96.4;1.2;2.2;56.3;1.300;0.59
+Boston Celtics;bos;2021 - 2022 Regular Season;Home;Daniel Theis;2.8;4.7;59.5;0.2;1.0;22.2;0.8;1.6;50.0;2.6;3.7;69.7;1.405;0.62
+Boston Celtics;bos;2021 - 2022 Regular Season;Home;Romeo Langford;2.0;4.8;42.0;0.8;2.2;34.8;0.4;0.5;72.7;1.2;2.6;48.1;1.080;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;Home;Payton Pritchard;1.8;4.2;42.0;1.1;2.8;39.4;0.1;0.1;100.0;0.7;1.4;46.9;1.133;0.55
+Boston Celtics;bos;2021 - 2022 Regular Season;Home;Enes Freedom;1.7;3.0;56.1;0.1;0.2;25.0;0.9;1.1;90.0;1.6;2.8;58.5;1.456;0.57
+Boston Celtics;bos;2021 - 2022 Regular Season;Home;Jabari Parker;1.3;2.3;57.1;0.3;0.7;50.0;0.7;0.7;100.0;1.0;1.7;60.0;1.571;0.64
+Boston Celtics;bos;2021 - 2022 Regular Season;Home;Aaron Nesmith;1.2;3.2;38.4;0.5;2.0;23.4;0.4;0.5;75.0;0.7;1.1;65.4;1.041;0.46
+Boston Celtics;bos;2021 - 2022 Regular Season;Home;Luke Kornet;1.3;1.7;80.0;0.0;0.0;0.0;0.0;0.0;0.0;1.3;1.7;80.0;1.600;0.80
+Boston Celtics;bos;2021 - 2022 Regular Season;Home;Malik Fitts;1.0;1.5;66.7;0.5;1.0;50.0;0.0;0.0;0.0;0.5;0.5;100.0;1.667;0.83
+Boston Celtics;bos;2021 - 2022 Regular Season;Home;Joe Johnson;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Boston Celtics;bos;2021 - 2022 Regular Season;Home;Nik Stauskas;0.5;1.0;50.0;0.5;1.0;50.0;0.5;1.0;50.0;0.0;0.0;0.0;2.000;0.75
+Boston Celtics;bos;2021 - 2022 Regular Season;Home;Justin Jackson;0.0;1.0;0.0;0.0;0.0;0.0;2.0;2.0;100.0;0.0;1.0;0.0;2.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;Home;Sam Hauser;0.5;1.4;33.3;0.5;1.4;33.3;0.0;0.0;0.0;0.0;0.0;0.0;1.000;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;Home;Brodric Thomas;0.4;1.6;25.0;0.0;1.0;0.0;0.4;0.4;100.0;0.4;0.6;66.7;0.750;0.25
+Boston Celtics;bos;2021 - 2022 Regular Season;Home;Juancho Hernangomez;0.3;1.4;18.2;0.1;0.8;16.7;0.3;0.4;66.7;0.1;0.6;20.0;0.636;0.23
+Boston Celtics;bos;2021 - 2022 Regular Season;Home;Bruno Fernando;0.2;0.4;50.0;0.1;0.1;100.0;0.0;0.0;0.0;0.1;0.3;33.3;1.250;0.63
+Boston Celtics;bos;2021 - 2022 Regular Season;Home;CJ Miles;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;Home;Kelan Martin;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;Home;Juwan Morgan;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;Home;Total;40.7;87.3;46.6;12.6;35.7;35.2;16.8;20.5;81.8;28.1;51.6;54.6;1.269;0.54
+Boston Celtics;bos;2021 - 2022 Regular Season;Away;Jayson Tatum;9.4;20.4;46.1;3.5;8.9;39.5;5.1;5.9;87.4;5.9;11.6;51.3;1.345;0.55
+Boston Celtics;bos;2021 - 2022 Regular Season;Away;Jaylen Brown;8.9;18.4;48.5;2.5;6.9;36.1;4.1;5.7;71.3;6.4;11.5;55.9;1.325;0.55
+Boston Celtics;bos;2021 - 2022 Regular Season;Away;Dennis Schroder;5.3;12.1;44.0;1.4;4.1;33.0;2.7;3.1;85.9;4.0;8.0;49.7;1.215;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;Away;Marcus Smart;4.3;10.2;41.8;1.8;5.6;32.2;1.5;2.0;76.1;2.5;4.6;53.6;1.160;0.51
+Boston Celtics;bos;2021 - 2022 Regular Season;Away;Derrick White;3.4;8.8;38.3;1.2;4.3;26.8;2.2;2.5;87.9;2.2;4.5;49.2;1.148;0.45
+Boston Celtics;bos;2021 - 2022 Regular Season;Away;Al Horford;3.7;8.0;46.2;1.2;3.8;30.4;1.3;1.5;84.0;2.5;4.2;60.4;1.227;0.53
+Boston Celtics;bos;2021 - 2022 Regular Season;Away;Robert Williams III;3.9;5.5;72.2;0.0;0.0;0.0;1.1;1.5;76.1;3.9;5.4;72.6;1.651;0.72
+Boston Celtics;bos;2021 - 2022 Regular Season;Away;Daniel Theis;3.5;5.8;60.0;0.7;1.6;42.1;1.3;1.5;83.3;2.8;4.3;66.7;1.529;0.66
+Boston Celtics;bos;2021 - 2022 Regular Season;Away;Grant Williams;2.7;5.6;48.6;1.4;3.2;42.2;1.5;1.7;88.1;1.4;2.4;57.4;1.482;0.61
+Boston Celtics;bos;2021 - 2022 Regular Season;Away;Josh Richardson;2.9;7.2;40.4;1.0;3.3;30.4;1.3;1.4;90.0;1.9;3.9;48.8;1.126;0.47
+Boston Celtics;bos;2021 - 2022 Regular Season;Away;Payton Pritchard;2.7;6.2;43.5;1.7;4.1;42.4;0.4;0.4;100.0;1.0;2.1;45.6;1.217;0.57
+Boston Celtics;bos;2021 - 2022 Regular Season;Away;Jabari Parker;1.6;3.4;45.2;0.8;1.6;50.0;0.8;0.8;100.0;0.8;1.9;41.2;1.355;0.56
+Boston Celtics;bos;2021 - 2022 Regular Season;Away;Romeo Langford;1.6;3.7;44.0;0.6;1.6;35.1;0.5;1.0;52.2;1.0;2.0;51.1;1.179;0.52
+Boston Celtics;bos;2021 - 2022 Regular Season;Away;Aaron Nesmith;1.5;3.8;40.4;0.7;2.3;29.4;0.4;0.5;85.7;0.8;1.4;58.5;1.101;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;Away;Sam Hauser;1.2;2.3;51.4;0.9;1.9;48.3;0.0;0.0;0.0;0.3;0.4;66.7;1.429;0.71
+Boston Celtics;bos;2021 - 2022 Regular Season;Away;Matt Ryan;1.0;5.0;20.0;1.0;5.0;20.0;0.0;0.0;0.0;0.0;0.0;0.0;0.600;0.30
+Boston Celtics;bos;2021 - 2022 Regular Season;Away;Enes Freedom;1.2;2.5;47.5;0.1;0.1;100.0;0.4;0.5;75.0;1.1;2.4;46.2;1.125;0.49
+Boston Celtics;bos;2021 - 2022 Regular Season;Away;Brodric Thomas;0.9;1.4;60.0;0.3;0.6;50.0;0.1;0.4;33.3;0.6;0.9;66.7;1.500;0.70
+Boston Celtics;bos;2021 - 2022 Regular Season;Away;Luke Kornet;0.9;1.8;50.0;0.0;0.4;0.0;0.2;0.3;66.7;0.9;1.3;66.7;1.125;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;Away;Malik Fitts;0.7;1.2;57.1;0.3;0.7;50.0;0.0;0.0;0.0;0.3;0.5;66.7;1.429;0.71
+Boston Celtics;bos;2021 - 2022 Regular Season;Away;Bruno Fernando;0.5;0.9;50.0;0.0;0.0;0.0;0.4;0.5;80.0;0.5;0.9;50.0;1.400;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;Away;Juancho Hernangomez;0.3;1.6;18.8;0.2;1.2;16.7;0.4;0.6;66.7;0.1;0.4;25.0;0.750;0.25
+Boston Celtics;bos;2021 - 2022 Regular Season;Away;Nik Stauskas;0.3;1.0;25.0;0.3;1.0;25.0;0.0;0.0;0.0;0.0;0.0;0.0;0.750;0.38
+Boston Celtics;bos;2021 - 2022 Regular Season;Away;Kelan Martin;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;Away;Total;40.8;87.5;46.6;13.9;38.6;36.1;17.3;21.3;81.3;26.9;49.0;54.9;1.288;0.55
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Brooklyn Nets;Jayson Tatum;9.3;19.3;48.1;3.8;9.8;38.5;7.3;9.0;80.6;5.5;9.5;57.9;1.532;0.58
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Brooklyn Nets;Jaylen Brown;7.0;14.0;50.0;1.3;5.5;22.7;3.3;4.3;76.5;5.8;8.5;67.6;1.321;0.54
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Brooklyn Nets;Marcus Smart;5.8;11.5;50.0;4.0;8.0;50.0;2.3;2.5;90.0;1.8;3.5;50.0;1.543;0.67
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Brooklyn Nets;Robert Williams III;5.0;7.0;71.4;0.0;0.0;0.0;1.3;1.3;100.0;5.0;7.0;71.4;1.619;0.71
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Brooklyn Nets;Dennis Schroder;3.5;8.5;41.2;1.0;4.0;25.0;2.5;3.0;83.3;2.5;4.5;55.6;1.235;0.47
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Brooklyn Nets;Al Horford;3.8;8.3;45.5;1.5;5.3;28.6;1.3;1.3;100.0;2.3;3.0;75.0;1.242;0.55
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Brooklyn Nets;Derrick White;2.5;6.0;41.7;0.5;1.5;33.3;4.0;4.5;88.9;2.0;4.5;44.4;1.583;0.46
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Brooklyn Nets;Enes Freedom;2.5;4.5;55.6;0.5;0.5;100.0;1.5;1.5;100.0;2.0;4.0;50.0;1.556;0.61
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Brooklyn Nets;Grant Williams;2.5;6.5;38.5;1.0;3.8;26.7;0.3;0.3;100.0;1.5;2.8;54.5;0.962;0.46
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Brooklyn Nets;Payton Pritchard;2.0;4.3;47.1;1.0;2.5;40.0;0.3;0.3;100.0;1.0;1.8;57.1;1.235;0.59
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Brooklyn Nets;Aaron Nesmith;2.0;4.7;42.9;1.0;2.7;37.5;0.0;0.0;0.0;1.0;2.0;50.0;1.071;0.54
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Brooklyn Nets;Jabari Parker;1.0;3.0;33.3;0.0;0.0;0.0;2.0;2.0;100.0;1.0;3.0;33.3;1.333;0.33
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Brooklyn Nets;Romeo Langford;1.5;4.0;37.5;1.0;2.0;50.0;0.0;1.0;0.0;0.5;2.0;25.0;1.000;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Brooklyn Nets;Brodric Thomas;2.0;2.0;100.0;0.0;0.0;0.0;0.0;2.0;0.0;2.0;2.0;100.0;2.000;1.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Brooklyn Nets;Daniel Theis;1.0;1.5;66.7;0.0;0.5;0.0;1.5;4.0;37.5;1.0;1.0;100.0;2.333;0.67
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Brooklyn Nets;Juancho Hernangomez;1.0;1.0;100.0;0.0;0.0;0.0;1.0;1.0;100.0;1.0;1.0;100.0;3.000;1.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Brooklyn Nets;Josh Richardson;0.0;1.0;0.0;0.0;1.0;0.0;2.0;2.0;100.0;0.0;0.0;0.0;2.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Brooklyn Nets;Bruno Fernando;1.0;1.5;66.7;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.5;66.7;1.333;0.67
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Brooklyn Nets;Luke Kornet;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Brooklyn Nets;Sam Hauser;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Brooklyn Nets;Total;42.5;87.5;48.6;14.8;41.5;35.5;21.5;27.3;78.9;27.8;46.0;60.3;1.386;0.57
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. New York Knicks;Jaylen Brown;9.8;20.0;48.8;4.3;9.8;43.6;3.0;4.3;70.6;5.5;10.3;53.7;1.338;0.59
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. New York Knicks;Jayson Tatum;8.5;22.3;38.2;3.5;11.8;29.8;4.5;4.8;94.7;5.0;10.5;47.6;1.124;0.46
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. New York Knicks;Josh Richardson;5.0;10.3;48.4;3.0;4.3;69.2;3.7;4.3;84.6;2.0;6.0;33.3;1.613;0.63
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. New York Knicks;Dennis Schroder;5.3;12.0;44.4;1.0;3.0;33.3;1.0;1.7;60.0;4.3;9.0;48.1;1.056;0.49
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. New York Knicks;Robert Williams III;5.0;5.8;87.0;0.0;0.0;0.0;2.3;3.0;75.0;5.0;5.8;87.0;2.130;0.87
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. New York Knicks;Marcus Smart;3.5;9.5;36.8;2.8;6.5;42.3;1.0;1.0;100.0;0.8;3.0;25.0;1.132;0.51
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. New York Knicks;Payton Pritchard;3.0;6.5;46.2;2.0;4.5;44.4;0.0;0.0;0.0;1.0;2.0;50.0;1.231;0.62
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. New York Knicks;Grant Williams;2.7;5.7;47.1;1.7;4.3;38.5;0.0;0.0;0.0;1.0;1.3;75.0;1.235;0.62
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. New York Knicks;Romeo Langford;2.5;3.5;71.4;1.0;1.5;66.7;0.0;0.0;0.0;1.5;2.0;75.0;1.714;0.86
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. New York Knicks;Al Horford;2.0;5.5;36.4;1.0;4.0;25.0;0.0;0.0;0.0;1.0;1.5;66.7;0.909;0.45
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. New York Knicks;Enes Freedom;1.0;1.7;60.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.7;60.0;1.200;0.60
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. New York Knicks;Juancho Hernangomez;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. New York Knicks;Sam Hauser;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. New York Knicks;Bruno Fernando;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. New York Knicks;Aaron Nesmith;0.0;3.7;0.0;0.0;3.0;0.0;0.0;0.0;0.0;0.0;0.7;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. New York Knicks;Total;41.0;90.5;45.3;16.8;44.0;38.1;14.3;17.5;81.4;24.3;46.5;52.2;1.249;0.55
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Jayson Tatum;7.5;17.0;44.1;2.3;6.5;34.6;5.5;6.0;91.7;5.3;10.5;50.0;1.338;0.51
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Jaylen Brown;7.3;17.0;42.6;2.8;7.3;37.9;5.0;6.5;76.9;4.5;9.8;46.2;1.309;0.51
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Payton Pritchard;5.0;7.7;65.2;2.0;3.7;54.5;0.0;0.0;0.0;3.0;4.0;75.0;1.565;0.78
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Derrick White;4.0;9.0;44.4;0.0;3.0;0.0;3.0;3.0;100.0;4.0;6.0;66.7;1.222;0.44
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Robert Williams III;5.5;7.5;73.3;0.0;0.0;0.0;0.0;0.0;0.0;5.5;7.5;73.3;1.467;0.73
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Aaron Nesmith;4.0;6.0;66.7;1.3;3.0;44.4;1.3;1.3;100.0;2.7;3.0;88.9;1.778;0.78
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Marcus Smart;3.3;6.7;50.0;1.3;2.7;50.0;1.3;2.7;50.0;2.0;4.0;50.0;1.400;0.60
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Sam Hauser;3.0;5.0;60.0;3.0;5.0;60.0;0.0;0.0;0.0;0.0;0.0;0.0;1.800;0.90
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Dennis Schroder;2.3;9.3;25.0;0.7;2.7;25.0;2.0;2.7;75.0;1.7;6.7;25.0;0.786;0.29
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Al Horford;2.7;5.7;47.1;1.7;3.7;45.5;0.0;0.0;0.0;1.0;2.0;50.0;1.235;0.62
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Grant Williams;2.3;3.3;70.0;2.0;3.0;66.7;0.0;0.0;0.0;0.3;0.3;100.0;2.000;1.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Enes Freedom;3.0;5.7;52.9;0.0;0.7;0.0;0.3;0.7;50.0;3.0;5.0;60.0;1.118;0.53
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Josh Richardson;2.0;5.0;40.0;1.0;2.0;50.0;1.0;1.0;100.0;1.0;3.0;33.3;1.200;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Daniel Theis;2.0;2.0;100.0;1.0;1.0;100.0;0.0;0.0;0.0;1.0;1.0;100.0;2.500;1.25
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Brodric Thomas;1.0;1.0;100.0;0.5;0.5;100.0;0.0;0.0;0.0;0.5;0.5;100.0;2.500;1.25
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Bruno Fernando;0.5;0.5;100.0;0.0;0.0;0.0;0.0;0.5;0.0;0.5;0.5;100.0;2.000;1.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Romeo Langford;0.0;2.5;0.0;0.0;1.5;0.0;0.5;1.0;50.0;0.0;1.0;0.0;0.200;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Luke Kornet;0.0;3.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Total;38.5;80.3;48.0;13.5;32.8;41.2;15.8;20.0;78.8;25.0;47.5;52.6;1.324;0.56
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Toronto Raptors;Jayson Tatum;6.0;18.0;33.3;2.0;5.3;37.5;2.0;3.0;66.7;4.0;12.7;31.6;0.889;0.39
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Toronto Raptors;Marcus Smart;5.5;15.0;36.7;1.8;7.3;24.1;2.8;4.0;68.8;3.8;7.8;48.4;1.033;0.43
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Toronto Raptors;Josh Richardson;5.0;9.0;55.6;2.3;4.0;58.3;2.7;3.0;88.9;2.7;5.0;53.3;1.667;0.69
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Toronto Raptors;Derrick White;4.0;16.0;25.0;3.0;8.0;37.5;4.0;4.0;100.0;1.0;8.0;12.5;0.938;0.34
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Toronto Raptors;Daniel Theis;5.0;10.0;50.0;0.0;2.0;0.0;3.0;4.0;75.0;5.0;8.0;62.5;1.300;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Toronto Raptors;Al Horford;5.0;10.7;46.9;0.3;3.3;10.0;2.3;2.3;100.0;4.7;7.3;63.6;1.188;0.48
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Toronto Raptors;Jaylen Brown;4.5;12.0;37.5;0.5;4.5;11.1;3.0;4.0;75.0;4.0;7.5;53.3;1.042;0.40
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Toronto Raptors;Robert Williams III;6.0;9.0;66.7;0.0;0.0;0.0;0.5;1.0;50.0;6.0;9.0;66.7;1.389;0.67
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Toronto Raptors;Dennis Schroder;4.5;9.5;47.4;1.0;2.5;40.0;2.0;2.0;100.0;3.5;7.0;50.0;1.263;0.53
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Toronto Raptors;Sam Hauser;4.0;6.0;66.7;2.0;3.0;66.7;0.0;0.0;0.0;2.0;3.0;66.7;1.667;0.83
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Toronto Raptors;Grant Williams;3.0;7.0;42.9;1.3;3.0;41.7;2.5;2.8;90.9;1.8;4.0;43.8;1.393;0.52
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Toronto Raptors;Luke Kornet;3.0;4.0;75.0;0.0;0.0;0.0;0.0;1.0;0.0;3.0;4.0;75.0;1.500;0.75
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Toronto Raptors;Romeo Langford;1.7;5.3;31.3;1.7;3.0;55.6;0.7;0.7;100.0;0.0;2.3;0.0;1.063;0.47
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Toronto Raptors;Enes Freedom;2.0;3.0;66.7;0.0;0.0;0.0;1.5;1.5;100.0;2.0;3.0;66.7;1.833;0.67
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Toronto Raptors;Aaron Nesmith;1.7;3.7;45.5;0.7;2.3;28.6;0.3;0.3;100.0;1.0;1.3;75.0;1.182;0.55
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Toronto Raptors;Juancho Hernangomez;1.0;3.0;33.3;1.0;1.0;100.0;1.0;2.0;50.0;0.0;2.0;0.0;1.333;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Toronto Raptors;Payton Pritchard;1.0;4.8;21.1;0.8;3.5;21.4;0.5;0.5;100.0;0.3;1.3;20.0;0.684;0.29
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Toronto Raptors;Total;36.8;88.3;41.6;11.3;34.3;32.8;17.3;21.3;81.2;25.5;54.0;47.2;1.156;0.48
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Chicago Bulls;Jaylen Brown;9.3;19.3;48.3;2.3;5.7;41.2;3.0;4.7;64.3;7.0;13.7;51.2;1.241;0.54
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Chicago Bulls;Jayson Tatum;7.0;21.3;32.8;1.0;5.7;17.6;4.7;5.7;82.4;6.0;15.7;38.3;0.922;0.35
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Chicago Bulls;Al Horford;7.3;11.0;66.7;2.3;4.3;53.8;0.3;0.3;100.0;5.0;6.7;75.0;1.576;0.77
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Chicago Bulls;Daniel Theis;6.0;12.0;50.0;1.0;4.0;25.0;2.0;2.0;100.0;5.0;8.0;62.5;1.250;0.54
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Chicago Bulls;Dennis Schroder;4.5;9.5;47.4;1.5;2.5;60.0;4.0;5.0;80.0;3.0;7.0;42.9;1.526;0.55
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Chicago Bulls;Marcus Smart;4.0;9.0;44.4;3.0;5.5;54.5;1.5;2.5;60.0;1.0;3.5;28.6;1.389;0.61
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Chicago Bulls;Josh Richardson;4.0;8.0;50.0;2.0;4.5;44.4;0.0;0.0;0.0;2.0;3.5;57.1;1.250;0.63
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Chicago Bulls;Derrick White;4.0;8.0;50.0;1.0;2.0;50.0;1.0;4.0;25.0;3.0;6.0;50.0;1.250;0.56
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Chicago Bulls;Robert Williams III;4.0;7.0;57.1;0.0;0.0;0.0;2.0;2.0;100.0;4.0;7.0;57.1;1.429;0.57
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Chicago Bulls;Enes Freedom;2.0;2.0;100.0;0.0;0.0;0.0;1.0;1.0;100.0;2.0;2.0;100.0;2.500;1.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Chicago Bulls;Payton Pritchard;1.7;4.7;35.7;1.7;3.3;50.0;0.0;0.0;0.0;0.0;1.3;0.0;1.071;0.54
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Chicago Bulls;Aaron Nesmith;1.5;2.0;75.0;1.0;1.5;66.7;0.0;0.0;0.0;0.5;0.5;100.0;2.000;1.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Chicago Bulls;Romeo Langford;2.0;4.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;4.0;50.0;1.000;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Chicago Bulls;Brodric Thomas;1.0;1.0;100.0;0.0;0.0;0.0;1.0;1.0;100.0;1.0;1.0;100.0;3.000;1.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Chicago Bulls;Grant Williams;0.7;2.0;33.3;0.7;1.3;50.0;0.7;0.7;100.0;0.0;0.7;0.0;1.333;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Chicago Bulls;Luke Kornet;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Chicago Bulls;Juancho Hernangomez;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Chicago Bulls;Sam Hauser;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Chicago Bulls;Malik Fitts;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Chicago Bulls;Bruno Fernando;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Chicago Bulls;Total;43.0;91.3;47.1;13.7;32.0;42.7;15.3;20.3;75.4;29.3;59.3;49.4;1.259;0.55
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Jaylen Brown;12.0;22.0;54.5;5.0;10.0;50.0;5.0;5.0;100.0;7.0;12.0;58.3;1.545;0.66
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Jayson Tatum;7.0;20.3;34.4;1.7;8.0;20.8;5.0;5.3;93.8;5.3;12.3;43.2;1.016;0.39
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Al Horford;7.0;10.0;70.0;3.0;4.0;75.0;0.0;0.0;0.0;4.0;6.0;66.7;1.700;0.85
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Dennis Schroder;5.3;13.7;39.0;0.7;2.0;33.3;3.7;4.0;91.7;4.7;11.7;40.0;1.098;0.41
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Robert Williams III;5.3;7.0;76.2;0.0;0.0;0.0;0.3;0.7;50.0;5.3;7.0;76.2;1.571;0.76
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Grant Williams;4.0;6.0;66.7;3.0;4.5;66.7;0.0;0.0;0.0;1.0;1.5;66.7;1.833;0.92
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Josh Richardson;4.0;6.0;66.7;1.0;2.0;50.0;0.0;0.0;0.0;3.0;4.0;75.0;1.500;0.75
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Marcus Smart;2.3;8.3;28.0;0.7;3.7;18.2;1.3;2.0;66.7;1.7;4.7;35.7;0.800;0.32
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Romeo Langford;2.3;4.7;50.0;0.3;1.0;33.3;0.7;2.0;33.3;2.0;3.7;54.5;1.214;0.54
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Enes Freedom;2.0;2.5;80.0;0.0;0.0;0.0;0.5;0.5;100.0;2.0;2.5;80.0;1.800;0.80
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Aaron Nesmith;1.7;3.3;50.0;0.3;1.7;20.0;0.7;0.7;100.0;1.3;1.7;80.0;1.300;0.55
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Jabari Parker;1.0;4.0;25.0;0.0;2.0;0.0;2.0;2.0;100.0;1.0;2.0;50.0;1.000;0.25
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Payton Pritchard;1.0;4.7;21.4;0.3;2.0;16.7;0.0;0.0;0.0;0.7;2.7;25.0;0.500;0.25
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Joe Johnson;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Justin Jackson;0.0;1.0;0.0;0.0;0.0;0.0;2.0;2.0;100.0;0.0;1.0;0.0;2.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Juancho Hernangomez;0.0;1.0;0.0;0.0;0.0;0.0;2.0;2.0;100.0;0.0;1.0;0.0;2.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;CJ Miles;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Bruno Fernando;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Total;37.3;82.7;45.2;9.0;27.3;32.9;15.7;18.7;83.9;28.3;55.3;51.2;1.202;0.51
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Detroit Pistons;Jayson Tatum;9.3;21.0;44.0;3.0;8.3;36.4;4.3;5.0;85.0;6.3;12.8;49.0;1.226;0.51
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Detroit Pistons;Jaylen Brown;8.8;20.5;42.7;1.5;6.0;25.0;4.3;5.8;73.9;7.3;14.5;50.0;1.134;0.46
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Detroit Pistons;Josh Richardson;2.0;6.0;33.3;2.0;3.0;66.7;6.0;6.0;100.0;0.0;3.0;0.0;2.000;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Detroit Pistons;Marcus Smart;3.7;7.3;50.0;1.0;2.3;42.9;2.7;3.0;88.9;2.7;5.0;53.3;1.500;0.57
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Detroit Pistons;Robert Williams III;5.0;7.0;71.4;0.0;0.0;0.0;1.0;1.7;60.0;5.0;7.0;71.4;1.571;0.71
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Detroit Pistons;Grant Williams;3.5;6.5;53.8;1.3;3.5;35.7;2.8;2.8;100.0;2.3;3.0;75.0;1.692;0.63
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Detroit Pistons;Dennis Schroder;5.0;11.0;45.5;0.0;2.0;0.0;0.0;0.0;0.0;5.0;9.0;55.6;0.909;0.45
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Detroit Pistons;Al Horford;4.3;6.5;65.4;0.5;1.8;28.6;0.3;0.5;50.0;3.8;4.8;78.9;1.423;0.69
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Detroit Pistons;Romeo Langford;3.0;7.0;42.9;1.0;3.0;33.3;2.0;4.0;50.0;2.0;4.0;50.0;1.286;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Detroit Pistons;Payton Pritchard;3.0;4.8;63.2;0.8;2.0;37.5;1.5;1.5;100.0;2.3;2.8;81.8;1.737;0.71
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Detroit Pistons;Derrick White;2.7;6.7;40.0;1.0;3.7;27.3;1.3;2.0;66.7;1.7;3.0;55.6;1.150;0.48
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Detroit Pistons;Aaron Nesmith;1.0;3.0;33.3;0.5;2.0;25.0;0.0;0.0;0.0;0.5;1.0;50.0;0.833;0.42
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Detroit Pistons;Daniel Theis;1.0;1.5;66.7;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.5;66.7;1.333;0.67
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Detroit Pistons;Nik Stauskas;0.0;0.0;0.0;0.0;0.0;0.0;1.0;2.0;50.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Detroit Pistons;Enes Freedom;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Detroit Pistons;Kelan Martin;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Detroit Pistons;Sam Hauser;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Detroit Pistons;Malik Fitts;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Detroit Pistons;Bruno Fernando;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Detroit Pistons;Total;40.8;84.3;48.4;9.5;29.5;32.2;19.0;23.5;80.9;31.3;54.8;57.1;1.306;0.54
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Indiana Pacers;Jaylen Brown;11.0;19.8;55.7;3.5;6.8;51.9;3.3;4.3;76.5;7.5;13.0;57.7;1.456;0.65
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Indiana Pacers;Jayson Tatum;8.8;21.5;40.7;2.3;9.3;24.3;8.3;9.3;89.2;6.5;12.3;53.1;1.302;0.46
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Indiana Pacers;Dennis Schroder;3.5;7.5;46.7;2.0;3.5;57.1;5.0;7.0;71.4;1.5;4.0;37.5;1.867;0.60
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Indiana Pacers;Marcus Smart;4.3;11.0;39.4;1.7;6.0;27.8;1.7;1.7;100.0;2.7;5.0;53.3;1.091;0.47
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Indiana Pacers;Derrick White;3.0;7.0;42.9;1.0;3.5;28.6;5.0;5.0;100.0;2.0;3.5;57.1;1.714;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Indiana Pacers;Robert Williams III;3.7;6.0;61.1;0.0;0.0;0.0;2.3;2.7;87.5;3.7;6.0;61.1;1.611;0.61
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Indiana Pacers;Al Horford;4.0;6.3;63.2;1.0;2.3;42.9;0.3;0.3;100.0;3.0;4.0;75.0;1.474;0.71
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Indiana Pacers;Payton Pritchard;2.7;6.3;42.1;2.3;4.7;50.0;0.0;0.0;0.0;0.3;1.7;20.0;1.211;0.61
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Indiana Pacers;Daniel Theis;3.5;6.0;58.3;0.5;1.5;33.3;0.0;0.0;0.0;3.0;4.5;66.7;1.250;0.63
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Indiana Pacers;Josh Richardson;3.0;8.0;37.5;1.0;3.5;28.6;0.0;0.0;0.0;2.0;4.5;44.4;0.875;0.44
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Indiana Pacers;Grant Williams;1.3;4.3;29.4;0.3;2.3;11.1;1.5;1.8;85.7;1.0;2.0;50.0;1.000;0.32
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Indiana Pacers;Enes Freedom;1.5;1.5;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.5;1.5;100.0;2.000;1.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Indiana Pacers;Sam Hauser;1.0;1.0;100.0;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;3.000;1.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Indiana Pacers;Romeo Langford;1.0;1.0;100.0;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;3.000;1.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Indiana Pacers;Bruno Fernando;0.0;0.0;0.0;0.0;0.0;0.0;2.0;2.0;100.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Indiana Pacers;Luke Kornet;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Indiana Pacers;Kelan Martin;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Indiana Pacers;Malik Fitts;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Indiana Pacers;Aaron Nesmith;0.0;0.5;0.0;0.0;0.5;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Indiana Pacers;Brodric Thomas;0.0;3.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Indiana Pacers;Total;39.8;85.0;46.8;12.5;35.5;35.2;21.8;25.3;86.1;27.3;49.5;55.1;1.338;0.54
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Jayson Tatum;11.0;23.3;47.1;5.3;12.0;44.4;4.0;5.7;70.6;5.7;11.3;50.0;1.343;0.59
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Dennis Schroder;9.0;18.5;48.6;2.0;7.0;28.6;2.5;2.5;100.0;7.0;11.5;60.9;1.216;0.54
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Daniel Theis;8.0;12.0;66.7;3.0;3.0;100.0;3.0;5.0;60.0;5.0;9.0;55.6;1.833;0.79
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Jaylen Brown;7.3;17.0;43.1;2.3;7.3;31.8;5.0;6.0;83.3;5.0;9.7;51.7;1.294;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Derrick White;6.0;13.0;46.2;4.0;8.0;50.0;3.0;3.0;100.0;2.0;5.0;40.0;1.462;0.62
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Marcus Smart;6.0;12.3;49.0;3.0;7.5;40.0;2.3;2.3;100.0;3.0;4.8;63.2;1.408;0.61
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Robert Williams III;5.0;6.0;83.3;0.0;0.0;0.0;1.0;1.3;75.0;5.0;6.0;83.3;1.833;0.83
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Al Horford;3.5;9.5;36.8;1.5;5.5;27.3;1.0;1.0;100.0;2.0;4.0;50.0;1.000;0.45
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Payton Pritchard;3.7;8.0;45.8;2.0;5.0;40.0;0.0;0.0;0.0;1.7;3.0;55.6;1.167;0.58
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Jabari Parker;3.0;7.0;42.9;2.0;4.0;50.0;1.0;1.0;100.0;1.0;3.0;33.3;1.286;0.57
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Grant Williams;3.0;6.0;50.0;1.7;4.3;38.5;0.7;0.7;100.0;1.3;1.7;80.0;1.389;0.64
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Josh Richardson;2.0;6.0;33.3;0.0;3.0;0.0;4.0;4.0;100.0;2.0;3.0;66.7;1.333;0.33
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Sam Hauser;2.5;3.0;83.3;2.0;2.5;80.0;0.0;0.0;0.0;0.5;0.5;100.0;2.333;1.17
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Romeo Langford;2.0;5.0;40.0;0.7;2.3;28.6;0.0;0.0;0.0;1.3;2.7;50.0;0.933;0.47
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Luke Kornet;0.0;1.0;0.0;0.0;1.0;0.0;2.0;2.0;100.0;0.0;0.0;0.0;2.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Juancho Hernangomez;0.5;2.5;20.0;0.5;2.0;25.0;0.0;1.0;0.0;0.0;0.5;0.0;0.600;0.30
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Aaron Nesmith;0.3;2.3;14.3;0.3;2.3;14.3;0.0;0.0;0.0;0.0;0.0;0.0;0.429;0.21
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Enes Freedom;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Brodric Thomas;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Total;42.8;89.5;47.8;17.5;45.8;38.3;15.3;18.5;82.4;25.3;43.8;57.7;1.321;0.58
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Atlanta Hawks;Jayson Tatum;10.5;22.8;46.2;3.5;10.0;35.0;6.8;7.5;90.0;7.0;12.8;54.9;1.374;0.54
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Atlanta Hawks;Derrick White;5.5;13.5;40.7;1.5;7.5;20.0;3.5;3.5;100.0;4.0;6.0;66.7;1.185;0.46
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Atlanta Hawks;Jaylen Brown;5.3;13.0;41.0;1.3;5.0;26.7;3.0;3.7;81.8;4.0;8.0;50.0;1.154;0.46
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Atlanta Hawks;Marcus Smart;4.5;10.8;41.9;1.0;4.8;21.1;3.5;4.0;87.5;3.5;6.0;58.3;1.256;0.47
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Atlanta Hawks;Grant Williams;3.5;8.0;43.8;1.5;4.5;33.3;1.8;1.8;100.0;2.0;3.5;57.1;1.281;0.53
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Atlanta Hawks;Robert Williams III;3.7;4.7;78.6;0.0;0.0;0.0;2.7;3.0;88.9;3.7;4.7;78.6;2.143;0.79
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Atlanta Hawks;Josh Richardson;4.0;9.5;42.1;1.0;4.0;25.0;0.0;0.0;0.0;3.0;5.5;54.5;0.947;0.47
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Atlanta Hawks;Dennis Schroder;3.5;8.5;41.2;0.5;3.0;16.7;1.0;1.0;100.0;3.0;5.5;54.5;1.000;0.44
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Atlanta Hawks;Al Horford;2.8;5.5;50.0;1.3;2.8;45.5;0.8;1.5;50.0;1.5;2.8;54.5;1.364;0.61
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Atlanta Hawks;Payton Pritchard;0.5;3.3;15.4;0.3;2.3;11.1;0.0;0.0;0.0;0.3;1.0;25.0;0.385;0.19
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Atlanta Hawks;Bruno Fernando;0.0;1.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;0.0;1.0;0.0;1.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Atlanta Hawks;Romeo Langford;0.5;2.5;20.0;0.0;1.0;0.0;0.0;0.0;0.0;0.5;1.5;33.3;0.400;0.20
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Atlanta Hawks;Aaron Nesmith;0.3;3.3;10.0;0.0;2.0;0.0;0.0;0.0;0.0;0.3;1.3;25.0;0.200;0.10
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Atlanta Hawks;Enes Freedom;0.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;3.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Atlanta Hawks;Juancho Hernangomez;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Atlanta Hawks;Sam Hauser;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Atlanta Hawks;Brodric Thomas;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Atlanta Hawks;Total;35.5;84.5;42.0;10.0;37.5;26.7;19.8;22.5;87.8;25.5;47.0;54.3;1.192;0.48
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Charlotte Hornets;Jayson Tatum;10.3;21.8;47.1;3.3;8.8;37.1;5.3;5.5;95.5;7.0;13.0;53.8;1.333;0.55
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Charlotte Hornets;Jaylen Brown;8.5;17.8;47.9;1.5;7.3;20.7;1.8;3.3;53.8;7.0;10.5;66.7;1.141;0.52
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Charlotte Hornets;Dennis Schroder;6.0;12.7;47.4;3.0;6.0;50.0;2.7;3.0;88.9;3.0;6.7;45.0;1.395;0.59
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Charlotte Hornets;Marcus Smart;5.3;11.7;45.7;1.0;5.3;18.8;2.0;2.0;100.0;4.3;6.3;68.4;1.171;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Charlotte Hornets;Jabari Parker;5.0;8.0;62.5;3.0;4.0;75.0;0.0;0.0;0.0;2.0;4.0;50.0;1.625;0.81
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Charlotte Hornets;Josh Richardson;4.0;8.7;46.2;2.7;5.3;50.0;0.3;0.7;50.0;1.3;3.3;40.0;1.269;0.62
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Charlotte Hornets;Derrick White;5.0;11.0;45.5;1.0;5.0;20.0;0.0;0.0;0.0;4.0;6.0;66.7;1.000;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Charlotte Hornets;Robert Williams III;5.0;6.7;75.0;0.0;0.0;0.0;1.0;1.7;60.0;5.0;6.7;75.0;1.650;0.75
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Charlotte Hornets;Romeo Langford;4.0;7.0;57.1;1.0;3.0;33.3;2.0;3.0;66.7;3.0;4.0;75.0;1.571;0.64
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Charlotte Hornets;Al Horford;3.7;7.3;50.0;2.0;4.3;46.2;0.3;0.3;100.0;1.7;3.0;55.6;1.318;0.64
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Charlotte Hornets;Grant Williams;3.0;6.8;44.4;1.8;5.0;35.0;0.8;0.8;100.0;1.3;1.8;71.4;1.259;0.57
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Charlotte Hornets;Enes Freedom;1.0;1.0;100.0;0.0;0.0;0.0;3.0;3.0;100.0;1.0;1.0;100.0;5.000;1.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Charlotte Hornets;Daniel Theis;0.0;1.0;0.0;0.0;0.0;0.0;2.0;2.0;100.0;0.0;1.0;0.0;2.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Charlotte Hornets;Juancho Hernangomez;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Charlotte Hornets;Payton Pritchard;0.7;3.3;20.0;0.7;3.0;22.2;0.0;0.0;0.0;0.0;0.3;0.0;0.600;0.30
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Charlotte Hornets;Nik Stauskas;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Charlotte Hornets;Luke Kornet;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Charlotte Hornets;Kelan Martin;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Charlotte Hornets;Sam Hauser;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Charlotte Hornets;Total;44.3;91.5;48.4;14.8;42.3;34.9;14.3;17.3;82.6;29.5;49.3;59.9;1.284;0.56
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Miami Heat;Jaylen Brown;8.3;18.3;45.5;3.7;7.7;47.8;4.3;5.0;86.7;4.7;10.7;43.8;1.345;0.55
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Miami Heat;Jayson Tatum;6.3;15.0;42.2;1.7;5.7;29.4;3.3;4.7;71.4;4.7;9.3;50.0;1.178;0.48
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Miami Heat;Daniel Theis;6.0;6.0;100.0;1.0;1.0;100.0;2.0;3.0;66.7;5.0;5.0;100.0;2.500;1.08
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Miami Heat;Marcus Smart;3.7;10.0;36.7;2.7;7.3;36.4;1.7;2.7;62.5;1.0;2.7;37.5;1.167;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Miami Heat;Josh Richardson;5.0;8.0;62.5;0.0;2.0;0.0;1.0;1.0;100.0;5.0;6.0;83.3;1.375;0.63
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Miami Heat;Al Horford;3.0;8.0;37.5;1.3;4.7;28.6;2.7;3.7;72.7;1.7;3.3;50.0;1.250;0.46
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Miami Heat;Dennis Schroder;3.0;7.5;40.0;0.5;3.0;16.7;2.5;3.0;83.3;2.5;4.5;55.6;1.200;0.43
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Miami Heat;Derrick White;3.0;9.0;33.3;1.0;4.0;25.0;2.0;3.0;66.7;2.0;5.0;40.0;1.000;0.39
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Miami Heat;Aaron Nesmith;3.0;5.5;54.5;1.5;3.0;50.0;1.0;1.0;100.0;1.5;2.5;60.0;1.545;0.68
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Miami Heat;Romeo Langford;2.0;5.5;36.4;1.0;3.5;28.6;1.0;1.0;100.0;1.0;2.0;50.0;1.091;0.45
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Miami Heat;Grant Williams;2.3;5.7;41.2;1.0;3.7;27.3;0.0;0.3;0.0;1.3;2.0;66.7;1.000;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Miami Heat;Robert Williams III;2.5;4.0;62.5;0.0;0.0;0.0;0.0;1.0;0.0;2.5;4.0;62.5;1.250;0.63
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Miami Heat;Sam Hauser;1.0;1.0;100.0;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;3.000;1.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Miami Heat;Enes Freedom;0.0;0.0;0.0;0.0;0.0;0.0;2.0;2.0;100.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Miami Heat;Payton Pritchard;0.7;1.7;40.0;0.7;1.7;40.0;0.0;0.0;0.0;0.0;0.0;0.0;1.200;0.60
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Miami Heat;Bruno Fernando;0.5;1.0;50.0;0.5;0.5;100.0;0.0;0.0;0.0;0.0;0.5;0.0;1.500;0.75
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Miami Heat;Jabari Parker;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Miami Heat;Juancho Hernangomez;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Miami Heat;Total;36.7;82.3;44.5;14.3;40.0;35.8;17.3;23.3;74.3;22.3;42.3;52.8;1.275;0.53
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Orlando Magic;Jaylen Brown;13.0;22.7;57.4;3.0;9.0;33.3;5.7;6.7;85.0;10.0;13.7;73.2;1.529;0.64
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Orlando Magic;Dennis Schroder;6.3;13.3;47.5;2.0;5.7;35.3;2.3;3.0;77.8;4.3;7.7;56.5;1.275;0.55
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Orlando Magic;Jayson Tatum;5.0;17.0;29.4;1.5;7.0;21.4;3.0;5.0;60.0;3.5;10.0;35.0;0.853;0.34
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Orlando Magic;Al Horford;4.0;9.7;41.4;1.3;4.7;28.6;2.0;2.0;100.0;2.7;5.0;53.3;1.172;0.48
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Orlando Magic;Robert Williams III;5.0;6.5;76.9;0.0;0.0;0.0;1.0;1.0;100.0;5.0;6.5;76.9;1.692;0.77
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Orlando Magic;Marcus Smart;2.3;7.3;31.8;1.3;4.3;30.8;3.3;4.0;83.3;1.0;3.0;33.3;1.273;0.41
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Orlando Magic;Grant Williams;2.0;5.0;40.0;1.0;3.3;30.0;1.0;1.3;75.0;1.0;1.7;60.0;1.200;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Orlando Magic;Romeo Langford;2.0;3.0;66.7;1.5;2.0;75.0;0.0;0.0;0.0;0.5;1.0;50.0;1.833;0.92
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Orlando Magic;Josh Richardson;1.7;7.0;23.8;0.3;3.3;10.0;0.3;0.7;50.0;1.3;3.7;36.4;0.571;0.26
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Orlando Magic;Payton Pritchard;1.0;2.7;37.5;0.7;1.7;40.0;0.7;0.7;100.0;0.3;1.0;33.3;1.250;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Orlando Magic;Aaron Nesmith;0.5;1.0;50.0;0.5;0.5;100.0;0.0;0.0;0.0;0.0;0.5;0.0;1.500;0.75
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Orlando Magic;Bruno Fernando;0.3;0.7;50.0;0.0;0.0;0.0;0.0;0.0;0.0;0.3;0.7;50.0;1.000;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Orlando Magic;Jabari Parker;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Orlando Magic;Juancho Hernangomez;0.0;2.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Orlando Magic;Sam Hauser;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Orlando Magic;Total;39.0;88.0;44.3;12.0;39.7;30.3;18.0;22.3;80.6;27.0;48.3;55.9;1.227;0.51
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Washington Wizards;Jayson Tatum;11.5;24.8;46.5;2.8;8.0;34.4;5.0;6.8;74.1;8.8;16.8;52.2;1.242;0.52
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Washington Wizards;Jaylen Brown;9.0;18.8;48.0;2.3;5.8;39.1;4.0;4.8;84.2;6.8;13.0;51.9;1.293;0.54
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Washington Wizards;Derrick White;6.0;7.0;85.7;3.0;3.0;100.0;2.0;3.0;66.7;3.0;4.0;75.0;2.429;1.07
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Washington Wizards;Dennis Schroder;3.0;9.0;33.3;1.3;3.0;44.4;4.3;5.0;86.7;1.7;6.0;27.8;1.296;0.41
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Washington Wizards;Robert Williams III;5.0;7.0;71.4;0.0;0.0;0.0;0.5;1.0;50.0;5.0;7.0;71.4;1.500;0.71
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Washington Wizards;Al Horford;4.5;10.0;45.0;1.3;3.8;33.3;0.0;0.0;0.0;3.3;6.3;52.0;1.025;0.51
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Washington Wizards;Grant Williams;2.8;5.0;55.0;1.5;2.8;54.5;2.5;2.5;100.0;1.3;2.3;55.6;1.900;0.70
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Washington Wizards;Marcus Smart;2.7;7.3;36.4;1.3;5.0;26.7;1.7;2.0;83.3;1.3;2.3;57.1;1.136;0.45
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Washington Wizards;Payton Pritchard;2.3;4.7;50.0;1.7;3.7;45.5;0.0;0.0;0.0;0.7;1.0;66.7;1.357;0.68
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Washington Wizards;Daniel Theis;3.0;8.0;37.5;0.0;1.0;0.0;0.0;0.0;0.0;3.0;7.0;42.9;0.750;0.38
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Washington Wizards;Josh Richardson;2.3;6.0;38.9;0.3;1.7;20.0;1.0;1.0;100.0;2.0;4.3;46.2;1.000;0.42
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Washington Wizards;Aaron Nesmith;2.0;3.5;57.1;1.5;2.0;75.0;0.5;1.0;50.0;0.5;1.5;33.3;1.714;0.79
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Washington Wizards;Jabari Parker;2.5;4.0;62.5;0.5;1.0;50.0;0.0;0.0;0.0;2.0;3.0;66.7;1.375;0.69
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Washington Wizards;Malik Fitts;2.0;2.0;100.0;1.0;1.0;100.0;0.0;0.0;0.0;1.0;1.0;100.0;2.500;1.25
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Washington Wizards;Luke Kornet;2.0;2.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;2.0;100.0;2.000;1.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Washington Wizards;Romeo Langford;1.0;2.0;50.0;0.5;1.5;33.3;0.0;0.0;0.0;0.5;0.5;100.0;1.250;0.63
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Washington Wizards;Enes Freedom;0.5;1.5;33.3;0.0;0.0;0.0;0.0;0.0;0.0;0.5;1.5;33.3;0.667;0.33
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Washington Wizards;Juwan Morgan;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Washington Wizards;Sam Hauser;0.0;3.0;0.0;0.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Washington Wizards;Total;44.3;93.3;47.5;13.5;34.5;39.1;17.8;21.8;81.6;30.8;58.8;52.3;1.284;0.55
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Denver Nuggets;Jayson Tatum;9.5;18.0;52.8;3.5;9.0;38.9;4.5;5.0;90.0;6.0;9.0;66.7;1.500;0.63
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Denver Nuggets;Jaylen Brown;8.0;18.0;44.4;1.5;6.0;25.0;3.5;5.0;70.0;6.5;12.0;54.2;1.167;0.49
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Denver Nuggets;Marcus Smart;4.5;12.5;36.0;1.5;5.5;27.3;4.0;5.0;80.0;3.0;7.0;42.9;1.160;0.42
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Denver Nuggets;Robert Williams III;5.5;8.0;68.8;0.0;0.0;0.0;0.5;1.0;50.0;5.5;8.0;68.8;1.438;0.69
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Denver Nuggets;Derrick White;4.0;8.5;47.1;1.5;4.5;33.3;1.0;1.5;66.7;2.5;4.0;62.5;1.235;0.56
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Denver Nuggets;Grant Williams;3.5;7.0;50.0;1.5;2.5;60.0;2.0;2.0;100.0;2.0;4.5;44.4;1.500;0.61
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Denver Nuggets;Payton Pritchard;3.5;6.0;58.3;3.0;4.0;75.0;0.0;0.0;0.0;0.5;2.0;25.0;1.667;0.83
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Denver Nuggets;Al Horford;2.5;6.5;38.5;1.5;4.0;37.5;1.0;1.0;100.0;1.0;2.5;40.0;1.154;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Denver Nuggets;Daniel Theis;3.0;5.0;60.0;1.0;2.0;50.0;0.0;0.0;0.0;2.0;3.0;66.7;1.400;0.70
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Denver Nuggets;Nik Stauskas;0.0;2.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Denver Nuggets;Luke Kornet;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Denver Nuggets;Sam Hauser;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Denver Nuggets;Malik Fitts;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Denver Nuggets;Total;42.5;89.0;47.8;14.5;38.5;37.7;16.5;20.5;80.5;28.0;50.5;55.4;1.303;0.56
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Jayson Tatum;12.0;21.0;57.1;5.0;11.0;45.5;5.0;5.0;100.0;7.0;10.0;70.0;1.619;0.69
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Jaylen Brown;10.0;22.0;45.5;2.5;6.5;38.5;6.0;8.5;70.6;7.5;15.5;48.4;1.295;0.51
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Payton Pritchard;6.0;14.5;41.4;4.0;9.5;42.1;1.5;1.5;100.0;2.0;5.0;40.0;1.207;0.55
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Al Horford;6.0;11.0;54.5;4.0;8.0;50.0;0.0;0.0;0.0;2.0;3.0;66.7;1.455;0.73
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Derrick White;4.0;6.0;66.7;2.0;4.0;50.0;5.0;5.0;100.0;2.0;2.0;100.0;2.500;0.83
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Grant Williams;3.0;6.0;50.0;2.0;4.0;50.0;3.0;3.0;100.0;1.0;2.0;50.0;1.833;0.67
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Robert Williams III;4.5;6.5;69.2;0.0;0.0;0.0;1.5;1.5;100.0;4.5;6.5;69.2;1.615;0.69
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Marcus Smart;3.0;9.0;33.3;1.0;6.0;16.7;0.0;0.0;0.0;2.0;3.0;66.7;0.778;0.39
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Aaron Nesmith;2.0;4.0;50.0;0.0;2.0;0.0;2.0;4.0;50.0;2.0;2.0;100.0;1.500;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Romeo Langford;2.0;9.0;22.2;0.0;4.0;0.0;2.0;4.0;50.0;2.0;5.0;40.0;0.667;0.22
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Sam Hauser;1.5;3.0;50.0;1.5;3.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.500;0.75
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Daniel Theis;2.0;5.0;40.0;0.0;1.0;0.0;0.0;0.0;0.0;2.0;4.0;50.0;0.800;0.40
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Jabari Parker;1.0;3.0;33.3;1.0;2.0;50.0;0.0;0.0;0.0;0.0;1.0;0.0;1.000;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Juancho Hernangomez;0.0;3.0;0.0;0.0;2.0;0.0;2.0;2.0;100.0;0.0;1.0;0.0;0.667;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Luke Kornet;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Total;41.0;88.0;46.6;16.5;43.0;38.4;20.0;24.5;81.6;24.5;45.0;54.4;1.347;0.56
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Jayson Tatum;11.0;20.5;53.7;5.5;11.5;47.8;7.0;8.0;87.5;5.5;9.0;61.1;1.683;0.67
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Dennis Schroder;13.0;22.0;59.1;3.0;7.0;42.9;0.0;0.0;0.0;10.0;15.0;66.7;1.318;0.66
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Jaylen Brown;10.0;19.0;52.6;2.0;5.0;40.0;3.0;6.0;50.0;8.0;14.0;57.1;1.316;0.58
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Derrick White;5.0;10.0;50.0;1.0;5.0;20.0;7.0;7.0;100.0;4.0;5.0;80.0;1.800;0.55
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Grant Williams;6.0;11.5;52.2;2.5;5.0;50.0;2.5;3.0;83.3;3.5;6.5;53.8;1.478;0.63
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Enes Freedom;3.0;6.0;50.0;0.0;0.0;0.0;4.0;4.0;100.0;3.0;6.0;50.0;1.667;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Daniel Theis;4.0;6.0;66.7;0.0;0.0;0.0;1.0;1.0;100.0;4.0;6.0;66.7;1.500;0.67
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Payton Pritchard;3.0;6.5;46.2;2.5;5.5;45.5;0.5;0.5;100.0;0.5;1.0;50.0;1.385;0.65
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Marcus Smart;2.0;6.0;33.3;1.0;2.0;50.0;2.0;2.0;100.0;1.0;4.0;25.0;1.167;0.42
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Al Horford;2.0;5.0;40.0;0.5;2.0;25.0;2.0;2.5;80.0;1.5;3.0;50.0;1.300;0.45
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Josh Richardson;2.0;6.0;33.3;2.0;3.0;66.7;0.0;0.0;0.0;0.0;3.0;0.0;1.000;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Romeo Langford;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Sam Hauser;0.5;2.5;20.0;0.5;2.0;25.0;0.0;0.0;0.0;0.0;0.5;0.0;0.600;0.30
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Juancho Hernangomez;0.0;5.0;0.0;0.0;4.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Bruno Fernando;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Aaron Nesmith;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Brodric Thomas;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Total;42.5;87.0;48.9;16.0;39.5;40.5;20.5;24.0;85.4;26.5;47.5;55.8;1.397;0.58
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Jayson Tatum;8.5;18.0;47.2;2.0;6.0;33.3;10.0;12.0;83.3;6.5;12.0;54.2;1.611;0.53
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Jaylen Brown;7.0;20.0;35.0;2.0;7.0;28.6;6.0;6.0;100.0;5.0;13.0;38.5;1.100;0.40
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Dennis Schroder;7.0;12.5;56.0;3.0;6.0;50.0;3.0;3.0;100.0;4.0;6.5;61.5;1.600;0.68
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Marcus Smart;6.0;10.0;60.0;1.0;3.0;33.3;4.0;4.0;100.0;5.0;7.0;71.4;1.700;0.65
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Payton Pritchard;4.0;7.5;53.3;3.5;6.5;53.8;1.0;1.0;100.0;0.5;1.0;50.0;1.667;0.77
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Romeo Langford;5.0;7.0;71.4;2.0;4.0;50.0;0.0;0.0;0.0;3.0;3.0;100.0;1.714;0.86
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Grant Williams;4.0;8.0;50.0;2.0;4.5;44.4;1.5;1.5;100.0;2.0;3.5;57.1;1.438;0.63
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Aaron Nesmith;3.0;6.0;50.0;3.0;4.0;75.0;2.0;2.0;100.0;0.0;2.0;0.0;1.833;0.75
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Al Horford;3.0;6.0;50.0;0.0;3.0;0.0;0.0;0.0;0.0;3.0;3.0;100.0;1.000;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Josh Richardson;2.0;5.5;36.4;1.0;3.0;33.3;0.0;0.0;0.0;1.0;2.5;40.0;0.909;0.45
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Robert Williams III;2.0;3.0;66.7;0.0;0.0;0.0;1.0;1.5;66.7;2.0;3.0;66.7;1.667;0.67
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Enes Freedom;2.0;3.5;57.1;0.0;0.0;0.0;0.5;1.0;50.0;2.0;3.5;57.1;1.286;0.57
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Bruno Fernando;2.0;3.0;66.7;0.0;0.0;0.0;0.0;0.0;0.0;2.0;3.0;66.7;1.333;0.67
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Juancho Hernangomez;1.0;1.0;100.0;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;3.000;1.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Jabari Parker;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Total;43.0;84.5;50.9;16.0;37.0;43.2;23.0;26.0;88.5;27.0;47.5;56.8;1.479;0.60
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Utah Jazz;Jayson Tatum;10.5;20.0;52.5;3.5;9.5;36.8;7.0;7.0;100.0;7.0;10.5;66.7;1.575;0.61
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Utah Jazz;Dennis Schroder;10.0;21.0;47.6;3.0;8.0;37.5;3.0;3.0;100.0;7.0;13.0;53.8;1.238;0.55
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Utah Jazz;Jaylen Brown;10.0;17.0;58.8;3.0;6.0;50.0;3.0;4.0;75.0;7.0;11.0;63.6;1.529;0.68
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Utah Jazz;Al Horford;5.5;10.0;55.0;3.0;6.5;46.2;1.0;1.0;100.0;2.5;3.5;71.4;1.500;0.70
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Utah Jazz;Daniel Theis;5.0;8.0;62.5;1.0;3.0;33.3;0.0;0.0;0.0;4.0;5.0;80.0;1.375;0.69
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Utah Jazz;Josh Richardson;4.0;8.0;50.0;1.0;3.0;33.3;2.0;2.0;100.0;3.0;5.0;60.0;1.375;0.56
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Utah Jazz;Payton Pritchard;4.0;6.0;66.7;3.0;4.0;75.0;0.0;0.0;0.0;1.0;2.0;50.0;1.833;0.92
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Utah Jazz;Marcus Smart;3.5;7.0;50.0;2.0;3.5;57.1;1.0;1.0;100.0;1.5;3.5;42.9;1.429;0.64
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Utah Jazz;Derrick White;4.0;10.0;40.0;2.0;3.0;66.7;0.0;0.0;0.0;2.0;7.0;28.6;1.000;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Utah Jazz;Robert Williams III;4.5;5.0;90.0;0.0;0.0;0.0;1.0;1.0;100.0;4.5;5.0;90.0;2.000;0.90
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Utah Jazz;Romeo Langford;3.0;4.0;75.0;0.0;1.0;0.0;0.0;0.0;0.0;3.0;3.0;100.0;1.500;0.75
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Utah Jazz;Grant Williams;2.0;3.5;57.1;1.0;1.5;66.7;0.0;0.0;0.0;1.0;2.0;50.0;1.429;0.71
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Utah Jazz;Luke Kornet;2.0;2.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;2.0;100.0;2.000;1.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Utah Jazz;Nik Stauskas;1.0;2.0;50.0;1.0;2.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.500;0.75
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Utah Jazz;Brodric Thomas;1.0;2.0;50.0;0.0;1.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;1.000;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Utah Jazz;Aaron Nesmith;0.5;0.5;100.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;0.5;100.0;2.000;1.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Utah Jazz;Enes Freedom;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Utah Jazz;Sam Hauser;0.0;2.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Utah Jazz;Total;48.5;87.5;55.4;16.5;37.5;44.0;14.0;14.5;96.6;32.0;50.0;64.0;1.457;0.65
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Golden State Warriors;Jayson Tatum;7.5;17.5;42.9;3.0;9.0;33.3;8.5;9.0;94.4;4.5;8.5;52.9;1.514;0.51
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Golden State Warriors;Jaylen Brown;8.5;18.5;45.9;3.0;7.5;40.0;3.0;4.5;66.7;5.5;11.0;50.0;1.243;0.54
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Golden State Warriors;Marcus Smart;7.0;12.0;58.3;3.0;6.5;46.2;2.5;3.0;83.3;4.0;5.5;72.7;1.625;0.71
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Golden State Warriors;Josh Richardson;4.0;10.0;40.0;4.0;7.0;57.1;3.0;4.0;75.0;0.0;3.0;0.0;1.500;0.60
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Golden State Warriors;Aaron Nesmith;3.0;8.0;37.5;2.0;6.0;33.3;3.0;4.0;75.0;1.0;2.0;50.0;1.375;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Golden State Warriors;Robert Williams III;3.5;5.5;63.6;0.0;0.0;0.0;0.5;2.5;20.0;3.5;5.5;63.6;1.364;0.64
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Golden State Warriors;Al Horford;2.0;5.0;40.0;1.0;3.0;33.3;1.0;2.0;50.0;1.0;2.0;50.0;1.200;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Golden State Warriors;Enes Freedom;3.0;5.0;60.0;0.0;0.0;0.0;0.0;0.0;0.0;3.0;5.0;60.0;1.200;0.60
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Golden State Warriors;Grant Williams;2.0;2.0;100.0;1.0;1.0;100.0;0.0;0.0;0.0;1.0;1.0;100.0;2.500;1.25
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Golden State Warriors;Payton Pritchard;2.0;5.5;36.4;1.0;4.0;25.0;0.0;0.0;0.0;1.0;1.5;66.7;0.909;0.45
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Golden State Warriors;Daniel Theis;1.0;1.0;100.0;0.0;0.0;0.0;1.0;1.0;100.0;1.0;1.0;100.0;3.000;1.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Golden State Warriors;Nik Stauskas;1.0;1.0;100.0;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;3.000;1.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Golden State Warriors;Sam Hauser;1.0;1.0;100.0;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;3.000;1.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Golden State Warriors;Romeo Langford;0.0;3.0;0.0;0.0;2.0;0.0;2.0;2.0;100.0;0.0;1.0;0.0;0.667;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Golden State Warriors;Derrick White;0.0;8.0;0.0;0.0;5.0;0.0;0.0;0.0;0.0;0.0;3.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Golden State Warriors;Malik Fitts;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Golden State Warriors;Brodric Thomas;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Golden State Warriors;Total;37.0;81.5;45.4;15.0;40.5;37.0;19.5;25.5;76.5;22.0;41.0;53.7;1.331;0.55
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. LA Clippers;Jaylen Brown;13.0;36.0;36.1;1.0;13.0;7.7;3.0;5.0;60.0;12.0;23.0;52.2;0.833;0.38
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. LA Clippers;Jayson Tatum;9.0;20.0;45.0;2.0;7.0;28.6;9.0;10.0;90.0;7.0;13.0;53.8;1.450;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. LA Clippers;Dennis Schroder;8.0;16.0;50.0;2.0;6.0;33.3;1.0;1.0;100.0;6.0;10.0;60.0;1.188;0.56
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. LA Clippers;Marcus Smart;7.0;16.0;43.8;1.0;6.0;16.7;1.0;1.0;100.0;6.0;10.0;60.0;1.000;0.47
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. LA Clippers;Josh Richardson;4.0;11.0;36.4;1.5;5.5;27.3;2.0;2.0;100.0;2.5;5.5;45.5;1.045;0.43
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. LA Clippers;Al Horford;3.5;11.0;31.8;0.5;5.5;9.1;2.5;3.0;83.3;3.0;5.5;54.5;0.909;0.34
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. LA Clippers;Robert Williams III;5.0;7.0;71.4;0.0;0.0;0.0;0.0;0.0;0.0;5.0;7.0;71.4;1.429;0.71
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. LA Clippers;Grant Williams;1.5;5.0;30.0;1.5;3.0;50.0;1.0;1.0;100.0;0.0;2.0;0.0;1.100;0.45
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. LA Clippers;Enes Freedom;2.0;3.0;66.7;0.0;0.0;0.0;0.0;0.0;0.0;2.0;3.0;66.7;1.333;0.67
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. LA Clippers;Payton Pritchard;2.0;10.0;20.0;0.0;5.0;0.0;0.0;0.0;0.0;2.0;5.0;40.0;0.400;0.20
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. LA Clippers;Romeo Langford;2.0;4.5;44.4;0.0;1.5;0.0;0.0;0.5;0.0;2.0;3.0;66.7;0.889;0.44
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. LA Clippers;Brodric Thomas;1.0;5.0;20.0;0.0;3.0;0.0;2.0;2.0;100.0;1.0;2.0;50.0;0.800;0.20
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. LA Clippers;Sam Hauser;1.0;3.0;33.3;1.0;3.0;33.3;0.0;0.0;0.0;0.0;0.0;0.0;1.000;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. LA Clippers;Aaron Nesmith;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. LA Clippers;Total;38.0;93.5;40.6;7.0;37.0;18.9;13.5;16.0;84.4;31.0;56.5;54.9;1.032;0.44
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Jayson Tatum;13.0;24.0;54.2;4.5;8.0;56.3;5.0;6.0;83.3;8.5;16.0;53.1;1.479;0.64
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Dennis Schroder;4.5;10.0;45.0;0.5;3.5;14.3;6.0;7.0;85.7;4.0;6.5;61.5;1.550;0.48
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Marcus Smart;5.5;10.0;55.0;0.5;2.0;25.0;2.5;4.0;62.5;5.0;8.0;62.5;1.400;0.58
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Josh Richardson;4.5;10.0;45.0;1.0;3.5;28.6;3.0;5.0;60.0;3.5;6.5;53.8;1.300;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Robert Williams III;5.0;7.0;71.4;0.0;0.0;0.0;3.0;4.0;75.0;5.0;7.0;71.4;1.857;0.71
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Al Horford;4.0;9.0;44.4;1.0;4.0;25.0;3.5;5.0;70.0;3.0;5.0;60.0;1.389;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Payton Pritchard;1.5;4.5;33.3;1.5;3.5;42.9;1.0;1.0;100.0;0.0;1.0;0.0;1.222;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Aaron Nesmith;2.0;4.0;50.0;0.5;1.5;33.3;0.0;0.0;0.0;1.5;2.5;60.0;1.125;0.56
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Romeo Langford;1.0;3.5;28.6;0.0;1.0;0.0;1.5;1.5;100.0;1.0;2.5;40.0;1.000;0.29
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Grant Williams;1.0;3.0;33.3;0.5;2.0;25.0;0.5;1.0;50.0;0.5;1.0;50.0;1.000;0.42
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Enes Freedom;0.5;1.5;33.3;0.5;0.5;100.0;1.0;1.0;100.0;0.0;1.0;0.0;1.667;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Juancho Hernangomez;0.0;2.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Total;40.0;85.0;47.1;10.5;31.5;33.3;25.5;33.5;76.1;29.5;53.5;55.1;1.365;0.53
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Phoenix Suns;Jaylen Brown;8.0;20.0;40.0;3.0;9.0;33.3;5.0;6.0;83.3;5.0;11.0;45.5;1.200;0.48
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Phoenix Suns;Jayson Tatum;10.0;25.0;40.0;1.0;7.0;14.3;3.0;6.0;50.0;9.0;18.0;50.0;0.960;0.42
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Phoenix Suns;Josh Richardson;5.0;10.0;50.0;2.0;4.0;50.0;7.0;7.0;100.0;3.0;6.0;50.0;1.900;0.60
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Phoenix Suns;Dennis Schroder;7.0;15.0;46.7;0.0;2.0;0.0;1.0;1.0;100.0;7.0;13.0;53.8;1.000;0.47
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Phoenix Suns;Marcus Smart;5.5;15.5;35.5;0.0;3.5;0.0;3.0;4.5;66.7;5.5;12.0;45.8;0.903;0.35
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Phoenix Suns;Grant Williams;4.0;7.0;57.1;1.0;3.0;33.3;2.0;2.5;80.0;3.0;4.0;75.0;1.571;0.64
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Phoenix Suns;Romeo Langford;4.5;8.5;52.9;1.0;3.0;33.3;1.0;1.5;66.7;3.5;5.5;63.6;1.294;0.59
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Phoenix Suns;Robert Williams III;4.5;5.0;90.0;0.0;0.0;0.0;1.0;1.0;100.0;4.5;5.0;90.0;2.000;0.90
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Phoenix Suns;Payton Pritchard;2.5;4.5;55.6;2.0;2.5;80.0;0.0;0.0;0.0;0.5;2.0;25.0;1.556;0.78
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Phoenix Suns;Al Horford;1.5;6.5;23.1;0.0;2.5;0.0;3.5;4.0;87.5;1.5;4.0;37.5;1.000;0.23
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Phoenix Suns;Enes Freedom;3.0;5.0;60.0;0.0;0.0;0.0;0.0;0.0;0.0;3.0;5.0;60.0;1.200;0.60
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Phoenix Suns;Jabari Parker;1.0;3.0;33.3;0.0;0.0;0.0;2.0;2.0;100.0;1.0;3.0;33.3;1.333;0.33
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Phoenix Suns;Aaron Nesmith;1.0;4.0;25.0;0.0;2.0;0.0;0.0;1.0;0.0;1.0;2.0;50.0;0.500;0.25
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Phoenix Suns;Juancho Hernangomez;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Phoenix Suns;Total;40.0;88.0;45.5;7.0;26.5;26.4;19.5;25.0;78.0;33.0;61.5;53.7;1.210;0.49
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Sacramento Kings;Jayson Tatum;13.0;19.5;66.7;7.0;12.0;58.3;1.0;1.5;66.7;6.0;7.5;80.0;1.744;0.85
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Sacramento Kings;Jaylen Brown;11.0;18.5;59.5;4.0;8.5;47.1;4.0;5.5;72.7;7.0;10.0;70.0;1.622;0.70
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Sacramento Kings;Josh Richardson;6.0;9.0;66.7;2.0;4.0;50.0;0.0;0.0;0.0;4.0;5.0;80.0;1.556;0.78
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Sacramento Kings;Payton Pritchard;4.5;6.5;69.2;2.5;3.5;71.4;0.0;0.0;0.0;2.0;3.0;66.7;1.769;0.88
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Sacramento Kings;Daniel Theis;4.0;6.0;66.7;1.0;3.0;33.3;2.0;2.0;100.0;3.0;3.0;100.0;1.833;0.75
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Sacramento Kings;Aaron Nesmith;4.0;8.0;50.0;1.0;4.0;25.0;1.0;1.0;100.0;3.0;4.0;75.0;1.250;0.56
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Sacramento Kings;Robert Williams III;4.0;5.5;72.7;0.0;0.0;0.0;0.5;0.5;100.0;4.0;5.5;72.7;1.545;0.73
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Sacramento Kings;Grant Williams;2.5;6.0;41.7;2.0;4.0;50.0;0.5;1.0;50.0;0.5;2.0;25.0;1.250;0.58
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Sacramento Kings;Derrick White;2.0;8.0;25.0;1.0;5.0;20.0;2.0;2.0;100.0;1.0;3.0;33.3;0.875;0.31
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Sacramento Kings;Al Horford;2.0;9.0;22.2;0.5;1.5;33.3;0.0;0.0;0.0;1.5;7.5;20.0;0.500;0.25
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Sacramento Kings;Marcus Smart;1.5;6.0;25.0;1.0;3.0;33.3;0.5;1.0;50.0;0.5;3.0;16.7;0.750;0.33
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Sacramento Kings;Sam Hauser;1.0;1.0;100.0;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;3.000;1.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Sacramento Kings;Malik Fitts;1.0;1.0;100.0;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;3.000;1.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Sacramento Kings;Romeo Langford;1.0;3.0;33.3;1.0;1.0;100.0;0.0;0.0;0.0;0.0;2.0;0.0;1.000;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Sacramento Kings;Dennis Schroder;1.0;5.0;20.0;0.0;1.0;0.0;0.0;0.0;0.0;1.0;4.0;25.0;0.400;0.20
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Sacramento Kings;Enes Freedom;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Sacramento Kings;Nik Stauskas;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Sacramento Kings;Total;48.5;92.5;52.4;21.0;42.5;49.4;9.0;12.0;75.0;27.5;50.0;55.0;1.373;0.64
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Dallas Mavericks;Jayson Tatum;9.5;21.0;45.2;4.5;9.0;50.0;3.0;3.5;85.7;5.0;12.0;41.7;1.262;0.56
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Dallas Mavericks;Dennis Schroder;9.0;22.0;40.9;1.0;6.0;16.7;1.0;1.0;100.0;8.0;16.0;50.0;0.909;0.43
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Dallas Mavericks;Al Horford;5.5;10.5;52.4;0.5;3.5;14.3;4.0;4.0;100.0;5.0;7.0;71.4;1.476;0.55
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Dallas Mavericks;Jaylen Brown;6.0;16.0;37.5;2.0;7.0;28.6;0.0;0.0;0.0;4.0;9.0;44.4;0.875;0.44
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Dallas Mavericks;Josh Richardson;6.0;12.0;50.0;1.0;3.0;33.3;0.0;0.0;0.0;5.0;9.0;55.6;1.083;0.54
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Dallas Mavericks;Robert Williams III;5.5;6.0;91.7;0.0;0.0;0.0;2.0;3.5;57.1;5.5;6.0;91.7;2.167;0.92
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Dallas Mavericks;Marcus Smart;3.0;8.5;35.3;1.0;3.5;28.6;4.0;5.0;80.0;2.0;5.0;40.0;1.294;0.41
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Dallas Mavericks;Derrick White;2.0;10.0;20.0;0.0;4.0;0.0;1.0;2.0;50.0;2.0;6.0;33.3;0.500;0.20
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Dallas Mavericks;Payton Pritchard;2.0;5.0;40.0;1.0;3.5;28.6;0.0;0.0;0.0;1.0;1.5;66.7;1.000;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Dallas Mavericks;Grant Williams;0.5;3.5;14.3;0.0;2.5;0.0;0.0;0.0;0.0;0.5;1.0;50.0;0.286;0.14
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Dallas Mavericks;Aaron Nesmith;0.0;5.0;0.0;0.0;4.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Dallas Mavericks;Total;37.5;87.0;43.1;9.0;34.0;26.5;14.0;17.5;80.0;28.5;53.0;53.8;1.126;0.48
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Houston Rockets;Jayson Tatum;11.0;23.0;47.8;2.5;10.0;25.0;6.0;6.5;92.3;8.5;13.0;65.4;1.326;0.53
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Houston Rockets;Jaylen Brown;6.0;13.0;46.2;3.0;6.0;50.0;4.0;4.0;100.0;3.0;7.0;42.9;1.462;0.58
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Houston Rockets;Dennis Schroder;6.5;15.0;43.3;1.0;3.0;33.3;4.0;4.5;88.9;5.5;12.0;45.8;1.200;0.47
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Houston Rockets;Al Horford;4.0;10.5;38.1;2.0;5.5;36.4;4.0;4.5;88.9;2.0;5.0;40.0;1.333;0.48
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Houston Rockets;Grant Williams;3.5;5.0;70.0;2.5;4.0;62.5;0.5;1.0;50.0;1.0;1.0;100.0;2.000;0.95
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Houston Rockets;Romeo Langford;4.0;9.0;44.4;2.0;4.0;50.0;0.0;0.0;0.0;2.0;5.0;40.0;1.111;0.56
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Houston Rockets;Marcus Smart;3.0;7.5;40.0;1.0;4.0;25.0;0.5;0.5;100.0;2.0;3.5;57.1;1.000;0.47
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Houston Rockets;Josh Richardson;3.0;8.0;37.5;1.0;5.0;20.0;0.0;0.0;0.0;2.0;3.0;66.7;0.875;0.44
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Houston Rockets;Enes Freedom;2.0;4.0;50.0;0.0;1.0;0.0;0.0;1.0;0.0;2.0;3.0;66.7;1.000;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Houston Rockets;Payton Pritchard;1.0;4.5;22.2;1.0;2.5;40.0;0.0;0.0;0.0;0.0;2.0;0.0;0.667;0.33
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Houston Rockets;Aaron Nesmith;1.0;4.5;22.2;0.5;3.5;14.3;0.0;0.0;0.0;0.5;1.0;50.0;0.556;0.28
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Houston Rockets;Robert Williams III;1.0;1.5;66.7;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.5;66.7;1.333;0.67
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Houston Rockets;Juancho Hernangomez;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Houston Rockets;Sam Hauser;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Houston Rockets;Bruno Fernando;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Houston Rockets;Total;38.5;89.0;43.3;13.5;41.0;32.9;17.0;19.5;87.2;25.0;48.0;52.1;1.208;0.51
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Jayson Tatum;12.5;19.5;64.1;4.0;7.5;53.3;5.0;5.5;90.9;8.5;12.0;70.8;1.744;0.74
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Jaylen Brown;8.0;16.0;50.0;2.0;7.0;28.6;0.0;0.0;0.0;6.0;9.0;66.7;1.125;0.56
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Al Horford;7.0;12.0;58.3;2.5;4.5;55.6;0.5;0.5;100.0;4.5;7.5;60.0;1.417;0.69
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Marcus Smart;4.5;12.0;37.5;2.0;6.5;30.8;0.0;0.0;0.0;2.5;5.5;45.5;0.917;0.46
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Luke Kornet;5.0;7.0;71.4;0.0;1.0;0.0;0.0;0.0;0.0;5.0;6.0;83.3;1.429;0.71
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Derrick White;3.5;7.5;46.7;1.5;3.5;42.9;1.5;2.0;75.0;2.0;4.0;50.0;1.333;0.57
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Robert Williams III;5.0;6.0;83.3;0.0;0.0;0.0;0.0;0.0;0.0;5.0;6.0;83.3;1.667;0.83
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Grant Williams;3.0;6.5;46.2;2.0;3.5;57.1;2.0;2.0;100.0;1.0;3.0;33.3;1.538;0.62
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Daniel Theis;3.5;6.0;58.3;0.0;1.5;0.0;1.5;2.0;75.0;3.5;4.5;77.8;1.417;0.58
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Payton Pritchard;3.0;6.0;50.0;1.5;4.0;37.5;1.0;1.0;100.0;1.5;2.0;75.0;1.417;0.63
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Malik Fitts;3.0;4.0;75.0;1.0;1.0;100.0;0.0;0.0;0.0;2.0;3.0;66.7;1.750;0.88
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Sam Hauser;2.0;4.0;50.0;1.0;3.0;33.3;0.0;0.0;0.0;1.0;1.0;100.0;1.250;0.63
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Matt Ryan;1.0;5.0;20.0;1.0;5.0;20.0;0.0;0.0;0.0;0.0;0.0;0.0;0.600;0.30
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Brodric Thomas;1.0;2.0;50.0;1.0;1.0;100.0;0.0;0.0;0.0;0.0;1.0;0.0;1.500;0.75
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Aaron Nesmith;0.5;2.5;20.0;0.5;2.5;20.0;1.0;1.0;100.0;0.0;0.0;0.0;1.000;0.30
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Total;50.0;94.0;53.2;17.0;42.5;40.0;12.5;14.0;89.3;33.0;51.5;64.1;1.378;0.62
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Jayson Tatum;13.0;22.0;59.1;2.0;8.5;23.5;4.5;5.5;81.8;11.0;13.5;81.5;1.477;0.64
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Jaylen Brown;9.5;18.5;51.4;3.5;8.0;43.8;4.5;5.5;81.8;6.0;10.5;57.1;1.459;0.61
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Dennis Schroder;5.0;10.0;50.0;2.0;4.0;50.0;1.5;2.0;75.0;3.0;6.0;50.0;1.350;0.60
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Al Horford;4.0;7.5;53.3;2.0;3.5;57.1;0.0;0.0;0.0;2.0;4.0;50.0;1.333;0.67
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Robert Williams III;4.0;6.0;66.7;0.0;1.0;0.0;0.0;0.0;0.0;4.0;5.0;80.0;1.333;0.67
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Grant Williams;2.5;4.5;55.6;1.5;3.5;42.9;0.0;0.0;0.0;1.0;1.0;100.0;1.444;0.72
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Josh Richardson;2.5;5.5;45.5;1.0;3.0;33.3;0.0;0.0;0.0;1.5;2.5;60.0;1.091;0.55
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Marcus Smart;2.0;6.0;33.3;0.0;3.0;0.0;1.0;2.0;50.0;2.0;3.0;66.7;0.833;0.33
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Aaron Nesmith;1.0;3.0;33.3;0.0;2.0;0.0;0.5;0.5;100.0;1.0;1.0;100.0;0.833;0.33
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Enes Freedom;0.0;1.0;0.0;0.0;0.0;0.0;2.0;2.0;100.0;0.0;1.0;0.0;2.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Sam Hauser;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Payton Pritchard;0.0;1.5;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.5;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Bruno Fernando;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Romeo Langford;0.0;1.0;0.0;0.0;0.5;0.0;0.0;0.0;0.0;0.0;0.5;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Total;40.5;80.5;50.3;12.0;36.5;32.9;12.5;15.5;80.6;28.5;44.0;64.8;1.311;0.58
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. San Antonio Spurs;Jaylen Brown;9.0;20.5;43.9;3.5;7.5;46.7;1.5;3.0;50.0;5.5;13.0;42.3;1.122;0.52
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. San Antonio Spurs;Jayson Tatum;7.5;21.5;34.9;1.5;6.5;23.1;5.0;5.5;90.9;6.0;15.0;40.0;1.000;0.38
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. San Antonio Spurs;Marcus Smart;6.0;13.0;46.2;1.0;3.5;28.6;0.5;1.0;50.0;5.0;9.5;52.6;1.038;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. San Antonio Spurs;Dennis Schroder;5.0;14.0;35.7;1.0;4.5;22.2;0.5;0.5;100.0;4.0;9.5;42.1;0.821;0.39
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. San Antonio Spurs;Josh Richardson;3.0;5.0;60.0;1.0;2.0;50.0;0.0;0.0;0.0;2.0;3.0;66.7;1.400;0.70
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. San Antonio Spurs;Robert Williams III;3.0;5.0;60.0;0.0;0.0;0.0;0.0;0.0;0.0;3.0;5.0;60.0;1.200;0.60
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. San Antonio Spurs;Jabari Parker;1.0;1.0;100.0;1.0;1.0;100.0;2.0;2.0;100.0;0.0;0.0;0.0;5.000;1.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. San Antonio Spurs;Aaron Nesmith;2.0;4.0;50.0;1.0;3.0;33.3;0.0;0.0;0.0;1.0;1.0;100.0;1.250;0.63
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. San Antonio Spurs;Grant Williams;2.0;3.0;66.7;0.5;1.5;33.3;0.0;0.0;0.0;1.5;1.5;100.0;1.500;0.75
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. San Antonio Spurs;Al Horford;2.0;7.5;26.7;0.0;3.0;0.0;0.0;0.0;0.0;2.0;4.5;44.4;0.533;0.27
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. San Antonio Spurs;Enes Freedom;1.0;5.0;20.0;0.0;0.0;0.0;1.0;2.0;50.0;1.0;5.0;20.0;0.600;0.20
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. San Antonio Spurs;Romeo Langford;0.5;1.5;33.3;0.5;1.5;33.3;0.0;0.0;0.0;0.0;0.0;0.0;1.000;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;vs. San Antonio Spurs;Total;37.0;91.0;40.7;9.5;31.0;30.6;9.0;12.0;75.0;27.5;60.0;45.8;1.016;0.46
+Boston Celtics;bos;2021 - 2022 Regular Season;October;Jayson Tatum;10.0;25.0;40.0;2.5;9.2;27.3;4.2;5.3;78.1;7.5;15.8;47.4;1.067;0.45
+Boston Celtics;bos;2021 - 2022 Regular Season;October;Jaylen Brown;10.0;20.6;48.5;2.4;7.4;32.4;4.0;5.0;80.0;7.6;13.2;57.6;1.282;0.54
+Boston Celtics;bos;2021 - 2022 Regular Season;October;Dennis Schroder;4.3;11.7;37.1;1.7;4.7;35.7;3.8;4.7;82.1;2.7;7.0;38.1;1.214;0.44
+Boston Celtics;bos;2021 - 2022 Regular Season;October;Al Horford;5.0;11.3;44.4;0.8;3.5;21.4;2.3;2.5;90.0;4.3;7.8;54.8;1.156;0.48
+Boston Celtics;bos;2021 - 2022 Regular Season;October;Robert Williams III;4.2;5.8;72.4;0.0;0.0;0.0;2.0;3.0;66.7;4.2;5.8;72.4;1.793;0.72
+Boston Celtics;bos;2021 - 2022 Regular Season;October;Grant Williams;3.2;5.5;57.6;1.7;3.3;50.0;1.8;2.0;91.7;1.5;2.2;69.2;1.788;0.73
+Boston Celtics;bos;2021 - 2022 Regular Season;October;Jabari Parker;3.3;5.3;62.5;1.3;2.0;66.7;0.0;0.0;0.0;2.0;3.3;60.0;1.500;0.75
+Boston Celtics;bos;2021 - 2022 Regular Season;October;Josh Richardson;2.8;6.4;43.8;1.2;3.0;40.0;0.6;0.6;100.0;1.6;3.4;47.1;1.156;0.53
+Boston Celtics;bos;2021 - 2022 Regular Season;October;Marcus Smart;2.4;9.4;25.5;1.6;6.8;23.5;1.0;1.0;100.0;0.8;2.6;30.8;0.787;0.34
+Boston Celtics;bos;2021 - 2022 Regular Season;October;Romeo Langford;2.3;4.7;50.0;1.3;2.7;50.0;0.0;0.0;0.0;1.0;2.0;50.0;1.286;0.64
+Boston Celtics;bos;2021 - 2022 Regular Season;October;Payton Pritchard;1.2;4.0;30.0;1.0;3.2;31.3;0.0;0.0;0.0;0.2;0.8;25.0;0.850;0.43
+Boston Celtics;bos;2021 - 2022 Regular Season;October;Juancho Hernangomez;1.0;2.0;50.0;0.5;0.5;100.0;0.5;1.0;50.0;0.5;1.5;33.3;1.500;0.63
+Boston Celtics;bos;2021 - 2022 Regular Season;October;Enes Freedom;1.0;2.5;40.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;2.5;40.0;0.800;0.40
+Boston Celtics;bos;2021 - 2022 Regular Season;October;Aaron Nesmith;0.0;3.3;0.0;0.0;3.0;0.0;0.0;0.0;0.0;0.0;0.3;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;October;Total;41.5;96.3;43.1;13.0;40.5;32.1;17.8;22.0;81.1;28.5;55.8;51.0;1.182;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;November;Jayson Tatum;8.1;20.5;39.3;2.7;8.1;33.6;4.5;5.5;80.7;5.3;12.4;43.0;1.136;0.46
+Boston Celtics;bos;2021 - 2022 Regular Season;November;Jaylen Brown;6.9;14.9;46.2;2.6;6.3;40.9;3.3;4.3;76.7;4.3;8.6;50.0;1.317;0.55
+Boston Celtics;bos;2021 - 2022 Regular Season;November;Dennis Schroder;7.1;15.4;46.0;1.4;4.4;30.6;2.8;2.9;95.1;5.7;10.9;52.3;1.191;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;November;Marcus Smart;4.4;10.2;43.1;1.4;4.5;31.3;2.2;3.0;73.3;3.0;5.7;52.3;1.216;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;November;Al Horford;4.4;9.7;45.6;1.4;4.4;30.6;2.1;2.6;83.3;3.1;5.3;58.1;1.272;0.53
+Boston Celtics;bos;2021 - 2022 Regular Season;November;Josh Richardson;3.9;8.1;48.1;1.0;3.2;31.3;1.7;2.1;81.0;2.9;4.9;59.2;1.296;0.54
+Boston Celtics;bos;2021 - 2022 Regular Season;November;Robert Williams III;4.2;5.7;74.5;0.0;0.0;0.0;0.4;0.9;50.0;4.2;5.7;74.5;1.569;0.75
+Boston Celtics;bos;2021 - 2022 Regular Season;November;Grant Williams;2.4;4.9;48.6;1.4;3.5;40.4;0.5;0.6;88.9;1.0;1.5;68.2;1.365;0.63
+Boston Celtics;bos;2021 - 2022 Regular Season;November;Enes Freedom;1.8;3.9;45.2;0.1;0.3;50.0;1.8;2.0;87.5;1.6;3.6;44.8;1.387;0.47
+Boston Celtics;bos;2021 - 2022 Regular Season;November;Romeo Langford;1.6;4.4;36.1;0.8;1.9;40.7;0.6;0.8;72.7;0.8;2.4;32.4;1.033;0.45
+Boston Celtics;bos;2021 - 2022 Regular Season;November;Jabari Parker;0.8;2.0;37.5;0.3;0.8;33.3;1.5;1.5;100.0;0.5;1.3;40.0;1.625;0.44
+Boston Celtics;bos;2021 - 2022 Regular Season;November;Aaron Nesmith;1.1;2.9;39.0;0.6;2.1;27.6;0.1;0.1;100.0;0.6;0.9;66.7;1.024;0.49
+Boston Celtics;bos;2021 - 2022 Regular Season;November;Payton Pritchard;0.3;2.1;14.8;0.2;1.1;14.3;0.2;0.2;100.0;0.2;1.0;15.4;0.481;0.19
+Boston Celtics;bos;2021 - 2022 Regular Season;November;Juancho Hernangomez;0.1;1.1;10.0;0.0;0.8;0.0;0.3;0.3;100.0;0.1;0.3;33.3;0.500;0.10
+Boston Celtics;bos;2021 - 2022 Regular Season;November;Sam Hauser;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;November;Bruno Fernando;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;November;Brodric Thomas;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;November;Total;37.9;86.8;43.7;11.5;35.0;32.8;17.1;20.9;81.8;26.5;51.8;51.1;1.204;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;December;Jayson Tatum;9.5;20.8;45.6;3.0;8.6;35.0;5.9;6.9;85.5;6.5;12.3;53.1;1.340;0.53
+Boston Celtics;bos;2021 - 2022 Regular Season;December;Jaylen Brown;8.3;20.3;40.9;2.9;8.7;33.3;4.5;6.0;75.0;5.4;11.6;46.6;1.182;0.48
+Boston Celtics;bos;2021 - 2022 Regular Season;December;Dennis Schroder;5.1;13.0;39.3;1.4;4.2;34.2;3.0;3.4;87.1;3.7;8.8;41.8;1.128;0.45
+Boston Celtics;bos;2021 - 2022 Regular Season;December;Josh Richardson;4.3;9.4;45.9;2.0;4.6;43.9;2.4;2.9;84.6;2.3;4.9;47.7;1.388;0.56
+Boston Celtics;bos;2021 - 2022 Regular Season;December;Marcus Smart;4.2;10.3;41.0;1.1;4.0;26.9;2.1;2.7;77.1;3.2;6.3;50.0;1.127;0.46
+Boston Celtics;bos;2021 - 2022 Regular Season;December;Al Horford;3.9;9.4;41.2;1.4;5.0;28.9;1.6;1.8;87.5;2.4;4.4;55.0;1.141;0.49
+Boston Celtics;bos;2021 - 2022 Regular Season;December;Robert Williams III;4.7;6.3;75.0;0.0;0.0;0.0;1.1;1.8;64.0;4.7;6.3;75.0;1.682;0.75
+Boston Celtics;bos;2021 - 2022 Regular Season;December;Payton Pritchard;3.7;8.4;43.6;2.3;5.3;42.2;0.4;0.4;100.0;1.4;3.1;45.9;1.188;0.57
+Boston Celtics;bos;2021 - 2022 Regular Season;December;Grant Williams;2.7;5.4;50.0;1.7;3.4;50.0;1.4;1.6;87.5;1.0;2.0;50.0;1.574;0.66
+Boston Celtics;bos;2021 - 2022 Regular Season;December;Romeo Langford;2.5;5.6;44.8;0.4;2.3;18.5;0.6;1.0;58.3;2.1;3.3;62.5;1.075;0.49
+Boston Celtics;bos;2021 - 2022 Regular Season;December;Enes Freedom;2.3;3.9;58.1;0.0;0.2;0.0;0.2;0.4;50.0;2.3;3.7;61.0;1.209;0.58
+Boston Celtics;bos;2021 - 2022 Regular Season;December;Aaron Nesmith;1.6;4.0;40.0;0.7;2.5;28.0;0.5;0.7;71.4;0.9;1.5;60.0;1.100;0.49
+Boston Celtics;bos;2021 - 2022 Regular Season;December;Jabari Parker;1.3;3.3;38.5;0.8;1.5;50.0;0.8;0.8;100.0;0.5;1.8;28.6;1.231;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;December;Sam Hauser;1.0;2.7;37.5;1.0;2.7;37.5;0.0;0.0;0.0;0.0;0.0;0.0;1.125;0.56
+Boston Celtics;bos;2021 - 2022 Regular Season;December;Joe Johnson;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Boston Celtics;bos;2021 - 2022 Regular Season;December;Justin Jackson;0.0;1.0;0.0;0.0;0.0;0.0;2.0;2.0;100.0;0.0;1.0;0.0;2.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;December;Juancho Hernangomez;0.3;2.0;16.7;0.3;1.7;20.0;0.3;0.7;50.0;0.0;0.3;0.0;0.667;0.25
+Boston Celtics;bos;2021 - 2022 Regular Season;December;Bruno Fernando;0.7;1.0;66.7;0.0;0.0;0.0;0.0;0.0;0.0;0.7;1.0;66.7;1.333;0.67
+Boston Celtics;bos;2021 - 2022 Regular Season;December;Brodric Thomas;0.3;2.0;16.7;0.0;1.3;0.0;0.7;0.7;100.0;0.3;0.7;50.0;0.667;0.17
+Boston Celtics;bos;2021 - 2022 Regular Season;December;CJ Miles;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;December;Total;39.6;87.4;45.3;12.5;36.4;34.2;17.6;22.1;79.8;27.1;51.0;53.2;1.250;0.52
+Boston Celtics;bos;2021 - 2022 Regular Season;January;Jayson Tatum;9.3;20.1;46.5;2.8;8.4;33.3;5.5;6.3;88.3;6.5;11.7;56.0;1.346;0.53
+Boston Celtics;bos;2021 - 2022 Regular Season;January;Jaylen Brown;9.6;20.0;48.1;3.1;8.4;37.3;3.8;4.5;83.3;6.5;11.6;55.9;1.306;0.56
+Boston Celtics;bos;2021 - 2022 Regular Season;January;Marcus Smart;3.8;9.0;42.2;2.0;4.9;40.8;1.9;2.3;82.6;1.8;4.1;43.9;1.278;0.53
+Boston Celtics;bos;2021 - 2022 Regular Season;January;Dennis Schroder;4.1;8.8;46.8;1.3;3.1;40.0;1.9;2.6;73.2;2.9;5.7;50.5;1.291;0.54
+Boston Celtics;bos;2021 - 2022 Regular Season;January;Robert Williams III;3.9;5.6;69.9;0.0;0.1;0.0;1.4;1.6;85.7;3.9;5.5;70.8;1.644;0.70
+Boston Celtics;bos;2021 - 2022 Regular Season;January;Josh Richardson;3.1;7.4;42.4;1.3;3.1;40.0;0.6;0.7;90.9;1.9;4.3;44.1;1.102;0.51
+Boston Celtics;bos;2021 - 2022 Regular Season;January;Al Horford;2.9;7.0;42.0;1.0;3.2;31.4;0.5;0.7;72.7;1.9;3.8;50.8;1.054;0.49
+Boston Celtics;bos;2021 - 2022 Regular Season;January;Grant Williams;1.9;4.6;41.1;1.3;3.4;37.0;0.4;0.5;87.5;0.6;1.2;52.6;1.192;0.55
+Boston Celtics;bos;2021 - 2022 Regular Season;January;Payton Pritchard;1.5;4.0;37.5;0.8;2.3;37.0;0.0;0.0;0.0;0.7;1.8;38.1;0.958;0.48
+Boston Celtics;bos;2021 - 2022 Regular Season;January;Aaron Nesmith;1.3;3.2;41.4;0.2;1.6;14.3;0.7;0.8;85.7;1.1;1.7;66.7;1.103;0.45
+Boston Celtics;bos;2021 - 2022 Regular Season;January;Romeo Langford;1.2;2.5;46.7;0.5;1.3;40.0;0.3;0.4;60.0;0.7;1.3;53.3;1.233;0.57
+Boston Celtics;bos;2021 - 2022 Regular Season;January;Enes Freedom;0.6;0.9;63.6;0.0;0.0;0.0;0.7;0.7;100.0;0.6;0.9;63.6;2.000;0.64
+Boston Celtics;bos;2021 - 2022 Regular Season;January;Bruno Fernando;0.4;1.0;42.9;0.1;0.1;100.0;0.6;0.7;80.0;0.3;0.9;33.3;1.571;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;January;Sam Hauser;0.2;0.8;25.0;0.2;0.8;25.0;0.0;0.0;0.0;0.0;0.0;0.0;0.750;0.38
+Boston Celtics;bos;2021 - 2022 Regular Season;January;Jabari Parker;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;January;Juancho Hernangomez;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;January;Brodric Thomas;0.0;1.5;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.5;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;January;Total;39.4;85.1;46.3;13.0;36.2;35.9;16.0;19.1;83.7;26.4;48.9;54.0;1.267;0.54
+Boston Celtics;bos;2021 - 2022 Regular Season;February;Jayson Tatum;8.2;18.8;43.5;2.7;8.4;32.6;5.4;6.1;88.1;5.5;10.5;52.2;1.300;0.51
+Boston Celtics;bos;2021 - 2022 Regular Season;February;Jaylen Brown;8.1;17.0;47.6;1.5;5.5;28.3;3.5;5.1;67.9;6.5;11.5;56.7;1.246;0.52
+Boston Celtics;bos;2021 - 2022 Regular Season;February;Marcus Smart;4.2;9.1;46.2;1.8;5.1;35.3;2.8;3.4;82.4;2.4;4.0;60.0;1.429;0.56
+Boston Celtics;bos;2021 - 2022 Regular Season;February;Dennis Schroder;5.0;10.3;48.8;1.3;3.5;35.7;1.0;1.0;100.0;3.8;6.8;55.6;1.195;0.55
+Boston Celtics;bos;2021 - 2022 Regular Season;February;Robert Williams III;5.1;7.4;68.7;0.0;0.0;0.0;0.9;1.1;80.0;5.1;7.4;68.7;1.493;0.69
+Boston Celtics;bos;2021 - 2022 Regular Season;February;Derrick White;3.7;9.6;38.8;1.3;5.1;25.0;2.1;2.7;78.9;2.4;4.4;54.8;1.134;0.46
+Boston Celtics;bos;2021 - 2022 Regular Season;February;Grant Williams;3.3;6.2;52.9;1.7;3.5;48.7;1.3;1.3;100.0;1.5;2.6;58.6;1.544;0.67
+Boston Celtics;bos;2021 - 2022 Regular Season;February;Al Horford;3.8;7.2;52.8;1.2;3.6;33.3;0.5;0.6;83.3;2.6;3.6;72.2;1.292;0.61
+Boston Celtics;bos;2021 - 2022 Regular Season;February;Josh Richardson;2.5;6.8;37.0;2.0;4.5;44.4;2.3;2.5;90.0;0.5;2.3;22.2;1.370;0.52
+Boston Celtics;bos;2021 - 2022 Regular Season;February;Payton Pritchard;2.7;5.3;50.9;1.3;3.1;41.9;0.6;0.6;100.0;1.4;2.2;63.6;1.377;0.63
+Boston Celtics;bos;2021 - 2022 Regular Season;February;Romeo Langford;2.0;4.0;50.0;1.0;2.0;50.0;0.7;2.0;33.3;1.0;2.0;50.0;1.417;0.63
+Boston Celtics;bos;2021 - 2022 Regular Season;February;Aaron Nesmith;1.7;3.9;44.4;0.9;2.1;40.0;0.4;0.4;100.0;0.9;1.7;50.0;1.222;0.56
+Boston Celtics;bos;2021 - 2022 Regular Season;February;Daniel Theis;2.0;2.8;72.7;0.5;1.0;50.0;0.0;0.0;0.0;1.5;1.8;85.7;1.636;0.82
+Boston Celtics;bos;2021 - 2022 Regular Season;February;Brodric Thomas;2.0;2.0;100.0;0.5;0.5;100.0;0.0;1.0;0.0;1.5;1.5;100.0;2.250;1.13
+Boston Celtics;bos;2021 - 2022 Regular Season;February;Sam Hauser;1.3;2.3;57.1;1.3;2.3;57.1;0.0;0.0;0.0;0.0;0.0;0.0;1.714;0.86
+Boston Celtics;bos;2021 - 2022 Regular Season;February;Enes Freedom;1.5;3.5;42.9;0.5;0.5;100.0;0.0;0.0;0.0;1.0;3.0;33.3;1.000;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;February;Bruno Fernando;0.7;1.3;50.0;0.0;0.0;0.0;0.0;0.0;0.0;0.7;1.3;50.0;1.000;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;February;Luke Kornet;0.0;1.0;0.0;0.0;0.3;0.0;0.0;0.0;0.0;0.0;0.7;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;February;Kelan Martin;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;February;Malik Fitts;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;February;Total;42.1;87.1;48.3;13.5;37.5;35.8;17.4;21.5;80.6;28.6;49.5;57.8;1.320;0.56
+Boston Celtics;bos;2021 - 2022 Regular Season;March;Jayson Tatum;11.4;21.2;53.8;4.2;9.5;44.7;5.8;6.5;90.5;7.2;11.7;61.2;1.553;0.64
+Boston Celtics;bos;2021 - 2022 Regular Season;March;Jaylen Brown;8.5;17.3;49.0;2.3;6.1;38.4;3.2;4.3;73.1;6.2;11.3;54.8;1.298;0.56
+Boston Celtics;bos;2021 - 2022 Regular Season;March;Marcus Smart;5.0;12.2;41.1;1.9;5.7;33.8;2.0;2.5;78.8;3.1;6.5;47.6;1.146;0.49
+Boston Celtics;bos;2021 - 2022 Regular Season;March;Derrick White;3.4;9.0;37.3;1.1;4.1;26.3;2.4;2.6;91.9;2.3;4.9;46.4;1.135;0.43
+Boston Celtics;bos;2021 - 2022 Regular Season;March;Robert Williams III;4.5;5.5;81.7;0.0;0.0;0.0;0.8;1.0;81.8;4.5;5.5;81.7;1.783;0.82
+Boston Celtics;bos;2021 - 2022 Regular Season;March;Al Horford;3.3;7.3;46.0;1.5;3.8;40.0;1.1;1.3;86.7;1.8;3.5;52.4;1.276;0.56
+Boston Celtics;bos;2021 - 2022 Regular Season;March;Grant Williams;3.1;7.1;43.0;0.9;3.0;31.0;1.8;2.1;86.2;2.1;4.1;51.7;1.240;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;March;Payton Pritchard;3.0;6.1;48.8;2.2;4.6;47.7;0.4;0.4;100.0;0.8;1.5;52.4;1.395;0.67
+Boston Celtics;bos;2021 - 2022 Regular Season;March;Daniel Theis;2.7;4.4;60.4;0.3;1.2;28.6;1.3;2.0;66.7;2.3;3.3;71.8;1.585;0.64
+Boston Celtics;bos;2021 - 2022 Regular Season;March;Aaron Nesmith;1.6;3.8;42.1;0.4;1.8;22.2;0.6;1.0;60.0;1.2;2.0;60.0;1.105;0.47
+Boston Celtics;bos;2021 - 2022 Regular Season;March;Sam Hauser;1.0;1.8;56.3;0.8;1.3;58.3;0.0;0.0;0.0;0.2;0.4;50.0;1.563;0.78
+Boston Celtics;bos;2021 - 2022 Regular Season;March;Luke Kornet;1.0;1.6;62.5;0.0;0.2;0.0;0.0;0.2;0.0;1.0;1.4;71.4;1.250;0.63
+Boston Celtics;bos;2021 - 2022 Regular Season;March;Brodric Thomas;1.0;2.0;50.0;0.0;1.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;1.000;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;March;Nik Stauskas;0.3;1.0;33.3;0.3;1.0;33.3;0.2;0.3;50.0;0.0;0.0;0.0;1.167;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;March;Malik Fitts;0.3;0.8;33.3;0.3;0.8;33.3;0.0;0.0;0.0;0.0;0.0;0.0;1.000;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;March;Kelan Martin;0.0;0.5;0.0;0.0;0.5;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;March;Total;42.4;86.3;49.2;14.4;37.6;38.2;17.6;21.3;82.6;28.1;48.7;57.6;1.353;0.57
+Boston Celtics;bos;2021 - 2022 Regular Season;April;Jaylen Brown;10.0;18.4;54.3;2.4;5.8;41.4;3.4;4.6;73.9;7.6;12.6;60.3;1.402;0.61
+Boston Celtics;bos;2021 - 2022 Regular Season;April;Jayson Tatum;8.8;18.3;47.9;2.8;7.5;36.7;4.8;6.5;73.1;6.0;10.8;55.8;1.370;0.55
+Boston Celtics;bos;2021 - 2022 Regular Season;April;Al Horford;6.0;8.0;75.0;2.0;3.0;66.7;0.3;0.3;100.0;4.0;5.0;80.0;1.781;0.88
+Boston Celtics;bos;2021 - 2022 Regular Season;April;Derrick White;4.2;7.4;56.8;2.0;3.6;55.6;3.0;3.8;78.9;2.2;3.8;57.9;1.811;0.70
+Boston Celtics;bos;2021 - 2022 Regular Season;April;Daniel Theis;5.4;9.6;56.3;0.8;2.0;40.0;1.2;1.6;75.0;4.6;7.6;60.5;1.333;0.60
+Boston Celtics;bos;2021 - 2022 Regular Season;April;Marcus Smart;4.4;9.0;48.9;2.6;6.6;39.4;0.8;0.8;100.0;1.8;2.4;75.0;1.356;0.63
+Boston Celtics;bos;2021 - 2022 Regular Season;April;Payton Pritchard;3.8;7.6;50.0;2.6;5.6;46.4;0.4;0.4;100.0;1.2;2.0;60.0;1.395;0.67
+Boston Celtics;bos;2021 - 2022 Regular Season;April;Grant Williams;2.8;6.0;46.7;1.2;3.4;35.3;1.4;1.4;100.0;1.6;2.6;61.5;1.367;0.57
+Boston Celtics;bos;2021 - 2022 Regular Season;April;Aaron Nesmith;2.0;4.0;50.0;1.5;3.5;42.9;0.5;0.5;100.0;0.5;0.5;100.0;1.500;0.69
+Boston Celtics;bos;2021 - 2022 Regular Season;April;Luke Kornet;1.8;2.5;70.0;0.0;0.5;0.0;0.5;0.5;100.0;1.8;2.0;87.5;1.600;0.70
+Boston Celtics;bos;2021 - 2022 Regular Season;April;Sam Hauser;1.5;3.3;46.2;1.0;2.8;36.4;0.0;0.0;0.0;0.5;0.5;100.0;1.231;0.62
+Boston Celtics;bos;2021 - 2022 Regular Season;April;Malik Fitts;1.7;2.0;83.3;0.7;0.7;100.0;0.0;0.0;0.0;1.0;1.3;75.0;2.000;1.00
+Boston Celtics;bos;2021 - 2022 Regular Season;April;Matt Ryan;1.0;5.0;20.0;1.0;5.0;20.0;0.0;0.0;0.0;0.0;0.0;0.0;0.600;0.30
+Boston Celtics;bos;2021 - 2022 Regular Season;April;Brodric Thomas;1.0;1.5;66.7;0.5;0.5;100.0;0.5;0.5;100.0;0.5;1.0;50.0;2.000;0.83
+Boston Celtics;bos;2021 - 2022 Regular Season;April;Juwan Morgan;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;April;Total;48.2;89.6;53.8;18.2;42.4;42.9;15.2;19.0;80.0;30.0;47.2;63.6;1.449;0.64
+Boston Celtics;bos;2021 - 2022 Regular Season;Atlantic Division;Jayson Tatum;7.9;19.2;41.3;2.9;8.5;34.4;5.0;5.9;85.2;5.0;10.7;46.9;1.240;0.49
+Boston Celtics;bos;2021 - 2022 Regular Season;Atlantic Division;Jaylen Brown;7.5;16.3;46.1;2.4;7.1;34.3;3.6;4.9;75.0;5.1;9.2;55.0;1.294;0.54
+Boston Celtics;bos;2021 - 2022 Regular Season;Atlantic Division;Marcus Smart;4.6;10.9;42.1;2.5;6.3;40.0;1.9;2.5;73.7;2.1;4.6;44.9;1.244;0.54
+Boston Celtics;bos;2021 - 2022 Regular Season;Atlantic Division;Josh Richardson;3.8;7.7;49.3;2.0;3.3;60.0;2.6;2.9;88.5;1.8;4.3;41.0;1.580;0.62
+Boston Celtics;bos;2021 - 2022 Regular Season;Atlantic Division;Robert Williams III;5.3;7.0;75.3;0.0;0.0;0.0;1.3;1.6;77.8;5.3;7.0;75.3;1.688;0.75
+Boston Celtics;bos;2021 - 2022 Regular Season;Atlantic Division;Derrick White;3.3;9.3;35.1;1.0;3.5;28.6;3.8;4.0;93.8;2.3;5.8;39.1;1.216;0.41
+Boston Celtics;bos;2021 - 2022 Regular Season;Atlantic Division;Dennis Schroder;3.9;10.0;39.0;0.9;3.0;30.0;1.8;2.3;78.3;3.0;7.0;42.9;1.050;0.44
+Boston Celtics;bos;2021 - 2022 Regular Season;Atlantic Division;Al Horford;3.5;7.8;45.2;1.2;4.2;28.0;1.0;1.0;100.0;2.3;3.6;65.1;1.183;0.53
+Boston Celtics;bos;2021 - 2022 Regular Season;Atlantic Division;Grant Williams;2.6;5.8;45.7;1.4;3.5;40.8;0.8;0.9;91.7;1.2;2.3;53.1;1.296;0.58
+Boston Celtics;bos;2021 - 2022 Regular Season;Atlantic Division;Payton Pritchard;2.5;5.5;45.8;1.3;3.4;38.6;0.2;0.2;100.0;1.2;2.2;57.1;1.194;0.58
+Boston Celtics;bos;2021 - 2022 Regular Season;Atlantic Division;Daniel Theis;2.3;3.8;60.0;0.3;1.0;25.0;1.5;3.0;50.0;2.0;2.8;72.7;1.667;0.63
+Boston Celtics;bos;2021 - 2022 Regular Season;Atlantic Division;Enes Freedom;2.1;3.7;56.8;0.1;0.3;33.3;0.7;0.8;87.5;2.0;3.4;58.8;1.351;0.58
+Boston Celtics;bos;2021 - 2022 Regular Season;Atlantic Division;Aaron Nesmith;1.9;4.5;42.6;0.8;2.8;27.3;0.4;0.4;100.0;1.2;1.8;66.7;1.111;0.51
+Boston Celtics;bos;2021 - 2022 Regular Season;Atlantic Division;Sam Hauser;1.8;3.0;58.3;1.3;2.3;55.6;0.0;0.0;0.0;0.5;0.8;66.7;1.583;0.79
+Boston Celtics;bos;2021 - 2022 Regular Season;Atlantic Division;Romeo Langford;1.4;4.0;36.1;1.0;2.1;47.4;0.3;0.7;50.0;0.4;1.9;23.5;1.056;0.49
+Boston Celtics;bos;2021 - 2022 Regular Season;Atlantic Division;Jabari Parker;1.0;3.0;33.3;0.0;0.0;0.0;2.0;2.0;100.0;1.0;3.0;33.3;1.333;0.33
+Boston Celtics;bos;2021 - 2022 Regular Season;Atlantic Division;Brodric Thomas;1.3;1.3;100.0;0.3;0.3;100.0;0.0;0.7;0.0;1.0;1.0;100.0;2.250;1.13
+Boston Celtics;bos;2021 - 2022 Regular Season;Atlantic Division;Juancho Hernangomez;0.7;1.7;40.0;0.3;0.3;100.0;0.7;1.0;66.7;0.3;1.3;25.0;1.400;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;Atlantic Division;Luke Kornet;1.0;2.3;42.9;0.0;0.3;0.0;0.0;0.3;0.0;1.0;2.0;50.0;0.857;0.43
+Boston Celtics;bos;2021 - 2022 Regular Season;Atlantic Division;Bruno Fernando;0.6;0.8;75.0;0.0;0.0;0.0;0.0;0.2;0.0;0.6;0.8;75.0;1.500;0.75
+Boston Celtics;bos;2021 - 2022 Regular Season;Atlantic Division;Total;39.7;86.6;45.8;14.1;38.1;36.9;17.2;21.5;79.9;25.6;48.5;52.8;1.277;0.54
+Boston Celtics;bos;2021 - 2022 Regular Season;Central Division;Jaylen Brown;9.4;19.5;48.3;2.6;6.7;39.0;3.9;5.1;76.6;6.8;12.8;53.1;1.301;0.55
+Boston Celtics;bos;2021 - 2022 Regular Season;Central Division;Jayson Tatum;8.6;21.5;40.3;2.6;8.6;30.6;5.4;6.3;85.0;6.0;12.8;46.8;1.178;0.46
+Boston Celtics;bos;2021 - 2022 Regular Season;Central Division;Dennis Schroder;5.5;12.3;44.7;1.3;3.4;38.2;3.4;4.1;82.9;4.2;8.9;47.2;1.276;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;Central Division;Marcus Smart;4.2;9.8;42.9;1.9;5.1;36.4;1.9;2.3;85.3;2.3;4.7;50.0;1.245;0.52
+Boston Celtics;bos;2021 - 2022 Regular Season;Central Division;Al Horford;5.0;8.2;60.7;1.4;3.2;42.9;0.4;0.5;83.3;3.6;5.0;72.3;1.430;0.69
+Boston Celtics;bos;2021 - 2022 Regular Season;Central Division;Derrick White;3.4;7.9;43.6;1.4;4.0;35.7;2.6;3.3;78.3;2.0;3.9;51.9;1.382;0.53
+Boston Celtics;bos;2021 - 2022 Regular Season;Central Division;Robert Williams III;4.6;6.6;70.7;0.0;0.0;0.0;1.3;1.6;78.3;4.6;6.6;70.7;1.609;0.71
+Boston Celtics;bos;2021 - 2022 Regular Season;Central Division;Daniel Theis;3.8;6.5;59.0;0.8;1.7;50.0;0.8;1.2;71.4;3.0;4.8;62.1;1.436;0.65
+Boston Celtics;bos;2021 - 2022 Regular Season;Central Division;Josh Richardson;3.1;7.1;44.0;1.3;3.4;37.5;1.4;1.4;100.0;1.9;3.7;50.0;1.260;0.53
+Boston Celtics;bos;2021 - 2022 Regular Season;Central Division;Grant Williams;2.4;4.9;48.1;1.2;3.1;38.8;1.3;1.4;95.5;1.2;1.9;63.3;1.468;0.60
+Boston Celtics;bos;2021 - 2022 Regular Season;Central Division;Payton Pritchard;2.4;5.6;43.3;1.4;3.3;41.5;0.4;0.4;100.0;1.1;2.3;45.9;1.178;0.56
+Boston Celtics;bos;2021 - 2022 Regular Season;Central Division;Jabari Parker;2.0;5.5;36.4;1.0;3.0;33.3;1.5;1.5;100.0;1.0;2.5;40.0;1.182;0.45
+Boston Celtics;bos;2021 - 2022 Regular Season;Central Division;Romeo Langford;2.1;4.6;46.3;0.6;1.6;35.7;0.4;1.1;40.0;1.6;3.0;51.9;1.146;0.52
+Boston Celtics;bos;2021 - 2022 Regular Season;Central Division;Sam Hauser;1.2;1.6;75.0;1.0;1.4;71.4;0.0;0.0;0.0;0.2;0.2;100.0;2.125;1.06
+Boston Celtics;bos;2021 - 2022 Regular Season;Central Division;Enes Freedom;1.3;1.6;81.8;0.0;0.0;0.0;0.3;0.3;100.0;1.3;1.6;81.8;1.818;0.82
+Boston Celtics;bos;2021 - 2022 Regular Season;Central Division;Aaron Nesmith;0.9;2.3;39.3;0.4;1.7;25.0;0.2;0.2;100.0;0.5;0.7;75.0;1.036;0.48
+Boston Celtics;bos;2021 - 2022 Regular Season;Central Division;Joe Johnson;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Boston Celtics;bos;2021 - 2022 Regular Season;Central Division;Justin Jackson;0.0;1.0;0.0;0.0;0.0;0.0;2.0;2.0;100.0;0.0;1.0;0.0;2.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;Central Division;Juancho Hernangomez;0.3;1.5;16.7;0.3;1.0;25.0;0.5;1.0;50.0;0.0;0.5;0.0;0.833;0.25
+Boston Celtics;bos;2021 - 2022 Regular Season;Central Division;Nik Stauskas;0.0;0.0;0.0;0.0;0.0;0.0;1.0;2.0;50.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;Central Division;Brodric Thomas;0.3;1.3;25.0;0.0;0.7;0.0;0.3;0.3;100.0;0.3;0.7;50.0;0.750;0.25
+Boston Celtics;bos;2021 - 2022 Regular Season;Central Division;Luke Kornet;0.0;0.3;0.0;0.0;0.3;0.0;0.7;0.7;100.0;0.0;0.0;0.0;2.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;Central Division;Bruno Fernando;0.0;0.3;0.0;0.0;0.0;0.0;0.5;0.5;100.0;0.0;0.3;0.0;2.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;Central Division;CJ Miles;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;Central Division;Kelan Martin;0.0;1.5;0.0;0.0;0.5;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;Central Division;Malik Fitts;0.0;0.7;0.0;0.0;0.7;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;Central Division;Total;40.8;86.5;47.1;12.6;34.5;36.4;17.6;21.4;82.1;28.2;52.0;54.3;1.292;0.54
+Boston Celtics;bos;2021 - 2022 Regular Season;Pacific Division;Jayson Tatum;10.8;20.9;51.5;4.0;9.0;44.4;5.1;6.1;83.7;6.8;11.9;56.8;1.467;0.61
+Boston Celtics;bos;2021 - 2022 Regular Season;Pacific Division;Jaylen Brown;10.0;21.7;46.2;3.0;9.0;33.3;3.7;5.2;71.0;7.0;12.7;55.3;1.231;0.53
+Boston Celtics;bos;2021 - 2022 Regular Season;Pacific Division;Josh Richardson;4.6;10.1;45.1;1.9;4.7;39.4;2.9;3.6;80.0;2.7;5.4;50.0;1.366;0.54
+Boston Celtics;bos;2021 - 2022 Regular Season;Pacific Division;Dennis Schroder;5.0;11.2;44.6;0.6;3.2;18.8;2.8;3.2;87.5;4.4;8.0;55.0;1.196;0.47
+Boston Celtics;bos;2021 - 2022 Regular Season;Pacific Division;Marcus Smart;5.1;11.4;44.7;1.1;4.0;27.8;2.0;2.9;69.2;4.0;7.4;53.7;1.165;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;Pacific Division;Robert Williams III;4.3;5.9;73.6;0.0;0.0;0.0;0.8;1.3;58.3;4.3;5.9;73.6;1.604;0.74
+Boston Celtics;bos;2021 - 2022 Regular Season;Pacific Division;Al Horford;2.7;8.4;31.6;0.6;3.3;16.7;2.2;2.9;76.9;2.1;5.1;41.3;0.961;0.35
+Boston Celtics;bos;2021 - 2022 Regular Season;Pacific Division;Daniel Theis;2.5;3.5;71.4;0.5;1.5;33.3;1.5;1.5;100.0;2.0;2.0;100.0;2.000;0.79
+Boston Celtics;bos;2021 - 2022 Regular Season;Pacific Division;Payton Pritchard;2.6;5.8;44.2;1.6;3.6;43.8;0.2;0.2;100.0;1.0;2.2;45.0;1.192;0.58
+Boston Celtics;bos;2021 - 2022 Regular Season;Pacific Division;Grant Williams;2.2;4.9;45.5;1.2;2.8;44.0;0.9;1.2;72.7;1.0;2.1;47.4;1.341;0.58
+Boston Celtics;bos;2021 - 2022 Regular Season;Pacific Division;Aaron Nesmith;2.2;4.8;44.8;0.7;2.5;26.7;0.7;1.0;66.7;1.5;2.3;64.3;1.172;0.52
+Boston Celtics;bos;2021 - 2022 Regular Season;Pacific Division;Romeo Langford;2.0;4.9;41.0;0.4;1.8;21.4;0.9;1.1;77.8;1.6;3.1;52.0;1.077;0.45
+Boston Celtics;bos;2021 - 2022 Regular Season;Pacific Division;Jabari Parker;1.0;3.0;33.3;0.0;0.0;0.0;2.0;2.0;100.0;1.0;3.0;33.3;1.333;0.33
+Boston Celtics;bos;2021 - 2022 Regular Season;Pacific Division;Enes Freedom;1.5;3.0;50.0;0.2;0.2;100.0;0.3;0.3;100.0;1.3;2.8;47.1;1.167;0.53
+Boston Celtics;bos;2021 - 2022 Regular Season;Pacific Division;Derrick White;1.0;8.0;12.5;0.5;5.0;10.0;1.0;1.0;100.0;0.5;3.0;16.7;0.438;0.16
+Boston Celtics;bos;2021 - 2022 Regular Season;Pacific Division;Sam Hauser;1.0;1.7;60.0;1.0;1.7;60.0;0.0;0.0;0.0;0.0;0.0;0.0;1.800;0.90
+Boston Celtics;bos;2021 - 2022 Regular Season;Pacific Division;Brodric Thomas;0.5;3.0;16.7;0.0;2.0;0.0;1.0;1.0;100.0;0.5;1.0;50.0;0.667;0.17
+Boston Celtics;bos;2021 - 2022 Regular Season;Pacific Division;Nik Stauskas;0.5;0.5;100.0;0.5;0.5;100.0;0.0;0.0;0.0;0.0;0.0;0.0;3.000;1.50
+Boston Celtics;bos;2021 - 2022 Regular Season;Pacific Division;Malik Fitts;0.5;0.5;100.0;0.5;0.5;100.0;0.0;0.0;0.0;0.0;0.0;0.0;3.000;1.50
+Boston Celtics;bos;2021 - 2022 Regular Season;Pacific Division;Juancho Hernangomez;0.0;1.3;0.0;0.0;1.3;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;Pacific Division;Total;40.7;88.1;46.2;12.1;35.6;34.0;17.4;22.4;77.7;28.6;52.5;54.5;1.259;0.53
+Boston Celtics;bos;2021 - 2022 Regular Season;Southeast Division;Jayson Tatum;9.3;20.9;44.4;2.7;8.1;33.3;4.9;6.1;81.6;6.6;12.8;51.4;1.253;0.51
+Boston Celtics;bos;2021 - 2022 Regular Season;Southeast Division;Jaylen Brown;8.8;18.1;48.7;2.3;6.9;33.3;3.6;4.6;79.5;6.5;11.2;58.1;1.302;0.55
+Boston Celtics;bos;2021 - 2022 Regular Season;Southeast Division;Derrick White;5.0;10.8;46.3;1.6;5.4;29.6;2.2;2.6;84.6;3.4;5.4;63.0;1.278;0.54
+Boston Celtics;bos;2021 - 2022 Regular Season;Southeast Division;Dennis Schroder;4.5;10.5;43.1;1.6;4.3;37.5;2.7;3.2;85.4;2.9;6.2;46.9;1.270;0.51
+Boston Celtics;bos;2021 - 2022 Regular Season;Southeast Division;Marcus Smart;3.8;9.5;39.5;1.4;5.3;27.1;2.5;3.0;83.3;2.3;4.2;55.2;1.204;0.47
+Boston Celtics;bos;2021 - 2022 Regular Season;Southeast Division;Robert Williams III;4.3;5.8;73.9;0.0;0.0;0.0;1.2;1.7;70.0;4.3;5.8;73.9;1.681;0.74
+Boston Celtics;bos;2021 - 2022 Regular Season;Southeast Division;Al Horford;3.6;8.1;44.5;1.4;3.9;35.8;1.1;1.4;75.0;2.2;4.1;52.9;1.197;0.53
+Boston Celtics;bos;2021 - 2022 Regular Season;Southeast Division;Grant Williams;2.8;6.2;45.0;1.4;3.9;35.7;1.3;1.4;92.0;1.4;2.3;61.0;1.333;0.56
+Boston Celtics;bos;2021 - 2022 Regular Season;Southeast Division;Daniel Theis;3.0;5.0;60.0;0.3;0.7;50.0;1.3;1.7;80.0;2.7;4.3;61.5;1.533;0.63
+Boston Celtics;bos;2021 - 2022 Regular Season;Southeast Division;Josh Richardson;3.1;7.7;40.2;1.0;3.4;29.3;0.5;0.7;75.0;2.1;4.3;49.0;1.000;0.47
+Boston Celtics;bos;2021 - 2022 Regular Season;Southeast Division;Malik Fitts;2.0;2.0;100.0;1.0;1.0;100.0;0.0;0.0;0.0;1.0;1.0;100.0;2.500;1.25
+Boston Celtics;bos;2021 - 2022 Regular Season;Southeast Division;Jabari Parker;2.0;3.4;58.8;0.8;1.4;57.1;0.0;0.0;0.0;1.2;2.0;60.0;1.412;0.71
+Boston Celtics;bos;2021 - 2022 Regular Season;Southeast Division;Romeo Langford;1.7;3.7;45.5;0.8;2.1;36.8;0.4;0.6;80.0;0.9;1.6;57.1;1.242;0.56
+Boston Celtics;bos;2021 - 2022 Regular Season;Southeast Division;Aaron Nesmith;1.3;3.3;40.0;0.8;1.9;41.2;0.3;0.4;75.0;0.6;1.4;38.5;1.133;0.52
+Boston Celtics;bos;2021 - 2022 Regular Season;Southeast Division;Payton Pritchard;1.0;3.1;32.0;0.8;2.4;30.8;0.1;0.1;100.0;0.3;0.7;36.4;0.920;0.44
+Boston Celtics;bos;2021 - 2022 Regular Season;Southeast Division;Luke Kornet;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Boston Celtics;bos;2021 - 2022 Regular Season;Southeast Division;Enes Freedom;0.4;1.4;28.6;0.0;0.0;0.0;1.0;1.0;100.0;0.4;1.4;28.6;1.286;0.29
+Boston Celtics;bos;2021 - 2022 Regular Season;Southeast Division;Bruno Fernando;0.3;0.9;33.3;0.1;0.1;100.0;0.3;0.3;100.0;0.1;0.7;20.0;1.167;0.42
+Boston Celtics;bos;2021 - 2022 Regular Season;Southeast Division;Sam Hauser;0.2;1.2;16.7;0.2;1.2;16.7;0.0;0.0;0.0;0.0;0.0;0.0;0.500;0.25
+Boston Celtics;bos;2021 - 2022 Regular Season;Southeast Division;Juancho Hernangomez;0.3;0.8;33.3;0.0;0.5;0.0;0.0;0.0;0.0;0.3;0.3;100.0;0.667;0.33
+Boston Celtics;bos;2021 - 2022 Regular Season;Southeast Division;Nik Stauskas;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;Southeast Division;Kelan Martin;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;Southeast Division;Juwan Morgan;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;Southeast Division;Brodric Thomas;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;Southeast Division;Total;40.2;88.2;45.5;12.9;38.7;33.3;17.4;21.3;81.7;27.3;49.6;55.0;1.254;0.53
+Boston Celtics;bos;2021 - 2022 Regular Season;Southwest Division;Jayson Tatum;10.7;21.4;50.0;2.9;8.3;34.9;4.7;5.3;88.7;7.8;13.1;59.5;1.355;0.57
+Boston Celtics;bos;2021 - 2022 Regular Season;Southwest Division;Jaylen Brown;8.1;17.6;46.3;3.0;7.3;41.2;2.3;3.0;76.2;5.1;10.3;50.0;1.228;0.55
+Boston Celtics;bos;2021 - 2022 Regular Season;Southwest Division;Dennis Schroder;6.0;14.3;42.0;1.3;4.1;31.0;1.9;2.1;86.7;4.7;10.1;46.5;1.060;0.47
+Boston Celtics;bos;2021 - 2022 Regular Season;Southwest Division;Al Horford;4.5;9.6;46.9;1.4;4.0;35.0;1.7;1.8;94.4;3.1;5.6;55.4;1.260;0.54
+Boston Celtics;bos;2021 - 2022 Regular Season;Southwest Division;Marcus Smart;3.9;9.8;39.8;1.1;4.2;26.3;1.2;1.7;73.3;2.8;5.6;50.0;1.034;0.45
+Boston Celtics;bos;2021 - 2022 Regular Season;Southwest Division;Luke Kornet;5.0;7.0;71.4;0.0;1.0;0.0;0.0;0.0;0.0;5.0;6.0;83.3;1.429;0.71
+Boston Celtics;bos;2021 - 2022 Regular Season;Southwest Division;Daniel Theis;3.5;6.0;58.3;0.0;1.5;0.0;1.5;2.0;75.0;3.5;4.5;77.8;1.417;0.58
+Boston Celtics;bos;2021 - 2022 Regular Season;Southwest Division;Derrick White;3.0;8.3;36.0;1.0;3.7;27.3;1.3;2.0;66.7;2.0;4.7;42.9;1.000;0.42
+Boston Celtics;bos;2021 - 2022 Regular Season;Southwest Division;Josh Richardson;3.4;7.2;47.2;1.0;3.2;31.3;0.0;0.0;0.0;2.4;4.0;60.0;1.083;0.54
+Boston Celtics;bos;2021 - 2022 Regular Season;Southwest Division;Robert Williams III;3.6;4.6;78.1;0.0;0.1;0.0;0.6;1.0;57.1;3.6;4.4;80.6;1.688;0.78
+Boston Celtics;bos;2021 - 2022 Regular Season;Southwest Division;Malik Fitts;3.0;4.0;75.0;1.0;1.0;100.0;0.0;0.0;0.0;2.0;3.0;66.7;1.750;0.88
+Boston Celtics;bos;2021 - 2022 Regular Season;Southwest Division;Grant Williams;2.3;4.5;51.1;1.3;3.0;43.3;0.5;0.6;83.3;1.0;1.5;66.7;1.422;0.66
+Boston Celtics;bos;2021 - 2022 Regular Season;Southwest Division;Jabari Parker;1.0;1.0;100.0;1.0;1.0;100.0;2.0;2.0;100.0;0.0;0.0;0.0;5.000;1.50
+Boston Celtics;bos;2021 - 2022 Regular Season;Southwest Division;Payton Pritchard;1.5;4.3;35.3;0.9;2.8;31.8;0.3;0.3;100.0;0.6;1.5;41.7;0.971;0.46
+Boston Celtics;bos;2021 - 2022 Regular Season;Southwest Division;Enes Freedom;1.0;3.3;30.0;0.0;0.3;0.0;1.0;1.7;60.0;1.0;3.0;33.3;0.900;0.30
+Boston Celtics;bos;2021 - 2022 Regular Season;Southwest Division;Matt Ryan;1.0;5.0;20.0;1.0;5.0;20.0;0.0;0.0;0.0;0.0;0.0;0.0;0.600;0.30
+Boston Celtics;bos;2021 - 2022 Regular Season;Southwest Division;Brodric Thomas;1.0;2.0;50.0;1.0;1.0;100.0;0.0;0.0;0.0;0.0;1.0;0.0;1.500;0.75
+Boston Celtics;bos;2021 - 2022 Regular Season;Southwest Division;Romeo Langford;1.0;2.8;35.7;0.6;1.6;37.5;0.0;0.0;0.0;0.4;1.2;33.3;0.929;0.46
+Boston Celtics;bos;2021 - 2022 Regular Season;Southwest Division;Aaron Nesmith;0.9;3.6;24.1;0.4;2.9;13.0;0.4;0.4;100.0;0.5;0.8;66.7;0.690;0.29
+Boston Celtics;bos;2021 - 2022 Regular Season;Southwest Division;Sam Hauser;0.7;2.0;33.3;0.3;1.7;20.0;0.0;0.0;0.0;0.3;0.3;100.0;0.833;0.42
+Boston Celtics;bos;2021 - 2022 Regular Season;Southwest Division;Juancho Hernangomez;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;Southwest Division;Bruno Fernando;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;Southwest Division;Total;40.7;88.3;46.1;12.2;37.0;33.0;13.0;15.7;82.8;28.5;51.3;55.6;1.207;0.53
+Boston Celtics;bos;2021 - 2022 Regular Season;Northwest Division;Jayson Tatum;10.1;19.3;52.3;3.8;9.2;41.0;6.9;7.7;89.9;6.3;10.1;62.6;1.598;0.62
+Boston Celtics;bos;2021 - 2022 Regular Season;Northwest Division;Jaylen Brown;9.0;19.4;46.3;2.1;6.1;34.9;4.4;6.1;72.1;6.9;13.3;51.6;1.265;0.52
+Boston Celtics;bos;2021 - 2022 Regular Season;Northwest Division;Dennis Schroder;9.3;17.0;54.4;3.0;6.8;44.4;2.3;2.3;100.0;6.3;10.3;61.0;1.397;0.63
+Boston Celtics;bos;2021 - 2022 Regular Season;Northwest Division;Derrick White;4.2;8.6;48.8;1.6;4.2;38.1;2.8;3.0;93.3;2.6;4.4;59.1;1.488;0.58
+Boston Celtics;bos;2021 - 2022 Regular Season;Northwest Division;Payton Pritchard;4.1;8.3;49.3;3.2;6.1;52.7;0.7;0.7;100.0;0.9;2.2;40.0;1.453;0.69
+Boston Celtics;bos;2021 - 2022 Regular Season;Northwest Division;Marcus Smart;3.9;9.1;42.2;1.4;4.1;34.5;2.3;2.6;88.9;2.4;5.0;48.6;1.250;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;Northwest Division;Grant Williams;3.7;7.2;51.4;1.8;3.5;51.4;1.8;1.9;94.7;1.9;3.7;51.4;1.528;0.64
+Boston Celtics;bos;2021 - 2022 Regular Season;Northwest Division;Al Horford;3.6;7.5;48.3;1.8;4.5;38.9;1.0;1.1;88.9;1.9;3.0;62.5;1.333;0.60
+Boston Celtics;bos;2021 - 2022 Regular Season;Northwest Division;Robert Williams III;4.1;5.6;73.3;0.0;0.0;0.0;1.0;1.3;80.0;4.1;5.6;73.3;1.644;0.73
+Boston Celtics;bos;2021 - 2022 Regular Season;Northwest Division;Daniel Theis;3.5;6.0;58.3;0.5;1.5;33.3;0.3;0.3;100.0;3.0;4.5;66.7;1.292;0.63
+Boston Celtics;bos;2021 - 2022 Regular Season;Northwest Division;Josh Richardson;2.5;6.3;40.0;1.3;3.0;41.7;0.5;0.5;100.0;1.3;3.3;38.5;1.080;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;Northwest Division;Romeo Langford;2.8;5.3;52.4;0.5;2.3;22.2;0.5;1.0;50.0;2.3;3.0;75.0;1.238;0.57
+Boston Celtics;bos;2021 - 2022 Regular Season;Northwest Division;Enes Freedom;1.8;3.5;50.0;0.0;0.0;0.0;1.3;1.5;83.3;1.8;3.5;50.0;1.357;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;Northwest Division;Aaron Nesmith;1.2;2.4;50.0;0.6;1.4;42.9;0.8;1.2;66.7;0.6;1.0;60.0;1.583;0.63
+Boston Celtics;bos;2021 - 2022 Regular Season;Northwest Division;Sam Hauser;0.7;2.2;30.8;0.7;2.0;33.3;0.0;0.0;0.0;0.0;0.2;0.0;0.923;0.46
+Boston Celtics;bos;2021 - 2022 Regular Season;Northwest Division;Bruno Fernando;1.0;1.5;66.7;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.5;66.7;1.333;0.67
+Boston Celtics;bos;2021 - 2022 Regular Season;Northwest Division;Juancho Hernangomez;0.3;3.0;11.1;0.3;2.3;14.3;0.7;0.7;100.0;0.0;0.7;0.0;0.556;0.17
+Boston Celtics;bos;2021 - 2022 Regular Season;Northwest Division;Nik Stauskas;0.5;2.0;25.0;0.5;2.0;25.0;0.0;0.0;0.0;0.0;0.0;0.0;0.750;0.38
+Boston Celtics;bos;2021 - 2022 Regular Season;Northwest Division;Jabari Parker;0.5;1.5;33.3;0.5;1.0;50.0;0.0;0.0;0.0;0.0;0.5;0.0;1.000;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;Northwest Division;Luke Kornet;0.7;1.3;50.0;0.0;0.3;0.0;0.0;0.0;0.0;0.7;1.0;66.7;1.000;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;Northwest Division;Brodric Thomas;0.5;1.0;50.0;0.0;0.5;0.0;0.0;0.0;0.0;0.5;0.5;100.0;1.000;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;Northwest Division;Malik Fitts;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;Northwest Division;Total;43.5;87.2;49.9;15.9;39.1;40.7;18.8;21.9;85.8;27.6;48.1;57.4;1.396;0.59
+Boston Celtics;bos;2021 - 2022 Regular Season;Eastern Conference;Jayson Tatum;8.7;20.6;42.0;2.8;8.4;32.7;5.1;6.1;83.9;5.9;12.2;48.5;1.222;0.49
+Boston Celtics;bos;2021 - 2022 Regular Season;Eastern Conference;Jaylen Brown;8.6;18.0;47.8;2.4;6.9;35.4;3.7;4.8;77.1;6.2;11.1;55.5;1.300;0.55
+Boston Celtics;bos;2021 - 2022 Regular Season;Eastern Conference;Dennis Schroder;4.6;10.9;42.5;1.3;3.6;35.8;2.6;3.2;82.9;3.3;7.3;45.8;1.211;0.48
+Boston Celtics;bos;2021 - 2022 Regular Season;Eastern Conference;Marcus Smart;4.2;10.1;41.5;1.9;5.6;34.6;2.1;2.6;80.8;2.2;4.5;50.0;1.231;0.51
+Boston Celtics;bos;2021 - 2022 Regular Season;Eastern Conference;Derrick White;3.9;9.1;42.5;1.4;4.3;31.9;2.8;3.3;84.6;2.5;4.8;51.9;1.301;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;Eastern Conference;Robert Williams III;4.7;6.4;73.1;0.0;0.0;0.0;1.2;1.6;75.4;4.7;6.4;73.1;1.655;0.73
+Boston Celtics;bos;2021 - 2022 Regular Season;Eastern Conference;Al Horford;4.0;8.0;49.9;1.3;3.8;35.2;0.8;1.0;83.3;2.7;4.2;62.9;1.267;0.58
+Boston Celtics;bos;2021 - 2022 Regular Season;Eastern Conference;Josh Richardson;3.3;7.5;44.1;1.4;3.4;41.1;1.4;1.6;88.6;1.9;4.1;46.6;1.251;0.53
+Boston Celtics;bos;2021 - 2022 Regular Season;Eastern Conference;Daniel Theis;3.2;5.3;59.4;0.5;1.2;43.8;1.2;1.8;62.5;2.6;4.1;64.2;1.507;0.64
+Boston Celtics;bos;2021 - 2022 Regular Season;Eastern Conference;Grant Williams;2.6;5.6;46.1;1.3;3.5;38.1;1.1;1.2;93.2;1.3;2.1;59.2;1.362;0.58
+Boston Celtics;bos;2021 - 2022 Regular Season;Eastern Conference;Payton Pritchard;2.0;4.7;41.5;1.1;3.0;37.5;0.2;0.2;100.0;0.8;1.7;48.7;1.123;0.54
+Boston Celtics;bos;2021 - 2022 Regular Season;Eastern Conference;Jabari Parker;1.9;3.9;48.4;0.8;1.6;46.2;0.6;0.6;100.0;1.1;2.3;50.0;1.323;0.58
+Boston Celtics;bos;2021 - 2022 Regular Season;Eastern Conference;Romeo Langford;1.7;4.1;42.7;0.8;1.9;40.4;0.4;0.8;52.4;1.0;2.1;44.8;1.145;0.52
+Boston Celtics;bos;2021 - 2022 Regular Season;Eastern Conference;Aaron Nesmith;1.4;3.4;41.1;0.6;2.1;30.0;0.3;0.3;90.9;0.8;1.3;59.5;1.098;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;Eastern Conference;Enes Freedom;1.5;2.5;58.2;0.0;0.1;33.3;0.6;0.7;93.3;1.4;2.4;59.6;1.436;0.59
+Boston Celtics;bos;2021 - 2022 Regular Season;Eastern Conference;Sam Hauser;1.0;1.9;53.8;0.8;1.6;50.0;0.0;0.0;0.0;0.2;0.3;75.0;1.500;0.75
+Boston Celtics;bos;2021 - 2022 Regular Season;Eastern Conference;Joe Johnson;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Boston Celtics;bos;2021 - 2022 Regular Season;Eastern Conference;Justin Jackson;0.0;1.0;0.0;0.0;0.0;0.0;2.0;2.0;100.0;0.0;1.0;0.0;2.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;Eastern Conference;Brodric Thomas;0.7;1.1;62.5;0.1;0.4;33.3;0.1;0.4;33.3;0.6;0.7;80.0;1.500;0.69
+Boston Celtics;bos;2021 - 2022 Regular Season;Eastern Conference;Luke Kornet;0.6;1.3;50.0;0.0;0.3;0.0;0.3;0.4;66.7;0.6;1.0;62.5;1.200;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;Eastern Conference;Juancho Hernangomez;0.4;1.3;28.6;0.2;0.6;28.6;0.4;0.6;57.1;0.2;0.6;28.6;1.000;0.36
+Boston Celtics;bos;2021 - 2022 Regular Season;Eastern Conference;Malik Fitts;0.5;1.0;50.0;0.3;0.8;33.3;0.0;0.0;0.0;0.3;0.3;100.0;1.250;0.63
+Boston Celtics;bos;2021 - 2022 Regular Season;Eastern Conference;Bruno Fernando;0.3;0.7;45.5;0.1;0.1;100.0;0.3;0.3;80.0;0.3;0.6;40.0;1.364;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;Eastern Conference;Nik Stauskas;0.0;0.5;0.0;0.0;0.5;0.0;0.5;1.0;50.0;0.0;0.0;0.0;1.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;Eastern Conference;CJ Miles;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;Eastern Conference;Kelan Martin;0.0;1.0;0.0;0.0;0.3;0.0;0.0;0.0;0.0;0.0;0.7;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;Eastern Conference;Juwan Morgan;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;Eastern Conference;Total;40.2;87.1;46.2;13.1;37.1;35.4;17.4;21.4;81.3;27.1;50.1;54.1;1.274;0.54
+Boston Celtics;bos;2021 - 2022 Regular Season;Western Conference;Jayson Tatum;10.5;20.6;51.2;3.5;8.8;39.9;5.6;6.3;87.7;7.0;11.7;59.6;1.465;0.60
+Boston Celtics;bos;2021 - 2022 Regular Season;Western Conference;Jaylen Brown;9.0;19.5;46.3;2.7;7.4;36.5;3.5;4.8;72.6;6.3;12.1;52.3;1.242;0.53
+Boston Celtics;bos;2021 - 2022 Regular Season;Western Conference;Dennis Schroder;6.5;14.0;46.4;1.5;4.5;33.3;2.3;2.5;90.0;5.0;9.5;52.6;1.196;0.52
+Boston Celtics;bos;2021 - 2022 Regular Season;Western Conference;Marcus Smart;4.3;10.2;42.4;1.2;4.1;29.1;1.8;2.4;76.3;3.1;6.1;51.3;1.141;0.48
+Boston Celtics;bos;2021 - 2022 Regular Season;Western Conference;Josh Richardson;3.7;8.3;44.7;1.4;3.8;37.7;1.4;1.7;81.5;2.3;4.4;50.7;1.235;0.53
+Boston Celtics;bos;2021 - 2022 Regular Season;Western Conference;Al Horford;3.6;8.6;42.2;1.2;3.9;31.1;1.7;2.0;84.9;2.4;4.7;51.6;1.181;0.49
+Boston Celtics;bos;2021 - 2022 Regular Season;Western Conference;Derrick White;3.2;8.4;38.1;1.2;4.2;28.6;2.0;2.3;87.0;2.0;4.2;47.6;1.143;0.45
+Boston Celtics;bos;2021 - 2022 Regular Season;Western Conference;Robert Williams III;4.0;5.4;74.6;0.0;0.0;0.0;0.8;1.2;65.5;4.0;5.4;75.2;1.638;0.75
+Boston Celtics;bos;2021 - 2022 Regular Season;Western Conference;Grant Williams;2.8;5.6;49.7;1.4;3.1;46.7;1.1;1.2;86.1;1.3;2.4;53.5;1.447;0.63
+Boston Celtics;bos;2021 - 2022 Regular Season;Western Conference;Payton Pritchard;2.8;6.2;44.7;1.9;4.2;45.9;0.4;0.4;100.0;0.8;2.0;42.3;1.267;0.60
+Boston Celtics;bos;2021 - 2022 Regular Season;Western Conference;Daniel Theis;3.3;5.4;60.5;0.4;1.5;25.0;0.9;1.0;87.5;2.9;3.9;74.2;1.442;0.64
+Boston Celtics;bos;2021 - 2022 Regular Season;Western Conference;Romeo Langford;1.9;4.4;43.2;0.5;1.8;25.8;0.5;0.8;69.2;1.4;2.5;55.8;1.095;0.49
+Boston Celtics;bos;2021 - 2022 Regular Season;Western Conference;Aaron Nesmith;1.4;3.7;37.1;0.5;2.4;22.2;0.6;0.8;73.3;0.8;1.3;64.0;1.043;0.44
+Boston Celtics;bos;2021 - 2022 Regular Season;Western Conference;Enes Freedom;1.5;3.2;45.2;0.1;0.2;50.0;0.8;1.0;76.9;1.4;3.1;45.0;1.167;0.46
+Boston Celtics;bos;2021 - 2022 Regular Season;Western Conference;Luke Kornet;1.8;2.8;63.6;0.0;0.5;0.0;0.0;0.0;0.0;1.8;2.3;77.8;1.273;0.64
+Boston Celtics;bos;2021 - 2022 Regular Season;Western Conference;Jabari Parker;0.8;1.8;42.9;0.5;0.8;66.7;1.0;1.0;100.0;0.3;1.0;25.0;1.714;0.57
+Boston Celtics;bos;2021 - 2022 Regular Season;Western Conference;Matt Ryan;1.0;5.0;20.0;1.0;5.0;20.0;0.0;0.0;0.0;0.0;0.0;0.0;0.600;0.30
+Boston Celtics;bos;2021 - 2022 Regular Season;Western Conference;Malik Fitts;1.0;1.5;66.7;0.5;0.8;66.7;0.0;0.0;0.0;0.5;0.8;66.7;1.667;0.83
+Boston Celtics;bos;2021 - 2022 Regular Season;Western Conference;Sam Hauser;0.8;2.0;37.5;0.7;1.8;36.4;0.0;0.0;0.0;0.1;0.2;50.0;1.083;0.54
+Boston Celtics;bos;2021 - 2022 Regular Season;Western Conference;Brodric Thomas;0.6;2.0;30.0;0.2;1.2;16.7;0.4;0.4;100.0;0.4;0.8;50.0;0.900;0.35
+Boston Celtics;bos;2021 - 2022 Regular Season;Western Conference;Nik Stauskas;0.5;1.3;40.0;0.5;1.3;40.0;0.0;0.0;0.0;0.0;0.0;0.0;1.200;0.60
+Boston Celtics;bos;2021 - 2022 Regular Season;Western Conference;Bruno Fernando;0.5;0.8;66.7;0.0;0.0;0.0;0.0;0.0;0.0;0.5;0.8;66.7;1.333;0.67
+Boston Celtics;bos;2021 - 2022 Regular Season;Western Conference;Juancho Hernangomez;0.1;1.9;7.7;0.1;1.6;9.1;0.3;0.3;100.0;0.0;0.3;0.0;0.385;0.12
+Boston Celtics;bos;2021 - 2022 Regular Season;Western Conference;Total;41.6;87.9;47.4;13.4;37.2;36.0;16.4;20.0;82.0;28.2;50.6;55.8;1.287;0.55
+Boston Celtics;bos;2021 - 2022 Regular Season;Pre All-Star;Jayson Tatum;8.9;20.6;43.4;2.8;8.4;32.9;5.1;6.0;84.8;6.2;12.2;50.5;1.248;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;Pre All-Star;Jaylen Brown;8.7;18.8;46.0;2.7;7.5;35.3;3.8;4.9;77.3;6.0;11.3;53.2;1.262;0.53
+Boston Celtics;bos;2021 - 2022 Regular Season;Pre All-Star;Dennis Schroder;5.2;11.9;44.0;1.4;3.9;34.9;2.5;3.0;84.8;3.9;8.0;48.5;1.205;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;Pre All-Star;Derrick White;4.3;11.3;37.8;1.5;6.5;23.1;2.3;3.0;75.0;2.8;4.8;57.9;1.089;0.44
+Boston Celtics;bos;2021 - 2022 Regular Season;Pre All-Star;Marcus Smart;4.0;9.8;41.1;1.5;4.8;31.1;2.2;2.8;78.3;2.5;5.0;50.6;1.194;0.49
+Boston Celtics;bos;2021 - 2022 Regular Season;Pre All-Star;Al Horford;3.8;8.5;44.5;1.2;4.0;30.7;1.3;1.5;83.5;2.6;4.5;56.5;1.184;0.52
+Boston Celtics;bos;2021 - 2022 Regular Season;Pre All-Star;Robert Williams III;4.4;6.0;73.2;0.0;0.0;0.0;1.1;1.6;69.3;4.4;6.0;73.5;1.648;0.73
+Boston Celtics;bos;2021 - 2022 Regular Season;Pre All-Star;Josh Richardson;3.5;7.8;44.3;1.4;3.5;39.7;1.4;1.6;85.9;2.0;4.3;48.1;1.245;0.53
+Boston Celtics;bos;2021 - 2022 Regular Season;Pre All-Star;Grant Williams;2.5;5.2;49.0;1.6;3.5;44.6;0.8;0.9;89.8;1.0;1.7;58.1;1.434;0.64
+Boston Celtics;bos;2021 - 2022 Regular Season;Pre All-Star;Romeo Langford;1.8;4.2;42.9;0.7;1.9;34.9;0.5;0.8;58.8;1.1;2.3;49.5;1.125;0.51
+Boston Celtics;bos;2021 - 2022 Regular Season;Pre All-Star;Payton Pritchard;1.7;4.5;37.8;1.0;2.7;36.1;0.3;0.3;100.0;0.7;1.8;40.4;1.036;0.49
+Boston Celtics;bos;2021 - 2022 Regular Season;Pre All-Star;Daniel Theis;2.0;2.0;100.0;0.5;0.5;100.0;0.0;0.0;0.0;1.5;1.5;100.0;2.250;1.13
+Boston Celtics;bos;2021 - 2022 Regular Season;Pre All-Star;Jabari Parker;1.5;3.2;47.4;0.7;1.3;50.0;0.8;0.8;100.0;0.8;1.8;45.5;1.395;0.58
+Boston Celtics;bos;2021 - 2022 Regular Season;Pre All-Star;Enes Freedom;1.5;2.8;52.6;0.1;0.1;40.0;0.7;0.8;85.7;1.4;2.6;53.3;1.320;0.54
+Boston Celtics;bos;2021 - 2022 Regular Season;Pre All-Star;Aaron Nesmith;1.3;3.5;37.8;0.5;2.2;23.6;0.4;0.5;84.2;0.8;1.3;61.1;1.014;0.45
+Boston Celtics;bos;2021 - 2022 Regular Season;Pre All-Star;Joe Johnson;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Boston Celtics;bos;2021 - 2022 Regular Season;Pre All-Star;Justin Jackson;0.0;1.0;0.0;0.0;0.0;0.0;2.0;2.0;100.0;0.0;1.0;0.0;2.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;Pre All-Star;Sam Hauser;0.6;1.7;36.8;0.6;1.7;36.8;0.0;0.0;0.0;0.0;0.0;0.0;1.105;0.55
+Boston Celtics;bos;2021 - 2022 Regular Season;Pre All-Star;Brodric Thomas;0.4;1.4;27.3;0.1;0.9;14.3;0.3;0.3;100.0;0.3;0.5;50.0;0.818;0.32
+Boston Celtics;bos;2021 - 2022 Regular Season;Pre All-Star;Juancho Hernangomez;0.3;1.5;18.5;0.2;1.0;16.7;0.3;0.5;66.7;0.1;0.5;22.2;0.704;0.24
+Boston Celtics;bos;2021 - 2022 Regular Season;Pre All-Star;Bruno Fernando;0.4;0.7;50.0;0.1;0.1;100.0;0.2;0.3;80.0;0.3;0.7;46.2;1.357;0.54
+Boston Celtics;bos;2021 - 2022 Regular Season;Pre All-Star;CJ Miles;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;Pre All-Star;Luke Kornet;0.0;3.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;Pre All-Star;Total;39.7;87.5;45.3;12.6;36.6;34.4;17.0;20.9;81.4;27.1;50.9;53.2;1.245;0.53
+Boston Celtics;bos;2021 - 2022 Regular Season;Post All-Star;Jayson Tatum;10.4;20.6;50.6;3.8;9.2;41.5;5.8;6.7;86.5;6.6;11.4;57.9;1.477;0.60
+Boston Celtics;bos;2021 - 2022 Regular Season;Post All-Star;Jaylen Brown;8.9;17.6;50.6;2.2;5.9;37.3;3.4;4.7;72.0;6.7;11.7;57.3;1.327;0.57
+Boston Celtics;bos;2021 - 2022 Regular Season;Post All-Star;Marcus Smart;4.7;10.9;43.2;2.1;5.8;36.9;1.6;2.0;82.9;2.6;5.1;50.5;1.210;0.53
+Boston Celtics;bos;2021 - 2022 Regular Season;Post All-Star;Derrick White;3.5;8.4;41.6;1.3;3.9;32.9;2.5;2.9;87.3;2.2;4.5;49.0;1.281;0.49
+Boston Celtics;bos;2021 - 2022 Regular Season;Post All-Star;Al Horford;4.1;7.5;54.1;1.5;3.5;42.9;0.8;0.9;87.5;2.6;4.0;63.9;1.385;0.64
+Boston Celtics;bos;2021 - 2022 Regular Season;Post All-Star;Robert Williams III;4.5;6.0;75.0;0.0;0.0;0.0;0.9;1.1;86.7;4.5;6.0;75.0;1.655;0.75
+Boston Celtics;bos;2021 - 2022 Regular Season;Post All-Star;Payton Pritchard;3.5;6.9;50.3;2.4;5.1;47.3;0.3;0.3;100.0;1.0;1.8;59.0;1.404;0.68
+Boston Celtics;bos;2021 - 2022 Regular Season;Post All-Star;Grant Williams;3.0;6.6;44.5;0.9;3.0;30.8;1.9;2.1;91.3;2.0;3.7;55.6;1.315;0.51
+Boston Celtics;bos;2021 - 2022 Regular Season;Post All-Star;Daniel Theis;3.3;5.7;58.3;0.5;1.4;33.3;1.2;1.7;68.8;2.8;4.3;66.7;1.454;0.63
+Boston Celtics;bos;2021 - 2022 Regular Season;Post All-Star;Aaron Nesmith;1.6;3.5;46.2;0.9;2.4;38.5;0.5;0.6;71.4;0.7;1.2;61.5;1.308;0.59
+Boston Celtics;bos;2021 - 2022 Regular Season;Post All-Star;Matt Ryan;1.0;5.0;20.0;1.0;5.0;20.0;0.0;0.0;0.0;0.0;0.0;0.0;0.600;0.30
+Boston Celtics;bos;2021 - 2022 Regular Season;Post All-Star;Brodric Thomas;1.3;1.8;71.4;0.3;0.5;50.0;0.3;0.8;33.3;1.0;1.3;80.0;1.714;0.79
+Boston Celtics;bos;2021 - 2022 Regular Season;Post All-Star;Sam Hauser;1.1;2.1;51.6;0.8;1.7;48.0;0.0;0.0;0.0;0.3;0.4;66.7;1.419;0.71
+Boston Celtics;bos;2021 - 2022 Regular Season;Post All-Star;Luke Kornet;1.1;1.6;66.7;0.0;0.3;0.0;0.2;0.3;66.7;1.1;1.4;80.0;1.444;0.67
+Boston Celtics;bos;2021 - 2022 Regular Season;Post All-Star;Malik Fitts;0.8;1.3;60.0;0.4;0.8;50.0;0.0;0.0;0.0;0.4;0.5;75.0;1.500;0.75
+Boston Celtics;bos;2021 - 2022 Regular Season;Post All-Star;Nik Stauskas;0.3;1.0;33.3;0.3;1.0;33.3;0.2;0.3;50.0;0.0;0.0;0.0;1.167;0.50
+Boston Celtics;bos;2021 - 2022 Regular Season;Post All-Star;Kelan Martin;0.0;1.0;0.0;0.0;0.3;0.0;0.0;0.0;0.0;0.0;0.7;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;Post All-Star;Juwan Morgan;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;Post All-Star;Total;43.7;87.3;50.1;15.0;38.6;39.0;17.2;21.0;82.0;28.7;48.7;58.9;1.371;0.59
+Boston Celtics;bos;2021 - 2022 Regular Season;3+ Days Rest;Jayson Tatum;8.7;22.3;38.8;3.0;9.7;31.0;5.0;5.5;90.9;5.7;12.7;44.7;1.134;0.46
+Boston Celtics;bos;2021 - 2022 Regular Season;3+ Days Rest;Jaylen Brown;8.9;17.3;51.2;3.6;7.1;50.0;3.6;4.6;78.1;5.3;10.1;52.1;1.438;0.62
+Boston Celtics;bos;2021 - 2022 Regular Season;3+ Days Rest;Marcus Smart;5.4;11.4;47.3;2.4;5.8;41.3;1.9;2.8;68.2;3.0;5.6;53.3;1.319;0.58
+Boston Celtics;bos;2021 - 2022 Regular Season;3+ Days Rest;Dennis Schroder;5.4;13.4;40.3;1.4;3.6;38.9;2.6;3.4;76.5;4.0;9.8;40.8;1.104;0.46
+Boston Celtics;bos;2021 - 2022 Regular Season;3+ Days Rest;Derrick White;4.7;9.0;51.9;2.0;4.7;42.9;3.0;3.7;81.8;2.7;4.3;61.5;1.593;0.63
+Boston Celtics;bos;2021 - 2022 Regular Season;3+ Days Rest;Josh Richardson;4.4;9.6;45.8;2.2;4.8;45.8;2.2;2.6;84.6;2.2;4.8;45.8;1.375;0.57
+Boston Celtics;bos;2021 - 2022 Regular Season;3+ Days Rest;Robert Williams III;4.5;6.3;72.5;0.0;0.0;0.0;1.3;2.0;63.6;4.5;6.3;72.5;1.652;0.72
+Boston Celtics;bos;2021 - 2022 Regular Season;3+ Days Rest;Al Horford;4.3;9.8;44.1;1.0;4.5;22.2;0.5;0.5;100.0;3.3;5.3;62.5;1.034;0.49
+Boston Celtics;bos;2021 - 2022 Regular Season;3+ Days Rest;Grant Williams;3.4;6.8;50.0;1.6;4.0;40.0;1.4;1.4;100.0;1.8;2.8;64.3;1.441;0.62
+Boston Celtics;bos;2021 - 2022 Regular Season;3+ Days Rest;Payton Pritchard;1.6;4.3;37.2;1.2;3.2;37.5;0.6;0.6;100.0;0.4;1.1;36.4;1.163;0.51
+Boston Celtics;bos;2021 - 2022 Regular Season;3+ Days Rest;Romeo Langford;1.8;3.7;48.5;0.7;1.7;40.0;0.6;0.8;71.4;1.1;2.0;55.6;1.303;0.58
+Boston Celtics;bos;2021 - 2022 Regular Season;3+ Days Rest;Daniel Theis;1.8;3.0;60.0;0.2;1.0;20.0;0.6;0.8;75.0;1.6;2.0;80.0;1.467;0.63
+Boston Celtics;bos;2021 - 2022 Regular Season;3+ Days Rest;Jabari Parker;1.4;3.3;42.3;0.6;1.4;45.5;0.9;0.9;100.0;0.8;1.9;40.0;1.308;0.52
+Boston Celtics;bos;2021 - 2022 Regular Season;3+ Days Rest;Aaron Nesmith;1.3;2.9;43.9;0.7;1.9;38.5;0.6;0.9;69.2;0.6;1.1;53.3;1.341;0.56
+Boston Celtics;bos;2021 - 2022 Regular Season;3+ Days Rest;Enes Freedom;1.3;2.5;50.0;0.1;0.1;100.0;0.4;0.4;100.0;1.1;2.4;47.4;1.200;0.53
+Boston Celtics;bos;2021 - 2022 Regular Season;3+ Days Rest;Joe Johnson;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Boston Celtics;bos;2021 - 2022 Regular Season;3+ Days Rest;Justin Jackson;0.0;1.0;0.0;0.0;0.0;0.0;2.0;2.0;100.0;0.0;1.0;0.0;2.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;3+ Days Rest;Sam Hauser;0.7;1.7;40.0;0.7;1.7;40.0;0.0;0.0;0.0;0.0;0.0;0.0;1.200;0.60
+Boston Celtics;bos;2021 - 2022 Regular Season;3+ Days Rest;Brodric Thomas;0.8;1.8;43.8;0.1;0.9;12.5;0.3;0.6;60.0;0.7;0.9;75.0;1.125;0.47
+Boston Celtics;bos;2021 - 2022 Regular Season;3+ Days Rest;Juancho Hernangomez;0.4;1.6;27.3;0.4;0.9;50.0;0.4;0.9;50.0;0.0;0.7;0.0;1.091;0.41
+Boston Celtics;bos;2021 - 2022 Regular Season;3+ Days Rest;Nik Stauskas;0.5;1.0;50.0;0.5;1.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.500;0.75
+Boston Celtics;bos;2021 - 2022 Regular Season;3+ Days Rest;Malik Fitts;0.5;1.0;50.0;0.3;0.8;33.3;0.0;0.0;0.0;0.3;0.3;100.0;1.250;0.63
+Boston Celtics;bos;2021 - 2022 Regular Season;3+ Days Rest;Bruno Fernando;0.3;0.9;37.5;0.0;0.0;0.0;0.4;0.4;100.0;0.3;0.9;37.5;1.250;0.38
+Boston Celtics;bos;2021 - 2022 Regular Season;3+ Days Rest;Luke Kornet;0.3;1.2;28.6;0.0;0.3;0.0;0.0;0.0;0.0;0.3;0.8;40.0;0.571;0.29
+Boston Celtics;bos;2021 - 2022 Regular Season;3+ Days Rest;CJ Miles;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;3+ Days Rest;Kelan Martin;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;3+ Days Rest;Juwan Morgan;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Boston Celtics;bos;2021 - 2022 Regular Season;3+ Days Rest;Total;44.2;93.0;47.5;16.0;41.6;38.5;17.2;23.0;74.8;28.2;51.4;54.9;1.308;0.56

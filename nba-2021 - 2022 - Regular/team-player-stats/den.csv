@@ -1,0 +1,885 @@
+teamName;teamCode;season;split;player_name;GP;GS;MIN;PTS;ORB;DR;REB;AST;STL;BLK;TO;PF;AST_TO
+Denver Nuggets;den;2021 - 2022 Regular Season;All Splits;Nikola Jokic;74;74;33.5;27.1;2.8;11.0;13.8;7.9;1.5;0.9;3.8;2.6;2.1
+Denver Nuggets;den;2021 - 2022 Regular Season;All Splits;Aaron Gordon;75;75;31.7;15.0;1.7;4.2;5.9;2.5;0.6;0.6;1.8;2.0;1.4
+Denver Nuggets;den;2021 - 2022 Regular Season;All Splits;Will Barton;71;71;32.1;14.7;0.6;4.2;4.8;3.9;0.8;0.4;1.8;1.6;2.2
+Denver Nuggets;den;2021 - 2022 Regular Season;All Splits;Monte Morris;75;74;29.9;12.6;0.4;2.7;3.0;4.4;0.7;0.2;1.0;1.2;4.3
+Denver Nuggets;den;2021 - 2022 Regular Season;All Splits;Jeff Green;75;63;24.7;10.3;0.5;2.5;3.1;1.3;0.4;0.4;0.9;2.0;1.4
+Denver Nuggets;den;2021 - 2022 Regular Season;All Splits;Bones Hyland;69;4;19.0;10.1;0.2;2.5;2.7;2.8;0.6;0.3;1.2;2.2;2.2
+Denver Nuggets;den;2021 - 2022 Regular Season;All Splits;Michael Porter Jr.;9;9;29.4;9.9;1.0;5.6;6.6;1.9;1.1;0.2;1.3;1.8;1.4
+Denver Nuggets;den;2021 - 2022 Regular Season;All Splits;DeMarcus Cousins;31;2;13.9;8.9;1.6;3.9;5.5;1.7;0.6;0.4;2.2;3.0;0.8
+Denver Nuggets;den;2021 - 2022 Regular Season;All Splits;Bryn Forbes;35;1;17.4;8.6;0.2;0.7;0.9;1.0;0.2;0.1;0.7;1.5;1.5
+Denver Nuggets;den;2021 - 2022 Regular Season;All Splits;Zeke Nnaji;41;1;17.0;6.6;1.4;2.2;3.6;0.4;0.4;0.3;0.6;1.9;0.7
+Denver Nuggets;den;2021 - 2022 Regular Season;All Splits;JaMychal Green;67;8;16.2;6.4;1.2;3.0;4.2;0.9;0.6;0.4;0.9;2.4;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;All Splits;Austin Rivers;67;18;22.1;6.0;0.3;1.4;1.7;1.3;0.8;0.1;0.8;1.8;1.7
+Denver Nuggets;den;2021 - 2022 Regular Season;All Splits;PJ Dozier;18;0;18.9;5.4;0.8;2.7;3.5;1.6;0.6;0.3;0.7;1.8;2.2
+Denver Nuggets;den;2021 - 2022 Regular Season;All Splits;Facundo Campazzo;65;4;18.2;5.1;0.4;1.4;1.8;3.4;1.0;0.4;1.0;1.9;3.3
+Denver Nuggets;den;2021 - 2022 Regular Season;All Splits;Davon Reed;48;5;13.9;4.4;0.3;2.0;2.3;1.1;0.5;0.2;0.3;1.3;3.3
+Denver Nuggets;den;2021 - 2022 Regular Season;All Splits;Vlatko Cancar;15;1;11.7;4.1;0.5;1.5;2.1;1.1;0.1;0.2;0.6;1.2;1.9
+Denver Nuggets;den;2021 - 2022 Regular Season;All Splits;Markus Howard;31;0;5.7;4.1;0.1;0.3;0.4;0.2;0.3;0.0;0.2;0.5;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;All Splits;Bol Bol;14;0;5.8;2.4;0.3;1.1;1.4;0.4;0.1;0.1;0.3;0.3;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;All Splits;Rayjon Tucker;3;0;9.7;2.0;0.3;1.0;1.3;1.3;0.3;0.0;0.0;1.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;All Splits;James Ennis III;3;0;4.7;1.3;0.3;0.3;0.7;1.0;0.0;0.0;0.3;0.3;3.0
+Denver Nuggets;den;2021 - 2022 Regular Season;All Splits;Petr Cornelie;13;0;2.9;1.1;0.5;0.5;1.1;0.2;0.1;0.1;0.3;0.5;0.8
+Denver Nuggets;den;2021 - 2022 Regular Season;All Splits;Carlik Jones;2;0;2.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;All Splits;Total;82;"";"";112.7;9.2;34.9;44.1;27.8;7.2;3.7;13.8;20.0;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Home;Nikola Jokic;36;36;34.3;28.1;2.8;10.7;13.5;8.1;1.6;0.9;3.6;2.8;2.3
+Denver Nuggets;den;2021 - 2022 Regular Season;Home;Aaron Gordon;37;37;32.1;15.2;1.7;4.2;5.9;2.7;0.5;0.6;1.7;2.0;1.6
+Denver Nuggets;den;2021 - 2022 Regular Season;Home;Will Barton;36;36;32.2;14.9;0.5;4.5;5.0;4.1;0.7;0.4;1.5;1.7;2.8
+Denver Nuggets;den;2021 - 2022 Regular Season;Home;Monte Morris;39;38;29.7;12.1;0.4;2.6;3.0;4.3;0.7;0.1;0.9;1.2;4.7
+Denver Nuggets;den;2021 - 2022 Regular Season;Home;Bones Hyland;37;2;19.6;11.0;0.2;2.9;3.1;3.0;0.6;0.3;1.3;2.2;2.4
+Denver Nuggets;den;2021 - 2022 Regular Season;Home;Jeff Green;38;33;24.9;10.9;0.6;2.6;3.1;1.3;0.4;0.3;0.9;1.9;1.5
+Denver Nuggets;den;2021 - 2022 Regular Season;Home;DeMarcus Cousins;18;2;13.6;8.6;1.6;4.0;5.6;1.5;0.7;0.4;2.1;2.9;0.7
+Denver Nuggets;den;2021 - 2022 Regular Season;Home;Bryn Forbes;18;1;17.5;8.1;0.2;0.7;0.9;1.1;0.2;0.1;0.6;1.5;1.8
+Denver Nuggets;den;2021 - 2022 Regular Season;Home;Michael Porter Jr.;4;4;21.5;8.0;0.5;2.8;3.3;1.0;0.8;0.3;1.3;1.8;0.8
+Denver Nuggets;den;2021 - 2022 Regular Season;Home;Zeke Nnaji;20;0;16.7;7.6;1.7;2.4;4.1;0.3;0.3;0.3;0.4;2.1;0.8
+Denver Nuggets;den;2021 - 2022 Regular Season;Home;PJ Dozier;10;0;20.4;6.6;1.0;3.1;4.1;2.0;0.7;0.2;1.0;2.2;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Home;JaMychal Green;32;3;16.3;6.6;1.3;2.9;4.3;0.8;0.6;0.4;0.9;2.3;0.9
+Denver Nuggets;den;2021 - 2022 Regular Season;Home;Vlatko Cancar;5;1;17.0;6.0;1.0;3.0;4.0;2.4;0.2;0.2;0.6;1.8;4.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Home;Facundo Campazzo;31;1;15.7;5.1;0.2;1.2;1.5;2.8;0.9;0.2;0.9;1.9;3.2
+Denver Nuggets;den;2021 - 2022 Regular Season;Home;Davon Reed;22;3;15.9;4.8;0.1;1.9;2.0;1.1;0.4;0.3;0.4;1.5;2.7
+Denver Nuggets;den;2021 - 2022 Regular Season;Home;Austin Rivers;34;8;21.0;4.6;0.2;1.2;1.4;1.2;0.8;0.1;0.6;1.9;1.8
+Denver Nuggets;den;2021 - 2022 Regular Season;Home;Markus Howard;18;0;5.8;3.9;0.1;0.4;0.5;0.3;0.3;0.0;0.3;0.7;0.8
+Denver Nuggets;den;2021 - 2022 Regular Season;Home;James Ennis III;2;0;5.0;2.0;0.5;0.5;1.0;1.5;0.0;0.0;0.0;0.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;Home;Petr Cornelie;4;0;3.5;2.0;0.5;0.5;1.0;0.5;0.0;0.0;0.0;0.5;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;Home;Bol Bol;8;0;3.9;1.3;0.1;1.0;1.1;0.5;0.1;0.1;0.1;0.3;4.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Home;Rayjon Tucker;1;0;4.0;0.0;0.0;1.0;1.0;3.0;0.0;0.0;0.0;1.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;Home;Total;41;"";"";114.8;9.1;34.9;44.0;28.1;7.0;3.5;12.9;20.6;2.2
+Denver Nuggets;den;2021 - 2022 Regular Season;Away;Nikola Jokic;38;38;32.7;26.2;2.8;11.3;14.1;7.7;1.4;0.8;4.0;2.3;1.9
+Denver Nuggets;den;2021 - 2022 Regular Season;Away;Aaron Gordon;38;38;31.2;14.8;1.6;4.2;5.8;2.3;0.7;0.6;1.9;1.9;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;Away;Will Barton;35;35;31.9;14.5;0.7;3.8;4.5;3.7;0.9;0.5;2.1;1.5;1.7
+Denver Nuggets;den;2021 - 2022 Regular Season;Away;Monte Morris;36;36;30.0;13.1;0.4;2.7;3.0;4.6;0.8;0.3;1.2;1.3;3.9
+Denver Nuggets;den;2021 - 2022 Regular Season;Away;Michael Porter Jr.;5;5;35.8;11.4;1.4;7.8;9.2;2.6;1.4;0.2;1.4;1.8;1.9
+Denver Nuggets;den;2021 - 2022 Regular Season;Away;Jeff Green;37;30;24.4;9.7;0.5;2.5;3.1;1.2;0.4;0.4;1.0;2.1;1.2
+Denver Nuggets;den;2021 - 2022 Regular Season;Away;DeMarcus Cousins;13;0;14.2;9.4;1.7;3.8;5.5;2.0;0.5;0.4;2.5;3.2;0.8
+Denver Nuggets;den;2021 - 2022 Regular Season;Away;Bryn Forbes;17;0;17.4;9.1;0.1;0.7;0.8;0.8;0.2;0.1;0.7;1.5;1.2
+Denver Nuggets;den;2021 - 2022 Regular Season;Away;Bones Hyland;32;2;18.3;9.1;0.2;2.1;2.3;2.5;0.6;0.3;1.2;2.2;2.1
+Denver Nuggets;den;2021 - 2022 Regular Season;Away;Austin Rivers;33;10;23.2;7.5;0.3;1.6;2.0;1.5;0.8;0.1;1.0;1.7;1.6
+Denver Nuggets;den;2021 - 2022 Regular Season;Away;JaMychal Green;35;5;16.1;6.3;1.1;3.1;4.1;0.9;0.7;0.4;0.8;2.4;1.2
+Denver Nuggets;den;2021 - 2022 Regular Season;Away;Zeke Nnaji;21;1;17.3;5.6;1.0;2.0;3.1;0.5;0.5;0.3;0.7;1.8;0.7
+Denver Nuggets;den;2021 - 2022 Regular Season;Away;Facundo Campazzo;34;3;20.5;5.1;0.5;1.6;2.1;3.9;1.0;0.5;1.2;1.9;3.3
+Denver Nuggets;den;2021 - 2022 Regular Season;Away;Markus Howard;13;0;5.5;4.3;0.0;0.2;0.2;0.2;0.2;0.0;0.1;0.3;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Away;Davon Reed;26;2;12.2;4.0;0.4;2.0;2.5;1.1;0.6;0.1;0.3;1.2;4.1
+Denver Nuggets;den;2021 - 2022 Regular Season;Away;PJ Dozier;8;0;17.0;3.9;0.5;2.3;2.8;1.1;0.5;0.5;0.4;1.4;3.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Away;Bol Bol;6;0;8.3;3.8;0.5;1.3;1.8;0.2;0.0;0.2;0.5;0.3;0.3
+Denver Nuggets;den;2021 - 2022 Regular Season;Away;Vlatko Cancar;10;0;9.1;3.2;0.3;0.8;1.1;0.5;0.1;0.2;0.6;0.9;0.8
+Denver Nuggets;den;2021 - 2022 Regular Season;Away;Rayjon Tucker;2;0;13.0;3.0;0.5;1.0;1.5;0.5;0.5;0.0;0.0;1.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;Away;Carlik Jones;2;0;2.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Away;Petr Cornelie;9;0;2.7;0.7;0.6;0.6;1.1;0.1;0.1;0.1;0.4;0.6;0.3
+Denver Nuggets;den;2021 - 2022 Regular Season;Away;James Ennis III;1;0;4.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Away;Total;41;"";"";110.7;9.2;35.0;44.2;27.5;7.5;4.0;14.8;19.4;1.9
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Boston Celtics;Nikola Jokic;2;2;33.5;23.0;4.5;7.5;12.0;7.5;0.5;1.5;5.5;2.0;1.4
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Boston Celtics;Aaron Gordon;2;2;28.0;15.0;2.0;3.0;5.0;1.0;1.5;0.0;2.0;3.5;0.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Boston Celtics;DeMarcus Cousins;1;0;17.0;12.0;1.0;3.0;4.0;0.0;0.0;1.0;1.0;2.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Boston Celtics;Will Barton;2;2;28.5;10.5;0.5;5.0;5.5;2.5;0.0;0.0;1.5;1.0;1.7
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Boston Celtics;Bones Hyland;2;1;19.0;10.5;0.5;2.0;2.5;2.0;0.0;0.0;1.5;2.0;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Boston Celtics;Facundo Campazzo;2;0;17.0;7.0;1.0;1.0;2.0;1.5;0.5;0.5;1.5;3.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Boston Celtics;Monte Morris;1;1;26.0;7.0;0.0;4.0;4.0;4.0;1.0;0.0;0.0;0.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Boston Celtics;Jeff Green;2;2;22.0;6.5;0.5;2.0;2.5;0.0;1.0;0.0;0.5;0.5;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Boston Celtics;Austin Rivers;2;0;19.0;6.0;0.5;1.0;1.5;2.5;0.0;0.0;0.5;1.5;5.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Boston Celtics;Markus Howard;1;0;5.0;6.0;0.0;2.0;2.0;0.0;1.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Boston Celtics;JaMychal Green;2;0;13.5;5.0;2.0;3.0;5.0;1.5;0.5;1.0;0.5;1.0;3.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Boston Celtics;Zeke Nnaji;1;0;29.0;5.0;0.0;4.0;4.0;2.0;0.0;1.0;2.0;3.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Boston Celtics;Bryn Forbes;2;0;9.5;2.5;0.5;1.5;2.0;0.0;0.5;0.5;0.5;0.5;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Boston Celtics;Davon Reed;2;0;11.5;2.0;0.0;1.5;1.5;1.0;0.0;0.0;0.0;1.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Boston Celtics;Total;2;"";"";103.0;12.5;34.0;46.5;22.5;5.5;4.5;15.5;18.5;1.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Brooklyn Nets;Nikola Jokic;2;2;32.5;26.5;1.5;9.5;11.0;9.0;1.5;0.5;2.0;3.0;4.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Brooklyn Nets;Will Barton;2;2;33.5;21.0;1.5;6.5;8.0;4.0;1.0;1.0;2.5;2.5;1.6
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Brooklyn Nets;Aaron Gordon;2;2;31.5;13.5;2.5;4.5;7.0;4.0;0.5;0.5;1.5;2.0;2.7
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Brooklyn Nets;Austin Rivers;2;0;17.5;12.5;0.0;0.5;0.5;0.5;1.0;0.0;0.5;1.5;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Brooklyn Nets;Monte Morris;2;2;29.5;11.0;0.5;4.0;4.5;6.0;0.5;0.0;0.0;0.5;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Brooklyn Nets;Jeff Green;2;2;22.0;9.0;1.5;4.5;6.0;1.0;0.5;0.0;0.0;1.5;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Brooklyn Nets;DeMarcus Cousins;2;0;14.5;9.0;2.0;5.5;7.5;1.0;0.5;0.0;2.0;2.5;0.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Brooklyn Nets;Bryn Forbes;2;0;20.5;8.0;0.5;1.0;1.5;2.0;0.5;0.0;1.0;2.0;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Brooklyn Nets;Zeke Nnaji;2;0;17.5;8.0;1.5;1.0;2.5;0.5;0.0;0.0;0.5;2.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Brooklyn Nets;Bones Hyland;1;0;17.0;6.0;0.0;5.0;5.0;2.0;1.0;0.0;2.0;3.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Brooklyn Nets;Facundo Campazzo;2;0;11.0;2.5;0.0;0.5;0.5;3.0;1.0;0.0;0.0;1.5;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Brooklyn Nets;Davon Reed;2;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Brooklyn Nets;Markus Howard;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Brooklyn Nets;Total;2;"";"";124.0;11.5;40.0;51.5;32.0;7.5;2.0;11.5;20.5;2.8
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. New York Knicks;Nikola Jokic;2;2;28.5;26.5;3.0;8.0;11.0;6.0;0.0;0.0;5.0;1.0;1.2
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. New York Knicks;Bones Hyland;1;0;25.0;22.0;0.0;6.0;6.0;3.0;0.0;0.0;1.0;1.0;3.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. New York Knicks;Will Barton;2;2;34.0;16.5;1.5;5.0;6.5;5.5;0.5;0.0;1.0;3.5;5.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. New York Knicks;Zeke Nnaji;2;0;28.5;16.0;3.0;4.5;7.5;0.0;1.5;0.0;0.5;4.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. New York Knicks;JaMychal Green;2;0;17.5;12.5;0.5;3.0;3.5;2.5;1.5;1.0;0.5;2.0;5.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. New York Knicks;Aaron Gordon;2;2;28.0;12.0;1.0;4.0;5.0;2.5;1.5;1.0;1.5;2.0;1.7
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. New York Knicks;Jeff Green;2;2;22.0;8.5;0.0;4.0;4.0;1.5;1.0;0.5;1.5;2.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. New York Knicks;Monte Morris;2;2;27.0;7.0;0.5;1.0;1.5;5.5;0.5;0.0;0.0;0.5;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. New York Knicks;Bryn Forbes;1;0;15.0;6.0;0.0;2.0;2.0;2.0;0.0;0.0;1.0;3.0;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. New York Knicks;Davon Reed;2;0;17.5;4.5;0.0;1.5;1.5;2.5;1.0;0.5;0.5;0.5;5.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. New York Knicks;Facundo Campazzo;2;0;14.0;4.0;0.5;1.0;1.5;2.0;0.0;0.0;1.5;1.0;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. New York Knicks;Markus Howard;1;0;2.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. New York Knicks;Vlatko Cancar;1;0;3.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. New York Knicks;Total;2;"";"";122.5;10.0;37.0;47.0;30.5;7.5;3.0;13.0;18.5;2.3
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Nikola Jokic;2;2;34.5;26.0;1.0;10.5;11.5;7.5;1.0;1.5;3.0;2.0;2.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Will Barton;2;2;33.0;19.5;1.0;5.0;6.0;5.0;0.0;0.0;1.5;1.5;3.3
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Bones Hyland;2;0;23.0;11.5;0.0;3.5;3.5;1.0;0.0;0.5;1.5;0.5;0.7
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Monte Morris;2;2;33.0;11.0;0.0;3.0;3.0;5.0;1.5;0.0;0.5;3.0;10.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Philadelphia 76ers;DeMarcus Cousins;1;0;14.0;8.0;0.0;3.0;3.0;4.0;1.0;0.0;1.0;5.0;4.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Philadelphia 76ers;JaMychal Green;2;0;15.5;8.0;1.0;4.0;5.0;0.5;1.0;0.0;0.5;3.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Aaron Gordon;2;2;25.5;8.0;2.0;1.5;3.5;1.5;0.0;1.0;1.0;1.0;1.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Bryn Forbes;1;0;12.0;5.0;0.0;0.0;0.0;1.0;0.0;0.0;1.0;3.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Austin Rivers;2;0;19.5;4.5;1.5;0.5;2.0;1.0;2.0;0.0;1.0;2.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Jeff Green;2;2;22.5;3.0;0.5;2.0;2.5;0.5;0.5;0.0;1.0;1.0;0.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Markus Howard;1;0;9.0;3.0;0.0;1.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Facundo Campazzo;1;0;8.0;2.0;0.0;3.0;3.0;1.0;0.0;0.0;0.0;0.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Bol Bol;1;0;4.0;2.0;0.0;3.0;3.0;0.0;0.0;1.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Petr Cornelie;1;0;4.0;0.0;1.0;1.0;2.0;1.0;0.0;0.0;0.0;1.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Philadelphia 76ers;PJ Dozier;1;0;16.0;0.0;1.0;1.0;2.0;0.0;0.0;0.0;2.0;1.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Total;2;"";"";101.5;8.0;36.0;44.0;25.5;7.0;3.5;12.0;19.0;2.1
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Toronto Raptors;Nikola Jokic;2;2;33.0;27.0;4.5;8.0;12.5;6.5;0.0;2.0;3.5;1.5;1.9
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Toronto Raptors;Jeff Green;2;2;27.5;16.0;0.5;3.0;3.5;3.0;0.0;0.5;1.0;2.0;3.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Toronto Raptors;Bones Hyland;2;1;22.0;14.0;1.0;2.5;3.5;5.5;0.5;0.0;2.5;4.0;2.2
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Toronto Raptors;Will Barton;2;2;30.5;13.0;0.5;3.5;4.0;3.0;0.5;0.0;3.0;2.5;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Toronto Raptors;Aaron Gordon;1;1;32.0;13.0;1.0;5.0;6.0;2.0;0.0;0.0;1.0;2.0;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Toronto Raptors;Monte Morris;1;1;28.0;9.0;0.0;2.0;2.0;6.0;0.0;0.0;1.0;0.0;6.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Toronto Raptors;Bryn Forbes;2;0;14.5;7.5;0.0;1.5;1.5;0.5;0.0;0.0;0.5;0.5;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Toronto Raptors;JaMychal Green;2;0;20.0;7.0;1.0;2.5;3.5;0.0;0.5;0.5;2.0;3.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Toronto Raptors;Austin Rivers;2;0;22.0;6.0;1.0;2.0;3.0;3.5;0.5;0.0;1.0;1.5;3.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Toronto Raptors;DeMarcus Cousins;2;0;14.5;5.5;1.0;4.0;5.0;1.5;0.5;1.0;2.0;2.0;0.8
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Toronto Raptors;Davon Reed;1;1;27.0;5.0;0.0;5.0;5.0;2.0;1.0;0.0;2.0;3.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Toronto Raptors;Facundo Campazzo;2;0;12.0;3.0;0.5;1.0;1.5;1.5;1.5;0.0;0.5;0.0;3.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Toronto Raptors;Markus Howard;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Toronto Raptors;Total;2;"";"";112.5;10.5;34.0;44.5;30.0;4.5;4.0;18.0;19.5;1.7
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Chicago Bulls;Aaron Gordon;2;2;38.0;23.0;2.5;5.0;7.5;2.5;0.0;1.0;1.5;1.0;1.7
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Chicago Bulls;Will Barton;2;2;34.5;21.0;1.0;3.5;4.5;2.0;0.0;1.0;2.0;1.5;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Chicago Bulls;Nikola Jokic;1;1;36.0;17.0;1.0;11.0;12.0;15.0;2.0;0.0;3.0;2.0;5.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Chicago Bulls;Monte Morris;2;2;31.5;12.5;0.0;3.5;3.5;6.0;1.0;0.0;0.5;2.0;12.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Chicago Bulls;Jeff Green;2;2;30.5;11.5;1.5;7.0;8.5;2.0;0.5;0.5;1.5;3.0;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Chicago Bulls;Austin Rivers;1;1;33.0;9.0;0.0;2.0;2.0;1.0;0.0;0.0;1.0;3.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Chicago Bulls;PJ Dozier;1;0;22.0;9.0;2.0;8.0;10.0;2.0;0.0;1.0;2.0;4.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Chicago Bulls;Facundo Campazzo;2;0;24.0;8.0;0.5;0.5;1.0;4.5;1.5;0.0;0.5;2.0;9.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Chicago Bulls;Bones Hyland;1;0;19.0;6.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;3.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Chicago Bulls;Vlatko Cancar;1;0;1.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Chicago Bulls;Zeke Nnaji;1;0;15.0;3.0;2.0;1.0;3.0;0.0;0.0;0.0;0.0;1.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Chicago Bulls;JaMychal Green;2;0;11.0;2.0;0.5;1.5;2.0;0.5;0.5;0.5;1.0;2.5;0.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Chicago Bulls;Markus Howard;1;0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Chicago Bulls;Davon Reed;1;0;13.0;0.0;1.0;3.0;4.0;1.0;1.0;0.0;0.0;1.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Chicago Bulls;Petr Cornelie;1;0;1.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Chicago Bulls;Total;2;"";"";102.5;9.0;35.0;44.0;27.0;5.0;3.5;10.0;19.5;2.7
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Nikola Jokic;2;2;36.0;28.0;4.0;10.5;14.5;5.5;2.5;0.5;5.0;3.0;1.1
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Aaron Gordon;2;2;31.5;16.0;2.0;6.5;8.5;3.0;0.0;0.5;5.0;4.0;0.6
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;DeMarcus Cousins;1;0;16.0;12.0;2.0;6.0;8.0;2.0;0.0;0.0;1.0;1.0;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Bones Hyland;2;0;22.5;12.0;0.0;2.5;2.5;4.5;2.0;0.0;0.5;3.0;9.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Will Barton;2;2;34.0;11.0;1.5;3.0;4.5;2.0;1.0;1.0;2.0;1.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Michael Porter Jr.;1;1;27.0;11.0;2.0;3.0;5.0;3.0;1.0;1.0;2.0;2.0;1.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Jeff Green;2;1;26.0;7.5;0.0;1.5;1.5;1.5;0.0;0.0;0.5;2.5;3.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;JaMychal Green;2;0;14.5;5.0;1.0;1.5;2.5;0.5;0.5;0.0;1.0;2.5;0.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Facundo Campazzo;1;0;18.0;3.0;1.0;1.0;2.0;3.0;1.0;0.0;1.0;3.0;3.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Zeke Nnaji;1;0;3.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Austin Rivers;2;0;18.0;2.5;0.5;2.0;2.5;2.0;0.0;0.0;1.0;1.5;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Bryn Forbes;1;0;11.0;2.0;1.0;1.0;2.0;1.0;0.0;0.0;0.0;0.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Monte Morris;2;2;23.5;2.0;0.0;3.0;3.0;4.0;0.0;0.5;2.0;1.5;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;PJ Dozier;1;0;10.0;2.0;0.0;1.0;1.0;1.0;1.0;0.0;0.0;2.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Bol Bol;1;0;3.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Petr Cornelie;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Markus Howard;1;0;3.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;1.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Total;2;"";"";101.5;12.0;37.0;49.0;28.0;8.0;3.0;19.5;23.0;1.4
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Detroit Pistons;Nikola Jokic;2;2;35.0;31.0;2.5;12.5;15.0;8.5;1.5;0.5;3.0;1.5;2.8
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Detroit Pistons;Jeff Green;1;1;29.0;20.0;2.0;2.0;4.0;1.0;0.0;0.0;1.0;4.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Detroit Pistons;Aaron Gordon;2;2;33.0;14.5;1.0;3.5;4.5;4.0;1.0;0.5;3.5;2.0;1.1
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Detroit Pistons;Will Barton;1;1;27.0;14.0;1.0;5.0;6.0;5.0;1.0;0.0;1.0;3.0;5.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Detroit Pistons;Austin Rivers;2;2;30.0;10.5;0.0;0.5;0.5;2.0;1.5;0.0;1.0;2.5;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Detroit Pistons;Zeke Nnaji;2;0;17.5;10.5;3.0;1.0;4.0;0.0;0.0;0.0;1.0;1.5;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Detroit Pistons;Monte Morris;2;2;31.0;8.0;1.5;3.5;5.0;5.0;0.5;0.0;1.5;0.5;3.3
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Detroit Pistons;Bryn Forbes;2;0;19.0;7.5;0.0;0.5;0.5;1.0;0.0;0.0;0.5;2.0;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Detroit Pistons;Facundo Campazzo;2;0;19.5;6.5;0.5;0.0;0.5;2.5;1.5;0.0;1.5;1.0;1.7
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Detroit Pistons;Bones Hyland;1;0;6.0;4.0;0.0;2.0;2.0;1.0;0.0;0.0;2.0;0.0;0.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Detroit Pistons;DeMarcus Cousins;2;0;13.0;3.0;2.0;4.5;6.5;0.5;1.0;0.0;3.5;3.5;0.1
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Detroit Pistons;Davon Reed;2;0;10.5;3.0;0.0;2.5;2.5;0.0;0.0;0.0;0.5;1.5;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Detroit Pistons;Total;2;"";"";113.5;12.0;33.0;45.0;27.0;7.5;1.0;18.0;19.5;1.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Indiana Pacers;Nikola Jokic;1;1;36.0;37.0;3.0;10.0;13.0;9.0;2.0;1.0;7.0;3.0;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Indiana Pacers;Will Barton;2;2;36.0;24.0;0.5;4.5;5.0;4.0;1.5;0.0;2.0;1.0;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Indiana Pacers;Zeke Nnaji;1;0;20.0;19.0;2.0;3.0;5.0;0.0;0.0;1.0;0.0;1.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Indiana Pacers;Bones Hyland;2;0;24.5;16.0;0.5;3.0;3.5;5.5;0.5;0.5;1.0;2.5;5.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Indiana Pacers;DeMarcus Cousins;1;0;12.0;11.0;0.0;5.0;5.0;2.0;0.0;0.0;3.0;4.0;0.7
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Indiana Pacers;Monte Morris;2;2;29.0;10.5;1.0;2.0;3.0;4.0;1.0;0.0;2.0;1.5;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Indiana Pacers;Jeff Green;2;2;24.0;9.5;0.5;1.5;2.0;0.5;0.5;0.5;0.5;1.5;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Indiana Pacers;Aaron Gordon;2;2;34.5;9.0;3.0;5.5;8.5;3.0;0.5;0.5;1.0;2.5;3.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Indiana Pacers;PJ Dozier;1;0;25.0;6.0;2.0;2.0;4.0;2.0;1.0;0.0;1.0;2.0;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Indiana Pacers;Davon Reed;1;0;17.0;5.0;1.0;0.0;1.0;1.0;0.0;1.0;1.0;0.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Indiana Pacers;Bryn Forbes;1;0;6.0;3.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;1.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Indiana Pacers;Austin Rivers;2;0;17.0;2.5;0.0;1.5;1.5;0.0;0.0;0.5;0.5;1.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Indiana Pacers;JaMychal Green;1;1;22.0;2.0;0.0;7.0;7.0;2.0;0.0;1.0;2.0;2.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Indiana Pacers;Facundo Campazzo;1;0;7.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Indiana Pacers;Markus Howard;1;0;5.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Indiana Pacers;Total;2;"";"";113.0;9.5;31.5;41.0;26.0;5.5;4.0;14.5;17.0;1.8
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Aaron Gordon;2;2;32.5;21.0;2.0;6.0;8.0;1.5;1.5;0.5;0.0;2.5;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Nikola Jokic;1;1;28.0;18.0;0.0;10.0;10.0;15.0;3.0;1.0;5.0;1.0;3.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Monte Morris;2;2;30.0;16.5;0.0;1.5;1.5;7.5;0.0;0.0;1.5;0.5;5.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Will Barton;2;2;33.0;16.0;1.0;5.0;6.0;4.5;1.0;0.5;0.5;1.0;9.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Bryn Forbes;1;0;21.0;14.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Bones Hyland;1;0;18.0;13.0;0.0;5.0;5.0;6.0;1.0;0.0;1.0;1.0;6.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Vlatko Cancar;1;0;15.0;10.0;1.0;0.0;1.0;4.0;1.0;0.0;1.0;1.0;4.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Jeff Green;2;2;26.5;8.5;0.5;2.0;2.5;0.0;0.5;0.5;1.0;2.5;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Markus Howard;2;0;4.0;8.5;0.0;0.0;0.0;1.0;0.5;0.0;0.0;0.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Facundo Campazzo;2;0;16.0;8.0;0.0;0.5;0.5;1.5;0.5;0.5;1.5;2.5;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Milwaukee Bucks;JaMychal Green;2;1;14.5;5.5;1.5;3.0;4.5;0.5;1.0;0.0;0.5;3.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Zeke Nnaji;2;0;17.5;5.0;1.5;1.5;3.0;0.0;0.5;0.0;0.0;1.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Austin Rivers;2;0;20.0;4.0;0.0;1.0;1.0;1.0;0.5;0.0;0.0;2.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Petr Cornelie;1;0;3.0;4.0;1.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Davon Reed;1;0;3.0;0.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;0.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Bol Bol;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Total;2;"";"";122.5;7.5;28.5;36.0;31.5;8.5;2.5;8.5;17.0;3.7
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Atlanta Hawks;Nikola Jokic;2;2;31.0;21.0;3.5;11.0;14.5;8.5;2.0;0.0;2.5;5.0;3.4
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Atlanta Hawks;Aaron Gordon;2;2;32.5;19.5;0.5;3.0;3.5;3.5;1.0;2.0;2.5;1.5;1.4
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Atlanta Hawks;Bones Hyland;2;0;23.5;19.5;0.5;4.5;5.0;3.0;0.0;1.0;1.0;2.5;3.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Atlanta Hawks;Jeff Green;2;2;31.5;18.0;0.0;4.5;4.5;2.5;1.0;0.5;1.0;1.5;2.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Atlanta Hawks;Monte Morris;2;2;28.0;14.5;1.0;3.0;4.0;3.0;0.5;0.0;0.5;1.0;6.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Atlanta Hawks;PJ Dozier;1;0;23.0;12.0;1.0;1.0;2.0;1.0;0.0;1.0;1.0;3.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Atlanta Hawks;Facundo Campazzo;1;0;20.0;7.0;0.0;3.0;3.0;8.0;3.0;0.0;1.0;2.0;8.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Atlanta Hawks;Vlatko Cancar;1;0;17.0;6.0;0.0;0.0;0.0;2.0;0.0;0.0;1.0;3.0;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Atlanta Hawks;Austin Rivers;2;0;17.0;5.5;0.5;1.5;2.0;0.5;0.0;0.0;0.5;1.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Atlanta Hawks;Will Barton;2;2;31.5;5.0;0.0;6.0;6.0;2.5;0.0;1.0;0.5;1.0;5.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Atlanta Hawks;JaMychal Green;1;0;13.0;4.0;1.0;2.0;3.0;1.0;1.0;1.0;1.0;5.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Atlanta Hawks;Zeke Nnaji;1;0;16.0;2.0;0.0;0.0;0.0;2.0;2.0;0.0;0.0;3.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Atlanta Hawks;Petr Cornelie;1;0;3.0;1.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Atlanta Hawks;Total;2;"";"";119.0;7.0;36.5;43.5;30.5;7.5;6.0;10.5;21.5;2.9
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Charlotte Hornets;Nikola Jokic;2;2;35.5;27.5;5.5;14.5;20.0;8.0;2.0;0.0;5.0;0.5;1.6
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Charlotte Hornets;Aaron Gordon;1;1;33.0;21.0;5.0;2.0;7.0;3.0;2.0;1.0;0.0;0.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Charlotte Hornets;Will Barton;2;2;35.5;14.5;0.5;7.0;7.5;3.5;0.5;0.5;2.5;0.5;1.4
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Charlotte Hornets;Jeff Green;2;2;28.5;12.5;0.5;4.0;4.5;0.5;0.0;1.0;0.5;4.5;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Charlotte Hornets;Facundo Campazzo;1;0;33.0;12.0;0.0;2.0;2.0;5.0;3.0;1.0;1.0;3.0;5.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Charlotte Hornets;Vlatko Cancar;1;1;19.0;11.0;2.0;2.0;4.0;2.0;0.0;0.0;0.0;1.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Charlotte Hornets;JaMychal Green;1;0;13.0;10.0;0.0;3.0;3.0;0.0;0.0;0.0;1.0;1.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Charlotte Hornets;Monte Morris;2;2;31.0;8.5;0.5;2.0;2.5;6.0;0.5;0.0;0.5;2.0;12.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Charlotte Hornets;Austin Rivers;2;0;24.0;8.0;0.0;4.0;4.0;0.5;1.0;0.0;1.5;2.0;0.3
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Charlotte Hornets;DeMarcus Cousins;1;0;12.0;6.0;3.0;1.0;4.0;0.0;0.0;0.0;3.0;3.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Charlotte Hornets;Zeke Nnaji;1;0;17.0;6.0;1.0;1.0;2.0;0.0;0.0;0.0;1.0;4.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Charlotte Hornets;Bones Hyland;2;0;17.0;6.0;0.5;1.0;1.5;2.5;0.0;0.0;2.0;2.5;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Charlotte Hornets;Bryn Forbes;1;0;5.0;0.0;0.0;1.0;1.0;0.0;1.0;0.0;1.0;2.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Charlotte Hornets;Davon Reed;1;0;4.0;0.0;1.0;1.0;2.0;0.0;0.0;0.0;0.0;1.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Charlotte Hornets;Total;2;"";"";110.0;13.5;39.0;52.5;26.0;7.0;2.5;15.5;19.5;1.7
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Miami Heat;Nikola Jokic;2;2;33.0;24.5;3.5;11.5;15.0;8.5;1.5;1.0;1.5;2.5;5.7
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Miami Heat;Will Barton;2;2;34.0;19.5;0.0;5.0;5.0;5.0;0.5;0.0;1.5;2.0;3.3
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Miami Heat;Aaron Gordon;2;2;37.0;15.0;0.5;5.0;5.5;4.0;0.0;0.5;2.5;2.0;1.6
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Miami Heat;Jeff Green;2;2;32.5;12.5;0.0;2.5;2.5;0.0;0.0;0.0;1.5;3.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Miami Heat;Monte Morris;2;2;29.5;12.5;0.0;3.5;3.5;5.5;0.5;0.0;0.5;1.5;11.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Miami Heat;Bones Hyland;2;0;18.5;12.5;0.0;0.5;0.5;2.0;1.5;0.5;1.5;2.5;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Miami Heat;JaMychal Green;1;0;15.0;9.0;2.0;3.0;5.0;0.0;0.0;1.0;0.0;1.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Miami Heat;PJ Dozier;1;0;21.0;7.0;2.0;6.0;8.0;1.0;0.0;0.0;1.0;3.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Miami Heat;Facundo Campazzo;2;0;12.5;5.0;0.5;0.0;0.5;2.5;0.0;0.5;1.0;1.0;2.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Miami Heat;Austin Rivers;2;0;16.0;4.5;2.0;0.5;2.5;1.5;0.5;0.0;0.0;1.5;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Miami Heat;Zeke Nnaji;2;0;6.0;2.5;0.0;0.5;0.5;0.5;0.0;0.0;0.0;1.5;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Miami Heat;Markus Howard;2;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Miami Heat;Vlatko Cancar;1;0;4.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;2.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Miami Heat;Bol Bol;2;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Miami Heat;Total;2;"";"";116.5;8.5;33.5;42.0;30.0;4.5;3.0;11.0;20.5;2.7
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Orlando Magic;Monte Morris;1;1;34.0;22.0;0.0;2.0;2.0;2.0;0.0;1.0;3.0;1.0;0.7
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Orlando Magic;Nikola Jokic;2;2;35.5;22.0;3.0;12.0;15.0;7.0;1.0;0.0;5.0;1.5;1.4
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Orlando Magic;Bryn Forbes;1;0;20.0;16.0;0.0;0.0;0.0;2.0;0.0;0.0;1.0;1.0;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Orlando Magic;Will Barton;2;2;32.5;15.5;0.0;5.5;5.5;1.5;0.0;0.5;1.5;1.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Orlando Magic;Bones Hyland;1;1;29.0;14.0;1.0;4.0;5.0;2.0;2.0;0.0;3.0;2.0;0.7
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Orlando Magic;Aaron Gordon;2;2;35.0;13.5;0.5;6.5;7.0;3.0;0.5;0.0;3.0;2.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Orlando Magic;Jeff Green;2;2;28.0;13.0;0.0;2.0;2.0;3.0;0.0;0.5;1.5;2.5;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Orlando Magic;DeMarcus Cousins;1;0;12.0;9.0;1.0;4.0;5.0;0.0;1.0;0.0;3.0;4.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Orlando Magic;Zeke Nnaji;1;0;18.0;9.0;0.0;1.0;1.0;0.0;0.0;1.0;1.0;3.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Orlando Magic;Facundo Campazzo;2;0;23.5;6.0;0.0;2.0;2.0;4.5;1.0;0.0;0.0;3.5;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Orlando Magic;JaMychal Green;2;0;14.0;5.5;2.0;2.0;4.0;0.5;0.5;1.0;0.0;1.5;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Orlando Magic;Markus Howard;1;0;14.0;3.0;0.0;1.0;1.0;0.0;1.0;0.0;1.0;1.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Orlando Magic;Austin Rivers;1;0;16.0;0.0;0.0;2.0;2.0;2.0;2.0;0.0;2.0;1.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Orlando Magic;Total;2;"";"";112.0;6.5;37.0;43.5;23.5;6.0;3.0;18.0;18.5;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Washington Wizards;Nikola Jokic;2;2;28.5;28.5;2.0;14.0;16.0;8.5;2.5;1.0;3.5;1.0;2.4
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Washington Wizards;Monte Morris;2;2;31.5;18.5;0.0;3.5;3.5;4.5;0.5;0.0;0.5;2.5;9.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Washington Wizards;Aaron Gordon;2;2;31.0;15.0;1.5;2.0;3.5;1.5;0.0;0.5;1.0;2.0;1.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Washington Wizards;DeMarcus Cousins;1;0;20.0;14.0;1.0;4.0;5.0;3.0;0.0;1.0;1.0;5.0;3.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Washington Wizards;Austin Rivers;1;0;21.0;13.0;1.0;2.0;3.0;2.0;0.0;0.0;1.0;1.0;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Washington Wizards;Bones Hyland;2;0;22.0;11.5;0.0;4.0;4.0;2.5;0.5;0.0;1.5;1.5;1.7
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Washington Wizards;Bryn Forbes;1;0;17.0;10.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Washington Wizards;Jeff Green;2;2;24.0;9.5;0.0;4.5;4.5;0.5;0.5;0.0;1.0;1.5;0.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Washington Wizards;Markus Howard;2;0;7.0;6.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;2.5;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Washington Wizards;Vlatko Cancar;1;0;9.0;5.0;0.0;0.0;0.0;1.0;0.0;1.0;1.0;1.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Washington Wizards;Will Barton;1;1;26.0;4.0;0.0;2.0;2.0;5.0;2.0;0.0;0.0;2.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Washington Wizards;Facundo Campazzo;2;0;14.5;4.0;0.0;1.5;1.5;3.0;1.0;0.0;1.0;2.0;3.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Washington Wizards;Zeke Nnaji;1;0;19.0;4.0;0.0;4.0;4.0;2.0;1.0;0.0;0.0;2.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Washington Wizards;JaMychal Green;1;0;27.0;2.0;3.0;2.0;5.0;1.0;0.0;0.0;1.0;4.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Washington Wizards;Davon Reed;2;1;12.5;1.0;0.0;2.5;2.5;0.5;1.0;0.0;0.0;0.5;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Washington Wizards;Total;2;"";"";120.0;6.0;39.0;45.0;28.0;7.5;2.5;11.0;22.0;2.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Nikola Jokic;4;4;36.3;28.0;3.5;12.5;16.0;8.5;1.0;0.5;5.0;2.8;1.7
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Monte Morris;4;4;30.0;16.8;0.5;1.8;2.3;4.8;1.5;0.0;2.0;1.5;2.4
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Aaron Gordon;4;4;30.3;12.8;1.8;3.0;4.8;2.0;0.5;0.5;1.3;0.5;1.6
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Zeke Nnaji;2;0;19.5;11.0;2.0;4.5;6.5;0.5;0.5;1.0;0.5;1.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Markus Howard;2;0;12.5;10.5;0.0;1.0;1.0;1.0;1.0;0.0;1.0;0.5;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;JaMychal Green;3;0;15.7;10.0;1.7;1.0;2.7;1.0;0.3;0.3;1.0;2.7;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Will Barton;4;4;27.3;9.8;1.0;2.5;3.5;2.8;1.0;0.5;2.0;1.5;1.4
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Bones Hyland;3;0;20.3;9.0;0.0;2.0;2.0;3.7;0.7;1.3;1.3;1.7;2.8
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Jeff Green;4;3;19.0;7.5;0.3;1.0;1.3;1.3;0.5;0.0;1.3;2.3;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Michael Porter Jr.;1;1;35.0;7.0;3.0;9.0;12.0;3.0;1.0;0.0;1.0;2.0;3.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Davon Reed;2;0;10.5;5.0;0.0;3.0;3.0;1.0;0.5;0.5;0.0;1.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Petr Cornelie;1;0;4.0;4.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;DeMarcus Cousins;1;0;5.0;3.0;1.0;0.0;1.0;1.0;0.0;0.0;4.0;5.0;0.3
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Facundo Campazzo;3;0;19.3;3.0;0.3;1.7;2.0;4.3;0.3;1.3;1.0;1.3;4.3
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Bryn Forbes;1;0;17.0;3.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;3.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Austin Rivers;3;0;13.7;2.0;0.3;0.3;0.7;1.0;0.7;0.0;0.3;0.7;3.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;PJ Dozier;1;0;14.0;2.0;0.0;4.0;4.0;1.0;1.0;1.0;0.0;1.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Vlatko Cancar;1;0;19.0;2.0;0.0;7.0;7.0;1.0;0.0;0.0;0.0;1.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Bol Bol;1;0;4.0;0.0;0.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Total;4;"";"";111.3;10.8;34.3;45.0;30.0;7.5;4.8;16.3;17.5;1.8
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Nikola Jokic;4;4;31.3;23.0;3.5;9.8;13.3;5.3;1.3;1.0;3.5;1.5;1.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Will Barton;4;4;28.3;11.3;0.8;4.8;5.5;4.5;1.0;0.3;1.3;2.0;3.6
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Austin Rivers;4;0;25.5;11.3;0.3;1.5;1.8;1.3;2.0;0.0;1.0;2.0;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Aaron Gordon;4;4;28.0;11.3;0.8;4.8;5.5;1.3;0.5;0.3;1.5;1.5;0.8
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Bryn Forbes;2;0;18.5;10.5;0.5;0.0;0.5;2.5;0.0;0.5;2.0;0.5;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Jeff Green;4;3;21.3;9.8;0.5;1.3;1.8;0.5;0.5;0.0;1.0;1.5;0.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Vlatko Cancar;1;0;17.0;9.0;0.0;4.0;4.0;0.0;0.0;1.0;2.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Bones Hyland;4;0;15.8;8.3;0.3;1.5;1.8;2.5;0.8;0.3;1.5;2.3;1.7
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Monte Morris;4;4;27.0;7.3;0.0;2.0;2.0;4.8;1.5;0.0;0.5;1.0;9.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;DeMarcus Cousins;2;0;14.0;6.5;2.5;5.0;7.5;2.0;0.5;0.5;1.5;2.5;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Facundo Campazzo;2;0;24.5;5.0;1.0;2.0;3.0;7.0;0.0;1.5;2.0;2.5;3.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;JaMychal Green;4;1;17.3;4.3;1.5;4.0;5.5;0.3;0.8;0.3;0.5;2.0;0.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Davon Reed;4;0;6.3;3.0;0.3;1.3;1.5;0.8;0.3;0.0;0.3;0.8;3.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Zeke Nnaji;2;0;12.0;1.5;1.5;1.5;3.0;0.0;0.0;0.0;0.0;0.5;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Petr Cornelie;1;0;2.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Total;4;"";"";103.3;10.5;36.0;46.5;26.8;9.0;3.5;14.3;17.5;1.9
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Portland Trail Blazers;DeMarcus Cousins;1;0;18.0;19.0;2.0;6.0;8.0;6.0;1.0;1.0;3.0;4.0;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Nikola Jokic;3;3;27.7;18.7;1.0;10.7;11.7;9.0;0.3;0.7;2.7;2.0;3.4
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Bryn Forbes;1;0;25.0;17.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;2.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Jeff Green;4;4;27.5;15.5;1.3;3.0;4.3;2.0;0.5;1.3;1.5;1.8;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Portland Trail Blazers;JaMychal Green;3;1;23.7;13.7;0.7;4.7;5.3;1.0;1.3;0.3;0.7;2.7;1.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Monte Morris;4;4;24.8;12.3;0.0;2.5;2.5;2.0;0.8;0.0;1.3;1.3;1.6
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Will Barton;3;3;27.3;11.7;1.0;4.3;5.3;3.7;0.3;0.0;2.0;1.7;1.8
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Bones Hyland;3;0;15.3;11.7;0.3;2.0;2.3;2.0;0.7;0.0;1.0;3.0;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Facundo Campazzo;4;0;25.8;10.8;0.3;2.5;2.8;6.0;2.3;0.5;2.3;2.8;2.7
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Zeke Nnaji;3;0;18.3;10.7;3.0;5.7;8.7;0.0;0.3;0.7;1.3;1.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Aaron Gordon;4;4;27.8;10.3;1.0;3.0;4.0;2.3;0.0;0.3;1.3;0.8;1.8
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Portland Trail Blazers;PJ Dozier;2;0;13.0;7.0;1.0;2.0;3.0;2.5;0.5;0.0;0.0;1.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Austin Rivers;4;1;22.5;6.8;0.0;1.0;1.0;1.3;1.0;0.0;0.5;2.0;2.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Davon Reed;2;0;5.0;4.5;0.5;0.5;1.0;1.0;0.0;0.0;0.0;0.5;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Markus Howard;4;0;3.8;1.8;0.0;0.3;0.3;0.5;0.3;0.0;0.0;0.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Vlatko Cancar;1;0;3.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Petr Cornelie;1;0;3.0;0.0;1.0;1.0;2.0;0.0;0.0;0.0;1.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Bol Bol;2;0;4.5;0.0;0.5;1.0;1.5;0.5;0.0;0.0;0.0;0.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Total;4;"";"";122.0;8.8;36.5;45.3;29.5;7.8;3.5;13.8;18.5;2.1
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Utah Jazz;Bryn Forbes;1;0;30.0;26.0;0.0;1.0;1.0;2.0;0.0;0.0;1.0;2.0;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Utah Jazz;Nikola Jokic;3;3;29.7;25.0;2.0;12.0;14.0;10.3;0.7;0.7;3.0;2.7;3.4
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Utah Jazz;Aaron Gordon;3;3;33.3;19.0;1.0;4.7;5.7;2.3;0.7;0.3;2.0;2.7;1.2
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Utah Jazz;Will Barton;4;4;36.8;17.8;0.5;4.3;4.8;4.0;0.8;1.5;2.3;1.8;1.8
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Utah Jazz;Monte Morris;4;3;31.3;16.8;0.3;2.3;2.5;2.8;0.8;0.3;1.0;0.5;2.8
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Utah Jazz;Michael Porter Jr.;1;1;39.0;13.0;1.0;8.0;9.0;2.0;2.0;0.0;1.0;3.0;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Utah Jazz;Bones Hyland;3;0;25.7;8.7;0.0;2.7;2.7;3.7;0.0;0.7;1.7;3.0;2.2
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Utah Jazz;Jeff Green;3;2;20.0;6.7;0.7;1.3;2.0;1.0;0.0;0.3;0.0;2.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Utah Jazz;Davon Reed;3;0;20.3;6.7;0.3;2.3;2.7;1.7;0.7;0.0;0.0;3.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Utah Jazz;JaMychal Green;3;0;16.7;5.3;1.3;2.3;3.7;0.7;1.7;0.3;0.3;2.7;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Utah Jazz;Zeke Nnaji;2;1;19.5;5.0;1.5;3.5;5.0;0.5;0.0;0.5;2.0;4.0;0.3
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Utah Jazz;Facundo Campazzo;3;1;19.3;3.3;0.0;1.7;1.7;2.0;0.3;0.0;1.3;3.3;1.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Utah Jazz;Austin Rivers;3;2;19.7;2.7;0.0;1.7;1.7;0.7;0.3;0.3;0.7;0.7;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Utah Jazz;James Ennis III;1;0;3.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Utah Jazz;PJ Dozier;1;0;17.0;2.0;1.0;1.0;2.0;0.0;0.0;0.0;1.0;3.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Utah Jazz;Bol Bol;1;0;4.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Utah Jazz;Rayjon Tucker;1;0;4.0;0.0;0.0;1.0;1.0;3.0;0.0;0.0;0.0;1.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Utah Jazz;Total;4;"";"";106.3;6.0;32.8;38.8;25.5;5.3;4.0;12.0;21.5;2.1
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Golden State Warriors;Nikola Jokic;4;4;34.0;28.0;3.5;12.3;15.8;8.8;1.5;0.8;5.3;3.0;1.7
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Golden State Warriors;Monte Morris;3;3;31.3;16.7;0.0;4.7;4.7;4.7;0.3;0.3;0.7;0.7;7.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Golden State Warriors;Will Barton;2;2;28.0;11.5;1.0;2.5;3.5;2.0;1.0;0.5;3.0;0.5;0.7
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Golden State Warriors;Jeff Green;4;4;27.0;10.3;2.0;1.5;3.5;0.5;0.5;0.5;1.5;1.0;0.3
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Golden State Warriors;Bryn Forbes;3;0;20.0;10.0;0.0;0.3;0.3;0.3;0.7;0.0;0.7;2.3;0.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Golden State Warriors;DeMarcus Cousins;3;0;13.3;9.3;2.3;2.3;4.7;1.7;0.7;0.3;1.3;2.0;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Golden State Warriors;Aaron Gordon;3;3;30.0;9.3;1.7;5.3;7.0;3.7;0.0;1.0;1.0;2.7;3.7
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Golden State Warriors;Davon Reed;3;0;17.7;9.0;0.3;1.3;1.7;1.7;0.3;1.0;0.0;1.7;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Golden State Warriors;Austin Rivers;4;3;32.0;8.8;0.3;1.5;1.8;2.3;1.8;0.0;1.3;2.8;1.8
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Golden State Warriors;Zeke Nnaji;1;0;19.0;8.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Golden State Warriors;Bones Hyland;4;0;18.3;6.8;0.0;2.8;2.8;3.5;0.5;0.3;0.3;2.5;14.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Golden State Warriors;JaMychal Green;4;0;16.0;6.3;1.3;3.5;4.8;0.3;0.0;0.3;0.5;2.5;0.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Golden State Warriors;Facundo Campazzo;3;1;12.7;1.7;0.3;1.0;1.3;2.7;1.0;0.3;0.3;2.0;8.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Golden State Warriors;Markus Howard;1;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Golden State Warriors;Total;4;"";"";109.8;11.0;34.5;45.5;27.3;7.0;4.3;13.3;20.5;2.1
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. LA Clippers;Nikola Jokic;4;4;37.5;31.5;4.8;11.0;15.8;8.0;2.0;1.5;3.8;3.8;2.1
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. LA Clippers;Aaron Gordon;3;3;36.3;24.7;1.7;6.0;7.7;3.3;0.7;0.3;2.0;2.3;1.7
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. LA Clippers;Monte Morris;4;4;35.5;14.3;1.0;4.0;5.0;6.0;0.8;0.0;1.0;1.0;6.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. LA Clippers;Will Barton;3;3;37.0;11.3;0.0;4.0;4.0;3.0;1.0;0.3;2.0;1.0;1.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. LA Clippers;Jeff Green;4;3;25.3;11.0;1.0;2.3;3.3;1.8;0.5;0.3;1.8;0.8;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. LA Clippers;DeMarcus Cousins;1;0;14.0;8.0;2.0;3.0;5.0;2.0;1.0;0.0;2.0;2.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. LA Clippers;Bones Hyland;4;0;13.8;7.3;0.0;2.5;2.5;2.3;0.0;0.3;1.0;1.8;2.3
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. LA Clippers;Austin Rivers;4;2;22.3;6.8;0.3;2.0;2.3;2.3;0.0;0.3;0.8;2.3;3.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. LA Clippers;Davon Reed;3;0;19.3;6.3;0.7;3.0;3.7;0.7;0.3;0.3;0.0;2.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. LA Clippers;Zeke Nnaji;2;0;12.0;5.0;1.0;0.5;1.5;0.0;0.5;0.0;0.0;1.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. LA Clippers;Bryn Forbes;1;0;12.0;3.0;0.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. LA Clippers;Facundo Campazzo;3;0;18.0;2.3;0.3;2.3;2.7;2.7;0.7;0.3;1.0;2.7;2.7
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. LA Clippers;Vlatko Cancar;1;0;15.0;2.0;2.0;3.0;5.0;0.0;0.0;0.0;1.0;2.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. LA Clippers;JaMychal Green;3;1;15.7;1.7;0.0;2.0;2.0;0.7;0.3;0.3;0.7;1.3;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. LA Clippers;James Ennis III;1;0;4.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. LA Clippers;Total;4;"";"";111.3;10.5;36.5;47.0;29.0;6.0;3.5;13.5;18.3;2.1
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Nikola Jokic;2;2;30.5;27.5;1.5;13.5;15.0;9.5;1.5;1.0;5.0;2.0;1.9
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Markus Howard;1;0;24.0;25.0;2.0;1.0;3.0;1.0;1.0;0.0;0.0;5.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Bryn Forbes;1;1;36.0;24.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;2.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Jeff Green;2;2;26.0;21.0;0.0;2.5;2.5;3.0;0.5;0.5;0.5;2.5;6.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Will Barton;2;2;29.5;18.5;0.0;2.0;2.0;1.5;0.5;0.0;1.0;0.0;1.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Bones Hyland;3;1;27.7;18.0;0.7;4.7;5.3;4.0;1.3;1.0;1.7;3.3;2.4
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Aaron Gordon;2;2;30.0;17.5;1.5;4.0;5.5;3.5;0.0;0.5;0.0;2.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Los Angeles Lakers;DeMarcus Cousins;2;1;19.5;15.5;2.5;3.5;6.0;4.0;0.5;1.5;2.0;3.5;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Davon Reed;3;0;25.7;11.7;0.3;2.3;2.7;2.7;1.3;0.3;1.0;2.0;2.7
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Monte Morris;2;2;29.0;8.0;0.0;1.5;1.5;5.5;2.5;0.5;0.5;0.0;11.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Los Angeles Lakers;JaMychal Green;2;1;17.0;6.5;1.5;3.5;5.0;2.5;1.5;0.5;1.0;3.5;2.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Zeke Nnaji;2;0;25.0;6.5;2.0;4.5;6.5;1.0;0.5;0.5;0.5;3.5;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Facundo Campazzo;2;0;17.5;6.0;0.0;1.5;1.5;4.5;1.5;0.0;0.5;1.5;9.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Austin Rivers;2;1;23.0;3.5;0.0;2.5;2.5;1.0;0.5;0.0;0.0;2.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Los Angeles Lakers;James Ennis III;1;0;7.0;2.0;1.0;1.0;2.0;3.0;0.0;0.0;0.0;0.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Vlatko Cancar;1;0;24.0;2.0;2.0;6.0;8.0;4.0;0.0;0.0;1.0;5.0;4.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Total;3;"";"";134.3;8.7;36.0;44.7;33.7;9.7;4.7;10.7;23.0;3.2
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Phoenix Suns;Nikola Jokic;2;2;33.5;27.5;2.0;7.5;9.5;4.0;2.5;0.0;5.5;2.5;0.7
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Phoenix Suns;Aaron Gordon;3;3;31.0;16.3;3.0;5.0;8.0;2.7;0.7;0.3;3.0;2.3;0.9
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Phoenix Suns;Will Barton;3;3;30.7;15.7;0.7;4.7;5.3;5.0;0.7;0.0;0.7;2.0;7.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Phoenix Suns;Michael Porter Jr.;1;1;34.0;15.0;1.0;5.0;6.0;5.0;2.0;0.0;2.0;3.0;2.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Phoenix Suns;Jeff Green;3;2;24.3;14.3;0.0;1.7;1.7;0.7;0.3;0.0;1.0;1.7;0.7
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Phoenix Suns;Bones Hyland;2;0;13.5;11.5;0.5;1.0;1.5;1.5;0.5;0.5;0.0;2.5;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Phoenix Suns;Monte Morris;3;3;26.0;11.3;0.0;1.7;1.7;3.3;0.0;0.3;1.0;2.0;3.3
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Phoenix Suns;DeMarcus Cousins;1;0;16.0;10.0;1.0;5.0;6.0;3.0;0.0;0.0;1.0;2.0;3.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Phoenix Suns;Markus Howard;1;0;11.0;7.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Phoenix Suns;PJ Dozier;2;0;21.0;6.5;0.5;5.5;6.0;1.0;0.5;0.0;0.5;2.0;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Phoenix Suns;JaMychal Green;3;1;19.7;5.7;1.7;3.7;5.3;1.7;0.3;0.0;1.0;2.7;1.7
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Phoenix Suns;Austin Rivers;3;0;18.0;4.0;0.0;0.3;0.3;1.0;0.3;0.3;0.7;1.3;1.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Phoenix Suns;Facundo Campazzo;2;0;23.0;4.0;0.0;1.5;1.5;3.0;1.5;0.0;2.0;3.0;1.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Phoenix Suns;Davon Reed;1;0;14.0;4.0;1.0;2.0;3.0;1.0;0.0;0.0;1.0;2.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Phoenix Suns;Petr Cornelie;1;0;7.0;0.0;2.0;1.0;3.0;1.0;0.0;0.0;1.0;1.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Phoenix Suns;Bol Bol;1;0;7.0;0.0;1.0;2.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Phoenix Suns;Total;3;"";"";112.3;9.3;32.3;41.7;24.0;6.3;1.3;14.3;21.3;1.7
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Sacramento Kings;Nikola Jokic;4;4;34.3;28.5;1.8;10.8;12.5;8.5;1.8;1.3;2.3;3.8;3.8
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Sacramento Kings;Monte Morris;4;4;30.8;18.3;0.5;2.8;3.3;3.8;1.0;0.3;1.3;1.0;3.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Sacramento Kings;Will Barton;3;3;32.0;18.0;0.3;3.0;3.3;4.3;0.7;0.7;2.0;2.0;2.2
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Sacramento Kings;Aaron Gordon;4;4;32.8;14.0;0.8;5.0;5.8;2.3;1.0;0.3;2.0;2.3;1.1
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Sacramento Kings;Jeff Green;3;2;20.3;10.0;0.0;3.0;3.0;1.7;0.0;0.3;1.0;2.7;1.7
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Sacramento Kings;Bones Hyland;3;0;16.3;9.7;0.0;3.3;3.3;3.0;0.3;0.3;0.7;1.7;4.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Sacramento Kings;JaMychal Green;4;1;19.0;8.5;0.5;5.0;5.5;1.3;0.5;0.5;1.3;2.5;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Sacramento Kings;Bryn Forbes;3;0;18.3;8.0;0.3;0.3;0.7;1.0;0.3;0.0;1.0;1.3;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Sacramento Kings;DeMarcus Cousins;2;0;13.5;7.0;0.5;6.5;7.0;0.5;1.5;0.5;5.0;4.0;0.1
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Sacramento Kings;Austin Rivers;4;1;25.5;6.0;0.0;2.3;2.3;2.0;0.5;0.0;0.5;2.8;4.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Sacramento Kings;Davon Reed;2;1;12.0;3.5;0.0;1.5;1.5;1.0;0.5;0.0;0.0;0.5;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Sacramento Kings;Facundo Campazzo;3;0;15.0;2.7;1.0;1.3;2.3;4.3;0.7;0.3;0.3;1.7;13.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Sacramento Kings;Zeke Nnaji;2;0;16.5;1.5;1.0;1.0;2.0;0.0;2.0;0.5;0.5;1.5;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Sacramento Kings;Markus Howard;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Sacramento Kings;Total;4;"";"";117.5;5.5;38.5;44.0;29.3;8.3;4.0;13.8;22.3;2.1
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Dallas Mavericks;Nikola Jokic;3;3;32.3;24.3;3.0;13.0;16.0;5.7;1.0;0.7;2.3;2.7;2.4
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Dallas Mavericks;Will Barton;2;2;30.0;14.5;0.5;4.0;4.5;6.0;0.5;0.0;4.5;2.5;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Dallas Mavericks;Aaron Gordon;3;3;30.7;14.0;1.0;5.3;6.3;1.7;1.0;0.3;2.0;1.7;0.8
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Dallas Mavericks;Monte Morris;2;2;30.5;12.5;0.0;1.5;1.5;5.5;0.5;1.0;1.5;1.5;3.7
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Dallas Mavericks;Michael Porter Jr.;1;1;25.0;12.0;0.0;3.0;3.0;1.0;1.0;0.0;2.0;1.0;0.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Dallas Mavericks;Jeff Green;2;1;24.5;10.5;0.5;3.5;4.0;1.0;0.5;0.0;0.5;2.5;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Dallas Mavericks;Bol Bol;3;0;8.3;5.3;0.3;1.7;2.0;0.3;0.3;0.3;0.7;1.0;0.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Dallas Mavericks;Austin Rivers;3;2;22.0;5.0;0.0;2.0;2.0;0.7;0.3;0.0;1.3;2.0;0.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Dallas Mavericks;PJ Dozier;2;0;22.0;5.0;1.0;1.5;2.5;2.0;0.5;0.5;1.5;1.0;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Dallas Mavericks;Zeke Nnaji;1;0;7.0;5.0;1.0;3.0;4.0;0.0;0.0;0.0;0.0;2.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Dallas Mavericks;Bones Hyland;3;0;15.0;5.0;0.3;2.0;2.3;0.7;0.3;0.0;2.3;2.7;0.3
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Dallas Mavericks;Facundo Campazzo;3;1;19.7;4.7;0.3;2.7;3.0;2.0;1.0;0.3;2.0;1.3;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Dallas Mavericks;JaMychal Green;3;0;12.7;3.3;1.7;3.0;4.7;0.3;0.0;0.3;1.3;2.0;0.3
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Dallas Mavericks;Rayjon Tucker;1;0;4.0;3.0;0.0;0.0;0.0;1.0;1.0;0.0;0.0;1.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Dallas Mavericks;Davon Reed;1;0;26.0;2.0;1.0;1.0;2.0;2.0;0.0;0.0;0.0;3.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Dallas Mavericks;Petr Cornelie;1;0;2.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Dallas Mavericks;Carlik Jones;1;0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Dallas Mavericks;Markus Howard;1;0;7.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Dallas Mavericks;Vlatko Cancar;1;0;11.0;0.0;0.0;0.0;0.0;2.0;0.0;0.0;1.0;2.0;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Dallas Mavericks;Total;3;"";"";98.7;8.7;39.3;48.0;23.0;6.0;3.0;18.3;21.3;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Houston Rockets;DeMarcus Cousins;1;1;24.0;31.0;3.0;6.0;9.0;4.0;3.0;1.0;4.0;5.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Houston Rockets;Nikola Jokic;2;2;31.0;26.0;1.5;11.0;12.5;2.5;1.0;1.0;4.5;4.5;0.6
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Houston Rockets;Will Barton;3;3;31.7;12.7;0.3;4.3;4.7;4.7;1.0;1.0;1.0;1.0;4.7
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Houston Rockets;Aaron Gordon;3;3;26.0;12.3;2.3;2.0;4.3;2.0;0.3;1.0;0.7;1.3;3.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Houston Rockets;Jeff Green;2;1;24.0;11.0;1.5;2.0;3.5;1.5;0.0;1.0;0.5;1.0;3.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Houston Rockets;JaMychal Green;3;0;19.0;11.0;2.3;4.3;6.7;2.3;0.7;0.3;1.3;3.7;1.8
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Houston Rockets;Vlatko Cancar;1;0;15.0;11.0;1.0;0.0;1.0;1.0;0.0;1.0;0.0;0.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Houston Rockets;Bol Bol;1;0;20.0;11.0;1.0;2.0;3.0;1.0;0.0;0.0;1.0;1.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Houston Rockets;Facundo Campazzo;3;1;24.0;10.0;0.7;2.0;2.7;6.0;2.0;0.7;1.3;2.3;4.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Houston Rockets;Monte Morris;2;2;30.5;9.5;0.5;3.0;3.5;2.5;1.5;0.0;0.0;2.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Houston Rockets;Bryn Forbes;1;0;19.0;7.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Houston Rockets;Bones Hyland;2;0;17.5;6.5;0.0;1.5;1.5;2.5;1.5;0.0;2.0;1.5;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Houston Rockets;PJ Dozier;1;0;23.0;6.0;0.0;4.0;4.0;4.0;3.0;0.0;1.0;4.0;4.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Houston Rockets;Davon Reed;2;0;18.0;5.0;0.5;2.5;3.0;2.0;1.5;0.0;0.5;2.5;4.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Houston Rockets;Austin Rivers;2;1;21.0;3.5;0.5;1.5;2.0;1.0;0.5;0.0;1.0;1.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Houston Rockets;Petr Cornelie;1;0;3.0;3.0;1.0;0.0;1.0;0.0;0.0;0.0;2.0;2.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Houston Rockets;Rayjon Tucker;1;0;22.0;3.0;1.0;2.0;3.0;0.0;0.0;0.0;0.0;1.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Houston Rockets;Michael Porter Jr.;1;1;7.0;2.0;0.0;4.0;4.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Houston Rockets;Markus Howard;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Houston Rockets;Carlik Jones;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Houston Rockets;Total;3;"";"";111.7;11.0;33.0;44.0;26.3;10.0;5.0;13.0;21.3;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Nikola Jokic;4;4;36.0;29.5;2.3;9.0;11.3;7.5;2.0;1.5;2.0;2.5;3.8
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Will Barton;4;4;34.3;18.3;0.5;3.5;4.0;5.8;1.3;0.5;2.5;1.5;2.3
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Aaron Gordon;4;4;32.3;15.5;2.5;3.0;5.5;3.3;0.5;0.8;2.5;2.5;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Monte Morris;4;4;28.3;11.5;1.0;1.8;2.8;3.8;0.3;0.0;1.5;1.5;2.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Michael Porter Jr.;2;2;35.5;11.0;1.0;8.5;9.5;1.5;1.0;0.5;1.5;0.5;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Austin Rivers;1;0;25.0;9.0;0.0;1.0;1.0;0.0;1.0;0.0;0.0;2.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Bryn Forbes;1;0;19.0;9.0;1.0;0.0;1.0;1.0;0.0;0.0;0.0;4.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Bones Hyland;4;0;17.3;8.3;0.3;1.8;2.0;3.0;1.0;0.0;1.3;1.3;2.4
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Zeke Nnaji;1;0;12.0;8.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;4.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Jeff Green;4;2;21.8;7.5;0.0;4.3;4.3;1.3;0.0;0.8;1.0;2.5;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Memphis Grizzlies;JaMychal Green;3;0;14.3;6.3;1.7;2.7;4.3;0.3;0.3;0.3;1.0;1.7;0.3
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Memphis Grizzlies;PJ Dozier;2;0;19.0;3.5;0.0;0.5;0.5;1.5;1.0;1.0;0.0;1.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Davon Reed;1;0;14.0;2.0;0.0;4.0;4.0;2.0;0.0;1.0;0.0;2.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Memphis Grizzlies;DeMarcus Cousins;1;0;4.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Facundo Campazzo;4;0;13.3;1.0;0.3;1.0;1.3;1.0;0.5;0.3;0.5;1.3;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Markus Howard;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Total;4;"";"";110.8;8.8;32.3;41.0;28.0;7.0;5.0;13.3;18.3;2.1
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Nikola Jokic;4;4;36.0;34.8;2.3;9.8;12.0;10.3;2.0;1.0;5.3;3.5;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Aaron Gordon;3;3;39.0;19.3;2.0;2.7;4.7;1.7;1.3;1.0;2.3;2.7;0.7
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Will Barton;3;3;33.3;15.3;0.3;3.3;3.7;3.7;2.0;0.7;2.3;2.7;1.6
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Monte Morris;4;4;34.3;15.3;0.3;3.5;3.8;5.5;0.8;0.8;0.5;0.8;11.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Bryn Forbes;3;0;19.7;9.0;0.0;1.7;1.7;0.7;0.0;0.0;0.3;1.7;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Bones Hyland;4;0;18.5;8.5;0.0;2.5;2.5;2.0;0.5;0.3;1.0;2.3;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Zeke Nnaji;3;0;18.0;6.3;1.3;1.7;3.0;1.0;0.3;0.7;0.7;2.0;1.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. New Orleans Pelicans;JaMychal Green;4;0;13.0;6.3;1.5;2.3;3.8;0.8;1.0;0.3;0.8;2.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Facundo Campazzo;2;0;14.5;6.0;0.0;0.5;0.5;2.5;0.5;0.0;1.5;1.5;1.7
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Jeff Green;4;4;27.3;5.8;0.0;2.3;2.3;1.5;0.5;0.3;0.3;2.0;6.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Austin Rivers;3;1;26.0;5.0;0.3;0.7;1.0;1.0;1.3;0.7;1.3;1.7;0.8
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Davon Reed;3;1;11.0;4.3;0.0;1.0;1.0;0.0;0.3;0.0;1.0;1.3;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. New Orleans Pelicans;DeMarcus Cousins;2;0;11.0;3.5;1.5;4.0;5.5;1.0;0.5;0.5;2.0;3.0;0.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Markus Howard;1;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Total;4;"";"";119.8;7.8;30.8;38.5;27.8;9.3;5.0;15.5;21.8;1.8
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. San Antonio Spurs;Nikola Jokic;4;4;35.8;32.5;2.8;13.0;15.8;7.3;2.0;1.0;3.8;3.3;1.9
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. San Antonio Spurs;Aaron Gordon;4;4;33.3;16.8;2.3;4.8;7.0;2.5;0.5;1.0;1.8;2.3;1.4
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. San Antonio Spurs;Will Barton;3;3;35.0;13.3;0.7;4.0;4.7;5.3;0.7;0.0;1.0;1.7;5.3
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. San Antonio Spurs;Monte Morris;4;4;31.5;12.3;0.5;2.8;3.3;3.3;0.5;0.5;2.3;2.0;1.4
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. San Antonio Spurs;Markus Howard;2;0;11.0;10.5;0.0;0.5;0.5;0.0;0.0;0.0;0.0;1.5;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. San Antonio Spurs;Facundo Campazzo;3;0;24.3;9.3;0.7;2.0;2.7;5.0;1.0;1.0;0.3;1.3;15.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. San Antonio Spurs;Bones Hyland;3;0;18.3;9.3;0.0;1.3;1.3;2.7;0.7;0.0;0.3;2.3;8.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. San Antonio Spurs;PJ Dozier;1;0;21.0;7.0;0.0;2.0;2.0;3.0;0.0;0.0;0.0;0.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. San Antonio Spurs;Michael Porter Jr.;1;1;27.0;7.0;0.0;1.0;1.0;0.0;1.0;0.0;1.0;4.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. San Antonio Spurs;Austin Rivers;2;1;24.0;5.5;0.0;1.0;1.0;1.0;1.0;0.0;2.0;3.0;0.5
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. San Antonio Spurs;JaMychal Green;4;0;11.5;4.8;0.3;1.3;1.5;0.8;0.8;0.5;1.0;1.8;0.8
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. San Antonio Spurs;Jeff Green;3;2;22.0;4.7;0.3;0.7;1.0;2.0;0.3;0.3;0.7;3.3;3.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. San Antonio Spurs;DeMarcus Cousins;1;0;8.0;4.0;2.0;3.0;5.0;0.0;0.0;0.0;2.0;3.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. San Antonio Spurs;Davon Reed;3;1;14.7;2.7;0.3;3.7;4.0;0.7;1.0;0.0;0.3;0.7;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. San Antonio Spurs;Bryn Forbes;1;0;7.0;2.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. San Antonio Spurs;Zeke Nnaji;2;0;15.0;1.0;0.5;0.5;1.0;1.0;0.0;0.5;0.5;2.0;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. San Antonio Spurs;Petr Cornelie;2;0;1.5;0.0;0.5;0.5;1.0;0.0;0.0;0.0;0.0;0.5;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. San Antonio Spurs;Vlatko Cancar;1;0;4.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;vs. San Antonio Spurs;Total;4;"";"";109.3;8.3;33.3;41.5;27.5;7.5;4.3;12.8;21.5;2.2
+Denver Nuggets;den;2021 - 2022 Regular Season;October;Nikola Jokic;6;6;30.0;24.0;3.0;11.8;14.8;5.5;1.7;0.5;4.0;2.8;1.4
+Denver Nuggets;den;2021 - 2022 Regular Season;October;Will Barton;6;6;31.8;15.3;0.5;3.8;4.3;3.7;1.2;0.8;2.0;1.0;1.8
+Denver Nuggets;den;2021 - 2022 Regular Season;October;Aaron Gordon;6;6;29.3;12.8;1.8;4.5;6.3;1.8;0.7;0.8;2.5;2.5;0.7
+Denver Nuggets;den;2021 - 2022 Regular Season;October;Monte Morris;6;6;29.0;11.2;0.3;1.5;1.8;3.7;0.5;0.2;1.7;1.8;2.2
+Denver Nuggets;den;2021 - 2022 Regular Season;October;Michael Porter Jr.;6;6;31.0;10.8;1.2;4.8;6.0;2.3;1.3;0.2;1.5;2.5;1.6
+Denver Nuggets;den;2021 - 2022 Regular Season;October;Jeff Green;6;0;16.3;7.0;0.0;1.3;1.3;0.8;0.0;0.2;0.8;2.3;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;October;Bones Hyland;3;0;12.3;7.0;0.0;0.7;0.7;2.3;1.0;0.3;0.7;1.3;3.5
+Denver Nuggets;den;2021 - 2022 Regular Season;October;PJ Dozier;6;0;17.5;4.7;0.5;2.5;3.0;1.3;0.7;0.2;0.7;1.5;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;October;Zeke Nnaji;2;0;5.0;4.0;0.5;1.5;2.0;0.0;0.0;0.0;0.0;1.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;October;Facundo Campazzo;6;0;18.2;3.8;0.3;2.3;2.7;2.2;1.2;0.3;1.2;1.7;1.9
+Denver Nuggets;den;2021 - 2022 Regular Season;October;JaMychal Green;6;0;13.2;3.7;0.2;1.8;2.0;0.3;1.3;0.3;2.3;2.7;0.1
+Denver Nuggets;den;2021 - 2022 Regular Season;October;Bol Bol;2;0;5.0;3.0;0.0;1.5;1.5;0.5;0.5;0.0;0.0;1.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;October;Austin Rivers;6;0;12.0;2.2;0.2;0.7;0.8;0.8;0.2;0.0;1.0;0.7;0.8
+Denver Nuggets;den;2021 - 2022 Regular Season;October;Petr Cornelie;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;October;Markus Howard;2;0;4.5;0.0;0.0;0.0;0.0;0.0;0.5;0.0;0.5;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;October;Total;6;"";"";101.3;8.2;36.5;44.7;23.8;9.5;3.7;18.2;20.8;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;November;Nikola Jokic;9;9;34.0;27.7;2.6;10.3;12.9;7.0;0.9;1.1;2.4;2.9;2.9
+Denver Nuggets;den;2021 - 2022 Regular Season;November;Will Barton;12;12;34.3;16.6;0.7;5.2;5.8;4.6;0.9;0.3;1.7;1.3;2.8
+Denver Nuggets;den;2021 - 2022 Regular Season;November;Aaron Gordon;14;14;32.9;14.4;2.0;3.9;5.9;2.5;0.5;0.8;1.1;1.9;2.2
+Denver Nuggets;den;2021 - 2022 Regular Season;November;Monte Morris;14;14;29.8;11.5;0.3;2.7;3.0;4.6;0.9;0.1;1.1;1.6;4.0
+Denver Nuggets;den;2021 - 2022 Regular Season;November;Jeff Green;14;11;26.9;10.7;0.6;2.6;3.2;1.1;0.4;0.5;0.9;1.6;1.2
+Denver Nuggets;den;2021 - 2022 Regular Season;November;Bones Hyland;12;0;16.7;8.3;0.3;1.8;2.2;1.6;0.7;0.2;0.9;1.8;1.7
+Denver Nuggets;den;2021 - 2022 Regular Season;November;Michael Porter Jr.;3;3;26.3;8.0;0.7;7.0;7.7;1.0;0.7;0.3;1.0;0.3;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;November;Zeke Nnaji;6;0;13.3;7.3;1.3;2.7;4.0;0.2;0.0;0.5;0.7;0.8;0.3
+Denver Nuggets;den;2021 - 2022 Regular Season;November;Facundo Campazzo;13;0;17.7;6.5;0.4;0.9;1.3;2.2;0.8;0.2;1.2;1.9;1.9
+Denver Nuggets;den;2021 - 2022 Regular Season;November;JaMychal Green;13;4;15.8;6.4;1.5;2.9;4.4;1.1;0.6;0.4;0.8;2.2;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;November;PJ Dozier;12;0;19.7;5.8;0.9;2.8;3.8;1.8;0.6;0.4;0.8;2.0;2.3
+Denver Nuggets;den;2021 - 2022 Regular Season;November;Austin Rivers;12;3;20.2;4.8;0.5;1.3;1.8;0.8;0.7;0.2;0.3;1.5;2.3
+Denver Nuggets;den;2021 - 2022 Regular Season;November;Vlatko Cancar;3;0;7.7;3.7;0.3;0.0;0.3;1.3;0.3;0.0;0.7;1.0;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;November;Markus Howard;8;0;5.0;2.5;0.0;0.1;0.1;0.5;0.3;0.0;0.1;0.1;4.0
+Denver Nuggets;den;2021 - 2022 Regular Season;November;Bol Bol;8;0;4.6;1.1;0.3;1.1;1.4;0.1;0.0;0.3;0.0;0.1;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;November;Petr Cornelie;4;0;4.5;1.0;1.3;0.8;2.0;0.8;0.0;0.0;0.5;0.8;1.5
+Denver Nuggets;den;2021 - 2022 Regular Season;November;Total;14;"";"";104.6;9.6;32.6;42.1;24.3;6.4;3.9;10.6;17.4;2.3
+Denver Nuggets;den;2021 - 2022 Regular Season;December;Nikola Jokic;13;13;33.1;25.2;2.5;11.8;14.4;8.0;1.7;0.7;4.4;2.0;1.8
+Denver Nuggets;den;2021 - 2022 Regular Season;December;Monte Morris;12;12;30.8;14.7;0.3;2.7;2.9;4.2;0.7;0.3;1.1;1.2;3.8
+Denver Nuggets;den;2021 - 2022 Regular Season;December;Aaron Gordon;10;10;33.4;14.3;1.5;2.9;4.4;2.2;0.7;0.5;1.7;1.7;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;December;Will Barton;11;11;31.6;14.0;0.7;4.2;4.9;3.6;0.7;0.5;1.8;1.6;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;December;Austin Rivers;5;2;25.2;10.8;0.2;2.4;2.6;2.2;0.4;0.0;0.8;2.0;2.8
+Denver Nuggets;den;2021 - 2022 Regular Season;December;Jeff Green;13;13;27.4;9.7;0.6;3.2;3.8;1.5;0.3;0.7;1.2;3.1;1.2
+Denver Nuggets;den;2021 - 2022 Regular Season;December;Bones Hyland;9;0;18.4;9.2;0.0;1.8;1.8;1.6;0.4;0.3;1.0;2.2;1.6
+Denver Nuggets;den;2021 - 2022 Regular Season;December;Markus Howard;6;0;11.0;8.2;0.0;0.7;0.7;0.2;0.5;0.0;0.7;1.7;0.3
+Denver Nuggets;den;2021 - 2022 Regular Season;December;Facundo Campazzo;13;1;25.9;7.4;0.3;1.8;2.2;5.4;1.5;0.6;0.9;2.6;5.8
+Denver Nuggets;den;2021 - 2022 Regular Season;December;Zeke Nnaji;12;0;17.3;5.7;0.8;1.8;2.6;0.6;0.3;0.3;0.3;2.1;2.3
+Denver Nuggets;den;2021 - 2022 Regular Season;December;JaMychal Green;10;0;13.4;5.2;0.4;2.7;3.1;0.6;0.7;0.6;0.2;1.8;3.0
+Denver Nuggets;den;2021 - 2022 Regular Season;December;Davon Reed;9;2;17.1;5.0;0.4;3.0;3.4;1.2;1.2;0.2;0.3;1.4;3.7
+Denver Nuggets;den;2021 - 2022 Regular Season;December;Vlatko Cancar;9;1;11.6;4.2;0.4;1.9;2.3;0.7;0.1;0.2;0.6;0.9;1.2
+Denver Nuggets;den;2021 - 2022 Regular Season;December;Petr Cornelie;6;0;2.0;0.8;0.2;0.5;0.7;0.0;0.2;0.2;0.0;0.3;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;December;Bol Bol;1;0;4.0;0.0;0.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;December;Total;13;"";"";109.0;7.2;34.9;42.2;27.9;7.8;4.3;12.7;19.6;2.2
+Denver Nuggets;den;2021 - 2022 Regular Season;January;Nikola Jokic;16;16;33.7;26.6;2.9;10.4;13.3;9.0;1.4;0.7;3.4;2.7;2.7
+Denver Nuggets;den;2021 - 2022 Regular Season;January;Aaron Gordon;16;16;31.0;15.9;1.4;4.3;5.7;2.9;0.8;0.4;2.1;1.8;1.4
+Denver Nuggets;den;2021 - 2022 Regular Season;January;Will Barton;13;13;32.0;15.5;0.7;3.5;4.2;4.6;0.7;0.5;1.8;1.7;2.6
+Denver Nuggets;den;2021 - 2022 Regular Season;January;Jeff Green;12;9;25.0;12.7;0.8;2.8;3.6;1.3;0.4;0.3;0.8;2.5;1.6
+Denver Nuggets;den;2021 - 2022 Regular Season;January;Monte Morris;14;13;30.1;12.6;0.6;3.1;3.6;4.2;0.7;0.1;0.9;0.7;4.5
+Denver Nuggets;den;2021 - 2022 Regular Season;January;Bryn Forbes;6;0;19.8;9.5;0.2;0.5;0.7;1.0;0.0;0.0;0.3;2.0;3.0
+Denver Nuggets;den;2021 - 2022 Regular Season;January;Austin Rivers;13;7;25.7;8.9;0.3;1.2;1.5;1.2;1.0;0.1;1.2;2.2;0.9
+Denver Nuggets;den;2021 - 2022 Regular Season;January;Bones Hyland;13;0;18.8;8.4;0.2;3.7;3.9;2.2;0.3;0.3;1.5;2.4;1.5
+Denver Nuggets;den;2021 - 2022 Regular Season;January;Zeke Nnaji;13;0;15.8;7.2;1.8;2.4;4.2;0.1;0.3;0.2;0.4;2.1;0.2
+Denver Nuggets;den;2021 - 2022 Regular Season;January;JaMychal Green;8;3;15.3;6.6;1.1;3.1;4.3;0.9;0.1;0.5;0.8;2.0;1.2
+Denver Nuggets;den;2021 - 2022 Regular Season;January;DeMarcus Cousins;4;0;12.5;6.3;2.3;4.3;6.5;0.8;1.0;0.3;3.0;3.0;0.3
+Denver Nuggets;den;2021 - 2022 Regular Season;January;Bol Bol;3;0;10.0;6.0;0.7;1.3;2.0;0.3;0.0;0.0;1.3;0.3;0.3
+Denver Nuggets;den;2021 - 2022 Regular Season;January;Facundo Campazzo;16;3;20.8;5.7;0.4;1.7;2.1;4.6;1.1;0.4;1.6;2.1;3.0
+Denver Nuggets;den;2021 - 2022 Regular Season;January;Vlatko Cancar;2;0;13.0;5.5;0.5;0.0;0.5;1.5;0.0;0.5;0.5;1.0;3.0
+Denver Nuggets;den;2021 - 2022 Regular Season;January;Markus Howard;3;0;2.0;4.0;0.0;0.0;0.0;0.0;0.3;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;January;Davon Reed;14;0;12.1;2.9;0.4;1.6;2.0;0.9;0.4;0.1;0.2;1.5;4.0
+Denver Nuggets;den;2021 - 2022 Regular Season;January;Petr Cornelie;2;0;2.5;2.5;0.5;0.5;1.0;0.0;0.0;0.0;1.0;1.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;January;Rayjon Tucker;3;0;9.7;2.0;0.3;1.0;1.3;1.3;0.3;0.0;0.0;1.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;January;James Ennis III;3;0;4.7;1.3;0.3;0.3;0.7;1.0;0.0;0.0;0.3;0.3;3.0
+Denver Nuggets;den;2021 - 2022 Regular Season;January;Carlik Jones;2;0;2.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;January;Total;16;"";"";115.8;10.1;34.8;44.9;30.1;6.9;3.1;14.4;20.1;2.1
+Denver Nuggets;den;2021 - 2022 Regular Season;February;Nikola Jokic;11;11;32.6;23.4;2.9;11.1;14.0;8.8;1.1;0.5;4.2;2.5;2.1
+Denver Nuggets;den;2021 - 2022 Regular Season;February;Will Barton;12;12;30.5;14.5;0.4;4.6;5.0;2.7;0.8;0.7;2.1;1.8;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;February;Aaron Gordon;10;10;30.4;14.2;1.5;5.3;6.8;2.9;0.8;0.2;1.7;2.1;1.7
+Denver Nuggets;den;2021 - 2022 Regular Season;February;Monte Morris;9;9;29.3;14.0;0.3;2.0;2.3;4.1;0.4;0.3;0.6;0.8;7.4
+Denver Nuggets;den;2021 - 2022 Regular Season;February;Bryn Forbes;12;0;20.5;11.0;0.1;1.2;1.3;1.3;0.4;0.1;1.0;1.5;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;February;JaMychal Green;11;0;17.5;9.8;1.5;3.1;4.5;1.0;0.9;0.4;1.0;2.7;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;February;Jeff Green;12;12;21.8;9.8;0.5;2.3;2.8;1.4;0.4;0.1;1.0;1.3;1.4
+Denver Nuggets;den;2021 - 2022 Regular Season;February;Bones Hyland;12;3;18.0;8.9;0.1;2.9;3.0;2.6;0.3;0.3;1.5;2.2;1.7
+Denver Nuggets;den;2021 - 2022 Regular Season;February;DeMarcus Cousins;6;0;14.3;8.7;1.7;5.0;6.7;2.2;0.7;0.5;2.2;3.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;February;Zeke Nnaji;6;1;24.5;8.5;2.2;2.8;5.0;1.0;0.7;0.8;1.5;2.8;0.7
+Denver Nuggets;den;2021 - 2022 Regular Season;February;Davon Reed;8;1;10.5;4.8;0.3;1.8;2.0;0.9;0.1;0.0;0.3;0.9;3.5
+Denver Nuggets;den;2021 - 2022 Regular Season;February;Austin Rivers;11;1;20.2;4.5;0.3;1.6;1.9;1.5;1.0;0.1;0.8;1.5;1.9
+Denver Nuggets;den;2021 - 2022 Regular Season;February;Facundo Campazzo;8;0;14.3;4.0;0.4;1.8;2.1;2.3;0.8;0.5;0.6;1.6;3.6
+Denver Nuggets;den;2021 - 2022 Regular Season;February;Markus Howard;5;0;3.6;2.2;0.0;0.4;0.4;0.2;0.0;0.0;0.0;0.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;February;Total;12;"";"";116.4;9.2;37.8;47.0;27.6;6.9;3.4;15.3;19.8;1.8
+Denver Nuggets;den;2021 - 2022 Regular Season;March;Nikola Jokic;15;15;34.0;29.9;2.9;9.9;12.7;7.9;1.7;1.4;4.1;2.7;1.9
+Denver Nuggets;den;2021 - 2022 Regular Season;March;Aaron Gordon;15;15;30.7;14.7;1.9;3.7;5.6;2.3;0.3;0.8;1.7;2.4;1.4
+Denver Nuggets;den;2021 - 2022 Regular Season;March;Bones Hyland;15;0;21.9;14.3;0.3;2.7;3.0;4.3;0.9;0.2;1.3;2.5;3.2
+Denver Nuggets;den;2021 - 2022 Regular Season;March;Will Barton;13;13;31.2;12.7;0.6;4.1;4.7;3.9;0.7;0.2;1.6;1.7;2.4
+Denver Nuggets;den;2021 - 2022 Regular Season;March;Monte Morris;16;16;29.3;12.2;0.2;3.0;3.2;4.8;0.9;0.3;1.0;1.3;4.8
+Denver Nuggets;den;2021 - 2022 Regular Season;March;Jeff Green;15;15;26.0;10.4;0.7;2.3;2.9;1.1;0.5;0.3;0.7;1.5;1.5
+Denver Nuggets;den;2021 - 2022 Regular Season;March;DeMarcus Cousins;16;1;15.0;10.0;1.4;4.1;5.5;1.8;0.6;0.4;2.1;3.0;0.8
+Denver Nuggets;den;2021 - 2022 Regular Season;March;Austin Rivers;15;3;24.4;5.9;0.3;1.5;1.7;1.9;0.9;0.1;0.8;2.2;2.4
+Denver Nuggets;den;2021 - 2022 Regular Season;March;JaMychal Green;14;0;19.1;5.9;1.7;3.8;5.5;0.9;0.4;0.3;0.7;2.6;1.2
+Denver Nuggets;den;2021 - 2022 Regular Season;March;Bryn Forbes;15;0;13.5;5.7;0.3;0.4;0.7;0.7;0.1;0.1;0.5;1.4;1.4
+Denver Nuggets;den;2021 - 2022 Regular Season;March;Davon Reed;12;2;14.2;4.7;0.3;1.6;1.8;1.2;0.3;0.3;0.3;1.1;3.5
+Denver Nuggets;den;2021 - 2022 Regular Season;March;Markus Howard;5;0;1.8;1.8;0.0;0.4;0.4;0.0;0.2;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;March;Facundo Campazzo;7;0;7.1;0.3;0.4;0.4;0.9;1.7;0.3;0.0;0.3;1.1;6.0
+Denver Nuggets;den;2021 - 2022 Regular Season;March;Zeke Nnaji;1;0;20.0;0.0;0.0;1.0;1.0;0.0;4.0;0.0;1.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;March;Total;16;"";"";117.8;9.9;34.3;44.3;29.3;7.1;4.0;14.1;21.2;2.1
+Denver Nuggets;den;2021 - 2022 Regular Season;April;Nikola Jokic;4;4;38.0;38.0;2.8;14.8;17.5;6.0;2.3;0.8;4.0;2.5;1.5
+Denver Nuggets;den;2021 - 2022 Regular Season;April;Aaron Gordon;4;4;36.0;22.0;1.3;6.5;7.8;2.5;0.3;0.8;2.3;1.3;1.1
+Denver Nuggets;den;2021 - 2022 Regular Season;April;Will Barton;4;4;34.3;14.5;0.8;2.8;3.5;4.0;0.5;0.0;1.5;2.3;2.7
+Denver Nuggets;den;2021 - 2022 Regular Season;April;Bryn Forbes;2;1;21.5;13.0;0.0;0.5;0.5;1.0;0.5;0.0;0.5;1.0;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;April;Bones Hyland;5;1;23.4;12.8;0.2;2.2;2.4;5.6;0.8;0.8;1.4;2.4;4.0
+Denver Nuggets;den;2021 - 2022 Regular Season;April;Markus Howard;2;0;13.5;12.5;1.0;0.5;1.5;0.5;0.5;0.0;0.5;3.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;April;Monte Morris;4;4;31.3;10.8;1.0;2.8;3.8;6.0;1.3;0.3;1.3;1.5;4.8
+Denver Nuggets;den;2021 - 2022 Regular Season;April;Jeff Green;3;3;23.0;9.7;0.0;2.7;2.7;2.3;0.7;0.3;1.3;2.7;1.8
+Denver Nuggets;den;2021 - 2022 Regular Season;April;DeMarcus Cousins;5;1;11.0;7.8;1.6;2.0;3.6;1.8;0.2;0.6;2.0;3.0;0.9
+Denver Nuggets;den;2021 - 2022 Regular Season;April;JaMychal Green;5;1;17.0;6.2;1.6;2.4;4.0;1.4;0.6;0.2;0.6;2.6;2.3
+Denver Nuggets;den;2021 - 2022 Regular Season;April;Davon Reed;5;0;18.2;6.0;0.0;2.2;2.2;1.8;0.8;0.4;0.8;1.8;2.3
+Denver Nuggets;den;2021 - 2022 Regular Season;April;Zeke Nnaji;1;0;26.0;5.0;1.0;1.0;2.0;2.0;0.0;0.0;1.0;3.0;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;April;Austin Rivers;5;2;23.6;4.8;0.0;1.6;1.6;0.8;0.6;0.0;0.6;2.4;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;April;Vlatko Cancar;1;0;24.0;2.0;2.0;6.0;8.0;4.0;0.0;0.0;1.0;5.0;4.0
+Denver Nuggets;den;2021 - 2022 Regular Season;April;Facundo Campazzo;2;0;5.5;1.5;0.0;0.0;0.0;2.0;1.0;0.0;0.5;0.5;4.0
+Denver Nuggets;den;2021 - 2022 Regular Season;April;Total;5;"";"";123.8;9.0;35.2;44.2;30.2;7.6;3.6;14.4;23.2;2.1
+Denver Nuggets;den;2021 - 2022 Regular Season;Atlantic Division;Nikola Jokic;10;10;32.4;25.8;2.9;8.7;11.6;7.3;0.6;1.1;3.8;1.9;1.9
+Denver Nuggets;den;2021 - 2022 Regular Season;Atlantic Division;Will Barton;10;10;31.9;16.1;1.0;5.0;6.0;4.0;0.4;0.2;1.9;2.2;2.1
+Denver Nuggets;den;2021 - 2022 Regular Season;Atlantic Division;Bones Hyland;8;2;21.3;12.5;0.4;3.4;3.8;2.8;0.3;0.1;1.8;2.1;1.6
+Denver Nuggets;den;2021 - 2022 Regular Season;Atlantic Division;Aaron Gordon;9;9;28.7;12.2;1.8;3.4;5.2;2.2;0.8;0.6;1.4;2.1;1.5
+Denver Nuggets;den;2021 - 2022 Regular Season;Atlantic Division;Zeke Nnaji;5;0;24.2;10.6;1.8;3.0;4.8;0.6;0.6;0.2;0.8;3.0;0.8
+Denver Nuggets;den;2021 - 2022 Regular Season;Atlantic Division;Monte Morris;8;8;29.0;9.3;0.3;2.8;3.0;5.4;0.8;0.0;0.3;1.0;21.5
+Denver Nuggets;den;2021 - 2022 Regular Season;Atlantic Division;Jeff Green;10;10;23.1;8.6;0.6;3.1;3.7;1.2;0.6;0.2;0.8;1.4;1.5
+Denver Nuggets;den;2021 - 2022 Regular Season;Atlantic Division;DeMarcus Cousins;6;0;15.0;8.2;1.2;4.2;5.3;1.5;0.5;0.5;1.7;2.7;0.9
+Denver Nuggets;den;2021 - 2022 Regular Season;Atlantic Division;JaMychal Green;8;0;16.6;8.1;1.1;3.1;4.3;1.1;0.9;0.6;0.9;2.3;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;Atlantic Division;Austin Rivers;8;0;19.4;7.3;0.8;1.0;1.8;1.9;0.9;0.0;0.8;1.6;2.5
+Denver Nuggets;den;2021 - 2022 Regular Season;Atlantic Division;Bryn Forbes;8;0;14.5;5.9;0.3;1.3;1.5;1.0;0.3;0.1;0.8;1.5;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;Atlantic Division;Facundo Campazzo;9;0;12.9;3.9;0.4;1.1;1.6;1.9;0.7;0.1;0.8;1.2;2.4
+Denver Nuggets;den;2021 - 2022 Regular Season;Atlantic Division;Davon Reed;7;1;12.4;2.6;0.0;1.6;1.6;1.3;0.4;0.1;0.6;0.9;2.3
+Denver Nuggets;den;2021 - 2022 Regular Season;Atlantic Division;Markus Howard;5;0;3.8;2.2;0.0;0.8;0.8;0.0;0.4;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Atlantic Division;Bol Bol;1;0;4.0;2.0;0.0;3.0;3.0;0.0;0.0;1.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Atlantic Division;Petr Cornelie;1;0;4.0;0.0;1.0;1.0;2.0;1.0;0.0;0.0;0.0;1.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;Atlantic Division;PJ Dozier;1;0;16.0;0.0;1.0;1.0;2.0;0.0;0.0;0.0;2.0;1.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Atlantic Division;Vlatko Cancar;1;0;3.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Atlantic Division;Total;10;"";"";112.7;10.5;36.2;46.7;28.1;6.4;3.4;0.0;19.2;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;Central Division;Nikola Jokic;7;7;34.6;27.1;2.4;11.0;13.4;9.6;2.1;0.6;4.4;2.1;2.2
+Denver Nuggets;den;2021 - 2022 Regular Season;Central Division;Will Barton;9;9;33.6;17.6;1.0;4.1;5.1;3.3;0.9;0.6;1.6;1.3;2.1
+Denver Nuggets;den;2021 - 2022 Regular Season;Central Division;Aaron Gordon;10;10;33.8;16.7;2.1;5.3;7.4;2.8;0.6;0.6;2.2;2.4;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;Central Division;Bones Hyland;7;0;19.6;11.3;0.1;2.9;3.0;3.9;0.9;0.1;0.9;2.1;4.5
+Denver Nuggets;den;2021 - 2022 Regular Season;Central Division;Michael Porter Jr.;1;1;27.0;11.0;2.0;3.0;5.0;3.0;1.0;1.0;2.0;2.0;1.5
+Denver Nuggets;den;2021 - 2022 Regular Season;Central Division;Jeff Green;9;8;27.0;10.4;0.8;2.9;3.7;1.0;0.3;0.3;0.9;2.6;1.1
+Denver Nuggets;den;2021 - 2022 Regular Season;Central Division;Monte Morris;10;10;29.0;9.9;0.5;2.7;3.2;5.3;0.5;0.1;1.5;1.2;3.5
+Denver Nuggets;den;2021 - 2022 Regular Season;Central Division;Zeke Nnaji;7;0;15.4;8.0;1.9;1.3;3.1;0.0;0.1;0.1;0.3;1.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Central Division;DeMarcus Cousins;4;0;13.3;7.3;1.5;5.0;6.5;1.3;0.5;0.0;2.8;3.0;0.5
+Denver Nuggets;den;2021 - 2022 Regular Season;Central Division;Bryn Forbes;5;0;15.2;6.8;0.2;0.4;0.6;1.0;0.0;0.0;0.2;1.0;5.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Central Division;Vlatko Cancar;2;0;8.0;6.5;0.5;0.0;0.5;2.0;0.5;0.0;0.5;0.5;4.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Central Division;Facundo Campazzo;8;0;17.9;6.0;0.4;0.4;0.8;2.6;1.0;0.1;1.0;1.8;2.6
+Denver Nuggets;den;2021 - 2022 Regular Season;Central Division;PJ Dozier;3;0;19.0;5.7;1.3;3.7;5.0;1.7;0.7;0.3;1.0;2.7;1.7
+Denver Nuggets;den;2021 - 2022 Regular Season;Central Division;Austin Rivers;9;3;22.7;5.3;0.1;1.3;1.4;1.2;0.4;0.1;0.7;1.9;1.8
+Denver Nuggets;den;2021 - 2022 Regular Season;Central Division;JaMychal Green;7;2;14.6;3.9;0.9;2.7;3.6;0.7;0.6;0.3;1.0;2.6;0.7
+Denver Nuggets;den;2021 - 2022 Regular Season;Central Division;Markus Howard;5;0;3.4;3.8;0.0;0.0;0.0;0.4;0.4;0.0;0.4;0.2;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Central Division;Davon Reed;5;0;10.8;2.2;0.4;1.8;2.2;0.6;0.2;0.2;0.4;0.8;1.5
+Denver Nuggets;den;2021 - 2022 Regular Season;Central Division;Petr Cornelie;3;0;2.3;1.3;0.3;0.3;0.7;0.3;0.0;0.0;0.0;0.7;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;Central Division;Bol Bol;2;0;3.0;1.0;0.0;0.5;0.5;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Central Division;Total;10;"";"";110.6;10.0;33.0;43.0;27.9;6.9;2.8;0.0;19.2;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;Pacific Division;Nikola Jokic;16;16;34.4;28.9;2.9;11.1;14.1;8.0;1.8;1.0;4.1;3.2;1.9
+Denver Nuggets;den;2021 - 2022 Regular Season;Pacific Division;Aaron Gordon;15;15;32.1;16.1;1.7;5.1;6.8;3.0;0.5;0.5;1.7;2.3;1.7
+Denver Nuggets;den;2021 - 2022 Regular Season;Pacific Division;Will Barton;13;13;31.9;15.0;0.4;3.4;3.8;3.4;0.8;0.3;1.7;1.2;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Pacific Division;Michael Porter Jr.;1;1;34.0;15.0;1.0;5.0;6.0;5.0;2.0;0.0;2.0;3.0;2.5
+Denver Nuggets;den;2021 - 2022 Regular Season;Pacific Division;Monte Morris;16;16;30.9;14.4;0.4;3.1;3.4;4.6;0.8;0.3;0.9;1.0;4.9
+Denver Nuggets;den;2021 - 2022 Regular Season;Pacific Division;Jeff Green;16;13;24.7;12.5;0.8;2.1;2.9;1.4;0.4;0.3;1.3;1.6;1.1
+Denver Nuggets;den;2021 - 2022 Regular Season;Pacific Division;Bryn Forbes;8;1;20.5;10.1;0.1;0.4;0.5;0.9;0.5;0.0;0.8;1.6;1.2
+Denver Nuggets;den;2021 - 2022 Regular Season;Pacific Division;Bones Hyland;16;1;18.0;10.1;0.2;2.9;3.1;2.9;0.5;0.4;0.8;2.3;3.9
+Denver Nuggets;den;2021 - 2022 Regular Season;Pacific Division;DeMarcus Cousins;9;1;14.9;10.1;1.8;3.9;5.7;2.1;0.8;0.6;2.3;2.8;0.9
+Denver Nuggets;den;2021 - 2022 Regular Season;Pacific Division;Markus Howard;4;0;9.3;8.0;0.5;0.3;0.8;0.3;0.3;0.0;0.0;1.3;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;Pacific Division;Davon Reed;12;1;18.8;7.7;0.4;2.1;2.5;1.5;0.6;0.4;0.3;1.7;4.5
+Denver Nuggets;den;2021 - 2022 Regular Season;Pacific Division;PJ Dozier;2;0;21.0;6.5;0.5;5.5;6.0;1.0;0.5;0.0;0.5;2.0;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Pacific Division;Austin Rivers;17;7;24.6;6.2;0.1;1.7;1.8;1.8;0.6;0.1;0.7;2.3;2.6
+Denver Nuggets;den;2021 - 2022 Regular Season;Pacific Division;JaMychal Green;16;4;17.5;5.9;0.9;3.6;4.6;1.1;0.4;0.3;0.9;2.4;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;Pacific Division;Zeke Nnaji;7;0;18.0;4.9;1.1;2.0;3.1;0.3;0.9;0.3;0.3;1.7;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Pacific Division;Facundo Campazzo;13;1;16.8;3.1;0.4;1.5;1.9;3.4;1.0;0.2;0.8;2.2;4.4
+Denver Nuggets;den;2021 - 2022 Regular Season;Pacific Division;Vlatko Cancar;2;0;19.5;2.0;2.0;4.5;6.5;2.0;0.0;0.0;1.0;3.5;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Pacific Division;James Ennis III;2;0;5.5;1.0;0.5;0.5;1.0;1.5;0.0;0.0;0.5;0.5;3.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Pacific Division;Petr Cornelie;1;0;7.0;0.0;2.0;1.0;3.0;1.0;0.0;0.0;1.0;1.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Pacific Division;Bol Bol;1;0;7.0;0.0;1.0;2.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Pacific Division;Total;18;"";"";116.3;9.0;35.7;44.7;28.6;7.4;3.6;0.0;20.9;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;Southeast Division;Nikola Jokic;10;10;32.6;24.7;3.5;12.6;16.1;8.1;1.8;0.4;3.5;2.1;2.3
+Denver Nuggets;den;2021 - 2022 Regular Season;Southeast Division;Aaron Gordon;9;9;33.8;16.3;1.2;3.9;5.1;3.0;0.6;0.8;2.0;1.7;1.5
+Denver Nuggets;den;2021 - 2022 Regular Season;Southeast Division;Monte Morris;9;9;30.3;14.4;0.3;2.9;3.2;4.4;0.4;0.1;0.8;1.7;5.7
+Denver Nuggets;den;2021 - 2022 Regular Season;Southeast Division;Jeff Green;10;10;28.9;13.1;0.1;3.5;3.6;1.3;0.3;0.4;1.1;2.6;1.2
+Denver Nuggets;den;2021 - 2022 Regular Season;Southeast Division;Will Barton;9;9;32.6;12.6;0.1;5.4;5.6;3.3;0.4;0.4;1.3;1.2;2.5
+Denver Nuggets;den;2021 - 2022 Regular Season;Southeast Division;Bones Hyland;9;1;21.1;12.6;0.3;2.7;3.0;2.4;0.7;0.3;1.7;2.2;1.5
+Denver Nuggets;den;2021 - 2022 Regular Season;Southeast Division;DeMarcus Cousins;3;0;15.0;9.7;1.7;3.0;4.7;1.0;0.3;0.3;2.3;4.0;0.4
+Denver Nuggets;den;2021 - 2022 Regular Season;Southeast Division;PJ Dozier;2;0;22.0;9.5;1.5;3.5;5.0;1.0;0.0;0.5;1.0;3.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Southeast Division;Bryn Forbes;3;0;14.0;8.7;0.0;0.3;0.3;0.7;0.3;0.0;0.7;1.7;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Southeast Division;Austin Rivers;8;0;18.8;6.1;0.8;2.0;2.8;1.1;0.6;0.0;0.9;1.4;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;Southeast Division;Facundo Campazzo;8;0;19.1;6.1;0.1;1.5;1.6;4.1;1.3;0.3;0.8;2.3;5.5
+Denver Nuggets;den;2021 - 2022 Regular Season;Southeast Division;JaMychal Green;6;0;16.0;6.0;1.7;2.3;4.0;0.5;0.3;0.7;0.5;2.3;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Southeast Division;Vlatko Cancar;4;1;12.3;5.5;0.5;0.5;1.0;1.3;0.0;0.3;0.8;1.8;1.7
+Denver Nuggets;den;2021 - 2022 Regular Season;Southeast Division;Zeke Nnaji;6;0;13.8;4.3;0.2;1.2;1.3;0.8;0.5;0.2;0.3;2.5;2.5
+Denver Nuggets;den;2021 - 2022 Regular Season;Southeast Division;Markus Howard;5;0;6.0;3.0;0.0;0.2;0.2;0.0;0.2;0.0;0.4;1.2;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Southeast Division;Petr Cornelie;1;0;3.0;1.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Southeast Division;Davon Reed;3;1;9.7;0.7;0.3;2.0;2.3;0.3;0.7;0.0;0.0;0.7;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;Southeast Division;Bol Bol;2;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Southeast Division;Total;10;"";"";115.5;8.3;37.0;45.3;27.6;6.5;3.4;0.0;20.4;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;Southwest Division;Nikola Jokic;17;17;34.6;30.1;2.4;11.1;13.5;7.2;1.7;1.1;3.5;3.2;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Southwest Division;Aaron Gordon;17;17;32.3;15.6;2.1;3.6;5.6;2.3;0.7;0.8;1.9;2.1;1.2
+Denver Nuggets;den;2021 - 2022 Regular Season;Southwest Division;Will Barton;15;15;33.1;15.1;0.5;3.8;4.3;5.1;1.1;0.5;2.1;1.8;2.4
+Denver Nuggets;den;2021 - 2022 Regular Season;Southwest Division;Monte Morris;16;16;31.1;12.5;0.5;2.6;3.1;4.1;0.6;0.4;1.3;1.5;3.3
+Denver Nuggets;den;2021 - 2022 Regular Season;Southwest Division;DeMarcus Cousins;5;1;11.4;8.6;1.6;3.4;5.0;1.2;0.8;0.4;2.0;2.8;0.6
+Denver Nuggets;den;2021 - 2022 Regular Season;Southwest Division;Michael Porter Jr.;5;5;26.2;8.6;0.4;5.0;5.4;0.8;0.8;0.2;1.2;1.2;0.7
+Denver Nuggets;den;2021 - 2022 Regular Season;Southwest Division;Bones Hyland;16;0;17.4;7.7;0.1;1.9;2.0;2.2;0.8;0.1;1.3;2.0;1.7
+Denver Nuggets;den;2021 - 2022 Regular Season;Southwest Division;Bryn Forbes;6;0;17.2;7.5;0.2;0.8;1.0;0.7;0.0;0.0;0.3;1.7;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Southwest Division;Jeff Green;15;10;24.0;7.3;0.3;2.6;2.9;1.5;0.3;0.5;0.6;2.3;2.4
+Denver Nuggets;den;2021 - 2022 Regular Season;Southwest Division;Bol Bol;4;0;11.3;6.8;0.5;1.8;2.3;0.5;0.3;0.3;0.8;1.0;0.7
+Denver Nuggets;den;2021 - 2022 Regular Season;Southwest Division;JaMychal Green;17;0;13.9;6.2;1.4;2.6;4.0;0.9;0.6;0.4;1.1;2.2;0.8
+Denver Nuggets;den;2021 - 2022 Regular Season;Southwest Division;Facundo Campazzo;15;2;19.0;5.9;0.4;1.7;2.1;3.2;1.0;0.5;1.1;1.5;3.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Southwest Division;Austin Rivers;11;5;23.6;5.2;0.2;1.3;1.5;0.8;0.8;0.2;1.3;1.9;0.6
+Denver Nuggets;den;2021 - 2022 Regular Season;Southwest Division;PJ Dozier;6;0;21.0;5.0;0.3;1.7;2.0;2.3;1.0;0.5;0.7;1.3;3.5
+Denver Nuggets;den;2021 - 2022 Regular Season;Southwest Division;Zeke Nnaji;7;0;14.7;4.9;0.9;1.4;2.3;0.7;0.1;0.4;0.6;2.3;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;Southwest Division;Vlatko Cancar;3;0;9.7;3.7;0.3;0.0;0.3;1.0;0.3;0.3;0.3;0.7;3.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Southwest Division;Davon Reed;10;2;15.3;3.5;0.3;2.4;2.7;1.0;0.7;0.1;0.5;1.6;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Southwest Division;Markus Howard;6;0;5.5;3.5;0.0;0.2;0.2;0.0;0.0;0.0;0.2;0.7;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Southwest Division;Rayjon Tucker;2;0;13.0;3.0;0.5;1.0;1.5;0.5;0.5;0.0;0.0;1.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;Southwest Division;Petr Cornelie;4;0;2.0;1.3;0.5;0.5;1.0;0.0;0.0;0.0;0.5;0.8;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Southwest Division;Carlik Jones;2;0;2.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Southwest Division;Total;18;"";"";110.6;8.8;33.4;42.2;26.7;7.9;4.5;0.0;20.8;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;Northwest Division;Nikola Jokic;14;14;31.6;23.9;2.6;11.2;13.9;8.1;0.9;0.7;3.6;2.2;2.2
+Denver Nuggets;den;2021 - 2022 Regular Season;Northwest Division;Bryn Forbes;5;0;21.8;13.4;0.2;0.6;0.8;1.6;0.2;0.2;1.2;1.6;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;Northwest Division;Monte Morris;16;15;28.3;13.3;0.2;2.1;2.3;3.6;1.1;0.1;1.2;1.1;3.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Northwest Division;Aaron Gordon;15;15;29.6;12.9;1.1;3.8;4.9;1.9;0.4;0.3;1.5;1.3;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;Northwest Division;Will Barton;15;15;30.0;12.7;0.8;3.9;4.7;3.7;0.8;0.6;1.9;1.7;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Northwest Division;Jeff Green;15;12;22.1;10.1;0.7;1.7;2.3;1.2;0.4;0.4;1.0;1.9;1.2
+Denver Nuggets;den;2021 - 2022 Regular Season;Northwest Division;Michael Porter Jr.;2;2;36.5;10.0;2.0;8.5;10.5;2.5;1.5;0.0;1.0;2.5;2.5
+Denver Nuggets;den;2021 - 2022 Regular Season;Northwest Division;Bones Hyland;13;0;19.1;9.3;0.2;2.0;2.2;2.9;0.5;0.5;1.4;2.5;2.1
+Denver Nuggets;den;2021 - 2022 Regular Season;Northwest Division;DeMarcus Cousins;4;0;12.8;8.8;2.0;4.0;6.0;2.8;0.5;0.5;2.5;3.5;1.1
+Denver Nuggets;den;2021 - 2022 Regular Season;Northwest Division;JaMychal Green;13;2;18.3;8.0;1.3;3.1;4.4;0.7;1.0;0.3;0.6;2.5;1.1
+Denver Nuggets;den;2021 - 2022 Regular Season;Northwest Division;Zeke Nnaji;9;1;17.4;7.4;2.1;4.0;6.1;0.2;0.2;0.6;1.0;1.6;0.2
+Denver Nuggets;den;2021 - 2022 Regular Season;Northwest Division;Austin Rivers;14;3;20.9;6.1;0.1;1.1;1.3;1.1;1.1;0.1;0.6;1.4;1.7
+Denver Nuggets;den;2021 - 2022 Regular Season;Northwest Division;Facundo Campazzo;12;1;22.3;6.0;0.3;2.0;2.3;4.8;0.9;0.8;1.7;2.5;2.9
+Denver Nuggets;den;2021 - 2022 Regular Season;Northwest Division;Markus Howard;6;0;6.8;4.7;0.0;0.5;0.5;0.7;0.5;0.0;0.3;0.2;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Northwest Division;Davon Reed;11;0;10.7;4.6;0.3;1.7;2.0;1.1;0.4;0.1;0.1;1.4;12.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Northwest Division;PJ Dozier;4;0;14.0;4.5;0.8;2.3;3.0;1.5;0.5;0.3;0.3;1.5;6.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Northwest Division;Vlatko Cancar;3;0;13.0;4.0;0.0;3.7;3.7;0.3;0.0;0.3;0.7;0.3;0.5
+Denver Nuggets;den;2021 - 2022 Regular Season;Northwest Division;James Ennis III;1;0;3.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Northwest Division;Petr Cornelie;3;0;3.0;1.3;0.3;0.7;1.0;0.0;0.3;0.0;0.3;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Northwest Division;Bol Bol;4;0;4.0;0.5;0.3;0.8;1.0;0.8;0.0;0.0;0.3;0.0;3.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Northwest Division;Rayjon Tucker;1;0;4.0;0.0;0.0;1.0;1.0;3.0;0.0;0.0;0.0;1.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;Northwest Division;Total;16;"";"";110.7;9.0;34.9;43.9;27.9;7.4;3.9;0.0;18.8;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;Eastern Conference;Nikola Jokic;27;27;33.1;25.7;3.0;10.7;13.7;8.2;1.4;0.7;3.9;2.0;2.1
+Denver Nuggets;den;2021 - 2022 Regular Season;Eastern Conference;Will Barton;28;28;32.6;15.4;0.7;4.9;5.6;3.6;0.6;0.4;1.6;1.6;2.2
+Denver Nuggets;den;2021 - 2022 Regular Season;Eastern Conference;Aaron Gordon;28;28;32.1;15.1;1.7;4.3;6.0;2.7;0.6;0.6;1.9;2.1;1.4
+Denver Nuggets;den;2021 - 2022 Regular Season;Eastern Conference;Bones Hyland;24;3;20.7;12.2;0.3;3.0;3.3;3.0;0.6;0.2;1.5;2.2;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Eastern Conference;Monte Morris;27;27;29.5;11.2;0.4;2.8;3.1;5.0;0.6;0.1;0.9;1.3;5.7
+Denver Nuggets;den;2021 - 2022 Regular Season;Eastern Conference;Michael Porter Jr.;1;1;27.0;11.0;2.0;3.0;5.0;3.0;1.0;1.0;2.0;2.0;1.5
+Denver Nuggets;den;2021 - 2022 Regular Season;Eastern Conference;Jeff Green;29;28;26.3;10.7;0.5;3.2;3.7;1.2;0.4;0.3;0.9;2.2;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;Eastern Conference;DeMarcus Cousins;13;0;14.5;8.2;1.4;4.2;5.5;1.3;0.5;0.3;2.2;3.1;0.6
+Denver Nuggets;den;2021 - 2022 Regular Season;Eastern Conference;Zeke Nnaji;18;0;17.3;7.5;1.3;1.7;3.0;0.4;0.4;0.2;0.4;2.1;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Eastern Conference;Bryn Forbes;16;0;14.7;6.7;0.2;0.8;1.0;0.9;0.2;0.1;0.6;1.4;1.7
+Denver Nuggets;den;2021 - 2022 Regular Season;Eastern Conference;Austin Rivers;25;3;20.4;6.2;0.5;1.4;2.0;1.4;0.6;0.0;0.8;1.6;1.8
+Denver Nuggets;den;2021 - 2022 Regular Season;Eastern Conference;JaMychal Green;21;2;15.8;6.1;1.2;2.8;4.0;0.8;0.6;0.5;0.8;2.4;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Eastern Conference;PJ Dozier;6;0;19.3;6.0;1.3;3.2;4.5;1.2;0.3;0.3;1.2;2.5;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Eastern Conference;Facundo Campazzo;25;0;16.5;5.3;0.3;1.0;1.3;2.8;1.0;0.2;0.8;1.7;3.4
+Denver Nuggets;den;2021 - 2022 Regular Season;Eastern Conference;Vlatko Cancar;7;1;9.9;5.0;0.4;0.4;0.9;1.3;0.1;0.1;0.6;1.1;2.3
+Denver Nuggets;den;2021 - 2022 Regular Season;Eastern Conference;Markus Howard;15;0;4.4;3.0;0.0;0.3;0.3;0.1;0.3;0.0;0.3;0.5;0.5
+Denver Nuggets;den;2021 - 2022 Regular Season;Eastern Conference;Davon Reed;15;2;11.3;2.1;0.2;1.7;1.9;0.9;0.4;0.1;0.4;0.8;2.2
+Denver Nuggets;den;2021 - 2022 Regular Season;Eastern Conference;Petr Cornelie;5;0;2.8;1.0;0.4;0.4;0.8;0.4;0.0;0.2;0.0;0.6;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;Eastern Conference;Bol Bol;5;0;2.4;0.8;0.0;0.8;0.8;0.0;0.0;0.2;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Eastern Conference;Total;30;"";"";112.9;9.6;35.4;45.0;27.9;6.6;3.2;0.0;19.6;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;Western Conference;Nikola Jokic;47;47;33.7;27.9;2.7;11.1;13.8;7.7;1.5;0.9;3.8;2.9;2.1
+Denver Nuggets;den;2021 - 2022 Regular Season;Western Conference;Aaron Gordon;47;47;31.4;14.9;1.6;4.1;5.8;2.4;0.6;0.6;1.7;1.9;1.4
+Denver Nuggets;den;2021 - 2022 Regular Season;Western Conference;Will Barton;43;43;31.7;14.2;0.6;3.7;4.3;4.1;0.9;0.5;1.9;1.6;2.1
+Denver Nuggets;den;2021 - 2022 Regular Season;Western Conference;Monte Morris;48;47;30.1;13.4;0.4;2.6;2.9;4.1;0.9;0.3;1.1;1.2;3.6
+Denver Nuggets;den;2021 - 2022 Regular Season;Western Conference;Bryn Forbes;19;1;19.7;10.2;0.2;0.6;0.7;1.0;0.3;0.1;0.7;1.6;1.4
+Denver Nuggets;den;2021 - 2022 Regular Season;Western Conference;Jeff Green;46;35;23.6;10.0;0.6;2.1;2.7;1.3;0.3;0.4;1.0;1.9;1.4
+Denver Nuggets;den;2021 - 2022 Regular Season;Western Conference;Michael Porter Jr.;8;8;29.8;9.8;0.9;5.9;6.8;1.8;1.1;0.1;1.3;1.8;1.4
+Denver Nuggets;den;2021 - 2022 Regular Season;Western Conference;DeMarcus Cousins;18;2;13.4;9.4;1.8;3.8;5.6;2.0;0.7;0.5;2.3;2.9;0.9
+Denver Nuggets;den;2021 - 2022 Regular Season;Western Conference;Bones Hyland;45;1;18.1;9.0;0.2;2.3;2.4;2.7;0.6;0.3;1.1;2.2;2.4
+Denver Nuggets;den;2021 - 2022 Regular Season;Western Conference;JaMychal Green;46;6;16.4;6.6;1.2;3.1;4.3;0.9;0.7;0.3;0.9;2.3;1.1
+Denver Nuggets;den;2021 - 2022 Regular Season;Western Conference;Austin Rivers;42;15;23.1;5.9;0.1;1.4;1.5;1.3;0.8;0.1;0.8;1.9;1.6
+Denver Nuggets;den;2021 - 2022 Regular Season;Western Conference;Zeke Nnaji;23;1;16.8;5.9;1.4;2.6;4.0;0.4;0.4;0.4;0.7;1.8;0.6
+Denver Nuggets;den;2021 - 2022 Regular Season;Western Conference;Davon Reed;33;3;15.1;5.4;0.3;2.1;2.4;1.2;0.5;0.2;0.3;1.5;4.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Western Conference;PJ Dozier;12;0;18.7;5.1;0.5;2.5;3.0;1.8;0.8;0.3;0.5;1.5;3.7
+Denver Nuggets;den;2021 - 2022 Regular Season;Western Conference;Markus Howard;16;0;6.9;5.1;0.1;0.3;0.4;0.3;0.3;0.0;0.2;0.6;1.7
+Denver Nuggets;den;2021 - 2022 Regular Season;Western Conference;Facundo Campazzo;40;4;19.3;5.0;0.4;1.7;2.1;3.7;1.0;0.5;1.2;2.0;3.2
+Denver Nuggets;den;2021 - 2022 Regular Season;Western Conference;Vlatko Cancar;8;0;13.5;3.4;0.6;2.5;3.1;1.0;0.1;0.3;0.6;1.3;1.6
+Denver Nuggets;den;2021 - 2022 Regular Season;Western Conference;Bol Bol;9;0;7.7;3.2;0.4;1.3;1.8;0.6;0.1;0.1;0.4;0.4;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;Western Conference;Rayjon Tucker;3;0;9.7;2.0;0.3;1.0;1.3;1.3;0.3;0.0;0.0;1.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;Western Conference;James Ennis III;3;0;4.7;1.3;0.3;0.3;0.7;1.0;0.0;0.0;0.3;0.3;3.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Western Conference;Petr Cornelie;8;0;2.9;1.1;0.6;0.6;1.3;0.1;0.1;0.0;0.5;0.5;0.3
+Denver Nuggets;den;2021 - 2022 Regular Season;Western Conference;Carlik Jones;2;0;2.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Western Conference;Total;52;"";"";112.6;8.9;34.7;43.6;27.8;7.6;4.0;0.0;20.2;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;Pre All-Star;Nikola Jokic;52;52;33.0;26.0;2.8;11.0;13.8;7.9;1.3;0.7;3.8;2.5;2.1
+Denver Nuggets;den;2021 - 2022 Regular Season;Pre All-Star;Will Barton;51;51;32.3;15.2;0.6;4.3;5.0;3.9;0.8;0.5;1.9;1.5;2.1
+Denver Nuggets;den;2021 - 2022 Regular Season;Pre All-Star;Aaron Gordon;53;53;31.8;14.5;1.7;4.1;5.8;2.6;0.7;0.5;1.8;1.9;1.5
+Denver Nuggets;den;2021 - 2022 Regular Season;Pre All-Star;Monte Morris;52;51;30.0;12.7;0.4;2.6;3.0;4.3;0.7;0.2;1.0;1.2;4.2
+Denver Nuggets;den;2021 - 2022 Regular Season;Pre All-Star;Bryn Forbes;15;0;20.1;10.6;0.1;1.0;1.1;1.1;0.2;0.1;0.7;1.7;1.7
+Denver Nuggets;den;2021 - 2022 Regular Season;Pre All-Star;Jeff Green;54;42;24.5;10.4;0.6;2.6;3.1;1.2;0.3;0.4;0.9;2.1;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;Pre All-Star;Michael Porter Jr.;9;9;29.4;9.9;1.0;5.6;6.6;1.9;1.1;0.2;1.3;1.8;1.4
+Denver Nuggets;den;2021 - 2022 Regular Season;Pre All-Star;Bones Hyland;46;3;18.0;8.8;0.2;2.6;2.7;2.0;0.5;0.3;1.2;2.1;1.6
+Denver Nuggets;den;2021 - 2022 Regular Season;Pre All-Star;Zeke Nnaji;39;1;16.7;6.8;1.4;2.3;3.7;0.4;0.3;0.3;0.5;1.9;0.7
+Denver Nuggets;den;2021 - 2022 Regular Season;Pre All-Star;JaMychal Green;45;7;14.9;6.3;1.0;2.7;3.7;0.8;0.7;0.4;0.9;2.2;0.9
+Denver Nuggets;den;2021 - 2022 Regular Season;Pre All-Star;DeMarcus Cousins;8;0;13.1;6.1;2.0;4.3;6.3;1.1;0.6;0.3;2.3;2.9;0.5
+Denver Nuggets;den;2021 - 2022 Regular Season;Pre All-Star;Austin Rivers;44;13;21.0;6.0;0.3;1.3;1.7;1.1;0.7;0.1;0.9;1.6;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;Pre All-Star;Facundo Campazzo;54;4;20.3;6.0;0.4;1.6;1.9;3.7;1.1;0.4;1.2;2.1;3.2
+Denver Nuggets;den;2021 - 2022 Regular Season;Pre All-Star;PJ Dozier;18;0;18.9;5.4;0.8;2.7;3.5;1.6;0.6;0.3;0.7;1.8;2.2
+Denver Nuggets;den;2021 - 2022 Regular Season;Pre All-Star;Vlatko Cancar;14;1;10.9;4.3;0.4;1.2;1.6;0.9;0.1;0.2;0.6;0.9;1.6
+Denver Nuggets;den;2021 - 2022 Regular Season;Pre All-Star;Markus Howard;22;0;6.1;4.1;0.0;0.3;0.3;0.3;0.3;0.0;0.3;0.5;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Pre All-Star;Davon Reed;29;3;13.8;4.0;0.3;2.2;2.5;1.0;0.6;0.1;0.3;1.4;3.6
+Denver Nuggets;den;2021 - 2022 Regular Season;Pre All-Star;Bol Bol;14;0;5.8;2.4;0.3;1.1;1.4;0.4;0.1;0.1;0.3;0.3;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;Pre All-Star;Rayjon Tucker;3;0;9.7;2.0;0.3;1.0;1.3;1.3;0.3;0.0;0.0;1.0;INF
+Denver Nuggets;den;2021 - 2022 Regular Season;Pre All-Star;James Ennis III;3;0;4.7;1.3;0.3;0.3;0.7;1.0;0.0;0.0;0.3;0.3;3.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Pre All-Star;Petr Cornelie;13;0;2.9;1.1;0.5;0.5;1.1;0.2;0.1;0.1;0.3;0.5;0.8
+Denver Nuggets;den;2021 - 2022 Regular Season;Pre All-Star;Carlik Jones;2;0;2.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Pre All-Star;Total;58;"";"";109.9;9.2;34.8;43.9;27.1;7.1;3.7;13.7;19.2;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Post All-Star;Nikola Jokic;22;22;34.4;29.6;2.6;11.0;13.7;7.9;1.8;1.1;3.8;2.8;2.1
+Denver Nuggets;den;2021 - 2022 Regular Season;Post All-Star;Aaron Gordon;22;22;31.5;16.2;1.6;4.4;6.0;2.2;0.4;0.7;1.8;2.2;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;Post All-Star;Will Barton;20;20;31.4;13.5;0.6;3.8;4.4;3.8;0.6;0.3;1.6;1.8;2.5
+Denver Nuggets;den;2021 - 2022 Regular Season;Post All-Star;Bones Hyland;23;1;20.9;12.8;0.3;2.4;2.7;4.3;0.8;0.3;1.3;2.4;3.4
+Denver Nuggets;den;2021 - 2022 Regular Season;Post All-Star;Monte Morris;23;23;29.5;12.5;0.3;2.8;3.1;4.7;0.9;0.3;1.0;1.3;4.5
+Denver Nuggets;den;2021 - 2022 Regular Season;Post All-Star;Jeff Green;21;21;25.0;10.0;0.5;2.4;2.9;1.4;0.5;0.3;1.0;1.8;1.5
+Denver Nuggets;den;2021 - 2022 Regular Season;Post All-Star;DeMarcus Cousins;23;2;14.1;9.9;1.5;3.8;5.3;1.9;0.6;0.5;2.2;3.0;0.9
+Denver Nuggets;den;2021 - 2022 Regular Season;Post All-Star;Bryn Forbes;20;1;15.5;7.1;0.2;0.5;0.7;0.9;0.3;0.1;0.7;1.4;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;Post All-Star;JaMychal Green;22;1;18.8;6.8;1.6;3.5;5.1;1.0;0.5;0.3;0.8;2.7;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;Post All-Star;Austin Rivers;23;5;24.2;6.0;0.2;1.6;1.7;1.7;0.8;0.1;0.7;2.3;2.5
+Denver Nuggets;den;2021 - 2022 Regular Season;Post All-Star;Davon Reed;19;2;14.1;4.8;0.2;1.6;1.8;1.3;0.4;0.3;0.4;1.2;3.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Post All-Star;Markus Howard;9;0;4.7;4.0;0.2;0.4;0.7;0.1;0.2;0.0;0.1;0.7;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Post All-Star;Zeke Nnaji;2;0;23.5;2.5;0.5;1.0;1.5;1.0;2.0;0.0;1.0;1.5;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Post All-Star;Vlatko Cancar;1;0;24.0;2.0;2.0;6.0;8.0;4.0;0.0;0.0;1.0;5.0;4.0
+Denver Nuggets;den;2021 - 2022 Regular Season;Post All-Star;Facundo Campazzo;11;0;8.0;0.8;0.3;0.9;1.2;1.7;0.5;0.2;0.4;1.1;4.8
+Denver Nuggets;den;2021 - 2022 Regular Season;Post All-Star;Total;24;"";"";119.6;9.1;35.4;44.5;29.5;7.4;3.9;14.2;21.8;2.1
+Denver Nuggets;den;2021 - 2022 Regular Season;3+ Days Rest;Nikola Jokic;7;7;32.9;25.9;2.1;10.6;12.7;6.4;1.6;1.1;2.9;2.9;2.3
+Denver Nuggets;den;2021 - 2022 Regular Season;3+ Days Rest;Will Barton;9;9;28.3;16.6;0.9;4.1;5.0;4.2;0.6;0.3;1.3;2.0;3.2
+Denver Nuggets;den;2021 - 2022 Regular Season;3+ Days Rest;Michael Porter Jr.;1;1;34.0;15.0;1.0;5.0;6.0;5.0;2.0;0.0;2.0;3.0;2.5
+Denver Nuggets;den;2021 - 2022 Regular Season;3+ Days Rest;Monte Morris;5;4;29.0;14.2;0.2;2.0;2.2;4.0;0.4;0.2;1.0;0.8;4.0
+Denver Nuggets;den;2021 - 2022 Regular Season;3+ Days Rest;Aaron Gordon;6;6;26.7;12.7;1.8;4.3;6.2;3.2;1.0;0.5;1.7;1.8;1.9
+Denver Nuggets;den;2021 - 2022 Regular Season;3+ Days Rest;Jeff Green;6;4;23.0;11.7;0.3;2.7;3.0;1.2;0.0;0.2;1.3;2.5;0.9
+Denver Nuggets;den;2021 - 2022 Regular Season;3+ Days Rest;PJ Dozier;1;0;21.0;10.0;1.0;4.0;5.0;1.0;1.0;0.0;1.0;2.0;1.0
+Denver Nuggets;den;2021 - 2022 Regular Season;3+ Days Rest;Bones Hyland;9;0;16.0;9.6;0.1;1.9;2.0;1.4;0.7;0.2;1.6;1.7;0.9
+Denver Nuggets;den;2021 - 2022 Regular Season;3+ Days Rest;JaMychal Green;8;0;15.3;8.0;0.9;2.6;3.5;1.1;1.0;0.3;0.9;2.8;1.3
+Denver Nuggets;den;2021 - 2022 Regular Season;3+ Days Rest;Austin Rivers;10;2;19.7;5.6;0.3;1.3;1.6;1.1;0.5;0.1;0.5;1.7;2.2
+Denver Nuggets;den;2021 - 2022 Regular Season;3+ Days Rest;Bryn Forbes;4;0;14.3;5.5;0.3;0.3;0.5;1.5;0.0;0.0;0.8;1.5;2.0
+Denver Nuggets;den;2021 - 2022 Regular Season;3+ Days Rest;Davon Reed;10;0;13.5;5.2;0.3;1.7;2.0;1.2;0.6;0.2;0.4;1.6;3.0
+Denver Nuggets;den;2021 - 2022 Regular Season;3+ Days Rest;DeMarcus Cousins;4;0;13.8;5.0;1.3;5.8;7.0;1.5;0.5;0.5;1.8;3.3;0.9
+Denver Nuggets;den;2021 - 2022 Regular Season;3+ Days Rest;Facundo Campazzo;10;1;13.4;4.7;0.2;1.1;1.3;3.1;0.9;0.4;1.2;1.2;2.6
+Denver Nuggets;den;2021 - 2022 Regular Season;3+ Days Rest;Vlatko Cancar;5;0;8.4;4.2;0.2;1.0;1.2;0.2;0.2;0.4;0.4;0.0;0.5
+Denver Nuggets;den;2021 - 2022 Regular Season;3+ Days Rest;Zeke Nnaji;9;0;11.7;4.1;0.9;2.1;3.0;0.0;0.4;0.3;0.6;0.7;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;3+ Days Rest;Rayjon Tucker;1;0;22.0;3.0;1.0;2.0;3.0;0.0;0.0;0.0;0.0;1.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;3+ Days Rest;Bol Bol;6;0;6.7;2.8;0.3;1.0;1.3;0.8;0.2;0.0;0.2;0.5;5.0
+Denver Nuggets;den;2021 - 2022 Regular Season;3+ Days Rest;Petr Cornelie;6;0;2.8;1.2;0.3;0.5;0.8;0.2;0.2;0.0;0.3;0.7;0.5
+Denver Nuggets;den;2021 - 2022 Regular Season;3+ Days Rest;Markus Howard;15;0;2.9;1.1;0.0;0.2;0.2;0.1;0.2;0.0;0.1;0.1;0.5
+Denver Nuggets;den;2021 - 2022 Regular Season;3+ Days Rest;James Ennis III;2;0;5.5;1.0;0.5;0.5;1.0;1.5;0.0;0.0;0.5;0.5;3.0
+Denver Nuggets;den;2021 - 2022 Regular Season;3+ Days Rest;Carlik Jones;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Denver Nuggets;den;2021 - 2022 Regular Season;3+ Days Rest;Total;4;"";"";114.0;6.5;36.0;42.5;27.3;9.5;4.0;15.5;21.3;1.8

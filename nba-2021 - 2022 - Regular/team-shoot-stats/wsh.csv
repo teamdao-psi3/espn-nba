@@ -1,0 +1,966 @@
+teamName;teamCode;season;split;player_name;FGM;FGA;FG_PCT;FG3M;FG3A;FG3_PCT;FTM;FTA;FT_PCT;PM2;PA2;PCT2;SC_EF;SH_EF
+Washington Wizards;wsh;2021 - 2022 Regular Season;All Splits;Bradley Beal;8.7;19.3;45.1;1.6;5.3;30.0;4.2;5.1;83.3;7.1;14.0;50.8;1.204;0.49
+Washington Wizards;wsh;2021 - 2022 Regular Season;All Splits;Kristaps Porzingis;7.2;15.2;47.5;1.7;4.6;36.7;5.9;6.8;87.1;5.5;10.6;52.2;1.452;0.53
+Washington Wizards;wsh;2021 - 2022 Regular Season;All Splits;Kyle Kuzma;6.4;14.2;45.2;1.9;5.7;34.1;2.4;3.3;71.2;4.5;8.5;52.6;1.207;0.52
+Washington Wizards;wsh;2021 - 2022 Regular Season;All Splits;Montrezl Harrell;5.4;8.3;64.5;0.1;0.3;26.7;3.2;4.5;72.7;5.3;8.0;66.0;1.689;0.65
+Washington Wizards;wsh;2021 - 2022 Regular Season;All Splits;Kentavious Caldwell-Pope;4.7;10.8;43.5;2.1;5.3;39.0;1.8;2.0;89.0;2.6;5.5;48.0;1.228;0.53
+Washington Wizards;wsh;2021 - 2022 Regular Season;All Splits;Spencer Dinwiddie;4.2;11.2;37.6;1.6;5.1;31.0;2.6;3.3;81.1;2.6;6.0;43.2;1.130;0.45
+Washington Wizards;wsh;2021 - 2022 Regular Season;All Splits;Rui Hachimura;4.5;9.1;49.1;1.3;2.9;44.7;1.1;1.6;69.7;3.1;6.1;51.2;1.247;0.56
+Washington Wizards;wsh;2021 - 2022 Regular Season;All Splits;Daniel Gafford;4.0;5.7;69.3;0.0;0.0;0.0;1.5;2.1;69.9;4.0;5.7;69.5;1.647;0.69
+Washington Wizards;wsh;2021 - 2022 Regular Season;All Splits;Ish Smith;4.0;8.8;45.7;0.5;1.5;35.7;0.1;0.2;60.0;3.5;7.3;47.8;0.988;0.49
+Washington Wizards;wsh;2021 - 2022 Regular Season;All Splits;Deni Avdija;3.0;7.1;43.2;1.0;3.2;31.7;1.3;1.7;75.7;2.0;3.9;52.5;1.183;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;All Splits;Corey Kispert;3.0;6.7;45.5;1.5;4.2;35.0;0.7;0.8;87.1;1.6;2.5;62.9;1.233;0.56
+Washington Wizards;wsh;2021 - 2022 Regular Season;All Splits;Raul Neto;2.9;6.3;46.3;0.5;1.7;29.2;1.2;1.5;76.9;2.4;4.6;52.6;1.193;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;All Splits;Thomas Bryant;2.9;5.5;52.0;0.4;1.6;28.6;1.3;1.5;87.5;2.4;3.9;61.3;1.358;0.56
+Washington Wizards;wsh;2021 - 2022 Regular Season;All Splits;Brad Wanamaker;2.0;5.0;40.0;0.0;0.0;0.0;3.0;3.0;100.0;2.0;5.0;40.0;1.400;0.40
+Washington Wizards;wsh;2021 - 2022 Regular Season;All Splits;Aaron Holiday;2.4;5.2;46.7;0.6;1.6;34.3;0.7;0.9;80.0;1.9;3.6;52.4;1.173;0.52
+Washington Wizards;wsh;2021 - 2022 Regular Season;All Splits;Davis Bertans;1.8;5.0;35.1;1.4;4.2;31.9;0.8;0.9;93.3;0.4;0.8;51.9;1.135;0.49
+Washington Wizards;wsh;2021 - 2022 Regular Season;All Splits;Tomas Satoransky;1.8;3.8;47.6;0.3;1.0;27.3;1.0;1.1;84.0;1.5;2.8;54.8;1.274;0.51
+Washington Wizards;wsh;2021 - 2022 Regular Season;All Splits;Anthony Gill;1.4;2.5;56.9;0.3;0.6;53.8;1.0;1.2;80.8;1.1;1.9;57.8;1.651;0.63
+Washington Wizards;wsh;2021 - 2022 Regular Season;All Splits;Greg Monroe;2.0;4.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;4.0;50.0;1.000;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;All Splits;Vernon Carey Jr.;1.3;2.3;57.1;0.0;0.0;0.0;1.3;3.3;40.0;1.3;2.3;57.1;1.714;0.57
+Washington Wizards;wsh;2021 - 2022 Regular Season;All Splits;Craig Sword;1.0;1.3;75.0;0.0;0.3;0.0;0.0;0.0;0.0;1.0;1.0;100.0;1.500;0.75
+Washington Wizards;wsh;2021 - 2022 Regular Season;All Splits;Cassius Winston;0.6;1.6;36.4;0.3;0.9;33.3;0.6;0.6;100.0;0.3;0.7;40.0;1.273;0.45
+Washington Wizards;wsh;2021 - 2022 Regular Season;All Splits;Tremont Waters;1.0;2.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;2.0;50.0;1.000;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;All Splits;Isaiah Todd;0.6;2.2;26.9;0.3;1.3;25.0;0.2;0.5;33.3;0.3;0.8;30.0;0.769;0.35
+Washington Wizards;wsh;2021 - 2022 Regular Season;All Splits;Alize Johnson;0.7;2.0;33.3;0.0;0.7;0.0;0.0;0.3;0.0;0.7;1.3;50.0;0.667;0.33
+Washington Wizards;wsh;2021 - 2022 Regular Season;All Splits;Jordan Schakel;0.3;2.8;9.1;0.3;1.5;16.7;0.5;0.5;100.0;0.0;1.3;0.0;0.455;0.14
+Washington Wizards;wsh;2021 - 2022 Regular Season;All Splits;Joel Ayayi;0.1;0.9;16.7;0.0;0.1;0.0;0.0;0.0;0.0;0.1;0.7;20.0;0.333;0.17
+Washington Wizards;wsh;2021 - 2022 Regular Season;All Splits;Jordan Goodwin;0.0;1.5;0.0;0.0;0.5;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;All Splits;Jaime Echenique;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;All Splits;Total;40.6;86.0;47.2;10.5;30.6;34.2;17.0;21.7;78.3;30.1;55.4;54.3;1.262;0.53
+Washington Wizards;wsh;2021 - 2022 Regular Season;Home;Bradley Beal;8.7;19.6;44.6;1.5;4.9;29.8;4.7;5.4;87.3;7.3;14.6;49.6;1.207;0.48
+Washington Wizards;wsh;2021 - 2022 Regular Season;Home;Kristaps Porzingis;7.4;15.7;47.3;1.4;4.0;35.7;7.1;8.9;80.6;6.0;11.7;51.2;1.491;0.52
+Washington Wizards;wsh;2021 - 2022 Regular Season;Home;Kyle Kuzma;6.5;14.2;46.3;1.5;4.9;31.3;2.8;4.0;71.2;5.0;9.2;54.3;1.236;0.52
+Washington Wizards;wsh;2021 - 2022 Regular Season;Home;Montrezl Harrell;5.4;8.5;64.1;0.1;0.5;16.7;4.1;5.4;75.8;5.3;8.0;67.2;1.774;0.65
+Washington Wizards;wsh;2021 - 2022 Regular Season;Home;Kentavious Caldwell-Pope;4.9;10.9;44.9;2.4;5.5;43.5;1.7;2.1;84.0;2.5;5.4;46.4;1.280;0.56
+Washington Wizards;wsh;2021 - 2022 Regular Season;Home;Spencer Dinwiddie;4.5;11.8;37.8;1.9;5.9;31.8;2.4;2.9;84.1;2.6;5.9;43.8;1.120;0.46
+Washington Wizards;wsh;2021 - 2022 Regular Season;Home;Rui Hachimura;4.2;8.6;48.5;1.4;2.8;50.0;1.1;1.5;77.1;2.8;5.8;47.9;1.262;0.57
+Washington Wizards;wsh;2021 - 2022 Regular Season;Home;Daniel Gafford;3.9;5.5;71.2;0.0;0.0;0.0;1.4;2.0;72.5;3.9;5.4;71.6;1.686;0.71
+Washington Wizards;wsh;2021 - 2022 Regular Season;Home;Deni Avdija;3.3;7.4;44.9;1.0;3.2;31.6;1.4;1.9;75.3;2.3;4.2;55.2;1.226;0.52
+Washington Wizards;wsh;2021 - 2022 Regular Season;Home;Thomas Bryant;3.3;6.4;51.7;0.6;2.0;27.8;1.2;1.5;81.5;2.8;4.4;62.5;1.310;0.56
+Washington Wizards;wsh;2021 - 2022 Regular Season;Home;Raul Neto;3.3;6.4;51.6;0.6;1.9;28.8;1.1;1.4;73.5;2.7;4.4;61.6;1.286;0.56
+Washington Wizards;wsh;2021 - 2022 Regular Season;Home;Ish Smith;3.8;8.2;46.2;0.5;1.6;28.6;0.0;0.1;0.0;3.3;6.5;50.6;0.981;0.49
+Washington Wizards;wsh;2021 - 2022 Regular Season;Home;Corey Kispert;2.9;6.7;42.8;1.4;4.2;32.2;0.9;0.9;92.1;1.5;2.5;60.8;1.185;0.53
+Washington Wizards;wsh;2021 - 2022 Regular Season;Home;Brad Wanamaker;2.0;5.0;40.0;0.0;0.0;0.0;3.0;3.0;100.0;2.0;5.0;40.0;1.400;0.40
+Washington Wizards;wsh;2021 - 2022 Regular Season;Home;Aaron Holiday;2.6;5.6;47.4;0.5;1.9;28.1;0.9;1.2;80.0;2.1;3.7;57.1;1.211;0.52
+Washington Wizards;wsh;2021 - 2022 Regular Season;Home;Davis Bertans;2.1;5.6;37.8;1.8;4.7;37.3;0.8;0.8;92.3;0.4;0.9;40.0;1.200;0.53
+Washington Wizards;wsh;2021 - 2022 Regular Season;Home;Tomas Satoransky;1.8;3.5;51.4;0.3;1.0;30.0;1.1;1.3;84.6;1.5;2.5;60.0;1.429;0.56
+Washington Wizards;wsh;2021 - 2022 Regular Season;Home;Anthony Gill;1.5;2.3;64.7;0.3;0.5;50.0;0.8;1.1;72.0;1.2;1.8;69.2;1.765;0.71
+Washington Wizards;wsh;2021 - 2022 Regular Season;Home;Isaiah Todd;1.0;3.0;33.3;0.5;2.0;25.0;0.3;0.5;50.0;0.5;1.0;50.0;0.917;0.42
+Washington Wizards;wsh;2021 - 2022 Regular Season;Home;Cassius Winston;0.8;1.5;50.0;0.3;0.8;33.3;0.5;0.5;100.0;0.5;0.8;66.7;1.500;0.58
+Washington Wizards;wsh;2021 - 2022 Regular Season;Home;Tremont Waters;1.0;2.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;2.0;50.0;1.000;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;Home;Jordan Schakel;0.3;3.3;10.0;0.3;2.0;16.7;0.7;0.7;100.0;0.0;1.3;0.0;0.500;0.15
+Washington Wizards;wsh;2021 - 2022 Regular Season;Home;Joel Ayayi;0.3;2.0;16.7;0.0;0.3;0.0;0.0;0.0;0.0;0.3;1.7;20.0;0.333;0.17
+Washington Wizards;wsh;2021 - 2022 Regular Season;Home;Vernon Carey Jr.;0.0;0.0;0.0;0.0;0.0;0.0;0.5;1.0;50.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;Home;Craig Sword;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;Home;Alize Johnson;0.0;0.5;0.0;0.0;0.5;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;Home;Jordan Goodwin;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;Home;Jaime Echenique;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;Home;Total;41.5;86.8;47.8;10.8;31.4;34.3;18.1;23.0;78.8;30.7;55.4;55.5;1.289;0.54
+Washington Wizards;wsh;2021 - 2022 Regular Season;Away;Bradley Beal;8.7;19.0;45.6;1.7;5.5;30.2;3.8;4.8;79.2;7.0;13.5;51.9;1.201;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;Away;Kristaps Porzingis;7.1;14.9;47.7;1.9;5.1;37.3;5.1;5.4;94.4;5.2;9.8;53.1;1.423;0.54
+Washington Wizards;wsh;2021 - 2022 Regular Season;Away;Kyle Kuzma;6.3;14.2;44.1;2.3;6.4;36.3;1.9;2.6;71.3;3.9;7.8;50.6;1.179;0.52
+Washington Wizards;wsh;2021 - 2022 Regular Season;Away;Montrezl Harrell;5.3;8.2;64.9;0.1;0.1;66.7;2.4;3.5;67.9;5.2;8.0;64.9;1.601;0.65
+Washington Wizards;wsh;2021 - 2022 Regular Season;Away;Kentavious Caldwell-Pope;4.5;10.6;42.1;1.7;5.1;33.9;1.8;1.9;94.5;2.8;5.6;49.5;1.173;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;Away;Spencer Dinwiddie;4.0;10.6;37.3;1.3;4.4;29.9;2.9;3.6;78.8;2.6;6.2;42.6;1.142;0.44
+Washington Wizards;wsh;2021 - 2022 Regular Season;Away;Rui Hachimura;4.8;9.7;49.7;1.2;3.2;38.6;1.1;1.7;61.3;3.6;6.6;55.1;1.229;0.56
+Washington Wizards;wsh;2021 - 2022 Regular Season;Away;Vernon Carey Jr.;4.0;7.0;57.1;0.0;0.0;0.0;3.0;8.0;37.5;4.0;7.0;57.1;1.571;0.57
+Washington Wizards;wsh;2021 - 2022 Regular Season;Away;Daniel Gafford;4.0;5.9;67.7;0.0;0.0;0.0;1.5;2.3;67.9;4.0;5.9;67.7;1.614;0.68
+Washington Wizards;wsh;2021 - 2022 Regular Season;Away;Ish Smith;4.2;9.3;45.3;0.6;1.4;42.9;0.2;0.3;75.0;3.6;7.9;45.8;0.993;0.49
+Washington Wizards;wsh;2021 - 2022 Regular Season;Away;Corey Kispert;3.2;6.6;48.7;1.6;4.1;38.4;0.5;0.7;79.2;1.7;2.6;65.2;1.290;0.61
+Washington Wizards;wsh;2021 - 2022 Regular Season;Away;Deni Avdija;2.8;6.7;41.2;1.0;3.1;31.7;1.1;1.4;76.3;1.8;3.6;49.3;1.135;0.49
+Washington Wizards;wsh;2021 - 2022 Regular Season;Away;Raul Neto;2.6;6.2;41.1;0.4;1.5;29.6;1.3;1.6;79.7;2.1;4.7;44.7;1.103;0.45
+Washington Wizards;wsh;2021 - 2022 Regular Season;Away;Craig Sword;3.0;4.0;75.0;0.0;1.0;0.0;0.0;0.0;0.0;3.0;3.0;100.0;1.500;0.75
+Washington Wizards;wsh;2021 - 2022 Regular Season;Away;Aaron Holiday;2.3;5.0;46.2;0.6;1.5;40.0;0.5;0.6;80.0;1.7;3.5;48.8;1.143;0.52
+Washington Wizards;wsh;2021 - 2022 Regular Season;Away;Thomas Bryant;1.9;3.6;53.1;0.2;0.7;33.3;1.4;1.4;100.0;1.7;2.9;57.7;1.531;0.56
+Washington Wizards;wsh;2021 - 2022 Regular Season;Away;Davis Bertans;1.4;4.5;32.1;1.0;3.8;26.1;0.9;0.9;94.1;0.4;0.7;66.7;1.062;0.43
+Washington Wizards;wsh;2021 - 2022 Regular Season;Away;Tomas Satoransky;1.8;4.1;44.9;0.3;1.0;25.0;0.8;1.0;83.3;1.6;3.1;51.4;1.163;0.48
+Washington Wizards;wsh;2021 - 2022 Regular Season;Away;Anthony Gill;1.3;2.6;50.0;0.4;0.6;57.1;1.1;1.2;88.9;1.0;2.0;47.7;1.552;0.57
+Washington Wizards;wsh;2021 - 2022 Regular Season;Away;Greg Monroe;2.0;4.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;4.0;50.0;1.000;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;Away;Alize Johnson;2.0;5.0;40.0;0.0;1.0;0.0;0.0;1.0;0.0;2.0;4.0;50.0;0.800;0.40
+Washington Wizards;wsh;2021 - 2022 Regular Season;Away;Cassius Winston;0.3;1.7;20.0;0.3;1.0;33.3;0.7;0.7;100.0;0.0;0.7;0.0;1.000;0.30
+Washington Wizards;wsh;2021 - 2022 Regular Season;Away;Isaiah Todd;0.4;1.8;21.4;0.3;1.0;25.0;0.1;0.5;25.0;0.1;0.8;16.7;0.643;0.29
+Washington Wizards;wsh;2021 - 2022 Regular Season;Away;Jordan Goodwin;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;Away;Jordan Schakel;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;Away;Joel Ayayi;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;Away;Total;39.6;85.3;46.5;10.2;29.9;34.2;15.9;20.4;77.9;29.4;55.4;53.1;1.235;0.52
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Boston Celtics;Bradley Beal;8.7;24.7;35.1;1.0;5.7;17.6;5.7;5.7;100.0;7.7;19.0;40.4;0.973;0.37
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Boston Celtics;Kristaps Porzingis;5.0;15.0;33.3;2.0;3.0;66.7;5.0;5.0;100.0;3.0;12.0;25.0;1.133;0.40
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Boston Celtics;Ish Smith;8.0;10.0;80.0;0.0;0.0;0.0;0.0;0.0;0.0;8.0;10.0;80.0;1.600;0.80
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Boston Celtics;Montrezl Harrell;5.7;9.7;58.6;0.3;1.0;33.3;4.3;5.3;81.3;5.3;8.7;61.5;1.655;0.60
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Boston Celtics;Spencer Dinwiddie;5.0;15.3;32.6;1.0;6.3;15.8;4.3;4.7;92.9;4.0;9.0;44.4;1.000;0.36
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Boston Celtics;Kyle Kuzma;4.7;12.0;38.9;1.7;4.0;41.7;2.7;5.7;47.1;3.0;8.0;37.5;1.139;0.46
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Boston Celtics;Kentavious Caldwell-Pope;3.8;9.8;38.5;1.0;3.5;28.6;1.0;1.3;80.0;2.8;6.3;44.0;0.974;0.44
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Boston Celtics;Deni Avdija;3.3;5.5;59.1;1.0;1.8;57.1;1.0;1.5;66.7;2.3;3.8;60.0;1.545;0.68
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Boston Celtics;Tomas Satoransky;2.0;4.0;50.0;0.0;0.0;0.0;3.0;4.0;75.0;2.0;4.0;50.0;1.750;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Boston Celtics;Thomas Bryant;2.5;5.5;45.5;1.0;2.5;40.0;0.5;0.5;100.0;1.5;3.0;50.0;1.182;0.55
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Boston Celtics;Davis Bertans;2.0;6.0;33.3;1.3;5.0;26.7;0.3;0.3;100.0;0.7;1.0;66.7;0.944;0.44
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Boston Celtics;Aaron Holiday;2.3;4.0;58.3;0.7;1.3;50.0;0.3;0.3;100.0;1.7;2.7;62.5;1.417;0.67
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Boston Celtics;Daniel Gafford;2.0;2.7;75.0;0.0;0.0;0.0;0.7;1.7;40.0;2.0;2.7;75.0;1.750;0.75
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Boston Celtics;Anthony Gill;0.5;4.0;12.5;0.5;1.5;33.3;3.0;3.0;100.0;0.0;2.5;0.0;1.125;0.19
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Boston Celtics;Corey Kispert;1.3;2.8;45.5;0.5;1.3;40.0;0.8;0.8;100.0;0.8;1.5;50.0;1.364;0.55
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Boston Celtics;Rui Hachimura;1.5;6.0;25.0;0.5;2.5;20.0;0.0;0.0;0.0;1.0;3.5;28.6;0.583;0.29
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Boston Celtics;Raul Neto;1.3;2.7;50.0;0.3;1.3;25.0;0.0;0.0;0.0;1.0;1.3;75.0;1.125;0.56
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Boston Celtics;Total;38.0;90.8;41.9;8.8;29.0;30.2;20.3;25.3;80.2;29.3;61.8;47.4;1.157;0.47
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Brooklyn Nets;Bradley Beal;7.5;20.0;37.5;3.0;10.0;30.0;3.0;4.0;75.0;4.5;10.0;45.0;1.050;0.45
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Brooklyn Nets;Rui Hachimura;6.0;10.7;56.3;2.0;2.7;75.0;1.3;1.7;80.0;4.0;8.0;50.0;1.438;0.66
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Brooklyn Nets;Ish Smith;7.0;10.0;70.0;1.0;3.0;33.3;0.0;0.0;0.0;6.0;7.0;85.7;1.500;0.75
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Brooklyn Nets;Anthony Gill;5.0;7.0;71.4;1.0;1.5;66.7;2.5;4.0;62.5;4.0;5.5;72.7;1.929;0.79
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Brooklyn Nets;Montrezl Harrell;5.0;8.5;58.8;0.0;0.0;0.0;2.0;4.0;50.0;5.0;8.5;58.8;1.412;0.59
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Brooklyn Nets;Raul Neto;4.3;7.0;61.9;0.7;1.7;40.0;2.3;2.7;87.5;3.7;5.3;68.8;1.667;0.67
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Brooklyn Nets;Aaron Holiday;3.0;7.0;42.9;2.0;2.0;100.0;3.0;4.0;75.0;1.0;5.0;20.0;1.571;0.57
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Brooklyn Nets;Spencer Dinwiddie;3.0;12.0;25.0;1.5;6.0;25.0;3.0;3.0;100.0;1.5;6.0;25.0;0.875;0.31
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Brooklyn Nets;Kyle Kuzma;4.0;11.0;36.4;0.5;3.8;13.3;2.0;2.3;88.9;3.5;7.3;48.3;0.955;0.39
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Brooklyn Nets;Thomas Bryant;4.7;6.7;70.0;0.3;1.0;33.3;0.7;0.7;100.0;4.3;5.7;76.5;1.550;0.73
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Brooklyn Nets;Deni Avdija;3.3;8.5;38.2;1.3;4.0;31.3;2.5;2.5;100.0;2.0;4.5;44.4;1.206;0.46
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Brooklyn Nets;Kentavious Caldwell-Pope;3.8;9.0;41.7;1.0;3.8;26.7;1.5;1.5;100.0;2.8;5.3;52.4;1.111;0.47
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Brooklyn Nets;Daniel Gafford;3.0;5.3;56.3;0.0;0.0;0.0;2.7;3.3;80.0;3.0;5.3;56.3;1.625;0.56
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Brooklyn Nets;Corey Kispert;2.8;6.5;42.3;1.5;3.5;42.9;0.0;0.0;0.0;1.3;3.0;41.7;1.077;0.54
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Brooklyn Nets;Cassius Winston;2.0;3.0;66.7;1.0;2.0;50.0;0.0;0.0;0.0;1.0;1.0;100.0;1.667;0.83
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Brooklyn Nets;Isaiah Todd;1.0;2.0;50.0;1.0;2.0;50.0;1.0;2.0;50.0;0.0;0.0;0.0;2.000;0.75
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Brooklyn Nets;Davis Bertans;0.0;1.5;0.0;0.0;1.5;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Brooklyn Nets;Joel Ayayi;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Brooklyn Nets;Total;40.8;87.3;46.7;10.5;30.8;34.1;17.5;21.5;81.4;30.3;56.5;53.5;1.255;0.53
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. New York Knicks;Spencer Dinwiddie;7.0;14.0;50.0;3.0;7.0;42.9;4.0;10.0;40.0;4.0;7.0;57.1;1.500;0.61
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. New York Knicks;Kristaps Porzingis;5.0;9.0;55.6;2.0;5.0;40.0;6.0;6.0;100.0;3.0;4.0;75.0;2.000;0.67
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. New York Knicks;Kyle Kuzma;6.5;16.5;39.4;3.0;8.5;35.3;2.0;3.0;66.7;3.5;8.0;43.8;1.091;0.48
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. New York Knicks;Aaron Holiday;6.0;11.0;54.5;4.0;7.0;57.1;0.0;0.0;0.0;2.0;4.0;50.0;1.455;0.73
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. New York Knicks;Rui Hachimura;6.0;10.5;57.1;2.5;3.5;71.4;1.5;2.5;60.0;3.5;7.0;50.0;1.524;0.69
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. New York Knicks;Montrezl Harrell;6.0;7.0;85.7;0.0;0.0;0.0;3.0;3.0;100.0;6.0;7.0;85.7;2.143;0.86
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. New York Knicks;Corey Kispert;4.0;6.3;63.2;2.7;5.0;53.3;3.3;3.3;100.0;1.3;1.3;100.0;2.211;0.84
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. New York Knicks;Raul Neto;4.0;7.7;52.2;1.0;2.3;42.9;1.0;1.3;75.0;3.0;5.3;56.3;1.304;0.59
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. New York Knicks;Deni Avdija;3.7;8.0;45.8;0.7;3.3;20.0;1.7;2.7;62.5;3.0;4.7;64.3;1.208;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. New York Knicks;Kentavious Caldwell-Pope;4.0;9.0;44.4;1.0;5.0;20.0;0.0;0.0;0.0;3.0;4.0;75.0;1.000;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. New York Knicks;Daniel Gafford;2.7;2.7;100.0;0.0;0.0;0.0;3.0;3.7;81.8;2.7;2.7;100.0;3.125;1.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. New York Knicks;Ish Smith;2.5;7.0;35.7;0.5;1.5;33.3;0.0;0.0;0.0;2.0;5.5;36.4;0.786;0.39
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. New York Knicks;Jordan Schakel;1.0;4.0;25.0;1.0;3.0;33.3;2.0;2.0;100.0;0.0;1.0;0.0;1.250;0.38
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. New York Knicks;Davis Bertans;1.0;4.0;25.0;1.0;4.0;25.0;1.0;1.0;100.0;0.0;0.0;0.0;1.000;0.38
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. New York Knicks;Cassius Winston;1.0;2.0;50.0;0.0;0.0;0.0;2.0;2.0;100.0;1.0;2.0;50.0;2.000;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. New York Knicks;Isaiah Todd;2.0;6.0;33.3;0.0;3.0;0.0;0.0;0.0;0.0;2.0;3.0;66.7;0.667;0.33
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. New York Knicks;Tomas Satoransky;1.5;4.5;33.3;0.5;2.0;25.0;0.0;0.0;0.0;1.0;2.5;40.0;0.778;0.39
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. New York Knicks;Anthony Gill;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. New York Knicks;Vernon Carey Jr.;0.0;0.0;0.0;0.0;0.0;0.0;1.0;2.0;50.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. New York Knicks;Thomas Bryant;0.0;4.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. New York Knicks;Total;37.0;74.3;49.8;12.7;33.0;38.4;17.7;23.3;75.7;24.3;41.3;58.9;1.404;0.58
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Kyle Kuzma;6.7;14.3;46.5;2.0;4.3;46.2;1.7;3.3;50.0;4.7;10.0;46.7;1.186;0.53
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Montrezl Harrell;5.7;8.7;65.4;0.0;1.0;0.0;4.3;5.3;81.3;5.7;7.7;73.9;1.808;0.65
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Thomas Bryant;6.0;11.0;54.5;1.0;4.0;25.0;2.0;4.0;50.0;5.0;7.0;71.4;1.364;0.59
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Davis Bertans;4.0;10.0;40.0;4.0;9.0;44.4;2.0;2.0;100.0;0.0;1.0;0.0;1.400;0.60
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Bradley Beal;5.0;12.0;41.7;1.0;3.0;33.3;2.0;3.0;66.7;4.0;9.0;44.4;1.083;0.46
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Spencer Dinwiddie;3.7;11.3;32.4;1.3;4.3;30.8;4.0;6.0;66.7;2.3;7.0;33.3;1.118;0.38
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Rui Hachimura;3.5;6.0;58.3;1.0;1.5;66.7;3.0;3.0;100.0;2.5;4.5;55.6;1.833;0.67
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Corey Kispert;3.0;7.7;39.1;1.7;4.7;35.7;2.3;2.3;100.0;1.3;3.0;44.4;1.304;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Kentavious Caldwell-Pope;4.0;12.5;32.0;1.0;3.5;28.6;0.0;0.0;0.0;3.0;9.0;33.3;0.720;0.36
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Raul Neto;3.5;5.5;63.6;0.0;1.0;0.0;0.5;1.5;33.3;3.5;4.5;77.8;1.364;0.64
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Daniel Gafford;3.0;5.7;52.9;0.0;0.0;0.0;1.0;1.3;75.0;3.0;5.7;52.9;1.235;0.53
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Deni Avdija;2.7;6.3;42.1;0.3;2.7;12.5;0.7;1.3;50.0;2.3;3.7;63.6;1.000;0.45
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Aaron Holiday;1.3;3.3;40.0;0.0;1.0;0.0;0.7;0.7;100.0;1.3;2.3;57.1;1.000;0.40
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Anthony Gill;1.0;1.5;66.7;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.5;66.7;1.333;0.67
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Joel Ayayi;1.0;5.0;20.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;5.0;20.0;0.400;0.20
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Jordan Schakel;0.0;6.0;0.0;0.0;3.0;0.0;0.0;0.0;0.0;0.0;3.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Isaiah Todd;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Total;39.3;89.0;44.2;8.7;28.3;30.6;19.0;26.3;72.2;30.7;60.7;50.5;1.195;0.49
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Toronto Raptors;Bradley Beal;7.3;17.0;42.6;1.3;4.3;29.4;6.0;6.8;88.9;6.0;12.8;47.1;1.279;0.46
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Toronto Raptors;Montrezl Harrell;4.8;6.5;73.1;0.3;0.3;100.0;3.5;4.8;73.7;4.5;6.3;72.0;2.038;0.75
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Toronto Raptors;Spencer Dinwiddie;4.3;9.8;43.6;1.8;3.3;53.8;2.5;2.8;90.9;2.5;6.5;38.5;1.308;0.53
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Toronto Raptors;Kentavious Caldwell-Pope;4.5;9.3;48.6;1.8;5.0;35.0;1.5;1.5;100.0;2.8;4.3;64.7;1.324;0.58
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Toronto Raptors;Rui Hachimura;5.0;12.0;41.7;1.0;3.0;33.3;0.0;0.0;0.0;4.0;9.0;44.4;0.917;0.46
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Toronto Raptors;Raul Neto;3.3;5.8;56.5;1.0;2.0;50.0;0.8;1.0;75.0;2.3;3.8;60.0;1.435;0.65
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Toronto Raptors;Kyle Kuzma;3.0;11.3;26.5;1.0;6.3;15.8;0.3;0.7;50.0;2.0;5.0;40.0;0.647;0.31
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Toronto Raptors;Daniel Gafford;2.8;4.3;64.7;0.0;0.0;0.0;1.8;2.0;87.5;2.8;4.3;64.7;1.706;0.65
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Toronto Raptors;Deni Avdija;2.8;4.8;57.9;0.8;2.5;30.0;0.8;2.0;37.5;2.0;2.3;88.9;1.474;0.66
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Toronto Raptors;Anthony Gill;1.0;1.0;100.0;0.0;0.0;0.0;3.0;4.0;75.0;1.0;1.0;100.0;5.000;1.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Toronto Raptors;Thomas Bryant;2.0;6.0;33.3;0.0;2.0;0.0;1.0;2.0;50.0;2.0;4.0;50.0;0.833;0.33
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Toronto Raptors;Corey Kispert;1.3;3.7;36.4;0.3;2.7;12.5;0.3;0.7;50.0;1.0;1.0;100.0;0.909;0.41
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Toronto Raptors;Cassius Winston;0.0;1.0;0.0;0.0;1.0;0.0;2.0;2.0;100.0;0.0;0.0;0.0;2.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Toronto Raptors;Davis Bertans;0.7;4.7;14.3;0.0;4.0;0.0;0.0;0.0;0.0;0.7;0.7;100.0;0.286;0.14
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Toronto Raptors;Aaron Holiday;0.7;2.7;25.0;0.0;1.0;0.0;0.0;0.0;0.0;0.7;1.7;40.0;0.500;0.25
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Toronto Raptors;Joel Ayayi;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Toronto Raptors;Isaiah Todd;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Toronto Raptors;Total;35.8;79.3;45.1;8.0;29.3;27.4;18.8;23.8;78.9;27.8;50.0;55.5;1.240;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Chicago Bulls;Bradley Beal;8.5;17.0;50.0;1.0;4.0;25.0;8.5;9.5;89.5;7.5;13.0;57.7;1.559;0.53
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Chicago Bulls;Kyle Kuzma;9.5;17.5;54.3;1.0;4.5;22.2;5.0;6.5;76.9;8.5;13.0;65.4;1.429;0.57
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Chicago Bulls;Rui Hachimura;8.0;10.0;80.0;2.0;3.0;66.7;3.0;4.0;75.0;6.0;7.0;85.7;2.100;0.90
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Chicago Bulls;Spencer Dinwiddie;4.0;9.0;44.4;1.0;3.0;33.3;9.0;9.0;100.0;3.0;6.0;50.0;2.000;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Chicago Bulls;Kentavious Caldwell-Pope;6.3;12.7;50.0;2.0;5.3;37.5;1.0;1.3;75.0;4.3;7.3;59.1;1.237;0.58
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Chicago Bulls;Kristaps Porzingis;6.0;14.0;42.9;0.0;3.0;0.0;2.0;2.0;100.0;6.0;11.0;54.5;1.000;0.43
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Chicago Bulls;Daniel Gafford;5.7;8.0;70.8;0.0;0.3;0.0;0.3;1.3;25.0;5.7;7.7;73.9;1.458;0.71
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Chicago Bulls;Deni Avdija;4.3;8.7;50.0;1.0;4.3;23.1;1.0;1.0;100.0;3.3;4.3;76.9;1.231;0.56
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Chicago Bulls;Corey Kispert;3.7;9.3;39.3;0.7;4.7;14.3;1.7;1.7;100.0;3.0;4.7;64.3;1.036;0.43
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Chicago Bulls;Greg Monroe;4.0;7.0;57.1;0.0;0.0;0.0;0.0;0.0;0.0;4.0;7.0;57.1;1.143;0.57
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Chicago Bulls;Ish Smith;4.0;10.0;40.0;0.0;2.0;0.0;0.0;0.0;0.0;4.0;8.0;50.0;0.800;0.40
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Chicago Bulls;Anthony Gill;1.5;3.5;42.9;0.5;1.5;33.3;2.0;2.0;100.0;1.0;2.0;50.0;1.571;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Chicago Bulls;Tomas Satoransky;1.0;4.0;25.0;0.0;1.0;0.0;1.0;2.0;50.0;1.0;3.0;33.3;0.750;0.25
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Chicago Bulls;Aaron Holiday;1.0;4.0;25.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;4.0;25.0;0.500;0.25
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Chicago Bulls;Tremont Waters;1.0;2.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;2.0;50.0;1.000;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Chicago Bulls;Isaiah Todd;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Chicago Bulls;Raul Neto;0.0;0.5;0.0;0.0;0.5;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Chicago Bulls;Alize Johnson;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Chicago Bulls;Total;43.0;84.7;50.8;6.3;25.7;24.7;19.3;23.0;84.1;36.7;59.0;62.1;1.319;0.55
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Kyle Kuzma;9.0;15.8;57.1;4.3;7.5;56.7;1.0;1.8;57.1;4.8;8.3;57.6;1.476;0.71
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Bradley Beal;7.7;19.7;39.0;1.0;4.3;23.1;3.0;3.7;81.8;6.7;15.3;43.5;0.983;0.42
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Montrezl Harrell;5.0;8.0;62.5;0.0;0.5;0.0;4.5;5.0;90.0;5.0;7.5;66.7;1.813;0.63
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Rui Hachimura;4.0;8.0;50.0;2.0;2.0;100.0;0.0;0.0;0.0;2.0;6.0;33.3;1.250;0.63
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Kentavious Caldwell-Pope;2.8;8.5;32.4;1.0;4.0;25.0;2.0;2.0;100.0;1.8;4.5;38.9;1.000;0.38
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Daniel Gafford;4.0;5.8;69.6;0.0;0.0;0.0;0.3;0.8;33.3;4.0;5.8;69.6;1.435;0.70
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Davis Bertans;3.0;6.0;50.0;2.0;4.0;50.0;0.0;1.0;0.0;1.0;2.0;50.0;1.333;0.67
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Spencer Dinwiddie;3.0;8.5;35.3;1.0;4.5;22.2;1.0;1.0;100.0;2.0;4.0;50.0;0.941;0.41
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Raul Neto;3.7;8.0;45.8;0.7;1.3;50.0;0.0;0.0;0.0;3.0;6.7;45.0;1.000;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Deni Avdija;2.8;6.5;42.3;1.0;3.3;30.8;0.8;0.8;100.0;1.8;3.3;53.8;1.115;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Brad Wanamaker;2.0;5.0;40.0;0.0;0.0;0.0;3.0;3.0;100.0;2.0;5.0;40.0;1.400;0.40
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Aaron Holiday;2.5;4.5;55.6;0.5;0.5;100.0;1.0;1.0;100.0;2.0;4.0;50.0;1.444;0.61
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Ish Smith;2.0;10.0;20.0;1.0;2.0;50.0;0.0;0.0;0.0;1.0;8.0;12.5;0.500;0.25
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Anthony Gill;1.5;2.5;60.0;0.5;1.0;50.0;1.5;2.0;75.0;1.0;1.5;66.7;2.000;0.70
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Corey Kispert;2.0;6.0;33.3;0.3;2.8;9.1;0.8;0.8;100.0;1.8;3.3;53.8;0.833;0.35
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Thomas Bryant;2.0;4.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;4.0;50.0;1.000;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Isaiah Todd;0.0;2.0;0.0;0.0;1.0;0.0;1.0;2.0;50.0;0.0;1.0;0.0;0.500;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Craig Sword;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Jordan Goodwin;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Jordan Schakel;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Joel Ayayi;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Jaime Echenique;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Total;38.3;84.3;45.4;10.0;27.8;36.0;12.0;14.8;81.4;28.3;56.5;50.0;1.169;0.51
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Detroit Pistons;Kristaps Porzingis;11.0;22.0;50.0;3.0;8.0;37.5;5.0;7.0;71.4;8.0;14.0;57.1;1.364;0.57
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Detroit Pistons;Bradley Beal;10.0;19.0;52.6;0.0;2.0;0.0;5.0;8.0;62.5;10.0;17.0;58.8;1.316;0.53
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Detroit Pistons;Kyle Kuzma;8.3;17.0;49.0;2.0;6.3;31.6;4.7;5.3;87.5;6.3;10.7;59.4;1.373;0.55
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Detroit Pistons;Kentavious Caldwell-Pope;4.5;12.5;36.0;2.5;5.3;47.6;1.5;1.5;100.0;2.0;7.3;27.6;1.040;0.46
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Detroit Pistons;Spencer Dinwiddie;3.0;9.0;33.3;2.0;5.0;40.0;4.0;4.0;100.0;1.0;4.0;25.0;1.333;0.44
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Detroit Pistons;Raul Neto;4.7;8.7;53.8;0.3;2.3;14.3;1.7;2.3;71.4;4.3;6.3;68.4;1.308;0.56
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Detroit Pistons;Thomas Bryant;3.3;6.3;52.6;0.7;1.3;50.0;4.0;4.0;100.0;2.7;5.0;53.3;1.789;0.58
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Detroit Pistons;Deni Avdija;3.8;9.0;41.7;1.5;3.8;40.0;2.3;2.5;90.0;2.3;5.3;42.9;1.250;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Detroit Pistons;Daniel Gafford;3.5;5.0;70.0;0.0;0.0;0.0;2.5;4.5;55.6;3.5;5.0;70.0;1.900;0.70
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Detroit Pistons;Rui Hachimura;3.3;8.3;40.0;1.7;3.7;45.5;1.0;1.3;75.0;1.7;4.7;35.7;1.120;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Detroit Pistons;Corey Kispert;3.7;9.3;39.3;2.0;6.7;30.0;0.0;0.3;0.0;1.7;2.7;62.5;1.000;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Detroit Pistons;Ish Smith;4.0;7.3;54.5;0.3;1.0;33.3;0.0;0.0;0.0;3.7;6.3;57.9;1.136;0.57
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Detroit Pistons;Davis Bertans;1.0;1.0;100.0;1.0;1.0;100.0;3.0;3.0;100.0;0.0;0.0;0.0;6.000;1.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Detroit Pistons;Tomas Satoransky;1.5;2.5;60.0;0.0;0.0;0.0;2.0;2.0;100.0;1.5;2.5;60.0;2.000;0.60
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Detroit Pistons;Montrezl Harrell;2.0;5.0;40.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;5.0;40.0;0.800;0.40
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Detroit Pistons;Anthony Gill;1.5;2.3;66.7;0.0;0.3;0.0;0.5;0.5;100.0;1.5;2.0;75.0;1.556;0.67
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Detroit Pistons;Aaron Holiday;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Detroit Pistons;Total;39.8;84.5;47.0;10.8;29.3;36.8;19.3;23.3;82.8;29.0;55.3;52.5;1.296;0.53
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Indiana Pacers;Bradley Beal;12.0;19.0;63.2;1.0;3.0;33.3;9.0;10.0;90.0;11.0;16.0;68.8;1.789;0.66
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Indiana Pacers;Spencer Dinwiddie;13.0;24.0;54.2;6.0;9.0;66.7;2.0;2.0;100.0;7.0;15.0;46.7;1.417;0.67
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Indiana Pacers;Kristaps Porzingis;7.0;12.0;58.3;3.0;4.0;75.0;8.0;10.0;80.0;4.0;8.0;50.0;2.083;0.71
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Indiana Pacers;Kyle Kuzma;8.3;18.3;45.2;3.8;7.8;48.4;2.0;2.8;72.7;4.5;10.5;42.9;1.219;0.55
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Indiana Pacers;Kentavious Caldwell-Pope;4.8;11.5;41.3;3.0;6.0;50.0;2.8;3.0;91.7;1.8;5.5;31.8;1.326;0.54
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Indiana Pacers;Montrezl Harrell;4.0;7.0;57.1;0.0;0.0;0.0;4.5;5.0;90.0;4.0;7.0;57.1;1.786;0.57
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Indiana Pacers;Ish Smith;5.5;8.5;64.7;0.5;1.5;33.3;0.0;0.0;0.0;5.0;7.0;71.4;1.353;0.68
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Indiana Pacers;Daniel Gafford;5.3;6.7;80.0;0.0;0.0;0.0;0.0;0.3;0.0;5.3;6.7;80.0;1.600;0.80
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Indiana Pacers;Tomas Satoransky;3.0;4.0;75.0;1.0;2.0;50.0;3.0;3.0;100.0;2.0;2.0;100.0;2.500;0.88
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Indiana Pacers;Raul Neto;3.3;6.5;50.0;1.0;2.0;50.0;2.3;2.5;90.0;2.3;4.5;50.0;1.500;0.58
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Indiana Pacers;Aaron Holiday;3.5;7.5;46.7;0.5;2.0;25.0;1.5;2.0;75.0;3.0;5.5;54.5;1.200;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Indiana Pacers;Davis Bertans;2.5;7.0;35.7;2.0;5.0;40.0;1.5;1.5;100.0;0.5;2.0;25.0;1.214;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Indiana Pacers;Corey Kispert;3.0;6.0;50.0;1.5;3.8;40.0;0.0;0.0;0.0;1.5;2.3;66.7;1.250;0.63
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Indiana Pacers;Deni Avdija;2.5;6.5;38.5;0.5;2.3;22.2;1.5;1.5;100.0;2.0;4.3;47.1;1.077;0.42
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Indiana Pacers;Thomas Bryant;2.0;3.0;66.7;0.0;1.0;0.0;0.0;0.0;0.0;2.0;2.0;100.0;1.333;0.67
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Indiana Pacers;Anthony Gill;1.0;2.3;42.9;0.7;1.0;66.7;1.0;1.3;75.0;0.3;1.3;25.0;1.571;0.57
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Indiana Pacers;Cassius Winston;1.0;1.0;100.0;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;3.000;1.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Indiana Pacers;Rui Hachimura;1.0;5.0;20.0;1.0;4.0;25.0;0.0;0.0;0.0;0.0;1.0;0.0;0.600;0.30
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Indiana Pacers;Isaiah Todd;0.0;2.0;0.0;0.0;1.0;0.0;0.0;2.0;0.0;0.0;1.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Indiana Pacers;Total;44.0;88.0;50.0;15.0;33.0;45.5;18.5;22.0;84.1;29.0;55.0;52.7;1.381;0.59
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Bradley Beal;14.0;22.0;63.6;2.0;3.0;66.7;0.0;1.0;0.0;12.0;19.0;63.2;1.364;0.68
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Kyle Kuzma;7.5;15.0;50.0;3.0;8.0;37.5;2.0;3.0;66.7;4.5;7.0;64.3;1.333;0.60
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Montrezl Harrell;7.0;11.0;63.6;0.0;0.5;0.0;3.5;4.5;77.8;7.0;10.5;66.7;1.591;0.64
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Ish Smith;8.0;14.0;57.1;1.0;3.0;33.3;0.0;0.0;0.0;7.0;11.0;63.6;1.214;0.61
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Kristaps Porzingis;6.0;12.0;50.0;2.0;6.0;33.3;2.0;2.0;100.0;4.0;6.0;66.7;1.333;0.58
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Kentavious Caldwell-Pope;3.7;11.0;33.3;1.7;5.3;31.3;2.0;2.7;75.0;2.0;5.7;35.3;1.000;0.41
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Anthony Gill;4.0;4.0;100.0;1.0;1.0;100.0;0.0;0.0;0.0;3.0;3.0;100.0;2.250;1.13
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Rui Hachimura;4.0;8.0;50.0;0.5;3.0;16.7;0.5;2.0;25.0;3.5;5.0;70.0;1.125;0.53
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Deni Avdija;2.7;6.7;40.0;1.3;3.7;36.4;0.3;0.3;100.0;1.3;3.0;44.4;1.050;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Spencer Dinwiddie;2.0;8.5;23.5;2.0;6.0;33.3;0.5;1.0;50.0;0.0;2.5;0.0;0.765;0.35
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Daniel Gafford;3.0;3.7;81.8;0.0;0.0;0.0;0.3;1.0;33.3;3.0;3.7;81.8;1.727;0.82
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Corey Kispert;2.3;6.0;38.9;1.0;3.7;27.3;0.0;0.0;0.0;1.3;2.3;57.1;0.944;0.47
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Raul Neto;2.3;6.3;36.8;0.7;2.0;33.3;0.0;0.0;0.0;1.7;4.3;38.5;0.842;0.42
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Aaron Holiday;1.5;5.0;30.0;1.0;3.0;33.3;1.0;2.0;50.0;0.5;2.0;25.0;1.000;0.40
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Thomas Bryant;1.0;2.0;50.0;1.0;1.0;100.0;2.0;2.0;100.0;0.0;1.0;0.0;2.500;0.75
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Tomas Satoransky;1.0;5.0;20.0;0.0;1.0;0.0;0.0;0.0;0.0;1.0;4.0;25.0;0.400;0.20
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Total;40.0;85.0;47.1;11.3;33.3;34.0;9.0;14.0;64.3;28.7;51.7;55.5;1.180;0.54
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Atlanta Hawks;Kristaps Porzingis;8.0;16.0;50.0;4.0;8.0;50.0;6.0;7.0;85.7;4.0;8.0;50.0;1.625;0.63
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Atlanta Hawks;Bradley Beal;10.5;23.5;44.7;2.0;7.5;26.7;2.5;2.5;100.0;8.5;16.0;53.1;1.085;0.49
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Atlanta Hawks;Kyle Kuzma;8.0;17.7;45.3;2.0;7.0;28.6;2.3;3.3;70.0;6.0;10.7;56.3;1.151;0.51
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Atlanta Hawks;Montrezl Harrell;6.5;11.5;56.5;0.0;1.0;0.0;6.0;6.0;100.0;6.5;10.5;61.9;1.652;0.57
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Atlanta Hawks;Kentavious Caldwell-Pope;6.3;10.0;62.5;3.5;5.5;63.6;1.3;1.8;71.4;2.8;4.5;61.1;1.725;0.80
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Atlanta Hawks;Spencer Dinwiddie;5.0;11.0;45.5;1.0;5.0;20.0;3.0;3.0;100.0;4.0;6.0;66.7;1.273;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Atlanta Hawks;Rui Hachimura;5.5;11.0;50.0;1.5;4.5;33.3;1.5;2.0;75.0;4.0;6.5;61.5;1.273;0.57
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Atlanta Hawks;Deni Avdija;3.0;7.0;42.9;1.5;4.3;35.3;0.5;0.5;100.0;1.5;2.8;54.5;1.143;0.54
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Atlanta Hawks;Thomas Bryant;3.5;5.0;70.0;0.0;1.0;0.0;0.0;0.0;0.0;3.5;4.0;87.5;1.400;0.70
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Atlanta Hawks;Daniel Gafford;3.0;5.3;56.3;0.0;0.0;0.0;0.7;0.7;100.0;3.0;5.3;56.3;1.250;0.56
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Atlanta Hawks;Ish Smith;3.0;8.0;37.5;0.5;1.0;50.0;0.0;0.0;0.0;2.5;7.0;35.7;0.813;0.41
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Atlanta Hawks;Corey Kispert;2.8;6.5;42.3;1.0;3.8;26.7;0.0;0.0;0.0;1.8;2.8;63.6;1.000;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Atlanta Hawks;Davis Bertans;1.5;3.5;42.9;1.5;3.0;50.0;1.5;1.5;100.0;0.0;0.5;0.0;1.714;0.64
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Atlanta Hawks;Aaron Holiday;2.5;4.0;62.5;1.0;1.5;66.7;0.0;0.0;0.0;1.5;2.5;60.0;1.500;0.75
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Atlanta Hawks;Raul Neto;2.3;6.0;37.5;0.3;2.0;12.5;0.5;0.5;100.0;2.0;4.0;50.0;0.875;0.40
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Atlanta Hawks;Tomas Satoransky;2.0;3.0;66.7;0.5;1.0;50.0;0.0;0.0;0.0;1.5;2.0;75.0;1.500;0.75
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Atlanta Hawks;Anthony Gill;2.0;3.0;66.7;0.0;0.0;0.0;0.0;0.0;0.0;2.0;3.0;66.7;1.333;0.67
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Atlanta Hawks;Total;43.8;89.0;49.2;12.5;34.3;36.5;12.5;14.3;87.7;31.3;54.8;57.1;1.264;0.56
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Charlotte Hornets;Bradley Beal;8.3;20.0;41.7;3.3;8.7;38.5;5.7;6.0;94.4;5.0;11.3;44.1;1.283;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Charlotte Hornets;Rui Hachimura;9.0;19.0;47.4;1.0;4.0;25.0;2.0;2.0;100.0;8.0;15.0;53.3;1.105;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Charlotte Hornets;Montrezl Harrell;8.0;11.0;72.7;0.0;0.0;0.0;3.5;4.0;87.5;8.0;11.0;72.7;1.773;0.73
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Charlotte Hornets;Kyle Kuzma;6.7;16.7;40.0;2.7;7.7;34.8;1.3;1.3;100.0;4.0;9.0;44.4;1.040;0.48
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Charlotte Hornets;Davis Bertans;4.0;8.0;50.0;4.0;7.0;57.1;2.0;2.0;100.0;0.0;1.0;0.0;1.750;0.75
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Charlotte Hornets;Daniel Gafford;5.5;8.8;62.9;0.0;0.0;0.0;3.0;5.8;52.2;5.5;8.8;62.9;1.600;0.63
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Charlotte Hornets;Vernon Carey Jr.;4.0;7.0;57.1;0.0;0.0;0.0;3.0;8.0;37.5;4.0;7.0;57.1;1.571;0.57
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Charlotte Hornets;Corey Kispert;3.5;6.5;53.8;1.5;4.0;37.5;1.5;1.5;100.0;2.0;2.5;80.0;1.538;0.65
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Charlotte Hornets;Deni Avdija;2.5;8.3;30.3;1.0;4.5;22.2;2.5;2.8;90.9;1.5;3.8;40.0;1.030;0.36
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Charlotte Hornets;Kentavious Caldwell-Pope;2.3;9.0;25.9;0.7;5.3;12.5;3.0;3.7;81.8;1.7;3.7;45.5;0.926;0.30
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Charlotte Hornets;Ish Smith;4.0;9.0;44.4;0.0;0.0;0.0;0.0;0.0;0.0;4.0;9.0;44.4;0.889;0.44
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Charlotte Hornets;Tomas Satoransky;2.0;3.0;66.7;1.0;1.0;100.0;0.0;0.0;0.0;1.0;2.0;50.0;1.667;0.83
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Charlotte Hornets;Raul Neto;2.0;5.7;35.3;0.0;1.3;0.0;1.0;1.0;100.0;2.0;4.3;46.2;0.882;0.35
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Charlotte Hornets;Anthony Gill;1.5;5.0;30.0;0.5;1.0;50.0;1.0;1.0;100.0;1.0;4.0;25.0;0.900;0.35
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Charlotte Hornets;Spencer Dinwiddie;1.0;8.5;11.8;1.0;6.0;16.7;1.0;1.0;100.0;0.0;2.5;0.0;0.471;0.18
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Charlotte Hornets;Aaron Holiday;1.5;6.5;23.1;1.0;3.5;28.6;0.0;0.0;0.0;0.5;3.0;16.7;0.615;0.31
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Charlotte Hornets;Cassius Winston;0.0;3.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Charlotte Hornets;Alize Johnson;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Charlotte Hornets;Jordan Schakel;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Charlotte Hornets;Joel Ayayi;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Charlotte Hornets;Isaiah Todd;0.0;2.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Charlotte Hornets;Total;37.8;91.3;41.4;10.3;35.0;29.3;19.8;25.0;79.0;27.5;56.3;48.9;1.156;0.47
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Miami Heat;Bradley Beal;9.5;17.5;54.3;2.0;7.5;26.7;4.5;5.0;90.0;7.5;10.0;75.0;1.457;0.60
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Miami Heat;Kyle Kuzma;5.0;11.3;44.4;1.8;5.3;33.3;3.0;3.8;80.0;3.3;6.0;54.2;1.311;0.52
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Miami Heat;Spencer Dinwiddie;5.3;11.0;48.5;2.7;6.0;44.4;1.3;1.7;80.0;2.7;5.0;53.3;1.333;0.61
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Miami Heat;Corey Kispert;5.0;10.5;47.6;2.3;6.3;36.0;0.8;0.8;100.0;2.8;4.3;64.7;1.238;0.58
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Miami Heat;Montrezl Harrell;5.0;7.3;68.2;0.0;0.0;0.0;2.7;3.0;88.9;5.0;7.3;68.2;1.727;0.68
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Miami Heat;Kentavious Caldwell-Pope;3.7;9.3;39.3;2.7;6.0;44.4;1.0;1.0;100.0;1.0;3.3;30.0;1.179;0.54
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Miami Heat;Rui Hachimura;4.0;10.0;40.0;2.0;3.0;66.7;1.0;1.0;100.0;2.0;7.0;28.6;1.100;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Miami Heat;Daniel Gafford;5.0;5.0;100.0;0.0;0.0;0.0;1.0;1.0;100.0;5.0;5.0;100.0;2.200;1.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Miami Heat;Davis Bertans;4.0;7.0;57.1;2.5;5.5;45.5;0.0;0.0;0.0;1.5;1.5;100.0;1.500;0.75
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Miami Heat;Thomas Bryant;3.0;5.0;60.0;0.0;2.0;0.0;2.0;2.0;100.0;3.0;3.0;100.0;1.600;0.60
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Miami Heat;Aaron Holiday;3.0;7.7;39.1;0.3;2.7;12.5;1.0;1.3;75.0;2.7;5.0;53.3;0.957;0.41
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Miami Heat;Deni Avdija;2.0;4.8;42.1;1.3;2.3;55.6;1.3;1.5;83.3;0.8;2.5;30.0;1.368;0.55
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Miami Heat;Craig Sword;3.0;4.0;75.0;0.0;1.0;0.0;0.0;0.0;0.0;3.0;3.0;100.0;1.500;0.75
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Miami Heat;Alize Johnson;2.0;5.0;40.0;0.0;1.0;0.0;0.0;1.0;0.0;2.0;4.0;50.0;0.800;0.40
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Miami Heat;Raul Neto;0.7;4.0;16.7;0.0;1.3;0.0;2.0;3.0;66.7;0.7;2.7;25.0;0.833;0.17
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Miami Heat;Isaiah Todd;0.5;2.0;25.0;0.5;1.5;33.3;0.0;0.0;0.0;0.0;0.5;0.0;0.750;0.38
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Miami Heat;Anthony Gill;0.5;1.5;33.3;0.0;0.0;0.0;0.0;0.0;0.0;0.5;1.5;33.3;0.667;0.33
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Miami Heat;Jordan Goodwin;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Miami Heat;Joel Ayayi;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Miami Heat;Total;38.0;79.0;48.1;12.5;34.8;36.0;14.5;17.5;82.9;25.5;44.3;57.6;1.304;0.56
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Orlando Magic;Kristaps Porzingis;11.0;18.0;61.1;3.0;6.0;50.0;10.0;13.0;76.9;8.0;12.0;66.7;1.944;0.69
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Orlando Magic;Kyle Kuzma;7.7;14.7;52.3;2.7;6.3;42.1;3.0;4.7;64.3;5.0;8.3;60.0;1.432;0.61
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Orlando Magic;Bradley Beal;7.0;22.0;31.8;3.0;7.0;42.9;3.0;4.0;75.0;4.0;15.0;26.7;0.909;0.39
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Orlando Magic;Montrezl Harrell;7.5;10.5;71.4;0.0;0.0;0.0;3.0;3.5;85.7;7.5;10.5;71.4;1.714;0.71
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Orlando Magic;Spencer Dinwiddie;6.3;13.3;47.5;1.7;6.0;27.8;1.7;2.0;83.3;4.7;7.3;63.6;1.200;0.54
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Orlando Magic;Kentavious Caldwell-Pope;5.5;12.5;44.0;3.0;7.3;41.4;1.3;1.5;83.3;2.5;5.3;47.6;1.220;0.56
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Orlando Magic;Aaron Holiday;5.0;9.0;55.6;1.0;1.0;100.0;0.0;0.0;0.0;4.0;8.0;50.0;1.222;0.61
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Orlando Magic;Daniel Gafford;4.3;5.3;81.0;0.0;0.0;0.0;1.8;2.0;87.5;4.3;5.3;81.0;1.952;0.81
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Orlando Magic;Rui Hachimura;3.3;9.3;35.7;0.3;3.0;11.1;1.7;2.3;71.4;3.0;6.3;47.4;0.929;0.38
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Orlando Magic;Ish Smith;3.0;6.0;50.0;1.0;3.0;33.3;0.0;0.0;0.0;2.0;3.0;66.7;1.167;0.58
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Orlando Magic;Raul Neto;2.8;6.8;40.7;0.3;1.5;16.7;1.3;1.3;100.0;2.5;5.3;47.6;1.037;0.43
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Orlando Magic;Thomas Bryant;2.0;2.0;100.0;1.0;1.0;100.0;1.0;2.0;50.0;1.0;1.0;100.0;3.000;1.25
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Orlando Magic;Corey Kispert;2.0;5.0;40.0;1.3;3.5;35.7;0.8;0.8;100.0;0.8;1.5;50.0;1.200;0.53
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Orlando Magic;Deni Avdija;2.3;5.3;42.9;0.8;2.5;30.0;0.5;0.8;66.7;1.5;2.8;54.5;1.095;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Orlando Magic;Anthony Gill;2.0;3.5;57.1;0.0;0.0;0.0;0.5;1.0;50.0;2.0;3.5;57.1;1.286;0.57
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Orlando Magic;Davis Bertans;1.0;3.5;28.6;1.0;3.5;28.6;0.5;0.5;100.0;0.0;0.0;0.0;1.000;0.43
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Orlando Magic;Greg Monroe;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Orlando Magic;Tomas Satoransky;0.0;2.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Orlando Magic;Total;42.0;86.5;48.6;11.5;32.8;35.1;15.8;20.3;77.8;30.5;53.8;56.7;1.286;0.55
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Denver Nuggets;Davis Bertans;8.0;13.0;61.5;5.0;9.0;55.6;0.0;0.0;0.0;3.0;4.0;75.0;1.615;0.81
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Denver Nuggets;Bradley Beal;8.0;19.0;42.1;2.0;5.0;40.0;1.0;3.0;33.3;6.0;14.0;42.9;1.000;0.47
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Denver Nuggets;Aaron Holiday;6.0;8.0;75.0;1.0;1.0;100.0;5.0;6.0;83.3;5.0;7.0;71.4;2.250;0.81
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Denver Nuggets;Kristaps Porzingis;5.0;10.0;50.0;0.0;2.0;0.0;6.0;9.0;66.7;5.0;8.0;62.5;1.600;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Denver Nuggets;Kentavious Caldwell-Pope;4.5;13.0;34.6;2.5;7.5;33.3;1.0;2.0;50.0;2.0;5.5;36.4;0.962;0.44
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Denver Nuggets;Rui Hachimura;6.0;15.0;40.0;0.0;5.0;0.0;0.0;0.0;0.0;6.0;10.0;60.0;0.800;0.40
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Denver Nuggets;Deni Avdija;4.5;8.5;52.9;0.0;2.5;0.0;2.5;3.0;83.3;4.5;6.0;75.0;1.353;0.53
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Denver Nuggets;Corey Kispert;3.5;6.5;53.8;1.5;3.5;42.9;1.0;2.0;50.0;2.0;3.0;66.7;1.462;0.65
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Denver Nuggets;Spencer Dinwiddie;3.0;8.0;37.5;0.0;2.0;0.0;3.0;5.0;60.0;3.0;6.0;50.0;1.125;0.38
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Denver Nuggets;Thomas Bryant;3.0;4.0;75.0;0.0;1.0;0.0;3.0;4.0;75.0;3.0;3.0;100.0;2.250;0.75
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Denver Nuggets;Montrezl Harrell;4.0;7.0;57.1;0.0;0.0;0.0;0.0;2.0;0.0;4.0;7.0;57.1;1.143;0.57
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Denver Nuggets;Ish Smith;3.0;12.0;25.0;1.0;1.0;100.0;0.0;0.0;0.0;2.0;11.0;18.2;0.583;0.29
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Denver Nuggets;Daniel Gafford;2.0;4.0;50.0;0.0;0.0;0.0;2.5;3.0;83.3;2.0;4.0;50.0;1.625;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Denver Nuggets;Kyle Kuzma;3.0;10.0;30.0;0.0;3.0;0.0;0.0;0.0;0.0;3.0;7.0;42.9;0.600;0.30
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Denver Nuggets;Raul Neto;1.5;3.0;50.0;0.0;0.5;0.0;1.5;1.5;100.0;1.5;2.5;60.0;1.500;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Denver Nuggets;Tomas Satoransky;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Denver Nuggets;Anthony Gill;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Denver Nuggets;Total;41.0;88.5;46.3;8.5;28.5;29.8;17.5;26.0;67.3;32.5;60.0;54.2;1.220;0.51
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Montrezl Harrell;11.0;12.0;91.7;0.0;0.0;0.0;5.0;8.0;62.5;11.0;12.0;91.7;2.250;0.92
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Kristaps Porzingis;11.0;17.0;64.7;3.0;5.0;60.0;0.0;0.0;0.0;8.0;12.0;66.7;1.471;0.74
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Rui Hachimura;8.0;15.0;53.3;3.0;4.0;75.0;2.0;6.0;33.3;5.0;11.0;45.5;1.400;0.63
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Daniel Gafford;8.5;11.0;77.3;0.0;0.0;0.0;4.0;4.5;88.9;8.5;11.0;77.3;1.909;0.77
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Bradley Beal;8.0;20.0;40.0;1.0;5.0;20.0;2.0;4.0;50.0;7.0;15.0;46.7;0.950;0.43
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Davis Bertans;5.0;6.0;83.3;3.0;4.0;75.0;2.0;2.0;100.0;2.0;2.0;100.0;2.500;1.08
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Kentavious Caldwell-Pope;5.5;12.5;44.0;2.0;5.5;36.4;0.5;0.5;100.0;3.5;7.0;50.0;1.080;0.52
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Deni Avdija;5.5;11.5;47.8;1.5;5.5;27.3;0.5;1.5;33.3;4.0;6.0;66.7;1.130;0.54
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Ish Smith;5.0;14.0;35.7;1.0;2.0;50.0;0.0;0.0;0.0;4.0;12.0;33.3;0.786;0.39
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Tomas Satoransky;4.0;7.0;57.1;0.0;1.0;0.0;0.0;0.0;0.0;4.0;6.0;66.7;1.143;0.57
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Corey Kispert;3.0;6.5;46.2;1.5;4.0;37.5;0.0;0.0;0.0;1.5;2.5;60.0;1.154;0.58
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Kyle Kuzma;2.0;6.0;33.3;1.0;3.0;33.3;0.0;0.0;0.0;1.0;3.0;33.3;0.833;0.42
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Spencer Dinwiddie;1.0;9.0;11.1;1.0;7.0;14.3;0.0;0.0;0.0;0.0;2.0;0.0;0.333;0.17
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Raul Neto;1.0;3.0;33.3;0.0;1.0;0.0;1.0;2.0;50.0;1.0;2.0;50.0;1.000;0.33
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Total;50.5;96.0;52.6;11.5;31.0;37.1;11.0;17.5;62.9;39.0;65.0;60.0;1.286;0.59
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Bradley Beal;8.0;18.0;44.4;2.0;7.0;28.6;2.0;2.0;100.0;6.0;11.0;54.5;1.111;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Kyle Kuzma;8.5;13.0;65.4;1.0;3.5;28.6;2.0;3.5;57.1;7.5;9.5;78.9;1.538;0.69
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Kentavious Caldwell-Pope;6.5;13.0;50.0;3.5;7.0;50.0;1.5;1.5;100.0;3.0;6.0;50.0;1.385;0.63
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Spencer Dinwiddie;5.0;10.5;47.6;1.5;5.0;30.0;4.5;4.5;100.0;3.5;5.5;63.6;1.524;0.55
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Montrezl Harrell;5.0;7.5;66.7;0.0;0.0;0.0;3.0;4.0;75.0;5.0;7.5;66.7;1.733;0.67
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Corey Kispert;5.0;9.0;55.6;2.0;5.0;40.0;0.0;0.0;0.0;3.0;4.0;75.0;1.333;0.67
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Deni Avdija;3.5;5.5;63.6;1.0;2.5;40.0;0.0;0.0;0.0;2.5;3.0;83.3;1.455;0.73
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Davis Bertans;1.5;5.0;30.0;1.5;4.5;33.3;2.5;2.5;100.0;0.0;0.5;0.0;1.400;0.45
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Rui Hachimura;3.0;5.0;60.0;0.0;0.0;0.0;1.0;2.0;50.0;3.0;5.0;60.0;1.400;0.60
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Daniel Gafford;3.0;4.5;66.7;0.0;0.0;0.0;0.5;0.5;100.0;3.0;4.5;66.7;1.444;0.67
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Raul Neto;1.5;7.0;21.4;0.0;1.5;0.0;0.5;0.5;100.0;1.5;5.5;27.3;0.500;0.21
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Aaron Holiday;0.0;2.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Total;42.5;83.0;51.2;10.5;31.0;33.9;16.0;19.0;84.2;32.0;52.0;61.5;1.343;0.58
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Spencer Dinwiddie;9.0;18.0;50.0;4.0;10.0;40.0;5.0;5.0;100.0;5.0;8.0;62.5;1.500;0.61
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Kyle Kuzma;7.0;17.5;40.0;2.0;6.0;33.3;3.0;3.0;100.0;5.0;11.5;43.5;1.086;0.46
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Kentavious Caldwell-Pope;4.5;13.5;33.3;2.5;7.0;35.7;5.5;5.5;100.0;2.0;6.5;30.8;1.259;0.43
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Montrezl Harrell;8.0;10.0;80.0;0.0;1.0;0.0;0.0;2.0;0.0;8.0;9.0;88.9;1.600;0.80
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Corey Kispert;5.0;7.5;66.7;3.0;5.5;54.5;1.0;1.5;66.7;2.0;2.0;100.0;1.867;0.87
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Ish Smith;5.0;7.0;71.4;0.0;1.0;0.0;0.0;0.0;0.0;5.0;6.0;83.3;1.429;0.71
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Aaron Holiday;3.0;5.0;60.0;2.0;3.0;66.7;2.0;2.0;100.0;1.0;2.0;50.0;2.000;0.80
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Rui Hachimura;2.5;5.5;45.5;1.5;2.5;60.0;2.0;2.0;100.0;1.0;3.0;33.3;1.545;0.59
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Daniel Gafford;2.5;5.0;50.0;0.0;0.0;0.0;3.0;3.0;100.0;2.5;5.0;50.0;1.600;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Anthony Gill;2.0;4.0;50.0;0.0;1.0;0.0;2.0;2.0;100.0;2.0;3.0;66.7;1.500;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Raul Neto;2.0;5.0;40.0;0.5;2.0;25.0;1.0;1.0;100.0;1.5;3.0;50.0;1.100;0.45
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Thomas Bryant;1.0;3.5;28.6;0.0;1.5;0.0;2.5;2.5;100.0;1.0;2.0;50.0;1.286;0.29
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Deni Avdija;1.0;4.5;22.2;0.5;2.0;25.0;0.5;1.0;50.0;0.5;2.5;20.0;0.667;0.28
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Tomas Satoransky;0.0;5.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;3.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Total;39.0;86.5;45.1;13.0;35.5;36.6;23.0;25.0;92.0;26.0;51.0;51.0;1.318;0.53
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Utah Jazz;Bradley Beal;11.0;21.5;51.2;1.5;4.0;37.5;5.5;6.0;91.7;9.5;17.5;54.3;1.349;0.55
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Utah Jazz;Raul Neto;6.0;14.0;42.9;1.0;3.5;28.6;1.0;1.0;100.0;5.0;10.5;47.6;1.000;0.46
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Utah Jazz;Daniel Gafford;5.5;8.0;68.8;0.0;0.0;0.0;2.0;2.5;80.0;5.5;8.0;68.8;1.625;0.69
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Utah Jazz;Montrezl Harrell;4.0;7.0;57.1;0.5;0.5;100.0;1.5;4.0;37.5;3.5;6.5;53.8;1.429;0.61
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Utah Jazz;Kyle Kuzma;4.0;12.0;33.3;0.0;6.0;0.0;0.0;0.0;0.0;4.0;6.0;66.7;0.667;0.33
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Utah Jazz;Deni Avdija;3.0;5.5;54.5;1.0;2.0;50.0;0.5;1.0;50.0;2.0;3.5;57.1;1.364;0.64
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Utah Jazz;Kentavious Caldwell-Pope;2.5;9.5;26.3;1.5;5.0;30.0;0.0;0.0;0.0;1.0;4.5;22.2;0.684;0.34
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Utah Jazz;Spencer Dinwiddie;2.5;10.0;25.0;0.0;3.0;0.0;1.0;2.0;50.0;2.5;7.0;35.7;0.600;0.25
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Utah Jazz;Corey Kispert;2.0;3.0;66.7;2.0;3.0;66.7;0.0;0.0;0.0;0.0;0.0;0.0;2.000;1.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Utah Jazz;Isaiah Todd;2.0;4.0;50.0;2.0;4.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.500;0.75
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Utah Jazz;Aaron Holiday;1.5;2.5;60.0;0.0;0.5;0.0;0.5;0.5;100.0;1.5;2.0;75.0;1.400;0.60
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Utah Jazz;Davis Bertans;1.0;3.0;33.3;1.0;2.5;40.0;0.0;0.0;0.0;0.0;0.5;0.0;1.000;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Utah Jazz;Anthony Gill;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Utah Jazz;Cassius Winston;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Utah Jazz;Joel Ayayi;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Utah Jazz;Total;41.5;91.5;45.4;8.5;28.0;30.4;12.0;17.0;70.6;33.0;63.5;52.0;1.131;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Golden State Warriors;Kristaps Porzingis;6.5;17.0;38.2;1.0;5.5;18.2;10.0;10.5;95.2;5.5;11.5;47.8;1.412;0.41
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Golden State Warriors;Kentavious Caldwell-Pope;8.0;11.0;72.7;2.0;3.5;57.1;2.5;3.0;83.3;6.0;7.5;80.0;1.864;0.82
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Golden State Warriors;Corey Kispert;5.5;7.5;73.3;3.0;4.5;66.7;0.5;0.5;100.0;2.5;3.0;83.3;1.933;0.93
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Golden State Warriors;Deni Avdija;4.5;8.5;52.9;2.5;4.0;62.5;2.0;3.5;57.1;2.0;4.5;44.4;1.588;0.68
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Golden State Warriors;Kyle Kuzma;4.0;12.0;33.3;1.0;6.0;16.7;2.0;2.0;100.0;3.0;6.0;50.0;0.917;0.38
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Golden State Warriors;Daniel Gafford;4.5;6.0;75.0;0.0;0.0;0.0;1.0;2.0;50.0;4.5;6.0;75.0;1.667;0.75
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Golden State Warriors;Rui Hachimura;3.5;6.5;53.8;2.0;2.0;100.0;0.0;0.0;0.0;1.5;4.5;33.3;1.385;0.69
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Golden State Warriors;Raul Neto;4.0;6.0;66.7;0.0;1.0;0.0;0.0;0.0;0.0;4.0;5.0;80.0;1.333;0.67
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Golden State Warriors;Ish Smith;3.0;11.0;27.3;1.5;2.5;60.0;0.0;0.0;0.0;1.5;8.5;17.6;0.682;0.34
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Golden State Warriors;Tomas Satoransky;2.0;5.0;40.0;0.0;1.0;0.0;0.5;1.0;50.0;2.0;4.0;50.0;0.900;0.40
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Golden State Warriors;Anthony Gill;1.5;1.5;100.0;0.5;0.5;100.0;1.0;1.0;100.0;1.0;1.0;100.0;3.000;1.17
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Golden State Warriors;Total;43.0;83.0;51.8;13.0;27.0;48.1;18.5;22.5;82.2;30.0;56.0;53.6;1.416;0.60
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. LA Clippers;Bradley Beal;8.0;15.0;53.3;2.0;5.0;40.0;5.0;6.0;83.3;6.0;10.0;60.0;1.533;0.60
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. LA Clippers;Kristaps Porzingis;8.0;14.0;57.1;2.0;5.0;40.0;1.0;1.0;100.0;6.0;9.0;66.7;1.357;0.64
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. LA Clippers;Kyle Kuzma;7.0;15.0;46.7;1.0;4.5;22.2;3.0;4.0;75.0;6.0;10.5;57.1;1.200;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. LA Clippers;Kentavious Caldwell-Pope;3.5;8.5;41.2;1.5;4.5;33.3;5.5;5.5;100.0;2.0;4.0;50.0;1.647;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. LA Clippers;Daniel Gafford;5.5;9.0;61.1;0.0;0.0;0.0;2.0;2.5;80.0;5.5;9.0;61.1;1.444;0.61
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. LA Clippers;Rui Hachimura;5.0;8.0;62.5;1.0;3.0;33.3;1.5;2.0;75.0;4.0;5.0;80.0;1.563;0.69
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. LA Clippers;Raul Neto;3.0;6.0;50.0;1.0;1.0;100.0;5.0;6.0;83.3;2.0;5.0;40.0;2.000;0.58
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. LA Clippers;Montrezl Harrell;3.0;5.0;60.0;0.0;0.0;0.0;6.0;10.0;60.0;3.0;5.0;60.0;2.400;0.60
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. LA Clippers;Thomas Bryant;3.0;4.0;75.0;1.0;1.0;100.0;4.0;4.0;100.0;2.0;3.0;66.7;2.750;0.88
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. LA Clippers;Corey Kispert;2.0;6.0;33.3;2.0;4.0;50.0;0.0;0.0;0.0;0.0;2.0;0.0;1.000;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. LA Clippers;Deni Avdija;2.0;6.5;30.8;0.5;1.5;33.3;1.0;1.5;66.7;1.5;5.0;30.0;0.846;0.35
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. LA Clippers;Spencer Dinwiddie;2.0;10.0;20.0;1.0;7.0;14.3;0.0;0.0;0.0;1.0;3.0;33.3;0.500;0.25
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. LA Clippers;Ish Smith;1.0;5.0;20.0;0.0;0.0;0.0;2.0;2.0;100.0;1.0;5.0;20.0;0.800;0.20
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. LA Clippers;Tomas Satoransky;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. LA Clippers;Total;39.0;83.5;46.7;9.5;27.0;35.2;24.5;30.0;81.7;29.5;56.5;52.2;1.341;0.52
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Kyle Kuzma;9.0;18.0;50.0;2.0;6.0;33.3;3.0;9.0;33.3;7.0;12.0;58.3;1.278;0.56
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Kristaps Porzingis;6.0;15.0;40.0;0.5;3.0;16.7;8.0;9.0;88.9;5.5;12.0;45.8;1.367;0.42
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Corey Kispert;6.5;12.5;52.0;4.0;9.5;42.1;0.0;0.0;0.0;2.5;3.0;83.3;1.360;0.68
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Tomas Satoransky;5.5;6.0;91.7;1.0;1.5;66.7;3.0;3.0;100.0;4.5;4.5;100.0;2.500;1.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Rui Hachimura;5.5;10.0;55.0;1.0;2.5;40.0;0.5;1.0;50.0;4.5;7.5;60.0;1.250;0.60
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Kentavious Caldwell-Pope;2.5;8.5;29.4;1.5;3.0;50.0;4.5;5.5;81.8;1.0;5.5;18.2;1.294;0.38
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Daniel Gafford;4.5;6.0;75.0;0.0;0.0;0.0;2.0;3.0;66.7;4.5;6.0;75.0;1.833;0.75
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Deni Avdija;2.0;8.0;25.0;1.5;4.5;33.3;3.0;4.0;75.0;0.5;3.5;14.3;1.063;0.34
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Ish Smith;2.5;6.0;41.7;0.0;1.0;0.0;0.5;1.0;50.0;2.5;5.0;50.0;0.917;0.42
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Raul Neto;2.0;4.0;50.0;0.5;1.0;50.0;1.0;1.0;100.0;1.5;3.0;50.0;1.375;0.56
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Anthony Gill;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Total;41.5;85.0;48.8;11.0;29.0;37.9;24.0;32.0;75.0;30.5;56.0;54.5;1.388;0.55
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Phoenix Suns;Bradley Beal;11.0;18.0;61.1;2.0;3.0;66.7;2.0;4.0;50.0;9.0;15.0;60.0;1.444;0.67
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Phoenix Suns;Montrezl Harrell;4.5;9.5;47.4;0.0;0.0;0.0;4.5;4.5;100.0;4.5;9.5;47.4;1.421;0.47
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Phoenix Suns;Aaron Holiday;5.0;10.0;50.0;0.5;2.5;20.0;0.5;1.0;50.0;4.5;7.5;60.0;1.100;0.53
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Phoenix Suns;Raul Neto;4.0;9.5;42.1;0.5;2.0;25.0;1.5;3.0;50.0;3.5;7.5;46.7;1.053;0.45
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Phoenix Suns;Deni Avdija;4.0;6.0;66.7;0.5;1.5;33.3;1.5;1.5;100.0;3.5;4.5;77.8;1.667;0.71
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Phoenix Suns;Kentavious Caldwell-Pope;3.0;9.0;33.3;1.0;4.5;22.2;1.5;2.0;75.0;2.0;4.5;44.4;0.944;0.39
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Phoenix Suns;Kyle Kuzma;2.5;9.0;27.8;0.5;3.5;14.3;1.0;2.5;40.0;2.0;5.5;36.4;0.722;0.31
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Phoenix Suns;Corey Kispert;2.5;7.0;35.7;0.5;3.0;16.7;0.0;0.5;0.0;2.0;4.0;50.0;0.786;0.39
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Phoenix Suns;Thomas Bryant;2.0;6.0;33.3;1.0;2.0;50.0;0.0;0.0;0.0;1.0;4.0;25.0;0.833;0.42
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Phoenix Suns;Spencer Dinwiddie;1.0;5.0;20.0;0.0;2.0;0.0;2.0;2.0;100.0;1.0;3.0;33.3;0.800;0.20
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Phoenix Suns;Rui Hachimura;2.0;7.0;28.6;0.0;1.0;0.0;0.0;0.0;0.0;2.0;6.0;33.3;0.571;0.29
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Phoenix Suns;Davis Bertans;0.5;1.5;33.3;0.5;1.5;33.3;0.5;0.5;100.0;0.0;0.0;0.0;1.333;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Phoenix Suns;Daniel Gafford;0.5;3.5;14.3;0.0;0.0;0.0;0.5;0.5;100.0;0.5;3.5;14.3;0.429;0.14
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Phoenix Suns;Anthony Gill;0.5;0.5;100.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;0.5;100.0;2.000;1.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Phoenix Suns;Total;35.0;83.5;41.9;5.5;22.5;24.4;13.5;19.0;71.1;29.5;61.0;48.4;1.066;0.45
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Sacramento Kings;Bradley Beal;13.0;24.0;54.2;2.0;6.0;33.3;2.0;4.0;50.0;11.0;18.0;61.1;1.250;0.58
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Sacramento Kings;Corey Kispert;7.0;16.0;43.8;4.0;11.0;36.4;2.0;2.0;100.0;3.0;5.0;60.0;1.250;0.56
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Sacramento Kings;Montrezl Harrell;5.0;7.0;71.4;0.0;0.0;0.0;4.0;5.0;80.0;5.0;7.0;71.4;2.000;0.71
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Sacramento Kings;Kyle Kuzma;5.0;12.0;41.7;1.0;4.5;22.2;3.0;4.0;75.0;4.0;7.5;53.3;1.167;0.46
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Sacramento Kings;Daniel Gafford;6.0;7.0;85.7;0.0;0.0;0.0;2.0;2.0;100.0;6.0;7.0;85.7;2.000;0.86
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Sacramento Kings;Thomas Bryant;6.0;10.0;60.0;1.0;3.0;33.3;0.0;0.0;0.0;5.0;7.0;71.4;1.300;0.65
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Sacramento Kings;Rui Hachimura;5.0;11.0;45.5;2.0;3.0;66.7;1.0;1.0;100.0;3.0;8.0;37.5;1.182;0.55
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Sacramento Kings;Deni Avdija;4.0;9.5;42.1;1.5;4.5;33.3;3.0;3.5;85.7;2.5;5.0;50.0;1.316;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Sacramento Kings;Kentavious Caldwell-Pope;5.0;9.5;52.6;0.5;3.0;16.7;0.0;0.0;0.0;4.5;6.5;69.2;1.105;0.55
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Sacramento Kings;Ish Smith;4.0;7.0;57.1;1.0;1.0;100.0;0.0;0.0;0.0;3.0;6.0;50.0;1.286;0.64
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Sacramento Kings;Davis Bertans;1.0;6.0;16.7;1.0;6.0;16.7;4.0;5.0;80.0;0.0;0.0;0.0;1.167;0.25
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Sacramento Kings;Raul Neto;2.0;7.0;28.6;0.5;2.5;20.0;2.0;3.0;66.7;1.5;4.5;33.3;0.929;0.32
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Sacramento Kings;Spencer Dinwiddie;2.0;8.0;25.0;0.0;2.0;0.0;0.0;0.0;0.0;2.0;6.0;33.3;0.500;0.25
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Sacramento Kings;Anthony Gill;1.0;3.0;33.3;0.0;0.0;0.0;0.0;2.0;0.0;1.0;3.0;33.3;0.667;0.33
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Sacramento Kings;Aaron Holiday;1.0;2.0;50.0;0.0;1.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;1.000;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Sacramento Kings;Vernon Carey Jr.;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Sacramento Kings;Total;41.5;88.5;46.9;9.0;31.0;29.0;15.5;21.0;73.8;32.5;57.5;56.5;1.215;0.52
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Dallas Mavericks;Bradley Beal;10.0;14.0;71.4;1.0;1.0;100.0;5.0;6.0;83.3;9.0;13.0;69.2;1.857;0.75
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Dallas Mavericks;Kentavious Caldwell-Pope;9.0;14.0;64.3;3.0;6.0;50.0;4.5;4.5;100.0;6.0;8.0;75.0;1.821;0.75
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Dallas Mavericks;Kristaps Porzingis;8.0;18.0;44.4;2.0;4.0;50.0;6.0;7.0;85.7;6.0;14.0;42.9;1.333;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Dallas Mavericks;Kyle Kuzma;7.0;14.0;50.0;3.0;6.0;50.0;5.0;5.0;100.0;4.0;8.0;50.0;1.571;0.61
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Dallas Mavericks;Rui Hachimura;8.0;14.0;57.1;3.0;4.0;75.0;2.0;3.0;66.7;5.0;10.0;50.0;1.500;0.68
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Dallas Mavericks;Ish Smith;6.0;12.0;50.0;0.0;2.0;0.0;0.0;0.0;0.0;6.0;10.0;60.0;1.000;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Dallas Mavericks;Montrezl Harrell;4.0;6.0;66.7;1.0;1.0;100.0;2.0;4.0;50.0;3.0;5.0;60.0;1.833;0.75
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Dallas Mavericks;Deni Avdija;4.0;8.5;47.1;2.0;4.5;44.4;0.5;0.5;100.0;2.0;4.0;50.0;1.235;0.59
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Dallas Mavericks;Anthony Gill;3.0;4.0;75.0;1.0;2.0;50.0;3.0;3.0;100.0;2.0;2.0;100.0;2.500;0.88
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Dallas Mavericks;Daniel Gafford;4.0;5.0;80.0;0.0;0.0;0.0;2.0;2.0;100.0;4.0;5.0;80.0;2.000;0.80
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Dallas Mavericks;Aaron Holiday;3.0;5.0;60.0;1.0;2.0;50.0;0.0;0.0;0.0;2.0;3.0;66.7;1.400;0.70
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Dallas Mavericks;Raul Neto;2.5;4.0;62.5;1.0;1.5;66.7;0.5;1.0;50.0;1.5;2.5;60.0;1.625;0.75
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Dallas Mavericks;Thomas Bryant;2.0;3.0;66.7;1.0;1.0;100.0;0.0;0.0;0.0;1.0;2.0;50.0;1.667;0.83
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Dallas Mavericks;Corey Kispert;2.0;4.5;44.4;0.5;2.5;20.0;0.5;1.0;50.0;1.5;2.0;75.0;1.111;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Dallas Mavericks;Tomas Satoransky;0.0;1.0;0.0;0.0;0.0;0.0;2.0;2.0;100.0;0.0;1.0;0.0;2.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Dallas Mavericks;Davis Bertans;0.0;5.0;0.0;0.0;5.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Dallas Mavericks;Total;47.0;84.0;56.0;13.0;28.5;45.6;20.5;24.0;85.4;34.0;55.5;61.3;1.518;0.64
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Houston Rockets;Bradley Beal;9.0;25.0;36.0;3.0;8.0;37.5;6.0;6.0;100.0;6.0;17.0;35.3;1.080;0.42
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Houston Rockets;Kyle Kuzma;9.0;20.0;45.0;0.0;8.0;0.0;6.0;8.0;75.0;9.0;12.0;75.0;1.200;0.45
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Houston Rockets;Kristaps Porzingis;7.0;18.0;38.9;0.0;3.0;0.0;8.0;8.0;100.0;7.0;15.0;46.7;1.222;0.39
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Houston Rockets;Kentavious Caldwell-Pope;8.0;14.0;57.1;2.5;7.0;35.7;1.0;1.0;100.0;5.5;7.0;78.6;1.393;0.66
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Houston Rockets;Rui Hachimura;7.0;13.0;53.8;2.0;5.0;40.0;0.0;0.0;0.0;5.0;8.0;62.5;1.231;0.62
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Houston Rockets;Raul Neto;3.5;7.5;46.7;0.0;1.0;0.0;3.0;3.5;85.7;3.5;6.5;53.8;1.333;0.47
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Houston Rockets;Corey Kispert;3.5;7.5;46.7;2.0;6.0;33.3;1.0;1.0;100.0;1.5;1.5;100.0;1.333;0.60
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Houston Rockets;Deni Avdija;2.0;10.0;20.0;0.5;5.0;10.0;3.0;4.0;75.0;1.5;5.0;30.0;0.750;0.23
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Houston Rockets;Daniel Gafford;2.5;3.5;71.4;0.0;0.0;0.0;1.5;2.5;60.0;2.5;3.5;71.4;1.857;0.71
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Houston Rockets;Ish Smith;2.0;7.0;28.6;1.0;2.0;50.0;0.0;0.0;0.0;1.0;5.0;20.0;0.714;0.36
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Houston Rockets;Anthony Gill;1.0;2.0;50.0;0.0;0.0;0.0;2.0;2.0;100.0;1.0;2.0;50.0;2.000;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Houston Rockets;Tomas Satoransky;1.0;4.0;25.0;0.0;2.0;0.0;1.0;2.0;50.0;1.0;2.0;50.0;0.750;0.25
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Houston Rockets;Davis Bertans;0.0;2.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Houston Rockets;Craig Sword;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Houston Rockets;Total;37.5;88.0;42.6;8.0;34.0;23.5;21.0;25.0;84.0;29.5;54.0;54.6;1.182;0.47
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Kyle Kuzma;8.0;13.5;59.3;3.5;6.0;58.3;2.0;3.0;66.7;4.5;7.5;60.0;1.593;0.72
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Raul Neto;7.0;8.0;87.5;1.0;1.0;100.0;0.0;0.0;0.0;6.0;7.0;85.7;1.875;0.94
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Daniel Gafford;7.0;8.0;87.5;0.0;0.0;0.0;1.0;2.0;50.0;7.0;8.0;87.5;1.875;0.88
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Kentavious Caldwell-Pope;5.0;11.0;45.5;3.5;6.5;53.8;0.0;0.0;0.0;1.5;4.5;33.3;1.227;0.61
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Bradley Beal;4.5;11.5;39.1;0.0;2.0;0.0;4.0;5.0;80.0;4.5;9.5;47.4;1.130;0.39
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Montrezl Harrell;6.0;7.5;80.0;0.0;0.0;0.0;0.0;1.5;0.0;6.0;7.5;80.0;1.600;0.80
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Spencer Dinwiddie;4.0;10.5;38.1;1.5;4.0;37.5;1.5;2.0;75.0;2.5;6.5;38.5;1.048;0.45
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Deni Avdija;2.5;7.0;35.7;0.5;2.0;25.0;0.5;2.0;25.0;2.0;5.0;40.0;0.857;0.39
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Aaron Holiday;1.5;3.0;50.0;0.0;0.5;0.0;1.5;1.5;100.0;1.5;2.5;60.0;1.500;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Thomas Bryant;2.0;8.0;25.0;0.0;1.0;0.0;0.0;0.0;0.0;2.0;7.0;28.6;0.500;0.25
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Rui Hachimura;2.0;4.0;50.0;0.0;2.0;0.0;0.0;0.0;0.0;2.0;2.0;100.0;1.000;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Corey Kispert;1.5;6.0;25.0;0.5;4.0;12.5;0.0;0.0;0.0;1.0;2.0;50.0;0.583;0.29
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Anthony Gill;0.0;0.0;0.0;0.0;0.0;0.0;2.0;2.0;100.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Total;42.0;84.0;50.0;10.0;27.0;37.0;11.0;17.0;64.7;32.0;57.0;56.1;1.250;0.56
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Bradley Beal;11.0;20.0;55.0;0.0;4.0;0.0;1.0;3.0;33.3;11.0;16.0;68.8;1.150;0.55
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Spencer Dinwiddie;5.0;14.0;35.7;2.5;6.5;38.5;6.5;8.0;81.3;2.5;7.5;33.3;1.357;0.45
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Kentavious Caldwell-Pope;4.5;9.0;50.0;3.0;6.5;46.2;1.5;2.0;75.0;1.5;2.5;60.0;1.500;0.67
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Montrezl Harrell;4.0;8.0;50.0;0.0;0.5;0.0;4.5;9.5;47.4;4.0;7.5;53.3;1.563;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Raul Neto;3.5;6.5;53.8;0.0;0.5;0.0;3.5;5.5;63.6;3.5;6.0;58.3;1.615;0.54
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Aaron Holiday;4.0;7.5;53.3;0.0;1.0;0.0;0.0;0.0;0.0;4.0;6.5;61.5;1.067;0.53
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Kyle Kuzma;2.0;7.0;28.6;1.0;4.0;25.0;2.5;2.5;100.0;1.0;3.0;33.3;1.071;0.36
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Daniel Gafford;3.5;6.5;53.8;0.0;0.0;0.0;0.0;0.0;0.0;3.5;6.5;53.8;1.077;0.54
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Deni Avdija;3.0;5.5;54.5;0.5;1.5;33.3;0.5;0.5;100.0;2.5;4.0;62.5;1.273;0.59
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Anthony Gill;1.5;2.0;75.0;1.0;1.0;100.0;0.0;0.0;0.0;0.5;1.0;50.0;2.000;1.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Davis Bertans;1.0;10.0;10.0;1.0;9.0;11.1;0.0;0.0;0.0;0.0;1.0;0.0;0.300;0.15
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Corey Kispert;0.5;3.0;16.7;0.0;1.5;0.0;0.5;1.0;50.0;0.5;1.5;33.3;0.500;0.17
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Total;37.5;84.0;44.6;8.5;29.5;28.8;20.0;30.5;65.6;29.0;54.5;53.2;1.232;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. San Antonio Spurs;Kyle Kuzma;9.0;18.0;50.0;2.0;4.0;50.0;4.5;5.0;90.0;7.0;14.0;50.0;1.361;0.56
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. San Antonio Spurs;Kentavious Caldwell-Pope;7.0;12.5;56.0;3.5;8.0;43.8;3.0;3.0;100.0;3.5;4.5;77.8;1.640;0.70
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. San Antonio Spurs;Bradley Beal;8.0;21.0;38.1;1.0;5.0;20.0;1.0;2.0;50.0;7.0;16.0;43.8;0.857;0.40
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. San Antonio Spurs;Spencer Dinwiddie;6.0;10.0;60.0;2.0;4.0;50.0;2.0;4.0;50.0;4.0;6.0;66.7;1.600;0.70
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. San Antonio Spurs;Daniel Gafford;6.5;8.0;81.3;0.0;0.0;0.0;1.0;2.0;50.0;6.5;8.0;81.3;1.750;0.81
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. San Antonio Spurs;Raul Neto;5.0;10.5;47.6;2.0;5.0;40.0;1.0;1.5;66.7;3.0;5.5;54.5;1.238;0.57
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. San Antonio Spurs;Ish Smith;5.0;9.0;55.6;0.0;2.0;0.0;0.0;1.0;0.0;5.0;7.0;71.4;1.111;0.56
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. San Antonio Spurs;Corey Kispert;3.0;5.5;54.5;1.5;4.0;37.5;1.0;1.0;100.0;1.5;1.5;100.0;1.545;0.68
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. San Antonio Spurs;Rui Hachimura;3.0;5.0;60.0;1.0;2.0;50.0;1.0;2.0;50.0;2.0;3.0;66.7;1.600;0.70
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. San Antonio Spurs;Deni Avdija;3.5;8.0;43.8;1.0;3.0;33.3;0.0;0.0;0.0;2.5;5.0;50.0;1.000;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. San Antonio Spurs;Montrezl Harrell;3.0;7.0;42.9;0.0;0.0;0.0;0.0;0.0;0.0;3.0;7.0;42.9;0.857;0.43
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. San Antonio Spurs;Thomas Bryant;3.0;9.0;33.3;0.0;3.0;0.0;0.0;0.0;0.0;3.0;6.0;50.0;0.667;0.33
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. San Antonio Spurs;Aaron Holiday;2.0;6.0;33.3;0.0;0.0;0.0;0.0;0.0;0.0;2.0;6.0;33.3;0.667;0.33
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. San Antonio Spurs;Anthony Gill;1.0;2.0;50.0;0.5;1.0;50.0;1.0;1.5;66.7;0.5;1.0;50.0;1.750;0.63
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. San Antonio Spurs;Davis Bertans;0.0;4.0;0.0;0.0;3.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. San Antonio Spurs;Cassius Winston;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;vs. San Antonio Spurs;Total;50.0;100.0;50.0;12.5;34.5;36.2;13.5;18.5;73.0;37.5;65.5;57.3;1.260;0.56
+Washington Wizards;wsh;2021 - 2022 Regular Season;October;Bradley Beal;9.0;24.8;36.3;1.6;7.4;21.6;4.8;4.8;100.0;7.4;17.4;42.5;0.984;0.40
+Washington Wizards;wsh;2021 - 2022 Regular Season;October;Spencer Dinwiddie;6.8;16.2;42.0;2.2;5.4;40.7;4.0;4.2;95.2;4.6;10.8;42.6;1.222;0.49
+Washington Wizards;wsh;2021 - 2022 Regular Season;October;Montrezl Harrell;7.2;11.7;61.4;0.2;0.8;20.0;4.8;6.2;78.4;7.0;10.8;64.6;1.657;0.62
+Washington Wizards;wsh;2021 - 2022 Regular Season;October;Kyle Kuzma;5.8;13.8;42.2;2.0;6.2;32.4;1.8;3.8;47.8;3.8;7.7;50.0;1.120;0.49
+Washington Wizards;wsh;2021 - 2022 Regular Season;October;Kentavious Caldwell-Pope;3.5;7.2;48.8;2.0;4.3;46.2;0.5;0.7;75.0;1.5;2.8;52.9;1.326;0.63
+Washington Wizards;wsh;2021 - 2022 Regular Season;October;Daniel Gafford;3.0;4.3;70.6;0.0;0.0;0.0;2.0;2.8;72.7;3.0;4.3;70.6;1.882;0.71
+Washington Wizards;wsh;2021 - 2022 Regular Season;October;Raul Neto;3.4;7.0;48.6;0.2;1.6;12.5;0.6;0.6;100.0;3.2;5.4;59.3;1.086;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;October;Davis Bertans;2.2;6.3;34.2;1.7;5.0;33.3;0.8;0.8;100.0;0.5;1.3;37.5;1.079;0.47
+Washington Wizards;wsh;2021 - 2022 Regular Season;October;Aaron Holiday;2.3;5.3;43.8;1.0;2.0;50.0;1.0;1.2;85.7;1.3;3.3;40.0;1.250;0.53
+Washington Wizards;wsh;2021 - 2022 Regular Season;October;Deni Avdija;1.3;4.3;30.8;0.5;2.0;25.0;1.5;2.0;75.0;0.8;2.3;35.7;1.077;0.37
+Washington Wizards;wsh;2021 - 2022 Regular Season;October;Isaiah Todd;1.0;2.0;50.0;1.0;2.0;50.0;1.0;2.0;50.0;0.0;0.0;0.0;2.000;0.75
+Washington Wizards;wsh;2021 - 2022 Regular Season;October;Corey Kispert;0.4;1.2;33.3;0.0;0.6;0.0;0.4;0.4;100.0;0.4;0.6;66.7;1.000;0.33
+Washington Wizards;wsh;2021 - 2022 Regular Season;October;Joel Ayayi;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;October;Total;40.8;92.8;44.0;10.8;33.2;32.7;20.2;25.2;80.1;30.0;59.7;50.3;1.214;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;November;Bradley Beal;8.7;18.3;47.5;1.8;5.9;29.9;3.2;3.7;87.5;6.9;12.4;55.9;1.223;0.52
+Washington Wizards;wsh;2021 - 2022 Regular Season;November;Montrezl Harrell;5.6;8.5;65.6;0.1;0.1;50.0;3.6;4.7;77.1;5.5;8.4;65.9;1.742;0.66
+Washington Wizards;wsh;2021 - 2022 Regular Season;November;Spencer Dinwiddie;4.4;10.7;41.0;2.0;5.7;35.1;2.0;2.4;83.9;2.4;5.0;47.7;1.194;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;November;Kyle Kuzma;4.6;10.7;42.9;2.1;5.8;36.8;1.3;1.6;79.2;2.5;4.9;50.0;1.174;0.53
+Washington Wizards;wsh;2021 - 2022 Regular Season;November;Kentavious Caldwell-Pope;4.0;9.6;41.7;2.1;5.8;35.6;1.6;1.8;88.9;1.9;3.8;50.9;1.215;0.52
+Washington Wizards;wsh;2021 - 2022 Regular Season;November;Daniel Gafford;4.1;6.2;65.5;0.0;0.0;0.0;0.9;1.5;61.9;4.1;6.2;65.5;1.460;0.66
+Washington Wizards;wsh;2021 - 2022 Regular Season;November;Raul Neto;2.9;6.4;44.8;0.5;1.7;28.0;1.3;1.9;67.9;2.4;4.7;50.7;1.167;0.48
+Washington Wizards;wsh;2021 - 2022 Regular Season;November;Deni Avdija;2.5;5.5;44.6;0.8;2.6;30.8;0.7;1.3;57.9;1.7;2.9;56.8;1.169;0.52
+Washington Wizards;wsh;2021 - 2022 Regular Season;November;Aaron Holiday;2.1;5.3;40.0;0.4;1.5;26.1;0.3;0.4;66.7;1.7;3.8;45.6;0.925;0.44
+Washington Wizards;wsh;2021 - 2022 Regular Season;November;Corey Kispert;1.7;4.2;40.7;0.6;2.6;24.3;0.4;0.6;66.7;1.1;1.6;68.2;1.068;0.48
+Washington Wizards;wsh;2021 - 2022 Regular Season;November;Anthony Gill;1.0;1.5;66.7;0.5;0.5;100.0;0.0;0.0;0.0;0.5;1.0;50.0;1.667;0.83
+Washington Wizards;wsh;2021 - 2022 Regular Season;November;Davis Bertans;0.2;4.4;4.5;0.2;3.8;5.3;1.4;1.4;100.0;0.0;0.6;0.0;0.455;0.07
+Washington Wizards;wsh;2021 - 2022 Regular Season;November;Isaiah Todd;0.5;1.5;33.3;0.5;0.5;100.0;0.0;0.0;0.0;0.0;1.0;0.0;1.000;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;November;Joel Ayayi;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;November;Total;38.9;83.3;46.8;10.1;31.6;32.1;15.0;19.3;77.6;28.8;51.7;55.7;1.237;0.53
+Washington Wizards;wsh;2021 - 2022 Regular Season;December;Bradley Beal;9.7;19.5;50.0;1.3;3.9;32.6;3.6;5.2;70.2;8.5;15.5;54.4;1.252;0.53
+Washington Wizards;wsh;2021 - 2022 Regular Season;December;Kyle Kuzma;5.3;12.3;42.6;1.3;5.1;26.2;1.6;2.3;67.9;3.9;7.3;54.0;1.088;0.48
+Washington Wizards;wsh;2021 - 2022 Regular Season;December;Montrezl Harrell;4.4;6.8;65.4;0.1;0.3;33.3;2.7;4.0;66.7;4.3;6.5;66.7;1.716;0.66
+Washington Wizards;wsh;2021 - 2022 Regular Season;December;Kentavious Caldwell-Pope;4.1;10.5;38.8;2.1;5.2;40.4;0.8;0.9;90.0;2.0;5.4;37.3;1.052;0.49
+Washington Wizards;wsh;2021 - 2022 Regular Season;December;Spencer Dinwiddie;3.6;10.4;35.1;1.2;4.5;26.5;2.1;3.5;59.0;2.5;5.9;41.5;1.018;0.41
+Washington Wizards;wsh;2021 - 2022 Regular Season;December;Daniel Gafford;4.0;6.1;65.9;0.0;0.0;0.0;1.9;2.2;83.9;4.0;6.1;65.9;1.624;0.66
+Washington Wizards;wsh;2021 - 2022 Regular Season;December;Deni Avdija;3.5;7.1;49.0;1.1;3.2;35.6;1.0;1.4;73.7;2.4;3.9;60.0;1.280;0.57
+Washington Wizards;wsh;2021 - 2022 Regular Season;December;Raul Neto;3.4;7.7;43.5;0.5;1.9;28.6;1.2;1.5;76.5;2.8;5.8;48.4;1.094;0.47
+Washington Wizards;wsh;2021 - 2022 Regular Season;December;Aaron Holiday;3.4;5.6;59.7;0.6;1.5;41.2;0.8;1.0;81.8;2.7;4.1;66.7;1.452;0.65
+Washington Wizards;wsh;2021 - 2022 Regular Season;December;Davis Bertans;2.6;5.7;45.9;1.9;4.7;41.0;0.9;1.1;85.7;0.7;1.0;69.2;1.419;0.63
+Washington Wizards;wsh;2021 - 2022 Regular Season;December;Corey Kispert;2.5;6.2;41.2;1.2;3.3;36.1;0.9;1.1;83.3;1.4;2.9;46.9;1.162;0.51
+Washington Wizards;wsh;2021 - 2022 Regular Season;December;Brad Wanamaker;2.0;5.0;40.0;0.0;0.0;0.0;3.0;3.0;100.0;2.0;5.0;40.0;1.400;0.40
+Washington Wizards;wsh;2021 - 2022 Regular Season;December;Alize Johnson;2.0;5.0;40.0;0.0;1.0;0.0;0.0;1.0;0.0;2.0;4.0;50.0;0.800;0.40
+Washington Wizards;wsh;2021 - 2022 Regular Season;December;Anthony Gill;1.0;1.3;75.0;0.1;0.2;50.0;0.9;1.1;80.0;0.9;1.1;80.0;2.250;0.79
+Washington Wizards;wsh;2021 - 2022 Regular Season;December;Craig Sword;1.5;2.0;75.0;0.0;0.5;0.0;0.0;0.0;0.0;1.5;1.5;100.0;1.500;0.75
+Washington Wizards;wsh;2021 - 2022 Regular Season;December;Isaiah Todd;0.4;1.8;22.2;0.4;1.4;28.6;0.2;0.4;50.0;0.0;0.4;0.0;0.778;0.33
+Washington Wizards;wsh;2021 - 2022 Regular Season;December;Cassius Winston;0.0;1.0;0.0;0.0;1.0;0.0;1.0;1.0;100.0;0.0;0.0;0.0;1.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;December;Joel Ayayi;0.3;1.5;16.7;0.0;0.3;0.0;0.0;0.0;0.0;0.3;1.3;20.0;0.333;0.17
+Washington Wizards;wsh;2021 - 2022 Regular Season;December;Jordan Goodwin;0.0;1.5;0.0;0.0;0.5;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;December;Jordan Schakel;0.0;3.0;0.0;0.0;1.5;0.0;0.0;0.0;0.0;0.0;1.5;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;December;Jaime Echenique;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;December;Total;40.6;85.6;47.4;9.8;29.4;33.3;15.8;21.7;72.7;30.8;56.3;54.7;1.246;0.53
+Washington Wizards;wsh;2021 - 2022 Regular Season;January;Kyle Kuzma;8.4;16.3;51.4;1.8;5.1;34.8;4.0;5.5;72.2;6.6;11.2;58.9;1.382;0.57
+Washington Wizards;wsh;2021 - 2022 Regular Season;January;Bradley Beal;7.5;17.7;42.6;1.6;4.8;34.0;5.7;6.7;85.1;5.9;12.9;45.8;1.267;0.47
+Washington Wizards;wsh;2021 - 2022 Regular Season;January;Spencer Dinwiddie;4.1;11.1;36.9;1.5;5.7;27.0;3.5;3.8;92.9;2.5;5.4;47.5;1.197;0.44
+Washington Wizards;wsh;2021 - 2022 Regular Season;January;Kentavious Caldwell-Pope;4.6;11.1;41.3;1.9;5.6;34.6;1.5;1.7;87.5;2.6;5.5;48.1;1.135;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;January;Montrezl Harrell;4.7;6.8;68.9;0.1;0.4;25.0;2.4;3.8;64.7;4.6;6.3;71.9;1.754;0.70
+Washington Wizards;wsh;2021 - 2022 Regular Season;January;Daniel Gafford;3.8;5.1;75.8;0.0;0.0;0.0;1.2;1.6;76.2;3.8;5.1;75.8;1.758;0.76
+Washington Wizards;wsh;2021 - 2022 Regular Season;January;Corey Kispert;2.7;6.1;44.7;1.2;3.4;35.4;1.1;1.1;100.0;1.5;2.6;56.8;1.271;0.55
+Washington Wizards;wsh;2021 - 2022 Regular Season;January;Deni Avdija;2.9;6.6;43.0;0.8;2.8;28.2;1.2;1.4;85.0;2.1;3.9;53.7;1.161;0.49
+Washington Wizards;wsh;2021 - 2022 Regular Season;January;Rui Hachimura;2.8;6.6;42.4;0.7;2.1;33.3;1.2;1.6;75.0;2.1;4.5;46.7;1.136;0.48
+Washington Wizards;wsh;2021 - 2022 Regular Season;January;Thomas Bryant;2.8;6.1;44.9;0.6;2.0;31.3;1.1;1.6;69.2;2.1;4.1;51.5;1.184;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;January;Raul Neto;2.2;5.1;43.5;0.1;1.4;7.7;1.0;1.1;90.0;2.1;3.7;57.6;1.087;0.45
+Washington Wizards;wsh;2021 - 2022 Regular Season;January;Davis Bertans;1.4;4.3;32.4;1.3;4.0;31.3;0.4;0.4;100.0;0.1;0.3;50.0;1.029;0.47
+Washington Wizards;wsh;2021 - 2022 Regular Season;January;Greg Monroe;2.0;4.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;4.0;50.0;1.000;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;January;Aaron Holiday;1.2;2.6;46.2;0.4;0.8;50.0;0.6;0.6;100.0;0.8;1.8;44.4;1.308;0.54
+Washington Wizards;wsh;2021 - 2022 Regular Season;January;Anthony Gill;0.8;1.5;50.0;0.3;0.5;50.0;1.0;1.0;100.0;0.5;1.0;50.0;1.833;0.58
+Washington Wizards;wsh;2021 - 2022 Regular Season;January;Tremont Waters;1.0;2.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;2.0;50.0;1.000;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;January;Isaiah Todd;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;January;Craig Sword;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;January;Alize Johnson;0.0;0.5;0.0;0.0;0.5;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;January;Total;40.5;86.8;46.7;10.0;31.4;31.8;20.4;25.1;81.2;30.5;55.4;55.1;1.283;0.52
+Washington Wizards;wsh;2021 - 2022 Regular Season;February;Kyle Kuzma;7.8;17.2;45.5;2.7;6.4;42.9;2.6;3.3;80.6;5.1;10.8;47.1;1.222;0.53
+Washington Wizards;wsh;2021 - 2022 Regular Season;February;Montrezl Harrell;6.3;10.8;58.1;0.0;0.3;0.0;3.0;4.0;75.0;6.3;10.5;59.5;1.442;0.58
+Washington Wizards;wsh;2021 - 2022 Regular Season;February;Kentavious Caldwell-Pope;4.5;11.3;40.3;1.7;4.4;39.6;2.3;2.3;100.0;2.8;6.9;40.8;1.161;0.48
+Washington Wizards;wsh;2021 - 2022 Regular Season;February;Corey Kispert;4.1;9.1;45.0;1.9;5.8;32.8;0.6;0.6;100.0;2.2;3.3;66.7;1.180;0.56
+Washington Wizards;wsh;2021 - 2022 Regular Season;February;Rui Hachimura;3.9;7.9;49.4;1.4;2.2;63.6;1.1;1.4;78.6;2.5;5.7;43.9;1.304;0.58
+Washington Wizards;wsh;2021 - 2022 Regular Season;February;Raul Neto;3.8;8.0;47.7;1.0;2.8;35.5;1.6;2.3;72.0;2.8;5.2;54.4;1.284;0.54
+Washington Wizards;wsh;2021 - 2022 Regular Season;February;Ish Smith;4.5;8.8;50.9;0.5;1.5;33.3;0.0;0.2;0.0;4.0;7.3;54.5;1.075;0.54
+Washington Wizards;wsh;2021 - 2022 Regular Season;February;Deni Avdija;3.3;7.6;42.9;1.0;3.3;30.6;1.6;1.8;90.0;2.3;4.4;52.1;1.202;0.49
+Washington Wizards;wsh;2021 - 2022 Regular Season;February;Daniel Gafford;3.8;6.0;63.9;0.0;0.0;0.0;0.7;1.2;57.1;3.8;6.0;63.9;1.389;0.64
+Washington Wizards;wsh;2021 - 2022 Regular Season;February;Thomas Bryant;3.3;6.1;54.1;0.4;1.6;25.0;1.1;1.1;100.0;2.9;4.5;64.4;1.328;0.57
+Washington Wizards;wsh;2021 - 2022 Regular Season;February;Aaron Holiday;2.8;6.8;40.7;0.5;2.8;18.2;1.5;2.0;75.0;2.3;4.0;56.3;1.111;0.44
+Washington Wizards;wsh;2021 - 2022 Regular Season;February;Spencer Dinwiddie;2.3;9.0;25.0;0.8;3.3;23.1;2.0;2.5;80.0;1.5;5.8;26.1;0.806;0.29
+Washington Wizards;wsh;2021 - 2022 Regular Season;February;Anthony Gill;2.0;3.6;55.2;0.3;0.6;40.0;1.3;2.1;58.8;1.8;3.0;58.3;1.517;0.59
+Washington Wizards;wsh;2021 - 2022 Regular Season;February;Cassius Winston;1.0;1.3;75.0;0.7;1.0;66.7;0.0;0.0;0.0;0.3;0.3;100.0;2.000;1.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;February;Davis Bertans;0.5;1.5;33.3;0.0;1.0;0.0;0.5;0.5;100.0;0.5;0.5;100.0;1.000;0.33
+Washington Wizards;wsh;2021 - 2022 Regular Season;February;Vernon Carey Jr.;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;February;Isaiah Todd;0.0;2.0;0.0;0.0;1.0;0.0;0.0;2.0;0.0;0.0;1.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;February;Total;40.5;87.1;46.6;11.1;30.2;36.7;14.5;18.2;80.0;29.5;56.9;51.8;1.225;0.53
+Washington Wizards;wsh;2021 - 2022 Regular Season;March;Kristaps Porzingis;7.0;14.8;47.2;1.4;4.5;30.5;6.5;7.5;86.6;5.6;10.3;54.5;1.472;0.52
+Washington Wizards;wsh;2021 - 2022 Regular Season;March;Kyle Kuzma;6.8;15.9;42.7;1.7;6.0;27.8;2.9;4.0;72.2;5.1;9.9;51.7;1.140;0.48
+Washington Wizards;wsh;2021 - 2022 Regular Season;March;Kentavious Caldwell-Pope;5.7;11.9;47.6;2.4;5.6;42.7;3.1;3.7;84.7;3.3;6.4;52.0;1.414;0.58
+Washington Wizards;wsh;2021 - 2022 Regular Season;March;Rui Hachimura;5.2;9.8;52.9;1.5;3.4;43.6;0.9;1.2;73.7;3.7;6.4;57.8;1.299;0.61
+Washington Wizards;wsh;2021 - 2022 Regular Season;March;Corey Kispert;4.4;9.1;48.6;2.4;6.2;39.4;0.6;0.8;76.9;2.0;2.9;68.1;1.308;0.62
+Washington Wizards;wsh;2021 - 2022 Regular Season;March;Thomas Bryant;3.6;5.6;64.3;0.4;1.4;28.6;3.0;3.2;93.8;3.2;4.2;76.2;1.893;0.68
+Washington Wizards;wsh;2021 - 2022 Regular Season;March;Daniel Gafford;3.9;5.4;71.6;0.0;0.1;0.0;1.7;2.7;62.5;3.9;5.3;72.5;1.741;0.72
+Washington Wizards;wsh;2021 - 2022 Regular Season;March;Deni Avdija;3.1;7.9;39.4;1.2;3.6;33.3;1.9;2.6;75.6;1.9;4.4;44.3;1.181;0.47
+Washington Wizards;wsh;2021 - 2022 Regular Season;March;Ish Smith;3.4;8.3;41.4;0.6;1.6;34.6;0.2;0.3;75.0;2.9;6.7;43.0;0.917;0.45
+Washington Wizards;wsh;2021 - 2022 Regular Season;March;Raul Neto;2.4;5.2;46.6;0.5;1.1;43.8;1.1;1.3;83.3;1.9;4.1;47.4;1.233;0.51
+Washington Wizards;wsh;2021 - 2022 Regular Season;March;Tomas Satoransky;1.6;3.6;44.8;0.3;1.0;25.0;1.0;1.2;84.2;1.4;2.6;52.4;1.241;0.48
+Washington Wizards;wsh;2021 - 2022 Regular Season;March;Anthony Gill;1.4;2.2;65.4;0.3;0.6;57.1;0.8;0.8;90.0;1.1;1.6;68.4;1.808;0.73
+Washington Wizards;wsh;2021 - 2022 Regular Season;March;Total;40.9;84.8;48.3;11.2;30.4;36.8;18.6;23.3;80.1;29.8;54.4;54.7;1.318;0.55
+Washington Wizards;wsh;2021 - 2022 Regular Season;April;Kristaps Porzingis;8.0;16.5;48.5;2.8;5.0;55.0;4.3;4.8;89.5;5.3;11.5;45.7;1.394;0.57
+Washington Wizards;wsh;2021 - 2022 Regular Season;April;Kentavious Caldwell-Pope;7.5;14.0;53.6;2.3;5.8;39.1;1.3;1.3;100.0;5.3;8.3;63.6;1.321;0.62
+Washington Wizards;wsh;2021 - 2022 Regular Season;April;Rui Hachimura;6.2;13.2;46.8;1.7;4.2;40.0;1.5;2.8;52.9;4.5;9.0;50.0;1.177;0.53
+Washington Wizards;wsh;2021 - 2022 Regular Season;April;Daniel Gafford;4.8;6.5;74.4;0.0;0.0;0.0;2.5;3.7;68.2;4.8;6.5;74.4;1.872;0.74
+Washington Wizards;wsh;2021 - 2022 Regular Season;April;Deni Avdija;5.0;11.0;45.5;1.7;5.2;32.3;0.5;0.8;60.0;3.3;5.8;57.1;1.106;0.53
+Washington Wizards;wsh;2021 - 2022 Regular Season;April;Corey Kispert;4.3;8.3;52.0;2.2;5.5;39.4;0.7;0.7;100.0;2.2;2.8;76.5;1.380;0.65
+Washington Wizards;wsh;2021 - 2022 Regular Season;April;Ish Smith;5.0;9.8;50.8;0.5;1.2;42.9;0.0;0.0;0.0;4.5;8.7;51.9;1.068;0.53
+Washington Wizards;wsh;2021 - 2022 Regular Season;April;Anthony Gill;2.2;5.4;40.7;0.6;1.4;42.9;2.2;2.2;100.0;1.6;4.0;40.0;1.333;0.46
+Washington Wizards;wsh;2021 - 2022 Regular Season;April;Raul Neto;2.2;3.6;61.1;0.4;1.2;33.3;1.2;1.4;85.7;1.8;2.4;75.0;1.667;0.67
+Washington Wizards;wsh;2021 - 2022 Regular Season;April;Vernon Carey Jr.;2.0;3.5;57.1;0.0;0.0;0.0;2.0;5.0;40.0;2.0;3.5;57.1;1.714;0.57
+Washington Wizards;wsh;2021 - 2022 Regular Season;April;Tomas Satoransky;2.3;4.3;53.8;0.3;1.0;33.3;0.8;1.0;83.3;2.0;3.3;60.0;1.346;0.58
+Washington Wizards;wsh;2021 - 2022 Regular Season;April;Jordan Schakel;0.5;2.5;20.0;0.5;1.5;33.3;1.0;1.0;100.0;0.0;1.0;0.0;1.000;0.30
+Washington Wizards;wsh;2021 - 2022 Regular Season;April;Thomas Bryant;1.0;2.5;40.0;0.3;0.8;33.3;0.0;0.0;0.0;0.8;1.8;42.9;0.900;0.45
+Washington Wizards;wsh;2021 - 2022 Regular Season;April;Cassius Winston;0.5;2.5;20.0;0.0;0.5;0.0;1.0;1.0;100.0;0.5;2.0;25.0;0.800;0.20
+Washington Wizards;wsh;2021 - 2022 Regular Season;April;Isaiah Todd;1.0;4.5;22.2;0.0;2.5;0.0;0.0;0.0;0.0;1.0;2.0;50.0;0.444;0.22
+Washington Wizards;wsh;2021 - 2022 Regular Season;April;Total;43.7;87.0;50.2;10.8;28.3;38.2;13.8;18.3;75.5;32.8;58.7;56.0;1.287;0.56
+Washington Wizards;wsh;2021 - 2022 Regular Season;Atlantic Division;Bradley Beal;7.5;19.4;38.7;1.5;5.7;26.3;4.9;5.5;89.1;6.0;13.7;43.8;1.103;0.43
+Washington Wizards;wsh;2021 - 2022 Regular Season;Atlantic Division;Kristaps Porzingis;5.0;12.0;41.7;2.0;4.0;50.0;5.5;5.5;100.0;3.0;8.0;37.5;1.458;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;Atlantic Division;Montrezl Harrell;5.3;8.1;65.7;0.2;0.5;28.6;3.6;4.8;75.8;5.2;7.5;68.4;1.781;0.67
+Washington Wizards;wsh;2021 - 2022 Regular Season;Atlantic Division;Spencer Dinwiddie;4.3;12.1;35.7;1.5;4.9;31.3;3.5;4.5;76.3;2.8;7.2;38.7;1.127;0.42
+Washington Wizards;wsh;2021 - 2022 Regular Season;Atlantic Division;Kyle Kuzma;4.8;12.7;37.9;1.5;5.1;28.9;1.7;2.9;59.1;3.3;7.6;43.9;1.011;0.44
+Washington Wizards;wsh;2021 - 2022 Regular Season;Atlantic Division;Rui Hachimura;4.5;8.9;50.6;1.5;2.6;57.7;1.3;1.6;81.3;3.0;6.3;47.6;1.326;0.59
+Washington Wizards;wsh;2021 - 2022 Regular Season;Atlantic Division;Ish Smith;5.0;8.5;58.8;0.5;1.5;33.3;0.0;0.0;0.0;4.5;7.0;64.3;1.235;0.62
+Washington Wizards;wsh;2021 - 2022 Regular Season;Atlantic Division;Kentavious Caldwell-Pope;4.0;9.7;41.1;1.2;4.1;29.5;1.1;1.1;94.1;2.8;5.7;49.4;1.055;0.47
+Washington Wizards;wsh;2021 - 2022 Regular Season;Atlantic Division;Deni Avdija;3.1;6.6;47.5;0.8;2.8;29.4;1.3;2.0;66.7;2.3;3.7;61.2;1.280;0.54
+Washington Wizards;wsh;2021 - 2022 Regular Season;Atlantic Division;Raul Neto;3.3;5.7;57.0;0.7;1.7;38.5;0.9;1.3;73.7;2.6;4.0;65.0;1.419;0.63
+Washington Wizards;wsh;2021 - 2022 Regular Season;Atlantic Division;Thomas Bryant;3.4;6.5;51.9;0.5;2.0;25.0;0.8;1.1;66.7;2.9;4.5;63.9;1.231;0.56
+Washington Wizards;wsh;2021 - 2022 Regular Season;Atlantic Division;Corey Kispert;2.4;5.3;45.6;1.3;3.3;39.3;1.2;1.3;95.5;1.1;2.0;55.9;1.389;0.58
+Washington Wizards;wsh;2021 - 2022 Regular Season;Atlantic Division;Daniel Gafford;2.7;4.1;65.2;0.0;0.0;0.0;1.8;2.4;76.3;2.7;4.1;65.2;1.742;0.65
+Washington Wizards;wsh;2021 - 2022 Regular Season;Atlantic Division;Anthony Gill;1.8;3.1;57.1;0.3;0.7;50.0;1.6;2.0;77.8;1.4;2.4;59.1;1.750;0.63
+Washington Wizards;wsh;2021 - 2022 Regular Season;Atlantic Division;Aaron Holiday;2.0;4.4;45.8;0.7;1.7;42.1;0.5;0.6;85.7;1.3;2.6;48.3;1.208;0.54
+Washington Wizards;wsh;2021 - 2022 Regular Season;Atlantic Division;Tomas Satoransky;1.7;4.3;38.5;0.3;1.3;25.0;1.0;1.3;75.0;1.3;3.0;44.4;1.077;0.42
+Washington Wizards;wsh;2021 - 2022 Regular Season;Atlantic Division;Davis Bertans;1.3;4.9;26.5;0.9;4.3;20.9;0.4;0.4;100.0;0.4;0.6;66.7;0.796;0.36
+Washington Wizards;wsh;2021 - 2022 Regular Season;Atlantic Division;Cassius Winston;1.0;2.0;50.0;0.3;1.0;33.3;1.3;1.3;100.0;0.7;1.0;66.7;1.833;0.58
+Washington Wizards;wsh;2021 - 2022 Regular Season;Atlantic Division;Jordan Schakel;0.5;5.0;10.0;0.5;3.0;16.7;1.0;1.0;100.0;0.0;2.0;0.0;0.500;0.15
+Washington Wizards;wsh;2021 - 2022 Regular Season;Atlantic Division;Isaiah Todd;0.8;2.3;33.3;0.3;1.3;20.0;0.3;0.5;50.0;0.5;1.0;50.0;0.889;0.39
+Washington Wizards;wsh;2021 - 2022 Regular Season;Atlantic Division;Vernon Carey Jr.;0.0;0.0;0.0;0.0;0.0;0.0;1.0;2.0;50.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;Atlantic Division;Joel Ayayi;0.3;1.7;20.0;0.0;0.0;0.0;0.0;0.0;0.0;0.3;1.7;20.0;0.400;0.20
+Washington Wizards;wsh;2021 - 2022 Regular Season;Atlantic Division;Total;38.2;84.4;45.2;9.6;30.0;32.0;18.7;23.9;78.0;28.6;54.4;52.5;1.240;0.51
+Washington Wizards;wsh;2021 - 2022 Regular Season;Central Division;Bradley Beal;9.5;19.1;49.7;1.0;3.6;27.6;5.0;6.1;81.6;8.5;15.5;54.8;1.307;0.52
+Washington Wizards;wsh;2021 - 2022 Regular Season;Central Division;Kyle Kuzma;8.5;16.8;50.8;3.1;7.0;43.8;2.7;3.5;75.5;5.5;9.8;55.8;1.357;0.60
+Washington Wizards;wsh;2021 - 2022 Regular Season;Central Division;Kristaps Porzingis;7.5;15.0;50.0;2.0;5.3;38.1;4.3;5.3;81.0;5.5;9.8;56.4;1.417;0.57
+Washington Wizards;wsh;2021 - 2022 Regular Season;Central Division;Spencer Dinwiddie;4.3;10.9;39.5;2.1;5.4;39.5;2.6;2.7;94.7;2.1;5.4;39.5;1.224;0.49
+Washington Wizards;wsh;2021 - 2022 Regular Season;Central Division;Montrezl Harrell;4.9;8.1;59.6;0.0;0.3;0.0;3.6;4.1;86.2;4.9;7.9;61.8;1.632;0.60
+Washington Wizards;wsh;2021 - 2022 Regular Season;Central Division;Kentavious Caldwell-Pope;4.3;11.2;38.8;2.1;5.2;39.8;1.9;2.1;89.5;2.3;6.0;38.0;1.129;0.48
+Washington Wizards;wsh;2021 - 2022 Regular Season;Central Division;Rui Hachimura;3.9;8.0;48.4;1.4;3.3;42.3;0.9;1.5;58.3;2.5;4.8;52.6;1.250;0.57
+Washington Wizards;wsh;2021 - 2022 Regular Season;Central Division;Ish Smith;4.6;9.1;50.7;0.5;1.6;30.8;0.0;0.0;0.0;4.1;7.5;55.0;1.068;0.53
+Washington Wizards;wsh;2021 - 2022 Regular Season;Central Division;Daniel Gafford;4.3;5.9;73.9;0.0;0.1;0.0;0.5;1.3;40.0;4.3;5.8;74.7;1.568;0.74
+Washington Wizards;wsh;2021 - 2022 Regular Season;Central Division;Deni Avdija;3.2;7.4;42.5;1.1;3.4;31.1;1.2;1.3;95.7;2.1;4.1;52.1;1.157;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;Central Division;Greg Monroe;4.0;7.0;57.1;0.0;0.0;0.0;0.0;0.0;0.0;4.0;7.0;57.1;1.143;0.57
+Washington Wizards;wsh;2021 - 2022 Regular Season;Central Division;Thomas Bryant;2.5;4.7;53.6;0.5;1.0;50.0;2.3;2.3;100.0;2.0;3.7;54.5;1.679;0.59
+Washington Wizards;wsh;2021 - 2022 Regular Season;Central Division;Davis Bertans;2.3;5.3;42.9;1.8;3.8;46.7;1.5;1.8;85.7;0.5;1.5;33.3;1.476;0.60
+Washington Wizards;wsh;2021 - 2022 Regular Season;Central Division;Raul Neto;3.0;6.4;46.9;0.6;1.7;34.6;0.9;1.1;82.4;2.4;4.7;51.4;1.177;0.52
+Washington Wizards;wsh;2021 - 2022 Regular Season;Central Division;Corey Kispert;2.9;7.2;40.2;1.1;4.2;25.4;0.5;0.5;88.9;1.8;3.0;60.8;1.016;0.48
+Washington Wizards;wsh;2021 - 2022 Regular Season;Central Division;Brad Wanamaker;2.0;5.0;40.0;0.0;0.0;0.0;3.0;3.0;100.0;2.0;5.0;40.0;1.400;0.40
+Washington Wizards;wsh;2021 - 2022 Regular Season;Central Division;Aaron Holiday;2.1;4.9;43.6;0.5;1.4;36.4;0.9;1.3;70.0;1.6;3.5;46.4;1.154;0.49
+Washington Wizards;wsh;2021 - 2022 Regular Season;Central Division;Tomas Satoransky;1.6;3.6;44.4;0.2;0.8;25.0;1.6;1.8;88.9;1.4;2.8;50.0;1.389;0.47
+Washington Wizards;wsh;2021 - 2022 Regular Season;Central Division;Anthony Gill;1.6;2.7;59.4;0.4;0.8;50.0;1.0;1.2;85.7;1.2;1.8;63.6;1.719;0.67
+Washington Wizards;wsh;2021 - 2022 Regular Season;Central Division;Cassius Winston;1.0;1.0;100.0;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;3.000;1.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;Central Division;Tremont Waters;1.0;2.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;2.0;50.0;1.000;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;Central Division;Isaiah Todd;0.3;1.7;20.0;0.0;0.7;0.0;0.3;1.3;25.0;0.3;1.0;33.3;0.600;0.20
+Washington Wizards;wsh;2021 - 2022 Regular Season;Central Division;Craig Sword;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;Central Division;Alize Johnson;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;Central Division;Jordan Goodwin;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;Central Division;Jordan Schakel;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;Central Division;Joel Ayayi;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;Central Division;Jaime Echenique;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;Central Division;Total;40.9;85.3;48.0;10.9;29.8;36.5;15.8;19.5;80.9;30.1;55.5;54.2;1.272;0.54
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pacific Division;Bradley Beal;10.7;19.0;56.1;2.0;4.7;42.9;3.0;4.7;64.3;8.7;14.3;60.5;1.386;0.61
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pacific Division;Kristaps Porzingis;6.6;15.6;42.3;1.0;4.4;22.7;7.4;8.0;92.5;5.6;11.2;50.0;1.385;0.46
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pacific Division;Kyle Kuzma;5.3;12.8;41.2;1.0;4.6;21.6;2.4;4.0;59.4;4.3;8.1;52.3;1.088;0.45
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pacific Division;Montrezl Harrell;4.3;7.8;54.8;0.0;0.0;0.0;4.8;6.0;79.2;4.3;7.8;54.8;1.710;0.55
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pacific Division;Kentavious Caldwell-Pope;4.4;9.3;47.3;1.3;3.7;35.1;2.8;3.2;87.5;3.1;5.6;55.4;1.387;0.54
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pacific Division;Corey Kispert;4.4;9.1;48.8;2.6;5.9;43.4;0.3;0.4;75.0;1.9;3.2;58.6;1.293;0.63
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pacific Division;Rui Hachimura;4.4;8.4;52.2;1.3;2.4;52.6;0.6;0.9;71.4;3.1;6.0;52.1;1.269;0.60
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pacific Division;Deni Avdija;3.3;7.7;42.9;1.3;3.2;40.6;2.1;2.8;75.0;2.0;4.5;44.4;1.299;0.51
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pacific Division;Thomas Bryant;3.7;6.7;55.0;1.0;2.0;50.0;1.3;1.3;100.0;2.7;4.7;57.1;1.450;0.63
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pacific Division;Daniel Gafford;4.0;6.2;64.3;0.0;0.0;0.0;1.4;2.0;72.2;4.0;6.2;64.3;1.518;0.64
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pacific Division;Raul Neto;2.9;6.6;43.4;0.5;1.6;30.8;1.8;2.5;70.0;2.4;5.0;47.5;1.208;0.47
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pacific Division;Aaron Holiday;3.7;7.3;50.0;0.3;2.0;16.7;0.3;0.7;50.0;3.3;5.3;62.5;1.091;0.52
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pacific Division;Tomas Satoransky;3.0;4.8;62.5;0.4;1.0;40.0;1.4;1.6;87.5;2.6;3.8;68.4;1.625;0.67
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pacific Division;Ish Smith;2.7;7.7;34.8;0.7;1.3;50.0;0.5;0.7;75.0;2.0;6.3;31.6;0.848;0.39
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pacific Division;Spencer Dinwiddie;1.7;7.7;21.7;0.3;3.7;9.1;0.7;0.7;100.0;1.3;4.0;33.3;0.565;0.24
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pacific Division;Davis Bertans;0.7;3.0;22.2;0.7;3.0;22.2;1.7;2.0;83.3;0.0;0.0;0.0;1.222;0.33
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pacific Division;Anthony Gill;0.8;1.2;71.4;0.2;0.2;100.0;0.3;0.7;50.0;0.7;1.0;66.7;1.857;0.79
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pacific Division;Vernon Carey Jr.;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pacific Division;Total;40.0;84.7;47.2;9.6;27.3;35.2;19.2;24.9;77.1;30.4;57.4;53.0;1.285;0.53
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southeast Division;Kristaps Porzingis;9.5;17.0;55.9;3.5;7.0;50.0;8.0;10.0;80.0;6.0;10.0;60.0;1.794;0.66
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southeast Division;Bradley Beal;9.0;20.5;43.9;2.6;7.9;33.3;4.3;4.6;91.9;6.4;12.6;50.5;1.213;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southeast Division;Kyle Kuzma;6.7;14.8;45.3;2.2;6.5;34.5;2.5;3.3;74.4;4.5;8.3;53.7;1.224;0.53
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southeast Division;Montrezl Harrell;6.6;9.8;67.0;0.0;0.2;0.0;3.7;4.0;91.7;6.6;9.6;68.6;1.716;0.67
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southeast Division;Kentavious Caldwell-Pope;4.6;10.4;44.8;2.6;6.1;42.4;1.6;1.9;81.5;2.1;4.3;48.3;1.297;0.57
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southeast Division;Spencer Dinwiddie;4.7;11.2;41.6;1.8;5.9;30.2;1.6;1.8;87.5;2.9;5.3;54.2;1.129;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southeast Division;Rui Hachimura;4.9;11.3;43.0;1.0;3.6;28.0;1.6;2.0;78.6;3.9;7.7;50.0;1.089;0.47
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southeast Division;Vernon Carey Jr.;4.0;7.0;57.1;0.0;0.0;0.0;3.0;8.0;37.5;4.0;7.0;57.1;1.571;0.57
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southeast Division;Daniel Gafford;4.5;6.3;70.7;0.0;0.0;0.0;1.8;2.7;65.7;4.5;6.3;70.7;1.695;0.71
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southeast Division;Corey Kispert;3.3;7.1;46.5;1.5;4.4;34.3;0.8;0.8;100.0;1.8;2.8;65.9;1.246;0.57
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southeast Division;Davis Bertans;2.4;5.1;47.2;2.0;4.4;45.2;0.9;0.9;100.0;0.4;0.7;60.0;1.500;0.67
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southeast Division;Deni Avdija;2.4;6.3;38.6;1.1;3.4;33.3;1.2;1.4;86.4;1.3;2.9;44.7;1.139;0.48
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southeast Division;Ish Smith;3.3;7.8;41.9;0.5;1.3;40.0;0.0;0.0;0.0;2.8;6.5;42.3;0.903;0.45
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southeast Division;Thomas Bryant;3.0;4.3;70.6;0.3;1.3;20.0;0.8;1.0;75.0;2.8;3.0;91.7;1.647;0.74
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southeast Division;Aaron Holiday;2.8;6.6;41.5;0.8;2.4;31.6;0.4;0.5;75.0;2.0;4.3;47.1;1.000;0.47
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southeast Division;Craig Sword;3.0;4.0;75.0;0.0;1.0;0.0;0.0;0.0;0.0;3.0;3.0;100.0;1.500;0.75
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southeast Division;Raul Neto;2.0;5.7;35.0;0.1;1.6;9.1;1.1;1.4;84.2;1.9;4.1;44.8;0.925;0.36
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southeast Division;Tomas Satoransky;1.5;2.8;54.5;0.5;1.0;50.0;0.0;0.0;0.0;1.0;1.8;57.1;1.273;0.64
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southeast Division;Anthony Gill;1.4;3.3;43.5;0.1;0.3;50.0;0.4;0.6;75.0;1.3;3.0;42.9;1.043;0.46
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southeast Division;Alize Johnson;1.0;3.0;33.3;0.0;1.0;0.0;0.0;0.5;0.0;1.0;2.0;50.0;0.667;0.33
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southeast Division;Isaiah Todd;0.3;2.0;12.5;0.3;1.3;20.0;0.0;0.0;0.0;0.0;0.8;0.0;0.375;0.19
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southeast Division;Greg Monroe;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southeast Division;Cassius Winston;0.0;3.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southeast Division;Jordan Goodwin;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southeast Division;Jordan Schakel;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southeast Division;Joel Ayayi;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southeast Division;Total;40.4;86.4;46.7;11.7;34.2;34.2;15.6;19.3;81.2;28.7;52.3;54.9;1.250;0.53
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southwest Division;Kristaps Porzingis;7.5;18.0;41.7;1.0;3.5;28.6;7.0;7.5;93.3;6.5;14.5;44.8;1.278;0.44
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southwest Division;Bradley Beal;7.8;17.2;45.6;0.8;3.7;22.7;3.5;4.5;77.8;7.0;13.5;51.9;1.165;0.48
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southwest Division;Kyle Kuzma;6.8;13.9;48.6;2.0;5.3;38.1;3.6;4.3;85.3;4.8;8.6;55.1;1.378;0.56
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southwest Division;Kentavious Caldwell-Pope;6.7;12.1;55.4;3.1;6.8;45.6;2.0;2.1;95.2;3.6;5.3;67.9;1.529;0.68
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southwest Division;Spencer Dinwiddie;4.8;11.8;40.7;2.0;5.0;40.0;3.6;4.8;75.0;2.8;6.8;41.2;1.288;0.49
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southwest Division;Rui Hachimura;5.0;9.0;55.6;1.5;3.3;46.2;0.8;1.3;60.0;3.5;5.8;60.9;1.361;0.64
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southwest Division;Montrezl Harrell;4.5;7.3;61.4;0.2;0.3;50.0;1.8;4.3;42.3;4.3;7.0;61.9;1.500;0.63
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southwest Division;Raul Neto;4.0;7.2;55.4;0.8;1.9;41.2;1.8;2.6;69.6;3.2;5.3;60.4;1.462;0.61
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southwest Division;Daniel Gafford;4.4;6.0;74.1;0.0;0.0;0.0;1.1;1.7;66.7;4.4;6.0;74.1;1.667;0.74
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southwest Division;Ish Smith;4.3;9.3;46.4;0.3;2.0;16.7;0.0;0.3;0.0;4.0;7.3;54.5;0.964;0.48
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southwest Division;Deni Avdija;3.0;7.8;38.5;0.9;3.2;28.1;0.9;1.4;64.3;2.1;4.6;45.7;1.000;0.44
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southwest Division;Aaron Holiday;2.7;5.3;50.0;0.2;0.8;20.0;0.5;0.5;100.0;2.5;4.5;55.6;1.125;0.52
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southwest Division;Corey Kispert;2.1;5.3;39.6;0.9;3.6;25.0;0.6;0.8;75.0;1.2;1.7;70.6;1.075;0.48
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southwest Division;Thomas Bryant;2.3;6.7;35.0;0.3;1.7;20.0;0.0;0.0;0.0;2.0;5.0;40.0;0.750;0.38
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southwest Division;Anthony Gill;1.3;2.0;64.3;0.6;0.9;66.7;1.3;1.4;90.0;0.7;1.1;62.5;2.214;0.79
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southwest Division;Tomas Satoransky;0.5;2.5;20.0;0.0;1.0;0.0;1.5;2.0;75.0;0.5;1.5;33.3;1.000;0.20
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southwest Division;Davis Bertans;0.3;5.3;4.8;0.3;4.8;5.3;0.0;0.0;0.0;0.0;0.5;0.0;0.143;0.07
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southwest Division;Craig Sword;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southwest Division;Cassius Winston;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;Southwest Division;Total;42.8;88.0;48.6;10.4;30.7;33.9;17.2;23.0;74.8;32.4;57.3;56.5;1.286;0.55
+Washington Wizards;wsh;2021 - 2022 Regular Season;Northwest Division;Bradley Beal;9.2;20.0;46.0;1.6;5.0;32.0;3.2;4.2;76.2;7.6;15.0;50.7;1.160;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;Northwest Division;Kristaps Porzingis;8.0;13.5;59.3;1.5;3.5;42.9;3.0;4.5;66.7;6.5;10.0;65.0;1.519;0.65
+Washington Wizards;wsh;2021 - 2022 Regular Season;Northwest Division;Montrezl Harrell;5.9;8.3;70.7;0.1;0.3;50.0;2.0;4.0;50.0;5.7;8.0;71.4;1.672;0.72
+Washington Wizards;wsh;2021 - 2022 Regular Season;Northwest Division;Kyle Kuzma;5.7;12.7;44.9;1.0;4.4;22.6;1.4;1.9;76.9;4.7;8.3;56.9;1.090;0.49
+Washington Wizards;wsh;2021 - 2022 Regular Season;Northwest Division;Kentavious Caldwell-Pope;4.7;12.3;38.2;2.4;6.4;37.5;1.7;1.9;89.5;2.3;5.9;39.0;1.098;0.48
+Washington Wizards;wsh;2021 - 2022 Regular Season;Northwest Division;Spencer Dinwiddie;4.0;10.9;36.8;1.1;5.0;22.9;2.7;3.3;82.6;2.9;5.9;48.8;1.092;0.42
+Washington Wizards;wsh;2021 - 2022 Regular Season;Northwest Division;Rui Hachimura;4.4;9.2;47.8;1.2;2.8;42.9;1.4;2.4;58.3;3.2;6.4;50.0;1.239;0.54
+Washington Wizards;wsh;2021 - 2022 Regular Season;Northwest Division;Daniel Gafford;4.3;6.5;66.2;0.0;0.0;0.0;2.4;2.7;88.9;4.3;6.5;66.2;1.692;0.66
+Washington Wizards;wsh;2021 - 2022 Regular Season;Northwest Division;Corey Kispert;3.8;6.6;56.6;2.0;4.3;47.1;0.5;0.9;57.1;1.8;2.4;73.7;1.509;0.72
+Washington Wizards;wsh;2021 - 2022 Regular Season;Northwest Division;Ish Smith;4.3;11.0;39.4;0.7;1.3;50.0;0.0;0.0;0.0;3.7;9.7;37.9;0.848;0.42
+Washington Wizards;wsh;2021 - 2022 Regular Season;Northwest Division;Davis Bertans;3.0;5.8;51.4;2.2;4.5;48.1;1.2;1.2;100.0;0.8;1.3;62.5;1.600;0.70
+Washington Wizards;wsh;2021 - 2022 Regular Season;Northwest Division;Deni Avdija;3.5;7.1;49.3;0.8;2.9;27.6;0.8;1.3;61.5;2.7;4.2;64.3;1.211;0.55
+Washington Wizards;wsh;2021 - 2022 Regular Season;Northwest Division;Aaron Holiday;2.4;4.0;60.0;0.6;1.4;42.9;1.6;1.8;88.9;1.8;2.6;69.2;1.750;0.68
+Washington Wizards;wsh;2021 - 2022 Regular Season;Northwest Division;Raul Neto;2.6;6.8;37.7;0.3;1.8;18.8;1.0;1.1;90.0;2.2;5.0;44.4;0.951;0.40
+Washington Wizards;wsh;2021 - 2022 Regular Season;Northwest Division;Thomas Bryant;1.7;3.7;45.5;0.0;1.3;0.0;2.7;3.0;88.9;1.7;2.3;71.4;1.636;0.45
+Washington Wizards;wsh;2021 - 2022 Regular Season;Northwest Division;Isaiah Todd;2.0;4.0;50.0;2.0;4.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.500;0.75
+Washington Wizards;wsh;2021 - 2022 Regular Season;Northwest Division;Tomas Satoransky;1.7;4.3;38.5;0.0;1.0;0.0;0.0;0.0;0.0;1.7;3.3;50.0;0.769;0.38
+Washington Wizards;wsh;2021 - 2022 Regular Season;Northwest Division;Anthony Gill;1.0;1.7;60.0;0.0;0.3;0.0;0.7;0.7;100.0;1.0;1.3;75.0;1.600;0.60
+Washington Wizards;wsh;2021 - 2022 Regular Season;Northwest Division;Cassius Winston;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;Northwest Division;Joel Ayayi;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;Northwest Division;Total;42.9;89.1;48.1;10.4;30.8;33.8;15.9;20.9;76.1;32.5;58.3;55.7;1.258;0.54
+Washington Wizards;wsh;2021 - 2022 Regular Season;Eastern Conference;Bradley Beal;8.6;19.7;43.6;1.7;5.7;29.5;4.7;5.4;87.2;6.9;13.9;49.4;1.200;0.48
+Washington Wizards;wsh;2021 - 2022 Regular Season;Eastern Conference;Kristaps Porzingis;7.4;14.8;50.0;2.4;5.4;44.2;5.5;6.5;84.6;5.0;9.4;53.3;1.534;0.58
+Washington Wizards;wsh;2021 - 2022 Regular Season;Eastern Conference;Kyle Kuzma;6.7;14.7;45.3;2.3;6.2;36.6;2.3;3.3;70.0;4.4;8.6;51.5;1.213;0.53
+Washington Wizards;wsh;2021 - 2022 Regular Season;Eastern Conference;Montrezl Harrell;5.6;8.6;64.8;0.1;0.4;18.2;3.6;4.4;82.7;5.5;8.2;66.9;1.724;0.65
+Washington Wizards;wsh;2021 - 2022 Regular Season;Eastern Conference;Spencer Dinwiddie;4.4;11.5;38.3;1.8;5.3;32.9;2.7;3.2;81.9;2.7;6.2;43.0;1.150;0.46
+Washington Wizards;wsh;2021 - 2022 Regular Season;Eastern Conference;Kentavious Caldwell-Pope;4.3;10.5;41.3;1.9;5.1;38.1;1.5;1.7;87.8;2.4;5.4;44.3;1.157;0.51
+Washington Wizards;wsh;2021 - 2022 Regular Season;Eastern Conference;Rui Hachimura;4.4;9.3;47.4;1.3;3.1;42.9;1.2;1.7;73.8;3.1;6.2;49.7;1.224;0.55
+Washington Wizards;wsh;2021 - 2022 Regular Season;Eastern Conference;Ish Smith;4.4;8.6;50.7;0.5;1.5;33.3;0.0;0.0;0.0;3.9;7.1;54.4;1.072;0.54
+Washington Wizards;wsh;2021 - 2022 Regular Season;Eastern Conference;Daniel Gafford;3.8;5.4;70.3;0.0;0.0;0.0;1.4;2.1;64.5;3.8;5.3;70.6;1.661;0.70
+Washington Wizards;wsh;2021 - 2022 Regular Season;Eastern Conference;Deni Avdija;2.9;6.8;43.1;1.0;3.2;31.3;1.3;1.6;80.2;1.9;3.6;53.5;1.193;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;Eastern Conference;Corey Kispert;2.9;6.5;43.9;1.3;3.9;32.5;0.8;0.9;95.3;1.6;2.6;61.2;1.199;0.54
+Washington Wizards;wsh;2021 - 2022 Regular Season;Eastern Conference;Thomas Bryant;3.0;5.4;55.7;0.4;1.5;29.6;1.3;1.5;85.2;2.6;3.9;65.7;1.433;0.60
+Washington Wizards;wsh;2021 - 2022 Regular Season;Eastern Conference;Raul Neto;2.8;6.0;46.6;0.5;1.7;28.4;1.0;1.3;80.0;2.3;4.3;53.7;1.179;0.51
+Washington Wizards;wsh;2021 - 2022 Regular Season;Eastern Conference;Brad Wanamaker;2.0;5.0;40.0;0.0;0.0;0.0;3.0;3.0;100.0;2.0;5.0;40.0;1.400;0.40
+Washington Wizards;wsh;2021 - 2022 Regular Season;Eastern Conference;Vernon Carey Jr.;2.0;3.5;57.1;0.0;0.0;0.0;2.0;5.0;40.0;2.0;3.5;57.1;1.714;0.57
+Washington Wizards;wsh;2021 - 2022 Regular Season;Eastern Conference;Davis Bertans;1.9;5.0;36.8;1.4;4.2;33.7;0.8;0.8;94.1;0.4;0.8;52.9;1.170;0.51
+Washington Wizards;wsh;2021 - 2022 Regular Season;Eastern Conference;Aaron Holiday;2.3;5.2;43.6;0.7;1.8;36.7;0.6;0.8;76.2;1.6;3.4;47.3;1.114;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;Eastern Conference;Anthony Gill;1.6;3.0;54.2;0.3;0.6;50.0;1.0;1.3;80.6;1.3;2.3;55.4;1.542;0.60
+Washington Wizards;wsh;2021 - 2022 Regular Season;Eastern Conference;Tomas Satoransky;1.6;3.5;45.2;0.3;1.0;33.3;0.9;1.1;84.6;1.3;2.5;50.0;1.262;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;Eastern Conference;Greg Monroe;2.0;4.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;4.0;50.0;1.000;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;Eastern Conference;Craig Sword;1.5;2.0;75.0;0.0;0.5;0.0;0.0;0.0;0.0;1.5;1.5;100.0;1.500;0.75
+Washington Wizards;wsh;2021 - 2022 Regular Season;Eastern Conference;Cassius Winston;0.8;2.0;40.0;0.4;1.0;40.0;0.8;0.8;100.0;0.4;1.0;40.0;1.400;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;Eastern Conference;Tremont Waters;1.0;2.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;2.0;50.0;1.000;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;Eastern Conference;Alize Johnson;0.7;2.0;33.3;0.0;0.7;0.0;0.0;0.3;0.0;0.7;1.3;50.0;0.667;0.33
+Washington Wizards;wsh;2021 - 2022 Regular Season;Eastern Conference;Isaiah Todd;0.5;2.0;22.7;0.2;1.1;16.7;0.2;0.5;33.3;0.3;0.9;30.0;0.636;0.27
+Washington Wizards;wsh;2021 - 2022 Regular Season;Eastern Conference;Jordan Schakel;0.3;2.8;9.1;0.3;1.5;16.7;0.5;0.5;100.0;0.0;1.3;0.0;0.455;0.14
+Washington Wizards;wsh;2021 - 2022 Regular Season;Eastern Conference;Joel Ayayi;0.2;1.0;16.7;0.0;0.2;0.0;0.0;0.0;0.0;0.2;0.8;20.0;0.333;0.17
+Washington Wizards;wsh;2021 - 2022 Regular Season;Eastern Conference;Jordan Goodwin;0.0;1.5;0.0;0.0;0.5;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;Eastern Conference;Jaime Echenique;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;Eastern Conference;Total;39.8;85.3;46.6;10.7;31.2;34.2;16.7;21.0;79.8;29.1;54.1;53.8;1.254;0.53
+Washington Wizards;wsh;2021 - 2022 Regular Season;Western Conference;Bradley Beal;8.9;18.6;48.1;1.4;4.4;31.1;3.3;4.4;74.2;7.6;14.2;53.3;1.212;0.52
+Washington Wizards;wsh;2021 - 2022 Regular Season;Western Conference;Kristaps Porzingis;7.1;15.7;45.4;1.1;4.0;27.8;6.3;7.1;89.1;6.0;11.7;51.4;1.383;0.49
+Washington Wizards;wsh;2021 - 2022 Regular Season;Western Conference;Kyle Kuzma;5.9;13.1;45.0;1.3;4.8;28.2;2.5;3.4;73.4;4.6;8.3;54.7;1.195;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;Western Conference;Kentavious Caldwell-Pope;5.3;11.2;46.9;2.3;5.6;40.2;2.2;2.4;90.3;3.0;5.6;53.6;1.332;0.57
+Washington Wizards;wsh;2021 - 2022 Regular Season;Western Conference;Montrezl Harrell;5.0;7.8;63.9;0.1;0.2;50.0;2.6;4.6;56.4;4.9;7.6;64.3;1.624;0.65
+Washington Wizards;wsh;2021 - 2022 Regular Season;Western Conference;Spencer Dinwiddie;3.8;10.5;36.1;1.3;4.7;26.8;2.6;3.3;79.6;2.5;5.8;43.7;1.089;0.42
+Washington Wizards;wsh;2021 - 2022 Regular Season;Western Conference;Rui Hachimura;4.5;8.8;51.7;1.3;2.7;47.8;0.9;1.4;62.5;3.2;6.1;53.4;1.282;0.59
+Washington Wizards;wsh;2021 - 2022 Regular Season;Western Conference;Daniel Gafford;4.3;6.3;68.0;0.0;0.0;0.0;1.7;2.1;78.3;4.3;6.3;68.0;1.629;0.68
+Washington Wizards;wsh;2021 - 2022 Regular Season;Western Conference;Corey Kispert;3.4;7.0;48.4;1.8;4.6;39.0;0.5;0.7;68.4;1.6;2.4;66.2;1.293;0.61
+Washington Wizards;wsh;2021 - 2022 Regular Season;Western Conference;Deni Avdija;3.3;7.5;43.4;1.0;3.1;32.3;1.3;1.8;69.1;2.3;4.4;51.1;1.168;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;Western Conference;Raul Neto;3.2;6.9;45.8;0.5;1.8;30.4;1.5;2.0;73.6;2.6;5.1;51.1;1.212;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;Western Conference;Ish Smith;3.5;8.9;39.3;0.6;1.5;38.9;0.3;0.4;60.0;2.9;7.4;39.3;0.879;0.43
+Washington Wizards;wsh;2021 - 2022 Regular Season;Western Conference;Thomas Bryant;2.6;5.7;45.1;0.4;1.7;26.7;1.3;1.4;92.3;2.1;4.0;52.8;1.216;0.49
+Washington Wizards;wsh;2021 - 2022 Regular Season;Western Conference;Aaron Holiday;2.8;5.3;52.7;0.4;1.3;27.8;0.9;1.0;85.7;2.4;4.0;60.7;1.284;0.56
+Washington Wizards;wsh;2021 - 2022 Regular Season;Western Conference;Isaiah Todd;2.0;4.0;50.0;2.0;4.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.500;0.75
+Washington Wizards;wsh;2021 - 2022 Regular Season;Western Conference;Tomas Satoransky;2.1;4.2;50.0;0.2;1.0;20.0;1.0;1.2;83.3;1.9;3.2;59.4;1.286;0.52
+Washington Wizards;wsh;2021 - 2022 Regular Season;Western Conference;Davis Bertans;1.6;5.0;32.3;1.2;4.2;29.1;0.9;1.0;92.3;0.4;0.8;50.0;1.077;0.45
+Washington Wizards;wsh;2021 - 2022 Regular Season;Western Conference;Anthony Gill;1.1;1.6;65.4;0.3;0.5;62.5;0.8;1.0;81.3;0.8;1.1;66.7;2.000;0.75
+Washington Wizards;wsh;2021 - 2022 Regular Season;Western Conference;Craig Sword;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;Western Conference;Cassius Winston;0.0;0.5;0.0;0.0;0.5;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;Western Conference;Joel Ayayi;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;Western Conference;Vernon Carey Jr.;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;Western Conference;Total;41.9;87.3;48.0;10.1;29.6;34.2;17.4;22.9;76.0;31.8;57.7;55.1;1.276;0.54
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pre All-Star;Bradley Beal;8.7;19.3;45.1;1.6;5.3;30.0;4.2;5.1;83.3;7.1;14.0;50.8;1.204;0.49
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pre All-Star;Kyle Kuzma;6.1;13.5;45.2;1.9;5.5;33.4;2.2;3.2;70.3;4.3;8.0;53.3;1.206;0.52
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pre All-Star;Montrezl Harrell;5.4;8.3;64.5;0.1;0.3;26.7;3.2;4.5;72.7;5.3;8.0;66.0;1.689;0.65
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pre All-Star;Spencer Dinwiddie;4.2;11.2;37.6;1.6;5.1;31.0;2.6;3.3;81.1;2.6;6.0;43.2;1.130;0.45
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pre All-Star;Kentavious Caldwell-Pope;4.2;10.1;41.0;2.0;5.2;38.0;1.3;1.4;89.9;2.2;5.0;44.2;1.142;0.51
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pre All-Star;Ish Smith;5.0;8.5;58.8;0.5;1.3;40.0;0.0;0.0;0.0;4.5;7.3;62.1;1.235;0.62
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pre All-Star;Rui Hachimura;3.3;7.3;45.5;1.0;2.2;46.2;1.2;1.6;78.6;2.3;5.2;45.2;1.212;0.52
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pre All-Star;Daniel Gafford;3.7;5.6;67.0;0.0;0.0;0.0;1.3;1.8;75.0;3.7;5.6;67.0;1.582;0.67
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pre All-Star;Thomas Bryant;3.1;6.1;51.5;0.6;1.8;31.0;1.3;1.5;83.3;2.6;4.3;60.3;1.330;0.56
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pre All-Star;Raul Neto;3.0;6.6;45.5;0.4;1.8;24.4;1.3;1.7;74.7;2.6;4.8;53.6;1.169;0.49
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pre All-Star;Deni Avdija;2.8;6.4;44.1;0.9;2.9;30.7;1.2;1.6;76.7;1.9;3.6;54.9;1.204;0.51
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pre All-Star;Brad Wanamaker;2.0;5.0;40.0;0.0;0.0;0.0;3.0;3.0;100.0;2.0;5.0;40.0;1.400;0.40
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pre All-Star;Corey Kispert;2.5;5.8;43.0;1.1;3.4;32.2;0.7;0.8;88.4;1.4;2.4;58.3;1.173;0.52
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pre All-Star;Aaron Holiday;2.4;5.2;46.7;0.6;1.6;34.3;0.7;0.9;80.0;1.9;3.6;52.4;1.173;0.52
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pre All-Star;Davis Bertans;1.8;5.0;35.1;1.4;4.2;31.9;0.8;0.9;93.3;0.4;0.8;51.9;1.135;0.49
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pre All-Star;Greg Monroe;2.0;4.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;4.0;50.0;1.000;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pre All-Star;Anthony Gill;1.3;2.0;62.3;0.3;0.4;63.6;0.8;1.1;71.4;1.0;1.6;61.9;1.755;0.69
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pre All-Star;Cassius Winston;0.8;1.5;50.0;0.5;1.3;40.0;0.5;0.5;100.0;0.3;0.3;100.0;1.667;0.67
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pre All-Star;Craig Sword;1.0;1.3;75.0;0.0;0.3;0.0;0.0;0.0;0.0;1.0;1.0;100.0;1.500;0.75
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pre All-Star;Tremont Waters;1.0;2.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;2.0;50.0;1.000;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pre All-Star;Isaiah Todd;0.5;1.7;29.4;0.4;1.1;36.4;0.2;0.6;33.3;0.1;0.6;16.7;0.941;0.41
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pre All-Star;Alize Johnson;0.7;2.0;33.3;0.0;0.7;0.0;0.0;0.3;0.0;0.7;1.3;50.0;0.667;0.33
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pre All-Star;Joel Ayayi;0.1;0.9;16.7;0.0;0.1;0.0;0.0;0.0;0.0;0.1;0.7;20.0;0.333;0.17
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pre All-Star;Jordan Goodwin;0.0;1.5;0.0;0.0;0.5;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pre All-Star;Jordan Schakel;0.0;3.0;0.0;0.0;1.5;0.0;0.0;0.0;0.0;0.0;1.5;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pre All-Star;Jaime Echenique;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pre All-Star;Vernon Carey Jr.;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;Pre All-Star;Total;39.9;86.0;46.4;10.2;30.9;32.8;17.0;21.8;78.0;29.8;55.1;54.1;1.245;0.52
+Washington Wizards;wsh;2021 - 2022 Regular Season;Post All-Star;Kristaps Porzingis;7.2;15.2;47.5;1.7;4.6;36.7;5.9;6.8;87.1;5.5;10.6;52.2;1.452;0.53
+Washington Wizards;wsh;2021 - 2022 Regular Season;Post All-Star;Kyle Kuzma;7.9;17.5;45.3;2.4;6.4;37.1;3.0;4.0;75.0;5.5;11.1;50.0;1.214;0.52
+Washington Wizards;wsh;2021 - 2022 Regular Season;Post All-Star;Kentavious Caldwell-Pope;6.0;12.3;48.7;2.3;5.6;41.1;3.0;3.4;88.0;3.7;6.7;55.1;1.406;0.58
+Washington Wizards;wsh;2021 - 2022 Regular Season;Post All-Star;Rui Hachimura;5.3;10.4;51.0;1.5;3.5;44.0;1.0;1.6;63.2;3.8;6.9;54.5;1.265;0.58
+Washington Wizards;wsh;2021 - 2022 Regular Season;Post All-Star;Corey Kispert;4.3;8.6;49.3;2.3;5.8;38.6;0.7;0.8;84.2;2.0;2.8;71.6;1.324;0.62
+Washington Wizards;wsh;2021 - 2022 Regular Season;Post All-Star;Daniel Gafford;4.4;6.0;73.9;0.0;0.0;0.0;1.8;2.8;63.1;4.4;6.0;74.5;1.775;0.74
+Washington Wizards;wsh;2021 - 2022 Regular Season;Post All-Star;Deni Avdija;3.6;8.6;41.5;1.3;3.9;33.3;1.4;1.9;73.9;2.3;4.8;48.2;1.145;0.49
+Washington Wizards;wsh;2021 - 2022 Regular Season;Post All-Star;Ish Smith;3.8;8.8;43.6;0.5;1.5;35.1;0.1;0.2;60.0;3.3;7.3;45.4;0.948;0.47
+Washington Wizards;wsh;2021 - 2022 Regular Season;Post All-Star;Raul Neto;2.7;5.5;48.3;0.6;1.4;43.3;1.0;1.2;84.0;2.0;4.1;50.0;1.259;0.54
+Washington Wizards;wsh;2021 - 2022 Regular Season;Post All-Star;Thomas Bryant;2.5;4.6;52.9;0.3;1.2;23.1;1.4;1.5;93.8;2.2;3.5;63.2;1.412;0.56
+Washington Wizards;wsh;2021 - 2022 Regular Season;Post All-Star;Vernon Carey Jr.;2.0;3.5;57.1;0.0;0.0;0.0;2.0;5.0;40.0;2.0;3.5;57.1;1.714;0.57
+Washington Wizards;wsh;2021 - 2022 Regular Season;Post All-Star;Tomas Satoransky;1.8;3.8;47.6;0.3;1.0;27.3;1.0;1.1;84.0;1.5;2.8;54.8;1.274;0.51
+Washington Wizards;wsh;2021 - 2022 Regular Season;Post All-Star;Anthony Gill;1.6;3.1;51.8;0.4;0.8;46.7;1.2;1.3;91.7;1.2;2.3;53.7;1.554;0.58
+Washington Wizards;wsh;2021 - 2022 Regular Season;Post All-Star;Jordan Schakel;0.5;2.5;20.0;0.5;1.5;33.3;1.0;1.0;100.0;0.0;1.0;0.0;1.000;0.30
+Washington Wizards;wsh;2021 - 2022 Regular Season;Post All-Star;Isaiah Todd;1.0;4.5;22.2;0.0;2.5;0.0;0.0;0.0;0.0;1.0;2.0;50.0;0.444;0.22
+Washington Wizards;wsh;2021 - 2022 Regular Season;Post All-Star;Cassius Winston;0.3;1.7;20.0;0.0;0.3;0.0;0.7;0.7;100.0;0.3;1.3;25.0;0.800;0.20
+Washington Wizards;wsh;2021 - 2022 Regular Season;Post All-Star;Total;42.1;86.1;48.9;11.3;29.9;37.8;16.9;21.3;79.1;30.8;56.3;54.8;1.305;0.55
+Washington Wizards;wsh;2021 - 2022 Regular Season;3+ Days Rest;Kristaps Porzingis;7.0;12.0;58.3;3.0;4.0;75.0;8.0;10.0;80.0;4.0;8.0;50.0;2.083;0.71
+Washington Wizards;wsh;2021 - 2022 Regular Season;3+ Days Rest;Bradley Beal;7.3;17.8;41.1;2.0;6.5;30.8;2.8;3.3;85.0;5.3;11.3;47.1;1.093;0.47
+Washington Wizards;wsh;2021 - 2022 Regular Season;3+ Days Rest;Kyle Kuzma;7.0;15.7;44.7;2.2;6.0;36.1;2.7;3.7;72.7;4.8;9.7;50.0;1.202;0.52
+Washington Wizards;wsh;2021 - 2022 Regular Season;3+ Days Rest;Spencer Dinwiddie;4.5;10.8;41.9;1.3;3.3;38.5;5.3;7.0;75.0;3.3;7.5;43.3;1.442;0.48
+Washington Wizards;wsh;2021 - 2022 Regular Season;3+ Days Rest;Kentavious Caldwell-Pope;4.8;10.3;46.3;3.0;6.8;44.4;1.5;1.5;100.0;1.8;3.5;50.0;1.366;0.61
+Washington Wizards;wsh;2021 - 2022 Regular Season;3+ Days Rest;Montrezl Harrell;5.8;7.5;76.7;0.0;0.0;0.0;2.3;3.5;64.3;5.8;7.5;76.7;1.833;0.77
+Washington Wizards;wsh;2021 - 2022 Regular Season;3+ Days Rest;Deni Avdija;4.3;7.3;58.6;1.3;2.5;50.0;1.0;1.5;66.7;3.0;4.8;63.2;1.483;0.67
+Washington Wizards;wsh;2021 - 2022 Regular Season;3+ Days Rest;Ish Smith;4.5;8.0;56.3;0.5;1.5;33.3;0.0;0.5;0.0;4.0;6.5;61.5;1.188;0.59
+Washington Wizards;wsh;2021 - 2022 Regular Season;3+ Days Rest;Corey Kispert;3.0;5.6;53.6;1.8;4.0;45.0;1.2;1.2;100.0;1.2;1.6;75.0;1.607;0.70
+Washington Wizards;wsh;2021 - 2022 Regular Season;3+ Days Rest;Greg Monroe;4.0;7.0;57.1;0.0;0.0;0.0;0.0;0.0;0.0;4.0;7.0;57.1;1.143;0.57
+Washington Wizards;wsh;2021 - 2022 Regular Season;3+ Days Rest;Daniel Gafford;3.0;4.5;66.7;0.0;0.0;0.0;1.8;2.5;73.3;3.0;4.5;66.7;1.741;0.67
+Washington Wizards;wsh;2021 - 2022 Regular Season;3+ Days Rest;Raul Neto;3.3;5.9;56.1;0.9;1.7;50.0;0.3;0.4;66.7;2.4;4.1;58.6;1.317;0.63
+Washington Wizards;wsh;2021 - 2022 Regular Season;3+ Days Rest;Brad Wanamaker;2.0;5.0;40.0;0.0;0.0;0.0;3.0;3.0;100.0;2.0;5.0;40.0;1.400;0.40
+Washington Wizards;wsh;2021 - 2022 Regular Season;3+ Days Rest;Thomas Bryant;2.1;4.8;44.7;0.5;1.4;36.4;1.6;1.9;86.7;1.6;3.4;48.1;1.342;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;3+ Days Rest;Aaron Holiday;2.3;4.9;47.1;1.0;2.0;50.0;0.7;0.7;100.0;1.3;2.9;45.0;1.294;0.57
+Washington Wizards;wsh;2021 - 2022 Regular Season;3+ Days Rest;Rui Hachimura;2.3;5.7;41.2;0.3;2.3;14.3;1.0;2.0;50.0;2.0;3.3;60.0;1.059;0.44
+Washington Wizards;wsh;2021 - 2022 Regular Season;3+ Days Rest;Davis Bertans;1.1;4.4;25.8;1.1;4.1;27.6;0.7;0.7;100.0;0.0;0.3;0.0;0.935;0.39
+Washington Wizards;wsh;2021 - 2022 Regular Season;3+ Days Rest;Tomas Satoransky;1.0;1.0;100.0;0.0;0.0;0.0;2.0;2.0;100.0;1.0;1.0;100.0;4.000;1.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;3+ Days Rest;Craig Sword;1.5;2.0;75.0;0.0;0.5;0.0;0.0;0.0;0.0;1.5;1.5;100.0;1.500;0.75
+Washington Wizards;wsh;2021 - 2022 Regular Season;3+ Days Rest;Anthony Gill;0.8;1.3;65.0;0.4;0.5;75.0;0.6;0.7;81.8;0.4;0.8;58.3;2.050;0.80
+Washington Wizards;wsh;2021 - 2022 Regular Season;3+ Days Rest;Cassius Winston;0.7;1.3;50.0;0.3;0.8;40.0;0.7;0.7;100.0;0.3;0.5;66.7;1.750;0.63
+Washington Wizards;wsh;2021 - 2022 Regular Season;3+ Days Rest;Alize Johnson;1.0;2.5;40.0;0.0;0.5;0.0;0.0;0.5;0.0;1.0;2.0;50.0;0.800;0.40
+Washington Wizards;wsh;2021 - 2022 Regular Season;3+ Days Rest;Tremont Waters;1.0;2.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;2.0;50.0;1.000;0.50
+Washington Wizards;wsh;2021 - 2022 Regular Season;3+ Days Rest;Isaiah Todd;0.8;2.1;35.3;0.4;1.3;30.0;0.1;0.5;25.0;0.4;0.9;42.9;0.941;0.44
+Washington Wizards;wsh;2021 - 2022 Regular Season;3+ Days Rest;Jordan Schakel;0.3;3.3;10.0;0.3;2.0;16.7;0.7;0.7;100.0;0.0;1.3;0.0;0.500;0.15
+Washington Wizards;wsh;2021 - 2022 Regular Season;3+ Days Rest;Vernon Carey Jr.;0.0;0.0;0.0;0.0;0.0;0.0;0.5;1.0;50.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;3+ Days Rest;Joel Ayayi;0.2;1.0;16.7;0.0;0.2;0.0;0.0;0.0;0.0;0.2;0.8;20.0;0.333;0.17
+Washington Wizards;wsh;2021 - 2022 Regular Season;3+ Days Rest;Jordan Goodwin;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;3+ Days Rest;Jaime Echenique;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Washington Wizards;wsh;2021 - 2022 Regular Season;3+ Days Rest;Total;43.0;87.0;49.4;11.8;32.8;35.9;19.8;25.8;76.7;31.3;54.3;57.6;1.351;0.56

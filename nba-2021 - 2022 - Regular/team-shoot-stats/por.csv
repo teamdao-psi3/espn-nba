@@ -1,0 +1,1001 @@
+teamName;teamCode;season;split;player_name;FGM;FGA;FG_PCT;FG3M;FG3A;FG3_PCT;FTM;FTA;FT_PCT;PM2;PA2;PCT2;SC_EF;SH_EF
+Portland Trail Blazers;por;2021 - 2022 Regular Season;All Splits;Damian Lillard;7.7;19.0;40.2;3.2;9.8;32.4;5.5;6.2;87.8;4.5;9.2;48.5;1.259;0.49
+Portland Trail Blazers;por;2021 - 2022 Regular Season;All Splits;CJ McCollum;8.1;18.5;43.6;3.1;8.0;38.4;1.3;1.9;70.6;5.0;10.4;47.6;1.111;0.52
+Portland Trail Blazers;por;2021 - 2022 Regular Season;All Splits;Josh Hart;7.1;14.1;50.3;2.4;6.4;37.3;3.4;4.4;77.2;4.7;7.7;61.0;1.415;0.59
+Portland Trail Blazers;por;2021 - 2022 Regular Season;All Splits;Norman Powell;6.2;13.6;45.6;2.3;5.7;40.6;4.0;5.0;80.3;3.9;7.8;49.2;1.376;0.54
+Portland Trail Blazers;por;2021 - 2022 Regular Season;All Splits;Anfernee Simons;6.2;14.0;44.3;3.1;7.8;40.5;1.8;2.0;88.8;3.1;6.2;49.0;1.240;0.56
+Portland Trail Blazers;por;2021 - 2022 Regular Season;All Splits;Jusuf Nurkic;5.7;10.7;53.5;0.3;1.0;26.8;3.3;4.8;69.0;5.5;9.7;56.3;1.403;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;All Splits;Drew Eubanks;6.2;9.6;64.6;0.2;0.7;26.7;1.8;2.3;78.4;6.0;9.0;67.5;1.500;0.66
+Portland Trail Blazers;por;2021 - 2022 Regular Season;All Splits;Brandon Williams;4.4;11.8;37.2;1.3;4.4;29.2;2.8;4.0;70.1;3.1;7.3;42.0;1.096;0.43
+Portland Trail Blazers;por;2021 - 2022 Regular Season;All Splits;Justise Winslow;4.3;10.5;40.5;0.9;3.4;27.0;1.3;2.3;56.0;3.4;7.2;46.8;1.017;0.45
+Portland Trail Blazers;por;2021 - 2022 Regular Season;All Splits;Ben McLemore;3.4;8.4;40.1;2.4;6.5;36.2;1.1;1.4;81.8;1.0;1.9;53.3;1.215;0.54
+Portland Trail Blazers;por;2021 - 2022 Regular Season;All Splits;Reggie Perry;4.3;8.7;50.0;0.3;1.8;18.8;1.0;1.7;60.0;4.0;6.9;58.1;1.154;0.52
+Portland Trail Blazers;por;2021 - 2022 Regular Season;All Splits;Nassir Little;3.5;7.5;46.0;1.2;3.7;33.1;1.6;2.2;73.4;2.2;3.8;58.4;1.302;0.54
+Portland Trail Blazers;por;2021 - 2022 Regular Season;All Splits;Keon Johnson;3.6;10.0;35.7;1.4;4.0;34.8;1.1;1.4;83.3;2.2;6.0;36.4;0.968;0.43
+Portland Trail Blazers;por;2021 - 2022 Regular Season;All Splits;Robert Covington;2.7;7.0;38.1;1.6;4.8;34.3;0.6;0.8;83.3;1.0;2.2;46.2;1.086;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;All Splits;Trendon Watford;3.0;5.6;53.2;0.2;0.8;23.7;1.5;2.0;75.5;2.8;4.8;58.1;1.363;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;All Splits;Kris Dunn;3.1;7.3;43.1;0.1;0.8;9.1;1.2;1.3;94.4;3.1;6.5;47.3;1.039;0.44
+Portland Trail Blazers;por;2021 - 2022 Regular Season;All Splits;Larry Nance Jr.;2.8;5.4;51.5;0.5;1.7;30.6;0.9;1.3;65.3;2.2;3.7;61.0;1.288;0.56
+Portland Trail Blazers;por;2021 - 2022 Regular Season;All Splits;CJ Elleby;2.1;5.3;39.3;0.6;2.2;29.4;1.0;1.4;71.4;1.4;3.1;46.2;1.101;0.45
+Portland Trail Blazers;por;2021 - 2022 Regular Season;All Splits;Dennis Smith Jr.;2.1;5.1;41.8;0.2;0.7;22.2;1.1;1.7;65.6;2.0;4.4;45.1;1.090;0.43
+Portland Trail Blazers;por;2021 - 2022 Regular Season;All Splits;Cody Zeller;1.9;3.3;56.7;0.0;0.1;0.0;1.4;1.8;77.6;1.9;3.2;59.3;1.556;0.57
+Portland Trail Blazers;por;2021 - 2022 Regular Season;All Splits;Didi Louzada;1.7;4.3;40.0;1.3;2.9;45.0;0.3;0.3;100.0;0.4;1.4;30.0;1.167;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;All Splits;Greg Brown III;1.7;4.0;42.6;0.4;1.3;31.1;0.9;1.4;67.7;1.3;2.7;48.1;1.184;0.48
+Portland Trail Blazers;por;2021 - 2022 Regular Season;All Splits;Cameron McGriff;1.7;4.7;35.7;0.7;2.0;33.3;0.7;0.7;100.0;1.0;2.7;37.5;1.000;0.43
+Portland Trail Blazers;por;2021 - 2022 Regular Season;All Splits;Elijah Hughes;1.5;4.9;29.6;0.7;3.0;22.4;0.2;0.3;66.7;0.8;1.9;41.5;0.769;0.37
+Portland Trail Blazers;por;2021 - 2022 Regular Season;All Splits;Keljin Blevins;1.1;3.6;30.6;0.7;2.3;29.2;0.2;0.4;54.5;0.4;1.3;33.3;0.856;0.40
+Portland Trail Blazers;por;2021 - 2022 Regular Season;All Splits;Tony Snell;0.9;2.6;37.1;0.6;2.0;32.0;0.1;0.1;100.0;0.3;0.6;54.5;1.021;0.49
+Portland Trail Blazers;por;2021 - 2022 Regular Season;All Splits;Jarron Cumberland;0.3;0.7;50.0;0.0;0.3;0.0;0.0;0.0;0.0;0.3;0.3;100.0;1.000;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;All Splits;Total;38.5;87.1;44.2;12.7;36.8;34.6;16.4;21.6;76.0;25.8;50.3;51.3;1.219;0.52
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Home;Damian Lillard;7.8;19.1;40.7;3.8;10.3;36.6;5.8;6.5;88.5;4.0;8.8;45.4;1.311;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Home;Josh Hart;8.0;14.0;57.1;2.3;6.3;36.0;4.3;5.0;85.0;5.8;7.8;74.2;1.607;0.65
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Home;CJ McCollum;8.4;18.9;44.1;3.4;9.0;37.9;1.2;1.7;69.0;4.9;9.9;49.7;1.124;0.53
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Home;Norman Powell;5.6;13.1;42.7;2.2;5.6;39.1;4.7;5.7;82.6;3.4;7.6;45.4;1.381;0.51
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Home;Anfernee Simons;6.0;13.7;44.1;3.0;7.4;40.1;1.9;2.2;88.6;3.1;6.3;48.8;1.240;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Home;Drew Eubanks;7.5;10.8;69.8;0.4;0.9;42.9;1.5;2.3;66.7;7.1;9.9;72.2;1.570;0.72
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Home;Jusuf Nurkic;5.5;10.7;51.9;0.2;0.9;22.2;3.2;4.5;69.9;5.3;9.8;54.6;1.353;0.53
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Home;Reggie Perry;5.7;10.3;54.8;0.3;2.3;14.3;1.3;2.3;57.1;5.3;8.0;66.7;1.258;0.56
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Home;Ben McLemore;3.4;8.0;42.4;2.4;6.2;38.6;1.0;1.2;86.5;1.0;1.8;55.2;1.271;0.57
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Home;Brandon Williams;3.5;10.7;32.2;1.2;4.3;27.7;2.0;2.8;71.0;2.3;6.5;35.2;0.941;0.38
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Home;Nassir Little;3.5;7.8;45.0;1.4;3.9;34.9;1.7;2.4;69.8;2.1;3.9;55.3;1.292;0.54
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Home;Kris Dunn;3.8;7.2;52.8;0.0;0.2;0.0;2.0;2.0;100.0;3.8;7.0;54.3;1.333;0.53
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Home;Justise Winslow;3.8;9.0;42.6;0.8;3.2;26.3;1.0;1.5;66.7;3.0;5.8;51.4;1.056;0.47
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Home;Robert Covington;3.1;7.5;41.4;2.0;5.3;37.3;0.6;0.6;100.0;1.2;2.3;50.9;1.171;0.54
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Home;Keon Johnson;3.3;10.2;32.6;1.1;3.8;29.4;0.9;1.0;88.9;2.2;6.4;34.5;0.848;0.38
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Home;Larry Nance Jr.;2.9;5.4;53.4;0.5;1.5;31.3;1.1;1.6;66.7;2.4;3.9;61.6;1.356;0.58
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Home;Trendon Watford;2.7;4.7;56.6;0.0;0.4;0.0;1.3;1.8;73.8;2.7;4.3;62.1;1.407;0.57
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Home;Dennis Smith Jr.;2.3;5.4;41.7;0.3;1.0;31.6;1.2;1.7;67.6;2.0;4.5;43.8;1.102;0.44
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Home;CJ Elleby;2.2;5.5;39.6;0.7;2.4;29.2;0.7;0.9;80.8;1.5;3.1;47.8;1.049;0.46
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Home;Greg Brown III;1.8;4.2;43.4;0.4;1.6;25.0;1.0;1.5;64.9;1.4;2.6;54.5;1.189;0.48
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Home;Didi Louzada;2.0;5.5;36.4;1.0;3.5;28.6;0.0;0.0;0.0;1.0;2.0;50.0;0.909;0.45
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Home;Cody Zeller;1.8;3.3;53.6;0.0;0.1;0.0;1.4;1.8;77.4;1.8;3.2;55.6;1.500;0.54
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Home;Elijah Hughes;1.9;5.4;34.7;0.8;3.2;24.1;0.3;0.4;75.0;1.1;2.2;50.0;0.898;0.42
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Home;Cameron McGriff;1.0;4.0;25.0;0.5;1.5;33.3;1.0;1.0;100.0;0.5;2.5;20.0;0.875;0.31
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Home;Keljin Blevins;1.2;4.0;30.0;0.7;2.3;32.4;0.1;0.1;50.0;0.5;1.7;26.9;0.800;0.39
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Home;Tony Snell;1.1;2.8;39.6;0.8;2.3;34.9;0.2;0.2;100.0;0.3;0.5;60.0;1.132;0.54
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Home;Jarron Cumberland;0.5;0.5;100.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;0.5;100.0;2.000;1.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Home;Total;39.2;88.1;44.5;13.3;37.8;35.2;17.0;21.9;77.7;25.9;50.4;51.5;1.234;0.52
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Away;Damian Lillard;7.5;19.0;39.7;2.5;9.2;26.7;5.2;5.9;87.0;5.1;9.8;52.0;1.194;0.46
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Away;CJ McCollum;7.8;18.1;43.1;2.8;7.2;39.0;1.5;2.1;71.8;5.0;10.9;45.9;1.099;0.51
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Away;Norman Powell;6.9;14.1;49.2;2.5;5.9;42.6;2.9;3.9;75.8;4.4;8.2;54.0;1.371;0.58
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Away;Josh Hart;6.7;14.1;47.2;2.4;6.4;37.9;3.0;4.1;73.0;4.2;7.7;55.1;1.331;0.56
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Away;Anfernee Simons;6.4;14.4;44.6;3.4;8.2;41.0;1.6;1.8;89.1;3.0;6.2;49.4;1.240;0.56
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Away;Jusuf Nurkic;6.0;10.8;55.4;0.3;1.1;31.0;3.5;5.1;68.2;5.6;9.7;58.2;1.461;0.57
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Away;Brandon Williams;5.2;12.6;40.9;1.4;4.5;30.5;3.5;5.1;69.7;3.8;8.1;46.7;1.207;0.46
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Away;Drew Eubanks;5.5;9.0;61.1;0.1;0.6;12.5;2.0;2.4;84.8;5.4;8.4;64.4;1.452;0.62
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Away;Justise Winslow;4.8;12.4;38.7;1.0;3.6;27.8;1.6;3.2;50.0;3.8;8.8;43.2;0.984;0.43
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Away;Keon Johnson;3.8;9.9;38.0;1.6;4.2;38.2;1.3;1.6;81.0;2.2;5.7;37.8;1.054;0.46
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Away;Ben McLemore;3.4;8.9;38.0;2.3;6.9;34.1;1.3;1.6;78.4;1.0;2.0;51.6;1.165;0.51
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Away;Nassir Little;3.4;7.2;47.2;1.1;3.4;30.9;1.6;2.1;78.0;2.4;3.8;61.8;1.313;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Away;Trendon Watford;3.3;6.4;50.6;0.4;1.2;32.1;1.7;2.2;76.9;2.9;5.3;54.8;1.331;0.54
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Away;Reggie Perry;3.7;7.8;46.8;0.3;1.5;22.2;0.8;1.3;62.5;3.3;6.3;52.6;1.085;0.49
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Away;Cameron McGriff;3.0;6.0;50.0;1.0;3.0;33.3;0.0;0.0;0.0;2.0;3.0;66.7;1.167;0.58
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Away;Kris Dunn;2.8;7.3;37.9;0.1;1.1;10.0;0.8;0.9;87.5;2.7;6.2;42.9;0.879;0.39
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Away;Robert Covington;2.2;6.5;34.2;1.3;4.3;30.8;0.6;0.9;71.4;0.9;2.1;41.2;0.987;0.45
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Away;Larry Nance Jr.;2.6;5.3;48.8;0.6;2.0;30.0;0.5;0.9;61.5;2.0;3.3;60.0;1.188;0.54
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Away;CJ Elleby;2.0;5.1;38.9;0.6;1.9;29.6;1.4;2.1;67.2;1.4;3.2;44.4;1.160;0.44
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Away;Cody Zeller;2.1;3.4;61.8;0.0;0.2;0.0;1.4;1.8;77.8;2.1;3.2;65.6;1.647;0.62
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Away;Dennis Smith Jr.;2.0;4.8;42.0;0.0;0.5;0.0;1.1;1.8;63.3;2.0;4.3;46.6;1.074;0.42
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Away;Didi Louzada;1.6;3.8;42.1;1.4;2.6;53.8;0.4;0.4;100.0;0.2;1.2;16.7;1.316;0.61
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Away;Greg Brown III;1.5;3.7;41.7;0.4;0.9;42.9;0.9;1.2;71.4;1.1;2.7;41.3;1.179;0.47
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Away;Elijah Hughes;1.2;4.5;25.4;0.6;2.9;21.1;0.1;0.2;50.0;0.5;1.6;33.3;0.661;0.32
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Away;Keljin Blevins;1.0;3.2;31.4;0.6;2.4;26.3;0.3;0.6;55.6;0.4;0.8;46.2;0.922;0.41
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Away;Tony Snell;0.8;2.3;34.1;0.5;1.7;28.1;0.0;0.0;0.0;0.3;0.6;50.0;0.886;0.44
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Away;Jarron Cumberland;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Away;Total;37.9;86.1;44.0;12.1;35.8;33.9;15.8;21.3;74.3;25.7;50.3;51.2;1.204;0.51
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Boston Celtics;CJ McCollum;7.5;20.0;37.5;4.0;9.5;42.1;5.0;7.0;71.4;3.5;10.5;33.3;1.200;0.48
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Boston Celtics;Jusuf Nurkic;7.5;12.5;60.0;0.5;1.0;50.0;8.0;10.0;80.0;7.0;11.5;60.9;1.880;0.62
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Boston Celtics;Anfernee Simons;8.0;17.0;47.1;4.0;8.0;50.0;1.0;2.0;50.0;4.0;9.0;44.4;1.235;0.59
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Boston Celtics;Dennis Smith Jr.;4.0;8.5;47.1;0.5;1.5;33.3;3.0;4.0;75.0;3.5;7.0;50.0;1.353;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Boston Celtics;Cody Zeller;4.0;8.0;50.0;0.0;0.0;0.0;2.0;2.0;100.0;4.0;8.0;50.0;1.250;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Boston Celtics;Larry Nance Jr.;4.0;5.0;80.0;1.0;2.0;50.0;0.0;0.0;0.0;3.0;3.0;100.0;1.800;0.90
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Boston Celtics;Ben McLemore;3.0;6.5;46.2;2.5;5.5;45.5;0.0;0.0;0.0;0.5;1.0;50.0;1.308;0.65
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Boston Celtics;Norman Powell;2.0;8.0;25.0;0.0;2.0;0.0;4.0;6.0;66.7;2.0;6.0;33.3;1.000;0.25
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Boston Celtics;Robert Covington;2.5;7.0;35.7;1.0;4.0;25.0;1.0;2.0;50.0;1.5;3.0;50.0;1.000;0.43
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Boston Celtics;Nassir Little;3.0;7.0;42.9;1.0;4.0;25.0;0.0;0.0;0.0;2.0;3.0;66.7;1.000;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Boston Celtics;Trendon Watford;1.5;2.0;75.0;0.0;0.0;0.0;2.0;2.0;100.0;1.5;2.0;75.0;2.500;0.75
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Boston Celtics;CJ Elleby;2.0;3.0;66.7;0.0;1.0;0.0;0.5;1.0;50.0;2.0;2.0;100.0;1.500;0.67
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Boston Celtics;Keljin Blevins;1.0;1.0;100.0;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;3.000;1.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Boston Celtics;Tony Snell;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Boston Celtics;Greg Brown III;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Boston Celtics;Total;39.0;82.5;47.3;12.0;31.0;38.7;23.0;31.0;74.2;27.0;51.5;52.4;1.370;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Brooklyn Nets;Josh Hart;9.0;18.0;50.0;3.0;8.0;37.5;4.0;5.0;80.0;6.0;10.0;60.0;1.389;0.58
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Brooklyn Nets;Brandon Williams;10.0;19.0;52.6;3.0;7.0;42.9;1.0;3.0;33.3;7.0;12.0;58.3;1.263;0.61
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Brooklyn Nets;Anfernee Simons;10.0;24.0;41.7;2.0;11.0;18.2;1.0;2.0;50.0;8.0;13.0;61.5;0.958;0.46
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Brooklyn Nets;Robert Covington;6.0;9.0;66.7;5.0;7.0;71.4;4.0;4.0;100.0;1.0;2.0;50.0;2.333;0.94
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Brooklyn Nets;Ben McLemore;5.5;12.0;45.8;5.0;10.0;50.0;2.5;3.0;83.3;0.5;2.0;25.0;1.542;0.67
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Brooklyn Nets;Drew Eubanks;8.0;10.0;80.0;0.0;0.0;0.0;2.0;2.0;100.0;8.0;10.0;80.0;1.800;0.80
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Brooklyn Nets;Justise Winslow;7.0;15.0;46.7;1.0;3.0;33.3;0.0;5.0;0.0;6.0;12.0;50.0;1.000;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Brooklyn Nets;Jusuf Nurkic;4.0;13.0;30.8;0.0;2.0;0.0;6.0;8.0;75.0;4.0;11.0;36.4;1.077;0.31
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Brooklyn Nets;Nassir Little;3.0;9.0;33.3;2.0;6.0;33.3;5.0;6.0;83.3;1.0;3.0;33.3;1.444;0.44
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Brooklyn Nets;CJ Elleby;4.0;8.5;47.1;1.0;3.0;33.3;0.5;1.5;33.3;3.0;5.5;54.5;1.118;0.53
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Brooklyn Nets;Kris Dunn;2.0;4.0;50.0;0.0;1.0;0.0;2.0;2.0;100.0;2.0;3.0;66.7;1.500;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Brooklyn Nets;Dennis Smith Jr.;3.0;6.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;3.0;6.0;50.0;1.000;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Brooklyn Nets;Trendon Watford;2.5;5.5;45.5;0.0;1.0;0.0;1.0;2.0;50.0;2.5;4.5;55.6;1.091;0.45
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Brooklyn Nets;Cody Zeller;2.0;3.0;66.7;0.0;0.0;0.0;0.0;0.0;0.0;2.0;3.0;66.7;1.333;0.67
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Brooklyn Nets;Tony Snell;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Brooklyn Nets;Total;44.0;91.0;48.4;14.0;36.5;38.4;16.5;25.0;66.0;30.0;54.5;55.0;1.302;0.56
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. New York Knicks;Anfernee Simons;11.0;23.0;47.8;6.0;12.0;50.0;2.0;3.0;66.7;5.0;11.0;45.5;1.304;0.61
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. New York Knicks;Josh Hart;6.5;13.5;48.1;2.5;6.0;41.7;4.5;6.0;75.0;4.0;7.5;53.3;1.481;0.57
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. New York Knicks;Brandon Williams;6.0;15.0;40.0;2.0;6.0;33.3;0.0;2.0;0.0;4.0;9.0;44.4;0.933;0.47
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. New York Knicks;Kris Dunn;6.0;9.0;66.7;1.0;1.0;100.0;0.0;0.0;0.0;5.0;8.0;62.5;1.444;0.72
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. New York Knicks;Jusuf Nurkic;5.0;10.0;50.0;0.0;0.0;0.0;2.0;2.0;100.0;5.0;10.0;50.0;1.200;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. New York Knicks;Ben McLemore;4.0;8.5;47.1;2.5;6.0;41.7;1.0;1.0;100.0;1.5;2.5;60.0;1.353;0.62
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. New York Knicks;Justise Winslow;4.0;10.0;40.0;1.0;4.0;25.0;1.5;1.5;100.0;3.0;6.0;50.0;1.050;0.45
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. New York Knicks;Drew Eubanks;5.0;8.0;62.5;0.0;0.0;0.0;0.0;0.0;0.0;5.0;8.0;62.5;1.250;0.63
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. New York Knicks;Trendon Watford;2.5;6.0;41.7;0.0;1.5;0.0;2.5;3.0;83.3;2.5;4.5;55.6;1.250;0.42
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. New York Knicks;Keon Johnson;3.0;5.0;60.0;1.0;2.0;50.0;0.0;0.0;0.0;2.0;3.0;66.7;1.400;0.70
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. New York Knicks;CJ Elleby;2.5;5.5;45.5;1.0;3.0;33.3;0.5;1.0;50.0;1.5;2.5;60.0;1.182;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. New York Knicks;Elijah Hughes;1.5;4.5;33.3;1.0;4.0;25.0;0.0;0.0;0.0;0.5;0.5;100.0;0.889;0.44
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. New York Knicks;Greg Brown III;1.0;3.5;28.6;0.0;1.5;0.0;0.0;1.0;0.0;1.0;2.0;50.0;0.571;0.29
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. New York Knicks;Keljin Blevins;0.0;2.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. New York Knicks;Total;40.0;87.5;45.7;13.0;37.0;35.1;12.0;17.0;70.6;27.0;50.5;53.5;1.200;0.53
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Damian Lillard;8.5;20.5;41.5;3.5;11.0;31.8;9.0;9.5;94.7;5.0;9.5;52.6;1.439;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Norman Powell;7.0;11.5;60.9;1.0;2.0;50.0;4.5;4.5;100.0;6.0;9.5;63.2;1.696;0.65
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Philadelphia 76ers;CJ McCollum;7.5;18.5;40.5;3.5;8.5;41.2;0.5;2.0;25.0;4.0;10.0;40.0;1.027;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Anfernee Simons;4.5;9.5;47.4;2.0;5.5;36.4;2.0;2.0;100.0;2.5;4.0;62.5;1.368;0.58
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Jusuf Nurkic;4.0;5.5;72.7;0.5;0.5;100.0;0.5;2.0;25.0;3.5;5.0;70.0;1.636;0.77
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Nassir Little;3.5;6.0;58.3;0.5;2.0;25.0;0.0;0.0;0.0;3.0;4.0;75.0;1.250;0.63
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Larry Nance Jr.;3.0;6.0;50.0;0.5;1.5;33.3;0.5;0.5;100.0;2.5;4.5;55.6;1.167;0.54
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Robert Covington;1.0;2.0;50.0;1.0;1.5;66.7;0.0;0.0;0.0;0.0;0.5;0.0;1.500;0.75
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Tony Snell;1.0;1.5;66.7;1.0;1.5;66.7;0.0;0.0;0.0;0.0;0.0;0.0;2.000;1.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Cody Zeller;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Total;40.0;82.0;48.8;13.5;34.0;39.7;17.0;20.5;82.9;26.5;48.0;55.2;1.348;0.57
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Toronto Raptors;Damian Lillard;10.0;21.0;47.6;3.0;6.0;50.0;1.0;1.0;100.0;7.0;15.0;46.7;1.143;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Toronto Raptors;CJ McCollum;9.5;15.0;63.3;4.5;8.0;56.3;0.5;1.0;50.0;5.0;7.0;71.4;1.600;0.78
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Toronto Raptors;Ben McLemore;6.0;9.0;66.7;5.0;7.0;71.4;0.0;0.0;0.0;1.0;2.0;50.0;1.889;0.94
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Toronto Raptors;Larry Nance Jr.;7.0;7.0;100.0;1.0;1.0;100.0;0.0;0.0;0.0;6.0;6.0;100.0;2.143;1.07
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Toronto Raptors;Anfernee Simons;4.5;11.5;39.1;3.5;6.5;53.8;1.0;1.0;100.0;1.0;5.0;20.0;1.174;0.54
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Toronto Raptors;Nassir Little;5.5;9.0;61.1;1.5;3.5;42.9;1.0;2.0;50.0;4.0;5.5;72.7;1.500;0.69
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Toronto Raptors;Norman Powell;3.0;9.0;33.3;0.0;4.0;0.0;6.0;8.0;75.0;3.0;5.0;60.0;1.333;0.33
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Toronto Raptors;Robert Covington;3.5;8.5;41.2;2.5;5.5;45.5;0.5;1.0;50.0;1.0;3.0;33.3;1.176;0.56
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Toronto Raptors;CJ Elleby;4.0;7.0;57.1;1.0;1.0;100.0;0.0;0.0;0.0;3.0;6.0;50.0;1.286;0.64
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Toronto Raptors;Jusuf Nurkic;3.5;6.5;53.8;0.0;0.5;0.0;1.0;3.0;33.3;3.5;6.0;58.3;1.231;0.54
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Toronto Raptors;Cody Zeller;3.0;3.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;3.0;3.0;100.0;2.000;1.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Toronto Raptors;Trendon Watford;3.0;6.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;3.0;6.0;50.0;1.000;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Toronto Raptors;Dennis Smith Jr.;2.0;3.0;66.7;0.0;0.0;0.0;1.0;2.0;50.0;2.0;3.0;66.7;1.667;0.67
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Toronto Raptors;Tony Snell;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Toronto Raptors;Total;45.5;83.5;54.5;17.0;34.0;50.0;8.0;13.5;59.3;28.5;49.5;57.6;1.389;0.65
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Chicago Bulls;Damian Lillard;6.0;18.0;33.3;3.0;9.0;33.3;7.0;7.0;100.0;3.0;9.0;33.3;1.222;0.42
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Chicago Bulls;Norman Powell;6.5;10.5;61.9;3.5;4.0;87.5;3.5;4.0;87.5;3.0;6.5;46.2;1.905;0.79
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Chicago Bulls;CJ McCollum;8.5;18.5;45.9;1.5;6.0;25.0;0.5;0.5;100.0;7.0;12.5;56.0;1.027;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Chicago Bulls;Larry Nance Jr.;6.0;9.0;66.7;2.0;3.0;66.7;2.0;2.0;100.0;4.0;6.0;66.7;1.778;0.78
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Chicago Bulls;Jusuf Nurkic;5.5;9.0;61.1;0.5;0.5;100.0;3.0;4.0;75.0;5.0;8.5;58.8;1.611;0.64
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Chicago Bulls;Anfernee Simons;4.0;10.5;38.1;2.5;5.5;45.5;3.0;4.0;75.0;1.5;5.0;30.0;1.286;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Chicago Bulls;Robert Covington;3.5;5.5;63.6;2.5;4.5;55.6;1.0;1.0;100.0;1.0;1.0;100.0;1.909;0.86
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Chicago Bulls;Trendon Watford;5.0;6.0;83.3;0.0;1.0;0.0;0.0;0.0;0.0;5.0;5.0;100.0;1.667;0.83
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Chicago Bulls;Ben McLemore;3.0;11.0;27.3;2.0;9.0;22.2;0.0;0.0;0.0;1.0;2.0;50.0;0.727;0.36
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Chicago Bulls;Nassir Little;1.0;7.0;14.3;0.0;4.0;0.0;4.0;4.0;100.0;1.0;3.0;33.3;0.857;0.14
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Chicago Bulls;Cody Zeller;0.0;0.0;0.0;0.0;0.0;0.0;4.0;4.0;100.0;0.0;0.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Chicago Bulls;Greg Brown III;2.0;2.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;2.0;100.0;2.000;1.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Chicago Bulls;Tony Snell;0.5;2.0;25.0;0.5;1.5;33.3;0.0;0.0;0.0;0.0;0.5;0.0;0.750;0.38
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Chicago Bulls;Keljin Blevins;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Chicago Bulls;Dennis Smith Jr.;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Chicago Bulls;Total;40.0;83.5;47.9;14.5;35.0;41.4;19.5;22.0;88.6;25.5;48.5;52.6;1.365;0.57
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Damian Lillard;10.0;27.0;37.0;3.0;12.0;25.0;3.0;5.0;60.0;7.0;15.0;46.7;0.963;0.43
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;CJ McCollum;7.0;19.0;36.8;4.0;9.0;44.4;3.0;4.0;75.0;3.0;10.0;30.0;1.105;0.47
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Norman Powell;7.0;15.0;46.7;3.5;7.0;50.0;3.5;5.5;63.6;3.5;8.0;43.8;1.400;0.58
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Anfernee Simons;6.0;13.0;46.2;1.5;6.0;25.0;1.0;1.0;100.0;4.5;7.0;64.3;1.115;0.52
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Robert Covington;4.0;6.0;66.7;3.5;5.5;63.6;0.0;0.0;0.0;0.5;0.5;100.0;1.917;0.96
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Jusuf Nurkic;4.0;12.0;33.3;1.0;1.0;100.0;1.0;2.5;40.0;3.0;11.0;27.3;0.833;0.38
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Dennis Smith Jr.;4.0;8.0;50.0;0.0;0.0;0.0;2.0;2.0;100.0;4.0;8.0;50.0;1.250;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Cody Zeller;3.0;4.5;66.7;0.0;0.0;0.0;0.5;1.0;50.0;3.0;4.5;66.7;1.444;0.67
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Ben McLemore;2.0;8.0;25.0;1.0;5.0;20.0;0.0;0.0;0.0;1.0;3.0;33.3;0.625;0.31
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Nassir Little;1.5;5.0;30.0;1.0;2.5;40.0;0.0;1.0;0.0;0.5;2.5;20.0;0.800;0.40
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;CJ Elleby;2.0;3.0;66.7;0.0;0.0;0.0;0.0;1.0;0.0;2.0;3.0;66.7;1.333;0.67
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Trendon Watford;1.0;4.0;25.0;0.0;0.0;0.0;2.0;2.0;100.0;1.0;4.0;25.0;1.000;0.25
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Tony Snell;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Larry Nance Jr.;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Total;38.5;91.0;42.3;14.5;36.0;40.3;11.0;18.0;61.1;24.0;55.0;43.6;1.126;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Detroit Pistons;CJ McCollum;11.0;26.0;42.3;4.0;11.0;36.4;2.0;2.0;100.0;7.0;15.0;46.7;1.077;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Detroit Pistons;Brandon Williams;6.0;17.0;35.3;0.0;3.0;0.0;11.0;11.0;100.0;6.0;14.0;42.9;1.353;0.35
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Detroit Pistons;Ben McLemore;6.0;13.0;46.2;4.5;10.5;42.9;2.5;3.5;71.4;1.5;2.5;60.0;1.462;0.63
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Detroit Pistons;Drew Eubanks;5.0;8.0;62.5;0.0;1.0;0.0;7.0;8.0;87.5;5.0;7.0;71.4;2.125;0.63
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Detroit Pistons;Jusuf Nurkic;5.0;8.0;62.5;0.0;0.0;0.0;3.0;5.0;60.0;5.0;8.0;62.5;1.625;0.63
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Detroit Pistons;Anfernee Simons;5.0;14.0;35.7;2.0;6.0;33.3;0.0;0.0;0.0;3.0;8.0;37.5;0.857;0.43
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Detroit Pistons;Dennis Smith Jr.;4.0;11.0;36.4;0.0;3.0;0.0;3.0;3.0;100.0;4.0;8.0;50.0;1.000;0.36
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Detroit Pistons;Justise Winslow;3.0;12.0;25.0;0.0;2.0;0.0;4.0;4.0;100.0;3.0;10.0;30.0;0.833;0.25
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Detroit Pistons;Tony Snell;3.0;7.0;42.9;2.0;5.0;40.0;1.0;1.0;100.0;1.0;2.0;50.0;1.286;0.57
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Detroit Pistons;Robert Covington;3.0;10.0;30.0;2.0;6.0;33.3;0.0;0.0;0.0;1.0;4.0;25.0;0.800;0.40
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Detroit Pistons;CJ Elleby;2.5;4.0;62.5;1.0;2.0;50.0;2.0;3.5;57.1;1.5;2.0;75.0;2.000;0.75
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Detroit Pistons;Trendon Watford;3.0;5.5;54.5;0.0;0.0;0.0;1.5;3.0;50.0;3.0;5.5;54.5;1.364;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Detroit Pistons;Elijah Hughes;3.0;5.0;60.0;1.0;3.0;33.3;0.0;0.0;0.0;2.0;2.0;100.0;1.400;0.70
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Detroit Pistons;Larry Nance Jr.;3.0;5.0;60.0;0.0;1.0;0.0;0.0;0.0;0.0;3.0;4.0;75.0;1.200;0.60
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Detroit Pistons;Cody Zeller;1.0;1.0;100.0;0.0;0.0;0.0;2.0;2.0;100.0;1.0;1.0;100.0;4.000;1.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Detroit Pistons;Greg Brown III;1.0;1.5;66.7;0.0;0.0;0.0;2.0;4.0;50.0;1.0;1.5;66.7;2.667;0.67
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Detroit Pistons;Kris Dunn;1.0;8.0;12.5;0.0;1.0;0.0;1.0;1.0;100.0;1.0;7.0;14.3;0.375;0.13
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Detroit Pistons;Keon Johnson;0.0;4.0;0.0;0.0;3.0;0.0;1.0;2.0;50.0;0.0;1.0;0.0;0.250;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Detroit Pistons;Keljin Blevins;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Detroit Pistons;Total;39.0;92.0;42.4;11.0;35.0;31.4;25.5;33.5;76.1;28.0;57.0;49.1;1.245;0.48
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Indiana Pacers;CJ McCollum;11.0;19.0;57.9;5.0;9.0;55.6;0.0;0.0;0.0;6.0;10.0;60.0;1.421;0.71
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Indiana Pacers;Josh Hart;11.0;13.0;84.6;3.0;5.0;60.0;1.0;1.0;100.0;8.0;8.0;100.0;2.000;0.96
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Indiana Pacers;Norman Powell;8.0;14.0;57.1;3.0;4.0;75.0;6.0;6.0;100.0;5.0;10.0;50.0;1.786;0.68
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Indiana Pacers;Robert Covington;7.0;12.0;58.3;5.0;10.0;50.0;0.0;0.0;0.0;2.0;2.0;100.0;1.583;0.79
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Indiana Pacers;Trendon Watford;7.0;13.0;53.8;2.0;3.0;66.7;1.0;2.0;50.0;5.0;10.0;50.0;1.308;0.62
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Indiana Pacers;Anfernee Simons;6.0;10.0;60.0;4.0;6.0;66.7;0.0;0.0;0.0;2.0;4.0;50.0;1.600;0.80
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Indiana Pacers;Drew Eubanks;5.0;9.0;55.6;0.0;1.0;0.0;2.0;2.0;100.0;5.0;8.0;62.5;1.333;0.56
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Indiana Pacers;Ben McLemore;4.0;14.0;28.6;1.0;9.0;11.1;2.0;3.0;66.7;3.0;5.0;60.0;0.786;0.32
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Indiana Pacers;Kris Dunn;5.0;7.0;71.4;0.0;0.0;0.0;1.0;1.0;100.0;5.0;7.0;71.4;1.571;0.71
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Indiana Pacers;Jusuf Nurkic;4.0;8.0;50.0;0.0;1.0;0.0;2.0;2.0;100.0;4.0;7.0;57.1;1.250;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Indiana Pacers;Brandon Williams;2.0;10.0;20.0;2.0;9.0;22.2;4.0;7.0;57.1;0.0;1.0;0.0;1.000;0.30
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Indiana Pacers;Nassir Little;2.0;3.0;66.7;0.0;1.0;0.0;3.0;3.0;100.0;2.0;2.0;100.0;2.333;0.67
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Indiana Pacers;Keon Johnson;1.0;4.0;25.0;1.0;3.0;33.3;2.0;2.0;100.0;0.0;1.0;0.0;1.250;0.38
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Indiana Pacers;Damian Lillard;2.0;13.0;15.4;0.0;6.0;0.0;0.0;0.0;0.0;2.0;7.0;28.6;0.308;0.15
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Indiana Pacers;Greg Brown III;2.0;6.0;33.3;0.0;1.0;0.0;0.0;0.0;0.0;2.0;5.0;40.0;0.667;0.33
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Indiana Pacers;Larry Nance Jr.;0.0;1.0;0.0;0.0;0.0;0.0;2.0;4.0;50.0;0.0;1.0;0.0;2.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Indiana Pacers;CJ Elleby;1.0;3.0;33.3;0.0;1.0;0.0;0.0;0.0;0.0;1.0;2.0;50.0;0.667;0.33
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Indiana Pacers;Tony Snell;0.0;2.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Indiana Pacers;Cody Zeller;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Indiana Pacers;Keljin Blevins;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Indiana Pacers;Elijah Hughes;0.0;2.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Indiana Pacers;Total;39.0;81.5;47.9;13.0;36.0;36.1;13.0;16.5;78.8;26.0;45.5;57.1;1.276;0.56
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Josh Hart;10.0;16.0;62.5;5.0;9.0;55.6;2.0;2.0;100.0;5.0;7.0;71.4;1.688;0.78
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Anfernee Simons;9.5;20.5;46.3;6.0;14.5;41.4;0.0;0.0;0.0;3.5;6.0;58.3;1.220;0.61
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Milwaukee Bucks;CJ McCollum;7.0;18.0;38.9;1.0;8.0;12.5;2.0;2.0;100.0;6.0;10.0;60.0;0.944;0.42
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Jusuf Nurkic;6.0;11.0;54.5;1.0;1.0;100.0;4.0;5.5;72.7;5.0;10.0;50.0;1.545;0.59
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Ben McLemore;3.0;10.0;30.0;2.5;8.5;29.4;3.5;4.5;77.8;0.5;1.5;33.3;1.200;0.43
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Justise Winslow;4.5;8.5;52.9;0.5;2.5;20.0;0.0;1.0;0.0;4.0;6.0;66.7;1.118;0.56
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Tony Snell;3.0;6.0;50.0;3.0;6.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.500;0.75
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Trendon Watford;3.5;5.0;70.0;0.5;0.5;100.0;0.5;1.5;33.3;3.0;4.5;66.7;1.600;0.75
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Dennis Smith Jr.;2.0;3.0;66.7;0.0;0.0;0.0;2.0;4.0;50.0;2.0;3.0;66.7;2.000;0.67
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Milwaukee Bucks;CJ Elleby;2.0;6.0;33.3;0.5;3.0;16.7;1.5;2.0;75.0;1.5;3.0;50.0;1.000;0.38
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Greg Brown III;2.5;5.0;50.0;0.5;1.0;50.0;0.5;1.5;33.3;2.0;4.0;50.0;1.200;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Keljin Blevins;1.0;2.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;2.0;50.0;1.000;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Elijah Hughes;1.0;7.0;14.3;0.0;3.0;0.0;0.0;0.0;0.0;1.0;4.0;25.0;0.286;0.14
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Total;43.0;92.0;46.7;16.0;44.0;36.4;13.0;20.0;65.0;27.0;48.0;56.3;1.250;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Atlanta Hawks;Anfernee Simons;13.0;21.0;61.9;9.0;16.0;56.3;8.0;8.0;100.0;4.0;5.0;80.0;2.048;0.83
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Atlanta Hawks;Josh Hart;11.0;21.0;52.4;4.0;7.0;57.1;5.0;7.0;71.4;7.0;14.0;50.0;1.476;0.62
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Atlanta Hawks;Norman Powell;9.0;13.0;69.2;2.0;5.0;40.0;6.0;7.0;85.7;7.0;8.0;87.5;2.000;0.77
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Atlanta Hawks;Nassir Little;8.0;14.0;57.1;4.0;5.0;80.0;2.0;3.0;66.7;4.0;9.0;44.4;1.571;0.71
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Atlanta Hawks;Jusuf Nurkic;8.0;18.0;44.4;0.0;2.0;0.0;5.0;7.0;71.4;8.0;16.0;50.0;1.167;0.44
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Atlanta Hawks;Brandon Williams;8.0;17.0;47.1;2.0;6.0;33.3;2.0;5.0;40.0;6.0;11.0;54.5;1.176;0.53
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Atlanta Hawks;Drew Eubanks;7.0;10.0;70.0;0.0;1.0;0.0;2.0;2.0;100.0;7.0;9.0;77.8;1.600;0.70
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Atlanta Hawks;Trendon Watford;5.5;11.0;50.0;1.0;2.0;50.0;1.5;1.5;100.0;4.5;9.0;50.0;1.227;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Atlanta Hawks;Ben McLemore;4.0;9.0;44.4;2.0;7.0;28.6;0.0;0.0;0.0;2.0;2.0;100.0;1.111;0.56
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Atlanta Hawks;Elijah Hughes;3.0;4.0;75.0;2.0;3.0;66.7;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Atlanta Hawks;CJ Elleby;1.0;2.0;50.0;0.0;1.0;0.0;4.0;4.0;100.0;1.0;1.0;100.0;3.000;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Atlanta Hawks;Keon Johnson;3.0;8.0;37.5;0.0;1.0;0.0;0.0;1.0;0.0;3.0;7.0;42.9;0.750;0.38
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Atlanta Hawks;Robert Covington;1.0;3.0;33.3;0.0;2.0;0.0;2.0;2.0;100.0;1.0;1.0;100.0;1.333;0.33
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Atlanta Hawks;Dennis Smith Jr.;1.0;4.0;25.0;1.0;2.0;50.0;0.0;0.0;0.0;0.0;2.0;0.0;0.750;0.38
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Atlanta Hawks;Larry Nance Jr.;1.0;4.0;25.0;0.0;2.0;0.0;0.0;0.0;0.0;1.0;2.0;50.0;0.500;0.25
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Atlanta Hawks;Kris Dunn;1.0;6.0;16.7;0.0;1.0;0.0;0.0;0.0;0.0;1.0;5.0;20.0;0.333;0.17
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Atlanta Hawks;Greg Brown III;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Atlanta Hawks;Total;45.5;88.5;51.4;14.0;32.5;43.1;19.5;24.5;79.6;31.5;56.0;56.3;1.407;0.59
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Charlotte Hornets;Damian Lillard;8.5;19.5;43.6;4.0;12.5;32.0;7.5;8.0;93.8;4.5;7.0;64.3;1.462;0.54
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Charlotte Hornets;Ben McLemore;10.0;16.0;62.5;8.0;13.0;61.5;0.0;0.0;0.0;2.0;3.0;66.7;1.750;0.88
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Charlotte Hornets;CJ McCollum;10.0;24.0;41.7;4.0;11.0;36.4;1.0;2.0;50.0;6.0;13.0;46.2;1.042;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Charlotte Hornets;Norman Powell;5.5;15.0;36.7;3.0;9.5;31.6;0.0;0.0;0.0;2.5;5.5;45.5;0.933;0.47
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Charlotte Hornets;Anfernee Simons;4.5;7.5;60.0;3.5;6.0;58.3;1.0;1.0;100.0;1.0;1.5;66.7;1.800;0.83
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Charlotte Hornets;Jusuf Nurkic;5.0;8.5;58.8;0.0;1.5;0.0;1.5;1.5;100.0;5.0;7.0;71.4;1.353;0.59
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Charlotte Hornets;Larry Nance Jr.;4.0;5.5;72.7;0.0;0.0;0.0;1.0;1.0;100.0;4.0;5.5;72.7;1.636;0.73
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Charlotte Hornets;Robert Covington;2.5;8.0;31.3;1.5;6.0;25.0;0.0;0.0;0.0;1.0;2.0;50.0;0.813;0.41
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Charlotte Hornets;Cody Zeller;3.0;5.0;60.0;0.0;1.0;0.0;0.0;0.0;0.0;3.0;4.0;75.0;1.200;0.60
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Charlotte Hornets;Nassir Little;1.5;3.5;42.9;1.0;2.5;40.0;1.5;2.0;75.0;0.5;1.0;50.0;1.571;0.57
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Charlotte Hornets;Trendon Watford;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Charlotte Hornets;Dennis Smith Jr.;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Charlotte Hornets;CJ Elleby;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Charlotte Hornets;Greg Brown III;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Charlotte Hornets;Total;43.5;91.0;47.8;19.0;50.5;37.6;13.0;14.5;89.7;24.5;40.5;60.5;1.308;0.58
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Miami Heat;Anfernee Simons;9.0;18.0;50.0;5.5;12.0;45.8;4.0;4.5;88.9;3.5;6.0;58.3;1.528;0.65
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Miami Heat;Norman Powell;7.0;18.0;38.9;3.0;7.0;42.9;9.0;10.0;90.0;4.0;11.0;36.4;1.444;0.47
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Miami Heat;CJ McCollum;10.0;20.0;50.0;4.0;9.0;44.4;0.0;0.0;0.0;6.0;11.0;54.5;1.200;0.60
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Miami Heat;Jusuf Nurkic;5.5;8.5;64.7;0.0;1.0;0.0;5.0;7.0;71.4;5.5;7.5;73.3;1.882;0.65
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Miami Heat;Robert Covington;3.0;9.5;31.6;2.5;6.0;41.7;2.0;2.0;100.0;0.5;3.5;14.3;1.105;0.45
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Miami Heat;Larry Nance Jr.;1.0;4.0;25.0;1.0;2.0;50.0;6.0;6.0;100.0;0.0;2.0;0.0;2.250;0.38
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Miami Heat;Nassir Little;2.0;8.0;25.0;1.0;5.5;18.2;0.0;0.5;0.0;1.0;2.5;40.0;0.625;0.31
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Miami Heat;Dennis Smith Jr.;1.5;3.5;42.9;0.0;0.5;0.0;1.0;2.0;50.0;1.5;3.0;50.0;1.143;0.43
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Miami Heat;CJ Elleby;1.5;3.0;50.0;0.5;1.5;33.3;0.0;0.0;0.0;1.0;1.5;66.7;1.167;0.58
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Miami Heat;Tony Snell;1.0;3.0;33.3;1.0;3.0;33.3;0.0;0.0;0.0;0.0;0.0;0.0;1.000;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Miami Heat;Ben McLemore;0.5;4.5;11.1;0.5;4.5;11.1;0.0;0.0;0.0;0.0;0.0;0.0;0.333;0.17
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Miami Heat;Trendon Watford;0.5;2.0;25.0;0.0;0.5;0.0;0.5;2.0;25.0;0.5;1.5;33.3;0.750;0.25
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Miami Heat;Greg Brown III;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Miami Heat;Total;33.0;79.5;41.5;14.5;42.0;34.5;20.0;26.0;76.9;18.5;37.5;49.3;1.264;0.51
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Orlando Magic;Jusuf Nurkic;7.0;18.5;37.8;0.0;3.0;0.0;3.5;5.0;70.0;7.0;15.5;45.2;0.946;0.38
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Orlando Magic;CJ McCollum;7.0;13.0;53.8;2.0;4.0;50.0;0.0;0.0;0.0;5.0;9.0;55.6;1.231;0.62
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Orlando Magic;Anfernee Simons;5.5;14.0;39.3;1.5;7.0;21.4;3.5;4.0;87.5;4.0;7.0;57.1;1.143;0.45
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Orlando Magic;Ben McLemore;4.5;11.0;40.9;3.5;9.0;38.9;1.0;1.0;100.0;1.0;2.0;50.0;1.227;0.57
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Orlando Magic;Nassir Little;4.0;9.0;44.4;0.0;2.0;0.0;5.0;5.0;100.0;4.0;7.0;57.1;1.444;0.44
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Orlando Magic;Justise Winslow;5.0;12.0;41.7;2.0;7.0;28.6;0.0;0.0;0.0;3.0;5.0;60.0;1.000;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Orlando Magic;CJ Elleby;4.0;10.0;40.0;1.0;2.0;50.0;2.0;2.0;100.0;3.0;8.0;37.5;1.100;0.45
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Orlando Magic;Trendon Watford;3.0;6.5;46.2;0.0;1.5;0.0;2.0;2.0;100.0;3.0;5.0;60.0;1.231;0.46
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Orlando Magic;Greg Brown III;2.0;6.5;30.8;1.0;3.5;28.6;2.5;3.0;83.3;1.0;3.0;33.3;1.154;0.38
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Orlando Magic;Robert Covington;3.0;10.0;30.0;1.0;5.0;20.0;0.0;0.0;0.0;2.0;5.0;40.0;0.700;0.35
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Orlando Magic;Dennis Smith Jr.;1.0;4.5;22.2;0.0;0.0;0.0;2.5;3.5;71.4;1.0;4.5;22.2;1.000;0.22
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Orlando Magic;Tony Snell;0.0;2.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Orlando Magic;Keljin Blevins;0.0;1.5;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.5;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Orlando Magic;Total;34.5;90.5;38.1;9.0;36.0;25.0;18.5;22.0;84.1;25.5;54.5;46.8;1.066;0.43
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Washington Wizards;Josh Hart;15.0;21.0;71.4;6.0;9.0;66.7;8.0;8.0;100.0;9.0;12.0;75.0;2.095;0.86
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Washington Wizards;Anfernee Simons;11.0;21.0;52.4;7.0;14.0;50.0;2.0;3.0;66.7;4.0;7.0;57.1;1.476;0.69
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Washington Wizards;Jusuf Nurkic;9.0;15.0;60.0;0.0;1.0;0.0;5.0;10.0;50.0;9.0;14.0;64.3;1.533;0.60
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Washington Wizards;Drew Eubanks;9.0;14.0;64.3;0.0;1.0;0.0;2.0;2.0;100.0;9.0;13.0;69.2;1.429;0.64
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Washington Wizards;Nassir Little;6.0;8.0;75.0;2.0;3.0;66.7;4.0;5.0;80.0;4.0;5.0;80.0;2.250;0.88
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Washington Wizards;Robert Covington;5.0;13.0;38.5;2.0;6.0;33.3;3.0;4.0;75.0;3.0;7.0;42.9;1.154;0.46
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Washington Wizards;Trendon Watford;5.5;9.0;61.1;0.0;1.5;0.0;3.5;3.5;100.0;5.5;7.5;73.3;1.611;0.61
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Washington Wizards;Brandon Williams;4.0;15.0;26.7;1.0;5.0;20.0;1.0;2.0;50.0;3.0;10.0;30.0;0.667;0.30
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Washington Wizards;Dennis Smith Jr.;3.0;9.0;33.3;0.0;0.0;0.0;3.0;3.0;100.0;3.0;9.0;33.3;1.000;0.33
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Washington Wizards;Greg Brown III;3.0;6.0;50.0;1.0;2.0;50.0;2.0;2.0;100.0;2.0;4.0;50.0;1.500;0.58
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Washington Wizards;CJ Elleby;2.5;6.0;41.7;0.5;2.5;20.0;2.0;2.5;80.0;2.0;3.5;57.1;1.250;0.46
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Washington Wizards;Keon Johnson;2.0;5.0;40.0;2.0;3.0;66.7;0.0;0.0;0.0;0.0;2.0;0.0;1.200;0.60
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Washington Wizards;Ben McLemore;1.5;8.0;18.8;1.0;6.5;15.4;1.5;3.0;50.0;0.5;1.5;33.3;0.688;0.25
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Washington Wizards;Tony Snell;1.0;4.0;25.0;0.0;3.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;0.500;0.25
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Washington Wizards;Keljin Blevins;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Washington Wizards;Elijah Hughes;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Washington Wizards;Total;43.5;89.0;48.9;12.0;34.5;34.8;22.0;28.5;77.2;31.5;54.5;57.8;1.360;0.56
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Denver Nuggets;CJ McCollum;10.0;18.0;55.6;5.0;9.5;52.6;1.5;2.5;60.0;5.0;8.5;58.8;1.472;0.69
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Denver Nuggets;Damian Lillard;9.0;13.0;69.2;5.0;8.0;62.5;2.0;2.0;100.0;4.0;5.0;80.0;1.923;0.88
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Denver Nuggets;Anfernee Simons;5.7;13.7;41.5;1.3;6.3;21.1;2.7;3.3;80.0;4.3;7.3;59.1;1.122;0.46
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Denver Nuggets;Norman Powell;5.0;10.0;50.0;1.0;4.0;25.0;3.0;4.0;75.0;4.0;6.0;66.7;1.400;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Denver Nuggets;Nassir Little;4.3;11.0;39.4;2.3;7.0;33.3;2.3;3.0;77.8;2.0;4.0;50.0;1.212;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Denver Nuggets;Drew Eubanks;6.0;9.0;66.7;0.0;0.0;0.0;1.0;2.0;50.0;6.0;9.0;66.7;1.444;0.67
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Denver Nuggets;Brandon Williams;2.0;7.0;28.6;2.0;5.0;40.0;6.0;9.0;66.7;0.0;2.0;0.0;1.714;0.43
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Denver Nuggets;Josh Hart;5.0;12.0;41.7;0.0;5.0;0.0;1.0;2.0;50.0;5.0;7.0;71.4;0.917;0.42
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Denver Nuggets;Ben McLemore;2.5;6.3;40.0;2.0;4.8;42.1;0.5;0.8;66.7;0.5;1.5;33.3;1.200;0.56
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Denver Nuggets;Robert Covington;2.7;7.0;38.1;1.3;4.3;30.8;0.7;1.3;50.0;1.3;2.7;50.0;1.048;0.48
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Denver Nuggets;Dennis Smith Jr.;2.7;5.3;50.0;0.0;0.7;0.0;1.7;2.3;71.4;2.7;4.7;57.1;1.313;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Denver Nuggets;Jusuf Nurkic;2.7;6.7;40.0;0.0;1.7;0.0;1.3;1.7;80.0;2.7;5.0;53.3;1.000;0.40
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Denver Nuggets;Trendon Watford;2.3;4.7;50.0;0.0;0.3;0.0;1.7;2.3;71.4;2.3;4.3;53.8;1.357;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Denver Nuggets;Greg Brown III;2.3;3.7;63.6;0.0;1.0;0.0;1.7;2.0;83.3;2.3;2.7;87.5;1.727;0.64
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Denver Nuggets;Elijah Hughes;2.0;5.0;40.0;1.0;3.0;33.3;0.0;0.0;0.0;1.0;2.0;50.0;1.000;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Denver Nuggets;CJ Elleby;1.8;5.5;31.8;0.5;2.3;22.2;0.5;0.5;100.0;1.3;3.3;38.5;0.818;0.36
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Denver Nuggets;Keljin Blevins;1.5;3.0;50.0;1.0;2.0;50.0;0.0;1.0;0.0;0.5;1.0;50.0;1.333;0.67
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Denver Nuggets;Keon Johnson;2.0;10.0;20.0;0.0;2.0;0.0;0.0;0.0;0.0;2.0;8.0;25.0;0.400;0.20
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Denver Nuggets;Cody Zeller;1.5;3.0;50.0;0.0;0.0;0.0;0.5;1.0;50.0;1.5;3.0;50.0;1.167;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Denver Nuggets;Larry Nance Jr.;1.5;4.0;37.5;0.0;1.0;0.0;0.5;1.0;50.0;1.5;3.0;50.0;0.875;0.38
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Denver Nuggets;Tony Snell;1.0;3.3;30.0;0.0;2.0;0.0;0.0;0.0;0.0;1.0;1.3;75.0;0.600;0.30
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Denver Nuggets;Total;38.3;86.3;44.3;11.8;38.5;30.5;15.3;21.8;70.1;26.5;47.8;55.5;1.200;0.51
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Anfernee Simons;8.3;21.0;39.7;6.3;14.0;45.2;4.0;4.3;92.3;2.0;7.0;28.6;1.286;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Damian Lillard;5.0;17.0;29.4;3.0;14.0;21.4;11.0;15.0;73.3;2.0;3.0;66.7;1.412;0.38
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Brandon Williams;8.0;16.0;50.0;2.0;6.0;33.3;6.0;8.5;70.6;6.0;10.0;60.0;1.500;0.56
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;CJ McCollum;5.0;15.0;33.3;3.0;9.0;33.3;2.0;2.0;100.0;2.0;6.0;33.3;1.000;0.43
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Nassir Little;5.5;9.0;61.1;2.5;5.0;50.0;1.5;2.5;60.0;3.0;4.0;75.0;1.667;0.75
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Keon Johnson;4.0;11.5;34.8;2.0;4.5;44.4;4.5;5.0;90.0;2.0;7.0;28.6;1.261;0.43
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Jusuf Nurkic;5.5;12.0;45.8;0.0;0.0;0.0;3.0;4.0;75.0;5.5;12.0;45.8;1.167;0.46
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Norman Powell;4.0;8.5;47.1;2.0;4.0;50.0;1.5;2.0;75.0;2.0;4.5;44.4;1.353;0.59
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Ben McLemore;2.5;6.0;41.7;2.5;4.5;55.6;2.5;2.5;100.0;0.0;1.5;0.0;1.667;0.63
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Larry Nance Jr.;3.0;6.0;50.0;0.0;2.0;0.0;2.0;4.0;50.0;3.0;4.0;75.0;1.333;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Drew Eubanks;3.5;6.5;53.8;0.0;0.0;0.0;0.5;0.5;100.0;3.5;6.5;53.8;1.154;0.54
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;CJ Elleby;3.0;8.5;35.3;0.0;0.5;0.0;1.0;2.5;40.0;3.0;8.0;37.5;0.824;0.35
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Trendon Watford;2.3;4.8;47.4;0.3;1.0;25.0;2.0;2.5;80.0;2.0;3.8;53.3;1.421;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Josh Hart;2.0;12.0;16.7;1.0;6.0;16.7;1.0;2.0;50.0;1.0;6.0;16.7;0.500;0.21
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Robert Covington;2.0;8.5;23.5;0.5;4.0;12.5;1.0;1.0;100.0;1.5;4.5;33.3;0.647;0.26
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Keljin Blevins;2.0;4.5;44.4;1.0;3.5;28.6;0.5;1.0;50.0;1.0;1.0;100.0;1.222;0.56
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Dennis Smith Jr.;1.5;2.5;60.0;0.0;0.0;0.0;1.0;1.0;100.0;1.5;2.5;60.0;1.600;0.60
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Elijah Hughes;0.0;4.0;0.0;0.0;2.0;0.0;1.0;2.0;50.0;0.0;2.0;0.0;0.250;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Greg Brown III;0.0;7.0;0.0;0.0;2.0;0.0;1.0;2.0;50.0;0.0;5.0;0.0;0.143;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Tony Snell;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Total;34.3;85.8;39.9;14.3;38.8;36.8;22.3;29.0;76.7;20.0;47.0;42.6;1.224;0.48
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Brandon Williams;8.0;20.0;40.0;5.0;8.0;62.5;4.0;6.0;66.7;3.0;12.0;25.0;1.250;0.53
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Drew Eubanks;9.0;11.0;81.8;0.0;0.0;0.0;2.5;3.0;83.3;9.0;11.0;81.8;1.864;0.82
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;CJ McCollum;9.5;20.5;46.3;1.0;7.5;13.3;0.0;0.0;0.0;8.5;13.0;65.4;0.976;0.49
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Keon Johnson;7.0;16.5;42.4;3.0;8.0;37.5;0.5;1.0;50.0;4.0;8.5;47.1;1.061;0.52
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Norman Powell;6.0;15.0;40.0;3.0;8.0;37.5;2.0;3.0;66.7;3.0;7.0;42.9;1.133;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Jusuf Nurkic;6.5;15.5;41.9;0.0;0.0;0.0;1.0;1.5;66.7;6.5;15.5;41.9;0.903;0.42
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Anfernee Simons;5.0;15.5;32.3;1.5;9.0;16.7;2.0;2.5;80.0;3.5;6.5;53.8;0.871;0.37
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Ben McLemore;4.3;12.3;34.7;3.0;9.5;31.6;0.8;1.0;75.0;1.3;2.8;45.5;1.000;0.47
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Greg Brown III;3.3;6.0;55.6;0.3;1.3;25.0;1.7;2.0;83.3;3.0;4.7;64.3;1.444;0.58
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Kris Dunn;4.0;11.0;36.4;0.0;1.0;0.0;0.5;1.0;50.0;4.0;10.0;40.0;0.773;0.36
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Tony Snell;3.0;5.5;54.5;1.5;4.0;37.5;0.0;0.0;0.0;1.5;1.5;100.0;1.364;0.68
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;CJ Elleby;2.3;6.7;35.0;1.0;2.0;50.0;1.7;2.0;83.3;1.3;4.7;28.6;1.100;0.43
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Trendon Watford;3.0;4.0;75.0;0.0;1.0;0.0;0.5;0.5;100.0;3.0;3.0;100.0;1.625;0.75
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Dennis Smith Jr.;3.0;5.5;54.5;0.0;0.0;0.0;0.0;0.0;0.0;3.0;5.5;54.5;1.091;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Elijah Hughes;2.0;7.0;28.6;1.0;4.5;22.2;0.0;0.5;0.0;1.0;2.5;40.0;0.714;0.36
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Didi Louzada;2.0;5.0;40.0;1.0;2.0;50.0;0.0;0.0;0.0;1.0;3.0;33.3;1.000;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Keljin Blevins;1.7;5.0;33.3;1.0;3.3;30.0;0.0;0.0;0.0;0.7;1.7;40.0;0.867;0.43
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Robert Covington;0.0;5.0;0.0;0.0;5.0;0.0;2.0;2.0;100.0;0.0;0.0;0.0;0.400;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Reggie Perry;1.0;6.0;16.7;0.0;2.0;0.0;0.0;0.0;0.0;1.0;4.0;25.0;0.333;0.17
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Total;40.0;94.3;42.4;11.0;38.3;28.8;8.8;11.8;74.5;29.0;56.0;51.8;1.058;0.48
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Utah Jazz;Norman Powell;11.0;23.0;47.8;4.0;9.0;44.4;6.0;6.0;100.0;7.0;14.0;50.0;1.391;0.57
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Utah Jazz;Jusuf Nurkic;9.0;13.0;69.2;1.0;1.0;100.0;5.0;7.0;71.4;8.0;12.0;66.7;1.846;0.73
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Utah Jazz;Damian Lillard;7.0;17.5;40.0;3.0;9.0;33.3;4.5;6.0;75.0;4.0;8.5;47.1;1.229;0.49
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Utah Jazz;CJ McCollum;7.0;17.0;41.2;2.0;5.0;40.0;3.0;3.0;100.0;5.0;12.0;41.7;1.118;0.47
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Utah Jazz;Anfernee Simons;6.5;14.0;46.4;2.5;5.5;45.5;0.0;0.0;0.0;4.0;8.5;47.1;1.107;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Utah Jazz;Reggie Perry;5.5;10.0;55.0;0.5;2.5;20.0;0.5;1.5;33.3;5.0;7.5;66.7;1.200;0.58
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Utah Jazz;Trendon Watford;3.5;8.0;43.8;0.5;2.0;25.0;4.5;5.0;90.0;3.0;6.0;50.0;1.500;0.47
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Utah Jazz;Keon Johnson;4.5;13.0;34.6;1.5;5.5;27.3;1.0;1.0;100.0;3.0;7.5;40.0;0.885;0.40
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Utah Jazz;Cody Zeller;4.0;5.0;80.0;0.0;0.0;0.0;0.0;0.0;0.0;4.0;5.0;80.0;1.600;0.80
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Utah Jazz;Larry Nance Jr.;3.0;7.5;40.0;0.5;2.0;25.0;1.0;2.0;50.0;2.5;5.5;45.5;1.000;0.43
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Utah Jazz;Ben McLemore;2.7;5.0;53.3;1.0;3.3;30.0;1.0;1.3;75.0;1.7;1.7;100.0;1.467;0.63
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Utah Jazz;CJ Elleby;2.5;4.3;58.8;1.5;2.5;60.0;0.5;0.5;100.0;1.0;1.8;57.1;1.647;0.76
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Utah Jazz;Brandon Williams;2.3;10.0;23.3;0.3;2.3;14.3;1.7;2.7;62.5;2.0;7.7;26.1;0.667;0.25
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Utah Jazz;Keljin Blevins;2.0;6.5;30.8;1.0;5.0;20.0;1.0;1.0;100.0;1.0;1.5;66.7;0.923;0.38
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Utah Jazz;Tony Snell;2.0;4.5;44.4;1.5;3.5;42.9;0.0;0.0;0.0;0.5;1.0;50.0;1.222;0.61
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Utah Jazz;Josh Hart;2.0;11.0;18.2;0.0;6.0;0.0;1.0;2.0;50.0;2.0;5.0;40.0;0.455;0.18
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Utah Jazz;Didi Louzada;2.0;5.0;40.0;1.0;2.0;50.0;0.0;0.0;0.0;1.0;3.0;33.3;1.000;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Utah Jazz;Nassir Little;2.0;6.5;30.8;0.5;3.0;16.7;0.0;0.0;0.0;1.5;3.5;42.9;0.692;0.35
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Utah Jazz;Drew Eubanks;2.0;7.0;28.6;0.0;0.0;0.0;0.0;0.0;0.0;2.0;7.0;28.6;0.571;0.29
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Utah Jazz;Cameron McGriff;1.0;3.0;33.3;0.0;1.0;0.0;2.0;2.0;100.0;1.0;2.0;50.0;1.333;0.33
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Utah Jazz;Dennis Smith Jr.;1.0;3.0;33.3;0.0;1.0;0.0;1.0;2.0;50.0;1.0;2.0;50.0;1.000;0.33
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Utah Jazz;Elijah Hughes;0.5;5.0;10.0;0.0;2.5;0.0;1.0;1.0;100.0;0.5;2.5;20.0;0.400;0.10
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Utah Jazz;Greg Brown III;0.5;3.5;14.3;0.5;1.5;33.3;0.3;1.0;25.0;0.0;2.0;0.0;0.500;0.21
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Utah Jazz;Robert Covington;0.0;3.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Utah Jazz;Jarron Cumberland;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Utah Jazz;Total;34.8;87.8;39.6;10.8;35.3;30.5;14.0;18.8;74.7;24.0;52.5;45.7;1.074;0.46
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Golden State Warriors;Anfernee Simons;7.0;13.5;51.9;4.5;8.5;52.9;3.0;3.0;100.0;2.5;5.0;50.0;1.593;0.69
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Golden State Warriors;Norman Powell;7.0;16.0;43.8;1.0;4.0;25.0;5.5;6.5;84.6;6.0;12.0;50.0;1.281;0.47
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Golden State Warriors;Damian Lillard;5.0;15.0;33.3;2.0;7.0;28.6;4.0;4.0;100.0;3.0;8.0;37.5;1.067;0.40
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Golden State Warriors;CJ McCollum;6.0;17.0;35.3;3.0;6.0;50.0;1.0;2.0;50.0;3.0;11.0;27.3;0.941;0.44
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Golden State Warriors;Jusuf Nurkic;5.5;11.5;47.8;0.0;1.5;0.0;3.5;5.5;63.6;5.5;10.0;55.0;1.261;0.48
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Golden State Warriors;Justise Winslow;5.0;11.0;45.5;2.0;3.0;66.7;2.0;4.0;50.0;3.0;8.0;37.5;1.273;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Golden State Warriors;Josh Hart;5.0;11.0;45.5;0.0;5.0;0.0;2.0;2.0;100.0;5.0;6.0;83.3;1.091;0.45
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Golden State Warriors;Dennis Smith Jr.;5.0;9.0;55.6;0.0;2.0;0.0;2.0;2.0;100.0;5.0;7.0;71.4;1.333;0.56
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Golden State Warriors;Brandon Williams;4.0;9.0;44.4;1.0;3.0;33.3;3.0;3.0;100.0;3.0;6.0;50.0;1.333;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Golden State Warriors;Nassir Little;2.5;6.0;41.7;1.0;3.0;33.3;4.5;6.5;69.2;1.5;3.0;50.0;1.750;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Golden State Warriors;Trendon Watford;2.0;5.0;40.0;0.0;0.0;0.0;5.0;6.0;83.3;2.0;5.0;40.0;1.800;0.40
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Golden State Warriors;Robert Covington;3.5;9.0;38.9;1.0;5.0;20.0;0.0;0.0;0.0;2.5;4.0;62.5;0.889;0.44
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Golden State Warriors;Greg Brown III;3.0;6.0;50.0;1.0;3.0;33.3;1.0;2.0;50.0;2.0;3.0;66.7;1.333;0.58
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Golden State Warriors;Ben McLemore;2.0;7.0;28.6;1.5;6.5;23.1;0.5;1.0;50.0;0.5;0.5;100.0;0.857;0.39
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Golden State Warriors;Larry Nance Jr.;2.0;6.5;30.8;0.5;2.5;20.0;1.5;2.0;75.0;1.5;4.0;37.5;0.923;0.35
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Golden State Warriors;Elijah Hughes;2.0;4.0;50.0;1.0;3.0;33.3;0.0;0.0;0.0;1.0;1.0;100.0;1.250;0.63
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Golden State Warriors;CJ Elleby;1.0;3.0;33.3;0.5;2.0;25.0;1.5;2.0;75.0;0.5;1.0;50.0;1.333;0.42
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Golden State Warriors;Keon Johnson;1.0;5.0;20.0;0.0;1.0;0.0;2.0;2.0;100.0;1.0;4.0;25.0;0.800;0.20
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Golden State Warriors;Drew Eubanks;1.0;2.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;2.0;50.0;1.000;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Golden State Warriors;Tony Snell;0.0;2.5;0.0;0.0;1.5;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Golden State Warriors;Keljin Blevins;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Golden State Warriors;Total;33.3;81.7;40.8;10.0;34.3;29.1;20.7;26.7;77.5;23.3;47.3;49.3;1.192;0.47
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. LA Clippers;Damian Lillard;8.0;18.3;43.6;3.0;9.3;32.1;2.3;2.3;100.0;5.0;9.0;55.6;1.164;0.52
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. LA Clippers;Norman Powell;7.3;15.7;46.8;3.7;6.7;55.0;3.0;4.0;75.0;3.7;9.0;40.7;1.362;0.59
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. LA Clippers;Jusuf Nurkic;6.5;12.0;54.2;0.5;1.0;50.0;2.5;4.0;62.5;6.0;11.0;54.5;1.333;0.56
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. LA Clippers;CJ McCollum;6.3;16.3;38.8;2.0;6.7;30.0;1.0;1.3;75.0;4.3;9.7;44.8;0.959;0.45
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. LA Clippers;Dennis Smith Jr.;3.7;7.0;52.4;0.7;0.7;100.0;0.3;1.0;33.3;3.0;6.3;47.4;1.190;0.57
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. LA Clippers;Anfernee Simons;3.0;10.3;29.0;1.0;5.3;18.8;0.3;0.3;100.0;2.0;5.0;40.0;0.710;0.34
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. LA Clippers;Nassir Little;2.7;5.7;47.1;1.3;2.7;50.0;0.7;0.7;100.0;1.3;3.0;44.4;1.294;0.59
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. LA Clippers;Cody Zeller;2.5;6.0;41.7;0.0;0.8;0.0;2.3;3.3;69.2;2.5;5.3;47.6;1.208;0.42
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. LA Clippers;Robert Covington;1.5;6.3;24.0;1.0;4.8;21.1;0.3;0.3;100.0;0.5;1.5;33.3;0.680;0.32
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. LA Clippers;Larry Nance Jr.;1.5;4.3;35.3;0.5;2.0;25.0;0.8;1.0;75.0;1.0;2.3;44.4;1.000;0.41
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. LA Clippers;Tony Snell;1.5;2.5;60.0;0.5;1.5;33.3;0.0;0.0;0.0;1.0;1.0;100.0;1.400;0.70
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. LA Clippers;Greg Brown III;1.5;2.5;60.0;0.0;0.0;0.0;0.0;0.5;0.0;1.5;2.5;60.0;1.200;0.60
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. LA Clippers;CJ Elleby;1.0;1.0;100.0;0.7;0.7;100.0;0.0;0.0;0.0;0.3;0.3;100.0;2.667;1.33
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. LA Clippers;Ben McLemore;0.5;3.0;16.7;0.0;2.0;0.0;1.0;1.0;100.0;0.5;1.0;50.0;0.667;0.17
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. LA Clippers;Total;37.8;88.3;42.8;11.5;34.3;33.6;12.0;16.5;72.7;26.3;54.0;48.6;1.122;0.49
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Damian Lillard;7.0;17.0;41.2;3.5;11.0;31.8;4.0;5.5;72.7;3.5;6.0;58.3;1.265;0.51
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Anfernee Simons;7.3;18.3;40.0;2.7;9.0;29.6;2.0;2.3;85.7;4.7;9.3;50.0;1.055;0.47
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Norman Powell;6.0;15.3;39.1;2.0;6.7;30.0;4.3;6.0;72.2;4.0;8.7;46.2;1.196;0.46
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Jusuf Nurkic;7.0;10.7;65.6;0.7;1.0;66.7;2.0;4.3;46.2;6.3;9.7;65.5;1.563;0.69
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Los Angeles Lakers;CJ McCollum;4.0;16.0;25.0;2.5;8.5;29.4;0.5;1.0;50.0;1.5;7.5;20.0;0.688;0.33
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Justise Winslow;5.0;11.0;45.5;0.0;4.0;0.0;1.0;2.0;50.0;5.0;7.0;71.4;1.000;0.45
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Ben McLemore;3.5;11.8;29.8;2.3;8.3;27.3;1.0;1.0;100.0;1.3;3.5;35.7;0.872;0.39
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Larry Nance Jr.;3.5;6.5;53.8;0.5;1.0;50.0;1.0;1.5;66.7;3.0;5.5;54.5;1.308;0.58
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Keljin Blevins;3.0;7.0;42.9;2.0;4.0;50.0;0.0;0.0;0.0;1.0;3.0;33.3;1.143;0.57
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Cameron McGriff;3.0;6.0;50.0;1.0;3.0;33.3;0.0;0.0;0.0;2.0;3.0;66.7;1.167;0.58
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Reggie Perry;2.0;6.0;33.3;1.0;1.0;100.0;2.0;2.0;100.0;1.0;5.0;20.0;1.167;0.42
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Robert Covington;2.0;8.0;25.0;2.0;6.5;30.8;0.0;0.0;0.0;0.0;1.5;0.0;0.750;0.38
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Cody Zeller;1.0;1.0;100.0;0.0;0.0;0.0;4.0;4.0;100.0;1.0;1.0;100.0;6.000;1.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Trendon Watford;2.5;3.5;71.4;0.0;0.0;0.0;1.0;1.0;100.0;2.5;3.5;71.4;1.714;0.71
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Nassir Little;2.0;7.0;28.6;1.0;4.5;22.2;0.0;0.0;0.0;1.0;2.5;40.0;0.714;0.36
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Los Angeles Lakers;CJ Elleby;1.8;5.3;33.3;0.0;1.0;0.0;1.3;1.3;100.0;1.8;4.3;41.2;0.905;0.33
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Greg Brown III;1.0;3.7;27.3;0.3;0.7;50.0;2.0;2.0;100.0;0.7;3.0;22.2;1.182;0.32
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Dennis Smith Jr.;1.5;5.0;30.0;0.0;0.8;0.0;0.8;1.8;42.9;1.5;4.3;35.3;0.750;0.30
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Tony Snell;1.0;2.0;50.0;1.0;1.5;66.7;0.0;0.0;0.0;0.0;0.5;0.0;1.500;0.75
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Jarron Cumberland;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Total;37.3;96.0;38.8;12.8;42.8;29.8;15.8;21.5;73.3;24.5;53.3;46.0;1.073;0.45
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Phoenix Suns;Damian Lillard;9.7;21.7;44.6;2.7;9.0;29.6;4.0;4.7;85.7;7.0;12.7;55.3;1.200;0.51
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Phoenix Suns;CJ McCollum;8.5;17.5;48.6;3.5;9.0;38.9;2.5;2.5;100.0;5.0;8.5;58.8;1.314;0.59
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Phoenix Suns;Norman Powell;7.7;14.0;54.8;2.7;6.3;42.1;2.7;3.3;80.0;5.0;7.7;65.2;1.476;0.64
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Phoenix Suns;Brandon Williams;5.0;8.0;62.5;1.0;1.0;100.0;3.0;3.0;100.0;4.0;7.0;57.1;1.750;0.69
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Phoenix Suns;Drew Eubanks;5.0;6.0;83.3;0.0;0.0;0.0;3.0;4.0;75.0;5.0;6.0;83.3;2.167;0.83
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Phoenix Suns;Trendon Watford;5.0;12.0;41.7;2.0;2.0;100.0;1.0;2.0;50.0;3.0;10.0;30.0;1.083;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Phoenix Suns;Jusuf Nurkic;5.0;8.3;60.0;0.0;1.0;0.0;1.3;2.3;57.1;5.0;7.3;68.2;1.360;0.60
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Phoenix Suns;Larry Nance Jr.;4.3;6.0;72.2;1.0;1.3;75.0;0.3;1.3;25.0;3.3;4.7;71.4;1.667;0.81
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Phoenix Suns;Josh Hart;2.0;9.0;22.2;1.0;5.0;20.0;5.0;7.0;71.4;1.0;4.0;25.0;1.111;0.28
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Phoenix Suns;Anfernee Simons;3.8;11.5;32.6;2.0;5.5;36.4;0.3;0.3;100.0;1.8;6.0;29.2;0.848;0.41
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Phoenix Suns;Nassir Little;3.0;6.3;47.4;0.3;3.0;11.1;1.0;2.0;50.0;2.7;3.3;80.0;1.158;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Phoenix Suns;Robert Covington;2.7;5.0;53.3;1.7;3.7;45.5;0.0;0.0;0.0;1.0;1.3;75.0;1.400;0.70
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Phoenix Suns;CJ Elleby;1.5;5.5;27.3;0.0;2.0;0.0;3.0;4.0;75.0;1.5;3.5;42.9;1.091;0.27
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Phoenix Suns;Keljin Blevins;2.0;3.0;66.7;1.0;2.0;50.0;0.0;0.0;0.0;1.0;1.0;100.0;1.667;0.83
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Phoenix Suns;Ben McLemore;1.7;4.7;35.7;1.3;3.7;36.4;0.0;0.0;0.0;0.3;1.0;33.3;1.000;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Phoenix Suns;Tony Snell;1.0;1.5;66.7;1.0;1.5;66.7;1.0;1.0;100.0;0.0;0.0;0.0;2.667;1.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Phoenix Suns;Cody Zeller;1.0;2.0;50.0;0.0;0.0;0.0;1.5;2.0;75.0;1.0;2.0;50.0;1.750;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Phoenix Suns;Greg Brown III;1.5;4.5;33.3;0.0;1.5;0.0;0.5;1.5;33.3;1.5;3.0;50.0;0.778;0.33
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Phoenix Suns;Elijah Hughes;1.0;8.0;12.5;1.0;6.0;16.7;0.0;0.0;0.0;0.0;2.0;0.0;0.375;0.19
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Phoenix Suns;Dennis Smith Jr.;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Phoenix Suns;Keon Johnson;0.0;6.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;4.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Phoenix Suns;Total;41.3;89.8;46.0;13.0;38.0;34.2;14.5;20.0;72.5;28.3;51.8;54.6;1.226;0.53
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Sacramento Kings;Damian Lillard;7.5;21.0;35.7;1.5;10.5;14.3;9.5;10.5;90.5;6.0;10.5;57.1;1.238;0.39
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Sacramento Kings;CJ McCollum;10.0;22.0;45.5;3.5;8.5;41.2;0.0;0.0;0.0;6.5;13.5;48.1;1.068;0.53
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Sacramento Kings;Anfernee Simons;7.5;11.5;65.2;4.0;6.5;61.5;2.0;2.0;100.0;3.5;5.0;70.0;1.826;0.83
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Sacramento Kings;Jusuf Nurkic;8.0;13.0;61.5;0.7;1.7;40.0;4.0;5.0;80.0;7.3;11.3;64.7;1.590;0.64
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Sacramento Kings;Norman Powell;5.5;12.5;44.0;3.0;6.5;46.2;4.0;5.0;80.0;2.5;6.0;41.7;1.440;0.56
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Sacramento Kings;Ben McLemore;5.0;12.0;41.7;3.0;8.0;37.5;0.0;0.0;0.0;2.0;4.0;50.0;1.083;0.54
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Sacramento Kings;Nassir Little;4.7;9.3;50.0;2.0;4.0;50.0;0.7;0.7;100.0;2.7;5.3;50.0;1.286;0.61
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Sacramento Kings;Robert Covington;1.7;6.0;27.8;1.0;3.7;27.3;1.0;1.0;100.0;0.7;2.3;28.6;0.889;0.36
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Sacramento Kings;Cody Zeller;2.0;3.7;54.5;0.0;0.0;0.0;1.0;1.3;75.0;2.0;3.7;54.5;1.364;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Sacramento Kings;CJ Elleby;2.0;4.0;50.0;1.0;2.0;50.0;0.0;0.0;0.0;1.0;2.0;50.0;1.250;0.63
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Sacramento Kings;Trendon Watford;2.0;4.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;4.0;50.0;1.000;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Sacramento Kings;Larry Nance Jr.;1.5;4.0;37.5;0.5;2.5;20.0;0.0;0.0;0.0;1.0;1.5;66.7;0.875;0.44
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Sacramento Kings;Dennis Smith Jr.;1.5;7.0;21.4;0.0;2.0;0.0;0.5;1.5;33.3;1.5;5.0;30.0;0.500;0.21
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Sacramento Kings;Tony Snell;0.5;1.5;33.3;0.5;1.0;50.0;0.0;0.0;0.0;0.0;0.5;0.0;1.000;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Sacramento Kings;Greg Brown III;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Sacramento Kings;Total;42.0;91.7;45.8;13.7;37.7;36.3;17.3;20.7;83.9;28.3;54.0;52.5;1.255;0.53
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Dallas Mavericks;Damian Lillard;5.0;15.0;33.3;3.0;8.0;37.5;13.0;14.0;92.9;2.0;7.0;28.6;1.733;0.43
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Dallas Mavericks;CJ McCollum;8.0;16.0;50.0;4.0;10.0;40.0;0.0;1.0;0.0;4.0;6.0;66.7;1.250;0.63
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Dallas Mavericks;Nassir Little;7.0;14.0;50.0;2.0;7.0;28.6;4.0;7.0;57.1;5.0;7.0;71.4;1.429;0.57
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Dallas Mavericks;Jusuf Nurkic;7.0;11.0;63.6;0.0;1.0;0.0;4.0;7.0;57.1;7.0;10.0;70.0;1.636;0.64
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Dallas Mavericks;Drew Eubanks;8.0;14.0;57.1;0.0;1.0;0.0;2.0;2.0;100.0;8.0;13.0;61.5;1.286;0.57
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Dallas Mavericks;Norman Powell;4.0;14.5;27.6;1.5;8.0;18.8;7.5;10.5;71.4;2.5;6.5;38.5;1.172;0.33
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Dallas Mavericks;Anfernee Simons;6.5;11.0;59.1;2.5;5.5;45.5;1.5;1.5;100.0;4.0;5.5;72.7;1.545;0.70
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Dallas Mavericks;Larry Nance Jr.;5.0;11.0;45.5;1.0;3.0;33.3;1.0;1.0;100.0;4.0;8.0;50.0;1.091;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Dallas Mavericks;Ben McLemore;4.0;6.5;61.5;3.0;5.5;54.5;0.5;1.5;33.3;1.0;1.0;100.0;1.769;0.85
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Dallas Mavericks;Keon Johnson;3.0;13.0;23.1;0.0;4.0;0.0;4.0;4.0;100.0;3.0;9.0;33.3;0.769;0.23
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Dallas Mavericks;Reggie Perry;4.0;7.0;57.1;0.0;1.0;0.0;1.0;1.0;100.0;4.0;6.0;66.7;1.286;0.57
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Dallas Mavericks;Elijah Hughes;3.0;11.0;27.3;2.0;7.0;28.6;0.0;0.0;0.0;1.0;4.0;25.0;0.727;0.36
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Dallas Mavericks;Brandon Williams;3.0;6.0;50.0;0.0;1.0;0.0;2.0;3.5;57.1;3.0;5.0;60.0;1.333;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Dallas Mavericks;Trendon Watford;4.0;6.0;66.7;0.0;0.0;0.0;0.0;0.0;0.0;4.0;6.0;66.7;1.333;0.67
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Dallas Mavericks;CJ Elleby;2.0;7.7;26.1;0.7;4.3;15.4;1.3;1.3;100.0;1.3;3.3;40.0;0.783;0.30
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Dallas Mavericks;Greg Brown III;2.0;3.0;66.7;0.3;1.0;33.3;0.7;0.7;100.0;1.7;2.0;83.3;1.667;0.72
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Dallas Mavericks;Tony Snell;1.5;3.0;50.0;1.0;2.5;40.0;0.0;0.0;0.0;0.5;0.5;100.0;1.333;0.67
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Dallas Mavericks;Cameron McGriff;1.0;5.0;20.0;1.0;2.0;50.0;0.0;0.0;0.0;0.0;3.0;0.0;0.600;0.30
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Dallas Mavericks;Didi Louzada;1.0;5.0;20.0;1.0;4.0;25.0;0.0;0.0;0.0;0.0;1.0;0.0;0.600;0.30
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Dallas Mavericks;Jarron Cumberland;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Dallas Mavericks;Keljin Blevins;0.5;2.0;25.0;0.0;0.5;0.0;0.0;0.0;0.0;0.5;1.5;33.3;0.500;0.25
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Dallas Mavericks;Total;36.0;82.3;43.7;11.0;36.7;30.0;19.3;25.7;75.3;25.0;45.7;54.7;1.243;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Houston Rockets;CJ McCollum;8.5;20.5;41.5;2.5;6.5;38.5;2.0;2.5;80.0;6.0;14.0;42.9;1.049;0.48
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Houston Rockets;Damian Lillard;6.0;16.0;37.5;4.0;9.0;44.4;4.0;5.0;80.0;2.0;7.0;28.6;1.250;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Houston Rockets;Jusuf Nurkic;4.5;7.0;64.3;0.0;0.0;0.0;9.5;10.5;90.5;4.5;7.0;64.3;2.643;0.64
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Houston Rockets;Anfernee Simons;7.0;13.0;53.8;3.5;7.5;46.7;0.0;0.0;0.0;3.5;5.5;63.6;1.346;0.67
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Houston Rockets;Drew Eubanks;7.0;11.0;63.6;0.0;0.5;0.0;2.0;4.0;50.0;7.0;10.5;66.7;1.455;0.64
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Houston Rockets;Trendon Watford;6.0;9.0;66.7;0.0;0.7;0.0;1.3;2.3;57.1;6.0;8.3;72.0;1.481;0.67
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Houston Rockets;Nassir Little;6.0;10.0;60.0;1.0;4.0;25.0;0.0;1.0;0.0;5.0;6.0;83.3;1.300;0.65
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Houston Rockets;Ben McLemore;4.0;8.7;46.2;2.7;6.7;40.0;2.0;2.3;85.7;1.3;2.0;66.7;1.462;0.62
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Houston Rockets;Keon Johnson;4.5;11.0;40.9;2.0;5.0;40.0;1.0;1.0;100.0;2.5;6.0;41.7;1.091;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Houston Rockets;Norman Powell;4.5;9.5;47.4;0.5;2.5;20.0;2.0;3.0;66.7;4.0;7.0;57.1;1.211;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Houston Rockets;CJ Elleby;4.5;10.0;45.0;1.5;4.0;37.5;0.5;1.5;33.3;3.0;6.0;50.0;1.100;0.53
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Houston Rockets;Kris Dunn;3.0;5.5;54.5;0.0;0.5;0.0;4.0;4.0;100.0;3.0;5.0;60.0;1.818;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Houston Rockets;Robert Covington;3.0;8.5;35.3;2.5;7.0;35.7;1.0;1.0;100.0;0.5;1.5;33.3;1.118;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Houston Rockets;Cody Zeller;2.0;2.0;100.0;0.0;0.0;0.0;5.0;6.0;83.3;2.0;2.0;100.0;4.500;1.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Houston Rockets;Larry Nance Jr.;3.0;7.0;42.9;0.0;2.0;0.0;3.0;5.0;60.0;3.0;5.0;60.0;1.286;0.43
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Houston Rockets;Brandon Williams;3.5;12.5;28.0;0.5;5.5;9.1;1.0;1.0;100.0;3.0;7.0;42.9;0.680;0.30
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Houston Rockets;Greg Brown III;3.0;5.5;54.5;0.0;1.5;0.0;0.0;0.0;0.0;3.0;4.0;75.0;1.091;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Houston Rockets;Elijah Hughes;2.0;6.0;33.3;0.5;3.0;16.7;0.5;0.5;100.0;1.5;3.0;50.0;0.833;0.38
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Houston Rockets;Keljin Blevins;1.0;7.0;14.3;1.0;3.5;28.6;0.5;1.0;50.0;0.0;3.5;0.0;0.500;0.21
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Houston Rockets;Tony Snell;0.5;2.0;25.0;0.5;2.0;25.0;0.0;0.0;0.0;0.0;0.0;0.0;0.750;0.38
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Houston Rockets;Dennis Smith Jr.;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Houston Rockets;Total;40.0;86.5;46.2;10.8;33.8;31.9;17.5;22.8;76.9;29.3;52.8;55.5;1.251;0.52
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Norman Powell;8.5;17.0;50.0;4.5;9.0;50.0;5.0;5.5;90.9;4.0;8.0;50.0;1.559;0.63
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Memphis Grizzlies;CJ McCollum;8.0;21.0;38.1;4.0;9.0;44.4;5.0;6.0;83.3;4.0;12.0;33.3;1.190;0.48
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Damian Lillard;7.0;20.7;33.9;4.0;10.3;38.7;6.3;6.7;95.0;3.0;10.3;29.0;1.177;0.44
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Josh Hart;7.0;12.0;58.3;3.0;6.0;50.0;5.0;7.0;71.4;4.0;6.0;66.7;1.833;0.71
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Anfernee Simons;6.5;13.3;49.1;3.5;6.8;51.9;3.3;3.3;100.0;3.0;6.5;46.2;1.491;0.62
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Jusuf Nurkic;6.8;11.5;58.7;0.3;1.3;20.0;4.8;7.0;67.9;6.5;10.3;63.4;1.609;0.60
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Justise Winslow;5.0;13.0;38.5;2.0;3.0;66.7;4.0;5.0;80.0;3.0;10.0;30.0;1.231;0.46
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Cody Zeller;3.0;4.0;75.0;0.0;0.0;0.0;4.0;6.0;66.7;3.0;4.0;75.0;2.500;0.75
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Nassir Little;3.0;5.7;52.9;0.3;1.7;20.0;3.7;4.0;91.7;2.7;4.0;66.7;1.765;0.56
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Robert Covington;2.7;5.7;47.1;1.3;4.3;30.8;0.0;0.0;0.0;1.3;1.3;100.0;1.176;0.59
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Larry Nance Jr.;2.3;4.3;53.8;0.3;1.7;20.0;0.3;0.3;100.0;2.0;2.7;75.0;1.231;0.58
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Dennis Smith Jr.;1.0;2.0;50.0;1.0;1.0;100.0;2.0;4.0;50.0;0.0;1.0;0.0;2.500;0.75
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Ben McLemore;2.0;4.3;46.2;0.7;2.7;25.0;0.0;0.0;0.0;1.3;1.7;80.0;1.077;0.54
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Greg Brown III;1.0;3.0;33.3;0.0;0.0;0.0;1.0;1.0;100.0;1.0;3.0;33.3;1.000;0.33
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Trendon Watford;0.5;0.5;100.0;0.0;0.0;0.0;0.5;1.0;50.0;0.5;0.5;100.0;3.000;1.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Memphis Grizzlies;CJ Elleby;0.0;3.5;0.0;0.0;2.0;0.0;0.5;1.0;50.0;0.0;1.5;0.0;0.143;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Elijah Hughes;0.0;4.0;0.0;0.0;3.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Total;37.0;81.3;45.5;13.5;34.5;39.1;24.3;29.8;81.5;23.5;46.8;50.3;1.375;0.54
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Damian Lillard;13.0;24.0;54.2;6.0;11.0;54.5;7.0;8.0;87.5;7.0;13.0;53.8;1.625;0.67
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Drew Eubanks;9.5;11.5;82.6;0.5;1.5;33.3;1.0;1.0;100.0;9.0;10.0;90.0;1.783;0.85
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Jusuf Nurkic;6.0;10.0;60.0;0.0;0.0;0.0;5.0;8.0;62.5;6.0;10.0;60.0;1.700;0.60
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Norman Powell;6.0;14.0;42.9;2.0;5.0;40.0;2.0;3.0;66.7;4.0;9.0;44.4;1.143;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Reggie Perry;6.5;10.5;61.9;0.0;1.5;0.0;2.0;2.5;80.0;6.5;9.0;72.2;1.429;0.62
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. New Orleans Pelicans;CJ Elleby;4.0;10.0;40.0;1.5;5.5;27.3;3.5;4.5;77.8;2.5;4.5;55.6;1.300;0.48
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Ben McLemore;3.3;8.7;38.5;2.7;8.0;33.3;1.0;1.0;100.0;0.7;0.7;100.0;1.192;0.54
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Larry Nance Jr.;4.0;5.0;80.0;2.0;3.0;66.7;0.0;0.0;0.0;2.0;2.0;100.0;2.000;1.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Didi Louzada;2.5;5.0;50.0;2.0;4.5;44.4;1.0;1.0;100.0;0.5;0.5;100.0;1.600;0.70
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Brandon Williams;2.5;7.0;35.7;1.0;3.5;28.6;1.5;2.0;75.0;1.5;3.5;42.9;1.071;0.43
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Robert Covington;3.0;7.0;42.9;1.0;5.0;20.0;0.0;0.0;0.0;2.0;2.0;100.0;1.000;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Greg Brown III;2.5;5.0;50.0;1.5;4.0;37.5;0.0;0.0;0.0;1.0;1.0;100.0;1.300;0.65
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Keon Johnson;2.0;7.0;28.6;1.5;3.5;42.9;1.0;1.5;66.7;0.5;3.5;14.3;0.929;0.39
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Kris Dunn;2.0;5.5;36.4;0.0;0.0;0.0;1.5;1.5;100.0;2.0;5.5;36.4;1.000;0.36
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Keljin Blevins;1.5;5.0;30.0;1.5;3.5;42.9;0.0;0.0;0.0;0.0;1.5;0.0;0.900;0.45
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Elijah Hughes;1.0;2.0;50.0;0.0;1.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;1.000;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Anfernee Simons;1.0;9.0;11.1;0.0;3.0;0.0;0.0;0.0;0.0;1.0;6.0;16.7;0.222;0.11
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Tony Snell;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Trendon Watford;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Total;36.7;77.3;47.4;12.7;35.7;35.5;13.3;16.7;80.0;24.0;41.7;57.6;1.284;0.56
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. San Antonio Spurs;Ben McLemore;5.3;10.3;51.2;3.0;7.3;41.4;2.8;2.8;100.0;2.3;3.0;75.0;1.585;0.66
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. San Antonio Spurs;CJ McCollum;7.0;18.0;38.9;2.0;6.0;33.3;0.0;2.0;0.0;5.0;12.0;41.7;0.889;0.44
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. San Antonio Spurs;Norman Powell;3.0;13.0;23.1;2.0;5.0;40.0;8.0;8.0;100.0;1.0;8.0;12.5;1.231;0.31
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. San Antonio Spurs;Keon Johnson;6.7;14.3;46.5;2.3;5.0;46.7;0.0;0.0;0.0;4.3;9.3;46.4;1.093;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. San Antonio Spurs;Drew Eubanks;6.0;11.7;51.4;1.0;2.0;50.0;2.3;3.3;70.0;5.0;9.7;51.7;1.314;0.56
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. San Antonio Spurs;Robert Covington;4.0;7.0;57.1;2.0;4.0;50.0;0.0;0.0;0.0;2.0;3.0;66.7;1.429;0.71
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. San Antonio Spurs;Jusuf Nurkic;3.0;8.0;37.5;0.0;0.0;0.0;4.0;4.0;100.0;3.0;8.0;37.5;1.250;0.38
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. San Antonio Spurs;Brandon Williams;3.0;10.7;28.1;1.3;4.7;28.6;2.3;2.7;87.5;1.7;6.0;27.8;0.906;0.34
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. San Antonio Spurs;Reggie Perry;4.0;9.0;44.4;0.5;2.0;25.0;0.5;2.0;25.0;3.5;7.0;50.0;1.000;0.47
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. San Antonio Spurs;Greg Brown III;2.5;6.0;41.7;1.5;2.3;66.7;2.0;2.5;80.0;1.0;3.8;26.7;1.417;0.54
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. San Antonio Spurs;Kris Dunn;3.7;8.0;45.8;0.0;1.3;0.0;0.3;0.3;100.0;3.7;6.7;55.0;0.958;0.46
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. San Antonio Spurs;Dennis Smith Jr.;2.0;8.0;25.0;1.0;3.0;33.3;1.0;1.0;100.0;1.0;5.0;20.0;0.750;0.31
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. San Antonio Spurs;Elijah Hughes;2.0;3.5;57.1;1.0;2.0;50.0;0.0;0.0;0.0;1.0;1.5;66.7;1.429;0.71
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. San Antonio Spurs;Trendon Watford;2.0;6.0;33.3;0.0;1.0;0.0;1.0;1.0;100.0;2.0;5.0;40.0;0.833;0.33
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. San Antonio Spurs;Larry Nance Jr.;2.0;5.0;40.0;0.0;2.0;0.0;0.0;2.0;0.0;2.0;3.0;66.7;0.800;0.40
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. San Antonio Spurs;Keljin Blevins;1.3;5.0;25.0;0.8;3.5;21.4;0.5;0.8;66.7;0.5;1.5;33.3;0.750;0.33
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. San Antonio Spurs;CJ Elleby;1.3;5.0;25.0;0.8;2.8;27.3;0.5;1.0;50.0;0.5;2.3;22.2;0.750;0.33
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. San Antonio Spurs;Didi Louzada;1.0;2.5;40.0;1.0;1.5;66.7;0.0;0.0;0.0;0.0;1.0;0.0;1.200;0.60
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. San Antonio Spurs;Cody Zeller;1.0;2.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;2.0;50.0;1.000;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. San Antonio Spurs;Tony Snell;0.0;2.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. San Antonio Spurs;Justise Winslow;0.0;5.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;3.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. San Antonio Spurs;Anfernee Simons;0.0;3.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;vs. San Antonio Spurs;Total;34.8;88.0;39.5;12.5;35.0;35.7;13.5;17.5;77.1;22.3;53.0;42.0;1.085;0.47
+Portland Trail Blazers;por;2021 - 2022 Regular Season;October;CJ McCollum;9.2;20.3;45.1;4.3;10.0;43.3;1.7;2.0;83.3;4.8;10.3;46.8;1.197;0.56
+Portland Trail Blazers;por;2021 - 2022 Regular Season;October;Damian Lillard;6.3;18.2;34.9;2.2;9.3;23.2;3.5;3.7;95.5;4.2;8.8;47.2;1.009;0.41
+Portland Trail Blazers;por;2021 - 2022 Regular Season;October;Norman Powell;4.8;10.5;45.2;2.3;5.5;40.9;2.3;2.5;90.0;2.5;5.0;50.0;1.333;0.56
+Portland Trail Blazers;por;2021 - 2022 Regular Season;October;Anfernee Simons;5.2;10.5;49.2;2.8;6.3;44.7;0.5;0.5;100.0;2.3;4.2;56.0;1.302;0.63
+Portland Trail Blazers;por;2021 - 2022 Regular Season;October;Jusuf Nurkic;4.8;9.0;53.7;0.2;1.2;14.3;3.0;4.0;75.0;4.7;7.8;59.6;1.426;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;October;Nassir Little;3.2;6.0;52.8;1.3;2.7;50.0;1.2;1.5;77.8;1.8;3.3;55.0;1.472;0.64
+Portland Trail Blazers;por;2021 - 2022 Regular Season;October;Cody Zeller;2.5;4.2;60.0;0.0;0.5;0.0;2.2;3.5;61.9;2.5;3.7;68.2;1.720;0.60
+Portland Trail Blazers;por;2021 - 2022 Regular Season;October;Larry Nance Jr.;2.5;4.2;60.0;0.5;1.2;42.9;0.2;0.3;50.0;2.0;3.0;66.7;1.360;0.66
+Portland Trail Blazers;por;2021 - 2022 Regular Season;October;Robert Covington;1.8;5.3;34.4;1.7;4.8;34.5;0.0;0.0;0.0;0.2;0.5;33.3;1.000;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;October;Ben McLemore;1.5;4.0;37.5;1.0;3.5;28.6;1.0;1.0;100.0;0.5;0.5;100.0;1.250;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;October;Dennis Smith Jr.;1.4;2.6;53.8;0.4;0.4;100.0;0.6;1.4;42.9;1.0;2.2;45.5;1.462;0.62
+Portland Trail Blazers;por;2021 - 2022 Regular Season;October;Greg Brown III;1.2;2.8;42.9;0.0;0.6;0.0;0.0;0.6;0.0;1.2;2.2;54.5;0.857;0.43
+Portland Trail Blazers;por;2021 - 2022 Regular Season;October;CJ Elleby;0.6;1.6;37.5;0.2;0.6;33.3;0.0;0.0;0.0;0.4;1.0;40.0;0.875;0.44
+Portland Trail Blazers;por;2021 - 2022 Regular Season;October;Total;41.8;91.8;45.6;15.3;42.2;36.4;14.5;19.2;75.7;26.5;49.7;53.4;1.236;0.54
+Portland Trail Blazers;por;2021 - 2022 Regular Season;November;Damian Lillard;7.7;18.5;41.7;3.0;9.0;33.3;4.4;4.9;89.7;4.7;9.5;49.6;1.232;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;November;CJ McCollum;7.6;18.1;41.7;2.9;7.6;38.0;1.3;1.8;69.0;4.7;10.6;44.4;1.062;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;November;Norman Powell;6.2;12.0;51.8;1.9;4.2;45.8;3.4;4.2;79.7;4.3;7.8;55.0;1.476;0.60
+Portland Trail Blazers;por;2021 - 2022 Regular Season;November;Jusuf Nurkic;4.9;7.9;61.4;0.2;0.6;30.0;2.5;3.4;74.1;4.7;7.3;64.1;1.567;0.63
+Portland Trail Blazers;por;2021 - 2022 Regular Season;November;Anfernee Simons;4.6;10.1;45.4;1.9;5.2;35.9;1.0;1.1;93.8;2.7;4.9;55.4;1.191;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;November;Nassir Little;3.1;6.7;46.0;0.8;3.1;25.5;1.1;1.3;85.0;2.3;3.5;64.2;1.210;0.52
+Portland Trail Blazers;por;2021 - 2022 Regular Season;November;Robert Covington;2.6;6.1;42.3;1.7;4.4;38.0;0.2;0.2;100.0;0.9;1.6;53.8;1.155;0.56
+Portland Trail Blazers;por;2021 - 2022 Regular Season;November;Larry Nance Jr.;2.6;4.9;51.9;0.5;1.6;30.8;0.9;1.4;65.2;2.1;3.3;62.3;1.329;0.57
+Portland Trail Blazers;por;2021 - 2022 Regular Season;November;Ben McLemore;1.6;3.4;47.1;1.4;3.2;43.8;0.6;0.6;100.0;0.2;0.2;100.0;1.529;0.68
+Portland Trail Blazers;por;2021 - 2022 Regular Season;November;Cody Zeller;1.4;2.3;61.8;0.0;0.1;0.0;1.4;1.6;87.5;1.4;2.2;63.6;1.853;0.62
+Portland Trail Blazers;por;2021 - 2022 Regular Season;November;Dennis Smith Jr.;1.2;4.2;28.0;0.0;1.2;0.0;1.2;1.5;77.8;1.2;3.0;38.9;0.840;0.28
+Portland Trail Blazers;por;2021 - 2022 Regular Season;November;Tony Snell;0.7;2.1;32.4;0.6;1.8;32.1;0.1;0.1;100.0;0.1;0.4;33.3;0.941;0.46
+Portland Trail Blazers;por;2021 - 2022 Regular Season;November;Trendon Watford;1.0;2.0;50.0;0.0;0.0;0.0;0.0;0.3;0.0;1.0;2.0;50.0;1.000;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;November;Greg Brown III;0.3;1.5;16.7;0.0;0.3;0.0;0.5;1.0;50.0;0.3;1.3;20.0;0.667;0.17
+Portland Trail Blazers;por;2021 - 2022 Regular Season;November;CJ Elleby;0.2;1.4;14.3;0.0;1.0;0.0;0.0;0.0;0.0;0.2;0.4;50.0;0.286;0.14
+Portland Trail Blazers;por;2021 - 2022 Regular Season;November;Keljin Blevins;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;November;Total;40.2;87.6;45.9;13.1;37.3;35.1;15.8;19.6;80.3;27.1;50.3;53.9;1.247;0.53
+Portland Trail Blazers;por;2021 - 2022 Regular Season;December;Damian Lillard;8.4;20.4;41.3;4.1;11.3;36.3;8.6;10.1;84.6;4.3;9.1;47.6;1.446;0.51
+Portland Trail Blazers;por;2021 - 2022 Regular Season;December;CJ McCollum;7.5;19.5;38.5;2.5;7.5;33.3;2.5;4.5;55.6;5.0;12.0;41.7;1.026;0.45
+Portland Trail Blazers;por;2021 - 2022 Regular Season;December;Norman Powell;6.5;16.1;40.2;2.3;6.7;34.5;4.7;5.6;83.6;4.2;9.4;44.3;1.239;0.47
+Portland Trail Blazers;por;2021 - 2022 Regular Season;December;Jusuf Nurkic;5.6;10.5;53.3;0.1;0.8;12.5;3.5;4.9;71.4;5.5;9.7;56.7;1.410;0.54
+Portland Trail Blazers;por;2021 - 2022 Regular Season;December;Anfernee Simons;3.6;10.8;33.0;1.7;5.0;33.3;1.6;1.7;93.3;1.9;5.8;32.7;0.959;0.41
+Portland Trail Blazers;por;2021 - 2022 Regular Season;December;Ben McLemore;3.3;7.5;43.9;2.5;5.8;43.8;0.5;0.5;83.3;0.7;1.6;44.4;1.280;0.61
+Portland Trail Blazers;por;2021 - 2022 Regular Season;December;Dennis Smith Jr.;3.7;8.3;44.0;0.5;1.8;27.3;1.5;2.0;75.0;3.2;6.5;48.7;1.120;0.47
+Portland Trail Blazers;por;2021 - 2022 Regular Season;December;Nassir Little;2.9;6.7;43.3;0.7;3.2;20.7;2.3;3.6;65.6;2.2;3.4;64.5;1.317;0.48
+Portland Trail Blazers;por;2021 - 2022 Regular Season;December;Larry Nance Jr.;3.4;6.6;51.2;0.5;1.9;28.0;0.8;1.4;55.6;2.8;4.7;60.7;1.221;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;December;Robert Covington;2.9;7.6;38.2;1.2;4.8;25.0;0.0;0.0;0.0;1.7;2.8;60.7;0.921;0.46
+Portland Trail Blazers;por;2021 - 2022 Regular Season;December;Reggie Perry;2.0;4.5;44.4;0.5;1.0;50.0;1.0;1.0;100.0;1.5;3.5;42.9;1.222;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;December;Cody Zeller;2.3;5.7;41.2;0.0;0.0;0.0;0.7;0.7;100.0;2.3;5.7;41.2;0.941;0.41
+Portland Trail Blazers;por;2021 - 2022 Regular Season;December;CJ Elleby;1.7;3.4;50.0;0.9;2.0;42.9;1.0;1.0;100.0;0.9;1.4;60.0;1.542;0.63
+Portland Trail Blazers;por;2021 - 2022 Regular Season;December;Cameron McGriff;1.7;4.7;35.7;0.7;2.0;33.3;0.7;0.7;100.0;1.0;2.7;37.5;1.000;0.43
+Portland Trail Blazers;por;2021 - 2022 Regular Season;December;Brandon Williams;1.0;1.5;66.7;0.0;0.0;0.0;2.0;3.5;57.1;1.0;1.5;66.7;2.667;0.67
+Portland Trail Blazers;por;2021 - 2022 Regular Season;December;Keljin Blevins;1.0;2.0;50.0;1.0;1.5;66.7;0.0;0.0;0.0;0.0;0.5;0.0;1.500;0.75
+Portland Trail Blazers;por;2021 - 2022 Regular Season;December;Tony Snell;0.9;2.2;40.9;0.7;1.6;43.8;0.2;0.2;100.0;0.2;0.6;33.3;1.227;0.57
+Portland Trail Blazers;por;2021 - 2022 Regular Season;December;Trendon Watford;0.7;1.3;50.0;0.0;0.0;0.0;0.3;0.3;100.0;0.7;1.3;50.0;1.250;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;December;Greg Brown III;0.6;1.4;42.9;0.0;0.2;0.0;0.4;0.8;50.0;0.6;1.2;50.0;1.143;0.43
+Portland Trail Blazers;por;2021 - 2022 Regular Season;December;Jarron Cumberland;0.3;0.7;50.0;0.0;0.3;0.0;0.0;0.0;0.0;0.3;0.3;100.0;1.000;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;December;Total;36.1;84.5;42.7;12.5;36.7;34.0;20.0;25.6;78.1;23.6;47.8;49.4;1.239;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;January;Anfernee Simons;8.1;17.5;46.0;4.5;10.5;42.7;2.5;2.8;88.1;3.6;7.1;50.9;1.316;0.59
+Portland Trail Blazers;por;2021 - 2022 Regular Season;January;CJ McCollum;8.7;17.2;50.3;3.1;7.7;40.6;1.1;1.6;71.4;5.6;9.6;58.1;1.252;0.59
+Portland Trail Blazers;por;2021 - 2022 Regular Season;January;Norman Powell;5.9;12.9;45.6;2.8;6.3;44.0;4.6;6.3;74.0;3.1;6.6;47.2;1.485;0.56
+Portland Trail Blazers;por;2021 - 2022 Regular Season;January;Jusuf Nurkic;6.5;12.8;51.0;0.3;1.3;23.8;4.0;6.2;64.6;6.2;11.4;54.1;1.358;0.52
+Portland Trail Blazers;por;2021 - 2022 Regular Season;January;Nassir Little;4.5;9.9;45.4;2.1;5.2;40.3;2.0;2.8;72.7;2.4;4.8;50.9;1.319;0.56
+Portland Trail Blazers;por;2021 - 2022 Regular Season;January;Ben McLemore;3.4;8.5;40.4;2.8;6.9;40.0;0.6;0.9;66.7;0.7;1.6;42.3;1.206;0.57
+Portland Trail Blazers;por;2021 - 2022 Regular Season;January;Robert Covington;3.1;8.2;38.2;2.0;5.1;39.5;1.8;2.2;81.8;1.1;3.1;36.2;1.228;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;January;Cody Zeller;2.7;4.7;57.1;0.0;0.0;0.0;0.7;0.7;100.0;2.7;4.7;57.1;1.286;0.57
+Portland Trail Blazers;por;2021 - 2022 Regular Season;January;CJ Elleby;2.2;4.9;44.9;0.7;2.2;31.8;0.8;1.1;72.7;1.5;2.7;55.6;1.204;0.52
+Portland Trail Blazers;por;2021 - 2022 Regular Season;January;Dennis Smith Jr.;2.3;5.1;44.2;0.1;0.5;14.3;1.0;1.4;71.4;2.2;4.7;47.1;1.091;0.45
+Portland Trail Blazers;por;2021 - 2022 Regular Season;January;Larry Nance Jr.;1.0;4.0;25.0;0.5;2.0;25.0;3.0;3.0;100.0;0.5;2.0;25.0;1.375;0.31
+Portland Trail Blazers;por;2021 - 2022 Regular Season;January;Trendon Watford;2.1;3.7;57.6;0.0;0.4;0.0;0.9;1.3;66.7;2.1;3.3;65.4;1.390;0.58
+Portland Trail Blazers;por;2021 - 2022 Regular Season;January;Greg Brown III;1.1;1.7;66.7;0.0;0.3;0.0;0.3;0.3;100.0;1.1;1.4;80.0;1.500;0.67
+Portland Trail Blazers;por;2021 - 2022 Regular Season;January;Tony Snell;0.8;2.5;32.0;0.2;1.7;11.8;0.0;0.0;0.0;0.6;0.8;75.0;0.720;0.36
+Portland Trail Blazers;por;2021 - 2022 Regular Season;January;Keljin Blevins;0.5;1.7;30.0;0.3;1.2;28.6;0.0;0.3;0.0;0.2;0.5;33.3;0.800;0.40
+Portland Trail Blazers;por;2021 - 2022 Regular Season;January;Total;39.1;84.8;46.1;14.6;38.2;38.3;16.0;21.9;72.9;24.4;46.6;52.4;1.282;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;February;Norman Powell;10.0;20.0;50.0;5.0;11.0;45.5;5.0;6.0;83.3;5.0;9.0;55.6;1.500;0.63
+Portland Trail Blazers;por;2021 - 2022 Regular Season;February;Anfernee Simons;8.5;18.7;45.5;4.0;10.3;38.8;2.7;3.3;81.8;4.5;8.4;53.6;1.267;0.56
+Portland Trail Blazers;por;2021 - 2022 Regular Season;February;Josh Hart;6.8;12.6;54.0;2.2;6.2;35.5;3.2;4.2;76.2;4.6;6.4;71.9;1.508;0.63
+Portland Trail Blazers;por;2021 - 2022 Regular Season;February;Jusuf Nurkic;6.8;13.8;49.1;0.6;1.3;50.0;3.5;5.3;66.7;6.1;12.5;49.0;1.282;0.51
+Portland Trail Blazers;por;2021 - 2022 Regular Season;February;CJ McCollum;7.0;19.7;35.6;2.0;8.0;25.0;1.0;1.3;75.0;5.0;11.7;42.9;0.864;0.41
+Portland Trail Blazers;por;2021 - 2022 Regular Season;February;Justise Winslow;4.9;10.6;45.9;1.1;3.4;33.3;1.4;2.3;62.5;3.7;7.1;52.0;1.162;0.51
+Portland Trail Blazers;por;2021 - 2022 Regular Season;February;Brandon Williams;3.0;8.0;37.5;1.5;4.0;37.5;4.5;6.0;75.0;1.5;4.0;37.5;1.500;0.47
+Portland Trail Blazers;por;2021 - 2022 Regular Season;February;Tony Snell;4.0;8.0;50.0;3.0;7.0;42.9;0.0;0.0;0.0;1.0;1.0;100.0;1.375;0.69
+Portland Trail Blazers;por;2021 - 2022 Regular Season;February;Ben McLemore;2.9;9.5;30.5;1.7;7.2;23.6;0.9;1.1;81.8;1.2;2.3;52.2;0.884;0.39
+Portland Trail Blazers;por;2021 - 2022 Regular Season;February;Greg Brown III;2.6;6.0;42.6;0.6;2.1;26.3;1.9;2.6;73.9;2.0;3.9;51.4;1.259;0.47
+Portland Trail Blazers;por;2021 - 2022 Regular Season;February;Drew Eubanks;3.5;5.5;63.6;0.0;0.0;0.0;0.5;1.0;50.0;3.5;5.5;63.6;1.364;0.64
+Portland Trail Blazers;por;2021 - 2022 Regular Season;February;Trendon Watford;2.5;4.2;59.5;0.1;0.4;25.0;1.5;1.9;78.9;2.4;3.8;63.2;1.571;0.61
+Portland Trail Blazers;por;2021 - 2022 Regular Season;February;CJ Elleby;2.3;6.9;33.3;0.4;2.4;16.7;0.9;1.2;75.0;1.9;4.5;42.2;0.855;0.36
+Portland Trail Blazers;por;2021 - 2022 Regular Season;February;Dennis Smith Jr.;1.8;4.8;37.5;0.0;0.0;0.0;1.6;3.0;53.3;1.8;4.8;37.5;1.083;0.38
+Portland Trail Blazers;por;2021 - 2022 Regular Season;February;Keon Johnson;1.5;7.5;20.0;0.0;1.5;0.0;1.0;1.0;100.0;1.5;6.0;25.0;0.533;0.20
+Portland Trail Blazers;por;2021 - 2022 Regular Season;February;Elijah Hughes;1.4;5.2;26.9;0.6;3.4;17.6;0.0;0.0;0.0;0.8;1.8;44.4;0.654;0.33
+Portland Trail Blazers;por;2021 - 2022 Regular Season;February;Keljin Blevins;1.0;2.6;38.5;0.4;1.2;33.3;0.0;0.0;0.0;0.6;1.4;42.9;0.923;0.46
+Portland Trail Blazers;por;2021 - 2022 Regular Season;February;Robert Covington;0.0;8.0;0.0;0.0;6.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;February;Total;38.3;90.2;42.5;11.6;37.6;30.9;15.9;21.8;72.9;26.7;52.6;50.8;1.154;0.49
+Portland Trail Blazers;por;2021 - 2022 Regular Season;March;Anfernee Simons;7.5;17.5;42.9;6.0;10.5;57.1;3.5;3.5;100.0;1.5;7.0;21.4;1.400;0.60
+Portland Trail Blazers;por;2021 - 2022 Regular Season;March;Josh Hart;7.3;15.0;48.3;2.5;6.5;38.5;3.5;4.5;77.8;4.8;8.5;55.9;1.367;0.57
+Portland Trail Blazers;por;2021 - 2022 Regular Season;March;Brandon Williams;5.5;14.3;38.3;1.5;5.5;28.0;2.9;4.3;68.8;3.9;8.8;44.7;1.079;0.44
+Portland Trail Blazers;por;2021 - 2022 Regular Season;March;Trendon Watford;5.8;11.7;50.0;0.6;2.1;29.6;3.1;3.9;78.4;5.2;9.6;54.4;1.316;0.53
+Portland Trail Blazers;por;2021 - 2022 Regular Season;March;Drew Eubanks;6.5;9.7;66.4;0.2;0.7;30.0;1.9;2.3;80.0;6.3;9.1;69.1;1.541;0.67
+Portland Trail Blazers;por;2021 - 2022 Regular Season;March;Reggie Perry;6.0;11.0;54.5;0.0;2.0;0.0;3.0;4.0;75.0;6.0;9.0;66.7;1.364;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;March;Ben McLemore;4.1;10.2;39.9;2.6;7.5;34.3;2.3;2.6;86.5;1.5;2.7;55.3;1.273;0.52
+Portland Trail Blazers;por;2021 - 2022 Regular Season;March;Keon Johnson;3.2;9.1;35.4;1.4;3.7;36.5;1.1;1.4;80.0;1.9;5.4;34.7;0.984;0.43
+Portland Trail Blazers;por;2021 - 2022 Regular Season;March;CJ Elleby;2.8;7.2;38.9;0.8;2.5;32.4;2.1;3.1;69.6;2.0;4.7;42.3;1.185;0.44
+Portland Trail Blazers;por;2021 - 2022 Regular Season;March;Kris Dunn;3.4;7.0;48.6;0.1;0.5;20.0;1.4;1.4;100.0;3.3;6.5;50.8;1.186;0.49
+Portland Trail Blazers;por;2021 - 2022 Regular Season;March;Justise Winslow;3.3;10.5;31.0;0.5;3.3;15.4;1.0;2.3;44.4;2.8;7.3;37.9;0.762;0.33
+Portland Trail Blazers;por;2021 - 2022 Regular Season;March;Greg Brown III;1.8;4.8;38.6;0.4;1.3;31.3;1.0;1.6;63.2;1.4;3.4;41.5;1.070;0.43
+Portland Trail Blazers;por;2021 - 2022 Regular Season;March;Didi Louzada;2.0;6.0;33.3;1.0;5.0;20.0;0.0;0.0;0.0;1.0;1.0;100.0;0.833;0.42
+Portland Trail Blazers;por;2021 - 2022 Regular Season;March;Keljin Blevins;1.5;4.7;30.8;0.9;3.0;30.3;0.4;0.5;66.7;0.5;1.7;31.6;0.885;0.40
+Portland Trail Blazers;por;2021 - 2022 Regular Season;March;Elijah Hughes;1.5;4.8;31.0;0.8;2.9;25.7;0.2;0.3;50.0;0.8;1.9;39.1;0.810;0.39
+Portland Trail Blazers;por;2021 - 2022 Regular Season;March;Total;38.9;89.4;43.5;10.7;33.0;32.5;17.7;23.5;75.6;28.1;56.4;49.9;1.188;0.49
+Portland Trail Blazers;por;2021 - 2022 Regular Season;April;Drew Eubanks;6.6;11.0;60.0;0.2;1.0;20.0;2.2;2.8;78.6;6.4;10.0;64.0;1.418;0.61
+Portland Trail Blazers;por;2021 - 2022 Regular Season;April;Ben McLemore;4.7;9.7;48.3;2.8;7.2;39.5;1.8;2.3;78.6;1.8;2.5;73.3;1.448;0.63
+Portland Trail Blazers;por;2021 - 2022 Regular Season;April;Keon Johnson;5.2;13.2;39.2;2.0;5.7;35.3;1.2;1.3;87.5;3.2;7.5;42.2;1.025;0.47
+Portland Trail Blazers;por;2021 - 2022 Regular Season;April;Reggie Perry;4.8;9.7;50.0;0.3;2.0;16.7;0.7;1.5;44.4;4.5;7.7;58.7;1.103;0.52
+Portland Trail Blazers;por;2021 - 2022 Regular Season;April;Brandon Williams;3.0;9.8;30.6;1.0;3.2;31.3;2.2;2.8;78.6;2.0;6.6;30.3;0.939;0.36
+Portland Trail Blazers;por;2021 - 2022 Regular Season;April;Greg Brown III;3.0;6.7;45.0;1.5;3.2;47.4;1.5;1.7;90.0;1.5;3.5;42.9;1.350;0.56
+Portland Trail Blazers;por;2021 - 2022 Regular Season;April;CJ Elleby;3.0;7.2;41.9;1.2;3.5;33.3;0.7;1.3;50.0;1.8;3.7;50.0;1.093;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;April;Kris Dunn;2.5;8.0;31.3;0.0;1.5;0.0;0.8;1.0;75.0;2.5;6.5;38.5;0.719;0.31
+Portland Trail Blazers;por;2021 - 2022 Regular Season;April;Didi Louzada;1.7;4.0;41.7;1.3;2.5;53.3;0.3;0.3;100.0;0.3;1.5;22.2;1.250;0.58
+Portland Trail Blazers;por;2021 - 2022 Regular Season;April;Keljin Blevins;1.3;5.3;25.0;0.8;3.8;21.7;0.3;0.5;66.7;0.5;1.5;33.3;0.719;0.33
+Portland Trail Blazers;por;2021 - 2022 Regular Season;April;Elijah Hughes;1.4;4.8;29.2;0.6;3.0;20.0;0.4;0.4;100.0;0.8;1.8;44.4;0.792;0.35
+Portland Trail Blazers;por;2021 - 2022 Regular Season;April;Total;34.5;82.3;41.9;11.5;34.8;33.0;11.0;14.7;75.0;23.0;47.5;48.4;1.111;0.49
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Atlantic Division;Damian Lillard;9.0;20.7;43.5;3.3;9.3;35.7;6.3;6.7;95.0;5.7;11.3;50.0;1.339;0.52
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Atlantic Division;CJ McCollum;8.2;17.8;45.8;4.0;8.7;46.2;2.0;3.3;60.0;4.2;9.2;45.5;1.252;0.57
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Atlantic Division;Josh Hart;7.3;15.0;48.9;2.7;6.7;40.0;4.3;5.7;76.5;4.7;8.3;56.0;1.444;0.58
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Atlantic Division;Brandon Williams;8.0;17.0;47.1;2.5;6.5;38.5;0.5;2.5;20.0;5.5;10.5;52.4;1.118;0.54
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Atlantic Division;Anfernee Simons;6.7;15.1;44.3;3.3;7.9;41.8;1.4;1.9;76.9;3.4;7.3;47.1;1.198;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Atlantic Division;Norman Powell;4.8;10.0;47.5;0.5;2.5;20.0;4.8;5.8;82.6;4.3;7.5;56.7;1.475;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Atlantic Division;Drew Eubanks;6.5;9.0;72.2;0.0;0.0;0.0;1.0;1.0;100.0;6.5;9.0;72.2;1.556;0.72
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Atlantic Division;Ben McLemore;4.4;9.0;49.2;3.6;7.1;50.0;1.0;1.1;87.5;0.9;1.9;46.2;1.492;0.69
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Atlantic Division;Jusuf Nurkic;4.9;9.0;54.2;0.3;0.8;33.3;3.4;5.0;67.5;4.6;8.3;56.1;1.486;0.56
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Atlantic Division;Justise Winslow;5.0;11.7;42.9;1.0;3.7;27.3;1.0;2.7;37.5;4.0;8.0;50.0;1.029;0.47
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Atlantic Division;Nassir Little;4.0;7.7;52.2;1.2;3.5;33.3;1.2;1.7;70.0;2.8;4.2;68.0;1.348;0.60
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Atlantic Division;Larry Nance Jr.;4.3;6.0;70.8;0.8;1.5;50.0;0.3;0.3;100.0;3.5;4.5;77.8;1.583;0.77
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Atlantic Division;Kris Dunn;4.0;6.5;61.5;0.5;1.0;50.0;1.0;1.0;100.0;3.5;5.5;63.6;1.462;0.65
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Atlantic Division;Robert Covington;2.9;6.3;45.5;2.0;4.1;48.3;1.0;1.4;70.0;0.9;2.1;40.0;1.386;0.61
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Atlantic Division;Dennis Smith Jr.;3.3;6.5;50.0;0.3;0.8;33.3;1.8;2.5;70.0;3.0;5.8;52.2;1.308;0.52
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Atlantic Division;CJ Elleby;3.0;5.9;51.2;0.7;2.1;33.3;0.4;1.0;42.9;2.3;3.7;61.5;1.220;0.57
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Atlantic Division;Keon Johnson;3.0;5.0;60.0;1.0;2.0;50.0;0.0;0.0;0.0;2.0;3.0;66.7;1.400;0.70
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Atlantic Division;Trendon Watford;2.3;4.7;48.5;0.0;0.7;0.0;1.6;2.0;78.6;2.3;4.0;57.1;1.303;0.48
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Atlantic Division;Cody Zeller;1.8;3.2;56.3;0.0;0.0;0.0;0.4;0.4;100.0;1.8;3.2;56.3;1.250;0.56
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Atlantic Division;Elijah Hughes;1.5;4.5;33.3;1.0;4.0;25.0;0.0;0.0;0.0;0.5;0.5;100.0;0.889;0.44
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Atlantic Division;Keljin Blevins;0.5;1.5;33.3;0.5;1.0;50.0;0.0;0.0;0.0;0.0;0.5;0.0;1.000;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Atlantic Division;Greg Brown III;0.7;2.3;28.6;0.0;1.0;0.0;0.0;0.7;0.0;0.7;1.3;50.0;0.571;0.29
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Atlantic Division;Tony Snell;0.4;0.8;50.0;0.4;0.8;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.500;0.75
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Atlantic Division;Total;41.7;85.3;48.9;13.9;34.5;40.3;15.3;21.4;71.5;27.8;50.8;54.7;1.320;0.57
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Central Division;Josh Hart;10.5;14.5;72.4;4.0;7.0;57.1;1.5;1.5;100.0;6.5;7.5;86.7;1.828;0.86
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Central Division;CJ McCollum;8.8;19.8;44.5;2.8;8.2;34.7;1.3;1.5;88.9;6.0;11.7;51.4;1.101;0.52
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Central Division;Norman Powell;7.0;13.0;53.8;3.4;5.2;65.4;4.0;5.0;80.0;3.6;7.8;46.2;1.646;0.67
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Central Division;Damian Lillard;6.0;19.3;31.0;2.0;9.0;22.2;3.3;4.0;83.3;4.0;10.3;38.7;0.897;0.36
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Central Division;Anfernee Simons;6.3;14.0;44.6;3.3;8.0;40.6;1.0;1.3;80.0;3.0;6.0;50.0;1.196;0.56
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Central Division;Brandon Williams;4.0;13.5;29.6;1.0;6.0;16.7;7.5;9.0;83.3;3.0;7.5;40.0;1.222;0.33
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Central Division;Drew Eubanks;5.0;8.5;58.8;0.0;1.0;0.0;4.5;5.0;90.0;5.0;7.5;66.7;1.706;0.59
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Central Division;Jusuf Nurkic;5.0;10.0;50.0;0.6;0.8;83.3;2.6;3.9;67.7;4.4;9.3;47.3;1.325;0.53
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Central Division;Ben McLemore;3.9;11.3;34.2;2.6;8.7;29.5;2.0;2.7;73.7;1.3;2.6;50.0;1.089;0.46
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Central Division;Robert Covington;4.2;7.5;55.6;3.2;6.0;52.8;0.3;0.3;100.0;1.0;1.5;66.7;1.578;0.77
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Central Division;Justise Winslow;4.0;9.7;41.4;0.3;2.3;14.3;1.3;2.0;66.7;3.7;7.3;50.0;1.000;0.43
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Central Division;Trendon Watford;3.7;6.3;59.1;0.4;0.7;60.0;1.0;1.9;53.8;3.3;5.6;59.0;1.409;0.63
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Central Division;Kris Dunn;3.0;7.5;40.0;0.0;0.5;0.0;1.0;1.0;100.0;3.0;7.0;42.9;0.933;0.40
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Central Division;Dennis Smith Jr.;2.5;6.0;41.7;0.0;0.8;0.0;1.8;2.3;77.8;2.5;5.3;47.6;1.125;0.42
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Central Division;Larry Nance Jr.;2.3;4.0;56.3;0.5;1.3;40.0;1.0;1.5;66.7;1.8;2.8;63.6;1.500;0.63
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Central Division;CJ Elleby;2.0;4.3;46.2;0.5;1.8;27.3;1.2;2.0;58.3;1.5;2.5;60.0;1.308;0.52
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Central Division;Nassir Little;1.5;5.0;30.0;0.5;2.5;20.0;1.8;2.3;77.8;1.0;2.5;40.0;1.050;0.35
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Central Division;Greg Brown III;1.8;3.5;52.4;0.2;0.5;33.3;0.8;1.8;45.5;1.7;3.0;55.6;1.333;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Central Division;Cody Zeller;1.4;2.0;70.0;0.0;0.0;0.0;1.4;1.6;87.5;1.4;2.0;70.0;2.100;0.70
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Central Division;Tony Snell;1.2;3.3;35.0;1.0;2.8;35.3;0.2;0.2;100.0;0.2;0.5;33.3;1.050;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Central Division;Elijah Hughes;1.3;4.7;28.6;0.3;2.3;14.3;0.0;0.0;0.0;1.0;2.3;42.9;0.643;0.32
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Central Division;Keon Johnson;0.5;4.0;12.5;0.5;3.0;16.7;1.5;2.0;75.0;0.0;1.0;0.0;0.750;0.19
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Central Division;Keljin Blevins;0.3;0.5;50.0;0.0;0.0;0.0;0.0;0.0;0.0;0.3;0.5;50.0;1.000;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Central Division;Total;39.9;88.0;45.3;13.8;37.2;37.1;16.4;22.0;74.5;26.1;50.8;51.4;1.250;0.53
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pacific Division;Damian Lillard;7.9;19.2;41.2;2.6;9.5;27.6;4.5;5.2;87.7;5.3;9.6;54.7;1.199;0.48
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pacific Division;Norman Powell;6.8;14.8;45.8;2.5;6.2;41.3;3.8;4.8;77.8;4.2;8.6;49.1;1.344;0.54
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pacific Division;CJ McCollum;7.0;17.7;39.5;2.8;7.8;35.9;1.0;1.3;76.9;4.2;9.9;42.4;1.006;0.47
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pacific Division;Jusuf Nurkic;6.5;11.1;58.1;0.4;1.2;33.3;2.6;4.1;62.9;6.1;9.9;61.1;1.431;0.60
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pacific Division;Anfernee Simons;5.4;13.0;41.2;2.6;6.8;37.9;1.3;1.4;94.7;2.8;6.2;44.8;1.121;0.51
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pacific Division;Brandon Williams;4.5;8.5;52.9;1.0;2.0;50.0;3.0;3.0;100.0;3.5;6.5;53.8;1.529;0.59
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pacific Division;Justise Winslow;5.0;11.0;45.5;1.0;3.5;28.6;1.5;3.0;50.0;4.0;7.5;53.3;1.136;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pacific Division;Josh Hart;3.5;10.0;35.0;0.5;5.0;10.0;3.5;4.5;77.8;3.0;5.0;60.0;1.100;0.38
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pacific Division;Nassir Little;3.1;6.9;44.4;1.2;3.4;34.1;1.2;1.8;69.6;1.9;3.5;54.3;1.233;0.53
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pacific Division;Trendon Watford;2.8;5.6;50.0;0.4;0.4;100.0;1.6;2.0;80.0;2.4;5.2;46.2;1.357;0.54
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pacific Division;Drew Eubanks;3.0;4.0;75.0;0.0;0.0;0.0;1.5;2.0;75.0;3.0;4.0;75.0;1.875;0.75
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pacific Division;Ben McLemore;2.4;7.8;31.2;1.6;5.8;27.5;0.6;0.7;87.5;0.8;2.0;41.7;0.903;0.41
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pacific Division;Cameron McGriff;3.0;6.0;50.0;1.0;3.0;33.3;0.0;0.0;0.0;2.0;3.0;66.7;1.167;0.58
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pacific Division;Reggie Perry;2.0;6.0;33.3;1.0;1.0;100.0;2.0;2.0;100.0;1.0;5.0;20.0;1.167;0.42
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pacific Division;Larry Nance Jr.;2.5;5.3;47.8;0.6;1.8;33.3;0.7;1.2;60.0;1.9;3.5;55.6;1.203;0.54
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pacific Division;Robert Covington;2.1;6.6;32.6;1.3;4.6;28.1;0.3;0.3;100.0;0.9;2.0;42.9;0.891;0.42
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pacific Division;Cody Zeller;1.9;4.0;47.5;0.0;0.3;0.0;1.9;2.5;76.0;1.9;3.7;51.4;1.425;0.48
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pacific Division;Dennis Smith Jr.;2.4;5.9;40.0;0.2;1.0;18.2;0.6;1.4;46.7;2.2;4.9;44.4;0.938;0.42
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pacific Division;Keljin Blevins;1.7;3.7;45.5;1.0;2.3;42.9;0.0;0.0;0.0;0.7;1.3;50.0;1.182;0.59
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pacific Division;CJ Elleby;1.4;3.8;37.8;0.3;1.3;25.0;1.2;1.4;82.4;1.1;2.4;44.8;1.156;0.42
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pacific Division;Elijah Hughes;1.5;6.0;25.0;1.0;4.5;22.2;0.0;0.0;0.0;0.5;1.5;33.3;0.667;0.33
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pacific Division;Greg Brown III;1.3;3.4;38.7;0.2;0.9;25.0;0.9;1.3;66.7;1.1;2.6;43.5;1.097;0.42
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pacific Division;Tony Snell;0.8;2.0;40.0;0.6;1.4;42.9;0.2;0.2;100.0;0.2;0.6;33.3;1.200;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pacific Division;Keon Johnson;0.5;5.5;9.1;0.0;1.5;0.0;1.0;1.0;100.0;0.5;4.0;12.5;0.364;0.09
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pacific Division;Jarron Cumberland;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pacific Division;Total;38.4;89.8;42.8;12.2;37.6;32.5;15.7;20.8;75.7;26.2;52.2;50.1;1.166;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southeast Division;Josh Hart;13.0;21.0;61.9;5.0;8.0;62.5;6.5;7.5;86.7;8.0;13.0;61.5;1.786;0.74
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southeast Division;Damian Lillard;8.5;19.5;43.6;4.0;12.5;32.0;7.5;8.0;93.8;4.5;7.0;64.3;1.462;0.54
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southeast Division;Anfernee Simons;7.8;15.1;51.2;4.6;10.0;46.3;3.4;3.8;90.0;3.1;5.1;61.0;1.554;0.67
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southeast Division;CJ McCollum;9.0;19.0;47.4;3.3;8.0;41.7;0.3;0.7;50.0;5.7;11.0;51.5;1.140;0.56
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southeast Division;Norman Powell;6.8;15.3;44.3;2.8;7.8;35.5;3.8;4.3;88.2;4.0;7.5;53.3;1.311;0.53
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southeast Division;Drew Eubanks;8.0;12.0;66.7;0.0;1.0;0.0;2.0;2.0;100.0;8.0;11.0;72.7;1.500;0.67
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southeast Division;Jusuf Nurkic;6.5;13.0;50.0;0.0;1.8;0.0;3.8;5.5;68.2;6.5;11.3;57.8;1.288;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southeast Division;Brandon Williams;6.0;16.0;37.5;1.5;5.5;27.3;1.5;3.5;42.9;4.5;10.5;42.9;0.938;0.42
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southeast Division;Justise Winslow;5.0;12.0;41.7;2.0;7.0;28.6;0.0;0.0;0.0;3.0;5.0;60.0;1.000;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southeast Division;Nassir Little;3.6;7.7;46.3;1.4;3.7;38.5;2.0;2.6;77.8;2.1;4.0;53.6;1.370;0.56
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southeast Division;Ben McLemore;3.4;9.0;37.5;2.5;7.5;33.3;0.6;1.0;62.5;0.9;1.5;58.3;1.097;0.51
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southeast Division;Robert Covington;2.9;8.7;32.8;1.6;5.3;29.7;1.3;1.4;90.0;1.3;3.4;37.5;0.984;0.42
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southeast Division;Trendon Watford;3.3;6.4;51.7;0.2;1.2;18.2;1.7;2.0;83.3;3.1;5.2;59.6;1.328;0.53
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southeast Division;Larry Nance Jr.;2.5;4.8;52.6;0.3;1.0;25.0;2.0;2.0;100.0;2.3;3.8;60.0;1.526;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southeast Division;Cody Zeller;3.0;5.0;60.0;0.0;1.0;0.0;0.0;0.0;0.0;3.0;4.0;75.0;1.200;0.60
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southeast Division;Keon Johnson;2.5;6.5;38.5;1.0;2.0;50.0;0.0;0.5;0.0;1.5;4.5;33.3;0.923;0.46
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southeast Division;CJ Elleby;1.9;4.3;43.3;0.4;1.6;27.3;1.4;1.6;90.9;1.4;2.7;52.6;1.300;0.48
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southeast Division;Greg Brown III;1.3;3.5;38.1;0.5;1.5;33.3;1.2;1.3;87.5;0.8;2.0;41.7;1.238;0.45
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southeast Division;Dennis Smith Jr.;1.3;4.1;31.0;0.1;0.4;33.3;1.4;2.0;71.4;1.1;3.7;30.8;1.000;0.33
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southeast Division;Elijah Hughes;1.5;2.0;75.0;1.0;1.5;66.7;0.0;0.0;0.0;0.5;0.5;100.0;2.000;1.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southeast Division;Kris Dunn;1.0;6.0;16.7;0.0;1.0;0.0;0.0;0.0;0.0;1.0;5.0;20.0;0.333;0.17
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southeast Division;Tony Snell;0.7;3.0;22.2;0.3;2.7;12.5;0.0;0.0;0.0;0.3;0.3;100.0;0.556;0.28
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southeast Division;Keljin Blevins;0.0;1.3;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.3;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southeast Division;Total;40.0;87.7;45.6;13.7;39.1;35.0;18.6;23.1;80.5;26.3;48.6;54.1;1.281;0.53
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southwest Division;Damian Lillard;7.5;19.5;38.5;4.2;9.8;42.4;7.2;7.8;91.5;3.3;9.7;34.5;1.350;0.49
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southwest Division;Josh Hart;7.0;12.0;58.3;3.0;6.0;50.0;5.0;7.0;71.4;4.0;6.0;66.7;1.833;0.71
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southwest Division;CJ McCollum;8.0;19.2;41.7;3.0;7.6;39.5;1.8;2.8;64.3;5.0;11.6;43.1;1.083;0.49
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southwest Division;Norman Powell;5.4;13.6;39.5;2.1;6.1;34.7;4.9;6.1;79.6;3.3;7.5;43.3;1.303;0.47
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southwest Division;Jusuf Nurkic;5.8;9.9;58.4;0.1;0.7;16.7;5.7;7.6;75.0;5.7;9.2;61.4;1.753;0.59
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southwest Division;Drew Eubanks;7.4;11.8;62.8;0.5;1.4;36.4;1.9;2.8;68.2;6.9;10.4;66.3;1.457;0.65
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southwest Division;Anfernee Simons;5.4;11.3;47.8;2.6;5.8;44.8;1.6;1.6;100.0;2.8;5.5;50.9;1.327;0.59
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southwest Division;Nassir Little;4.4;8.2;53.7;0.8;3.2;25.0;3.0;4.0;75.0;3.6;5.0;72.0;1.537;0.59
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southwest Division;Keon Johnson;4.5;11.5;39.1;1.8;4.5;38.9;1.0;1.1;88.9;2.8;7.0;39.3;1.022;0.47
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southwest Division;Ben McLemore;3.8;7.9;47.9;2.4;6.1;39.1;1.4;1.6;87.5;1.4;1.8;77.8;1.437;0.63
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southwest Division;Reggie Perry;5.0;9.2;54.3;0.2;1.6;12.5;1.2;2.0;60.0;4.8;7.6;63.2;1.239;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southwest Division;Brandon Williams;3.0;9.2;32.5;0.8;3.8;20.6;1.8;2.3;76.2;2.2;5.4;40.8;0.928;0.37
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southwest Division;Robert Covington;3.0;6.9;43.8;1.7;5.1;33.3;0.3;0.3;100.0;1.3;1.7;75.0;1.167;0.56
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southwest Division;Justise Winslow;2.5;9.0;27.8;1.0;2.5;40.0;2.0;2.5;80.0;1.5;6.5;23.1;0.889;0.33
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southwest Division;Kris Dunn;3.0;6.6;45.7;0.0;0.7;0.0;1.7;1.7;100.0;3.0;5.9;51.2;1.174;0.46
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southwest Division;Larry Nance Jr.;3.0;5.9;51.2;0.6;2.1;26.7;0.7;1.3;55.6;2.4;3.7;65.4;1.244;0.56
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southwest Division;Cody Zeller;2.0;2.7;75.0;0.0;0.0;0.0;3.0;4.0;75.0;2.0;2.7;75.0;2.625;0.75
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southwest Division;Trendon Watford;3.0;5.2;57.4;0.0;0.4;0.0;0.8;1.2;63.6;3.0;4.8;62.8;1.298;0.57
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southwest Division;CJ Elleby;2.2;6.9;31.1;0.8;3.6;23.4;1.2;1.7;68.2;1.3;3.3;39.5;0.911;0.37
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southwest Division;Greg Brown III;2.2;4.6;48.3;0.8;1.8;43.5;0.9;1.1;85.7;1.5;2.8;51.4;1.333;0.57
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southwest Division;Didi Louzada;1.6;4.0;40.0;1.4;3.2;43.8;0.4;0.4;100.0;0.2;0.8;25.0;1.250;0.58
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southwest Division;Elijah Hughes;1.7;5.1;33.3;0.7;3.0;23.8;0.1;0.1;100.0;1.0;2.1;46.7;0.833;0.40
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southwest Division;Dennis Smith Jr.;1.0;3.3;30.0;0.7;1.3;50.0;1.0;1.7;60.0;0.3;2.0;16.7;1.100;0.40
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southwest Division;Keljin Blevins;1.1;4.8;22.9;0.8;2.9;27.6;0.3;0.5;60.0;0.3;1.9;15.8;0.688;0.31
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southwest Division;Cameron McGriff;1.0;5.0;20.0;1.0;2.0;50.0;0.0;0.0;0.0;0.0;3.0;0.0;0.600;0.30
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southwest Division;Jarron Cumberland;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southwest Division;Tony Snell;0.7;2.2;30.8;0.5;1.7;30.0;0.0;0.0;0.0;0.2;0.5;33.3;0.846;0.42
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Southwest Division;Total;36.9;83.4;44.3;12.1;35.0;34.6;17.7;22.6;78.4;24.8;48.4;51.3;1.243;0.52
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Northwest Division;Damian Lillard;7.0;16.3;43.1;3.5;10.0;35.0;5.5;7.3;75.9;3.5;6.3;56.0;1.415;0.54
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Northwest Division;CJ McCollum;8.5;18.2;46.8;2.8;8.0;35.4;1.3;1.7;80.0;5.7;10.2;55.7;1.165;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Northwest Division;Anfernee Simons;6.5;16.3;39.9;3.1;9.0;34.4;2.4;2.8;85.7;3.4;7.3;46.6;1.135;0.49
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Northwest Division;Norman Powell;5.8;12.5;46.7;2.2;5.5;39.4;2.8;3.5;81.0;3.7;7.0;52.4;1.333;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Northwest Division;Brandon Williams;4.7;12.7;37.1;1.7;4.6;37.5;3.9;5.7;67.5;3.0;8.1;36.8;1.180;0.44
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Northwest Division;Keon Johnson;4.7;13.1;35.9;1.9;5.4;34.2;1.7;2.0;85.7;2.9;7.7;37.0;0.989;0.43
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Northwest Division;Jusuf Nurkic;5.1;11.0;46.6;0.1;0.8;16.7;2.1;2.9;73.9;5.0;10.3;48.8;1.136;0.47
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Northwest Division;Drew Eubanks;5.5;8.5;64.7;0.0;0.0;0.0;1.2;1.5;77.8;5.5;8.5;64.7;1.431;0.65
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Northwest Division;Nassir Little;4.0;9.1;43.8;1.9;5.3;35.1;1.4;2.0;71.4;2.1;3.9;55.6;1.234;0.54
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Northwest Division;Ben McLemore;3.0;7.5;39.8;2.2;5.7;38.8;1.2;1.4;85.7;0.8;1.9;42.9;1.248;0.54
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Northwest Division;Reggie Perry;4.0;8.7;46.2;0.3;2.3;14.3;0.3;1.0;33.3;3.7;6.3;57.9;1.000;0.48
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Northwest Division;Kris Dunn;4.0;11.0;36.4;0.0;1.0;0.0;0.5;1.0;50.0;4.0;10.0;40.0;0.773;0.36
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Northwest Division;Trendon Watford;2.6;5.2;50.9;0.2;1.0;18.2;2.1;2.5;82.1;2.5;4.2;58.7;1.456;0.53
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Northwest Division;Josh Hart;3.0;11.7;25.7;0.3;5.7;5.9;1.0;2.0;50.0;2.7;6.0;44.4;0.629;0.27
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Northwest Division;CJ Elleby;2.3;5.8;39.5;0.8;2.0;42.3;0.8;1.2;73.3;1.5;3.8;38.0;1.079;0.47
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Northwest Division;Larry Nance Jr.;2.4;5.8;41.4;0.2;1.6;12.5;1.0;2.0;50.0;2.2;4.2;52.4;1.034;0.43
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Northwest Division;Dennis Smith Jr.;2.3;4.4;51.4;0.0;0.4;0.0;1.0;1.4;72.7;2.3;4.0;56.3;1.257;0.51
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Northwest Division;Robert Covington;1.7;6.6;26.1;0.7;4.0;17.9;0.9;1.1;75.0;1.0;2.6;38.9;0.761;0.32
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Northwest Division;Cody Zeller;2.3;3.7;63.6;0.0;0.0;0.0;0.3;0.7;50.0;2.3;3.7;63.6;1.364;0.64
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Northwest Division;Didi Louzada;2.0;5.0;40.0;1.0;2.0;50.0;0.0;0.0;0.0;1.0;3.0;33.3;1.000;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Northwest Division;Keljin Blevins;1.8;4.8;37.2;1.0;3.4;29.0;0.3;0.7;50.0;0.8;1.3;58.3;1.023;0.48
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Northwest Division;Greg Brown III;1.7;4.5;38.0;0.3;1.4;20.0;1.1;1.6;66.7;1.5;3.2;45.7;1.060;0.41
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Northwest Division;Tony Snell;1.6;3.9;41.9;0.8;2.8;27.3;0.0;0.0;0.0;0.9;1.1;77.8;1.032;0.52
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Northwest Division;Cameron McGriff;1.0;3.0;33.3;0.0;1.0;0.0;2.0;2.0;100.0;1.0;2.0;50.0;1.333;0.33
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Northwest Division;Elijah Hughes;1.2;5.5;21.2;0.5;3.2;15.8;0.5;0.8;60.0;0.7;2.3;28.6;0.606;0.26
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Northwest Division;Jarron Cumberland;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Northwest Division;Total;36.8;88.5;41.6;11.9;37.7;31.7;15.1;20.3;74.2;24.9;50.8;49.0;1.137;0.48
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Eastern Conference;Josh Hart;9.9;16.6;59.5;3.7;7.1;52.0;4.1;5.0;82.9;6.1;9.4;65.2;1.664;0.71
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Eastern Conference;Damian Lillard;7.8;19.9;39.0;3.0;10.0;30.0;5.5;6.0;91.7;4.8;9.9;48.1;1.208;0.47
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Eastern Conference;CJ McCollum;8.6;18.9;45.6;3.4;8.3;40.8;1.4;2.1;67.7;5.2;10.5;49.4;1.166;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Eastern Conference;Anfernee Simons;6.9;14.7;46.9;3.7;8.7;43.2;2.0;2.3;84.9;3.2;6.1;52.1;1.324;0.60
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Eastern Conference;Norman Powell;6.2;12.8;48.8;2.3;5.2;44.8;4.2;5.0;83.1;3.9;7.6;51.5;1.482;0.58
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Eastern Conference;Brandon Williams;6.0;15.5;38.7;1.7;6.0;27.8;3.2;5.0;63.3;4.3;9.5;45.6;1.086;0.44
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Eastern Conference;Drew Eubanks;6.5;9.8;66.1;0.0;0.7;0.0;2.5;2.7;93.8;6.5;9.2;70.9;1.576;0.66
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Eastern Conference;Jusuf Nurkic;5.5;10.7;51.2;0.3;1.1;26.9;3.3;4.8;67.8;5.2;9.6;53.9;1.355;0.53
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Eastern Conference;Ben McLemore;3.9;9.7;39.7;2.9;7.8;36.8;1.2;1.6;74.3;1.0;2.0;51.2;1.210;0.54
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Eastern Conference;Justise Winslow;4.6;10.9;42.1;0.9;3.6;24.0;1.0;2.0;50.0;3.7;7.3;51.0;1.013;0.46
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Eastern Conference;Robert Covington;3.3;7.5;43.3;2.2;5.1;43.1;0.9;1.1;81.8;1.1;2.4;43.8;1.280;0.58
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Eastern Conference;Nassir Little;3.2;7.1;45.8;1.1;3.4;33.3;1.6;2.2;75.7;2.1;3.7;57.1;1.308;0.54
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Eastern Conference;Trendon Watford;3.1;5.9;53.3;0.2;0.9;23.8;1.4;2.0;73.3;2.9;5.0;58.8;1.348;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Eastern Conference;Larry Nance Jr.;3.0;4.9;61.0;0.5;1.3;40.0;1.1;1.3;86.7;2.5;3.7;68.2;1.542;0.66
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Eastern Conference;Kris Dunn;3.0;6.8;44.1;0.2;0.8;25.0;0.8;0.8;100.0;2.8;6.0;46.7;1.029;0.46
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Eastern Conference;CJ Elleby;2.3;4.9;47.4;0.6;1.9;29.7;1.0;1.5;66.7;1.8;3.0;58.3;1.268;0.53
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Eastern Conference;Dennis Smith Jr.;2.1;5.3;40.5;0.1;0.6;22.2;1.6;2.2;72.7;2.0;4.7;42.9;1.139;0.42
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Eastern Conference;Keon Johnson;1.8;5.2;34.6;0.8;2.4;33.3;0.6;1.0;60.0;1.0;2.8;35.7;0.962;0.42
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Eastern Conference;Cody Zeller;1.7;2.8;61.3;0.0;0.1;0.0;0.8;0.9;90.0;1.7;2.7;63.3;1.516;0.61
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Eastern Conference;Greg Brown III;1.4;3.3;42.9;0.3;1.0;26.7;0.8;1.4;57.1;1.1;2.3;50.0;1.184;0.47
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Eastern Conference;Elijah Hughes;1.4;3.9;37.0;0.7;2.6;27.8;0.0;0.0;0.0;0.7;1.3;55.6;0.926;0.46
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Eastern Conference;Tony Snell;0.8;2.4;33.3;0.6;2.1;31.0;0.1;0.1;100.0;0.1;0.3;50.0;0.970;0.47
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Eastern Conference;Keljin Blevins;0.2;1.0;22.2;0.1;0.6;20.0;0.0;0.0;0.0;0.1;0.4;25.0;0.556;0.28
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Eastern Conference;Total;40.5;87.0;46.6;13.8;36.9;37.4;16.8;22.2;75.6;26.7;50.1;53.4;1.283;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Western Conference;Damian Lillard;7.6;18.7;40.7;3.2;9.7;33.3;5.5;6.3;86.5;4.4;9.0;48.7;1.280;0.49
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Western Conference;CJ McCollum;7.7;18.2;42.1;2.9;7.8;36.6;1.3;1.8;73.0;4.8;10.4;46.3;1.071;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Western Conference;Norman Powell;6.1;13.9;44.1;2.3;6.0;38.9;3.9;4.9;78.9;3.8;7.9;48.1;1.330;0.53
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Western Conference;Anfernee Simons;5.7;13.5;42.4;2.7;7.1;38.3;1.7;1.9;92.1;3.0;6.3;47.0;1.177;0.53
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Western Conference;Jusuf Nurkic;5.9;10.8;55.2;0.3;0.9;26.7;3.3;4.8;69.9;5.7;9.8;58.0;1.439;0.56
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Western Conference;Drew Eubanks;6.1;9.6;64.1;0.3;0.7;36.4;1.6;2.2;71.4;5.9;8.9;66.2;1.471;0.65
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Western Conference;Brandon Williams;3.8;10.5;36.5;1.2;3.9;30.0;2.7;3.7;73.1;2.7;6.6;40.3;1.101;0.42
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Western Conference;Keon Johnson;4.1;11.5;35.9;1.6;4.5;35.1;1.3;1.5;88.0;2.5;6.9;36.4;0.969;0.43
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Western Conference;Josh Hart;3.8;11.2;34.3;0.8;5.5;15.2;2.5;3.7;68.2;3.0;5.7;52.9;0.985;0.38
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Western Conference;Justise Winslow;3.8;10.0;37.5;1.0;3.0;33.3;1.8;2.8;63.6;2.8;7.0;39.3;1.025;0.43
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Western Conference;Nassir Little;3.6;7.8;46.2;1.3;3.9;33.0;1.6;2.3;71.9;2.3;3.9;59.2;1.297;0.54
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Western Conference;Reggie Perry;4.3;8.7;50.0;0.3;1.8;18.8;1.0;1.7;60.0;4.0;6.9;58.1;1.154;0.52
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Western Conference;Ben McLemore;3.1;7.7;40.3;2.1;5.9;35.8;1.1;1.3;86.8;1.0;1.9;54.4;1.218;0.54
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Western Conference;Kris Dunn;3.2;7.6;42.6;0.0;0.8;0.0;1.4;1.6;92.9;3.2;6.8;47.5;1.044;0.43
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Western Conference;Trendon Watford;2.8;5.3;53.0;0.2;0.7;23.5;1.5;2.0;77.6;2.6;4.6;57.4;1.379;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Western Conference;Larry Nance Jr.;2.6;5.6;47.5;0.5;1.9;27.7;0.8;1.4;55.9;2.1;3.7;57.6;1.180;0.52
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Western Conference;Robert Covington;2.3;6.6;33.9;1.3;4.6;27.3;0.4;0.5;85.7;1.0;2.1;48.3;0.930;0.43
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Western Conference;Cody Zeller;2.0;3.7;54.2;0.0;0.2;0.0;1.8;2.4;74.4;2.0;3.5;57.1;1.576;0.54
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Western Conference;CJ Elleby;2.0;5.6;35.5;0.7;2.3;29.2;1.1;1.4;74.1;1.3;3.2;40.2;1.024;0.42
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Western Conference;Dennis Smith Jr.;2.1;5.0;42.7;0.2;0.8;22.2;0.8;1.4;58.1;2.0;4.2;46.7;1.055;0.45
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Western Conference;Greg Brown III;1.8;4.3;42.6;0.5;1.4;32.6;1.0;1.3;72.7;1.4;2.9;47.4;1.184;0.48
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Western Conference;Didi Louzada;1.7;4.3;40.0;1.3;2.9;45.0;0.3;0.3;100.0;0.4;1.4;30.0;1.167;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Western Conference;Cameron McGriff;1.7;4.7;35.7;0.7;2.0;33.3;0.7;0.7;100.0;1.0;2.7;37.5;1.000;0.43
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Western Conference;Keljin Blevins;1.5;4.6;31.4;0.9;3.0;29.9;0.3;0.5;54.5;0.5;1.6;34.3;0.882;0.41
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Western Conference;Elijah Hughes;1.5;5.4;27.2;0.7;3.3;20.4;0.3;0.4;66.7;0.8;2.1;37.5;0.716;0.33
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Western Conference;Tony Snell;1.0;2.7;39.1;0.6;1.9;32.6;0.1;0.1;100.0;0.4;0.8;55.6;1.047;0.51
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Western Conference;Jarron Cumberland;0.3;0.7;50.0;0.0;0.3;0.0;0.0;0.0;0.0;0.3;0.3;100.0;1.000;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Western Conference;Total;37.4;87.2;42.9;12.1;36.7;32.9;16.2;21.3;76.2;25.3;50.5;50.1;1.183;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pre All-Star;Josh Hart;8.0;13.3;60.0;3.7;7.0;52.4;4.3;5.7;76.5;4.3;6.3;68.4;1.800;0.74
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pre All-Star;Damian Lillard;7.7;19.0;40.2;3.2;9.8;32.4;5.5;6.2;87.8;4.5;9.2;48.5;1.259;0.49
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pre All-Star;CJ McCollum;8.1;18.5;43.6;3.1;8.0;38.4;1.3;1.9;70.6;5.0;10.4;47.6;1.111;0.52
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pre All-Star;Norman Powell;6.2;13.6;45.6;2.3;5.7;40.6;4.0;5.0;80.3;3.9;7.8;49.2;1.376;0.54
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pre All-Star;Anfernee Simons;6.2;13.8;44.7;3.1;7.6;40.0;1.6;1.8;88.5;3.1;6.1;50.5;1.232;0.56
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pre All-Star;Jusuf Nurkic;5.7;10.7;53.5;0.3;1.0;26.8;3.3;4.8;69.0;5.5;9.7;56.3;1.403;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pre All-Star;Justise Winslow;4.8;10.5;46.0;1.0;3.5;28.6;1.3;2.0;66.7;3.8;7.0;54.8;1.143;0.51
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pre All-Star;Nassir Little;3.5;7.5;46.0;1.2;3.7;33.1;1.6;2.2;73.4;2.2;3.8;58.4;1.302;0.54
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pre All-Star;Ben McLemore;3.1;7.7;39.7;2.3;6.1;37.4;0.7;0.9;78.4;0.8;1.6;48.5;1.178;0.54
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pre All-Star;Robert Covington;2.7;7.0;38.1;1.6;4.8;34.3;0.6;0.8;83.3;1.0;2.2;46.2;1.086;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pre All-Star;Larry Nance Jr.;2.8;5.4;51.5;0.5;1.7;30.6;0.9;1.3;65.3;2.2;3.7;61.0;1.288;0.56
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pre All-Star;Dennis Smith Jr.;2.1;5.1;41.8;0.2;0.7;22.2;1.1;1.7;65.6;2.0;4.4;45.1;1.090;0.43
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pre All-Star;Reggie Perry;2.0;4.5;44.4;0.5;1.0;50.0;1.0;1.0;100.0;1.5;3.5;42.9;1.222;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pre All-Star;Cody Zeller;1.9;3.3;56.7;0.0;0.1;0.0;1.4;1.8;77.6;1.9;3.2;59.3;1.556;0.57
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pre All-Star;Cameron McGriff;1.7;4.7;35.7;0.7;2.0;33.3;0.7;0.7;100.0;1.0;2.7;37.5;1.000;0.43
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pre All-Star;Trendon Watford;1.9;3.2;59.0;0.0;0.3;9.1;0.7;1.1;68.6;1.8;2.8;64.9;1.419;0.60
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pre All-Star;CJ Elleby;1.6;4.1;39.2;0.5;1.8;29.0;0.6;0.7;80.8;1.1;2.3;46.9;1.056;0.45
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pre All-Star;Brandon Williams;1.0;1.5;66.7;0.0;0.0;0.0;2.0;3.5;57.1;1.0;1.5;66.7;2.667;0.67
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pre All-Star;Greg Brown III;1.3;2.9;43.2;0.1;0.8;19.0;0.7;1.1;63.3;1.1;2.1;51.7;1.148;0.46
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pre All-Star;Tony Snell;0.9;2.6;37.1;0.6;2.0;32.0;0.1;0.1;100.0;0.3;0.6;54.5;1.021;0.49
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pre All-Star;Elijah Hughes;1.0;5.7;17.6;0.3;3.7;9.1;0.0;0.0;0.0;0.7;2.0;33.3;0.412;0.21
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pre All-Star;Keljin Blevins;0.8;1.9;39.1;0.5;1.2;42.9;0.0;0.2;0.0;0.3;0.8;33.3;1.043;0.52
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pre All-Star;Jarron Cumberland;0.3;0.7;50.0;0.0;0.3;0.0;0.0;0.0;0.0;0.3;0.3;100.0;1.000;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Pre All-Star;Total;39.1;87.1;44.9;13.5;38.0;35.6;16.5;21.6;76.2;25.6;49.1;52.1;1.242;0.53
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Post All-Star;Anfernee Simons;6.8;16.8;40.3;4.3;9.3;45.9;4.5;5.0;90.0;2.5;7.5;33.3;1.328;0.53
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Post All-Star;Josh Hart;6.8;14.3;47.6;2.0;6.2;32.3;3.1;4.0;77.5;4.8;8.1;59.3;1.308;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Post All-Star;Drew Eubanks;6.2;9.6;64.6;0.2;0.7;26.7;1.8;2.3;78.4;6.0;9.0;67.5;1.500;0.66
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Post All-Star;Trendon Watford;5.3;10.8;49.4;0.5;1.8;29.6;3.1;3.9;79.7;4.8;9.0;53.3;1.327;0.52
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Post All-Star;Brandon Williams;4.7;12.7;36.9;1.4;4.8;29.2;2.9;4.1;71.1;3.3;7.9;41.6;1.079;0.42
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Post All-Star;Ben McLemore;4.0;9.7;40.7;2.5;7.3;34.4;2.0;2.3;84.3;1.5;2.5;59.3;1.271;0.54
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Post All-Star;Reggie Perry;5.0;9.9;50.7;0.3;2.0;14.3;1.0;1.9;53.8;4.7;7.9;60.0;1.145;0.52
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Post All-Star;Keon Johnson;3.6;10.0;35.7;1.4;4.0;34.8;1.1;1.4;83.3;2.2;6.0;36.4;0.968;0.43
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Post All-Star;Justise Winslow;3.6;10.6;34.0;0.8;3.2;25.0;1.2;2.6;46.2;2.8;7.4;37.8;0.868;0.38
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Post All-Star;CJ Elleby;2.8;7.2;39.4;0.8;2.8;29.7;1.7;2.5;67.2;2.0;4.4;45.5;1.139;0.45
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Post All-Star;Kris Dunn;3.1;7.3;43.1;0.1;0.8;9.1;1.2;1.3;94.4;3.1;6.5;47.3;1.039;0.44
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Post All-Star;Greg Brown III;2.3;5.5;42.2;0.8;2.0;37.5;1.3;1.8;71.4;1.6;3.5;44.9;1.211;0.49
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Post All-Star;Didi Louzada;1.7;4.3;40.0;1.3;2.9;45.0;0.3;0.3;100.0;0.4;1.4;30.0;1.167;0.55
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Post All-Star;Elijah Hughes;1.5;4.8;31.9;0.7;2.9;25.0;0.2;0.3;66.7;0.8;1.8;42.9;0.835;0.40
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Post All-Star;Keljin Blevins;1.3;4.6;28.4;0.8;3.1;25.9;0.3;0.5;66.7;0.5;1.6;33.3;0.807;0.37
+Portland Trail Blazers;por;2021 - 2022 Regular Season;Post All-Star;Total;37.2;87.2;42.6;10.7;33.7;31.6;16.3;21.5;75.6;26.5;53.5;49.6;1.162;0.49
+Portland Trail Blazers;por;2021 - 2022 Regular Season;3+ Days Rest;CJ McCollum;10.5;18.5;56.8;4.0;7.5;53.3;0.0;0.0;0.0;6.5;11.0;59.1;1.351;0.68
+Portland Trail Blazers;por;2021 - 2022 Regular Season;3+ Days Rest;Anfernee Simons;8.2;15.0;54.4;4.7;9.2;50.9;3.3;3.7;90.9;3.5;5.8;60.0;1.622;0.70
+Portland Trail Blazers;por;2021 - 2022 Regular Season;3+ Days Rest;Damian Lillard;6.0;18.7;32.1;2.0;10.3;19.4;9.3;11.3;82.4;4.0;8.3;48.0;1.250;0.38
+Portland Trail Blazers;por;2021 - 2022 Regular Season;3+ Days Rest;Jusuf Nurkic;5.7;11.3;50.0;0.3;1.0;33.3;4.7;5.3;87.5;5.3;10.3;51.6;1.441;0.51
+Portland Trail Blazers;por;2021 - 2022 Regular Season;3+ Days Rest;Nassir Little;4.8;8.5;55.9;1.5;4.0;37.5;2.8;4.8;57.9;3.3;4.5;72.2;1.618;0.65
+Portland Trail Blazers;por;2021 - 2022 Regular Season;3+ Days Rest;Josh Hart;4.7;11.7;40.0;1.3;5.7;23.5;3.0;4.0;75.0;3.3;6.0;55.6;1.171;0.46
+Portland Trail Blazers;por;2021 - 2022 Regular Season;3+ Days Rest;Norman Powell;3.5;10.2;34.4;2.0;4.8;41.4;4.3;4.8;89.7;1.5;5.3;28.1;1.311;0.44
+Portland Trail Blazers;por;2021 - 2022 Regular Season;3+ Days Rest;Reggie Perry;4.0;7.0;57.1;0.0;1.5;0.0;1.5;2.0;75.0;4.0;5.5;72.7;1.357;0.57
+Portland Trail Blazers;por;2021 - 2022 Regular Season;3+ Days Rest;Justise Winslow;3.7;8.7;42.3;1.0;3.3;30.0;0.7;1.3;50.0;2.7;5.3;50.0;1.038;0.48
+Portland Trail Blazers;por;2021 - 2022 Regular Season;3+ Days Rest;Brandon Williams;2.3;5.0;46.7;0.3;1.3;25.0;3.0;4.0;75.0;2.0;3.7;54.5;1.600;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;3+ Days Rest;Larry Nance Jr.;3.0;6.7;45.0;0.3;2.0;16.7;1.0;1.7;60.0;2.7;4.7;57.1;1.100;0.48
+Portland Trail Blazers;por;2021 - 2022 Regular Season;3+ Days Rest;Ben McLemore;2.3;5.6;42.0;2.0;4.4;45.0;0.4;0.4;100.0;0.3;1.1;30.0;1.280;0.60
+Portland Trail Blazers;por;2021 - 2022 Regular Season;3+ Days Rest;Cody Zeller;3.0;4.3;69.2;0.0;0.0;0.0;0.3;0.7;50.0;3.0;4.3;69.2;1.462;0.69
+Portland Trail Blazers;por;2021 - 2022 Regular Season;3+ Days Rest;Robert Covington;1.7;6.0;27.8;1.0;4.7;21.4;0.7;0.7;100.0;0.7;1.3;50.0;0.833;0.36
+Portland Trail Blazers;por;2021 - 2022 Regular Season;3+ Days Rest;Didi Louzada;2.0;6.0;33.3;1.0;5.0;20.0;0.0;0.0;0.0;1.0;1.0;100.0;0.833;0.42
+Portland Trail Blazers;por;2021 - 2022 Regular Season;3+ Days Rest;Keon Johnson;1.0;4.5;22.2;0.5;2.0;25.0;2.0;2.0;100.0;0.5;2.5;20.0;1.000;0.28
+Portland Trail Blazers;por;2021 - 2022 Regular Season;3+ Days Rest;Tony Snell;1.6;3.3;47.8;1.1;2.6;44.4;0.0;0.0;0.0;0.4;0.7;60.0;1.304;0.65
+Portland Trail Blazers;por;2021 - 2022 Regular Season;3+ Days Rest;Greg Brown III;1.6;3.6;44.4;0.3;1.3;21.1;0.6;0.9;64.3;1.3;2.3;57.1;1.130;0.48
+Portland Trail Blazers;por;2021 - 2022 Regular Season;3+ Days Rest;Trendon Watford;1.2;2.3;50.0;0.0;0.0;0.0;1.0;1.3;75.0;1.2;2.3;50.0;1.429;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;3+ Days Rest;Cameron McGriff;1.0;5.0;20.0;1.0;2.0;50.0;0.0;0.0;0.0;0.0;3.0;0.0;0.600;0.30
+Portland Trail Blazers;por;2021 - 2022 Regular Season;3+ Days Rest;Elijah Hughes;1.0;3.5;28.6;0.5;2.5;20.0;0.2;0.3;50.0;0.5;1.0;50.0;0.762;0.36
+Portland Trail Blazers;por;2021 - 2022 Regular Season;3+ Days Rest;CJ Elleby;0.9;3.1;29.0;0.2;1.6;12.5;0.5;0.6;83.3;0.7;1.5;46.7;0.806;0.32
+Portland Trail Blazers;por;2021 - 2022 Regular Season;3+ Days Rest;Kris Dunn;1.0;6.0;16.7;0.0;1.0;0.0;0.0;0.0;0.0;1.0;5.0;20.0;0.333;0.17
+Portland Trail Blazers;por;2021 - 2022 Regular Season;3+ Days Rest;Drew Eubanks;1.0;2.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;2.0;50.0;1.000;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;3+ Days Rest;Jarron Cumberland;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Portland Trail Blazers;por;2021 - 2022 Regular Season;3+ Days Rest;Dennis Smith Jr.;0.7;2.6;27.8;0.0;0.7;0.0;0.4;0.7;60.0;0.7;1.9;38.5;0.722;0.28
+Portland Trail Blazers;por;2021 - 2022 Regular Season;3+ Days Rest;Keljin Blevins;0.5;1.3;40.0;0.3;0.6;40.0;0.0;0.3;0.0;0.3;0.6;40.0;1.000;0.50
+Portland Trail Blazers;por;2021 - 2022 Regular Season;3+ Days Rest;Total;37.0;83.8;44.2;12.8;39.5;32.3;24.3;30.3;80.2;24.3;44.3;54.8;1.325;0.52

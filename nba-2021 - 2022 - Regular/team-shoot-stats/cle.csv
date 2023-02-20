@@ -1,0 +1,960 @@
+teamName;teamCode;season;split;player_name;FGM;FGA;FG_PCT;FG3M;FG3A;FG3_PCT;FTM;FTA;FT_PCT;PM2;PA2;PCT2;SC_EF;SH_EF
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;All Splits;Darius Garland;8.0;17.3;46.2;2.6;6.7;38.3;3.2;3.5;89.2;5.4;10.6;51.2;1.256;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;All Splits;Jarrett Allen;6.6;9.7;67.7;0.0;0.2;10.0;2.9;4.2;70.8;6.6;9.6;68.8;1.659;0.68
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;All Splits;Collin Sexton;6.2;13.7;45.0;1.0;4.1;24.4;2.6;3.5;74.4;5.2;9.6;53.8;1.166;0.49
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;All Splits;Evan Mobley;6.1;12.0;50.8;0.3;1.3;25.0;2.4;3.7;66.3;5.8;10.7;54.1;1.246;0.52
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;All Splits;Lauri Markkanen;5.1;11.5;44.5;2.2;6.2;35.8;2.3;2.6;86.8;2.9;5.3;54.8;1.280;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;All Splits;Kevin Love;4.4;10.3;43.0;2.5;6.4;39.2;2.2;2.7;83.8;1.9;3.8;49.3;1.323;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;All Splits;Caris LeVert;5.3;12.2;43.5;1.1;3.5;31.3;1.8;2.5;74.5;4.2;8.7;48.5;1.112;0.48
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;All Splits;Ricky Rubio;4.4;12.1;36.3;1.7;5.1;33.9;2.6;3.0;85.4;2.6;7.0;38.0;1.083;0.43
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;All Splits;Cedi Osman;3.7;8.7;43.2;1.9;5.4;35.7;1.3;2.0;66.4;1.8;3.2;55.9;1.240;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;All Splits;Isaac Okoro;3.1;6.4;48.0;0.8;2.3;35.0;1.8;2.3;76.8;2.3;4.1;55.5;1.364;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;All Splits;Malik Newman;3.0;5.0;60.0;0.0;1.0;0.0;2.0;2.0;100.0;3.0;4.0;75.0;1.600;0.60
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;All Splits;Moses Brown;2.6;4.1;63.8;0.0;0.0;0.0;1.1;2.1;55.2;2.6;4.1;63.8;1.552;0.64
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;All Splits;Rajon Rondo;2.1;5.0;42.9;1.1;2.8;39.7;0.9;1.1;75.0;1.0;2.2;46.8;1.248;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;All Splits;Lamar Stevens;2.5;5.1;48.9;0.3;1.0;27.7;0.8;1.2;70.7;2.2;4.0;54.3;1.201;0.52
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;All Splits;Dean Wade;1.9;4.3;45.6;1.0;2.8;35.9;0.4;0.6;66.7;0.9;1.5;64.0;1.240;0.57
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;All Splits;Brandon Goodwin;1.8;4.3;41.6;0.5;1.5;34.5;0.7;1.1;63.2;1.3;2.8;45.5;1.110;0.48
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;All Splits;Justin Anderson;1.3;2.7;50.0;0.7;2.0;33.3;1.0;1.3;75.0;0.7;0.7;100.0;1.625;0.63
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;All Splits;Trevon Scott;1.5;3.0;50.0;0.0;0.5;0.0;0.0;0.0;0.0;1.5;2.5;60.0;1.000;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;All Splits;Denzel Valentine;1.0;2.8;37.1;0.8;2.0;40.9;0.0;0.0;0.0;0.2;0.8;27.8;1.032;0.52
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;All Splits;Dylan Windler;0.7;2.0;37.8;0.4;1.4;30.0;0.3;0.4;83.3;0.3;0.6;57.1;1.122;0.48
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;All Splits;Luke Kornet;0.5;2.5;20.0;0.0;0.5;0.0;1.0;1.5;66.7;0.5;2.0;25.0;0.800;0.20
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;All Splits;Kevin Pangos;0.6;1.9;32.6;0.3;1.1;23.1;0.1;0.2;75.0;0.4;0.8;45.0;0.848;0.39
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;All Splits;Tacko Fall;0.5;1.1;41.7;0.0;0.0;0.0;0.2;0.6;28.6;0.5;1.1;41.7;1.000;0.42
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;All Splits;RJ Nembhard Jr.;0.4;1.3;33.3;0.0;0.1;0.0;0.2;0.3;75.0;0.4;1.1;37.5;0.833;0.33
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;All Splits;Tim Frazier;0.5;1.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;1.0;50.0;1.000;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;All Splits;Ed Davis;0.4;0.5;68.8;0.0;0.0;0.0;0.2;0.5;42.9;0.4;0.5;68.8;1.750;0.69
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;All Splits;Total;39.7;84.6;46.9;11.6;32.8;35.5;16.8;22.1;76.0;28.1;51.9;54.1;1.274;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Home;Darius Garland;8.2;17.5;46.6;2.7;6.9;39.2;3.4;3.8;88.9;5.5;10.6;51.4;1.281;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Home;Collin Sexton;8.7;16.0;54.2;1.3;4.3;30.8;3.3;4.0;83.3;7.3;11.7;62.9;1.375;0.58
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Home;Jarrett Allen;6.4;9.5;67.2;0.0;0.2;0.0;3.0;4.2;71.1;6.4;9.3;68.8;1.660;0.67
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Home;Lauri Markkanen;5.2;11.7;44.3;2.4;6.5;36.9;2.1;2.5;84.0;2.8;5.2;53.5;1.270;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Home;Evan Mobley;6.0;12.1;49.4;0.4;1.4;27.7;2.2;3.4;64.3;5.6;10.8;52.2;1.199;0.51
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Home;Kevin Love;4.5;10.4;43.1;2.9;6.9;42.5;2.3;2.8;81.2;1.6;3.6;44.2;1.359;0.57
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Home;Caris LeVert;5.2;12.1;42.9;1.1;3.8;28.6;2.2;2.9;75.0;4.1;8.3;49.5;1.128;0.47
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Home;Ricky Rubio;4.3;11.9;36.0;1.6;5.4;30.4;2.9;3.4;86.2;2.6;6.5;40.5;1.103;0.43
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Home;Cedi Osman;4.0;9.1;44.2;2.0;5.6;36.0;1.0;1.7;61.5;2.0;3.5;57.4;1.219;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Home;Isaac Okoro;3.2;6.8;46.7;1.0;2.8;35.2;1.7;2.2;76.2;2.2;4.0;54.6;1.327;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Home;Rajon Rondo;2.4;5.7;42.5;1.4;3.4;41.7;0.9;1.0;85.7;1.0;2.3;43.8;1.250;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Home;Justin Anderson;3.0;5.0;60.0;1.0;3.0;33.3;0.0;0.0;0.0;2.0;2.0;100.0;1.400;0.70
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Home;Lamar Stevens;2.7;5.2;52.7;0.2;0.9;22.2;1.1;1.4;75.6;2.5;4.2;59.3;1.300;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Home;Trevon Scott;3.0;6.0;50.0;0.0;1.0;0.0;0.0;0.0;0.0;3.0;5.0;60.0;1.000;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Home;Moses Brown;2.4;4.0;59.4;0.0;0.0;0.0;0.9;2.1;41.2;2.4;4.0;59.4;1.406;0.59
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Home;Dean Wade;1.9;4.2;45.4;1.0;2.8;34.7;0.3;0.5;53.8;0.9;1.4;66.7;1.204;0.57
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Home;Brandon Goodwin;1.7;4.3;38.5;0.5;1.5;31.3;0.8;1.4;55.2;1.2;2.8;42.4;1.055;0.44
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Home;Denzel Valentine;1.4;4.2;34.2;1.2;3.1;39.3;0.0;0.0;0.0;0.2;1.1;20.0;0.974;0.49
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Home;Luke Kornet;1.0;5.0;20.0;0.0;1.0;0.0;2.0;3.0;66.7;1.0;4.0;25.0;0.800;0.20
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Home;Kevin Pangos;0.9;2.3;40.0;0.4;1.3;28.6;0.3;0.4;75.0;0.5;1.0;54.5;1.080;0.48
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Home;Dylan Windler;0.7;1.9;38.0;0.4;1.4;27.8;0.5;0.6;80.0;0.3;0.5;64.3;1.200;0.48
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Home;Ed Davis;0.5;0.6;75.0;0.0;0.0;0.0;0.3;0.8;40.0;0.5;0.6;75.0;2.000;0.75
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Home;Tim Frazier;0.5;1.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;1.0;50.0;1.000;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Home;RJ Nembhard Jr.;0.4;1.2;36.4;0.0;0.1;0.0;0.0;0.0;0.0;0.4;1.1;40.0;0.727;0.36
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Home;Tacko Fall;0.3;0.7;50.0;0.0;0.0;0.0;0.2;0.7;25.0;0.3;0.7;50.0;1.250;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Home;Total;39.6;84.7;46.8;12.2;33.9;36.0;16.6;22.2;74.7;27.4;50.9;54.0;1.276;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Away;Darius Garland;7.8;17.0;45.8;2.4;6.5;37.4;2.9;3.3;89.6;5.4;10.5;50.9;1.232;0.53
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Away;Jarrett Allen;6.8;10.0;68.2;0.0;0.1;25.0;2.9;4.1;70.6;6.8;9.8;68.8;1.657;0.68
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Away;Evan Mobley;6.2;11.9;52.3;0.3;1.3;22.2;2.7;3.9;67.9;5.9;10.6;55.9;1.293;0.53
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Away;Lauri Markkanen;5.1;11.3;44.7;2.1;6.0;34.6;2.4;2.7;89.3;3.0;5.4;56.0;1.291;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Away;Collin Sexton;5.3;12.9;40.8;0.9;4.0;21.9;2.4;3.4;70.4;4.4;8.9;49.3;1.068;0.44
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Away;Caris LeVert;5.5;12.4;44.4;1.1;3.1;36.0;1.4;1.9;73.3;4.4;9.3;47.3;1.091;0.49
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Away;Kevin Love;4.3;10.1;42.9;2.2;6.1;35.7;2.2;2.6;86.6;2.2;4.1;53.5;1.288;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Away;Ricky Rubio;4.5;12.2;36.5;1.8;4.8;37.8;2.2;2.6;84.4;2.6;7.4;35.7;1.063;0.44
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Away;Cedi Osman;3.5;8.3;42.2;1.9;5.3;35.3;1.6;2.3;69.6;1.6;3.0;54.3;1.260;0.53
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Away;Isaac Okoro;3.0;6.0;50.0;0.6;1.8;34.6;1.9;2.4;77.5;2.4;4.2;56.6;1.420;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Away;Malik Newman;3.0;5.0;60.0;0.0;1.0;0.0;2.0;2.0;100.0;3.0;4.0;75.0;1.600;0.60
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Away;Moses Brown;3.0;4.3;69.2;0.0;0.0;0.0;1.5;2.0;75.0;3.0;4.3;69.2;1.731;0.69
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Away;Rajon Rondo;2.0;4.6;43.1;0.9;2.4;38.2;0.9;1.2;70.6;1.1;2.2;48.4;1.246;0.53
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Away;Dean Wade;2.0;4.4;45.9;1.0;2.8;37.1;0.5;0.7;76.5;1.0;1.6;61.5;1.275;0.58
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Away;Lamar Stevens;2.3;5.0;45.6;0.4;1.1;31.6;0.6;1.0;64.7;1.9;3.9;49.6;1.112;0.49
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Away;Brandon Goodwin;1.9;4.2;46.0;0.6;1.5;39.1;0.5;0.6;88.9;1.3;2.7;50.0;1.190;0.53
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Away;Justin Anderson;0.5;1.5;33.3;0.5;1.5;33.3;1.5;2.0;75.0;0.0;0.0;0.0;2.000;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Away;Dylan Windler;0.8;2.0;37.5;0.5;1.4;32.4;0.1;0.1;100.0;0.3;0.6;50.0;1.042;0.49
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Away;Denzel Valentine;0.8;1.8;41.7;0.5;1.2;43.8;0.0;0.0;0.0;0.2;0.6;37.5;1.125;0.56
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Away;Tacko Fall;0.6;1.6;37.5;0.0;0.0;0.0;0.2;0.6;33.3;0.6;1.6;37.5;0.875;0.38
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Away;RJ Nembhard Jr.;0.4;1.4;28.6;0.0;0.2;0.0;0.6;0.8;75.0;0.4;1.2;33.3;1.000;0.29
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Away;Kevin Pangos;0.4;1.6;23.8;0.2;0.9;16.7;0.0;0.0;0.0;0.2;0.7;33.3;0.571;0.29
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Away;Ed Davis;0.3;0.4;62.5;0.0;0.0;0.0;0.1;0.2;50.0;0.3;0.4;62.5;1.500;0.63
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Away;Luke Kornet;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Away;Trevon Scott;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Away;Total;39.8;84.6;47.0;11.0;31.7;34.9;17.0;21.9;77.4;28.7;52.9;54.3;1.271;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Boston Celtics;Darius Garland;8.0;17.3;46.2;2.3;7.7;30.4;4.0;4.3;92.3;5.7;9.7;58.6;1.288;0.53
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Boston Celtics;Kevin Love;6.0;13.0;46.2;1.0;5.0;20.0;5.0;7.0;71.4;5.0;8.0;62.5;1.385;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Boston Celtics;Ricky Rubio;5.0;16.3;30.6;2.3;7.0;33.3;5.0;5.7;88.2;2.7;9.3;28.6;1.061;0.38
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Boston Celtics;Cedi Osman;6.0;13.3;45.0;3.0;8.3;36.0;1.0;1.3;75.0;3.0;5.0;60.0;1.200;0.56
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Boston Celtics;Jarrett Allen;5.0;5.0;100.0;0.0;0.0;0.0;1.0;2.0;50.0;5.0;5.0;100.0;2.200;1.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Boston Celtics;Evan Mobley;4.0;12.0;33.3;0.5;2.0;25.0;1.5;2.0;75.0;3.5;10.0;35.0;0.833;0.35
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Boston Celtics;Lauri Markkanen;2.0;12.0;16.7;0.0;5.0;0.0;3.0;3.0;100.0;2.0;7.0;28.6;0.583;0.17
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Boston Celtics;Isaac Okoro;2.0;7.5;26.7;0.5;3.5;14.3;2.5;3.0;83.3;1.5;4.0;37.5;0.933;0.30
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Boston Celtics;Denzel Valentine;2.3;7.3;31.8;2.0;5.3;37.5;0.0;0.0;0.0;0.3;2.0;16.7;0.909;0.45
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Boston Celtics;Kevin Pangos;2.0;2.0;100.0;1.0;1.0;100.0;0.0;0.0;0.0;1.0;1.0;100.0;2.500;1.25
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Boston Celtics;Justin Anderson;1.0;1.0;100.0;1.0;1.0;100.0;1.0;2.0;50.0;0.0;0.0;0.0;4.000;1.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Boston Celtics;Dean Wade;1.3;4.3;30.8;0.3;2.3;14.3;0.7;0.7;100.0;1.0;2.0;50.0;0.846;0.35
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Boston Celtics;Tacko Fall;1.0;2.5;40.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;2.5;40.0;0.800;0.40
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Boston Celtics;Dylan Windler;0.5;1.5;33.3;0.0;0.5;0.0;0.5;1.0;50.0;0.5;1.0;50.0;1.000;0.33
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Boston Celtics;Luke Kornet;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Boston Celtics;Trevon Scott;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Boston Celtics;Total;33.0;85.3;38.7;11.7;38.7;30.2;17.0;20.7;82.3;21.3;46.7;45.7;1.109;0.46
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Brooklyn Nets;Darius Garland;10.3;24.0;42.7;2.5;8.5;29.4;2.3;2.3;100.0;7.8;15.5;50.0;1.052;0.48
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Brooklyn Nets;Ricky Rubio;6.0;14.5;41.4;3.0;9.0;33.3;5.5;5.5;100.0;3.0;5.5;54.5;1.414;0.52
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Brooklyn Nets;Lauri Markkanen;6.3;14.3;44.2;3.0;7.7;39.1;2.0;2.0;100.0;3.3;6.7;50.0;1.233;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Brooklyn Nets;Jarrett Allen;6.5;10.5;61.9;0.0;0.5;0.0;4.0;5.5;72.7;6.5;10.0;65.0;1.619;0.62
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Brooklyn Nets;Caris LeVert;5.0;10.0;50.0;0.0;1.0;0.0;6.0;8.0;75.0;5.0;9.0;55.6;1.600;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Brooklyn Nets;Evan Mobley;5.5;11.0;50.0;0.0;1.0;0.0;3.5;4.5;77.8;5.5;10.0;55.0;1.318;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Brooklyn Nets;Kevin Love;3.5;8.8;40.0;1.5;5.0;30.0;2.3;2.3;100.0;2.0;3.8;53.3;1.229;0.49
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Brooklyn Nets;Isaac Okoro;3.3;7.3;44.8;1.0;3.0;33.3;2.8;3.0;91.7;2.3;4.3;52.9;1.414;0.52
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Brooklyn Nets;Cedi Osman;3.0;8.0;37.5;1.0;5.3;18.8;2.0;2.7;75.0;2.0;2.7;75.0;1.125;0.44
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Brooklyn Nets;Dean Wade;2.5;6.0;41.7;1.5;4.5;33.3;2.5;3.0;83.3;1.0;1.5;66.7;1.500;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Brooklyn Nets;Brandon Goodwin;1.0;2.0;50.0;1.0;1.5;66.7;0.5;1.0;50.0;0.0;0.5;0.0;1.750;0.75
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Brooklyn Nets;Dylan Windler;0.8;1.3;60.0;0.3;0.8;33.3;0.5;0.5;100.0;0.5;0.5;100.0;1.800;0.70
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Brooklyn Nets;Ed Davis;1.0;2.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;2.0;50.0;1.000;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Brooklyn Nets;Denzel Valentine;1.0;3.0;33.3;0.0;2.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;0.667;0.33
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Brooklyn Nets;Lamar Stevens;1.0;5.0;20.0;0.0;3.0;0.0;0.0;0.0;0.0;1.0;2.0;50.0;0.400;0.20
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Brooklyn Nets;Moses Brown;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Brooklyn Nets;Tacko Fall;0.0;0.0;0.0;0.0;0.0;0.0;1.0;2.0;50.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Brooklyn Nets;Rajon Rondo;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Brooklyn Nets;Total;38.3;86.3;44.3;11.0;36.8;29.9;20.5;23.8;86.3;27.3;49.5;55.1;1.252;0.51
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. New York Knicks;Ricky Rubio;13.0;19.0;68.4;8.0;9.0;88.9;3.0;3.0;100.0;5.0;10.0;50.0;1.947;0.89
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. New York Knicks;Evan Mobley;8.5;13.5;63.0;1.0;2.5;40.0;2.5;4.5;55.6;7.5;11.0;68.2;1.519;0.67
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. New York Knicks;Caris LeVert;8.0;16.0;50.0;3.0;7.0;42.9;0.0;0.0;0.0;5.0;9.0;55.6;1.188;0.59
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. New York Knicks;Jarrett Allen;8.0;15.0;53.3;0.0;0.0;0.0;2.0;4.0;50.0;8.0;15.0;53.3;1.200;0.53
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. New York Knicks;Darius Garland;6.7;17.3;38.5;3.3;6.7;50.0;1.0;1.3;75.0;3.3;10.7;31.3;1.019;0.48
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. New York Knicks;Kevin Love;6.0;11.0;54.5;4.5;9.5;47.4;1.0;1.0;100.0;1.5;1.5;100.0;1.591;0.75
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. New York Knicks;Moses Brown;7.0;10.0;70.0;0.0;0.0;0.0;2.0;2.0;100.0;7.0;10.0;70.0;1.600;0.70
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. New York Knicks;Isaac Okoro;6.5;10.5;61.9;0.5;2.0;25.0;1.5;2.5;60.0;6.0;8.5;70.6;1.429;0.64
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. New York Knicks;Lauri Markkanen;2.0;3.0;66.7;1.0;2.0;50.0;5.0;6.0;83.3;1.0;1.0;100.0;3.333;0.83
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. New York Knicks;Dean Wade;3.0;7.0;42.9;3.0;6.0;50.0;0.5;1.0;50.0;0.0;1.0;0.0;1.357;0.64
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. New York Knicks;Rajon Rondo;3.0;4.0;75.0;2.0;3.0;66.7;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. New York Knicks;Collin Sexton;4.0;8.0;50.0;0.0;3.0;0.0;0.0;0.0;0.0;4.0;5.0;80.0;1.000;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. New York Knicks;Lamar Stevens;2.3;4.0;58.3;0.0;0.3;0.0;1.0;1.7;60.0;2.3;3.7;63.6;1.417;0.58
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. New York Knicks;Cedi Osman;0.7;5.3;12.5;0.7;4.7;14.3;2.0;2.3;85.7;0.0;0.7;0.0;0.750;0.19
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. New York Knicks;Dylan Windler;1.3;2.7;50.0;1.0;2.0;50.0;0.0;0.3;0.0;0.3;0.7;50.0;1.375;0.69
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. New York Knicks;Denzel Valentine;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. New York Knicks;Brandon Goodwin;1.0;2.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;2.0;50.0;1.000;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. New York Knicks;Ed Davis;0.0;1.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;0.0;1.0;0.0;1.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. New York Knicks;Tacko Fall;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. New York Knicks;Total;42.7;84.0;50.8;15.7;35.0;44.8;12.3;17.3;71.2;27.0;49.0;55.1;1.349;0.60
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Darius Garland;8.3;19.5;42.3;2.8;5.8;47.8;5.3;5.5;95.5;5.5;13.8;40.0;1.256;0.49
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Jarrett Allen;7.0;10.0;70.0;0.0;0.0;0.0;2.5;3.0;83.3;7.0;10.0;70.0;1.650;0.70
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Caris LeVert;6.0;15.0;40.0;1.0;3.7;27.3;1.7;2.0;83.3;5.0;11.3;44.1;0.978;0.43
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Isaac Okoro;3.3;5.0;65.0;0.8;1.8;42.9;4.5;5.8;78.3;2.5;3.3;76.9;2.350;0.73
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Cedi Osman;3.7;8.0;45.8;2.0;5.3;37.5;2.3;2.7;87.5;1.7;2.7;62.5;1.458;0.58
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Lauri Markkanen;4.0;9.3;42.9;2.0;4.7;42.9;1.7;2.0;83.3;2.0;4.7;42.9;1.250;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Evan Mobley;4.0;6.7;60.0;0.0;1.0;0.0;2.3;2.7;87.5;4.0;5.7;70.6;1.550;0.60
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Dean Wade;4.0;7.0;57.1;2.0;5.0;40.0;0.0;0.0;0.0;2.0;2.0;100.0;1.429;0.71
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Kevin Love;3.0;8.3;36.4;2.0;6.3;32.0;0.8;1.0;75.0;1.0;2.0;50.0;1.061;0.48
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Moses Brown;3.5;7.0;50.0;0.0;0.0;0.0;1.5;3.0;50.0;3.5;7.0;50.0;1.214;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Lamar Stevens;3.3;5.3;61.9;0.0;1.0;0.0;1.8;2.0;87.5;3.3;4.3;76.5;1.571;0.62
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Rajon Rondo;2.0;3.0;66.7;2.0;3.0;66.7;0.0;0.0;0.0;0.0;0.0;0.0;2.000;1.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Brandon Goodwin;1.0;1.0;100.0;0.3;0.3;100.0;1.0;1.7;60.0;0.7;0.7;100.0;3.333;1.17
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Ed Davis;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Dylan Windler;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Total;38.5;79.3;48.6;10.5;28.3;37.2;21.0;25.5;82.4;28.0;51.0;54.9;1.369;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Toronto Raptors;Lauri Markkanen;7.7;13.7;56.1;2.0;7.0;28.6;3.3;3.7;90.9;5.7;6.7;85.0;1.512;0.63
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Toronto Raptors;Darius Garland;7.3;14.8;49.2;1.8;5.8;30.4;3.3;3.3;100.0;5.5;9.0;61.1;1.322;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Toronto Raptors;Denzel Valentine;6.0;11.0;54.5;5.0;9.0;55.6;0.0;0.0;0.0;1.0;2.0;50.0;1.545;0.77
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Toronto Raptors;Kevin Love;5.3;9.3;57.1;3.7;6.3;57.9;2.0;2.0;100.0;1.7;3.0;55.6;1.750;0.77
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Toronto Raptors;Evan Mobley;7.0;12.0;58.3;0.3;1.3;25.0;2.0;4.0;50.0;6.7;10.7;62.5;1.361;0.60
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Toronto Raptors;Ricky Rubio;5.0;10.5;47.6;1.5;3.5;42.9;2.0;2.0;100.0;3.5;7.0;50.0;1.286;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Toronto Raptors;Cedi Osman;4.3;11.0;39.4;2.7;7.3;36.4;1.3;2.0;66.7;1.7;3.7;45.5;1.152;0.52
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Toronto Raptors;Caris LeVert;4.0;9.0;44.4;3.0;4.0;75.0;0.0;0.0;0.0;1.0;5.0;20.0;1.222;0.61
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Toronto Raptors;Jarrett Allen;4.0;5.0;80.0;0.5;0.5;100.0;2.5;3.0;83.3;3.5;4.5;77.8;2.200;0.85
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Toronto Raptors;Dean Wade;4.0;7.7;52.2;0.7;3.0;22.2;0.3;0.3;100.0;3.3;4.7;71.4;1.174;0.57
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Toronto Raptors;Lamar Stevens;3.0;7.0;42.9;1.0;2.0;50.0;2.0;3.0;66.7;2.0;5.0;40.0;1.286;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Toronto Raptors;Collin Sexton;4.0;18.0;22.2;1.0;5.0;20.0;0.0;0.0;0.0;3.0;13.0;23.1;0.500;0.25
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Toronto Raptors;Justin Anderson;3.0;5.0;60.0;1.0;3.0;33.3;0.0;0.0;0.0;2.0;2.0;100.0;1.400;0.70
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Toronto Raptors;Kevin Pangos;2.0;6.0;33.3;2.0;6.0;33.3;0.0;0.0;0.0;0.0;0.0;0.0;1.000;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Toronto Raptors;Trevon Scott;3.0;6.0;50.0;0.0;1.0;0.0;0.0;0.0;0.0;3.0;5.0;60.0;1.000;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Toronto Raptors;Luke Kornet;1.0;5.0;20.0;0.0;1.0;0.0;2.0;3.0;66.7;1.0;4.0;25.0;0.800;0.20
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Toronto Raptors;Isaac Okoro;1.5;7.0;21.4;1.0;3.0;33.3;0.0;0.0;0.0;0.5;4.0;12.5;0.571;0.29
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Toronto Raptors;Brandon Goodwin;1.0;2.0;50.0;0.0;0.5;0.0;1.0;1.0;100.0;1.0;1.5;66.7;1.500;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Toronto Raptors;Tacko Fall;1.0;2.0;50.0;0.0;0.0;0.0;1.0;2.0;50.0;1.0;2.0;50.0;1.500;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Toronto Raptors;RJ Nembhard Jr.;1.0;2.5;40.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;2.5;40.0;0.800;0.40
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Toronto Raptors;Ed Davis;0.5;0.5;100.0;0.0;0.0;0.0;0.5;2.0;25.0;0.5;0.5;100.0;3.000;1.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Toronto Raptors;Dylan Windler;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Toronto Raptors;Moses Brown;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Toronto Raptors;Total;42.5;88.3;48.2;13.8;37.0;37.2;14.8;19.0;77.6;28.8;51.3;56.1;1.286;0.56
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Chicago Bulls;Darius Garland;9.0;20.0;45.0;1.3;5.8;21.7;5.0;6.0;83.3;7.8;14.3;54.4;1.213;0.48
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Chicago Bulls;Lauri Markkanen;6.3;11.7;54.3;2.7;6.7;40.0;3.3;4.0;83.3;3.7;5.0;73.3;1.600;0.66
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Chicago Bulls;Caris LeVert;7.0;14.0;50.0;1.0;6.0;16.7;2.0;6.0;33.3;6.0;8.0;75.0;1.214;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Chicago Bulls;Evan Mobley;7.0;13.3;52.8;0.8;1.5;50.0;0.3;1.0;25.0;6.3;11.8;53.2;1.132;0.56
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Chicago Bulls;Ricky Rubio;3.0;7.0;42.9;0.0;1.0;0.0;5.0;5.0;100.0;3.0;6.0;50.0;1.571;0.43
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Chicago Bulls;Kevin Love;3.8;9.5;39.5;1.8;5.3;33.3;0.5;0.8;66.7;2.0;4.3;47.1;1.026;0.49
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Chicago Bulls;Jarrett Allen;3.5;7.0;50.0;0.0;0.5;0.0;2.5;3.0;83.3;3.5;6.5;53.8;1.357;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Chicago Bulls;Rajon Rondo;3.0;5.0;60.0;0.0;1.0;0.0;2.0;3.0;66.7;3.0;4.0;75.0;1.600;0.60
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Chicago Bulls;Isaac Okoro;2.8;5.3;52.4;0.3;1.0;25.0;1.5;2.3;66.7;2.5;4.3;58.8;1.381;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Chicago Bulls;Lamar Stevens;2.3;4.7;50.0;0.3;0.3;100.0;0.7;0.7;100.0;2.0;4.3;46.2;1.214;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Chicago Bulls;Cedi Osman;2.0;6.0;33.3;0.8;4.0;18.8;0.8;1.0;75.0;1.3;2.0;62.5;0.917;0.40
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Chicago Bulls;Dean Wade;2.0;3.7;54.5;1.3;2.3;57.1;0.0;0.0;0.0;0.7;1.3;50.0;1.455;0.73
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Chicago Bulls;Brandon Goodwin;1.5;2.5;60.0;0.0;0.0;0.0;0.0;0.0;0.0;1.5;2.5;60.0;1.200;0.60
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Chicago Bulls;Dylan Windler;0.3;1.0;33.3;0.3;1.0;33.3;1.3;1.3;100.0;0.0;0.0;0.0;2.333;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Chicago Bulls;Ed Davis;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Chicago Bulls;Kevin Pangos;0.0;0.5;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Chicago Bulls;Denzel Valentine;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Chicago Bulls;Total;38.5;81.3;47.4;8.5;27.5;30.9;15.5;20.5;75.6;30.0;53.8;55.8;1.243;0.53
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Detroit Pistons;Darius Garland;8.3;16.7;50.0;3.3;8.3;40.0;3.0;3.3;90.0;5.0;8.3;60.0;1.380;0.60
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Detroit Pistons;Lauri Markkanen;4.5;12.0;37.5;1.5;5.5;27.3;4.5;6.0;75.0;3.0;6.5;46.2;1.250;0.44
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Detroit Pistons;Evan Mobley;5.5;10.5;52.4;0.5;1.0;50.0;3.0;5.8;52.2;5.0;9.5;52.6;1.381;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Detroit Pistons;Cedi Osman;5.0;9.5;52.6;1.8;4.5;38.9;2.0;2.8;72.7;3.3;5.0;65.0;1.447;0.62
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Detroit Pistons;Jarrett Allen;4.7;9.0;51.9;0.0;0.3;0.0;3.0;3.7;81.8;4.7;8.7;53.8;1.370;0.52
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Detroit Pistons;Isaac Okoro;4.3;8.3;51.5;1.3;3.8;33.3;0.3;1.0;25.0;3.0;4.5;66.7;1.212;0.59
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Detroit Pistons;Caris LeVert;4.0;10.0;40.0;1.0;4.0;25.0;0.0;0.0;0.0;3.0;6.0;50.0;0.900;0.45
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Detroit Pistons;Brandon Goodwin;3.5;7.0;50.0;1.0;3.5;28.6;1.0;1.0;100.0;2.5;3.5;71.4;1.286;0.57
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Detroit Pistons;Kevin Love;3.3;7.3;45.5;1.3;4.3;30.8;0.7;1.7;40.0;2.0;3.0;66.7;1.182;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Detroit Pistons;Dean Wade;2.7;5.3;50.0;2.0;4.0;50.0;0.7;0.7;100.0;0.7;1.3;50.0;1.500;0.69
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Detroit Pistons;Rajon Rondo;3.0;7.0;42.9;1.5;4.5;33.3;0.0;1.0;0.0;1.5;2.5;60.0;1.071;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Detroit Pistons;Ricky Rubio;2.0;9.0;22.2;1.0;5.0;20.0;0.0;0.0;0.0;1.0;4.0;25.0;0.556;0.28
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Detroit Pistons;Dylan Windler;1.5;5.0;30.0;1.0;3.0;33.3;0.0;0.0;0.0;0.5;2.0;25.0;0.800;0.40
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Detroit Pistons;Lamar Stevens;1.5;2.3;66.7;0.3;0.5;50.0;0.8;1.3;60.0;1.3;1.8;71.4;1.778;0.72
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Detroit Pistons;Kevin Pangos;1.0;1.0;100.0;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;3.000;1.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Detroit Pistons;Denzel Valentine;1.0;4.0;25.0;1.0;3.0;33.3;0.0;0.0;0.0;0.0;1.0;0.0;0.750;0.38
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Detroit Pistons;Tacko Fall;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Detroit Pistons;Moses Brown;0.0;5.0;0.0;0.0;0.0;0.0;1.0;4.0;25.0;0.0;5.0;0.0;0.200;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Detroit Pistons;Ed Davis;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Detroit Pistons;Total;39.0;82.3;47.4;12.3;34.0;36.0;14.5;22.8;63.7;26.8;48.3;55.4;1.274;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Indiana Pacers;Darius Garland;14.0;26.0;53.8;4.0;9.0;44.4;9.0;9.0;100.0;10.0;17.0;58.8;1.577;0.62
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Indiana Pacers;Caris LeVert;10.0;19.0;52.6;1.0;2.0;50.0;1.0;2.0;50.0;9.0;17.0;52.9;1.158;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Indiana Pacers;Jarrett Allen;6.3;12.0;52.8;0.0;0.7;0.0;5.7;7.7;73.9;6.3;11.3;55.9;1.528;0.53
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Indiana Pacers;Lauri Markkanen;6.5;13.0;50.0;1.5;5.5;27.3;2.0;2.0;100.0;5.0;7.5;66.7;1.269;0.56
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Indiana Pacers;Evan Mobley;6.3;11.5;54.3;0.0;1.0;0.0;3.3;4.5;72.2;6.3;10.5;59.5;1.370;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Indiana Pacers;Kevin Love;5.0;11.8;42.6;2.8;6.3;44.0;2.8;3.3;84.6;2.3;5.5;40.9;1.319;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Indiana Pacers;Cedi Osman;4.7;10.7;43.8;1.7;6.0;27.8;1.0;1.3;75.0;3.0;4.7;64.3;1.125;0.52
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Indiana Pacers;Rajon Rondo;3.7;6.3;57.9;1.0;2.7;37.5;2.3;3.0;77.8;2.7;3.7;72.7;1.684;0.66
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Indiana Pacers;Dean Wade;3.3;6.3;52.0;1.5;4.3;35.3;1.0;1.3;80.0;1.8;2.0;87.5;1.440;0.64
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Indiana Pacers;Lamar Stevens;3.0;6.8;44.4;0.0;1.5;0.0;1.5;2.5;60.0;3.0;5.3;57.1;1.111;0.44
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Indiana Pacers;Isaac Okoro;2.0;5.5;36.4;0.3;1.3;20.0;2.0;2.0;100.0;1.8;4.3;41.2;1.136;0.39
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Indiana Pacers;Kevin Pangos;1.0;3.5;28.6;0.5;1.5;33.3;1.0;1.0;100.0;0.5;2.0;25.0;1.000;0.36
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Indiana Pacers;Brandon Goodwin;1.5;7.0;21.4;0.0;2.0;0.0;0.5;2.0;25.0;1.5;5.0;30.0;0.500;0.21
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Indiana Pacers;Ed Davis;0.5;0.5;100.0;0.0;0.0;0.0;1.0;1.0;100.0;0.5;0.5;100.0;4.000;1.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Indiana Pacers;Dylan Windler;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Indiana Pacers;RJ Nembhard Jr.;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Indiana Pacers;Total;41.3;86.8;47.5;8.8;28.5;30.7;22.0;28.3;77.9;32.5;58.3;55.8;1.305;0.53
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Kevin Love;7.0;13.3;52.8;5.0;9.8;51.3;2.8;3.3;84.6;2.0;3.5;57.1;1.642;0.72
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Cedi Osman;6.3;12.5;50.0;3.5;8.8;40.0;1.5;1.8;85.7;2.8;3.8;73.3;1.400;0.64
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Lauri Markkanen;6.0;13.3;45.0;2.7;7.7;34.8;2.3;2.7;87.5;3.3;5.7;58.8;1.275;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Jarrett Allen;6.7;10.0;66.7;0.0;0.0;0.0;3.0;3.0;100.0;6.7;10.0;66.7;1.633;0.67
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Darius Garland;6.0;11.0;54.5;2.3;4.3;52.9;1.3;1.5;83.3;3.8;6.8;55.6;1.409;0.65
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Evan Mobley;5.3;11.7;45.7;0.7;2.3;28.6;4.0;5.7;70.6;4.7;9.3;50.0;1.314;0.49
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Ricky Rubio;4.0;10.5;38.1;1.5;5.0;30.0;1.5;1.5;100.0;2.5;5.5;45.5;1.048;0.45
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Dean Wade;3.5;6.0;58.3;2.5;4.0;62.5;0.0;0.0;0.0;1.0;2.0;50.0;1.583;0.79
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Moses Brown;4.0;5.0;80.0;0.0;0.0;0.0;0.0;0.0;0.0;4.0;5.0;80.0;1.600;0.80
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Lamar Stevens;2.5;6.0;41.7;0.8;1.5;50.0;0.8;0.8;100.0;1.8;4.5;38.9;1.083;0.48
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Caris LeVert;2.0;7.0;28.6;0.0;5.0;0.0;2.0;2.0;100.0;2.0;2.0;100.0;0.857;0.29
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Rajon Rondo;2.0;6.5;30.8;1.5;4.5;33.3;0.0;0.0;0.0;0.5;2.0;25.0;0.846;0.42
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Denzel Valentine;1.0;3.0;33.3;1.0;2.0;50.0;0.0;0.0;0.0;0.0;1.0;0.0;1.000;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Isaac Okoro;1.0;4.3;23.1;0.3;2.0;16.7;0.0;0.0;0.0;0.7;2.3;28.6;0.538;0.27
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Milwaukee Bucks;RJ Nembhard Jr.;0.5;1.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;1.0;50.0;1.000;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Dylan Windler;0.3;1.7;20.0;0.0;1.0;0.0;0.0;0.0;0.0;0.3;0.7;50.0;0.400;0.20
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Ed Davis;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Kevin Pangos;0.0;1.0;0.0;0.0;0.5;0.0;0.0;0.0;0.0;0.0;0.5;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Brandon Goodwin;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Total;43.0;90.3;47.6;17.3;42.8;40.4;14.5;17.0;85.3;25.8;47.5;54.2;1.305;0.57
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Atlanta Hawks;Darius Garland;9.5;21.5;44.2;2.5;7.0;35.7;2.5;3.5;71.4;7.0;14.5;48.3;1.116;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Atlanta Hawks;Ricky Rubio;9.0;15.0;60.0;3.0;7.0;42.9;2.0;2.0;100.0;6.0;8.0;75.0;1.533;0.70
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Atlanta Hawks;Kevin Love;5.8;13.3;43.4;3.8;9.0;41.7;3.8;4.5;83.3;2.0;4.3;47.1;1.434;0.58
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Atlanta Hawks;Evan Mobley;8.0;13.3;60.0;0.0;1.3;0.0;2.3;3.0;77.8;8.0;12.0;66.7;1.375;0.60
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Atlanta Hawks;Jarrett Allen;6.7;9.3;71.4;0.0;0.0;0.0;2.0;3.7;54.5;6.7;9.3;71.4;1.643;0.71
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Atlanta Hawks;Moses Brown;5.0;7.0;71.4;0.0;0.0;0.0;5.0;6.0;83.3;5.0;7.0;71.4;2.143;0.71
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Atlanta Hawks;Brandon Goodwin;5.0;8.5;58.8;0.0;1.0;0.0;2.0;3.0;66.7;5.0;7.5;66.7;1.412;0.59
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Atlanta Hawks;Collin Sexton;5.0;14.0;35.7;0.0;2.0;0.0;2.0;4.0;50.0;5.0;12.0;41.7;0.857;0.36
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Atlanta Hawks;Cedi Osman;3.7;8.0;45.8;2.0;5.7;35.3;1.3;2.0;66.7;1.7;2.3;71.4;1.333;0.58
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Atlanta Hawks;Lauri Markkanen;3.3;11.0;30.3;0.7;4.0;16.7;2.0;2.3;85.7;2.7;7.0;38.1;0.848;0.33
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Atlanta Hawks;Caris LeVert;4.0;10.5;38.1;0.5;3.5;14.3;0.5;0.5;100.0;3.5;7.0;50.0;0.857;0.40
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Atlanta Hawks;Kevin Pangos;4.0;9.0;44.4;0.0;4.0;0.0;0.0;0.0;0.0;4.0;5.0;80.0;0.889;0.44
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Atlanta Hawks;Isaac Okoro;2.8;4.5;61.1;1.0;1.5;66.7;1.3;2.3;55.6;1.8;3.0;58.3;1.722;0.72
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Atlanta Hawks;Lamar Stevens;2.5;8.0;31.3;0.0;2.0;0.0;1.5;2.0;75.0;2.5;6.0;41.7;0.813;0.31
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Atlanta Hawks;Dean Wade;1.5;2.5;60.0;1.0;1.5;66.7;0.0;0.0;0.0;0.5;1.0;50.0;1.600;0.80
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Atlanta Hawks;Dylan Windler;1.0;3.5;28.6;0.0;2.5;0.0;0.5;0.5;100.0;1.0;1.0;100.0;0.714;0.29
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Atlanta Hawks;Rajon Rondo;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Atlanta Hawks;Ed Davis;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Atlanta Hawks;Total;42.3;87.8;48.1;9.5;31.0;30.6;16.5;22.8;72.5;32.8;56.8;57.7;1.259;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Charlotte Hornets;Collin Sexton;9.0;19.0;47.4;1.5;6.0;25.0;5.5;6.5;84.6;7.5;13.0;57.7;1.316;0.51
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Charlotte Hornets;Darius Garland;9.0;17.5;51.4;3.0;8.0;37.5;3.5;5.5;63.6;6.0;9.5;63.2;1.400;0.60
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Charlotte Hornets;Jarrett Allen;8.3;12.0;68.8;0.0;0.0;0.0;4.0;5.5;72.7;8.3;12.0;68.8;1.708;0.69
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Charlotte Hornets;Lauri Markkanen;5.0;13.3;37.5;2.0;6.3;31.6;3.3;4.0;83.3;3.0;7.0;42.9;1.150;0.45
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Charlotte Hornets;Kevin Love;3.7;10.3;35.5;2.3;6.7;35.0;3.0;3.7;81.8;1.3;3.7;36.4;1.226;0.47
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Charlotte Hornets;Evan Mobley;4.8;11.0;43.2;0.0;0.8;0.0;1.8;2.5;70.0;4.8;10.3;46.3;1.023;0.43
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Charlotte Hornets;Ricky Rubio;3.0;9.5;31.6;2.0;4.0;50.0;2.0;3.0;66.7;1.0;5.5;18.2;1.053;0.42
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Charlotte Hornets;Cedi Osman;3.3;6.8;48.1;2.0;4.5;44.4;0.5;1.0;50.0;1.3;2.3;55.6;1.333;0.63
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Charlotte Hornets;Isaac Okoro;2.7;6.0;44.4;0.3;2.7;12.5;1.0;1.3;75.0;2.3;3.3;70.0;1.111;0.47
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Charlotte Hornets;Brandon Goodwin;2.0;7.5;26.7;2.0;4.5;44.4;0.0;0.0;0.0;0.0;3.0;0.0;0.800;0.40
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Charlotte Hornets;Dean Wade;1.3;2.5;50.0;0.8;1.8;42.9;0.5;0.8;66.7;0.5;0.8;66.7;1.500;0.65
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Charlotte Hornets;Rajon Rondo;1.0;5.0;20.0;0.0;1.0;0.0;0.0;0.0;0.0;1.0;4.0;25.0;0.400;0.20
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Charlotte Hornets;Lamar Stevens;0.7;1.7;40.0;0.0;0.7;0.0;0.7;1.0;66.7;0.7;1.0;66.7;1.200;0.40
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Charlotte Hornets;RJ Nembhard Jr.;1.0;2.5;40.0;0.0;0.5;0.0;0.0;0.0;0.0;1.0;2.0;50.0;0.800;0.40
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Charlotte Hornets;Ed Davis;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Charlotte Hornets;Tim Frazier;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Charlotte Hornets;Kevin Pangos;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Charlotte Hornets;Denzel Valentine;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Charlotte Hornets;Tacko Fall;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Charlotte Hornets;Dylan Windler;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Charlotte Hornets;Total;38.8;85.8;45.2;10.5;31.3;33.6;18.3;24.8;73.7;28.3;54.5;51.8;1.239;0.51
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Miami Heat;Kevin Love;5.3;8.0;66.7;4.0;6.0;66.7;4.0;4.0;100.0;1.3;2.0;66.7;2.333;0.92
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Miami Heat;Darius Garland;5.0;15.3;32.6;2.7;7.0;38.1;6.0;6.3;94.7;2.3;8.3;28.0;1.217;0.41
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Miami Heat;Jarrett Allen;6.5;7.0;92.9;0.0;0.0;0.0;5.0;5.0;100.0;6.5;7.0;92.9;2.571;0.93
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Miami Heat;Evan Mobley;5.0;11.0;45.5;0.7;1.0;66.7;4.3;5.0;86.7;4.3;10.0;43.3;1.364;0.48
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Miami Heat;Isaac Okoro;5.0;8.7;57.7;1.7;3.3;50.0;0.7;0.7;100.0;3.3;5.3;62.5;1.423;0.67
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Miami Heat;Lauri Markkanen;4.3;11.0;39.4;1.7;6.0;27.8;0.7;1.0;66.7;2.7;5.0;53.3;1.000;0.47
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Miami Heat;Lamar Stevens;2.7;6.0;44.4;1.0;2.0;50.0;0.3;0.3;100.0;1.7;4.0;41.7;1.111;0.53
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Miami Heat;Ricky Rubio;2.0;7.0;28.6;0.5;3.5;14.3;2.0;2.5;80.0;1.5;3.5;42.9;0.929;0.32
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Miami Heat;Dean Wade;2.0;4.0;50.0;0.0;1.0;0.0;1.0;1.0;100.0;2.0;3.0;66.7;1.250;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Miami Heat;Cedi Osman;1.5;5.5;27.3;1.0;3.0;33.3;0.0;0.0;0.0;0.5;2.5;20.0;0.727;0.36
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Miami Heat;Rajon Rondo;1.0;2.0;50.0;1.0;1.0;100.0;0.0;0.0;0.0;0.0;1.0;0.0;1.500;0.75
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Miami Heat;Denzel Valentine;1.0;1.0;100.0;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;3.000;1.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Miami Heat;Brandon Goodwin;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Miami Heat;RJ Nembhard Jr.;0.0;0.0;0.0;0.0;0.0;0.0;2.0;2.0;100.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Miami Heat;Moses Brown;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Miami Heat;Ed Davis;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Miami Heat;Kevin Pangos;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Miami Heat;Dylan Windler;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Miami Heat;Total;36.0;76.0;47.4;13.3;30.7;43.5;21.7;23.3;92.9;22.7;45.3;50.0;1.408;0.56
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Orlando Magic;Darius Garland;9.7;20.7;46.8;3.3;7.7;43.5;3.3;4.3;76.9;6.3;13.0;48.7;1.258;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Orlando Magic;Lauri Markkanen;7.0;14.7;47.7;4.3;9.7;44.8;3.3;3.3;100.0;2.7;5.0;53.3;1.477;0.63
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Orlando Magic;Jarrett Allen;8.0;9.0;88.9;0.0;0.0;0.0;3.0;4.0;75.0;8.0;9.0;88.9;2.111;0.89
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Orlando Magic;Kevin Love;5.0;11.3;44.1;2.7;8.0;33.3;1.0;1.0;100.0;2.3;3.3;70.0;1.206;0.56
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Orlando Magic;Cedi Osman;3.5;9.0;38.9;2.5;5.5;45.5;1.0;1.0;100.0;1.0;3.5;28.6;1.167;0.53
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Orlando Magic;Caris LeVert;4.0;11.5;34.8;0.0;2.5;0.0;1.5;2.0;75.0;4.0;9.0;44.4;0.826;0.35
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Orlando Magic;Evan Mobley;4.0;7.5;53.3;1.0;2.0;50.0;0.5;2.0;25.0;3.0;5.5;54.5;1.267;0.60
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Orlando Magic;Isaac Okoro;3.0;6.3;47.4;0.7;2.0;33.3;1.0;1.7;60.0;2.3;4.3;53.8;1.211;0.53
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Orlando Magic;Moses Brown;3.0;4.5;66.7;0.0;0.0;0.0;1.0;2.0;50.0;3.0;4.5;66.7;1.556;0.67
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Orlando Magic;Ricky Rubio;1.0;6.0;16.7;1.0;5.0;20.0;2.0;2.0;100.0;0.0;1.0;0.0;0.833;0.25
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Orlando Magic;Dylan Windler;1.0;4.0;25.0;0.0;2.0;0.0;3.0;4.0;75.0;1.0;2.0;50.0;1.250;0.25
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Orlando Magic;Lamar Stevens;1.7;3.7;45.5;0.0;1.0;0.0;0.7;0.7;100.0;1.7;2.7;62.5;1.091;0.45
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Orlando Magic;Rajon Rondo;1.0;3.0;33.3;1.0;2.0;50.0;0.0;0.0;0.0;0.0;1.0;0.0;1.000;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Orlando Magic;Brandon Goodwin;1.0;2.0;50.0;1.0;2.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.500;0.75
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Orlando Magic;Total;40.0;86.3;46.3;14.3;38.7;37.1;14.7;19.0;77.2;25.7;47.7;53.8;1.263;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Washington Wizards;Darius Garland;9.5;16.5;57.6;4.0;8.0;50.0;2.5;2.5;100.0;5.5;8.5;64.7;1.545;0.70
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Washington Wizards;Jarrett Allen;8.7;11.7;74.3;0.0;0.0;0.0;2.3;4.0;58.3;8.7;11.7;74.3;1.686;0.74
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Washington Wizards;Lauri Markkanen;5.0;14.0;35.7;3.7;8.3;44.0;2.7;3.0;88.9;1.3;5.7;23.5;1.167;0.49
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Washington Wizards;Evan Mobley;6.5;15.3;42.6;0.3;1.5;16.7;1.8;2.3;77.8;6.3;13.8;45.5;0.984;0.43
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Washington Wizards;Cedi Osman;5.0;9.5;52.6;1.5;4.5;33.3;2.5;4.0;62.5;3.5;5.0;70.0;1.474;0.61
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Washington Wizards;Kevin Love;4.0;11.3;35.3;1.7;6.3;26.3;4.0;4.7;85.7;2.3;5.0;46.7;1.206;0.43
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Washington Wizards;Ricky Rubio;4.5;13.0;34.6;1.0;4.0;25.0;3.5;4.5;77.8;3.5;9.0;38.9;1.038;0.38
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Washington Wizards;Brandon Goodwin;2.0;11.0;18.2;0.0;4.0;0.0;4.0;5.0;80.0;2.0;7.0;28.6;0.727;0.18
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Washington Wizards;Malik Newman;3.0;5.0;60.0;0.0;1.0;0.0;2.0;2.0;100.0;3.0;4.0;75.0;1.600;0.60
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Washington Wizards;Isaac Okoro;2.0;5.5;36.4;0.8;1.8;42.9;2.0;2.5;80.0;1.3;3.8;33.3;1.227;0.43
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Washington Wizards;Lamar Stevens;2.0;4.7;42.9;0.7;1.3;50.0;1.0;1.7;60.0;1.3;3.3;40.0;1.214;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Washington Wizards;Dylan Windler;1.0;2.3;42.9;0.7;1.7;40.0;0.0;0.0;0.0;0.3;0.7;50.0;1.143;0.57
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Washington Wizards;Dean Wade;1.0;2.7;37.5;0.3;1.7;20.0;0.0;0.3;0.0;0.7;1.0;66.7;0.875;0.44
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Washington Wizards;RJ Nembhard Jr.;0.5;2.5;20.0;0.0;0.5;0.0;0.5;1.0;50.0;0.5;2.0;25.0;0.600;0.20
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Washington Wizards;Kevin Pangos;0.5;4.0;12.5;0.0;1.5;0.0;0.0;0.0;0.0;0.5;2.5;20.0;0.250;0.13
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Washington Wizards;Ed Davis;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Washington Wizards;Denzel Valentine;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Washington Wizards;Tacko Fall;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Washington Wizards;Total;36.0;82.8;43.5;9.5;28.5;33.3;17.3;23.3;74.2;26.5;54.3;48.8;1.193;0.49
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Denver Nuggets;Lauri Markkanen;7.5;15.0;50.0;4.0;10.0;40.0;2.5;3.0;83.3;3.5;5.0;70.0;1.433;0.63
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Denver Nuggets;Jarrett Allen;10.0;11.0;90.9;0.0;0.0;0.0;1.0;3.0;33.3;10.0;11.0;90.9;1.909;0.91
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Denver Nuggets;Evan Mobley;7.5;15.0;50.0;0.0;1.5;0.0;3.5;4.5;77.8;7.5;13.5;55.6;1.233;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Denver Nuggets;Kevin Love;6.0;11.0;54.5;2.5;6.5;38.5;2.5;2.5;100.0;3.5;4.5;77.8;1.545;0.66
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Denver Nuggets;Darius Garland;6.5;14.5;44.8;1.5;3.5;42.9;2.5;3.5;71.4;5.0;11.0;45.5;1.172;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Denver Nuggets;Collin Sexton;4.0;11.0;36.4;3.0;5.0;60.0;3.0;4.0;75.0;1.0;6.0;16.7;1.273;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Denver Nuggets;Caris LeVert;3.0;11.0;27.3;2.0;3.0;66.7;2.0;4.0;50.0;1.0;8.0;12.5;0.909;0.36
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Denver Nuggets;Ricky Rubio;2.0;10.0;20.0;0.0;3.0;0.0;3.0;4.0;75.0;2.0;7.0;28.6;0.700;0.20
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Denver Nuggets;Lamar Stevens;2.0;4.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;4.0;50.0;1.000;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Denver Nuggets;Isaac Okoro;2.0;6.5;30.8;0.0;1.5;0.0;0.0;0.0;0.0;2.0;5.0;40.0;0.615;0.31
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Denver Nuggets;Dylan Windler;0.0;1.0;0.0;0.0;1.0;0.0;1.0;1.0;100.0;0.0;0.0;0.0;1.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Denver Nuggets;Kevin Pangos;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Denver Nuggets;Denzel Valentine;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Denver Nuggets;Brandon Goodwin;0.0;1.0;0.0;0.0;1.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Denver Nuggets;Cedi Osman;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Denver Nuggets;Dean Wade;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Denver Nuggets;Moses Brown;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Denver Nuggets;Total;41.0;90.0;45.6;10.5;31.0;33.9;16.5;23.0;71.7;30.5;59.0;51.7;1.211;0.51
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Kevin Love;5.5;12.0;45.8;4.0;8.5;47.1;7.0;7.0;100.0;1.5;3.5;42.9;1.833;0.63
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Jarrett Allen;9.0;10.5;85.7;0.0;0.0;0.0;3.0;3.5;85.7;9.0;10.5;85.7;2.000;0.86
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Brandon Goodwin;7.0;13.0;53.8;2.0;4.0;50.0;1.0;1.0;100.0;5.0;9.0;55.6;1.308;0.62
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Cedi Osman;5.0;9.5;52.6;3.0;6.0;50.0;4.0;5.0;80.0;2.0;3.5;57.1;1.789;0.68
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Lauri Markkanen;4.5;7.5;60.0;2.5;5.5;45.5;3.0;4.0;75.0;2.0;2.0;100.0;1.933;0.77
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Evan Mobley;5.0;9.0;55.6;0.5;2.0;25.0;2.5;3.0;83.3;4.5;7.0;64.3;1.444;0.58
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Darius Garland;5.0;10.0;50.0;2.0;5.0;40.0;0.0;0.0;0.0;3.0;5.0;60.0;1.200;0.60
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Isaac Okoro;4.0;7.5;53.3;1.0;3.0;33.3;2.0;2.5;80.0;3.0;4.5;66.7;1.467;0.60
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Ricky Rubio;2.0;9.0;22.2;1.0;4.0;25.0;1.0;2.0;50.0;1.0;5.0;20.0;0.667;0.28
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Kevin Pangos;2.0;4.0;50.0;1.0;3.0;33.3;0.0;0.0;0.0;1.0;1.0;100.0;1.250;0.63
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Tim Frazier;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Tacko Fall;1.0;3.0;33.3;0.0;0.0;0.0;0.0;1.0;0.0;1.0;3.0;33.3;0.667;0.33
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Lamar Stevens;0.5;2.0;25.0;0.0;0.5;0.0;1.0;1.0;100.0;0.5;1.5;33.3;1.000;0.25
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Denzel Valentine;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Dean Wade;0.0;1.5;0.0;0.0;1.5;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Total;42.5;79.5;53.5;14.0;35.0;40.0;23.5;28.0;83.9;28.5;44.5;64.0;1.541;0.62
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Darius Garland;10.0;20.0;50.0;1.0;5.5;18.2;4.0;4.0;100.0;9.0;14.5;62.1;1.250;0.53
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Evan Mobley;7.0;13.0;53.8;0.5;1.0;50.0;3.0;5.5;54.5;6.5;12.0;54.2;1.346;0.56
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Jarrett Allen;5.5;9.0;61.1;0.0;0.0;0.0;2.5;7.0;35.7;5.5;9.0;61.1;1.500;0.61
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Lauri Markkanen;3.5;7.0;50.0;2.5;5.0;50.0;1.0;1.0;100.0;1.0;2.0;50.0;1.500;0.68
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Kevin Love;3.0;7.5;40.0;1.5;5.5;27.3;2.0;3.5;57.1;1.5;2.0;75.0;1.267;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Isaac Okoro;2.0;5.5;36.4;0.0;3.0;0.0;3.5;4.0;87.5;2.0;2.5;80.0;1.364;0.36
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Cedi Osman;2.0;5.5;36.4;0.5;3.5;14.3;1.5;2.5;60.0;1.5;2.0;75.0;1.091;0.41
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Lamar Stevens;2.5;5.0;50.0;0.5;2.0;25.0;0.0;0.0;0.0;2.0;3.0;66.7;1.100;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Dylan Windler;1.0;3.0;33.3;1.0;3.0;33.3;0.0;0.0;0.0;0.0;0.0;0.0;1.000;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Dean Wade;1.0;3.0;33.3;0.0;2.0;0.0;1.0;5.0;20.0;1.0;1.0;100.0;1.000;0.33
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Brandon Goodwin;0.5;4.5;11.1;0.0;1.5;0.0;0.0;0.0;0.0;0.5;3.0;16.7;0.222;0.11
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Total;37.5;81.5;46.0;7.5;31.0;24.2;18.0;30.0;60.0;30.0;50.5;59.4;1.233;0.51
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Darius Garland;8.0;13.0;61.5;5.0;7.0;71.4;1.5;1.5;100.0;3.0;6.0;50.0;1.731;0.81
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Collin Sexton;8.0;13.0;61.5;2.0;4.0;50.0;3.0;3.0;100.0;6.0;9.0;66.7;1.615;0.69
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Jarrett Allen;7.0;10.5;66.7;0.0;0.5;0.0;4.5;6.5;69.2;7.0;10.0;70.0;1.762;0.67
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Lauri Markkanen;4.0;9.0;44.4;2.0;6.0;33.3;5.0;6.0;83.3;2.0;3.0;66.7;1.667;0.56
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Evan Mobley;6.0;12.5;48.0;0.0;0.5;0.0;2.5;5.0;50.0;6.0;12.0;50.0;1.160;0.48
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Cedi Osman;4.5;8.0;56.3;4.0;7.0;57.1;0.0;0.0;0.0;0.5;1.0;50.0;1.625;0.81
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Rajon Rondo;2.0;9.0;22.2;2.0;8.0;25.0;5.0;6.0;83.3;0.0;1.0;0.0;1.222;0.33
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Dylan Windler;3.0;3.5;85.7;2.5;2.5;100.0;1.0;1.0;100.0;0.5;1.0;50.0;2.714;1.21
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Kevin Love;3.0;9.0;33.3;2.0;6.0;33.3;0.0;2.0;0.0;1.0;3.0;33.3;0.889;0.44
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Dean Wade;3.0;7.0;42.9;1.0;4.0;25.0;0.0;0.0;0.0;2.0;3.0;66.7;1.000;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Lamar Stevens;1.0;5.0;20.0;0.0;2.0;0.0;1.0;2.0;50.0;1.0;3.0;33.3;0.600;0.20
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Ricky Rubio;0.0;7.0;0.0;0.0;4.0;0.0;0.0;0.0;0.0;0.0;3.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Total;39.0;77.0;50.6;16.0;34.5;46.4;16.5;23.5;70.2;23.0;42.5;54.1;1.435;0.61
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Utah Jazz;Darius Garland;7.0;15.0;46.7;3.0;8.0;37.5;4.0;4.0;100.0;4.0;7.0;57.1;1.400;0.57
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Utah Jazz;Ricky Rubio;6.0;11.0;54.5;2.0;6.0;33.3;1.0;2.0;50.0;4.0;5.0;80.0;1.364;0.64
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Utah Jazz;Jarrett Allen;6.0;9.5;63.2;0.0;0.0;0.0;2.5;2.5;100.0;6.0;9.5;63.2;1.526;0.63
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Utah Jazz;Lauri Markkanen;6.0;10.5;57.1;2.5;5.0;50.0;0.0;0.5;0.0;3.5;5.5;63.6;1.381;0.69
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Utah Jazz;Evan Mobley;6.5;12.0;54.2;0.5;1.0;50.0;1.0;2.0;50.0;6.0;11.0;54.5;1.208;0.56
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Utah Jazz;Lamar Stevens;5.5;8.5;64.7;0.5;1.5;33.3;1.0;1.0;100.0;5.0;7.0;71.4;1.471;0.68
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Utah Jazz;Kevin Love;3.0;8.0;37.5;1.5;4.5;33.3;2.0;2.0;100.0;1.5;3.5;42.9;1.188;0.47
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Utah Jazz;Cedi Osman;3.5;9.5;36.8;1.5;6.0;25.0;1.0;2.0;50.0;2.0;3.5;57.1;1.000;0.45
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Utah Jazz;Isaac Okoro;2.0;9.0;22.2;2.0;7.0;28.6;0.0;0.0;0.0;0.0;2.0;0.0;0.667;0.33
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Utah Jazz;Brandon Goodwin;1.0;3.0;33.3;1.0;1.0;100.0;0.0;0.0;0.0;0.0;2.0;0.0;1.000;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Utah Jazz;Dylan Windler;1.0;2.0;50.0;1.0;2.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.500;0.75
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Utah Jazz;Kevin Pangos;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Utah Jazz;Dean Wade;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Utah Jazz;RJ Nembhard Jr.;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Utah Jazz;Total;42.5;86.0;49.4;12.5;34.0;36.8;12.0;15.0;80.0;30.0;52.0;57.7;1.273;0.57
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Golden State Warriors;Dean Wade;7.0;13.0;53.8;3.0;6.0;50.0;0.0;0.0;0.0;4.0;7.0;57.1;1.308;0.65
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Golden State Warriors;Lamar Stevens;8.0;11.0;72.7;0.0;0.0;0.0;1.0;1.0;100.0;8.0;11.0;72.7;1.545;0.73
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Golden State Warriors;Darius Garland;6.5;17.0;38.2;3.0;9.0;33.3;1.0;1.5;66.7;3.5;8.0;43.8;1.000;0.47
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Golden State Warriors;Rajon Rondo;6.0;10.0;60.0;3.0;3.0;100.0;0.0;0.0;0.0;3.0;7.0;42.9;1.500;0.75
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Golden State Warriors;Jarrett Allen;5.0;7.0;71.4;0.0;0.0;0.0;2.0;4.0;50.0;5.0;7.0;71.4;1.714;0.71
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Golden State Warriors;Evan Mobley;5.0;12.0;41.7;0.0;1.0;0.0;1.0;3.0;33.3;5.0;11.0;45.5;0.917;0.42
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Golden State Warriors;Ricky Rubio;4.0;15.0;26.7;1.0;5.0;20.0;1.0;2.0;50.0;3.0;10.0;30.0;0.667;0.30
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Golden State Warriors;Isaac Okoro;4.0;10.0;40.0;0.0;4.0;0.0;2.0;4.0;50.0;4.0;6.0;66.7;1.000;0.40
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Golden State Warriors;Kevin Love;3.0;9.5;31.6;2.0;7.0;28.6;1.5;1.5;100.0;1.0;2.5;40.0;1.000;0.42
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Golden State Warriors;Lauri Markkanen;2.0;6.0;33.3;1.0;3.0;33.3;4.0;4.0;100.0;1.0;3.0;33.3;1.500;0.42
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Golden State Warriors;Ed Davis;3.0;3.0;100.0;0.0;0.0;0.0;1.0;2.0;50.0;3.0;3.0;100.0;2.333;1.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Golden State Warriors;Cedi Osman;1.0;6.0;16.7;0.0;2.0;0.0;2.0;4.0;50.0;1.0;4.0;25.0;0.667;0.17
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Golden State Warriors;Denzel Valentine;1.0;4.0;25.0;0.0;2.0;0.0;0.0;0.0;0.0;1.0;2.0;50.0;0.500;0.25
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Golden State Warriors;Dylan Windler;0.5;2.5;20.0;0.5;2.5;20.0;0.0;0.0;0.0;0.0;0.0;0.0;0.600;0.30
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Golden State Warriors;Kevin Pangos;0.0;0.0;0.0;0.0;0.0;0.0;1.0;2.0;50.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Golden State Warriors;Tacko Fall;0.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Golden State Warriors;RJ Nembhard Jr.;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Golden State Warriors;Total;33.0;77.5;42.6;9.5;31.5;30.2;10.0;17.0;58.8;23.5;46.0;51.1;1.103;0.49
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. LA Clippers;Collin Sexton;12.0;20.0;60.0;0.0;4.0;0.0;2.0;3.0;66.7;12.0;16.0;75.0;1.300;0.60
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. LA Clippers;Evan Mobley;8.0;16.0;50.0;0.5;1.5;33.3;4.5;6.0;75.0;7.5;14.5;51.7;1.313;0.52
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. LA Clippers;Darius Garland;6.5;14.5;44.8;3.0;6.0;50.0;4.0;4.0;100.0;3.5;8.5;41.2;1.379;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. LA Clippers;Isaac Okoro;4.0;6.0;66.7;1.0;1.0;100.0;11.0;13.0;84.6;3.0;5.0;60.0;3.333;0.75
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. LA Clippers;Ricky Rubio;6.0;13.0;46.2;0.0;3.0;0.0;3.0;3.0;100.0;6.0;10.0;60.0;1.154;0.46
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. LA Clippers;Lauri Markkanen;3.5;8.0;43.8;2.0;5.0;40.0;3.0;3.5;85.7;1.5;3.0;50.0;1.500;0.56
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. LA Clippers;Kevin Love;3.0;10.0;30.0;2.0;4.5;44.4;3.5;4.5;77.8;1.0;5.5;18.2;1.150;0.40
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. LA Clippers;Caris LeVert;5.0;10.0;50.0;1.0;2.0;50.0;0.0;0.0;0.0;4.0;8.0;50.0;1.100;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. LA Clippers;Jarrett Allen;2.0;7.0;28.6;0.0;1.0;0.0;0.0;2.0;0.0;2.0;6.0;33.3;0.571;0.29
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. LA Clippers;Lamar Stevens;1.5;5.5;27.3;0.5;1.5;33.3;0.0;0.0;0.0;1.0;4.0;25.0;0.636;0.32
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. LA Clippers;Ed Davis;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. LA Clippers;Kevin Pangos;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. LA Clippers;Denzel Valentine;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. LA Clippers;Brandon Goodwin;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. LA Clippers;Cedi Osman;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. LA Clippers;Dylan Windler;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. LA Clippers;Total;37.0;83.5;44.3;9.0;25.0;36.0;23.0;29.5;78.0;28.0;58.5;47.9;1.269;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Darius Garland;8.0;18.5;43.2;2.5;8.5;29.4;5.0;5.5;90.9;5.5;10.0;55.0;1.270;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Ricky Rubio;6.0;15.0;40.0;3.0;8.0;37.5;3.0;3.0;100.0;3.0;7.0;42.9;1.200;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Evan Mobley;8.0;13.5;59.3;0.5;1.5;33.3;1.5;3.0;50.0;7.5;12.0;62.5;1.333;0.61
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Lauri Markkanen;6.5;13.0;50.0;3.5;9.0;38.9;1.0;1.0;100.0;3.0;4.0;75.0;1.346;0.63
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Caris LeVert;4.0;7.0;57.1;1.0;3.0;33.3;4.0;4.0;100.0;3.0;4.0;75.0;1.857;0.64
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Isaac Okoro;4.0;4.0;100.0;4.0;4.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;3.000;1.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Lamar Stevens;4.5;9.5;47.4;0.5;0.5;100.0;0.0;0.5;0.0;4.0;9.0;44.4;1.000;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Collin Sexton;2.0;9.0;22.2;0.0;2.0;0.0;5.0;6.0;83.3;2.0;7.0;28.6;1.000;0.22
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Kevin Love;2.5;7.5;33.3;1.0;5.0;20.0;0.0;0.0;0.0;1.5;2.5;60.0;0.800;0.40
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Jarrett Allen;2.0;3.0;66.7;0.0;0.0;0.0;2.0;4.0;50.0;2.0;3.0;66.7;2.000;0.67
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Cedi Osman;2.0;7.0;28.6;1.0;6.0;16.7;0.0;0.0;0.0;1.0;1.0;100.0;0.714;0.36
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Denzel Valentine;1.0;2.0;50.0;1.0;1.0;100.0;0.0;0.0;0.0;0.0;1.0;0.0;1.500;0.75
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Brandon Goodwin;1.0;1.0;100.0;0.0;0.0;0.0;1.0;1.0;100.0;1.0;1.0;100.0;3.000;1.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Moses Brown;1.0;1.0;100.0;0.0;0.0;0.0;1.0;3.0;33.3;1.0;1.0;100.0;3.000;1.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Ed Davis;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Dylan Windler;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Dean Wade;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Los Angeles Lakers;RJ Nembhard Jr.;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Total;41.0;86.5;47.4;13.0;36.5;35.6;15.5;20.5;75.6;28.0;50.0;56.0;1.277;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Phoenix Suns;Cedi Osman;8.0;15.0;53.3;5.5;9.5;57.9;0.0;0.0;0.0;2.5;5.5;45.5;1.433;0.72
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Phoenix Suns;Darius Garland;6.5;15.0;43.3;0.5;5.5;9.1;1.5;2.5;60.0;6.0;9.5;63.2;1.000;0.45
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Phoenix Suns;Jarrett Allen;5.5;6.5;84.6;0.0;0.0;0.0;3.5;4.5;77.8;5.5;6.5;84.6;2.231;0.85
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Phoenix Suns;Kevin Love;4.5;10.5;42.9;2.0;5.5;36.4;1.5;1.5;100.0;2.5;5.0;50.0;1.190;0.52
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Phoenix Suns;Lauri Markkanen;4.0;9.0;44.4;2.0;5.5;36.4;2.5;2.5;100.0;2.0;3.5;57.1;1.389;0.56
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Phoenix Suns;Ricky Rubio;4.0;17.5;22.9;2.0;7.0;28.6;1.5;3.0;50.0;2.0;10.5;19.0;0.657;0.29
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Phoenix Suns;Collin Sexton;4.0;7.0;57.1;0.0;2.0;0.0;2.0;3.0;66.7;4.0;5.0;80.0;1.429;0.57
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Phoenix Suns;Dylan Windler;4.0;8.0;50.0;0.0;3.0;0.0;0.0;0.0;0.0;4.0;5.0;80.0;1.000;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Phoenix Suns;Isaac Okoro;2.0;8.0;25.0;1.0;4.0;25.0;0.0;1.0;0.0;1.0;4.0;25.0;0.625;0.31
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Phoenix Suns;Dean Wade;1.0;3.5;28.6;0.5;3.0;16.7;0.0;0.0;0.0;0.5;0.5;100.0;0.714;0.36
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Phoenix Suns;Lamar Stevens;1.0;2.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;2.0;50.0;1.000;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Phoenix Suns;Evan Mobley;1.0;6.0;16.7;0.0;1.0;0.0;0.0;0.0;0.0;1.0;5.0;20.0;0.333;0.17
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Phoenix Suns;Denzel Valentine;0.0;1.5;0.0;0.0;0.5;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Phoenix Suns;Total;39.5;94.0;42.0;13.0;41.5;31.3;11.5;16.0;71.9;26.5;52.5;50.5;1.101;0.49
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Sacramento Kings;Isaac Okoro;7.0;9.0;77.8;2.0;3.0;66.7;4.0;4.0;100.0;5.0;6.0;83.3;2.222;0.89
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Sacramento Kings;Jarrett Allen;6.5;11.0;59.1;0.0;1.0;0.0;5.5;6.0;91.7;6.5;10.0;65.0;1.682;0.59
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Sacramento Kings;Cedi Osman;5.5;12.5;44.0;3.0;8.0;37.5;2.5;3.5;71.4;2.5;4.5;55.6;1.320;0.56
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Sacramento Kings;Evan Mobley;7.5;14.0;53.6;0.0;0.5;0.0;1.0;1.5;66.7;7.5;13.5;55.6;1.143;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Sacramento Kings;Ricky Rubio;4.0;9.0;44.4;2.0;3.0;66.7;5.0;6.0;83.3;2.0;6.0;33.3;1.667;0.56
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Sacramento Kings;Kevin Love;4.5;10.0;45.0;2.5;6.5;38.5;3.0;3.5;85.7;2.0;3.5;57.1;1.450;0.58
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Sacramento Kings;Darius Garland;6.0;15.0;40.0;1.0;6.0;16.7;1.0;1.0;100.0;5.0;9.0;55.6;0.933;0.43
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Sacramento Kings;Lauri Markkanen;3.5;11.0;31.8;1.5;5.5;27.3;0.5;1.0;50.0;2.0;5.5;36.4;0.818;0.39
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Sacramento Kings;Lamar Stevens;4.0;5.0;80.0;1.0;1.0;100.0;0.0;0.0;0.0;3.0;4.0;75.0;1.800;0.90
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Sacramento Kings;Rajon Rondo;2.0;5.0;40.0;1.0;3.0;33.3;0.0;0.0;0.0;1.0;2.0;50.0;1.000;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Sacramento Kings;Dylan Windler;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Sacramento Kings;Dean Wade;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Sacramento Kings;Total;42.0;87.5;48.0;11.0;32.5;33.8;18.0;21.5;83.7;31.0;55.0;56.4;1.291;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Dallas Mavericks;Caris LeVert;11.0;19.0;57.9;3.0;4.0;75.0;7.0;8.0;87.5;8.0;15.0;53.3;1.684;0.66
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Dallas Mavericks;Jarrett Allen;12.0;17.0;70.6;0.0;0.0;0.0;4.0;6.0;66.7;12.0;17.0;70.6;1.647;0.71
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Dallas Mavericks;Darius Garland;8.5;15.0;56.7;2.5;3.5;71.4;2.0;2.5;80.0;6.0;11.5;52.2;1.433;0.65
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Dallas Mavericks;Lauri Markkanen;7.0;13.5;51.9;3.0;7.5;40.0;1.5;1.5;100.0;4.0;6.0;66.7;1.370;0.63
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Dallas Mavericks;Moses Brown;5.0;5.0;100.0;0.0;0.0;0.0;2.0;4.0;50.0;5.0;5.0;100.0;2.400;1.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Dallas Mavericks;Evan Mobley;5.0;10.0;50.0;0.0;2.0;0.0;2.0;3.0;66.7;5.0;8.0;62.5;1.200;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Dallas Mavericks;Lamar Stevens;3.5;5.0;70.0;0.0;0.0;0.0;2.5;3.0;83.3;3.5;5.0;70.0;1.900;0.70
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Dallas Mavericks;Kevin Love;3.0;7.0;42.9;2.0;4.5;44.4;1.0;1.0;100.0;1.0;2.5;40.0;1.286;0.57
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Dallas Mavericks;Ricky Rubio;3.0;11.0;27.3;1.0;1.0;100.0;0.0;0.0;0.0;2.0;10.0;20.0;0.636;0.32
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Dallas Mavericks;Isaac Okoro;2.5;5.5;45.5;0.5;2.0;25.0;0.5;0.5;100.0;2.0;3.5;57.1;1.091;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Dallas Mavericks;Brandon Goodwin;1.0;5.0;20.0;1.0;2.0;50.0;1.0;2.0;50.0;0.0;3.0;0.0;0.800;0.30
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Dallas Mavericks;Ed Davis;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Dallas Mavericks;Kevin Pangos;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Dallas Mavericks;Denzel Valentine;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Dallas Mavericks;Dylan Windler;0.0;0.5;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Dallas Mavericks;RJ Nembhard Jr.;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Dallas Mavericks;Total;43.5;81.5;53.4;10.5;22.0;47.7;15.5;20.0;77.5;33.0;59.5;55.5;1.387;0.60
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Houston Rockets;Evan Mobley;12.0;20.0;60.0;0.0;1.0;0.0;5.0;9.0;55.6;12.0;19.0;63.2;1.450;0.60
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Houston Rockets;Darius Garland;7.0;11.0;63.6;3.0;6.0;50.0;4.0;4.0;100.0;4.0;5.0;80.0;1.909;0.77
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Houston Rockets;Kevin Love;6.0;13.0;46.2;2.0;6.0;33.3;4.0;4.5;88.9;4.0;7.0;57.1;1.385;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Houston Rockets;Isaac Okoro;6.0;8.0;75.0;2.0;2.0;100.0;1.5;2.0;75.0;4.0;6.0;66.7;1.938;0.88
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Houston Rockets;Lauri Markkanen;5.0;10.0;50.0;2.0;5.0;40.0;0.0;0.0;0.0;3.0;5.0;60.0;1.200;0.60
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Houston Rockets;Cedi Osman;4.0;10.0;40.0;2.0;5.5;36.4;0.5;3.5;14.3;2.0;4.5;44.4;1.050;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Houston Rockets;Dean Wade;3.5;4.5;77.8;2.0;3.0;66.7;0.5;1.0;50.0;1.5;1.5;100.0;2.111;1.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Houston Rockets;Jarrett Allen;4.0;7.5;53.3;0.0;0.0;0.0;0.5;2.5;20.0;4.0;7.5;53.3;1.133;0.53
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Houston Rockets;Ricky Rubio;2.0;6.0;33.3;0.0;3.0;0.0;3.0;3.0;100.0;2.0;3.0;66.7;1.167;0.33
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Houston Rockets;Brandon Goodwin;2.0;6.0;33.3;1.0;3.0;33.3;2.0;2.0;100.0;1.0;3.0;33.3;1.167;0.42
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Houston Rockets;Lamar Stevens;2.5;4.5;55.6;0.5;1.5;33.3;0.5;1.0;50.0;2.0;3.0;66.7;1.333;0.61
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Houston Rockets;Denzel Valentine;1.0;2.0;50.0;1.0;2.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.500;0.75
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Houston Rockets;Dylan Windler;1.0;2.5;40.0;0.5;2.0;25.0;0.0;0.0;0.0;0.5;0.5;100.0;1.000;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Houston Rockets;Rajon Rondo;0.0;2.0;0.0;0.0;1.0;0.0;2.0;2.0;100.0;0.0;1.0;0.0;1.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Houston Rockets;Ed Davis;1.0;1.0;100.0;0.0;0.0;0.0;0.0;1.0;0.0;1.0;1.0;100.0;2.000;1.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Houston Rockets;Kevin Pangos;0.5;0.5;100.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;0.5;100.0;2.000;1.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Houston Rockets;Total;43.0;80.0;53.8;12.5;30.5;41.0;15.5;25.5;60.8;30.5;49.5;61.6;1.425;0.62
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Jarrett Allen;11.0;12.5;88.0;0.0;0.0;0.0;1.5;2.0;75.0;11.0;12.5;88.0;1.880;0.88
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Darius Garland;7.0;20.5;34.1;3.0;10.0;30.0;3.0;3.0;100.0;4.0;10.5;38.1;0.976;0.41
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Collin Sexton;7.0;13.0;53.8;2.0;6.0;33.3;1.0;3.0;33.3;5.0;7.0;71.4;1.308;0.62
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Evan Mobley;6.5;12.5;52.0;0.5;1.5;33.3;3.5;4.5;77.8;6.0;11.0;54.5;1.360;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Cedi Osman;5.0;6.0;83.3;3.0;3.0;100.0;2.0;3.0;66.7;2.0;3.0;66.7;2.500;1.08
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Ricky Rubio;4.0;10.0;40.0;3.0;7.0;42.9;1.0;1.0;100.0;1.0;3.0;33.3;1.200;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Lauri Markkanen;4.5;12.5;36.0;1.5;6.0;25.0;1.0;1.0;100.0;3.0;6.5;46.2;0.920;0.42
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Kevin Love;3.5;12.0;29.2;2.0;6.5;30.8;2.0;2.5;80.0;1.5;5.5;27.3;0.917;0.38
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Isaac Okoro;3.0;5.0;60.0;0.0;1.0;0.0;2.0;2.0;100.0;3.0;4.0;75.0;1.600;0.60
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Dylan Windler;2.0;4.0;50.0;2.0;3.0;66.7;0.0;0.0;0.0;0.0;1.0;0.0;1.500;0.75
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Brandon Goodwin;1.0;5.0;20.0;0.0;3.0;0.0;0.0;2.0;0.0;1.0;2.0;50.0;0.400;0.20
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Lamar Stevens;0.0;2.0;0.0;0.0;1.0;0.0;1.0;2.0;50.0;0.0;1.0;0.0;0.500;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Dean Wade;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Total;43.5;92.5;47.0;12.0;36.0;33.3;14.5;19.5;74.4;31.5;56.5;55.8;1.227;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Ricky Rubio;10.0;25.0;40.0;3.0;7.0;42.9;4.0;4.0;100.0;7.0;18.0;38.9;1.080;0.46
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Brandon Goodwin;8.0;11.0;72.7;3.0;4.0;75.0;2.0;2.0;100.0;5.0;7.0;71.4;1.909;0.86
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Kevin Love;6.5;14.5;44.8;5.0;10.0;50.0;1.5;2.0;75.0;1.5;4.5;33.3;1.345;0.62
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Jarrett Allen;7.0;12.0;58.3;0.0;0.0;0.0;2.0;2.0;100.0;7.0;12.0;58.3;1.333;0.58
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Lauri Markkanen;6.0;15.0;40.0;0.0;4.0;0.0;2.0;2.0;100.0;6.0;11.0;54.5;0.933;0.40
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Evan Mobley;5.0;9.5;52.6;0.5;2.0;25.0;2.5;3.0;83.3;4.5;7.5;60.0;1.368;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Lamar Stevens;5.0;6.0;83.3;0.0;0.0;0.0;1.0;2.0;50.0;5.0;6.0;83.3;1.833;0.83
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Isaac Okoro;3.0;5.5;54.5;1.0;1.5;66.7;3.0;4.0;75.0;2.0;4.0;50.0;1.818;0.64
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Cedi Osman;3.0;16.0;18.8;0.0;7.0;0.0;1.0;1.0;100.0;3.0;9.0;33.3;0.438;0.19
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Denzel Valentine;2.0;4.0;50.0;2.0;4.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.500;0.75
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Rajon Rondo;2.0;7.0;28.6;1.0;3.0;33.3;0.0;0.0;0.0;1.0;4.0;25.0;0.714;0.36
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Justin Anderson;0.0;2.0;0.0;0.0;2.0;0.0;2.0;2.0;100.0;0.0;0.0;0.0;1.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Dean Wade;0.5;6.0;8.3;0.5;5.5;9.1;0.0;0.0;0.0;0.0;0.5;0.0;0.250;0.13
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Kevin Pangos;0.0;3.0;0.0;0.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Total;36.5;86.0;42.4;11.5;36.0;31.9;14.0;16.5;84.8;25.0;50.0;50.0;1.145;0.49
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. San Antonio Spurs;Darius Garland;11.5;20.0;57.5;3.5;5.5;63.6;3.0;3.0;100.0;8.0;14.5;55.2;1.475;0.66
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. San Antonio Spurs;Evan Mobley;6.5;15.0;43.3;0.0;1.0;0.0;3.5;5.0;70.0;6.5;14.0;46.4;1.100;0.43
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. San Antonio Spurs;Jarrett Allen;7.0;11.0;63.6;0.0;0.0;0.0;2.0;3.0;66.7;7.0;11.0;63.6;1.455;0.64
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. San Antonio Spurs;Caris LeVert;4.0;11.0;36.4;1.0;3.0;33.3;2.0;2.0;100.0;3.0;8.0;37.5;1.000;0.41
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. San Antonio Spurs;Cedi Osman;3.5;8.0;43.8;2.0;4.0;50.0;2.0;4.5;44.4;1.5;4.0;37.5;1.375;0.56
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. San Antonio Spurs;Isaac Okoro;3.0;6.0;50.0;1.0;2.0;50.0;3.0;4.0;75.0;2.0;4.0;50.0;1.667;0.58
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. San Antonio Spurs;Lauri Markkanen;4.0;5.0;80.0;0.0;1.0;0.0;0.0;0.0;0.0;4.0;4.0;100.0;1.600;0.80
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. San Antonio Spurs;Kevin Love;3.0;10.0;30.0;0.5;3.5;14.3;0.5;2.0;25.0;2.5;6.5;38.5;0.700;0.33
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. San Antonio Spurs;Rajon Rondo;1.0;3.0;33.3;1.0;2.0;50.0;2.0;2.0;100.0;0.0;1.0;0.0;1.667;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. San Antonio Spurs;Lamar Stevens;2.0;5.0;40.0;0.0;0.0;0.0;0.0;0.5;0.0;2.0;5.0;40.0;0.800;0.40
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. San Antonio Spurs;Brandon Goodwin;1.5;3.0;50.0;0.5;0.5;100.0;0.0;0.0;0.0;1.0;2.5;40.0;1.167;0.58
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. San Antonio Spurs;Ed Davis;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. San Antonio Spurs;Kevin Pangos;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. San Antonio Spurs;Dylan Windler;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. San Antonio Spurs;Dean Wade;0.0;2.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;vs. San Antonio Spurs;Total;42.5;88.5;48.0;8.5;20.5;41.5;16.0;24.0;66.7;34.0;68.0;50.0;1.237;0.53
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;October;Collin Sexton;6.7;13.6;49.5;1.0;4.0;25.0;2.9;4.0;71.4;5.7;9.6;59.7;1.274;0.53
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;October;Ricky Rubio;5.0;12.9;38.9;2.0;5.7;35.0;2.0;2.1;93.3;3.0;7.1;42.0;1.089;0.47
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;October;Evan Mobley;5.1;10.3;50.0;0.3;1.0;28.6;2.9;3.6;80.0;4.9;9.3;52.3;1.306;0.51
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;October;Darius Garland;5.0;11.4;43.9;2.0;6.0;33.3;1.4;1.6;87.5;3.0;5.4;55.6;1.175;0.53
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;October;Jarrett Allen;5.3;7.1;74.0;0.0;0.1;0.0;1.1;2.3;50.0;5.3;7.0;75.5;1.640;0.74
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;October;Lauri Markkanen;4.0;11.1;35.9;1.7;6.0;28.6;2.0;2.3;87.5;2.3;5.1;44.4;1.051;0.44
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;October;Kevin Love;3.1;8.9;35.5;0.7;3.4;20.8;2.9;3.1;90.9;2.4;5.4;44.7;1.113;0.40
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;October;Cedi Osman;3.0;6.5;46.2;1.8;4.3;42.3;0.3;0.5;66.7;1.2;2.2;53.8;1.256;0.60
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;October;Isaac Okoro;2.8;5.8;47.8;0.3;1.3;20.0;1.3;2.0;62.5;2.5;4.5;55.6;1.217;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;October;Dylan Windler;1.0;2.0;50.0;0.0;0.8;0.0;0.0;0.0;0.0;1.0;1.3;80.0;1.000;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;October;Dean Wade;0.8;2.0;37.5;0.5;1.8;28.6;0.0;0.0;0.0;0.3;0.3;100.0;1.000;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;October;RJ Nembhard Jr.;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;October;Lamar Stevens;0.6;3.4;17.6;0.2;0.8;25.0;0.0;0.0;0.0;0.4;2.6;15.4;0.412;0.21
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;October;Denzel Valentine;0.2;0.8;25.0;0.2;0.4;50.0;0.0;0.0;0.0;0.0;0.4;0.0;0.750;0.38
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;October;Ed Davis;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;October;Kevin Pangos;0.0;0.7;0.0;0.0;0.3;0.0;0.0;0.0;0.0;0.0;0.3;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;October;Tacko Fall;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;October;Total;38.7;86.7;44.6;9.4;31.4;30.0;15.7;20.1;78.0;29.3;55.3;53.0;1.183;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;November;Darius Garland;7.8;16.9;46.2;2.6;7.4;35.6;2.3;2.7;84.2;5.1;9.4;54.5;1.216;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;November;Lauri Markkanen;7.2;15.4;46.8;3.2;8.2;39.0;2.6;2.8;92.9;4.0;7.2;55.6;1.312;0.57
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;November;Jarrett Allen;7.5;11.1;68.0;0.1;0.3;33.3;3.8;5.7;66.7;7.5;10.8;68.9;1.713;0.68
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;November;Evan Mobley;6.1;12.6;48.4;0.8;2.5;32.0;2.0;2.8;71.4;5.3;10.1;52.5;1.190;0.52
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;November;Ricky Rubio;4.6;13.1;35.0;2.1;5.6;36.7;3.1;3.6;84.3;2.5;7.4;33.7;1.093;0.43
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;November;Collin Sexton;5.3;14.0;37.5;1.0;4.3;23.5;2.3;2.8;81.8;4.3;9.8;43.6;0.982;0.41
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;November;Cedi Osman;4.6;9.8;47.2;2.9;6.7;43.2;1.4;1.9;71.4;1.7;3.1;55.9;1.380;0.62
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;November;Kevin Love;3.7;8.5;43.1;2.0;5.3;37.5;1.5;1.5;100.0;1.7;3.2;52.6;1.275;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;November;Isaac Okoro;2.9;8.4;34.5;0.8;3.8;21.1;1.4;1.9;73.7;2.1;4.6;45.7;0.952;0.39
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;November;Dean Wade;2.2;5.3;40.6;1.0;3.3;30.0;0.4;0.5;83.3;1.2;2.0;58.3;1.078;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;November;Dylan Windler;1.1;2.5;42.9;0.8;1.8;45.0;0.3;0.4;75.0;0.3;0.7;37.5;1.286;0.59
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;November;Ed Davis;1.4;2.0;70.0;0.0;0.0;0.0;0.2;0.4;50.0;1.4;2.0;70.0;1.500;0.70
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;November;Denzel Valentine;1.0;3.8;26.7;0.6;2.4;26.3;0.0;0.0;0.0;0.4;1.4;27.3;0.700;0.35
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;November;Lamar Stevens;0.8;1.8;45.5;0.2;0.7;25.0;0.3;0.5;66.7;0.7;1.2;57.1;1.182;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;November;Kevin Pangos;0.3;0.3;100.0;0.3;0.3;100.0;0.3;0.7;50.0;0.0;0.0;0.0;4.000;1.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;November;Tacko Fall;0.2;0.2;100.0;0.0;0.0;0.0;0.2;0.7;25.0;0.2;0.2;100.0;3.000;1.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;November;RJ Nembhard Jr.;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;November;Total;38.3;84.9;45.1;12.5;35.5;35.2;15.0;19.6;76.4;25.8;49.4;52.2;1.226;0.52
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;December;Darius Garland;7.8;15.3;51.4;2.8;6.4;44.2;2.3;2.3;100.0;5.0;8.8;56.6;1.366;0.61
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;December;Jarrett Allen;7.3;10.1;72.1;0.0;0.2;0.0;3.6;4.5;81.6;7.3;9.9;73.4;1.802;0.72
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;December;Kevin Love;5.3;10.7;49.1;3.8;7.7;49.1;3.6;4.1;88.5;1.5;3.0;48.9;1.671;0.67
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;December;Evan Mobley;6.0;12.1;49.6;0.5;1.3;35.7;2.0;2.5;81.5;5.5;10.8;51.3;1.195;0.52
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;December;Brandon Goodwin;6.0;9.0;66.7;0.0;1.0;0.0;1.0;2.0;50.0;6.0;8.0;75.0;1.444;0.67
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;December;Lauri Markkanen;4.6;11.2;41.1;1.5;5.3;27.5;1.2;1.5;78.3;3.1;5.9;53.4;1.060;0.48
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;December;Ricky Rubio;3.8;10.6;36.2;1.2;4.2;29.1;2.4;2.8;83.8;2.6;6.4;41.0;1.065;0.42
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;December;Cedi Osman;4.0;9.4;42.4;1.9;5.7;33.3;1.3;1.9;70.6;2.1;3.8;55.9;1.188;0.52
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;December;Isaac Okoro;4.0;7.3;54.5;1.3;2.9;45.7;1.8;2.5;73.3;2.7;4.4;60.4;1.523;0.64
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;December;Malik Newman;3.0;5.0;60.0;0.0;1.0;0.0;2.0;2.0;100.0;3.0;4.0;75.0;1.600;0.60
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;December;Dean Wade;2.4;5.0;48.0;1.2;3.1;38.7;0.4;0.6;66.7;1.2;1.9;63.2;1.280;0.60
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;December;Lamar Stevens;2.0;4.3;46.8;0.7;1.6;44.4;0.4;0.6;57.1;1.3;2.6;48.3;1.191;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;December;Denzel Valentine;1.6;3.1;50.0;1.3;2.6;52.2;0.0;0.0;0.0;0.2;0.6;40.0;1.429;0.71
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;December;Justin Anderson;1.3;2.7;50.0;0.7;2.0;33.3;1.0;1.3;75.0;0.7;0.7;100.0;1.625;0.63
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;December;RJ Nembhard Jr.;1.3;3.3;40.0;0.0;0.3;0.0;0.3;0.7;50.0;1.3;3.0;44.4;0.900;0.40
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;December;Trevon Scott;1.5;3.0;50.0;0.0;0.5;0.0;0.0;0.0;0.0;1.5;2.5;60.0;1.000;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;December;Kevin Pangos;1.1;3.3;33.3;0.4;1.9;19.0;0.0;0.0;0.0;0.7;1.4;53.3;0.778;0.39
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;December;Tacko Fall;1.0;2.5;40.0;0.0;0.0;0.0;0.3;0.8;33.3;1.0;2.5;40.0;0.900;0.40
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;December;Luke Kornet;0.5;2.5;20.0;0.0;0.5;0.0;1.0;1.5;66.7;0.5;2.0;25.0;0.800;0.20
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;December;Dylan Windler;0.6;1.7;33.3;0.3;1.1;25.0;0.0;0.0;0.0;0.3;0.6;50.0;0.833;0.42
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;December;Ed Davis;0.4;0.4;100.0;0.0;0.0;0.0;0.0;0.8;0.0;0.4;0.4;100.0;2.000;1.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;December;Total;41.7;86.3;48.3;13.8;36.1;38.2;16.3;20.3;80.3;27.9;50.2;55.5;1.314;0.56
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;January;Darius Garland;7.8;17.7;44.3;2.3;6.9;33.3;2.4;2.6;91.2;5.5;10.8;51.4;1.152;0.51
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;January;Evan Mobley;6.5;12.3;52.7;0.2;1.1;18.8;2.5;4.7;53.5;6.3;11.2;56.0;1.277;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;January;Jarrett Allen;5.8;9.4;61.4;0.0;0.2;0.0;2.7;3.9;69.1;5.8;9.2;62.8;1.515;0.61
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;January;Lauri Markkanen;5.0;9.8;50.9;2.5;5.6;43.5;1.6;1.8;90.0;2.5;4.2;60.9;1.435;0.63
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;January;Kevin Love;4.5;10.9;41.7;2.2;6.3;34.7;2.3;2.8;81.0;2.3;4.5;51.5;1.245;0.52
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;January;Cedi Osman;3.2;9.2;35.3;1.4;5.5;25.0;1.3;2.2;58.6;1.8;3.6;51.1;1.000;0.43
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;January;Isaac Okoro;3.0;6.0;50.0;0.5;2.2;22.7;2.1;2.6;80.8;2.5;3.8;65.8;1.433;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;January;Lamar Stevens;3.6;6.7;54.0;0.2;1.2;20.0;1.1;1.6;66.7;3.4;5.5;61.1;1.276;0.56
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;January;Rajon Rondo;2.6;7.0;36.7;1.6;4.1;37.9;0.7;0.9;83.3;1.0;2.9;35.0;1.061;0.48
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;January;Brandon Goodwin;2.1;5.3;39.6;0.7;1.8;38.9;0.4;1.0;40.0;1.4;3.5;40.0;1.000;0.46
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;January;Dean Wade;1.5;3.1;48.4;1.0;2.3;43.5;0.3;0.8;37.5;0.5;0.8;62.5;1.387;0.65
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;January;Dylan Windler;1.1;2.4;44.8;0.8;1.9;43.5;0.3;0.4;80.0;0.3;0.5;50.0;1.379;0.62
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;January;Kevin Pangos;0.5;1.5;33.3;0.3;0.8;33.3;0.5;0.5;100.0;0.3;0.8;33.3;1.167;0.42
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;January;Ed Davis;0.0;0.7;0.0;0.0;0.0;0.0;0.7;0.7;100.0;0.0;0.7;0.0;1.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;January;RJ Nembhard Jr.;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;January;Total;39.4;83.5;47.2;10.5;31.4;33.5;15.4;22.1;69.8;28.9;52.1;55.4;1.254;0.53
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;February;Darius Garland;11.7;20.0;58.3;3.3;6.3;52.6;1.3;1.3;100.0;8.3;13.7;61.0;1.400;0.67
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;February;Lauri Markkanen;4.7;13.7;34.1;3.0;7.3;40.9;6.0;7.3;81.8;1.7;6.3;26.3;1.341;0.45
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;February;Jarrett Allen;6.9;10.6;65.1;0.0;0.1;0.0;3.1;4.2;73.8;6.9;10.5;65.7;1.594;0.65
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;February;Evan Mobley;5.7;11.9;47.9;0.1;1.1;9.1;3.1;4.1;75.6;5.6;10.8;51.9;1.227;0.48
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;February;Kevin Love;4.5;12.5;36.0;2.5;7.3;34.2;2.8;3.5;80.0;2.0;5.2;38.5;1.144;0.46
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;February;Caris LeVert;5.8;14.5;39.7;1.0;3.5;28.6;0.8;1.0;75.0;4.8;11.0;43.2;0.914;0.43
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;February;Cedi Osman;4.2;9.5;44.2;2.4;5.6;42.9;2.1;3.3;63.6;1.8;3.9;46.2;1.358;0.57
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;February;Isaac Okoro;2.6;5.6;46.4;0.9;2.0;45.0;1.9;2.3;82.6;1.7;3.6;47.2;1.429;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;February;Rajon Rondo;2.6;5.1;50.0;0.9;2.4;35.3;1.6;2.1;73.3;1.7;2.7;63.2;1.472;0.58
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;February;Brandon Goodwin;2.6;7.4;35.6;1.1;3.5;32.1;1.0;1.1;88.9;1.5;3.9;38.7;1.000;0.43
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;February;Dean Wade;2.0;4.2;47.6;1.2;3.1;38.7;0.7;0.9;77.8;0.8;1.1;72.7;1.405;0.62
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;February;Lamar Stevens;1.0;2.1;47.1;0.0;0.4;0.0;0.9;1.4;63.6;1.0;1.8;57.1;1.353;0.47
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;February;Tim Frazier;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;February;Ed Davis;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;February;Kevin Pangos;0.0;0.3;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.3;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;February;Dylan Windler;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;February;RJ Nembhard Jr.;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;February;Total;37.9;81.6;46.4;10.9;29.5;36.9;18.8;24.8;75.8;27.0;52.1;51.8;1.293;0.53
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;March;Darius Garland;8.4;19.7;42.9;2.3;6.4;35.9;6.1;6.9;88.2;6.1;13.3;46.2;1.283;0.49
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;March;Lauri Markkanen;5.5;11.7;46.9;2.2;6.7;33.0;2.7;3.1;87.2;3.3;5.0;65.3;1.360;0.56
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;March;Evan Mobley;6.5;12.3;52.9;0.3;1.3;22.2;2.1;3.5;59.2;6.2;11.0;56.5;1.250;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;March;Jarrett Allen;6.3;8.0;79.2;0.0;0.0;0.0;2.0;2.7;75.0;6.3;8.0;79.2;1.833;0.79
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;March;Caris LeVert;5.2;11.9;43.7;1.2;3.4;35.3;1.9;2.7;70.4;4.0;8.5;47.1;1.134;0.49
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;March;Kevin Love;3.8;9.0;42.4;2.3;6.2;36.4;0.9;1.2;73.7;1.6;2.8;55.6;1.194;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;March;Cedi Osman;3.5;7.9;44.2;1.4;4.9;28.8;1.1;1.6;68.4;2.1;3.0;69.4;1.200;0.53
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;March;Isaac Okoro;3.2;6.3;51.0;0.9;1.9;45.2;2.1;2.3;89.2;2.3;4.3;53.6;1.490;0.58
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;March;Lamar Stevens;3.6;6.9;52.4;0.3;0.9;35.7;1.3;1.6;79.2;3.3;5.9;55.1;1.282;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;March;Dean Wade;2.2;4.4;50.0;0.6;2.0;30.0;0.2;0.2;100.0;1.6;2.4;66.7;1.182;0.57
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;March;Moses Brown;2.0;3.0;66.7;0.0;0.0;0.0;1.0;1.9;52.9;2.0;3.0;66.7;1.667;0.67
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;March;Rajon Rondo;1.3;3.0;44.4;0.3;1.0;33.3;0.7;1.0;66.7;1.0;2.0;50.0;1.222;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;March;Brandon Goodwin;1.1;2.1;51.7;0.2;0.6;37.5;0.8;1.2;64.7;0.9;1.5;57.1;1.517;0.57
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;March;Dylan Windler;0.3;1.7;17.6;0.0;1.3;0.0;0.8;0.9;88.9;0.3;0.4;75.0;0.824;0.18
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;March;RJ Nembhard Jr.;0.2;1.2;16.7;0.0;0.2;0.0;0.4;0.4;100.0;0.2;1.0;20.0;0.667;0.17
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;March;Ed Davis;0.2;0.2;100.0;0.0;0.0;0.0;0.3;0.7;50.0;0.2;0.2;100.0;3.500;1.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;March;Tim Frazier;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;March;Total;40.1;85.0;47.1;10.3;30.8;33.5;19.2;24.7;77.7;29.8;54.2;54.9;1.290;0.53
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;April;Darius Garland;8.4;18.4;45.7;3.2;6.2;51.6;3.2;3.8;84.2;5.2;12.2;42.6;1.261;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;April;Lauri Markkanen;5.8;11.2;51.8;3.4;6.6;51.5;3.2;3.4;94.1;2.4;4.6;52.2;1.625;0.67
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;April;Evan Mobley;7.0;12.0;58.3;0.0;0.5;0.0;3.5;5.5;63.6;7.0;11.5;60.9;1.458;0.58
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;April;Kevin Love;6.0;11.0;54.5;3.8;7.6;50.0;1.4;2.0;70.0;2.2;3.4;64.7;1.564;0.72
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;April;Caris LeVert;5.2;11.0;47.3;1.0;3.8;26.3;2.6;3.2;81.3;4.2;7.2;58.3;1.273;0.52
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;April;Cedi Osman;3.2;6.2;51.6;1.8;4.2;42.9;1.4;1.8;77.8;1.4;2.0;70.0;1.548;0.66
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;April;Moses Brown;3.8;6.2;61.3;0.0;0.0;0.0;1.4;2.4;58.3;3.8;6.2;61.3;1.452;0.61
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;April;Lamar Stevens;3.4;7.4;45.9;0.0;1.4;0.0;1.4;1.8;77.8;3.4;6.0;56.7;1.108;0.46
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;April;Isaac Okoro;2.4;4.0;60.0;0.4;1.2;33.3;1.0;2.4;41.7;2.0;2.8;71.4;1.550;0.65
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;April;Rajon Rondo;1.3;2.8;45.5;1.3;2.3;55.6;0.0;0.0;0.0;0.0;0.5;0.0;1.364;0.68
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;April;Brandon Goodwin;0.3;1.3;25.0;0.0;0.0;0.0;0.0;0.0;0.0;0.3;1.3;25.0;0.500;0.25
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;April;Dylan Windler;0.3;1.3;25.0;0.0;1.0;0.0;0.0;0.0;0.0;0.3;0.3;100.0;0.500;0.25
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;April;Ed Davis;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;April;RJ Nembhard Jr.;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;April;Total;42.4;84.2;50.4;14.6;33.6;43.5;17.0;23.0;73.9;27.8;50.6;54.9;1.382;0.59
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Atlantic Division;Darius Garland;8.2;18.7;43.6;2.5;6.8;36.6;3.2;3.4;95.1;5.7;11.9;47.7;1.178;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Atlantic Division;Ricky Rubio;6.3;14.8;42.4;3.0;6.9;43.6;4.1;4.4;94.3;3.3;7.9;41.3;1.331;0.53
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Atlantic Division;Lauri Markkanen;5.3;11.5;45.7;2.0;5.9;33.8;2.6;2.9;90.6;3.3;5.6;58.1;1.315;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Atlantic Division;Caris LeVert;5.8;13.3;43.8;1.5;3.8;39.1;1.8;2.3;78.6;4.3;9.5;45.6;1.125;0.49
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Atlantic Division;Jarrett Allen;6.0;8.9;67.6;0.1;0.3;50.0;2.6;3.6;72.4;5.9;8.6;68.1;1.662;0.68
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Atlantic Division;Evan Mobley;5.8;10.8;53.5;0.3;1.5;22.2;2.3;3.5;66.7;5.4;9.3;58.6;1.318;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Atlantic Division;Kevin Love;4.3;9.4;45.8;2.5;6.3;39.8;1.8;2.0;89.3;1.8;3.1;58.1;1.374;0.59
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Atlantic Division;Cedi Osman;3.5;9.1;38.7;1.9;6.2;30.1;1.7;2.2;78.8;1.7;2.9;56.8;1.168;0.49
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Atlantic Division;Isaac Okoro;3.3;7.1;46.5;0.8;2.6;30.6;2.6;3.3;80.4;2.5;4.5;55.6;1.414;0.52
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Atlantic Division;Collin Sexton;4.0;13.0;30.8;0.5;4.0;12.5;0.0;0.0;0.0;3.5;9.0;38.9;0.654;0.33
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Atlantic Division;Dean Wade;2.8;6.3;44.9;1.3;3.8;33.3;0.8;1.0;81.8;1.5;2.5;63.0;1.232;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Atlantic Division;Lamar Stevens;2.7;5.2;51.9;0.2;1.2;16.7;1.4;1.9;73.7;2.5;4.0;62.5;1.346;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Atlantic Division;Moses Brown;3.0;5.0;60.0;0.0;0.0;0.0;1.0;1.6;62.5;3.0;5.0;60.0;1.400;0.60
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Atlantic Division;Denzel Valentine;2.5;6.2;40.5;1.8;4.5;40.7;0.0;0.0;0.0;0.7;1.7;40.0;1.108;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Atlantic Division;Kevin Pangos;2.0;4.0;50.0;1.5;3.5;42.9;0.0;0.0;0.0;0.5;0.5;100.0;1.375;0.69
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Atlantic Division;Justin Anderson;2.0;3.0;66.7;1.0;2.0;50.0;0.5;1.0;50.0;1.0;1.0;100.0;1.833;0.83
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Atlantic Division;Rajon Rondo;1.7;2.3;71.4;1.3;2.0;66.7;0.0;0.0;0.0;0.3;0.3;100.0;2.000;1.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Atlantic Division;Brandon Goodwin;1.0;1.6;61.5;0.4;0.6;60.0;0.8;1.1;66.7;0.6;1.0;62.5;1.923;0.73
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Atlantic Division;Trevon Scott;1.5;3.0;50.0;0.0;0.5;0.0;0.0;0.0;0.0;1.5;2.5;60.0;1.000;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Atlantic Division;Luke Kornet;0.5;2.5;20.0;0.0;0.5;0.0;1.0;1.5;66.7;0.5;2.0;25.0;0.800;0.20
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Atlantic Division;RJ Nembhard Jr.;1.0;2.5;40.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;2.5;40.0;0.800;0.40
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Atlantic Division;Dylan Windler;0.7;1.6;42.1;0.3;1.1;30.8;0.3;0.4;60.0;0.3;0.5;66.7;1.211;0.53
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Atlantic Division;Tacko Fall;0.6;1.4;42.9;0.0;0.0;0.0;0.4;0.8;50.0;0.6;1.4;42.9;1.143;0.43
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Atlantic Division;Ed Davis;0.4;1.0;44.4;0.0;0.0;0.0;0.3;0.7;50.0;0.4;1.0;44.4;1.222;0.44
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Atlantic Division;Total;39.1;84.6;46.2;12.4;34.9;35.5;17.4;21.5;80.9;26.7;49.7;53.8;1.276;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Central Division;Darius Garland;8.3;16.7;49.5;2.3;6.2;37.8;3.6;4.1;87.8;5.9;10.5;56.3;1.345;0.57
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Central Division;Lauri Markkanen;5.9;12.5;47.2;2.2;6.5;33.8;3.0;3.6;83.3;3.7;6.0;61.7;1.360;0.56
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Central Division;Evan Mobley;6.1;11.7;51.7;0.5;1.4;33.3;2.5;4.1;61.3;5.6;10.3;54.2;1.290;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Central Division;Jarrett Allen;5.5;9.7;56.1;0.0;0.4;0.0;3.6;4.5;81.6;5.5;9.4;58.3;1.495;0.56
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Central Division;Kevin Love;4.9;10.7;45.6;2.8;6.5;42.9;1.7;2.3;76.5;2.1;4.1;50.0;1.338;0.59
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Central Division;Caris LeVert;5.8;12.5;46.0;0.8;4.3;17.6;1.3;2.5;50.0;5.0;8.3;60.6;1.080;0.49
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Central Division;Cedi Osman;4.5;9.6;46.5;1.9;5.8;33.3;1.3;1.7;76.9;2.5;3.8;66.7;1.271;0.57
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Central Division;Ricky Rubio;3.3;9.3;35.1;1.0;4.0;25.0;2.0;2.0;100.0;2.3;5.3;42.9;1.027;0.41
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Central Division;Rajon Rondo;3.0;6.4;47.1;1.1;3.4;33.3;1.1;1.8;64.3;1.9;3.0;62.5;1.294;0.56
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Central Division;Dean Wade;2.8;5.3;53.1;1.8;3.7;47.7;0.5;0.6;85.7;1.1;1.7;65.0;1.484;0.70
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Central Division;Isaac Okoro;2.6;5.9;43.8;0.5;2.0;26.7;1.0;1.4;71.4;2.1;3.9;52.5;1.135;0.48
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Central Division;Lamar Stevens;2.3;4.9;47.3;0.3;1.0;33.3;0.9;1.3;70.0;2.0;3.9;50.8;1.203;0.51
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Central Division;Moses Brown;2.0;5.0;40.0;0.0;0.0;0.0;0.5;2.0;25.0;2.0;5.0;40.0;0.900;0.40
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Central Division;Brandon Goodwin;1.6;4.4;37.1;0.3;1.4;18.2;0.4;0.8;50.0;1.4;3.0;45.8;0.886;0.40
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Central Division;Denzel Valentine;0.7;2.3;28.6;0.7;1.7;40.0;0.0;0.0;0.0;0.0;0.7;0.0;0.857;0.43
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Central Division;Tacko Fall;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Central Division;Dylan Windler;0.6;2.0;27.8;0.3;1.3;25.0;0.4;0.4;100.0;0.2;0.7;33.3;0.944;0.36
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Central Division;Kevin Pangos;0.4;1.6;27.3;0.3;0.7;40.0;0.3;0.3;100.0;0.1;0.9;16.7;0.909;0.36
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Central Division;RJ Nembhard Jr.;0.3;0.7;50.0;0.0;0.0;0.0;0.0;0.0;0.0;0.3;0.7;50.0;1.000;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Central Division;Ed Davis;0.1;0.1;100.0;0.0;0.0;0.0;0.3;0.3;100.0;0.1;0.1;100.0;4.000;1.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Central Division;Total;40.4;85.1;47.5;11.7;33.2;35.2;16.6;22.1;75.1;28.8;51.9;55.4;1.283;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pacific Division;Darius Garland;6.7;16.0;41.9;2.0;7.0;28.6;2.5;2.9;86.2;4.7;9.0;52.2;1.119;0.48
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pacific Division;Evan Mobley;6.6;13.1;50.5;0.3;1.1;22.2;1.9;3.0;62.5;6.4;12.0;53.1;1.171;0.51
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pacific Division;Collin Sexton;6.0;12.0;50.0;0.0;2.7;0.0;3.0;4.0;75.0;6.0;9.3;64.3;1.250;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pacific Division;Ricky Rubio;4.7;14.5;32.2;1.7;5.5;30.3;2.5;3.3;75.0;3.0;9.0;33.3;0.931;0.38
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pacific Division;Isaac Okoro;4.2;7.4;56.8;1.6;3.2;50.0;3.4;4.4;77.3;2.6;4.2;61.9;1.811;0.68
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pacific Division;Jarrett Allen;4.7;7.4;63.5;0.0;0.4;0.0;3.1;4.4;71.0;4.7;7.0;67.3;1.692;0.63
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pacific Division;Lauri Markkanen;4.1;9.8;42.0;2.1;5.9;35.8;2.0;2.2;90.0;2.0;3.9;51.4;1.261;0.53
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pacific Division;Caris LeVert;4.5;8.5;52.9;1.0;2.5;40.0;2.0;2.0;100.0;3.5;6.0;58.3;1.412;0.59
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pacific Division;Kevin Love;3.5;9.5;36.8;1.9;5.7;33.3;1.9;2.2;86.4;1.6;3.8;42.1;1.137;0.47
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pacific Division;Cedi Osman;3.8;8.5;44.1;2.3;5.4;41.9;0.9;1.6;53.8;1.5;3.1;48.0;1.250;0.57
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pacific Division;Rajon Rondo;4.0;7.5;53.3;2.0;3.0;66.7;0.0;0.0;0.0;2.0;4.5;44.4;1.333;0.67
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pacific Division;Lamar Stevens;3.6;6.9;52.1;0.4;0.7;60.0;0.1;0.3;50.0;3.1;6.1;51.2;1.125;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pacific Division;Dean Wade;1.5;3.3;45.0;0.7;2.0;33.3;0.0;0.0;0.0;0.8;1.3;62.5;1.100;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pacific Division;Moses Brown;1.0;1.0;100.0;0.0;0.0;0.0;1.0;3.0;33.3;1.0;1.0;100.0;3.000;1.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pacific Division;Brandon Goodwin;0.5;0.5;100.0;0.0;0.0;0.0;0.5;0.5;100.0;0.5;0.5;100.0;3.000;1.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pacific Division;Ed Davis;0.6;0.6;100.0;0.0;0.0;0.0;0.2;0.4;50.0;0.6;0.6;100.0;2.333;1.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pacific Division;Dylan Windler;0.6;1.9;33.3;0.1;1.3;10.0;0.0;0.0;0.0;0.5;0.6;80.0;0.733;0.37
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pacific Division;Denzel Valentine;0.4;1.8;22.2;0.2;0.8;25.0;0.0;0.0;0.0;0.2;1.0;20.0;0.556;0.28
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pacific Division;Kevin Pangos;0.0;0.5;0.0;0.0;0.0;0.0;0.5;1.0;50.0;0.0;0.5;0.0;1.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pacific Division;Tacko Fall;0.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pacific Division;RJ Nembhard Jr.;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pacific Division;Total;38.5;85.8;44.9;11.1;33.4;33.2;15.6;20.9;74.6;27.4;52.4;52.3;1.209;0.51
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southeast Division;Darius Garland;8.3;18.3;45.7;3.1;7.5;41.1;3.8;4.6;81.8;5.3;10.8;48.8;1.288;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southeast Division;Collin Sexton;7.7;17.3;44.2;1.0;4.7;21.4;4.3;5.7;76.5;6.7;12.7;52.6;1.192;0.47
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southeast Division;Jarrett Allen;7.7;10.3;74.6;0.0;0.0;0.0;3.2;4.5;71.2;7.7;10.3;74.6;1.806;0.75
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southeast Division;Kevin Love;4.8;11.0;43.8;2.9;7.3;40.2;3.2;3.6;87.9;1.9;3.7;50.8;1.432;0.57
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southeast Division;Lauri Markkanen;4.9;12.8;38.5;2.5;6.9;35.9;2.4;2.7;87.8;2.5;5.9;41.6;1.151;0.48
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southeast Division;Evan Mobley;5.8;12.1;47.7;0.3;1.3;25.0;2.2;2.9;74.5;5.4;10.8;50.3;1.161;0.49
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southeast Division;Ricky Rubio;3.6;10.0;36.3;1.4;4.4;31.4;2.4;3.0;79.2;2.3;5.6;40.0;1.100;0.43
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southeast Division;Cedi Osman;3.4;7.6;44.4;1.8;4.7;39.3;1.0;1.5;65.0;1.5;2.9;52.6;1.263;0.57
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southeast Division;Caris LeVert;4.0;11.0;36.4;0.3;3.0;8.3;1.0;1.3;80.0;3.8;8.0;46.9;0.841;0.38
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southeast Division;Isaac Okoro;3.0;6.1;49.5;0.9;2.2;40.5;1.2;1.8;70.0;2.1;3.9;54.5;1.340;0.57
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southeast Division;Malik Newman;3.0;5.0;60.0;0.0;1.0;0.0;2.0;2.0;100.0;3.0;4.0;75.0;1.600;0.60
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southeast Division;Moses Brown;3.0;4.3;70.6;0.0;0.0;0.0;1.8;2.5;70.0;3.0;4.3;70.6;1.824;0.71
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southeast Division;Brandon Goodwin;2.6;6.6;39.1;0.7;2.4;29.4;1.1;1.6;72.7;1.9;4.1;44.8;1.065;0.45
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southeast Division;Lamar Stevens;1.9;4.6;40.6;0.4;1.4;26.3;0.8;1.1;73.3;1.5;3.2;46.7;1.063;0.45
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southeast Division;Dean Wade;1.3;2.7;48.1;0.6;1.6;37.5;0.3;0.5;60.0;0.7;1.1;63.6;1.296;0.59
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southeast Division;Dylan Windler;0.8;2.4;31.6;0.3;1.6;15.4;0.5;0.6;80.0;0.5;0.8;66.7;0.947;0.37
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southeast Division;Rajon Rondo;0.8;2.8;27.3;0.5;1.3;40.0;0.0;0.0;0.0;0.3;1.5;16.7;0.727;0.36
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southeast Division;Kevin Pangos;1.0;3.4;29.4;0.0;1.4;0.0;0.0;0.0;0.0;1.0;2.0;50.0;0.588;0.29
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southeast Division;RJ Nembhard Jr.;0.6;2.0;30.0;0.0;0.4;0.0;0.6;0.8;75.0;0.6;1.6;37.5;0.900;0.30
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southeast Division;Denzel Valentine;0.3;0.7;50.0;0.3;0.7;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.500;0.75
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southeast Division;Ed Davis;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.3;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southeast Division;Tim Frazier;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southeast Division;Tacko Fall;0.0;0.3;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.3;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southeast Division;Total;38.7;84.0;46.0;11.2;31.7;35.2;17.6;22.8;77.3;27.5;52.3;52.6;1.263;0.53
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southwest Division;Darius Garland;8.7;17.4;50.0;3.0;6.3;47.7;2.9;3.0;95.2;5.7;11.1;51.3;1.336;0.59
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southwest Division;Caris LeVert;7.5;15.0;50.0;2.0;3.5;57.1;4.5;5.0;90.0;5.5;11.5;47.8;1.433;0.57
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southwest Division;Jarrett Allen;7.9;11.4;69.2;0.0;0.0;0.0;1.8;2.9;60.9;7.9;11.4;69.2;1.538;0.69
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southwest Division;Collin Sexton;7.0;13.0;53.8;2.0;6.0;33.3;1.0;3.0;33.3;5.0;7.0;71.4;1.308;0.62
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southwest Division;Evan Mobley;6.6;13.0;51.0;0.3;1.5;16.7;3.3;4.6;70.3;6.4;11.5;55.4;1.288;0.52
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southwest Division;Lauri Markkanen;5.4;11.7;46.3;1.6;5.3;29.7;1.0;1.0;100.0;3.9;6.4;60.0;1.146;0.53
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southwest Division;Ricky Rubio;4.8;13.0;36.5;1.8;4.5;38.9;2.0;2.0;100.0;3.0;8.5;35.3;1.019;0.43
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southwest Division;Kevin Love;4.4;11.3;38.9;2.3;6.1;37.7;1.8;2.4;75.0;2.1;5.2;40.4;1.142;0.49
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southwest Division;Moses Brown;5.0;5.0;100.0;0.0;0.0;0.0;2.0;4.0;50.0;5.0;5.0;100.0;2.400;1.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southwest Division;Cedi Osman;3.8;9.7;39.7;1.8;4.8;37.9;1.3;3.3;40.0;2.0;4.8;41.4;1.121;0.49
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southwest Division;Isaac Okoro;3.6;6.1;58.2;1.0;1.8;56.3;2.0;2.6;78.3;2.6;4.3;59.0;1.655;0.66
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southwest Division;Brandon Goodwin;2.5;5.5;45.5;1.0;2.2;46.2;0.8;1.3;62.5;1.5;3.3;45.0;1.242;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southwest Division;Lamar Stevens;2.6;4.6;56.8;0.1;0.5;25.0;1.0;1.6;61.5;2.5;4.1;60.6;1.378;0.58
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southwest Division;Rajon Rondo;1.0;4.0;25.0;0.7;2.0;33.3;1.3;1.3;100.0;0.3;2.0;16.7;1.000;0.33
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southwest Division;Dean Wade;1.3;3.8;34.8;0.8;3.2;26.3;0.2;0.3;50.0;0.5;0.7;75.0;0.957;0.46
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southwest Division;Denzel Valentine;1.0;2.3;42.9;1.0;2.0;50.0;0.0;0.0;0.0;0.0;0.3;0.0;1.286;0.64
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southwest Division;Justin Anderson;0.0;2.0;0.0;0.0;2.0;0.0;2.0;2.0;100.0;0.0;0.0;0.0;1.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southwest Division;Dylan Windler;0.7;1.7;40.0;0.5;1.2;42.9;0.0;0.0;0.0;0.2;0.5;33.3;1.100;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southwest Division;Ed Davis;0.8;0.8;100.0;0.0;0.0;0.0;0.0;0.5;0.0;0.8;0.8;100.0;2.000;1.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southwest Division;Kevin Pangos;0.2;0.8;25.0;0.0;0.6;0.0;0.0;0.0;0.0;0.2;0.2;100.0;0.500;0.25
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southwest Division;RJ Nembhard Jr.;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Southwest Division;Total;41.8;85.7;48.8;11.0;29.0;37.9;15.1;21.1;71.6;30.8;56.7;54.3;1.280;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Northwest Division;Darius Garland;7.6;15.0;50.4;2.6;5.9;43.4;2.7;2.9;92.3;5.0;9.1;54.9;1.356;0.59
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Northwest Division;Collin Sexton;6.0;12.0;50.0;2.5;4.5;55.6;3.0;3.5;85.7;3.5;7.5;46.7;1.458;0.60
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Northwest Division;Jarrett Allen;7.2;10.0;72.2;0.0;0.1;0.0;2.9;4.7;61.9;7.2;9.9;73.0;1.733;0.72
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Northwest Division;Evan Mobley;6.4;12.3;52.0;0.3;1.2;25.0;2.5;4.0;62.5;6.1;11.1;55.0;1.268;0.53
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Northwest Division;Lauri Markkanen;5.2;9.9;52.8;2.8;6.3;43.9;2.0;2.6;78.3;2.4;3.6;68.8;1.539;0.67
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Northwest Division;Kevin Love;4.2;9.6;44.2;2.3;6.2;37.5;3.0;3.6;84.4;1.9;3.3;56.7;1.442;0.56
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Northwest Division;Rajon Rondo;2.0;9.0;22.2;2.0;8.0;25.0;5.0;6.0;83.3;0.0;1.0;0.0;1.222;0.33
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Northwest Division;Cedi Osman;3.3;7.3;45.5;2.0;5.1;39.1;1.4;2.1;68.4;1.3;2.2;60.0;1.379;0.59
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Northwest Division;Caris LeVert;3.0;11.0;27.3;2.0;3.0;66.7;2.0;4.0;50.0;1.0;8.0;12.5;0.909;0.36
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Northwest Division;Isaac Okoro;2.6;6.9;37.5;0.6;3.1;18.2;1.6;1.9;84.6;2.0;3.7;53.8;1.063;0.42
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Northwest Division;Ricky Rubio;2.5;9.3;27.0;0.8;4.3;17.6;1.3;2.0;62.5;1.8;5.0;35.0;0.757;0.31
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Northwest Division;Lamar Stevens;2.4;4.9;50.0;0.2;1.1;20.0;0.6;0.7;83.3;2.2;3.8;58.8;1.159;0.52
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Northwest Division;Brandon Goodwin;1.8;5.2;34.6;0.6;1.8;33.3;0.2;0.6;33.3;1.2;3.4;35.3;0.846;0.40
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Northwest Division;Dylan Windler;1.3;2.4;52.9;1.1;2.1;53.3;0.6;0.6;100.0;0.1;0.3;50.0;1.765;0.76
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Northwest Division;Tim Frazier;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Northwest Division;Tacko Fall;1.0;3.0;33.3;0.0;0.0;0.0;0.0;1.0;0.0;1.0;3.0;33.3;0.667;0.33
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Northwest Division;Kevin Pangos;0.7;1.7;40.0;0.3;1.3;25.0;0.0;0.0;0.0;0.3;0.3;100.0;1.000;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Northwest Division;Dean Wade;0.7;2.3;28.6;0.2;1.5;11.1;0.2;0.8;20.0;0.5;0.8;60.0;0.714;0.32
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Northwest Division;Denzel Valentine;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Northwest Division;RJ Nembhard Jr.;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Northwest Division;Moses Brown;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Northwest Division;Total;40.5;82.8;48.9;12.1;33.1;36.6;17.3;23.9;72.4;28.4;49.7;57.1;1.333;0.56
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Eastern Conference;Darius Garland;8.2;18.0;45.8;2.6;6.8;38.3;3.5;3.9;88.5;5.6;11.2;50.3;1.254;0.53
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Eastern Conference;Jarrett Allen;6.5;9.8;66.7;0.0;0.2;16.7;3.2;4.3;75.2;6.5;9.6;67.6;1.667;0.67
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Eastern Conference;Collin Sexton;6.2;15.6;39.7;0.8;4.4;18.2;2.6;3.4;76.5;5.4;11.2;48.2;1.013;0.42
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Eastern Conference;Lauri Markkanen;5.3;12.3;43.0;2.3;6.5;34.8;2.6;3.0;87.2;3.1;5.9;52.1;1.257;0.52
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Eastern Conference;Evan Mobley;5.9;11.6;50.6;0.4;1.4;27.1;2.3;3.5;66.9;5.5;10.2;53.8;1.247;0.52
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Eastern Conference;Kevin Love;4.7;10.4;45.0;2.8;6.7;40.9;2.3;2.7;85.0;1.9;3.6;52.4;1.383;0.58
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Eastern Conference;Ricky Rubio;4.6;11.8;39.1;2.0;5.3;36.8;3.0;3.4;89.6;2.7;6.5;41.1;1.204;0.47
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Eastern Conference;Caris LeVert;5.3;12.4;42.5;0.9;3.7;25.0;1.4;2.1;69.0;4.4;8.7;50.0;1.040;0.46
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Eastern Conference;Cedi Osman;3.8;8.8;43.2;1.9;5.6;33.6;1.4;1.8;74.7;1.9;3.2;59.7;1.232;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Eastern Conference;Isaac Okoro;3.0;6.3;46.7;0.7;2.2;33.0;1.6;2.1;75.3;2.2;4.1;54.3;1.302;0.53
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Eastern Conference;Malik Newman;3.0;5.0;60.0;0.0;1.0;0.0;2.0;2.0;100.0;3.0;4.0;75.0;1.600;0.60
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Eastern Conference;Moses Brown;2.8;4.7;59.6;0.0;0.0;0.0;1.2;2.0;59.1;2.8;4.7;59.6;1.442;0.60
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Eastern Conference;Dean Wade;2.4;4.8;48.8;1.2;3.1;40.2;0.5;0.7;78.3;1.1;1.8;63.8;1.344;0.62
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Eastern Conference;Rajon Rondo;2.1;4.6;46.4;1.0;2.5;39.5;0.6;0.9;64.3;1.1;2.1;54.8;1.275;0.57
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Eastern Conference;Lamar Stevens;2.3;4.9;46.3;0.3;1.2;26.1;1.0;1.4;72.2;1.9;3.7;52.8;1.195;0.49
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Eastern Conference;Justin Anderson;2.0;3.0;66.7;1.0;2.0;50.0;0.5;1.0;50.0;1.0;1.0;100.0;1.833;0.83
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Eastern Conference;Brandon Goodwin;1.7;4.1;41.5;0.4;1.4;30.3;0.7;1.1;65.4;1.3;2.7;47.5;1.117;0.47
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Eastern Conference;Denzel Valentine;1.5;3.8;39.1;1.2;2.8;41.2;0.0;0.0;0.0;0.3;1.0;33.3;1.087;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Eastern Conference;Trevon Scott;1.5;3.0;50.0;0.0;0.5;0.0;0.0;0.0;0.0;1.5;2.5;60.0;1.000;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Eastern Conference;Kevin Pangos;0.9;2.6;33.3;0.4;1.4;26.3;0.1;0.1;100.0;0.5;1.2;41.2;0.861;0.40
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Eastern Conference;Luke Kornet;0.5;2.5;20.0;0.0;0.5;0.0;1.0;1.5;66.7;0.5;2.0;25.0;0.800;0.20
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Eastern Conference;Dylan Windler;0.7;1.9;33.9;0.3;1.3;23.7;0.4;0.5;78.6;0.3;0.6;55.6;1.036;0.42
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Eastern Conference;RJ Nembhard Jr.;0.6;1.7;35.3;0.0;0.2;0.0;0.3;0.4;75.0;0.6;1.5;40.0;0.882;0.35
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Eastern Conference;Tacko Fall;0.4;1.0;44.4;0.0;0.0;0.0;0.2;0.4;50.0;0.4;1.0;44.4;1.111;0.44
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Eastern Conference;Ed Davis;0.2;0.5;50.0;0.0;0.0;0.0;0.2;0.5;50.0;0.2;0.5;50.0;1.500;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Eastern Conference;Tim Frazier;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Eastern Conference;Total;39.4;84.6;46.6;11.8;33.3;35.3;17.2;22.1;77.8;27.6;51.3;53.9;1.274;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Western Conference;Darius Garland;7.5;16.0;47.0;2.5;6.4;38.3;2.7;2.9;90.8;5.1;9.6;52.8;1.259;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Western Conference;Collin Sexton;6.2;12.2;50.7;1.2;3.8;30.4;2.7;3.7;72.7;5.0;8.3;60.0;1.329;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Western Conference;Jarrett Allen;6.7;9.7;69.1;0.0;0.2;0.0;2.6;4.0;64.6;6.7;9.5;70.3;1.648;0.69
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Western Conference;Evan Mobley;6.5;12.8;51.2;0.3;1.3;21.2;2.5;3.9;65.3;6.3;11.5;54.5;1.244;0.52
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Western Conference;Caris LeVert;5.4;11.6;46.6;1.6;3.0;53.3;3.0;3.6;83.3;3.8;8.6;44.2;1.328;0.53
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Western Conference;Lauri Markkanen;4.9;10.4;47.1;2.2;5.9;37.4;1.7;2.0;86.0;2.7;4.5;59.8;1.320;0.58
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Western Conference;Kevin Love;4.0;10.1;39.8;2.2;6.0;36.2;2.2;2.7;82.1;1.9;4.1;45.0;1.228;0.51
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Western Conference;Ricky Rubio;4.1;12.6;32.4;1.4;4.9;29.4;2.0;2.6;77.8;2.6;7.7;34.3;0.920;0.38
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Western Conference;Cedi Osman;3.6;8.3;43.2;2.0;5.1;39.8;1.2;2.3;53.8;1.6;3.2;48.6;1.255;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Western Conference;Isaac Okoro;3.4;6.7;50.7;1.0;2.6;38.9;2.2;2.8;79.3;2.4;4.1;58.1;1.493;0.58
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Western Conference;Rajon Rondo;2.2;6.0;36.1;1.3;3.3;40.0;1.5;1.7;90.0;0.8;2.7;31.3;1.194;0.47
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Western Conference;Lamar Stevens;2.8;5.4;52.7;0.3;0.8;31.6;0.6;0.9;66.7;2.6;4.6;56.4;1.209;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Western Conference;Brandon Goodwin;1.9;4.6;41.7;0.7;1.7;40.9;0.5;0.9;58.3;1.2;2.9;42.1;1.100;0.49
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Western Conference;Moses Brown;2.0;2.0;100.0;0.0;0.0;0.0;1.0;2.3;42.9;2.0;2.0;100.0;2.500;1.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Western Conference;Dean Wade;1.2;3.2;36.8;0.6;2.2;25.0;0.1;0.4;28.6;0.6;0.9;64.7;0.947;0.46
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Western Conference;Dylan Windler;0.9;2.0;42.9;0.6;1.5;37.5;0.2;0.2;100.0;0.3;0.5;60.0;1.238;0.57
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Western Conference;Tim Frazier;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Western Conference;Justin Anderson;0.0;2.0;0.0;0.0;2.0;0.0;2.0;2.0;100.0;0.0;0.0;0.0;1.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Western Conference;Ed Davis;0.7;0.7;100.0;0.0;0.0;0.0;0.1;0.4;25.0;0.7;0.7;100.0;2.167;1.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Western Conference;Denzel Valentine;0.5;1.6;31.3;0.4;1.0;40.0;0.0;0.0;0.0;0.1;0.6;16.7;0.875;0.44
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Western Conference;Tacko Fall;0.5;1.5;33.3;0.0;0.0;0.0;0.0;1.5;0.0;0.5;1.5;33.3;0.667;0.33
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Western Conference;Kevin Pangos;0.3;1.0;30.0;0.1;0.7;14.3;0.1;0.2;50.0;0.2;0.3;66.7;0.800;0.35
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Western Conference;RJ Nembhard Jr.;0.0;0.3;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.3;0.0;0.000;0.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Western Conference;Total;40.3;84.8;47.5;11.4;31.8;35.8;16.0;22.0;72.8;28.9;52.9;54.5;1.273;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pre All-Star;Darius Garland;7.8;16.3;47.7;2.6;6.8;37.8;2.2;2.4;91.1;5.2;9.5;54.7;1.244;0.56
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pre All-Star;Jarrett Allen;6.6;9.9;66.6;0.0;0.2;10.0;3.0;4.3;70.2;6.6;9.7;67.8;1.640;0.67
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pre All-Star;Collin Sexton;6.2;13.7;45.0;1.0;4.1;24.4;2.6;3.5;74.4;5.2;9.6;53.8;1.166;0.49
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pre All-Star;Evan Mobley;6.0;12.0;50.3;0.4;1.4;26.5;2.4;3.6;67.2;5.7;10.6;53.4;1.238;0.52
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pre All-Star;Kevin Love;4.5;10.7;42.6;2.5;6.4;39.3;2.7;3.2;85.4;2.0;4.2;47.6;1.341;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pre All-Star;Lauri Markkanen;4.9;11.3;43.6;2.0;5.9;34.2;1.7;1.9;86.3;2.9;5.4;53.9;1.197;0.53
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pre All-Star;Caris LeVert;5.8;14.5;39.7;1.0;3.5;28.6;0.8;1.0;75.0;4.8;11.0;43.2;0.914;0.43
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pre All-Star;Ricky Rubio;4.4;12.1;36.3;1.7;5.1;33.9;2.6;3.0;85.4;2.6;7.0;38.0;1.083;0.43
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pre All-Star;Cedi Osman;3.8;9.1;42.0;2.0;5.7;35.6;1.2;1.9;64.0;1.8;3.4;52.6;1.194;0.53
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pre All-Star;Isaac Okoro;3.2;6.8;46.4;0.8;2.7;31.6;1.8;2.3;77.8;2.3;4.2;55.9;1.314;0.53
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pre All-Star;Malik Newman;3.0;5.0;60.0;0.0;1.0;0.0;2.0;2.0;100.0;3.0;4.0;75.0;1.600;0.60
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pre All-Star;Rajon Rondo;2.4;5.9;40.3;1.2;3.2;36.6;1.2;1.5;84.2;1.2;2.8;44.4;1.208;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pre All-Star;Dean Wade;2.0;4.3;46.2;1.1;2.9;37.6;0.4;0.6;63.0;0.9;1.4;63.9;1.269;0.59
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pre All-Star;Brandon Goodwin;2.1;5.3;38.8;0.8;2.0;37.5;0.4;0.9;50.0;1.3;3.3;39.6;1.000;0.46
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pre All-Star;Lamar Stevens;2.0;4.3;47.5;0.3;1.1;29.5;0.6;1.0;62.5;1.7;3.2;53.4;1.164;0.51
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pre All-Star;Justin Anderson;1.3;2.7;50.0;0.7;2.0;33.3;1.0;1.3;75.0;0.7;0.7;100.0;1.625;0.63
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pre All-Star;Trevon Scott;1.5;3.0;50.0;0.0;0.5;0.0;0.0;0.0;0.0;1.5;2.5;60.0;1.000;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pre All-Star;Denzel Valentine;1.0;2.8;37.1;0.8;2.0;40.9;0.0;0.0;0.0;0.2;0.8;27.8;1.032;0.52
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pre All-Star;Dylan Windler;0.9;2.1;42.9;0.6;1.5;38.9;0.2;0.2;77.8;0.3;0.6;52.2;1.221;0.56
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pre All-Star;Luke Kornet;0.5;2.5;20.0;0.0;0.5;0.0;1.0;1.5;66.7;0.5;2.0;25.0;0.800;0.20
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pre All-Star;Kevin Pangos;0.6;1.9;32.6;0.3;1.1;23.1;0.1;0.2;75.0;0.4;0.8;45.0;0.848;0.39
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pre All-Star;RJ Nembhard Jr.;0.7;1.6;45.5;0.0;0.1;0.0;0.1;0.3;50.0;0.7;1.4;50.0;1.000;0.45
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pre All-Star;Ed Davis;0.5;0.7;64.3;0.0;0.0;0.0;0.2;0.4;37.5;0.5;0.7;64.3;1.500;0.64
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pre All-Star;Tacko Fall;0.5;1.1;41.7;0.0;0.0;0.0;0.2;0.6;28.6;0.5;1.1;41.7;1.000;0.42
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Pre All-Star;Total;39.6;84.9;46.6;11.7;33.2;35.3;15.7;20.8;75.5;27.9;51.7;54.0;1.256;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Post All-Star;Darius Garland;8.4;19.4;43.5;2.5;6.4;39.6;5.4;6.1;87.6;5.9;13.0;45.4;1.278;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Post All-Star;Lauri Markkanen;5.4;11.8;46.0;2.6;6.7;38.1;3.3;3.7;87.2;2.9;5.1;56.4;1.412;0.57
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Post All-Star;Jarrett Allen;6.7;8.5;78.4;0.0;0.0;0.0;2.3;3.0;77.8;6.7;8.5;78.4;1.843;0.78
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Post All-Star;Evan Mobley;6.3;12.1;52.2;0.3;1.3;20.8;2.4;3.8;63.9;6.1;10.8;55.8;1.265;0.53
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Post All-Star;Caris LeVert;5.2;11.6;44.8;1.1;3.5;32.1;2.1;2.9;74.4;4.1;8.1;50.4;1.178;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Post All-Star;Kevin Love;4.2;9.5;43.9;2.5;6.5;39.1;1.3;1.7;77.5;1.6;3.0;54.2;1.281;0.57
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Post All-Star;Cedi Osman;3.6;7.8;46.5;1.8;4.9;35.7;1.6;2.3;71.1;1.9;2.9;64.9;1.361;0.58
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Post All-Star;Isaac Okoro;3.0;5.8;51.4;0.8;1.8;44.2;1.8;2.3;75.0;2.2;4.0;54.7;1.471;0.58
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Post All-Star;Lamar Stevens;3.3;6.5;50.7;0.2;1.0;23.8;1.3;1.6;80.0;3.0;5.5;55.4;1.246;0.52
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Post All-Star;Moses Brown;2.6;4.1;63.8;0.0;0.0;0.0;1.1;2.1;55.2;2.6;4.1;63.8;1.552;0.64
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Post All-Star;Rajon Rondo;1.8;3.5;50.0;1.0;2.1;47.1;0.3;0.6;40.0;0.8;1.4;54.5;1.357;0.64
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Post All-Star;Brandon Goodwin;1.6;3.5;44.9;0.4;1.2;30.4;0.9;1.2;70.8;1.2;2.3;52.2;1.246;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Post All-Star;Dean Wade;1.6;3.9;41.9;0.5;2.1;23.5;0.4;0.4;100.0;1.1;1.8;64.3;1.065;0.48
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Post All-Star;Dylan Windler;0.3;1.6;19.0;0.0;1.2;0.0;0.6;0.7;88.9;0.3;0.4;80.0;0.762;0.19
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Post All-Star;Tim Frazier;0.5;1.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;1.0;50.0;1.000;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Post All-Star;Ed Davis;0.2;0.2;100.0;0.0;0.0;0.0;0.3;0.5;50.0;0.2;0.2;100.0;3.500;1.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Post All-Star;RJ Nembhard Jr.;0.1;1.0;14.3;0.0;0.1;0.0;0.3;0.3;100.0;0.1;0.9;16.7;0.571;0.14
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;Post All-Star;Total;39.9;84.0;47.5;11.4;31.6;36.0;19.3;25.1;77.1;28.5;52.4;54.5;1.317;0.54
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;3+ Days Rest;Darius Garland;9.0;19.0;47.4;3.0;8.1;37.0;2.0;2.2;90.0;6.0;10.9;55.1;1.211;0.55
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;3+ Days Rest;Jarrett Allen;6.7;11.0;60.6;0.0;0.3;0.0;3.7;5.3;68.8;6.7;10.7;62.5;1.545;0.61
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;3+ Days Rest;Collin Sexton;7.0;13.0;53.8;2.0;6.0;33.3;1.0;3.0;33.3;5.0;7.0;71.4;1.308;0.62
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;3+ Days Rest;Evan Mobley;6.2;11.3;54.4;0.7;1.8;36.4;3.5;5.3;65.6;5.5;9.5;57.9;1.456;0.57
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;3+ Days Rest;Lauri Markkanen;5.6;14.4;38.9;1.6;6.2;25.8;3.4;3.8;89.5;4.0;8.2;48.8;1.125;0.44
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;3+ Days Rest;Cedi Osman;5.3;9.6;55.8;2.7;5.2;51.1;1.7;2.4;68.2;2.7;4.3;61.5;1.570;0.70
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;3+ Days Rest;Ricky Rubio;4.0;11.8;34.0;2.3;6.5;34.6;2.8;3.0;91.7;1.8;5.3;33.3;1.106;0.44
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;3+ Days Rest;Caris LeVert;4.5;10.5;42.9;1.0;2.5;40.0;1.0;1.0;100.0;3.5;8.0;43.8;1.048;0.48
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;3+ Days Rest;Kevin Love;3.7;9.1;40.6;1.6;4.9;32.4;1.7;2.1;80.0;2.1;4.3;50.0;1.172;0.49
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;3+ Days Rest;Isaac Okoro;2.9;6.1;46.5;0.9;2.7;31.6;1.6;2.4;64.7;2.0;3.4;58.3;1.326;0.53
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;3+ Days Rest;Malik Newman;3.0;5.0;60.0;0.0;1.0;0.0;2.0;2.0;100.0;3.0;4.0;75.0;1.600;0.60
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;3+ Days Rest;Brandon Goodwin;2.9;4.8;60.5;0.9;1.9;46.7;0.5;0.6;80.0;2.0;2.9;69.6;1.500;0.70
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;3+ Days Rest;Dean Wade;2.4;4.2;58.0;1.3;2.6;48.4;0.7;0.8;88.9;1.2;1.6;73.7;1.620;0.73
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;3+ Days Rest;Rajon Rondo;1.9;4.7;39.4;1.3;3.6;36.0;0.7;1.1;62.5;0.6;1.1;50.0;1.212;0.53
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;3+ Days Rest;Justin Anderson;2.0;3.0;66.7;1.0;2.0;50.0;0.5;1.0;50.0;1.0;1.0;100.0;1.833;0.83
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;3+ Days Rest;Moses Brown;2.3;3.0;77.8;0.0;0.0;0.0;0.0;0.0;0.0;2.3;3.0;77.8;1.556;0.78
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;3+ Days Rest;Denzel Valentine;1.3;2.9;46.2;1.0;2.0;50.0;0.0;0.0;0.0;0.3;0.9;37.5;1.269;0.63
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;3+ Days Rest;Lamar Stevens;1.3;2.9;46.2;0.1;0.9;12.5;0.4;0.7;66.7;1.2;2.0;61.1;1.115;0.48
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;3+ Days Rest;Trevon Scott;1.5;3.0;50.0;0.0;0.5;0.0;0.0;0.0;0.0;1.5;2.5;60.0;1.000;0.50
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;3+ Days Rest;Tim Frazier;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;3+ Days Rest;Luke Kornet;0.5;2.5;20.0;0.0;0.5;0.0;1.0;1.5;66.7;0.5;2.0;25.0;0.800;0.20
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;3+ Days Rest;Dylan Windler;0.7;2.0;34.6;0.5;1.3;35.3;0.2;0.2;100.0;0.2;0.7;33.3;1.000;0.46
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;3+ Days Rest;Tacko Fall;0.7;1.8;36.4;0.0;0.0;0.0;0.2;0.5;33.3;0.7;1.8;36.4;0.818;0.36
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;3+ Days Rest;Kevin Pangos;0.5;0.9;50.0;0.3;0.6;50.0;0.1;0.2;50.0;0.2;0.3;50.0;1.417;0.67
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;3+ Days Rest;RJ Nembhard Jr.;0.5;1.3;37.5;0.0;0.2;0.0;0.3;0.3;75.0;0.5;1.2;42.9;0.938;0.38
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;3+ Days Rest;Ed Davis;0.4;0.8;58.3;0.0;0.0;0.0;0.2;0.6;30.0;0.4;0.8;58.3;1.417;0.58
+Cleveland Cavaliers;cle;2021 - 2022 Regular Season;3+ Days Rest;Total;41.2;90.5;45.5;14.0;40.2;34.9;18.0;23.7;76.1;27.2;50.3;54.0;1.263;0.53

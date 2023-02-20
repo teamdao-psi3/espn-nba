@@ -1,0 +1,859 @@
+teamName;teamCode;season;split;player_name;GP;GS;MIN;PTS;ORB;DR;REB;AST;STL;BLK;TO;PF;AST_TO
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;All Splits;Joel Embiid;68;68;33.8;30.6;2.1;9.6;11.7;4.2;1.1;1.5;3.1;2.7;1.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;All Splits;James Harden;21;21;37.7;21.0;0.6;6.5;7.1;10.5;1.2;0.2;3.4;2.3;3.1
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;All Splits;Tyrese Maxey;75;74;35.3;17.5;0.3;2.9;3.2;4.3;0.7;0.4;1.2;2.1;3.6
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;All Splits;Tobias Harris;73;73;34.8;17.2;1.1;5.7;6.8;3.5;0.6;0.6;1.6;2.2;2.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;All Splits;Seth Curry;45;45;34.8;15.0;0.4;3.0;3.4;4.0;0.8;0.2;1.9;2.2;2.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;All Splits;Georges Niang;76;7;22.8;9.2;0.3;2.3;2.7;1.3;0.4;0.2;0.8;2.5;1.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;All Splits;Shake Milton;55;6;21.4;8.2;0.5;2.0;2.6;2.5;0.5;0.3;0.8;1.8;3.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;All Splits;Furkan Korkmaz;67;19;21.1;7.6;0.3;2.3;2.6;1.9;0.5;0.1;0.7;0.9;2.6
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;All Splits;Andre Drummond;49;12;18.4;6.1;2.8;6.1;8.8;2.0;1.1;0.9;1.6;2.5;1.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;All Splits;Danny Green;62;28;21.8;5.9;0.5;2.0;2.5;1.0;1.0;0.6;0.7;1.7;1.4
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;All Splits;Matisse Thybulle;66;50;25.5;5.7;0.6;1.7;2.3;1.1;1.7;1.1;0.6;2.4;1.9
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;All Splits;DeAndre Jordan;16;1;13.4;4.6;2.0;3.8;5.8;0.5;0.1;0.6;1.0;1.3;0.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;All Splits;Paul Millsap;9;1;11.8;3.7;1.3;1.4;2.8;0.6;0.6;0.2;0.9;2.1;0.6
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;All Splits;Tyler Johnson;3;0;12.7;3.7;0.3;1.7;2.0;0.7;0.3;0.3;0.3;1.3;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;All Splits;Isaiah Joe;55;1;11.1;3.6;0.1;0.9;1.0;0.6;0.3;0.1;0.3;0.9;1.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;All Splits;Paul Reed;38;2;8.0;3.1;1.2;1.3;2.4;0.4;0.9;0.4;0.3;1.5;1.6
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;All Splits;Charles Bassey;23;0;7.3;3.0;1.0;1.7;2.7;0.3;0.2;0.7;0.3;1.4;0.9
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;All Splits;Charlie Brown Jr.;19;2;8.5;1.5;0.7;0.9;1.6;0.3;0.4;0.2;0.3;0.8;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;All Splits;Myles Powell;11;0;4.7;1.2;0.1;0.5;0.5;0.3;0.1;0.0;0.3;0.7;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;All Splits;Braxton Key;2;0;3.0;1.0;0.5;0.5;1.0;0.5;0.5;0.0;1.0;0.5;0.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;All Splits;Jaden Springer;2;0;3.0;1.0;0.5;0.5;1.0;0.0;0.0;1.0;0.5;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;All Splits;Aaron Henry;6;0;2.8;0.3;0.0;0.2;0.2;0.0;0.0;0.3;0.3;0.3;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;All Splits;Willie Cauley-Stein;2;0;3.0;0.0;0.0;1.0;1.0;0.5;0.0;0.0;0.0;1.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;All Splits;Total;82;"";"";109.9;8.5;33.8;42.3;23.7;7.7;5.3;11.7;19.4;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Home;Joel Embiid;34;34;33.6;29.1;2.1;9.9;12.0;4.6;1.1;1.4;3.4;2.7;1.4
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Home;James Harden;10;10;36.4;20.9;0.4;6.4;6.8;10.6;0.9;0.3;3.7;2.6;2.9
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Home;Tyrese Maxey;39;38;35.1;17.7;0.4;2.8;3.1;4.5;0.6;0.5;1.2;2.0;3.9
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Home;Tobias Harris;37;37;34.9;17.6;1.1;5.7;6.7;3.3;0.7;0.5;1.6;2.4;2.1
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Home;Seth Curry;21;21;34.6;14.2;0.2;3.5;3.8;3.6;0.7;0.4;1.6;2.5;2.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Home;Georges Niang;37;1;22.2;9.4;0.3;2.3;2.6;1.4;0.4;0.2;0.8;2.5;1.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Home;Shake Milton;27;1;21.1;8.4;0.7;1.9;2.5;2.8;0.5;0.2;0.7;2.0;3.9
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Home;Furkan Korkmaz;34;11;22.0;7.5;0.4;2.1;2.5;2.1;0.4;0.2;0.6;0.8;3.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Home;Matisse Thybulle;35;28;26.1;6.3;0.7;1.4;2.1;1.3;1.8;1.1;0.6;2.3;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Home;Andre Drummond;25;5;18.8;6.2;2.8;6.3;9.1;2.0;1.2;0.9;1.6;2.3;1.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Home;Danny Green;34;14;20.8;5.7;0.4;1.9;2.3;1.2;0.9;0.5;0.7;1.4;1.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Home;DeAndre Jordan;8;1;15.1;5.1;2.5;3.9;6.4;0.6;0.3;0.8;1.3;1.5;0.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Home;Paul Reed;21;1;8.1;3.6;1.2;1.1;2.3;0.3;1.2;0.4;0.1;1.6;2.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Home;Isaiah Joe;29;1;10.0;3.6;0.1;0.8;0.8;0.6;0.2;0.0;0.3;0.6;1.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Home;Paul Millsap;5;1;12.4;3.2;1.2;1.0;2.2;0.4;0.6;0.4;1.0;1.8;0.4
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Home;Tyler Johnson;1;0;11.0;3.0;1.0;3.0;4.0;0.0;0.0;0.0;0.0;1.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Home;Charles Bassey;10;0;5.0;2.3;0.7;1.1;1.8;0.2;0.3;0.7;0.2;0.9;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Home;Charlie Brown Jr.;12;1;5.8;1.0;0.5;0.5;1.0;0.2;0.3;0.2;0.2;0.7;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Home;Aaron Henry;2;0;2.0;1.0;0.0;0.0;0.0;0.0;0.0;0.5;0.5;0.5;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Home;Myles Powell;6;0;2.3;0.7;0.0;0.2;0.2;0.0;0.0;0.0;0.0;0.5;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Home;Willie Cauley-Stein;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Home;Braxton Key;1;0;2.0;0.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;0.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Home;Total;41;"";"";110.2;8.6;33.5;42.1;24.6;7.9;5.5;11.7;19.2;2.1
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Away;Joel Embiid;34;34;34.0;32.0;2.2;9.2;11.4;3.7;1.1;1.5;2.9;2.6;1.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Away;James Harden;11;11;39.0;21.2;0.8;6.5;7.4;10.4;1.5;0.2;3.2;2.0;3.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Away;Tyrese Maxey;36;36;35.6;17.3;0.3;2.9;3.3;4.0;0.9;0.3;1.2;2.2;3.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Away;Tobias Harris;36;36;34.8;16.9;1.1;5.8;6.9;3.6;0.6;0.6;1.6;2.1;2.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Away;Seth Curry;24;24;34.9;15.7;0.5;2.5;3.0;4.4;0.9;0.1;2.1;2.0;2.1
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Away;Georges Niang;39;6;23.4;9.1;0.3;2.4;2.7;1.3;0.4;0.2;0.7;2.5;1.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Away;Shake Milton;28;5;21.8;7.9;0.4;2.2;2.6;2.3;0.5;0.4;0.9;1.6;2.6
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Away;Furkan Korkmaz;33;8;20.2;7.7;0.3;2.5;2.8;1.7;0.5;0.1;0.8;1.0;2.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Away;Danny Green;28;14;23.1;6.1;0.7;2.1;2.9;0.8;1.0;0.7;0.8;2.1;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Away;Andre Drummond;24;7;18.0;6.0;2.7;5.8;8.5;2.0;1.1;0.9;1.6;2.6;1.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Away;Matisse Thybulle;31;22;24.9;5.1;0.5;1.9;2.5;1.0;1.7;1.0;0.5;2.5;1.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Away;Paul Millsap;4;0;11.0;4.3;1.5;2.0;3.5;0.8;0.5;0.0;0.8;2.5;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Away;DeAndre Jordan;8;0;11.6;4.1;1.5;3.6;5.1;0.4;0.0;0.4;0.8;1.1;0.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Away;Tyler Johnson;2;0;13.5;4.0;0.0;1.0;1.0;1.0;0.5;0.5;0.5;1.5;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Away;Isaiah Joe;26;0;12.3;3.6;0.2;1.1;1.2;0.7;0.3;0.1;0.3;1.1;1.9
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Away;Charles Bassey;13;0;9.0;3.5;1.2;2.2;3.4;0.4;0.2;0.8;0.5;1.8;0.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Away;Paul Reed;17;1;7.8;2.4;1.1;1.4;2.5;0.5;0.4;0.4;0.4;1.4;1.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Away;Charlie Brown Jr.;7;1;13.3;2.3;1.1;1.6;2.7;0.4;0.6;0.1;0.4;1.1;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Away;Braxton Key;1;0;4.0;2.0;1.0;0.0;1.0;0.0;1.0;0.0;2.0;1.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Away;Myles Powell;5;0;7.6;1.8;0.2;0.8;1.0;0.6;0.2;0.0;0.6;1.0;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Away;Jaden Springer;2;0;3.0;1.0;0.5;0.5;1.0;0.0;0.0;1.0;0.5;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Away;Willie Cauley-Stein;1;0;4.0;0.0;0.0;2.0;2.0;1.0;0.0;0.0;0.0;1.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Away;Aaron Henry;4;0;3.3;0.0;0.0;0.3;0.3;0.0;0.0;0.3;0.3;0.3;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Away;Total;41;"";"";109.7;8.5;34.0;42.5;22.9;7.6;5.1;11.8;19.5;1.9
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Boston Celtics;Joel Embiid;4;4;33.0;24.5;1.3;11.3;12.5;5.8;1.3;2.3;2.5;2.0;2.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Boston Celtics;Seth Curry;3;3;37.3;20.0;0.0;2.0;2.0;6.7;1.0;0.3;3.3;2.7;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Boston Celtics;Tobias Harris;4;4;35.0;14.0;0.8;6.0;6.8;1.8;1.0;0.3;1.5;2.0;1.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Boston Celtics;Tyrese Maxey;3;3;34.0;13.3;0.3;2.3;2.7;2.3;0.3;0.0;0.3;1.3;7.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Boston Celtics;Shake Milton;2;0;25.0;12.0;1.5;1.5;3.0;2.5;1.5;0.5;0.0;1.5;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Boston Celtics;Paul Millsap;1;0;9.0;9.0;3.0;0.0;3.0;1.0;0.0;0.0;0.0;1.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Boston Celtics;Georges Niang;3;0;19.7;8.7;0.7;1.3;2.0;0.3;0.3;0.3;0.0;0.3;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Boston Celtics;Andre Drummond;2;0;15.0;6.5;3.0;5.5;8.5;1.5;0.5;1.0;0.5;3.5;3.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Boston Celtics;Danny Green;3;3;26.7;5.7;0.3;1.0;1.3;1.3;1.0;0.7;0.3;3.0;4.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Boston Celtics;Matisse Thybulle;4;3;26.5;5.3;0.3;2.5;2.8;1.3;2.3;1.3;1.3;3.3;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Boston Celtics;Furkan Korkmaz;3;0;17.0;4.3;0.0;2.7;2.7;1.7;0.3;0.0;1.0;0.7;1.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Boston Celtics;Paul Reed;1;0;15.0;3.0;2.0;2.0;4.0;0.0;2.0;0.0;0.0;2.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Boston Celtics;Charles Bassey;2;0;7.5;2.5;1.0;1.5;2.5;0.5;0.5;0.0;0.5;2.5;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Boston Celtics;Charlie Brown Jr.;2;0;3.5;2.0;0.0;0.5;0.5;0.5;0.5;0.0;0.0;0.5;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Boston Celtics;Isaiah Joe;3;0;12.3;1.3;0.0;1.0;1.0;0.0;0.7;0.0;0.7;1.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Boston Celtics;Myles Powell;2;0;4.5;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Boston Celtics;Aaron Henry;1;0;5.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Boston Celtics;Total;4;"";"";98.3;7.3;32.8;40.0;20.8;9.3;5.5;10.0;19.0;2.1
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Brooklyn Nets;Joel Embiid;4;4;31.3;28.0;2.0;7.0;9.0;3.3;1.5;1.5;2.8;3.3;1.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Brooklyn Nets;Seth Curry;3;3;36.0;23.0;0.0;3.3;3.3;3.3;1.3;0.7;1.0;1.3;3.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Brooklyn Nets;Tobias Harris;4;4;34.8;14.8;1.8;4.0;5.8;4.5;0.0;0.5;1.0;2.3;4.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Brooklyn Nets;Tyrese Maxey;3;3;32.7;14.7;0.7;2.7;3.3;2.3;0.7;0.0;0.3;2.3;7.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Brooklyn Nets;James Harden;1;1;29.0;11.0;1.0;5.0;6.0;5.0;2.0;0.0;4.0;3.0;1.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Brooklyn Nets;DeAndre Jordan;1;0;17.0;10.0;4.0;5.0;9.0;0.0;0.0;0.0;4.0;1.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Brooklyn Nets;Georges Niang;3;0;18.3;8.3;0.3;2.7;3.0;0.0;0.3;0.3;0.0;3.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Brooklyn Nets;Danny Green;2;2;31.0;7.0;0.0;1.5;1.5;0.0;1.5;0.5;0.0;3.5;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Brooklyn Nets;Paul Reed;1;0;8.0;7.0;2.0;2.0;4.0;1.0;1.0;0.0;0.0;2.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Brooklyn Nets;Andre Drummond;3;0;16.3;6.0;2.7;6.0;8.7;1.7;2.0;1.0;1.7;2.0;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Brooklyn Nets;Furkan Korkmaz;3;0;17.3;6.0;0.3;2.0;2.3;1.3;0.0;0.0;0.7;0.7;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Brooklyn Nets;Matisse Thybulle;4;2;26.5;5.5;1.3;1.3;2.5;1.3;1.5;0.8;1.0;2.3;1.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Brooklyn Nets;Shake Milton;3;1;23.3;4.3;0.7;2.7;3.3;2.0;0.7;0.7;1.3;3.3;1.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Brooklyn Nets;Isaiah Joe;3;0;13.7;0.7;0.0;1.0;1.0;1.0;0.0;0.7;0.0;0.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Brooklyn Nets;Total;4;"";"";106.0;10.3;31.3;41.5;19.3;8.3;5.5;10.5;20.5;1.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. New York Knicks;James Harden;2;2;37.5;27.5;0.0;9.5;9.5;12.5;2.5;0.0;3.0;3.5;4.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. New York Knicks;Joel Embiid;3;3;33.7;26.0;0.7;8.3;9.0;3.3;1.0;2.3;3.7;2.0;0.9
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. New York Knicks;Tyrese Maxey;4;4;35.5;17.3;0.5;5.0;5.5;3.5;1.3;0.3;0.5;2.3;7.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. New York Knicks;Tobias Harris;3;3;32.3;16.3;1.7;5.3;7.0;4.0;0.0;1.0;1.7;3.3;2.4
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. New York Knicks;Andre Drummond;2;1;26.5;10.0;6.5;10.5;17.0;1.5;0.5;1.0;1.5;2.5;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. New York Knicks;Georges Niang;4;0;21.0;10.0;0.3;1.8;2.0;0.3;0.3;0.0;0.3;2.8;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. New York Knicks;Seth Curry;2;2;35.0;9.0;0.5;2.5;3.0;3.5;0.5;0.0;3.0;3.0;1.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. New York Knicks;Matisse Thybulle;3;2;24.3;8.0;0.0;3.3;3.3;1.3;1.3;1.7;0.0;2.7;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. New York Knicks;Danny Green;4;2;22.3;7.0;0.5;1.0;1.5;1.5;1.3;1.0;1.0;1.3;1.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. New York Knicks;Furkan Korkmaz;4;1;20.8;7.0;0.3;1.3;1.5;1.8;0.8;0.0;1.0;0.3;1.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. New York Knicks;Shake Milton;3;0;16.0;6.7;0.7;1.0;1.7;0.7;0.3;0.0;0.3;1.0;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. New York Knicks;Paul Millsap;2;0;12.0;3.0;1.5;1.0;2.5;0.5;0.5;0.5;1.5;2.5;0.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. New York Knicks;Charles Bassey;1;0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. New York Knicks;Isaiah Joe;2;0;4.0;1.5;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. New York Knicks;Paul Reed;3;0;3.0;1.0;0.7;0.7;1.3;0.7;0.3;0.0;0.0;0.3;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. New York Knicks;Willie Cauley-Stein;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. New York Knicks;Total;4;"";"";110.8;8.5;34.8;43.3;24.0;7.8;5.8;11.5;19.5;2.1
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Toronto Raptors;Joel Embiid;3;3;36.3;29.0;1.0;10.3;11.3;2.7;1.0;1.0;2.7;2.3;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Toronto Raptors;Tyrese Maxey;4;4;37.3;19.8;0.0;2.5;2.5;3.5;0.8;0.8;1.5;1.8;2.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Toronto Raptors;James Harden;2;2;38.5;15.0;0.0;6.5;6.5;11.5;1.0;0.0;4.5;2.5;2.6
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Toronto Raptors;Seth Curry;2;2;35.0;13.5;1.0;4.0;5.0;4.5;0.5;0.0;1.0;1.0;4.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Toronto Raptors;Tobias Harris;4;4;34.3;12.8;1.0;6.8;7.8;5.5;1.0;0.5;3.3;3.8;1.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Toronto Raptors;Georges Niang;4;0;23.0;11.5;0.0;2.3;2.3;1.8;0.5;0.0;0.3;2.3;7.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Toronto Raptors;Matisse Thybulle;2;2;35.5;9.5;0.5;2.5;3.0;0.0;1.5;2.5;0.0;3.5;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Toronto Raptors;Danny Green;3;2;24.3;9.0;1.0;1.7;2.7;2.0;1.0;0.3;1.0;1.7;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Toronto Raptors;Shake Milton;3;0;14.7;7.0;0.7;0.0;0.7;0.3;0.0;0.0;0.7;1.3;0.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Toronto Raptors;Furkan Korkmaz;3;0;15.0;6.3;0.3;2.3;2.7;1.7;0.3;0.0;0.0;1.3;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Toronto Raptors;Andre Drummond;1;1;30.0;4.0;5.0;7.0;12.0;3.0;0.0;4.0;0.0;1.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Toronto Raptors;Tyler Johnson;1;0;11.0;3.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Toronto Raptors;Paul Reed;4;0;10.3;3.0;1.5;1.8;3.3;0.3;1.3;0.5;0.3;2.0;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Toronto Raptors;DeAndre Jordan;1;0;11.0;0.0;1.0;1.0;2.0;0.0;0.0;0.0;1.0;1.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Toronto Raptors;Total;4;"";"";106.3;7.0;32.5;39.5;24.8;7.0;5.0;11.5;18.8;2.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Chicago Bulls;Joel Embiid;4;4;34.0;32.8;1.5;10.8;12.3;3.8;0.8;1.8;4.0;2.5;0.9
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Chicago Bulls;James Harden;1;1;38.0;16.0;1.0;7.0;8.0;14.0;0.0;0.0;3.0;3.0;4.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Chicago Bulls;Tobias Harris;2;2;38.0;15.5;2.0;3.5;5.5;4.0;0.5;0.5;1.0;3.0;4.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Chicago Bulls;Seth Curry;3;3;35.3;15.0;0.0;3.0;3.0;2.7;1.0;0.0;2.0;0.7;1.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Chicago Bulls;Furkan Korkmaz;3;1;25.0;15.0;0.0;4.0;4.0;1.3;0.3;0.3;1.7;1.3;0.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Chicago Bulls;Tyrese Maxey;4;4;38.8;14.3;0.0;2.3;2.3;6.0;1.3;0.3;0.5;1.3;12.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Chicago Bulls;Georges Niang;4;0;25.8;13.3;0.3;2.3;2.5;2.3;0.5;0.3;0.8;3.5;3.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Chicago Bulls;Matisse Thybulle;2;2;33.0;10.0;0.5;2.0;2.5;0.5;1.5;1.0;0.5;3.5;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Chicago Bulls;Shake Milton;3;1;23.0;7.7;0.3;3.3;3.7;2.7;1.0;0.3;0.7;1.7;4.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Chicago Bulls;Danny Green;2;1;18.5;5.5;0.0;1.5;1.5;1.0;0.5;1.0;0.0;1.5;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Chicago Bulls;Paul Reed;2;1;11.5;5.0;2.0;0.5;2.5;0.5;0.5;0.5;1.0;2.0;0.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Chicago Bulls;Andre Drummond;3;0;14.7;2.3;1.0;4.0;5.0;2.3;0.3;0.3;1.3;2.0;1.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Chicago Bulls;DeAndre Jordan;1;0;10.0;2.0;2.0;1.0;3.0;2.0;1.0;1.0;0.0;1.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Chicago Bulls;Isaiah Joe;3;0;7.0;2.0;0.0;0.7;0.7;0.3;0.0;0.0;0.0;0.7;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Chicago Bulls;Charlie Brown Jr.;1;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Chicago Bulls;Total;4;"";"";114.3;5.8;32.3;38.0;26.0;6.3;4.8;11.5;18.3;2.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Joel Embiid;4;4;35.3;35.3;3.0;11.3;14.3;5.8;1.5;1.3;3.0;3.0;1.9
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;James Harden;3;3;39.3;22.3;1.3;3.7;5.0;10.7;1.0;0.0;3.7;2.3;2.9
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Tyrese Maxey;4;4;34.5;21.3;0.0;2.0;2.0;3.0;1.0;0.3;2.0;2.5;1.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Tobias Harris;4;4;36.5;14.0;0.0;5.0;5.0;2.0;0.5;0.5;1.8;4.3;1.1
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Georges Niang;4;0;23.0;7.8;0.8;2.5;3.3;1.0;0.5;0.3;0.0;3.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Paul Reed;1;0;15.0;6.0;5.0;2.0;7.0;0.0;3.0;0.0;0.0;3.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Shake Milton;4;0;14.8;5.3;0.0;2.0;2.0;1.5;0.0;0.0;1.3;1.3;1.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;DeAndre Jordan;2;0;11.5;5.0;1.0;3.5;4.5;0.5;0.0;0.5;0.5;0.5;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Danny Green;4;1;20.5;3.8;0.0;2.0;2.0;0.5;1.0;0.5;0.3;1.3;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Matisse Thybulle;4;4;24.8;3.8;0.3;2.0;2.3;1.5;2.0;1.3;0.0;3.8;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Furkan Korkmaz;3;0;10.3;3.0;0.7;0.3;1.0;0.0;0.3;0.3;0.3;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Paul Millsap;1;0;8.0;2.0;1.0;1.0;2.0;0.0;1.0;0.0;1.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Isaiah Joe;2;0;3.5;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Total;4;"";"";114.5;7.5;32.3;39.8;23.5;8.5;4.5;11.8;22.3;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Detroit Pistons;Joel Embiid;3;3;32.7;28.7;3.0;11.0;14.0;3.0;1.0;0.7;4.3;3.0;0.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Detroit Pistons;Tyrese Maxey;4;4;33.5;18.5;0.0;3.5;3.5;4.0;0.5;0.5;2.3;2.0;1.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Detroit Pistons;James Harden;1;1;38.0;18.0;0.0;9.0;9.0;7.0;2.0;1.0;3.0;0.0;2.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Detroit Pistons;Seth Curry;2;2;34.5;17.5;0.0;2.5;2.5;1.0;0.0;0.0;2.0;1.0;0.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Detroit Pistons;Shake Milton;4;1;25.5;15.5;1.3;2.5;3.8;4.3;1.0;0.5;1.0;2.0;4.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Detroit Pistons;Tobias Harris;3;3;32.0;12.3;1.0;4.3;5.3;3.3;0.3;1.7;1.7;3.7;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Detroit Pistons;Paul Reed;3;0;12.0;9.7;1.7;3.3;5.0;1.0;1.3;0.3;0.0;2.3;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Detroit Pistons;Georges Niang;3;0;21.0;8.3;0.0;3.0;3.0;1.0;0.7;0.0;1.3;1.7;0.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Detroit Pistons;Furkan Korkmaz;3;0;18.7;5.3;0.3;1.0;1.3;2.0;0.3;0.7;1.0;1.0;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Detroit Pistons;Matisse Thybulle;4;3;28.5;5.3;0.8;1.8;2.5;2.3;2.0;1.8;0.3;2.0;9.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Detroit Pistons;DeAndre Jordan;2;1;16.5;5.0;1.5;4.5;6.0;0.5;0.0;1.0;0.0;1.5;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Detroit Pistons;Andre Drummond;2;0;16.0;5.0;2.5;4.5;7.0;1.5;0.5;0.5;2.5;4.0;0.6
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Detroit Pistons;Isaiah Joe;2;0;14.5;4.0;0.0;2.0;2.0;1.0;1.0;0.0;1.5;1.0;0.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Detroit Pistons;Danny Green;3;2;20.0;0.0;0.3;2.0;2.3;1.0;2.0;0.7;1.0;2.0;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Detroit Pistons;Charlie Brown Jr.;1;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Detroit Pistons;Total;4;"";"";107.8;8.8;35.3;44.0;22.8;9.0;6.8;14.3;20.0;1.6
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Indiana Pacers;Joel Embiid;2;2;38.0;43.0;3.5;13.0;16.5;3.0;1.0;1.0;4.0;2.5;0.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Indiana Pacers;Tyrese Maxey;3;3;37.3;24.0;0.3;1.7;2.0;5.0;0.7;0.3;1.3;2.7;3.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Indiana Pacers;Tobias Harris;3;3;34.3;22.3;1.0;6.0;7.0;2.7;1.3;0.3;2.3;2.3;1.1
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Indiana Pacers;James Harden;2;2;39.5;16.5;0.0;3.5;3.5;14.0;1.0;0.0;4.5;2.0;3.1
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Indiana Pacers;Andre Drummond;1;1;31.0;11.0;8.0;8.0;16.0;2.0;1.0;1.0;1.0;2.0;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Indiana Pacers;Seth Curry;1;1;33.0;11.0;2.0;2.0;4.0;5.0;1.0;0.0;3.0;3.0;1.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Indiana Pacers;Danny Green;3;2;23.3;10.7;2.0;1.3;3.3;1.7;2.0;0.7;0.7;2.0;2.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Indiana Pacers;Georges Niang;2;0;22.0;7.5;0.5;1.0;1.5;0.5;2.0;0.0;1.5;3.5;0.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Indiana Pacers;Shake Milton;3;0;21.3;7.0;0.3;1.3;1.7;3.3;0.7;0.0;0.7;2.3;5.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Indiana Pacers;DeAndre Jordan;1;0;9.0;6.0;2.0;4.0;6.0;1.0;0.0;0.0;1.0;2.0;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Indiana Pacers;Isaiah Joe;1;0;9.0;5.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Indiana Pacers;Furkan Korkmaz;2;0;12.0;4.0;0.5;1.0;1.5;0.0;1.0;0.0;0.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Indiana Pacers;Paul Reed;2;0;9.0;4.0;1.5;1.5;3.0;1.0;2.0;0.5;0.5;3.0;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Indiana Pacers;Matisse Thybulle;2;1;22.0;1.0;1.0;0.0;1.0;1.5;1.5;0.0;0.5;0.5;3.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Indiana Pacers;Charles Bassey;1;0;4.0;0.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;1.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Indiana Pacers;Total;3;"";"";125.7;12.3;29.0;41.3;29.0;11.0;2.7;14.0;20.0;2.1
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Joel Embiid;2;2;38.0;35.5;1.5;12.5;14.0;6.0;1.0;0.0;5.0;3.5;1.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Milwaukee Bucks;James Harden;1;1;37.0;32.0;0.0;5.0;5.0;9.0;0.0;1.0;2.0;3.0;4.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Tobias Harris;2;2;38.5;20.5;3.0;6.5;9.5;5.0;1.5;0.0;0.0;2.5;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Tyrese Maxey;3;3;39.7;19.0;0.3;2.3;2.7;4.7;0.3;0.3;0.0;1.3;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Andre Drummond;1;1;33.0;17.0;7.0;13.0;20.0;3.0;1.0;2.0;3.0;3.0;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Georges Niang;3;1;28.0;16.0;0.7;2.7;3.3;1.0;0.7;0.0;1.0;3.7;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Shake Milton;3;1;23.7;10.7;0.7;2.7;3.3;2.7;0.0;0.3;0.7;2.7;4.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Furkan Korkmaz;2;1;37.5;9.0;1.0;5.0;6.0;3.0;0.5;0.0;1.0;1.5;3.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Danny Green;3;0;22.0;6.7;0.3;2.0;2.3;1.0;0.0;0.3;0.3;2.7;3.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Paul Reed;1;1;24.0;6.0;2.0;4.0;6.0;0.0;3.0;2.0;1.0;3.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Paul Millsap;2;0;10.0;2.0;0.5;1.5;2.0;0.5;0.5;0.0;1.0;3.0;0.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Matisse Thybulle;2;2;17.5;1.0;0.0;1.0;1.0;0.5;1.0;1.0;0.5;0.5;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Charles Bassey;1;0;5.0;0.0;0.0;1.0;1.0;0.0;0.0;2.0;0.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Total;3;"";"";116.0;9.0;35.0;44.0;23.3;5.3;4.0;9.0;20.7;2.6
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Atlanta Hawks;Joel Embiid;3;3;33.7;23.3;1.0;8.0;9.0;2.7;0.7;1.7;2.3;2.0;1.1
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Atlanta Hawks;Tobias Harris;2;2;34.5;19.0;0.0;8.5;8.5;4.5;1.0;0.5;1.5;2.5;3.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Atlanta Hawks;Seth Curry;3;3;33.0;15.0;0.0;1.3;1.3;3.7;1.0;0.0;1.3;2.7;2.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Atlanta Hawks;Tyrese Maxey;3;2;30.3;14.7;0.3;1.0;1.3;3.7;1.3;1.0;1.0;2.0;3.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Atlanta Hawks;Georges Niang;2;1;23.5;9.0;0.0;3.5;3.5;2.5;1.0;0.0;0.5;3.5;5.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Atlanta Hawks;Danny Green;2;2;28.5;8.0;1.0;2.5;3.5;1.5;1.0;1.5;2.0;4.0;0.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Atlanta Hawks;Shake Milton;2;0;20.5;8.0;0.5;2.0;2.5;2.5;1.0;0.0;1.0;2.0;2.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Atlanta Hawks;Matisse Thybulle;3;1;26.0;6.3;1.0;2.3;3.3;1.7;1.7;1.7;0.3;2.7;5.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Atlanta Hawks;Furkan Korkmaz;3;1;19.0;6.3;0.3;1.3;1.7;1.0;0.0;0.0;1.0;1.0;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Atlanta Hawks;Andre Drummond;2;0;12.5;6.0;2.0;4.0;6.0;1.0;2.0;0.0;1.5;0.5;0.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Atlanta Hawks;Isaiah Joe;2;0;8.5;4.0;0.0;2.0;2.0;1.0;0.0;0.0;0.0;0.5;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Atlanta Hawks;Charles Bassey;2;0;8.0;4.0;1.5;2.5;4.0;0.5;0.5;0.5;0.0;1.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Atlanta Hawks;Tyler Johnson;1;0;11.0;3.0;1.0;3.0;4.0;0.0;0.0;0.0;0.0;1.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Atlanta Hawks;Paul Reed;2;0;5.0;0.0;0.0;0.5;0.5;0.5;0.0;0.0;0.0;0.5;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Atlanta Hawks;Total;3;"";"";105.3;6.3;32.0;38.3;22.0;9.0;6.0;10.3;20.3;2.1
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Charlotte Hornets;Joel Embiid;4;4;34.3;33.8;1.3;9.5;10.8;5.0;0.5;0.3;3.8;3.0;1.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Charlotte Hornets;Tobias Harris;4;4;36.0;19.8;1.5;6.0;7.5;3.3;0.8;0.5;2.5;1.8;1.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Charlotte Hornets;Seth Curry;3;3;36.7;13.0;1.0;2.7;3.7;4.3;1.0;0.3;2.7;1.0;1.6
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Charlotte Hornets;James Harden;1;1;31.0;12.0;2.0;6.0;8.0;13.0;1.0;0.0;5.0;1.0;2.6
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Charlotte Hornets;Tyrese Maxey;3;3;32.7;11.7;0.3;2.0;2.3;3.3;0.7;0.0;1.0;1.3;3.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Charlotte Hornets;Shake Milton;3;1;28.0;11.3;0.0;3.7;3.7;3.3;0.0;1.0;0.7;2.7;5.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Charlotte Hornets;DeAndre Jordan;1;0;10.0;8.0;0.0;5.0;5.0;1.0;0.0;2.0;2.0;1.0;0.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Charlotte Hornets;Danny Green;4;2;20.5;7.0;0.3;2.5;2.8;1.8;0.0;1.5;1.5;1.0;1.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Charlotte Hornets;Furkan Korkmaz;4;0;15.5;6.5;0.0;1.8;1.8;1.3;0.0;0.3;0.3;0.8;5.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Charlotte Hornets;Georges Niang;4;0;16.8;6.3;0.3;0.8;1.0;1.0;0.8;0.3;1.0;2.0;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Charlotte Hornets;Isaiah Joe;3;0;8.0;6.0;0.0;0.7;0.7;0.7;0.3;0.0;0.7;1.0;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Charlotte Hornets;Andre Drummond;3;0;16.0;5.3;1.7;3.7;5.3;1.7;1.3;1.0;1.7;2.3;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Charlotte Hornets;Matisse Thybulle;4;2;19.5;4.5;0.8;1.3;2.0;1.0;1.3;0.3;0.3;2.0;4.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Charlotte Hornets;Myles Powell;1;0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Charlotte Hornets;Charles Bassey;1;0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Charlotte Hornets;Paul Reed;2;0;4.0;1.0;1.0;0.0;1.0;0.0;0.5;0.0;0.5;1.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Charlotte Hornets;Charlie Brown Jr.;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Charlotte Hornets;Total;4;"";"";119.8;7.3;34.0;41.3;26.8;6.3;5.3;16.3;17.8;1.6
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Miami Heat;Joel Embiid;3;3;36.7;23.7;3.0;10.7;13.7;3.3;1.3;0.7;2.3;2.0;1.4
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Miami Heat;Tyrese Maxey;4;4;36.5;21.3;0.3;4.0;4.3;3.5;0.3;1.0;2.3;3.0;1.6
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Miami Heat;Tobias Harris;4;4;38.0;19.0;0.8;6.5;7.3;3.8;0.3;0.5;2.3;1.0;1.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Miami Heat;Seth Curry;2;2;37.0;14.0;0.0;3.5;3.5;4.5;1.0;0.5;2.0;3.0;2.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Miami Heat;Georges Niang;3;1;27.0;12.0;0.3;3.3;3.7;3.0;0.3;0.3;1.0;4.0;3.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Miami Heat;Shake Milton;3;0;25.7;10.0;1.0;1.0;2.0;4.3;0.7;0.7;1.0;2.3;4.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Miami Heat;Furkan Korkmaz;3;2;24.7;8.7;0.7;2.7;3.3;1.3;0.3;0.0;0.0;1.3;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Miami Heat;Danny Green;3;0;22.0;7.0;1.3;2.7;4.0;1.0;3.0;0.0;0.3;2.7;3.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Miami Heat;Paul Millsap;2;1;16.0;4.5;1.5;3.0;4.5;1.0;1.0;0.5;0.5;2.5;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Miami Heat;DeAndre Jordan;1;0;25.0;2.0;4.0;4.0;8.0;1.0;1.0;0.0;2.0;0.0;0.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Miami Heat;Charlie Brown Jr.;1;0;15.0;2.0;1.0;1.0;2.0;2.0;0.0;0.0;0.0;3.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Miami Heat;Isaiah Joe;4;0;7.0;2.0;0.0;0.3;0.3;0.3;0.0;0.0;0.8;0.3;0.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Miami Heat;Matisse Thybulle;3;3;17.3;1.7;0.7;0.3;1.0;1.3;0.7;1.3;0.3;1.7;4.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Miami Heat;Andre Drummond;2;0;11.0;0.5;0.5;3.5;4.0;1.0;1.5;0.5;1.5;2.0;0.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Miami Heat;Paul Reed;3;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.3;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Miami Heat;Total;4;"";"";100.0;8.5;32.5;41.0;22.3;7.3;4.5;11.5;19.5;1.9
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Orlando Magic;Joel Embiid;4;4;32.8;33.0;3.0;8.5;11.5;4.5;0.8;2.0;3.3;3.0;1.4
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Orlando Magic;James Harden;1;1;44.0;26.0;1.0;5.0;6.0;6.0;3.0;0.0;3.0;1.0;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Orlando Magic;Tobias Harris;4;4;39.3;21.5;0.3;7.5;7.8;3.0;1.3;1.0;0.8;1.8;4.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Orlando Magic;Seth Curry;3;3;35.7;16.3;0.0;5.7;5.7;5.3;1.0;0.3;1.3;1.0;4.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Orlando Magic;Tyrese Maxey;3;3;37.3;11.0;0.7;3.7;4.3;5.3;0.7;0.3;0.3;2.7;16.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Orlando Magic;Georges Niang;4;0;26.5;10.5;1.0;2.8;3.8;1.3;0.3;0.0;0.5;1.5;2.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Orlando Magic;Furkan Korkmaz;3;1;26.3;10.0;0.3;4.3;4.7;2.3;0.7;0.0;1.7;0.7;1.4
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Orlando Magic;Andre Drummond;3;0;18.0;9.3;3.7;4.7;8.3;1.7;1.3;1.7;2.3;2.0;0.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Orlando Magic;Matisse Thybulle;2;1;19.0;3.5;1.0;0.5;1.5;0.0;0.5;0.5;1.5;4.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Orlando Magic;Shake Milton;2;0;15.0;3.0;0.0;1.0;1.0;2.0;1.0;0.0;0.0;2.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Orlando Magic;Charlie Brown Jr.;1;1;17.0;3.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;1.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Orlando Magic;Isaiah Joe;3;0;13.7;3.0;0.7;1.3;2.0;0.3;0.3;0.0;0.0;1.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Orlando Magic;Danny Green;2;2;23.5;2.5;0.5;1.0;1.5;0.5;1.0;0.0;0.0;1.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Orlando Magic;DeAndre Jordan;1;0;12.0;0.0;1.0;3.0;4.0;0.0;0.0;0.0;1.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Orlando Magic;Myles Powell;2;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Orlando Magic;Charles Bassey;1;0;4.0;0.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;2.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Orlando Magic;Total;4;"";"";114.0;9.5;37.0;46.5;23.0;7.3;5.3;10.5;16.8;2.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Washington Wizards;Joel Embiid;3;3;31.7;31.7;2.3;9.3;11.7;2.7;0.7;1.0;1.7;2.7;1.6
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Washington Wizards;Tyrese Maxey;3;3;34.7;17.7;0.3;4.7;5.0;4.7;0.7;0.0;0.0;1.7;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Washington Wizards;Tobias Harris;3;3;32.0;16.0;1.7;4.0;5.7;2.3;0.3;0.0;1.3;3.7;1.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Washington Wizards;Furkan Korkmaz;2;1;21.5;10.0;0.5;4.0;4.5;3.0;1.5;0.0;1.0;2.0;3.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Washington Wizards;Seth Curry;2;2;33.5;9.5;0.5;3.0;3.5;7.0;0.5;1.0;2.5;1.5;2.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Washington Wizards;Georges Niang;3;0;22.0;8.3;0.7;3.3;4.0;0.7;0.3;0.0;0.7;2.3;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Washington Wizards;Isaiah Joe;3;0;16.7;7.0;0.0;0.3;0.3;0.3;0.7;0.3;0.0;0.7;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Washington Wizards;Danny Green;1;1;27.0;6.0;1.0;1.0;2.0;2.0;0.0;1.0;0.0;3.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Washington Wizards;Charlie Brown Jr.;1;0;23.0;6.0;4.0;5.0;9.0;0.0;0.0;1.0;2.0;1.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Washington Wizards;Tyler Johnson;1;0;16.0;5.0;0.0;2.0;2.0;2.0;0.0;1.0;1.0;3.0;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Washington Wizards;Andre Drummond;2;0;14.0;3.0;1.5;3.5;5.0;2.5;1.5;0.0;1.0;4.5;2.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Washington Wizards;Charles Bassey;2;0;5.0;2.0;1.0;0.0;1.0;1.0;0.0;0.0;1.0;0.5;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Washington Wizards;Jaden Springer;1;0;4.0;2.0;1.0;1.0;2.0;0.0;0.0;2.0;1.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Washington Wizards;Matisse Thybulle;2;2;31.0;1.5;0.5;2.0;2.5;1.5;1.0;1.5;0.0;3.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Washington Wizards;Myles Powell;3;0;3.7;1.0;0.0;0.3;0.3;0.3;0.0;0.0;0.0;1.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Washington Wizards;Paul Reed;2;0;7.5;1.0;0.5;1.5;2.0;0.0;0.0;0.0;0.5;1.5;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Washington Wizards;Aaron Henry;1;0;4.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Washington Wizards;Total;3;"";"";106.0;10.0;34.3;44.3;22.3;5.7;5.0;9.3;23.0;2.4
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Denver Nuggets;Joel Embiid;1;1;36.0;34.0;3.0;6.0;9.0;4.0;1.0;2.0;5.0;5.0;0.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Denver Nuggets;James Harden;1;1;39.0;24.0;0.0;9.0;9.0;11.0;0.0;1.0;4.0;1.0;2.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Denver Nuggets;Tyrese Maxey;2;2;38.5;20.5;0.0;4.0;4.0;3.5;0.5;0.5;0.0;1.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Denver Nuggets;Seth Curry;1;1;38.0;20.0;2.0;4.0;6.0;5.0;1.0;0.0;2.0;3.0;2.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Denver Nuggets;Tobias Harris;2;2;34.5;13.5;0.5;6.5;7.0;1.5;1.0;0.5;0.5;1.0;3.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Denver Nuggets;Charles Bassey;1;0;19.0;12.0;4.0;3.0;7.0;0.0;1.0;3.0;0.0;3.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Denver Nuggets;Georges Niang;2;1;30.0;9.5;0.5;4.0;4.5;2.0;0.0;0.5;1.5;2.5;1.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Denver Nuggets;Matisse Thybulle;1;1;26.0;9.0;2.0;3.0;5.0;3.0;6.0;2.0;2.0;4.0;1.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Denver Nuggets;Shake Milton;2;0;18.5;7.5;0.5;2.5;3.0;2.0;0.0;0.5;1.0;1.0;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Denver Nuggets;Furkan Korkmaz;1;0;22.0;5.0;0.0;4.0;4.0;3.0;1.0;0.0;2.0;1.0;1.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Denver Nuggets;Andre Drummond;1;1;29.0;4.0;0.0;6.0;6.0;1.0;0.0;0.0;1.0;5.0;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Denver Nuggets;DeAndre Jordan;1;0;12.0;3.0;3.0;3.0;6.0;0.0;0.0;1.0;0.0;2.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Denver Nuggets;Danny Green;1;0;14.0;0.0;0.0;4.0;4.0;2.0;0.0;0.0;0.0;0.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Denver Nuggets;Isaiah Joe;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Denver Nuggets;Total;2;"";"";106.5;8.5;38.0;46.5;23.5;6.5;6.5;11.0;17.5;2.1
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Joel Embiid;2;2;38.5;38.0;1.0;11.0;12.0;3.0;1.0;1.0;3.0;3.5;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;James Harden;1;1;35.0;27.0;1.0;7.0;8.0;12.0;0.0;0.0;2.0;4.0;6.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Tyrese Maxey;2;2;38.0;21.5;0.0;3.0;3.0;5.5;2.0;0.5;2.5;4.5;2.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Seth Curry;1;1;46.0;14.0;0.0;3.0;3.0;1.0;0.0;0.0;1.0;5.0;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Tobias Harris;2;2;37.5;11.5;1.5;4.5;6.0;4.0;1.5;0.0;0.0;1.5;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Danny Green;2;0;21.5;8.5;1.0;2.0;3.0;1.5;2.0;0.0;1.0;0.5;1.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Matisse Thybulle;2;2;26.0;8.5;3.0;3.0;6.0;1.5;3.0;0.0;1.5;2.0;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Furkan Korkmaz;2;0;16.5;6.0;1.0;0.5;1.5;1.0;1.0;0.0;1.5;1.0;0.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Georges Niang;2;0;19.0;4.5;0.0;1.0;1.0;1.5;0.0;0.5;0.5;2.0;3.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Isaiah Joe;2;0;5.5;4.0;0.0;0.5;0.5;1.5;0.5;0.0;0.0;1.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Paul Millsap;1;0;12.0;3.0;1.0;1.0;2.0;0.0;0.0;0.0;1.0;2.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Andre Drummond;1;0;13.0;2.0;1.0;2.0;3.0;1.0;0.0;1.0;2.0;3.0;0.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Shake Milton;1;0;12.0;2.0;0.0;2.0;2.0;3.0;1.0;0.0;1.0;1.0;3.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Willie Cauley-Stein;1;0;4.0;0.0;0.0;2.0;2.0;1.0;0.0;0.0;0.0;1.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Paul Reed;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Total;2;"";"";126.5;9.0;34.0;43.0;28.5;11.5;2.5;13.5;24.0;2.1
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Seth Curry;1;1;34.0;28.0;2.0;1.0;3.0;3.0;1.0;0.0;0.0;2.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Joel Embiid;2;2;34.0;23.5;2.5;11.5;14.0;5.0;1.0;4.0;2.0;1.5;2.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Tyrese Maxey;2;2;33.0;19.0;2.5;2.5;5.0;2.0;0.0;0.5;2.0;3.5;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Tobias Harris;2;2;34.5;15.5;2.5;7.5;10.0;4.0;0.0;1.5;2.0;0.5;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Georges Niang;2;0;20.0;9.0;0.0;2.0;2.0;2.5;0.0;0.0;1.0;2.5;2.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Danny Green;2;1;23.5;7.0;0.5;5.0;5.5;1.0;0.0;0.5;1.5;0.5;0.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Furkan Korkmaz;2;1;23.0;7.0;0.0;1.0;1.0;3.5;0.5;0.0;0.5;0.5;7.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Matisse Thybulle;2;1;25.5;6.5;1.0;2.5;3.5;0.5;2.0;1.5;1.0;2.5;0.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Shake Milton;1;0;25.0;4.0;1.0;3.0;4.0;2.0;0.0;0.0;2.0;3.0;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Paul Reed;2;0;11.5;4.0;3.0;3.0;6.0;1.0;1.5;1.5;0.5;2.0;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Charlie Brown Jr.;1;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Isaiah Joe;2;0;5.5;0.0;0.0;0.5;0.5;0.0;0.0;0.0;0.0;0.5;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Total;2;"";"";107.5;13.5;37.5;51.0;22.0;5.5;9.5;11.5;16.5;1.9
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Tobias Harris;1;1;36.0;28.0;0.0;8.0;8.0;3.0;0.0;0.0;5.0;1.0;0.6
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Tyrese Maxey;2;2;32.5;19.0;0.0;2.0;2.0;8.0;1.5;0.0;1.5;2.0;5.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Georges Niang;2;1;33.0;18.0;0.5;4.0;4.5;3.5;0.0;1.0;0.5;3.5;7.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Seth Curry;2;2;33.5;16.5;0.5;3.5;4.0;4.0;0.5;0.0;2.0;3.0;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Danny Green;1;1;19.0;11.0;0.0;3.0;3.0;1.0;1.0;1.0;0.0;2.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Andre Drummond;2;2;28.0;10.0;2.0;7.5;9.5;5.0;3.0;1.0;0.0;4.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Shake Milton;2;0;18.0;8.0;1.0;1.0;2.0;2.5;0.0;0.0;1.5;0.5;1.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Furkan Korkmaz;2;1;23.0;7.5;0.5;1.0;1.5;3.0;1.5;0.0;1.0;0.5;3.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Charles Bassey;1;0;14.0;6.0;0.0;6.0;6.0;0.0;0.0;1.0;0.0;2.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Matisse Thybulle;2;0;24.0;5.5;0.5;0.0;0.5;0.5;2.0;1.0;1.5;3.0;0.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Paul Reed;1;0;9.0;4.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0;3.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Isaiah Joe;2;0;8.0;3.0;0.0;0.5;0.5;0.5;0.0;0.0;0.0;0.5;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Total;2;"";"";112.0;5.0;28.0;33.0;29.0;9.0;5.0;10.5;21.0;2.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Utah Jazz;Joel Embiid;1;1;30.0;19.0;1.0;8.0;9.0;2.0;3.0;1.0;1.0;4.0;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Utah Jazz;Tobias Harris;2;2;31.0;14.5;1.0;4.5;5.5;3.0;0.0;1.5;0.0;2.5;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Utah Jazz;Tyrese Maxey;2;2;27.5;13.5;1.0;2.5;3.5;2.0;1.0;0.0;1.0;1.0;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Utah Jazz;Shake Milton;2;1;30.0;12.5;0.5;2.5;3.0;3.0;0.5;0.0;0.0;1.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Utah Jazz;Seth Curry;2;2;29.0;11.5;0.0;1.5;1.5;3.0;1.0;0.0;1.0;4.5;3.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Utah Jazz;Georges Niang;2;0;22.5;8.0;0.0;3.0;3.0;0.0;1.0;0.0;0.5;2.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Utah Jazz;Matisse Thybulle;1;0;19.0;7.0;1.0;0.0;1.0;1.0;1.0;0.0;2.0;0.0;0.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Utah Jazz;Furkan Korkmaz;2;0;25.0;5.0;0.0;3.0;3.0;2.0;0.0;0.5;0.0;0.5;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Utah Jazz;Charles Bassey;2;0;7.5;4.5;1.5;0.5;2.0;0.0;0.5;1.0;0.5;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Utah Jazz;Isaiah Joe;2;0;15.0;4.0;0.0;4.0;4.0;2.0;0.0;0.0;0.5;2.0;4.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Utah Jazz;Andre Drummond;2;1;11.0;3.0;0.5;4.0;4.5;1.0;0.5;0.5;2.0;1.5;0.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Utah Jazz;Paul Reed;1;0;14.0;2.0;1.0;3.0;4.0;0.0;0.0;0.0;2.0;1.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Utah Jazz;Danny Green;1;1;20.0;0.0;0.0;2.0;2.0;1.0;1.0;1.0;1.0;1.0;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Utah Jazz;Total;2;"";"";90.5;6.0;32.0;38.0;18.0;7.0;4.5;8.5;18.0;2.1
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Golden State Warriors;Joel Embiid;1;1;33.0;26.0;0.0;9.0;9.0;4.0;2.0;0.0;4.0;3.0;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Golden State Warriors;Seth Curry;2;2;34.5;17.0;0.5;2.5;3.0;1.0;1.5;0.5;1.5;3.0;0.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Golden State Warriors;Tyrese Maxey;2;2;31.5;16.5;0.0;2.5;2.5;3.5;0.0;1.5;2.0;1.5;1.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Golden State Warriors;Tobias Harris;1;1;34.0;16.0;0.0;9.0;9.0;3.0;0.0;0.0;1.0;2.0;3.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Golden State Warriors;Shake Milton;2;0;21.5;9.5;1.0;3.0;4.0;3.0;1.0;1.0;1.0;1.0;3.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Golden State Warriors;Isaiah Joe;1;0;15.0;8.0;2.0;1.0;3.0;0.0;0.0;0.0;1.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Golden State Warriors;Danny Green;2;0;17.0;7.5;0.0;2.0;2.0;1.5;2.5;0.5;1.0;1.0;1.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Golden State Warriors;Matisse Thybulle;2;2;33.5;6.5;0.0;3.5;3.5;1.5;1.5;2.0;1.5;3.0;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Golden State Warriors;Georges Niang;2;1;19.5;6.0;0.5;2.0;2.5;1.0;0.0;0.0;2.0;3.0;0.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Golden State Warriors;Furkan Korkmaz;2;0;15.5;6.0;0.5;2.5;3.0;1.5;0.0;0.0;0.0;1.5;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Golden State Warriors;Andre Drummond;2;1;21.5;5.0;3.0;7.5;10.5;1.5;1.0;0.0;2.5;2.5;0.6
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Golden State Warriors;Paul Reed;1;0;2.0;0.0;0.0;1.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Golden State Warriors;Charles Bassey;1;0;8.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Golden State Warriors;Total;2;"";"";99.0;6.5;36.0;42.5;18.0;8.5;6.0;15.0;19.0;1.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. LA Clippers;Joel Embiid;2;2;32.0;33.5;3.5;8.0;11.5;4.0;0.5;1.5;4.0;3.0;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. LA Clippers;James Harden;1;1;34.0;29.0;1.0;14.0;15.0;7.0;2.0;1.0;4.0;1.0;1.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. LA Clippers;Tobias Harris;2;2;32.5;16.0;0.0;4.5;4.5;3.0;2.0;0.5;0.0;1.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. LA Clippers;Tyrese Maxey;2;2;37.5;15.0;1.0;2.5;3.5;4.5;1.0;1.0;0.5;1.0;9.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. LA Clippers;Matisse Thybulle;1;1;26.0;13.0;1.0;0.0;1.0;0.0;3.0;0.0;0.0;3.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. LA Clippers;Danny Green;1;0;16.0;8.0;0.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. LA Clippers;Paul Reed;1;0;6.0;8.0;1.0;1.0;2.0;1.0;3.0;1.0;0.0;3.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. LA Clippers;Shake Milton;1;0;25.0;7.0;0.0;2.0;2.0;5.0;0.0;0.0;0.0;1.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. LA Clippers;Andre Drummond;1;0;11.0;5.0;4.0;7.0;11.0;1.0;0.0;1.0;2.0;1.0;0.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. LA Clippers;Furkan Korkmaz;2;1;25.0;4.0;0.0;0.0;0.0;1.5;0.5;0.0;0.0;1.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. LA Clippers;Georges Niang;2;0;23.5;3.5;0.0;4.5;4.5;1.5;0.5;0.5;0.5;3.5;3.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. LA Clippers;Isaiah Joe;2;1;9.5;2.5;0.0;0.0;0.0;0.5;0.5;0.0;0.0;0.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. LA Clippers;DeAndre Jordan;1;0;15.0;2.0;5.0;4.0;9.0;1.0;0.0;0.0;1.0;3.0;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. LA Clippers;Charlie Brown Jr.;2;0;13.0;1.0;2.0;1.5;3.5;0.0;0.5;0.0;0.0;1.5;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. LA Clippers;Total;2;"";"";111.5;12.5;35.5;48.0;23.0;9.5;5.5;9.0;17.5;2.6
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Joel Embiid;2;2;34.5;28.0;2.5;7.0;9.5;5.0;2.0;2.5;3.0;3.0;1.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Los Angeles Lakers;James Harden;1;1;37.0;24.0;1.0;6.0;7.0;7.0;1.0;0.0;3.0;3.0;2.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Tobias Harris;2;2;35.0;21.5;0.0;6.0;6.0;4.5;1.0;0.0;1.5;0.5;3.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Tyrese Maxey;2;2;38.5;17.5;0.5;5.5;6.0;8.5;0.5;1.0;1.5;2.0;5.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Georges Niang;2;0;19.0;11.5;0.0;2.0;2.0;2.0;0.0;0.0;0.5;1.0;4.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Los Angeles Lakers;DeAndre Jordan;1;0;14.0;9.0;2.0;5.0;7.0;0.0;0.0;0.0;1.0;1.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Matisse Thybulle;2;2;25.5;6.0;0.0;2.0;2.0;1.0;3.0;1.0;0.5;2.0;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Furkan Korkmaz;2;1;23.0;6.0;0.0;1.0;1.0;2.0;0.0;0.0;0.5;1.5;4.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Danny Green;2;0;13.5;4.5;0.0;1.5;1.5;0.0;0.0;0.5;0.5;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Shake Milton;1;0;20.0;3.0;0.0;2.0;2.0;1.0;0.0;0.0;0.0;1.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Isaiah Joe;1;0;15.0;3.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Andre Drummond;1;0;13.0;2.0;2.0;8.0;10.0;2.0;1.0;0.0;1.0;2.0;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Myles Powell;1;0;2.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Charlie Brown Jr.;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Total;2;"";"";115.5;5.5;36.5;42.0;28.0;7.5;5.0;10.5;13.5;2.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Phoenix Suns;Joel Embiid;2;2;35.0;35.5;4.0;9.5;13.5;2.5;3.0;1.0;3.0;2.5;0.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Phoenix Suns;Tobias Harris;2;2;39.5;23.5;0.5;7.0;7.5;3.0;0.0;0.0;2.0;1.0;1.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Phoenix Suns;Tyrese Maxey;2;2;36.0;16.0;0.0;3.0;3.0;3.5;0.0;0.0;1.0;2.5;3.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Phoenix Suns;James Harden;1;1;39.0;14.0;1.0;6.0;7.0;9.0;1.0;0.0;2.0;3.0;4.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Phoenix Suns;Matisse Thybulle;2;2;25.5;5.5;0.5;0.0;0.5;0.5;0.5;1.5;0.5;4.0;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Phoenix Suns;Georges Niang;2;0;21.5;5.0;0.5;1.0;1.5;1.5;0.5;0.5;1.0;1.5;1.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Phoenix Suns;Furkan Korkmaz;1;0;14.0;5.0;0.0;3.0;3.0;3.0;0.0;0.0;0.0;0.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Phoenix Suns;Danny Green;2;0;23.0;4.5;2.0;2.5;4.5;0.5;0.5;0.0;1.5;2.0;0.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Phoenix Suns;DeAndre Jordan;1;0;10.0;4.0;0.0;5.0;5.0;0.0;0.0;1.0;1.0;2.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Phoenix Suns;Andre Drummond;1;0;16.0;4.0;2.0;5.0;7.0;5.0;3.0;0.0;1.0;3.0;5.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Phoenix Suns;Seth Curry;1;1;26.0;3.0;0.0;4.0;4.0;2.0;0.0;1.0;1.0;5.0;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Phoenix Suns;Shake Milton;1;0;14.0;3.0;0.0;2.0;2.0;4.0;0.0;0.0;1.0;1.0;4.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Phoenix Suns;Total;2;"";"";106.5;9.0;35.5;44.5;23.0;6.5;4.0;12.0;20.5;1.9
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Sacramento Kings;Joel Embiid;1;1;35.0;36.0;0.0;12.0;12.0;6.0;0.0;1.0;4.0;0.0;1.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Sacramento Kings;Tyrese Maxey;2;2;38.0;18.5;0.5;1.0;1.5;5.5;1.5;0.0;1.0;2.0;5.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Sacramento Kings;Tobias Harris;1;1;32.0;16.0;1.0;7.0;8.0;2.0;1.0;0.0;2.0;3.0;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Sacramento Kings;Shake Milton;1;0;36.0;16.0;1.0;1.0;2.0;1.0;1.0;1.0;1.0;2.0;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Sacramento Kings;Matisse Thybulle;2;2;26.0;11.5;0.0;1.0;1.0;0.0;1.5;1.0;0.5;2.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Sacramento Kings;Danny Green;1;0;16.0;11.0;0.0;1.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Sacramento Kings;Seth Curry;1;1;32.0;8.0;1.0;1.0;2.0;5.0;1.0;1.0;2.0;4.0;2.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Sacramento Kings;Furkan Korkmaz;2;1;22.0;8.0;0.0;1.5;1.5;3.5;2.5;0.0;1.0;1.5;3.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Sacramento Kings;Georges Niang;2;1;33.5;7.5;0.0;3.0;3.0;2.5;0.0;0.0;1.5;2.5;1.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Sacramento Kings;Andre Drummond;2;1;22.0;6.0;3.5;12.0;15.5;1.5;1.0;2.0;2.0;2.5;0.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Sacramento Kings;Isaiah Joe;2;0;10.5;5.5;0.0;1.5;1.5;0.5;0.0;0.0;0.0;0.5;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Sacramento Kings;Paul Reed;1;0;6.0;2.0;1.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Sacramento Kings;Charles Bassey;1;0;15.0;2.0;2.0;5.0;7.0;1.0;0.0;0.0;2.0;4.0;0.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Sacramento Kings;Charlie Brown Jr.;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Sacramento Kings;Total;2;"";"";102.5;7.0;33.5;40.5;21.5;8.5;4.5;12.0;18.5;1.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Dallas Mavericks;Joel Embiid;2;2;33.5;29.5;1.0;9.5;10.5;4.0;3.5;2.0;3.5;2.5;1.1
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Dallas Mavericks;James Harden;1;1;42.0;24.0;0.0;7.0;7.0;12.0;2.0;1.0;2.0;2.0;6.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Dallas Mavericks;Tobias Harris;2;2;28.5;13.5;1.0;2.5;3.5;4.0;0.0;0.5;2.5;3.0;1.6
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Dallas Mavericks;Tyrese Maxey;2;2;33.5;13.0;0.5;1.5;2.0;4.5;0.0;0.0;0.5;3.0;9.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Dallas Mavericks;Georges Niang;2;0;22.5;12.5;0.0;2.5;2.5;1.0;0.0;0.0;1.0;0.5;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Dallas Mavericks;Seth Curry;1;1;36.0;11.0;0.0;3.0;3.0;3.0;0.0;0.0;2.0;2.0;1.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Dallas Mavericks;DeAndre Jordan;1;0;13.0;8.0;3.0;4.0;7.0;0.0;0.0;1.0;1.0;3.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Dallas Mavericks;Matisse Thybulle;2;2;23.5;8.0;0.0;1.5;1.5;0.5;1.5;1.0;0.0;2.5;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Dallas Mavericks;Andre Drummond;1;0;15.0;6.0;2.0;5.0;7.0;2.0;1.0;0.0;1.0;2.0;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Dallas Mavericks;Danny Green;2;0;28.0;3.5;0.5;3.0;3.5;0.0;0.5;0.0;1.0;3.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Dallas Mavericks;Shake Milton;1;0;13.0;0.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;1.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Dallas Mavericks;Furkan Korkmaz;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Dallas Mavericks;Charlie Brown Jr.;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Dallas Mavericks;Paul Reed;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Dallas Mavericks;Isaiah Joe;2;0;10.0;0.0;0.0;0.5;0.5;0.5;0.0;0.0;0.5;2.0;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Dallas Mavericks;Total;2;"";"";104.5;5.5;31.5;37.0;23.0;7.0;4.5;12.0;21.5;1.9
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Houston Rockets;Joel Embiid;2;2;28.0;31.0;4.5;7.0;11.5;8.0;1.0;2.0;4.0;2.5;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Houston Rockets;Furkan Korkmaz;2;2;32.0;18.0;1.0;7.5;8.5;4.0;1.0;0.0;1.0;1.0;4.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Houston Rockets;Seth Curry;1;1;30.0;15.0;0.0;5.0;5.0;5.0;0.0;0.0;3.0;2.0;1.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Houston Rockets;Isaiah Joe;2;0;23.0;14.0;0.5;2.0;2.5;2.0;0.5;0.0;0.0;2.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Houston Rockets;Tobias Harris;2;2;30.0;13.5;1.5;3.5;5.0;5.0;0.5;1.5;1.5;1.0;3.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Houston Rockets;Andre Drummond;2;0;17.0;10.5;3.0;5.5;8.5;2.5;1.0;1.0;0.5;1.5;5.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Houston Rockets;Matisse Thybulle;1;1;26.0;10.0;0.0;2.0;2.0;2.0;3.0;0.0;0.0;2.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Houston Rockets;Georges Niang;2;0;19.0;8.0;0.0;2.0;2.0;0.5;0.5;0.0;0.5;3.5;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Houston Rockets;Myles Powell;1;0;20.0;6.0;1.0;3.0;4.0;2.0;1.0;0.0;3.0;2.0;0.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Houston Rockets;Danny Green;2;2;21.5;5.5;0.5;2.0;2.5;0.5;0.5;1.0;0.5;1.5;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Houston Rockets;Shake Milton;1;0;21.0;5.0;0.0;2.0;2.0;2.0;1.0;1.0;0.0;3.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Houston Rockets;Braxton Key;1;0;4.0;2.0;1.0;0.0;1.0;0.0;1.0;0.0;2.0;1.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Houston Rockets;Paul Reed;1;0;6.0;2.0;1.0;0.0;1.0;0.0;2.0;0.0;0.0;2.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Houston Rockets;Charlie Brown Jr.;1;0;22.0;1.0;0.0;4.0;4.0;0.0;2.0;0.0;1.0;1.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Houston Rockets;Charles Bassey;2;0;3.0;1.0;0.5;0.0;0.5;0.0;0.5;0.5;0.0;1.5;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Houston Rockets;Aaron Henry;2;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;0.5;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Houston Rockets;Total;2;"";"";122.0;13.0;37.5;50.5;28.0;10.5;7.0;13.0;21.0;2.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Tyrese Maxey;2;2;36.5;28.0;0.0;1.5;1.5;7.5;1.0;2.0;3.0;1.5;2.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Tobias Harris;2;2;32.5;21.5;1.0;2.5;3.5;3.5;0.0;1.5;3.0;3.0;1.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Shake Milton;1;0;30.0;12.0;0.0;4.0;4.0;5.0;1.0;0.0;3.0;3.0;1.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Andre Drummond;2;2;32.0;11.0;6.5;9.5;16.0;4.0;1.0;3.0;2.5;3.0;1.6
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Furkan Korkmaz;1;1;32.0;10.0;0.0;6.0;6.0;3.0;0.0;1.0;0.0;0.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Seth Curry;1;1;40.0;9.0;1.0;2.0;3.0;8.0;2.0;0.0;2.0;4.0;4.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Isaiah Joe;2;0;15.0;7.5;0.0;1.0;1.0;1.0;1.0;0.0;1.5;1.5;0.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Charles Bassey;2;0;15.5;7.5;1.5;5.5;7.0;0.0;0.0;3.0;0.5;4.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Georges Niang;2;0;22.0;7.0;0.0;2.0;2.0;0.0;0.0;0.0;3.0;3.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Matisse Thybulle;2;2;27.0;4.5;0.0;2.0;2.0;1.5;1.5;0.5;0.5;0.5;3.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Danny Green;2;0;21.0;4.0;0.0;4.0;4.0;0.5;0.5;0.5;1.5;1.0;0.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Charlie Brown Jr.;1;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Total;2;"";"";106.5;9.5;34.0;43.5;26.0;6.5;11.0;18.0;21.0;1.4
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Joel Embiid;2;2;29.5;32.0;3.5;6.5;10.0;4.5;0.5;2.5;2.0;4.0;2.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Tobias Harris;2;2;33.5;26.5;1.5;10.0;11.5;2.0;1.0;1.0;1.5;0.5;1.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Furkan Korkmaz;2;1;28.5;17.5;0.5;1.0;1.5;3.5;0.5;0.5;0.5;0.5;7.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Tyrese Maxey;2;2;34.5;15.0;0.0;5.0;5.0;5.0;0.0;0.0;1.0;3.0;5.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Seth Curry;1;1;28.0;10.0;0.0;2.0;2.0;2.0;0.0;0.0;2.0;0.0;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Georges Niang;2;0;20.0;8.5;0.0;0.5;0.5;3.5;0.0;0.5;1.0;2.5;3.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Andre Drummond;2;0;17.0;5.0;1.5;9.5;11.0;2.0;1.5;1.0;2.0;2.0;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Isaiah Joe;2;0;17.5;3.0;0.5;0.5;1.0;1.5;0.0;0.0;1.5;1.0;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Matisse Thybulle;2;1;30.5;2.5;1.5;1.0;2.5;1.5;3.0;1.0;0.5;1.0;3.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Paul Reed;1;0;3.0;2.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Charles Bassey;1;0;2.0;2.0;1.0;1.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Danny Green;1;1;19.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;3.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Charlie Brown Jr.;1;0;4.0;0.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Aaron Henry;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Jaden Springer;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Total;2;"";"";117.0;10.0;35.5;45.5;25.0;6.5;6.5;11.0;16.5;2.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. San Antonio Spurs;Joel Embiid;2;2;32.0;34.5;3.0;9.0;12.0;6.5;0.0;1.0;2.5;1.5;2.6
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. San Antonio Spurs;Seth Curry;1;1;37.0;23.0;0.0;7.0;7.0;7.0;0.0;0.0;1.0;3.0;7.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. San Antonio Spurs;Tobias Harris;2;2;35.0;20.5;2.0;7.0;9.0;5.0;0.5;0.0;0.5;2.5;10.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. San Antonio Spurs;Tyrese Maxey;1;1;42.0;18.0;1.0;3.0;4.0;6.0;1.0;0.0;4.0;2.0;1.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. San Antonio Spurs;Matisse Thybulle;1;1;33.0;12.0;0.0;2.0;2.0;1.0;2.0;0.0;0.0;0.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. San Antonio Spurs;Furkan Korkmaz;2;2;35.0;12.0;0.5;4.0;4.5;2.5;0.0;0.5;1.5;1.5;1.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. San Antonio Spurs;Isaiah Joe;1;0;27.0;8.0;0.0;1.0;1.0;0.0;1.0;0.0;0.0;5.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. San Antonio Spurs;Danny Green;1;0;15.0;6.0;0.0;2.0;2.0;1.0;0.0;1.0;0.0;0.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. San Antonio Spurs;Andre Drummond;2;0;15.0;5.5;3.0;3.5;6.5;1.0;1.5;0.5;3.0;3.0;0.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. San Antonio Spurs;Charlie Brown Jr.;2;1;19.5;5.0;2.0;1.5;3.5;1.0;2.0;0.5;0.5;1.5;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. San Antonio Spurs;Georges Niang;2;0;22.0;4.0;1.0;2.0;3.0;1.0;0.0;0.0;1.0;2.0;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. San Antonio Spurs;Myles Powell;1;0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. San Antonio Spurs;Aaron Henry;1;0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. San Antonio Spurs;Braxton Key;1;0;2.0;0.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;0.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. San Antonio Spurs;Charles Bassey;1;0;2.0;0.0;1.0;1.0;2.0;0.0;0.0;1.0;0.0;1.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;vs. San Antonio Spurs;Total;2;"";"";117.0;12.5;35.5;48.0;25.0;6.0;3.5;11.5;18.5;2.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;October;Joel Embiid;6;6;30.0;21.0;1.7;7.0;8.7;3.8;1.0;1.7;2.5;2.2;1.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;October;Tobias Harris;6;6;33.0;19.8;1.3;7.7;9.0;4.2;0.2;0.3;1.5;1.2;2.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;October;Seth Curry;6;6;31.3;15.3;0.3;2.3;2.7;1.2;0.5;0.3;1.0;1.3;1.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;October;Tyrese Maxey;6;6;31.7;14.7;0.5;3.2;3.7;3.5;0.5;0.7;2.0;2.8;1.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;October;Shake Milton;2;0;17.5;12.0;0.5;2.0;2.5;3.5;0.5;0.5;0.5;3.0;7.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;October;Furkan Korkmaz;6;0;19.8;10.2;0.3;1.0;1.3;3.0;0.7;0.2;1.3;0.7;2.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;October;Georges Niang;6;0;18.0;9.0;0.2;1.5;1.7;1.3;0.2;0.3;0.5;2.3;2.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;October;Danny Green;6;6;24.0;5.8;0.3;2.3;2.7;0.7;1.2;0.8;0.7;2.3;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;October;Andre Drummond;5;0;15.8;5.2;2.2;6.8;9.0;1.6;1.4;1.0;2.6;2.8;0.6
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;October;Matisse Thybulle;6;0;21.5;5.2;0.3;2.0;2.3;1.5;2.3;1.5;0.8;1.3;1.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;October;Isaiah Joe;5;0;7.8;1.6;0.0;0.4;0.4;0.4;0.0;0.0;0.4;0.2;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;October;Charles Bassey;3;0;2.3;1.3;0.3;0.3;0.7;0.0;0.0;0.0;0.0;0.3;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;October;Paul Reed;4;0;5.0;1.0;0.8;0.8;1.5;1.0;0.3;0.3;0.0;0.8;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;October;Aaron Henry;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;October;Jaden Springer;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;October;Total;6;"";"";112.0;7.7;34.3;42.0;22.7;8.0;7.0;13.0;18.3;1.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;November;Joel Embiid;5;5;34.6;25.0;2.4;9.8;12.2;4.2;0.6;1.4;3.8;3.0;1.1
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;November;Tobias Harris;7;7;35.3;20.3;0.9;7.0;7.9;3.7;0.6;0.6;1.9;1.9;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;November;Tyrese Maxey;15;15;37.3;19.4;0.3;3.5;3.8;5.7;0.9;0.6;1.0;2.3;5.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;November;Seth Curry;13;13;35.1;16.6;0.5;2.6;3.2;2.9;1.0;0.0;1.9;2.6;1.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;November;Georges Niang;15;4;27.8;12.1;0.3;2.9;3.2;1.9;0.8;0.3;0.9;2.9;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;November;Shake Milton;14;4;26.4;11.6;0.6;2.6;3.3;3.0;0.6;0.4;1.2;1.9;2.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;November;Furkan Korkmaz;14;5;26.6;9.4;0.4;3.2;3.6;2.5;0.9;0.1;0.9;1.0;2.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;November;Danny Green;8;5;22.6;9.3;1.0;1.4;2.4;1.5;2.1;0.6;1.1;1.4;1.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;November;Matisse Thybulle;8;5;29.0;7.4;0.8;1.8;2.5;0.8;2.1;1.5;1.3;2.3;0.6
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;November;Andre Drummond;15;10;24.3;7.2;3.8;7.6;11.4;2.3;0.8;1.2;1.7;2.7;1.4
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;November;Isaiah Joe;8;0;10.8;4.5;0.3;1.5;1.8;0.8;0.1;0.0;0.3;1.0;3.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;November;Charles Bassey;7;0;10.6;3.6;1.3;2.6;3.9;0.3;0.1;1.0;0.4;1.4;0.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;November;Paul Reed;10;2;11.7;3.2;1.3;1.9;3.2;0.4;0.8;0.8;0.6;1.8;0.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;November;Total;15;"";"";105.6;9.5;33.2;42.7;22.7;8.2;5.4;11.4;19.1;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;December;Joel Embiid;13;13;34.5;29.2;1.3;9.8;11.2;3.9;1.5;1.3;2.1;2.5;1.9
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;December;Tobias Harris;13;13;35.2;16.8;1.2;5.8;7.0;3.6;0.6;0.6;1.7;2.5;2.1
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;December;Seth Curry;13;13;35.8;15.8;0.5;2.6;3.1;5.2;0.8;0.2;1.9;2.4;2.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;December;Tyrese Maxey;11;10;32.4;14.4;0.5;2.4;2.9;3.4;0.5;0.5;1.2;1.7;2.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;December;Shake Milton;10;2;24.2;9.3;0.3;2.5;2.8;2.4;0.9;0.4;1.3;2.0;1.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;December;Georges Niang;10;1;19.5;8.9;0.1;2.3;2.4;0.7;0.4;0.2;0.6;1.9;1.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;December;Danny Green;10;7;27.2;6.1;0.5;2.6;3.1;1.4;1.2;1.1;1.1;2.2;1.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;December;Furkan Korkmaz;11;2;16.3;5.8;0.2;2.4;2.5;1.4;0.2;0.1;0.4;0.7;3.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;December;Andre Drummond;10;1;14.2;5.1;2.3;4.2;6.5;1.4;1.2;0.9;1.3;1.9;1.1
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;December;Charles Bassey;5;0;10.8;5.0;1.2;3.2;4.4;0.8;0.4;1.2;0.8;2.4;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;December;Matisse Thybulle;14;8;25.8;4.6;0.6;1.8;2.4;1.1;1.3;0.9;0.6;3.1;1.9
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;December;Tyler Johnson;3;0;12.7;3.7;0.3;1.7;2.0;0.7;0.3;0.3;0.3;1.3;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;December;Isaiah Joe;8;0;14.5;3.3;0.0;1.4;1.4;0.9;0.4;0.3;0.4;0.8;2.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;December;Jaden Springer;1;0;4.0;2.0;1.0;1.0;2.0;0.0;0.0;2.0;1.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;December;Myles Powell;2;0;6.0;1.5;0.0;0.5;0.5;0.0;0.0;0.0;0.0;0.5;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;December;Paul Reed;4;0;9.0;1.3;0.8;1.0;1.8;0.5;0.3;0.3;0.3;1.3;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;December;Aaron Henry;2;0;4.0;0.0;0.0;0.5;0.5;0.0;0.0;0.5;0.5;0.5;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;December;Total;14;"";"";104.1;6.9;33.6;40.5;21.9;7.7;6.1;10.9;19.6;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;January;Joel Embiid;14;14;32.1;34.0;2.7;8.1;10.8;5.1;0.5;1.5;3.7;2.6;1.4
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;January;Tobias Harris;15;15;35.9;19.8;1.1;5.7;6.9;3.7;1.0;0.8;1.9;2.2;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;January;Tyrese Maxey;11;11;39.1;16.8;0.3;3.2;3.5;5.5;0.5;0.7;1.3;1.7;4.4
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;January;Seth Curry;10;10;35.6;13.6;0.2;4.2;4.4;6.0;0.9;0.5;2.4;2.1;2.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;January;Furkan Korkmaz;14;10;30.6;10.7;0.4;3.2;3.6;2.7;0.7;0.1;0.9;1.5;3.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;January;Georges Niang;15;0;22.7;7.1;0.6;2.1;2.7;1.7;0.3;0.0;0.9;3.0;1.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;January;Matisse Thybulle;8;8;27.1;6.8;0.4;2.1;2.5;1.5;2.1;0.8;0.3;1.4;6.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;January;Danny Green;8;3;18.5;6.5;0.1;2.0;2.1;0.4;0.5;0.5;0.6;0.8;0.6
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;January;Andre Drummond;15;1;17.1;6.5;2.5;5.9;8.5;1.7;1.4;0.8;1.7;2.5;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;January;Isaiah Joe;14;1;14.4;5.1;0.2;0.9;1.1;0.7;0.4;0.0;0.4;1.3;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;January;Shake Milton;1;0;21.0;5.0;0.0;2.0;2.0;2.0;1.0;1.0;0.0;3.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;January;Charlie Brown Jr.;13;2;11.6;1.8;1.1;1.2;2.3;0.3;0.5;0.2;0.4;1.2;0.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;January;Charles Bassey;7;0;3.7;1.4;0.6;0.7;1.3;0.1;0.1;0.6;0.1;1.1;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;January;Myles Powell;8;0;4.5;1.3;0.1;0.5;0.6;0.4;0.1;0.0;0.4;0.6;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;January;Braxton Key;2;0;3.0;1.0;0.5;0.5;1.0;0.5;0.5;0.0;1.0;0.5;0.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;January;Paul Reed;3;0;4.0;0.7;0.3;0.3;0.7;0.0;0.7;0.0;0.0;0.7;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;January;Aaron Henry;3;0;2.3;0.7;0.0;0.0;0.0;0.0;0.0;0.3;0.3;0.3;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;January;Total;15;"";"";112.1;9.3;34.3;43.7;24.9;7.5;5.3;12.9;18.9;1.9
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;February;Joel Embiid;10;10;33.1;32.5;1.4;11.0;12.4;4.7;1.3;1.5;2.8;3.0;1.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;February;James Harden;2;2;37.0;28.0;0.5;8.5;9.0;14.0;2.5;0.0;2.5;4.0;5.6
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;February;Tyrese Maxey;10;10;35.0;18.9;0.3;3.7;4.0;3.7;1.1;0.0;0.7;2.1;5.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;February;Tobias Harris;10;10;35.6;15.5;1.0;5.4;6.4;3.1;0.3;0.7;1.6;2.0;1.9
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;February;Georges Niang;10;1;23.6;8.7;0.5;2.0;2.5;1.5;0.0;0.2;1.0;2.7;1.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;February;Seth Curry;3;3;33.7;8.7;0.0;3.3;3.3;3.0;0.3;0.3;1.3;2.3;2.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;February;Furkan Korkmaz;8;1;19.3;6.5;0.4;2.1;2.5;1.5;0.3;0.1;0.9;0.6;1.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;February;Matisse Thybulle;9;9;27.4;5.9;0.8;1.8;2.6;1.3;1.9;0.9;0.6;2.4;2.4
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;February;Paul Millsap;4;0;11.0;5.5;1.8;1.3;3.0;0.8;0.3;0.0;0.8;2.5;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;February;Shake Milton;6;0;17.3;5.0;1.2;1.8;3.0;2.7;0.3;0.2;1.2;1.5;2.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;February;Charles Bassey;1;0;7.0;5.0;2.0;0.0;2.0;0.0;1.0;0.0;0.0;1.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;February;Danny Green;10;4;21.2;4.3;0.4;1.4;1.8;0.8;0.2;0.4;0.6;1.9;1.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;February;Andre Drummond;4;0;14.8;4.0;1.8;4.5;6.3;3.5;1.0;0.3;0.5;2.5;7.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;February;Paul Reed;4;0;11.8;3.8;2.8;1.8;4.5;0.0;1.8;0.5;0.3;2.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;February;Isaiah Joe;7;0;9.1;3.1;0.0;0.7;0.7;0.6;0.1;0.0;0.4;0.9;1.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;February;Charlie Brown Jr.;3;0;2.0;1.3;0.0;0.3;0.3;0.3;0.3;0.0;0.0;0.3;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;February;Willie Cauley-Stein;1;0;4.0;0.0;0.0;2.0;2.0;1.0;0.0;0.0;0.0;1.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;February;Myles Powell;1;0;4.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;February;Total;10;"";"";110.0;8.1;34.4;42.5;23.8;7.1;4.2;10.4;20.7;2.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;March;Joel Embiid;15;15;35.5;30.5;2.8;9.8;12.6;3.6;1.6;1.4;3.5;2.9;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;March;James Harden;14;14;37.7;21.9;0.4;6.9;7.3;9.0;1.3;0.4;3.3;2.3;2.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;March;Tyrese Maxey;16;16;35.9;17.2;0.4;2.1;2.5;3.4;0.6;0.3;1.1;2.1;3.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;March;Tobias Harris;16;16;34.2;15.1;1.1;4.9;6.1;3.0;0.5;0.5;0.9;2.6;3.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;March;Georges Niang;16;1;22.6;9.1;0.1;2.8;2.9;1.1;0.4;0.2;0.6;2.1;1.9
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;March;Matisse Thybulle;16;16;23.4;5.8;0.7;1.3;1.9;0.8;1.4;1.3;0.4;2.8;1.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;March;Shake Milton;16;0;17.0;4.3;0.4;1.4;1.9;1.8;0.1;0.2;0.3;1.5;7.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;March;Furkan Korkmaz;9;1;11.8;4.1;0.3;1.3;1.7;0.4;0.1;0.0;0.2;0.3;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;March;Danny Green;14;0;18.3;4.0;0.4;2.1;2.6;0.8;0.6;0.3;0.3;1.7;2.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;March;DeAndre Jordan;12;0;13.5;3.8;2.2;3.3;5.5;0.4;0.2;0.5;1.1;1.3;0.4
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;March;Paul Millsap;5;1;12.4;2.2;1.0;1.6;2.6;0.4;0.8;0.4;1.0;1.8;0.4
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;March;Paul Reed;9;0;2.4;2.0;0.3;0.4;0.8;0.3;0.4;0.1;0.0;0.7;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;March;Isaiah Joe;10;0;6.0;1.2;0.1;0.2;0.3;0.4;0.1;0.1;0.1;0.4;4.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;March;Willie Cauley-Stein;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;March;Charlie Brown Jr.;3;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;March;Total;16;"";"";110.6;8.5;33.8;42.3;23.1;7.0;4.9;11.0;19.6;2.1
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;April;Joel Embiid;5;5;36.4;37.8;2.6;12.2;14.8;3.4;0.8;1.6;4.0;2.0;0.9
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;April;Tyrese Maxey;6;6;31.8;20.8;0.2;1.7;1.8;4.3;1.2;0.3;1.7;2.0;2.6
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;April;James Harden;5;5;38.0;15.8;1.2;4.6;5.8;13.2;0.6;0.0;4.2;1.6;3.1
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;April;Tobias Harris;6;6;33.2;13.8;0.5;4.8;5.3;3.2;1.3;0.3;2.2;3.0;1.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;April;Shake Milton;6;0;22.3;11.2;0.5;1.7;2.2;3.2;0.7;0.3;0.3;1.7;9.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;April;Paul Reed;4;0;12.5;10.0;2.5;2.5;5.0;0.8;2.5;0.3;0.5;3.8;1.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;April;Georges Niang;4;0;19.8;9.0;0.5;1.8;2.3;0.5;0.5;0.0;0.8;2.3;0.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;April;Danny Green;6;3;23.3;7.5;1.0;2.3;3.3;2.0;1.5;0.7;1.0;1.5;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;April;Isaiah Joe;3;0;14.3;7.3;0.0;2.0;2.0;0.7;0.7;0.0;1.0;1.3;0.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;April;DeAndre Jordan;4;1;13.0;7.0;1.5;5.0;6.5;0.8;0.0;0.8;0.8;1.5;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;April;Matisse Thybulle;5;4;25.0;5.0;1.0;1.0;2.0;1.8;1.8;0.8;0.4;2.4;4.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;April;Furkan Korkmaz;5;0;10.8;2.6;0.4;0.4;0.8;1.0;0.2;0.4;0.4;0.6;2.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;April;Total;6;"";"";125.3;9.5;32.8;42.3;30.5;9.8;4.7;14.5;19.3;2.1
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Atlantic Division;Joel Embiid;14;14;33.4;26.8;1.3;9.2;10.5;3.9;1.2;1.8;2.9;2.4;1.4
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Atlantic Division;James Harden;5;5;36.2;19.2;0.2;7.4;7.6;10.6;1.8;0.0;3.8;3.0;2.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Atlantic Division;Seth Curry;10;10;36.1;17.4;0.3;2.9;3.2;4.6;0.9;0.3;2.1;2.0;2.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Atlantic Division;Tyrese Maxey;14;14;35.1;16.6;0.4;3.2;3.6;3.0;0.8;0.3;0.7;1.9;4.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Atlantic Division;Tobias Harris;15;15;34.3;14.3;1.3;5.5;6.8;3.9;0.5;0.5;1.9;2.8;2.1
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Atlantic Division;Georges Niang;14;0;20.7;9.8;0.3;2.0;2.3;0.6;0.4;0.1;0.1;2.1;4.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Atlantic Division;Danny Green;12;9;25.3;7.2;0.5;1.3;1.8;1.3;1.2;0.7;0.7;2.2;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Atlantic Division;Shake Milton;11;1;19.3;7.1;0.8;1.3;2.1;1.3;0.5;0.3;0.6;1.8;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Atlantic Division;Andre Drummond;8;2;20.4;6.9;4.0;7.1;11.1;1.8;1.0;1.4;1.1;2.4;1.6
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Atlantic Division;Matisse Thybulle;13;9;27.4;6.6;0.5;2.3;2.8;1.1;1.7;1.4;0.7;2.8;1.6
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Atlantic Division;Furkan Korkmaz;13;1;17.8;6.0;0.2;2.0;2.2;1.6;0.4;0.0;0.7;0.7;2.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Atlantic Division;Paul Millsap;3;0;11.0;5.0;2.0;0.7;2.7;0.7;0.3;0.3;1.0;2.0;0.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Atlantic Division;DeAndre Jordan;2;0;14.0;5.0;2.5;3.0;5.5;0.0;0.0;0.0;2.5;1.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Atlantic Division;Tyler Johnson;1;0;11.0;3.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Atlantic Division;Paul Reed;9;0;8.1;2.8;1.3;1.4;2.8;0.4;1.0;0.2;0.1;1.4;4.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Atlantic Division;Charles Bassey;3;0;5.3;2.3;0.7;1.0;1.7;0.3;0.3;0.0;0.3;1.7;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Atlantic Division;Charlie Brown Jr.;2;0;3.5;2.0;0.0;0.5;0.5;0.5;0.5;0.0;0.0;0.5;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Atlantic Division;Isaiah Joe;8;0;10.8;1.1;0.0;0.8;0.8;0.6;0.3;0.3;0.3;0.4;2.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Atlantic Division;Willie Cauley-Stein;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Atlantic Division;Myles Powell;2;0;4.5;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Atlantic Division;Aaron Henry;1;0;5.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Atlantic Division;Total;16;"";"";105.3;8.3;32.8;41.1;22.2;8.1;5.4;0.0;19.4;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Central Division;Joel Embiid;15;15;35.1;34.3;2.5;11.5;13.9;4.3;1.1;1.1;3.9;2.9;1.1
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Central Division;James Harden;8;8;38.9;20.8;0.6;4.9;5.5;11.3;0.9;0.3;3.5;2.1;3.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Central Division;Tyrese Maxey;18;18;36.6;19.2;0.1;2.4;2.5;4.5;0.8;0.3;1.3;1.9;3.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Central Division;Tobias Harris;14;14;35.6;16.6;1.1;5.1;6.2;3.1;0.8;0.6;1.5;3.3;2.1
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Central Division;Seth Curry;6;6;34.7;15.2;0.3;2.7;3.0;2.5;0.7;0.0;2.2;1.2;1.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Central Division;Georges Niang;16;1;24.1;10.8;0.4;2.4;2.8;1.3;0.8;0.1;0.8;3.1;1.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Central Division;Shake Milton;17;3;21.5;9.4;0.5;2.4;2.9;2.9;0.5;0.2;0.9;1.9;3.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Central Division;Furkan Korkmaz;13;2;20.0;7.4;0.5;2.2;2.6;1.2;0.5;0.3;0.8;0.8;1.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Central Division;Paul Reed;9;2;12.9;6.6;2.1;2.2;4.3;0.7;1.7;0.6;0.4;2.6;1.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Central Division;Andre Drummond;7;2;20.0;6.4;3.3;6.0;9.3;2.1;0.6;0.7;1.9;2.7;1.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Central Division;Danny Green;15;6;21.0;5.2;0.5;1.8;2.3;1.0;1.1;0.6;0.5;1.9;2.1
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Central Division;DeAndre Jordan;6;1;12.7;4.7;1.5;3.5;5.0;0.8;0.2;0.7;0.3;1.2;2.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Central Division;Matisse Thybulle;14;12;25.6;4.3;0.5;1.5;2.0;1.4;1.7;1.1;0.3;2.3;5.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Central Division;Isaiah Joe;8;0;8.3;2.4;0.0;0.9;0.9;0.4;0.3;0.0;0.4;0.9;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Central Division;Paul Millsap;3;0;9.7;2.0;0.7;1.3;2.0;0.3;0.7;0.0;1.0;2.0;0.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Central Division;Charlie Brown Jr.;2;0;0.5;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Central Division;Charles Bassey;2;0;4.5;0.0;0.0;1.0;1.0;0.5;0.0;1.0;0.0;0.5;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Central Division;Total;18;"";"";115.1;8.4;32.8;41.3;24.8;8.0;4.7;0.0;20.2;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Pacific Division;Joel Embiid;8;8;33.9;32.0;2.5;8.8;11.3;4.1;1.6;1.4;3.5;2.5;1.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Pacific Division;James Harden;3;3;36.7;22.3;1.0;8.7;9.7;7.7;1.3;0.3;3.0;2.3;2.6
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Pacific Division;Tobias Harris;8;8;35.1;19.3;0.3;6.4;6.6;3.3;0.9;0.1;1.3;1.3;2.6
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Pacific Division;Tyrese Maxey;10;10;36.3;16.7;0.4;2.9;3.3;5.1;0.6;0.7;1.2;1.8;4.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Pacific Division;Seth Curry;4;4;31.8;11.3;0.5;2.5;3.0;2.3;1.0;0.8;1.5;3.8;1.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Pacific Division;Matisse Thybulle;9;9;27.3;8.0;0.2;1.4;1.7;0.7;1.8;1.2;0.7;2.8;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Pacific Division;Shake Milton;6;0;23.0;8.0;0.5;2.2;2.7;2.8;0.5;0.5;0.7;1.2;4.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Pacific Division;Georges Niang;10;2;23.4;6.7;0.2;2.5;2.7;1.7;0.2;0.2;1.1;2.3;1.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Pacific Division;Danny Green;8;0;17.4;6.5;0.5;1.8;2.3;0.6;0.9;0.4;0.9;0.9;0.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Pacific Division;Furkan Korkmaz;9;3;20.6;5.9;0.1;1.4;1.6;2.2;0.7;0.0;0.3;1.2;6.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Pacific Division;DeAndre Jordan;3;0;13.0;5.0;2.3;4.7;7.0;0.3;0.0;0.3;1.0;2.0;0.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Pacific Division;Andre Drummond;7;2;18.1;4.7;3.0;8.4;11.4;2.0;1.1;0.7;1.9;2.3;1.1
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Pacific Division;Isaiah Joe;6;1;11.5;4.5;0.3;0.8;1.2;0.3;0.2;0.0;0.2;0.2;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Pacific Division;Paul Reed;3;0;4.7;3.3;0.7;0.7;1.3;0.7;1.0;0.7;0.0;1.3;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Pacific Division;Charles Bassey;2;0;11.0;1.0;1.0;3.0;4.0;0.5;0.0;0.0;1.5;2.0;0.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Pacific Division;Charlie Brown Jr.;4;0;7.8;0.5;1.0;0.8;1.8;0.0;0.3;0.0;0.3;1.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Pacific Division;Myles Powell;1;0;2.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Pacific Division;Total;10;"";"";107.0;8.1;35.4;43.5;22.7;8.1;5.0;0.0;17.8;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southeast Division;Joel Embiid;17;17;33.8;29.6;2.1;9.2;11.3;3.8;0.8;1.1;2.8;2.6;1.4
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southeast Division;Tobias Harris;17;17;36.4;19.2;0.9;6.4;7.3;3.3;0.7;0.5;1.7;2.0;1.9
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southeast Division;James Harden;2;2;37.5;19.0;1.5;5.5;7.0;9.5;2.0;0.0;4.0;1.0;2.4
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southeast Division;Tyrese Maxey;16;15;34.4;15.6;0.4;3.1;3.5;4.1;0.7;0.5;1.0;2.2;4.1
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southeast Division;Seth Curry;13;13;35.2;13.8;0.3;3.2;3.5;4.8;0.9;0.4;1.9;1.8;2.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southeast Division;Georges Niang;16;2;22.9;9.1;0.5;2.6;3.1;1.6;0.5;0.1;0.8;2.5;2.1
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southeast Division;Shake Milton;10;1;23.2;8.6;0.4;2.0;2.4;3.2;0.6;0.5;0.7;2.3;4.6
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southeast Division;Furkan Korkmaz;15;5;20.9;8.1;0.3;2.7;3.0;1.7;0.4;0.1;0.7;1.1;2.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southeast Division;Danny Green;12;7;23.3;6.3;0.8;2.2;2.9;1.3;1.1;0.8;0.9;2.1;1.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southeast Division;Andre Drummond;12;0;14.7;5.3;2.0;3.9;5.9;1.6;1.5;0.8;1.7;2.3;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southeast Division;Paul Millsap;2;1;16.0;4.5;1.5;3.0;4.5;1.0;1.0;0.5;0.5;2.5;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southeast Division;Isaiah Joe;15;0;10.7;4.3;0.1;0.8;0.9;0.5;0.3;0.1;0.3;0.7;1.4
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southeast Division;Tyler Johnson;2;0;13.5;4.0;0.5;2.5;3.0;1.0;0.0;0.5;0.5;2.0;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southeast Division;Matisse Thybulle;14;9;22.1;3.7;0.8;1.3;2.1;1.1;1.1;1.0;0.4;2.5;2.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southeast Division;DeAndre Jordan;3;0;15.3;3.3;1.7;4.0;5.7;0.7;0.3;0.7;1.7;0.3;0.4
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southeast Division;Charlie Brown Jr.;4;1;14.0;2.8;1.3;1.5;2.8;0.5;0.0;0.5;0.5;1.3;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southeast Division;Charles Bassey;6;0;5.0;2.3;0.8;1.0;1.8;0.7;0.2;0.2;0.3;0.8;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southeast Division;Jaden Springer;1;0;4.0;2.0;1.0;1.0;2.0;0.0;0.0;2.0;1.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southeast Division;Myles Powell;6;0;3.2;0.8;0.0;0.2;0.2;0.2;0.0;0.0;0.0;0.8;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southeast Division;Paul Reed;9;0;4.3;0.4;0.3;0.4;0.8;0.1;0.1;0.0;0.2;0.8;0.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southeast Division;Aaron Henry;1;0;4.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southeast Division;Total;18;"";"";109.4;8.3;34.1;42.4;23.4;7.1;5.2;0.0;19.2;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southwest Division;Joel Embiid;8;8;30.6;31.8;3.0;8.0;11.0;5.8;1.3;1.9;3.0;2.6;1.9
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southwest Division;James Harden;1;1;42.0;24.0;0.0;7.0;7.0;12.0;2.0;1.0;2.0;2.0;6.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southwest Division;Tobias Harris;10;10;31.9;19.1;1.4;5.1;6.5;3.9;0.4;0.9;1.8;2.0;2.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southwest Division;Tyrese Maxey;7;7;35.7;18.6;0.3;2.7;3.0;5.7;0.4;0.6;1.9;2.4;3.1
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southwest Division;Seth Curry;5;5;34.0;13.6;0.2;3.8;4.0;5.0;0.4;0.0;2.0;2.2;2.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southwest Division;Furkan Korkmaz;8;6;28.1;13.1;0.5;3.9;4.4;2.9;0.4;0.4;0.8;0.8;3.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southwest Division;DeAndre Jordan;1;0;13.0;8.0;3.0;4.0;7.0;0.0;0.0;1.0;1.0;3.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southwest Division;Georges Niang;10;0;21.0;8.0;0.2;1.8;2.0;1.2;0.1;0.1;1.3;2.3;0.9
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southwest Division;Andre Drummond;9;2;19.6;7.8;3.3;6.8;10.1;2.3;1.2;1.2;1.9;2.3;1.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southwest Division;Matisse Thybulle;8;7;27.6;6.5;0.4;1.6;2.0;1.3;2.1;0.6;0.3;1.3;5.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southwest Division;Isaiah Joe;9;0;17.4;6.3;0.2;1.0;1.2;1.1;0.4;0.0;0.8;2.0;1.4
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southwest Division;Shake Milton;3;0;21.0;5.7;0.0;2.7;2.7;2.3;0.7;0.3;1.0;2.3;2.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southwest Division;Danny Green;8;3;21.8;4.0;0.3;2.5;2.8;0.4;0.4;0.5;0.8;1.8;0.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southwest Division;Myles Powell;2;0;11.0;4.0;0.5;1.5;2.0;1.0;0.5;0.0;1.5;1.5;0.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southwest Division;Charles Bassey;6;0;7.0;3.2;1.0;2.2;3.2;0.0;0.2;1.3;0.2;2.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southwest Division;Charlie Brown Jr.;6;1;11.2;1.8;0.8;1.2;2.0;0.3;1.0;0.2;0.3;0.8;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southwest Division;Paul Reed;3;0;3.7;1.3;0.3;0.0;0.3;0.3;0.7;0.0;0.0;0.7;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southwest Division;Braxton Key;2;0;3.0;1.0;0.5;0.5;1.0;0.5;0.5;0.0;1.0;0.5;0.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southwest Division;Aaron Henry;4;0;2.3;0.5;0.0;0.0;0.0;0.0;0.0;0.3;0.3;0.3;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southwest Division;Jaden Springer;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Southwest Division;Total;10;"";"";113.4;10.1;34.8;44.9;25.4;7.3;6.5;0.0;19.7;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Northwest Division;Joel Embiid;6;6;35.2;29.3;1.8;9.8;11.7;3.7;1.3;2.2;2.7;3.2;1.4
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Northwest Division;James Harden;2;2;37.0;25.5;0.5;8.0;8.5;11.5;0.0;0.5;3.0;2.5;3.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Northwest Division;Tyrese Maxey;10;10;33.8;18.7;0.7;2.8;3.5;4.2;1.0;0.3;1.4;2.4;3.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Northwest Division;Seth Curry;7;7;34.7;16.9;0.7;2.6;3.3;3.3;0.7;0.0;1.3;3.6;2.6
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Northwest Division;Tobias Harris;9;9;34.6;15.3;1.2;6.0;7.2;3.1;0.6;0.8;1.1;1.3;2.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Northwest Division;Georges Niang;10;2;24.9;9.8;0.2;2.8;3.0;1.9;0.2;0.4;0.8;2.5;2.4
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Northwest Division;Shake Milton;8;1;21.1;7.8;0.6;2.1;2.8;2.5;0.3;0.1;1.0;1.1;2.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Northwest Division;Matisse Thybulle;8;4;24.5;7.1;1.5;1.8;3.3;1.1;2.6;0.9;1.5;2.4;0.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Northwest Division;Charles Bassey;4;0;12.0;6.8;1.8;2.5;4.3;0.0;0.5;1.5;0.3;1.3;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Northwest Division;Furkan Korkmaz;9;2;21.9;6.2;0.3;1.7;2.0;2.4;0.8;0.1;0.9;0.7;2.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Northwest Division;Danny Green;7;3;20.4;6.0;0.4;3.3;3.7;1.3;0.9;0.4;0.9;0.7;1.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Northwest Division;Andre Drummond;6;4;20.0;5.3;1.0;5.2;6.2;2.3;1.2;0.7;1.2;3.2;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Northwest Division;Paul Millsap;1;0;12.0;3.0;1.0;1.0;2.0;0.0;0.0;0.0;1.0;2.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Northwest Division;DeAndre Jordan;1;0;12.0;3.0;3.0;3.0;6.0;0.0;0.0;1.0;0.0;2.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Northwest Division;Paul Reed;5;0;9.8;2.8;1.4;1.8;3.2;0.4;0.6;1.0;0.6;1.6;0.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Northwest Division;Isaiah Joe;9;0;7.9;2.4;0.0;1.2;1.2;0.9;0.1;0.0;0.1;0.9;8.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Northwest Division;Willie Cauley-Stein;1;0;4.0;0.0;0.0;2.0;2.0;1.0;0.0;0.0;0.0;1.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Northwest Division;Charlie Brown Jr.;1;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Northwest Division;Total;10;"";"";108.6;8.4;33.9;42.3;24.2;7.9;5.6;0.0;19.4;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Eastern Conference;Joel Embiid;46;46;34.1;30.3;2.0;9.9;11.9;4.0;1.0;1.3;3.2;2.6;1.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Eastern Conference;James Harden;15;15;37.8;20.0;0.6;5.8;6.4;10.8;1.3;0.1;3.7;2.3;2.9
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Eastern Conference;Tyrese Maxey;48;47;35.4;17.2;0.3;2.9;3.1;3.9;0.8;0.4;1.0;2.0;3.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Eastern Conference;Tobias Harris;46;46;35.5;16.8;1.1;5.7;6.8;3.5;0.7;0.6;1.7;2.7;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Eastern Conference;Seth Curry;29;29;35.3;15.3;0.3;3.0;3.3;4.3;0.9;0.3;2.0;1.7;2.1
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Eastern Conference;Georges Niang;46;3;22.7;9.9;0.4;2.3;2.7;1.2;0.5;0.1;0.6;2.6;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Eastern Conference;Shake Milton;38;5;21.3;8.5;0.6;1.9;2.5;2.5;0.6;0.3;0.8;2.0;3.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Eastern Conference;Furkan Korkmaz;41;8;19.7;7.2;0.3;2.3;2.6;1.5;0.4;0.1;0.8;0.9;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Eastern Conference;Danny Green;39;22;23.0;6.2;0.6;1.7;2.3;1.2;1.1;0.7;0.7;2.0;1.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Eastern Conference;Andre Drummond;27;4;17.7;6.0;2.9;5.4;8.3;1.8;1.1;0.9;1.6;2.4;1.1
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Eastern Conference;Matisse Thybulle;41;30;24.9;4.8;0.6;1.7;2.3;1.2;1.5;1.2;0.5;2.5;2.6
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Eastern Conference;DeAndre Jordan;11;1;13.6;4.4;1.7;3.5;5.3;0.6;0.2;0.5;1.1;0.9;0.6
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Eastern Conference;Paul Millsap;8;1;11.6;3.8;1.4;1.5;2.9;0.6;0.6;0.3;0.9;2.1;0.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Eastern Conference;Tyler Johnson;3;0;12.7;3.7;0.3;1.7;2.0;0.7;0.3;0.3;0.3;1.3;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Eastern Conference;Paul Reed;27;2;8.5;3.3;1.3;1.4;2.6;0.4;0.9;0.3;0.3;1.6;1.6
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Eastern Conference;Isaiah Joe;31;0;10.1;3.0;0.1;0.8;0.9;0.5;0.3;0.1;0.3;0.6;1.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Eastern Conference;Jaden Springer;1;0;4.0;2.0;1.0;1.0;2.0;0.0;0.0;2.0;1.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Eastern Conference;Charles Bassey;11;0;5.0;1.9;0.6;1.0;1.6;0.5;0.2;0.3;0.3;1.0;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Eastern Conference;Charlie Brown Jr.;8;1;8.0;1.9;0.6;0.9;1.5;0.4;0.1;0.3;0.3;0.9;1.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Eastern Conference;Myles Powell;8;0;3.5;0.6;0.0;0.1;0.1;0.1;0.0;0.0;0.0;0.6;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Eastern Conference;Willie Cauley-Stein;1;0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Eastern Conference;Aaron Henry;2;0;4.0;0.0;0.0;0.5;0.5;0.0;0.0;0.5;0.5;0.5;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Eastern Conference;Total;52;"";"";110.1;8.3;33.3;41.6;23.5;7.7;5.1;0.0;19.6;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Western Conference;Joel Embiid;22;22;33.1;31.2;2.5;8.8;11.3;4.6;1.4;1.8;3.1;2.7;1.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Western Conference;James Harden;6;6;37.7;23.7;0.7;8.2;8.8;9.7;1.0;0.5;2.8;2.3;3.4
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Western Conference;Tyrese Maxey;27;27;35.2;17.9;0.5;2.8;3.3;4.9;0.7;0.5;1.4;2.2;3.4
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Western Conference;Tobias Harris;27;27;33.8;17.9;1.0;5.8;6.8;3.4;0.6;0.6;1.4;1.6;2.4
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Western Conference;Seth Curry;16;16;33.8;14.4;0.5;2.9;3.4;3.6;0.7;0.2;1.6;3.2;2.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Western Conference;Furkan Korkmaz;26;11;23.3;8.2;0.3;2.3;2.6;2.5;0.6;0.2;0.7;0.9;3.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Western Conference;Georges Niang;30;4;23.1;8.2;0.2;2.4;2.6;1.6;0.2;0.2;1.1;2.4;1.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Western Conference;Shake Milton;17;1;21.8;7.5;0.5;2.2;2.7;2.6;0.4;0.3;0.9;1.4;2.9
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Western Conference;Matisse Thybulle;25;20;26.5;7.2;0.7;1.6;2.3;1.0;2.2;0.9;0.8;2.2;1.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Western Conference;Andre Drummond;22;8;19.3;6.1;2.6;6.9;9.5;2.2;1.2;0.9;1.7;2.5;1.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Western Conference;Danny Green;23;6;19.8;5.5;0.4;2.5;2.9;0.7;0.7;0.4;0.8;1.1;0.9
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Western Conference;DeAndre Jordan;5;0;12.8;5.2;2.6;4.2;6.8;0.2;0.0;0.6;0.8;2.2;0.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Western Conference;Isaiah Joe;24;1;12.4;4.4;0.2;1.0;1.2;0.8;0.3;0.0;0.4;1.1;2.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Western Conference;Charles Bassey;12;0;9.3;4.0;1.3;2.4;3.7;0.1;0.3;1.2;0.4;1.8;0.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Western Conference;Paul Millsap;1;0;12.0;3.0;1.0;1.0;2.0;0.0;0.0;0.0;1.0;2.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Western Conference;Myles Powell;3;0;8.0;2.7;0.3;1.3;1.7;0.7;0.3;0.0;1.0;1.0;0.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Western Conference;Paul Reed;11;0;6.7;2.5;0.9;1.0;1.9;0.5;0.7;0.6;0.3;1.3;1.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Western Conference;Charlie Brown Jr.;11;1;8.9;1.2;0.8;0.9;1.7;0.2;0.6;0.1;0.3;0.8;0.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Western Conference;Braxton Key;2;0;3.0;1.0;0.5;0.5;1.0;0.5;0.5;0.0;1.0;0.5;0.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Western Conference;Aaron Henry;4;0;2.3;0.5;0.0;0.0;0.0;0.0;0.0;0.3;0.3;0.3;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Western Conference;Willie Cauley-Stein;1;0;4.0;0.0;0.0;2.0;2.0;1.0;0.0;0.0;0.0;1.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Western Conference;Jaden Springer;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Western Conference;Total;30;"";"";109.7;8.9;34.7;43.6;24.1;7.8;5.7;0.0;19.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Pre All-Star;Joel Embiid;46;46;32.9;29.6;2.0;9.2;11.2;4.5;1.0;1.4;3.0;2.6;1.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Pre All-Star;Tobias Harris;49;49;35.3;18.7;1.1;6.2;7.3;3.7;0.6;0.7;1.8;2.0;2.1
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Pre All-Star;Tyrese Maxey;51;50;35.6;16.9;0.4;3.2;3.5;4.6;0.6;0.5;1.2;2.1;3.9
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Pre All-Star;Seth Curry;45;45;34.8;15.0;0.4;3.0;3.4;4.0;0.8;0.2;1.9;2.2;2.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Pre All-Star;Shake Milton;31;6;24.4;9.9;0.6;2.5;3.1;2.8;0.7;0.4;1.2;2.1;2.4
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Pre All-Star;Georges Niang;54;6;23.4;9.4;0.4;2.3;2.7;1.5;0.4;0.2;0.8;2.6;1.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Pre All-Star;Furkan Korkmaz;51;18;24.0;8.9;0.3;2.7;3.0;2.3;0.6;0.1;0.8;1.0;2.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Pre All-Star;Paul Millsap;2;0;10.0;6.5;2.0;1.5;3.5;1.0;0.0;0.0;0.5;2.5;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Pre All-Star;Danny Green;40;25;23.1;6.4;0.5;1.9;2.4;1.0;1.0;0.7;0.9;1.7;1.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Pre All-Star;Andre Drummond;49;12;18.4;6.1;2.8;6.1;8.8;2.0;1.1;0.9;1.6;2.5;1.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Pre All-Star;Matisse Thybulle;43;28;26.3;5.6;0.5;1.7;2.3;1.2;1.8;1.1;0.7;2.3;1.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Pre All-Star;Isaiah Joe;41;1;12.2;3.8;0.1;1.0;1.1;0.7;0.3;0.0;0.4;0.9;1.9
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Pre All-Star;Tyler Johnson;3;0;12.7;3.7;0.3;1.7;2.0;0.7;0.3;0.3;0.3;1.3;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Pre All-Star;Charles Bassey;23;0;7.3;3.0;1.0;1.7;2.7;0.3;0.2;0.7;0.3;1.4;0.9
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Pre All-Star;Paul Reed;24;2;9.5;2.4;1.3;1.4;2.7;0.4;0.8;0.5;0.3;1.5;1.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Pre All-Star;Charlie Brown Jr.;16;2;9.8;1.8;0.9;1.1;1.9;0.3;0.5;0.2;0.3;1.0;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Pre All-Star;Myles Powell;11;0;4.7;1.2;0.1;0.5;0.5;0.3;0.1;0.0;0.3;0.7;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Pre All-Star;Braxton Key;2;0;3.0;1.0;0.5;0.5;1.0;0.5;0.5;0.0;1.0;0.5;0.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Pre All-Star;Jaden Springer;2;0;3.0;1.0;0.5;0.5;1.0;0.0;0.0;1.0;0.5;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Pre All-Star;Aaron Henry;6;0;2.8;0.3;0.0;0.2;0.2;0.0;0.0;0.3;0.3;0.3;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Pre All-Star;Total;58;"";"";107.5;8.6;33.8;42.3;23.0;7.6;5.6;11.7;19.2;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Post All-Star;Joel Embiid;22;22;35.5;32.6;2.5;10.3;12.8;3.5;1.4;1.5;3.5;2.7;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Post All-Star;James Harden;21;21;37.7;21.0;0.6;6.5;7.1;10.5;1.2;0.2;3.4;2.3;3.1
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Post All-Star;Tyrese Maxey;24;24;34.8;18.7;0.3;2.2;2.5;3.5;0.9;0.3;1.2;2.1;3.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Post All-Star;Tobias Harris;24;24;33.8;14.3;0.9;4.8;5.7;3.0;0.7;0.5;1.3;2.7;2.4
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Post All-Star;Georges Niang;22;1;21.5;8.6;0.2;2.4;2.5;0.9;0.4;0.1;0.6;2.2;1.4
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Post All-Star;Matisse Thybulle;23;22;24.0;6.0;0.8;1.5;2.3;1.1;1.7;1.0;0.5;2.7;2.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Post All-Star;Shake Milton;24;0;17.7;5.9;0.5;1.5;1.9;2.1;0.3;0.2;0.3;1.5;7.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Post All-Star;Danny Green;22;3;19.6;5.0;0.6;2.2;2.8;1.0;0.9;0.4;0.5;1.7;2.3
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Post All-Star;DeAndre Jordan;16;1;13.4;4.6;2.0;3.8;5.8;0.5;0.1;0.6;1.0;1.3;0.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Post All-Star;Paul Reed;14;0;5.3;4.1;0.9;1.0;1.9;0.4;1.0;0.1;0.1;1.5;3.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Post All-Star;Furkan Korkmaz;16;1;11.9;3.4;0.4;0.9;1.3;0.7;0.1;0.1;0.4;0.4;1.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Post All-Star;Isaiah Joe;14;0;7.6;3.0;0.1;0.6;0.7;0.5;0.2;0.1;0.3;0.6;1.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Post All-Star;Paul Millsap;7;1;12.3;2.9;1.1;1.4;2.6;0.4;0.7;0.3;1.0;2.0;0.4
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Post All-Star;Willie Cauley-Stein;2;0;3.0;0.0;0.0;1.0;1.0;0.5;0.0;0.0;0.0;1.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Post All-Star;Charlie Brown Jr.;3;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;Post All-Star;Total;24;"";"";115.8;8.5;33.8;42.3;25.4;8.1;4.6;11.8;19.9;2.1
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;3+ Days Rest;Joel Embiid;8;8;34.9;29.0;1.6;9.9;11.5;5.5;1.1;1.5;2.9;2.8;1.9
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;3+ Days Rest;James Harden;1;1;35.0;27.0;1.0;7.0;8.0;12.0;0.0;0.0;2.0;4.0;6.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;3+ Days Rest;Tobias Harris;7;7;36.7;17.4;1.6;6.3;7.9;4.3;0.9;0.6;1.1;1.6;3.8
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;3+ Days Rest;Tyrese Maxey;5;4;32.8;16.2;0.0;3.0;3.0;3.2;1.2;0.2;1.2;2.0;2.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;3+ Days Rest;Seth Curry;8;8;33.4;13.9;0.1;2.6;2.8;3.6;0.6;0.3;2.3;2.3;1.6
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;3+ Days Rest;Furkan Korkmaz;9;2;15.0;8.2;0.3;1.8;2.1;1.6;0.2;0.0;0.4;0.7;3.5
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;3+ Days Rest;Andre Drummond;4;0;16.5;7.5;3.5;7.3;10.8;2.0;1.3;1.0;2.0;2.0;1.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;3+ Days Rest;Georges Niang;4;0;17.3;7.0;0.0;2.3;2.3;0.5;0.3;0.3;0.3;2.0;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;3+ Days Rest;Matisse Thybulle;8;5;28.8;6.8;1.3;1.4;2.6;1.3;2.3;0.8;0.9;2.0;1.4
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;3+ Days Rest;Danny Green;8;4;22.4;5.9;0.3;1.9;2.1;1.3;1.1;0.9;0.9;1.3;1.4
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;3+ Days Rest;Isaiah Joe;14;0;11.5;5.1;0.1;1.4;1.4;0.9;0.3;0.0;0.4;1.1;2.6
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;3+ Days Rest;Shake Milton;6;0;17.3;5.0;0.2;1.8;2.0;2.7;0.8;0.3;0.8;2.2;3.2
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;3+ Days Rest;Paul Millsap;4;1;13.5;4.3;1.3;1.0;2.3;0.5;0.5;0.3;0.8;2.3;0.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;3+ Days Rest;Tyler Johnson;1;0;11.0;3.0;1.0;3.0;4.0;0.0;0.0;0.0;0.0;1.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;3+ Days Rest;Charles Bassey;13;0;5.7;2.6;0.6;1.4;2.0;0.2;0.2;0.8;0.2;1.3;0.7
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;3+ Days Rest;DeAndre Jordan;2;0;10.0;2.0;1.0;1.0;2.0;1.0;0.5;1.0;0.0;0.5;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;3+ Days Rest;Paul Reed;16;0;5.1;1.9;0.8;0.8;1.6;0.4;0.6;0.3;0.1;0.9;3.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;3+ Days Rest;Charlie Brown Jr.;7;0;3.4;1.0;0.1;0.4;0.6;0.3;0.4;0.1;0.1;0.3;2.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;3+ Days Rest;Jaden Springer;2;0;3.0;1.0;0.5;0.5;1.0;0.0;0.0;1.0;0.5;0.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;3+ Days Rest;Myles Powell;5;0;4.0;0.6;0.0;0.4;0.4;0.0;0.0;0.0;0.0;1.0;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;3+ Days Rest;Aaron Henry;5;0;2.8;0.4;0.0;0.2;0.2;0.0;0.0;0.4;0.4;0.4;0.0
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;3+ Days Rest;Willie Cauley-Stein;2;0;3.0;0.0;0.0;1.0;1.0;0.5;0.0;0.0;0.0;1.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;3+ Days Rest;Braxton Key;1;0;2.0;0.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;0.0;INF
+Philadelphia 76ers;phi;2021 - 2022 Regular Season;3+ Days Rest;Total;4;"";"";122.8;6.5;37.8;44.3;26.8;9.3;4.8;12.5;19.5;2.1

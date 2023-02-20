@@ -1,0 +1,992 @@
+teamName;teamCode;season;split;player_name;FGM;FGA;FG_PCT;FG3M;FG3A;FG3_PCT;FTM;FTA;FT_PCT;PM2;PA2;PCT2;SC_EF;SH_EF
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;All Splits;Giannis Antetokounmpo;10.3;18.6;55.3;1.1;3.6;29.3;8.3;11.4;72.2;9.2;15.0;61.6;1.608;0.58
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;All Splits;Khris Middleton;6.8;15.5;44.3;2.5;6.6;37.3;3.9;4.4;89.0;4.4;8.9;49.4;1.298;0.52
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;All Splits;Jrue Holiday;7.1;14.2;50.1;2.0;4.8;41.1;2.0;2.7;76.1;5.2;9.4;54.7;1.284;0.57
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;All Splits;Bobby Portis;5.8;12.1;47.9;1.8;4.7;39.3;1.2;1.6;75.2;3.9;7.4;53.3;1.208;0.56
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;All Splits;Brook Lopez;4.7;10.1;46.6;1.5;4.1;35.8;1.5;1.8;87.0;3.2;6.0;53.8;1.229;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;All Splits;Grayson Allen;3.9;8.6;44.8;2.4;5.9;40.9;1.0;1.1;86.5;1.5;2.7;53.3;1.288;0.59
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;All Splits;Pat Connaughton;3.5;7.6;45.8;2.2;5.7;39.5;0.7;0.8;83.3;1.2;1.9;64.3;1.300;0.60
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;All Splits;DeMarcus Cousins;3.2;6.9;46.6;0.8;2.8;27.1;1.8;2.2;81.6;2.5;4.1;60.0;1.305;0.52
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;All Splits;Jordan Nwora;3.0;7.5;40.3;1.3;3.7;34.8;0.6;0.7;83.7;1.7;3.8;45.5;1.054;0.49
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;All Splits;Rayjon Tucker;2.5;3.5;71.4;1.5;1.5;100.0;1.0;1.5;66.7;1.0;2.0;50.0;2.143;0.93
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;All Splits;Donte DiVincenzo;2.3;6.9;33.1;1.2;4.4;28.4;1.4;1.6;85.2;1.1;2.6;40.9;1.034;0.42
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;All Splits;Serge Ibaka;2.8;5.5;51.9;0.7;1.9;35.1;0.6;0.8;80.0;2.2;3.5;61.2;1.279;0.58
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;All Splits;George Hill;2.2;5.1;42.9;0.8;2.5;30.6;1.1;1.1;91.9;1.4;2.6;54.6;1.215;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;All Splits;Jevon Carter;2.0;4.0;50.6;1.2;2.2;55.8;0.4;0.4;100.0;0.8;1.8;44.4;1.418;0.66
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;All Splits;Greg Monroe;2.2;4.4;50.0;0.0;0.0;0.0;1.0;1.8;55.6;2.2;4.4;50.0;1.227;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;All Splits;Wesley Matthews;1.8;4.5;39.5;1.1;3.2;33.8;0.4;0.6;78.6;0.7;1.3;54.0;1.132;0.52
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;All Splits;Lindell Wigginton;1.4;3.2;42.6;0.5;1.4;34.6;1.0;1.8;54.3;0.9;1.8;48.6;1.311;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;All Splits;Sandro Mamukelashvili;1.4;2.8;49.6;0.5;1.3;42.3;0.4;0.5;81.8;0.9;1.5;55.6;1.339;0.59
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;All Splits;Thanasis Antetokounmpo;1.5;2.7;54.7;0.0;0.3;14.3;0.6;1.0;63.0;1.4;2.4;59.6;1.336;0.55
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;All Splits;Rodney Hood;1.2;3.4;35.1;0.6;2.1;30.0;0.3;0.4;92.9;0.6;1.3;43.1;0.985;0.44
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;All Splits;Semi Ojeleye;0.9;3.5;25.7;0.6;2.1;26.8;0.5;0.7;76.9;0.4;1.5;24.1;0.814;0.34
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;All Splits;Justin Robinson;1.1;3.4;31.6;0.6;2.2;27.0;0.1;0.1;100.0;0.5;1.2;40.0;0.842;0.40
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;All Splits;Javonte Smart;0.8;3.3;25.6;0.3;1.4;22.2;0.4;0.5;83.3;0.5;1.9;28.0;0.721;0.30
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;All Splits;Georgios Kalaitzakis;0.6;1.2;45.5;0.2;0.4;50.0;0.4;1.0;44.4;0.3;0.8;42.9;1.455;0.55
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;All Splits;DeAndre' Bembry;0.4;1.0;37.5;0.0;0.0;0.0;0.0;0.0;0.0;0.4;1.0;37.5;0.750;0.38
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;All Splits;Langston Galloway;0.3;4.3;7.7;0.0;2.7;0.0;0.0;0.0;0.0;0.3;1.7;20.0;0.154;0.08
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;All Splits;Luke Kornet;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;All Splits;Javin DeLaurier;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;All Splits;Jeff Dowtin Jr.;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;All Splits;Total;41.8;89.4;46.8;14.1;38.4;36.6;17.8;22.9;77.6;27.8;51.0;54.4;1.292;0.55
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Home;Giannis Antetokounmpo;10.8;19.3;56.1;1.1;4.0;26.8;8.4;11.3;74.6;9.8;15.3;63.7;1.614;0.59
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Home;Khris Middleton;6.6;15.4;42.8;2.1;6.3;33.5;4.2;4.9;87.0;4.5;9.0;49.3;1.270;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Home;Jrue Holiday;7.2;14.1;51.3;2.3;5.0;45.6;2.1;2.9;74.2;4.9;9.1;54.4;1.337;0.59
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Home;Bobby Portis;5.9;12.4;47.4;2.1;5.1;40.6;1.0;1.4;74.0;3.8;7.3;52.0;1.194;0.56
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Home;Brook Lopez;5.0;11.6;43.1;1.4;4.0;35.0;0.6;0.8;75.0;3.6;7.6;47.4;1.034;0.49
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Home;Grayson Allen;3.9;8.8;44.3;2.4;5.9;40.5;0.8;0.9;83.3;1.5;2.9;52.1;1.244;0.58
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Home;DeMarcus Cousins;3.6;7.9;45.1;1.0;3.0;33.3;2.2;2.8;80.0;2.6;4.9;52.3;1.310;0.51
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Home;Pat Connaughton;3.2;7.5;43.1;2.3;5.7;40.9;0.8;0.9;86.7;0.9;1.8;50.0;1.280;0.59
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Home;Jordan Nwora;3.7;8.3;44.8;1.5;3.9;39.3;0.5;0.6;84.2;2.2;4.4;49.6;1.145;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Home;Serge Ibaka;2.9;5.4;54.2;0.7;1.9;38.1;0.8;1.1;75.0;2.2;3.5;63.2;1.373;0.61
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Home;George Hill;2.3;5.4;43.3;0.8;2.5;30.4;1.3;1.3;97.3;1.6;2.9;54.3;1.247;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Home;Donte DiVincenzo;2.1;5.8;36.5;1.0;3.4;29.0;1.0;1.1;90.0;1.1;2.3;47.6;1.077;0.45
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Home;Jevon Carter;2.0;3.8;52.9;1.0;1.7;60.0;0.4;0.4;100.0;1.0;2.1;47.4;1.441;0.66
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Home;Lindell Wigginton;1.4;3.0;46.7;0.5;1.3;38.5;1.4;2.5;56.0;0.9;1.7;52.9;1.567;0.55
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Home;Wesley Matthews;1.6;4.3;37.0;0.9;3.1;28.2;0.5;0.7;76.5;0.7;1.2;60.0;1.065;0.47
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Home;Javonte Smart;1.3;4.3;30.0;0.3;1.6;18.2;0.4;0.6;75.0;1.0;2.7;36.8;0.767;0.33
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Home;Sandro Mamukelashvili;1.1;2.6;42.6;0.6;1.4;38.5;0.4;0.6;70.0;0.6;1.2;47.6;1.213;0.53
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Home;Thanasis Antetokounmpo;1.3;3.0;43.3;0.0;0.4;11.1;0.5;0.9;50.0;1.3;2.6;48.3;1.030;0.44
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Home;Rodney Hood;1.0;3.2;31.7;0.6;2.0;28.9;0.5;0.5;90.0;0.4;1.2;36.4;0.967;0.41
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Home;Greg Monroe;1.0;2.0;50.0;0.0;0.0;0.0;1.0;2.0;50.0;1.0;2.0;50.0;1.500;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Home;Justin Robinson;1.0;2.8;36.0;0.6;1.7;33.3;0.0;0.0;0.0;0.4;1.1;40.0;0.920;0.46
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Home;Semi Ojeleye;0.4;4.3;10.3;0.3;2.6;13.0;0.7;0.9;75.0;0.1;1.8;6.3;0.436;0.14
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Home;Georgios Kalaitzakis;0.3;0.8;33.3;0.3;0.3;100.0;0.5;0.5;100.0;0.0;0.5;0.0;1.667;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Home;DeAndre' Bembry;0.6;1.0;60.0;0.0;0.0;0.0;0.0;0.0;0.0;0.6;1.0;60.0;1.200;0.60
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Home;Javin DeLaurier;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Home;Total;41.7;89.7;46.4;14.1;38.6;36.6;17.9;22.9;78.0;27.5;51.1;53.9;1.285;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Away;Giannis Antetokounmpo;9.8;17.9;54.6;1.1;3.3;32.2;8.1;11.5;70.1;8.7;14.7;59.6;1.602;0.58
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Away;Khris Middleton;7.1;15.6;45.7;2.8;6.8;40.9;3.6;3.9;91.5;4.3;8.8;49.5;1.325;0.55
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Away;Jrue Holiday;7.1;14.4;49.0;1.7;4.6;36.2;2.0;2.5;78.3;5.4;9.8;54.9;1.231;0.55
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Away;Bobby Portis;5.7;11.8;48.4;1.6;4.3;37.7;1.4;1.8;76.2;4.1;7.5;54.6;1.223;0.55
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Away;Brook Lopez;4.5;9.1;49.3;1.5;4.1;36.4;2.1;2.4;89.5;3.0;5.0;60.0;1.384;0.58
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Away;Grayson Allen;3.8;8.4;45.3;2.4;5.9;41.2;1.2;1.3;88.6;1.4;2.5;54.8;1.335;0.60
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Away;Pat Connaughton;3.8;7.8;48.2;2.2;5.7;38.1;0.6;0.7;79.2;1.6;2.1;76.5;1.319;0.62
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Away;Donte DiVincenzo;2.5;8.3;30.3;1.5;5.4;27.9;1.8;2.1;82.4;1.0;2.9;34.8;1.000;0.39
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Away;DeMarcus Cousins;2.9;5.9;48.9;0.5;2.6;19.0;1.4;1.6;84.6;2.4;3.3;73.1;1.298;0.53
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Away;Rayjon Tucker;2.5;3.5;71.4;1.5;1.5;100.0;1.0;1.5;66.7;1.0;2.0;50.0;2.143;0.93
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Away;Serge Ibaka;2.8;5.6;48.9;0.6;2.0;31.3;0.4;0.4;100.0;2.1;3.6;58.6;1.156;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Away;Jordan Nwora;2.3;6.7;35.0;1.0;3.4;30.0;0.6;0.8;83.3;1.3;3.3;40.4;0.949;0.43
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Away;Greg Monroe;2.5;5.0;50.0;0.0;0.0;0.0;1.0;1.8;57.1;2.5;5.0;50.0;1.200;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Away;Jevon Carter;2.0;4.1;48.9;1.4;2.5;53.6;0.4;0.4;100.0;0.6;1.5;41.2;1.400;0.66
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Away;George Hill;2.0;4.8;42.4;0.8;2.5;30.8;0.8;1.0;84.0;1.3;2.3;55.0;1.176;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Away;Wesley Matthews;2.0;4.7;42.0;1.3;3.3;39.2;0.4;0.5;81.8;0.7;1.4;48.5;1.196;0.56
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Away;Sandro Mamukelashvili;1.6;3.0;54.4;0.5;1.1;46.2;0.5;0.5;91.7;1.1;1.8;59.5;1.426;0.63
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Away;Thanasis Antetokounmpo;1.6;2.3;67.2;0.0;0.2;20.0;0.7;1.0;73.1;1.5;2.2;71.4;1.672;0.68
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Away;Lindell Wigginton;1.3;3.4;38.7;0.4;1.4;30.8;0.6;1.1;50.0;0.9;2.0;44.4;1.065;0.45
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Away;Semi Ojeleye;1.3;2.8;45.2;0.7;1.6;44.4;0.4;0.5;80.0;0.5;1.2;46.2;1.290;0.58
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Away;Rodney Hood;1.4;3.6;38.0;0.7;2.1;31.0;0.2;0.2;100.0;0.7;1.5;48.3;1.000;0.47
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Away;Justin Robinson;1.1;4.0;28.1;0.6;2.8;22.7;0.3;0.3;100.0;0.5;1.3;40.0;0.781;0.36
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Away;Georgios Kalaitzakis;0.8;1.6;50.0;0.2;0.6;33.3;0.4;1.4;28.6;0.6;1.0;60.0;1.375;0.56
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Away;Javonte Smart;0.3;2.2;15.4;0.3;1.2;28.6;0.3;0.3;100.0;0.0;1.0;0.0;0.615;0.23
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Away;Langston Galloway;0.3;4.3;7.7;0.0;2.7;0.0;0.0;0.0;0.0;0.3;1.7;20.0;0.154;0.08
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Away;DeAndre' Bembry;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Away;Luke Kornet;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Away;Jeff Dowtin Jr.;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Away;Total;42.0;89.1;47.1;14.0;38.3;36.6;17.7;23.0;77.2;28.0;50.8;55.0;1.298;0.55
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Boston Celtics;Giannis Antetokounmpo;10.3;19.3;53.4;0.0;3.0;0.0;7.7;11.0;69.7;10.3;16.3;63.3;1.466;0.53
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Boston Celtics;Jrue Holiday;8.0;18.5;43.2;2.0;7.0;28.6;2.8;3.8;73.3;6.0;11.5;52.2;1.122;0.49
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Boston Celtics;Bobby Portis;7.3;13.3;54.7;1.8;4.5;38.9;0.8;1.0;75.0;5.5;8.8;62.9;1.283;0.61
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Boston Celtics;Brook Lopez;7.0;16.0;43.8;1.0;4.0;25.0;0.0;0.0;0.0;6.0;12.0;50.0;0.938;0.47
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Boston Celtics;Khris Middleton;5.3;13.0;41.0;2.3;6.0;38.9;1.3;1.7;80.0;3.0;7.0;42.9;1.103;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Boston Celtics;Grayson Allen;3.3;9.7;34.5;2.3;6.0;38.9;2.0;2.3;85.7;1.0;3.7;27.3;1.138;0.47
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Boston Celtics;Pat Connaughton;3.5;7.3;48.3;2.0;5.3;38.1;0.8;0.8;100.0;1.5;2.0;75.0;1.345;0.62
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Boston Celtics;Wesley Matthews;2.5;4.0;62.5;1.5;2.5;60.0;1.5;1.5;100.0;1.0;1.5;66.7;2.000;0.81
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Boston Celtics;George Hill;3.3;7.3;45.5;1.0;4.3;23.1;0.0;0.0;0.0;2.3;3.0;77.8;1.045;0.52
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Boston Celtics;DeMarcus Cousins;3.0;7.0;42.9;1.0;2.5;40.0;0.5;1.5;33.3;2.0;4.5;44.4;1.071;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Boston Celtics;Thanasis Antetokounmpo;2.5;2.5;100.0;0.0;0.0;0.0;0.5;0.5;100.0;2.5;2.5;100.0;2.200;1.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Boston Celtics;Jordan Nwora;2.0;4.5;44.4;1.5;3.0;50.0;0.0;0.0;0.0;0.5;1.5;33.3;1.222;0.61
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Boston Celtics;Rodney Hood;1.5;3.5;42.9;1.0;2.5;40.0;0.0;0.0;0.0;0.5;1.0;50.0;1.143;0.57
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Boston Celtics;Donte DiVincenzo;1.0;4.0;25.0;1.0;2.0;50.0;0.0;0.0;0.0;0.0;2.0;0.0;0.750;0.38
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Boston Celtics;Javonte Smart;1.0;4.0;25.0;1.0;1.0;100.0;0.0;0.0;0.0;0.0;3.0;0.0;0.750;0.38
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Boston Celtics;Semi Ojeleye;1.0;3.0;33.3;0.0;0.0;0.0;0.0;0.0;0.0;1.0;3.0;33.3;0.667;0.33
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Boston Celtics;Sandro Mamukelashvili;1.0;2.0;50.0;0.0;1.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;1.000;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Boston Celtics;Jevon Carter;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Boston Celtics;Total;44.0;94.0;46.8;13.3;38.5;34.4;13.8;18.5;74.3;30.8;55.5;55.4;1.223;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Brooklyn Nets;Giannis Antetokounmpo;11.3;20.8;54.2;1.3;4.8;26.3;10.3;13.5;75.9;10.0;16.0;62.5;1.639;0.57
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Brooklyn Nets;Bobby Portis;8.0;14.3;55.8;3.7;7.7;47.8;1.7;2.3;71.4;4.3;6.7;65.0;1.488;0.69
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Brooklyn Nets;Khris Middleton;6.5;14.3;45.6;2.8;6.3;44.0;4.5;5.3;85.7;3.8;8.0;46.9;1.421;0.55
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Brooklyn Nets;Jrue Holiday;6.0;11.3;52.9;1.7;4.3;38.5;3.0;4.7;64.3;4.3;7.0;61.9;1.471;0.60
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Brooklyn Nets;Pat Connaughton;6.0;10.5;57.1;3.0;7.5;40.0;0.5;0.5;100.0;3.0;3.0;100.0;1.476;0.71
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Brooklyn Nets;Rodney Hood;4.0;8.0;50.0;2.0;6.0;33.3;0.0;0.0;0.0;2.0;2.0;100.0;1.250;0.63
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Brooklyn Nets;Wesley Matthews;3.7;7.3;50.0;2.0;5.3;37.5;0.0;0.3;0.0;1.7;2.0;83.3;1.273;0.64
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Brooklyn Nets;Jordan Nwora;3.7;8.3;44.0;2.0;4.3;46.2;0.0;0.0;0.0;1.7;4.0;41.7;1.120;0.56
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Brooklyn Nets;Serge Ibaka;3.0;8.0;37.5;1.0;4.0;25.0;1.0;1.0;100.0;2.0;4.0;50.0;1.000;0.44
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Brooklyn Nets;Grayson Allen;2.3;6.0;38.9;1.7;5.3;31.3;1.0;1.3;75.0;0.7;0.7;100.0;1.222;0.53
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Brooklyn Nets;Brook Lopez;2.5;8.0;31.3;1.0;3.5;28.6;0.5;1.0;50.0;1.5;4.5;33.3;0.813;0.38
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Brooklyn Nets;Thanasis Antetokounmpo;1.5;4.0;37.5;0.0;1.0;0.0;2.0;2.0;100.0;1.5;3.0;50.0;1.250;0.38
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Brooklyn Nets;Justin Robinson;1.0;2.0;50.0;1.0;2.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.500;0.75
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Brooklyn Nets;Langston Galloway;1.0;6.0;16.7;0.0;3.0;0.0;0.0;0.0;0.0;1.0;3.0;33.3;0.333;0.17
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Brooklyn Nets;Sandro Mamukelashvili;1.0;2.5;40.0;0.0;0.5;0.0;0.0;0.0;0.0;1.0;2.0;50.0;0.800;0.40
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Brooklyn Nets;George Hill;0.0;2.0;0.0;0.0;1.0;0.0;0.5;1.0;50.0;0.0;1.0;0.0;0.250;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Brooklyn Nets;Semi Ojeleye;0.0;2.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Brooklyn Nets;DeAndre' Bembry;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Brooklyn Nets;Luke Kornet;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Brooklyn Nets;Jevon Carter;0.0;0.5;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Brooklyn Nets;Jeff Dowtin Jr.;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Brooklyn Nets;Lindell Wigginton;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Brooklyn Nets;Javonte Smart;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Brooklyn Nets;Georgios Kalaitzakis;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Brooklyn Nets;Total;43.3;92.0;47.0;15.3;42.3;36.1;21.0;27.8;75.7;28.0;49.8;56.3;1.334;0.55
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. New York Knicks;Giannis Antetokounmpo;7.8;16.8;46.3;1.5;5.0;30.0;7.5;9.8;76.9;6.3;11.8;53.2;1.463;0.51
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. New York Knicks;Khris Middleton;7.5;17.5;42.9;2.5;9.0;27.8;4.5;4.5;100.0;5.0;8.5;58.8;1.257;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. New York Knicks;Jrue Holiday;6.0;12.5;48.0;2.5;5.0;50.0;1.8;2.0;87.5;3.5;7.5;46.7;1.300;0.58
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. New York Knicks;Grayson Allen;5.5;10.5;52.4;4.0;7.8;51.6;1.0;1.0;100.0;1.5;2.8;54.5;1.524;0.71
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. New York Knicks;Bobby Portis;4.5;11.0;40.9;1.8;4.5;38.9;1.0;1.8;57.1;2.8;6.5;42.3;1.068;0.49
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. New York Knicks;Pat Connaughton;4.0;9.0;44.4;2.8;7.0;39.3;0.0;0.0;0.0;1.3;2.0;62.5;1.194;0.60
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. New York Knicks;Rodney Hood;2.3;4.0;58.3;1.3;3.0;44.4;1.3;1.3;100.0;1.0;1.0;100.0;1.833;0.75
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. New York Knicks;Semi Ojeleye;2.0;4.5;44.4;1.0;2.0;50.0;0.5;0.5;100.0;1.0;2.5;40.0;1.222;0.56
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. New York Knicks;George Hill;1.8;3.5;50.0;1.3;2.0;62.5;0.5;0.5;100.0;0.5;1.5;33.3;1.500;0.68
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. New York Knicks;Jordan Nwora;1.8;5.8;30.4;0.8;3.3;23.1;0.0;0.0;0.0;1.0;2.5;40.0;0.739;0.37
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. New York Knicks;Donte DiVincenzo;2.0;5.0;40.0;0.0;2.0;0.0;0.0;0.0;0.0;2.0;3.0;66.7;0.800;0.40
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. New York Knicks;Wesley Matthews;1.0;3.0;33.3;0.0;2.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;0.667;0.33
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. New York Knicks;Sandro Mamukelashvili;0.5;0.5;100.0;0.5;0.5;100.0;0.0;0.0;0.0;0.0;0.0;0.0;3.000;1.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. New York Knicks;Thanasis Antetokounmpo;0.3;1.7;20.0;0.0;0.0;0.0;0.7;1.3;50.0;0.3;1.7;20.0;0.800;0.20
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. New York Knicks;DeMarcus Cousins;0.0;3.0;0.0;0.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. New York Knicks;Justin Robinson;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. New York Knicks;Lindell Wigginton;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. New York Knicks;Javonte Smart;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. New York Knicks;Total;39.0;87.3;44.7;17.5;44.3;39.5;15.8;19.5;80.8;21.5;43.0;50.0;1.275;0.55
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Giannis Antetokounmpo;13.7;24.3;56.2;1.0;3.0;33.3;6.0;9.3;64.3;12.7;21.3;59.4;1.411;0.58
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Khris Middleton;7.0;18.5;37.8;2.5;10.0;25.0;4.0;5.5;72.7;4.5;8.5;52.9;1.108;0.45
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Grayson Allen;5.5;9.0;61.1;3.5;6.5;53.8;3.0;3.5;85.7;2.0;2.5;80.0;1.944;0.81
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Brook Lopez;6.0;14.0;42.9;4.0;9.0;44.4;1.0;1.0;100.0;2.0;5.0;40.0;1.214;0.57
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Jrue Holiday;6.3;15.0;42.2;1.7;5.0;33.3;2.3;3.3;70.0;4.7;10.0;46.7;1.111;0.48
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Bobby Portis;4.3;9.7;44.8;2.0;5.7;35.3;2.3;2.7;87.5;2.3;4.0;58.3;1.345;0.55
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Jordan Nwora;5.0;9.0;55.6;2.0;4.5;44.4;1.0;1.0;100.0;3.0;4.5;66.7;1.444;0.67
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Semi Ojeleye;4.0;4.0;100.0;3.0;3.0;100.0;0.0;0.0;0.0;1.0;1.0;100.0;2.750;1.38
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Pat Connaughton;2.0;6.5;30.8;1.0;5.0;20.0;0.0;0.0;0.0;1.0;1.5;66.7;0.769;0.38
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Philadelphia 76ers;George Hill;1.5;3.0;50.0;0.5;1.5;33.3;1.0;1.5;66.7;1.0;1.5;66.7;1.500;0.58
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Wesley Matthews;1.5;4.0;37.5;1.0;2.5;40.0;0.0;0.0;0.0;0.5;1.5;33.3;1.000;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Serge Ibaka;1.0;4.0;25.0;0.5;2.5;20.0;0.0;0.0;0.0;0.5;1.5;33.3;0.625;0.31
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Lindell Wigginton;0.0;1.0;0.0;0.0;0.0;0.0;2.0;2.0;100.0;0.0;1.0;0.0;2.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Thanasis Antetokounmpo;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Justin Robinson;0.0;4.0;0.0;0.0;3.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Sandro Mamukelashvili;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Total;43.3;92.7;46.8;14.3;40.3;35.5;17.7;24.0;73.6;29.0;52.3;55.4;1.281;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Toronto Raptors;Giannis Antetokounmpo;6.0;17.0;35.3;1.0;3.0;33.3;17.0;17.0;100.0;5.0;14.0;35.7;1.765;0.38
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Toronto Raptors;Khris Middleton;6.7;16.0;41.7;1.7;4.7;35.7;6.0;7.3;81.8;5.0;11.3;44.1;1.313;0.47
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Toronto Raptors;Jrue Holiday;7.5;17.0;44.1;3.5;5.5;63.6;2.0;4.5;44.4;4.0;11.5;34.8;1.206;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Toronto Raptors;DeMarcus Cousins;5.0;8.0;62.5;2.0;3.0;66.7;3.0;4.0;75.0;3.0;5.0;60.0;1.875;0.75
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Toronto Raptors;Grayson Allen;5.0;10.5;47.6;2.5;6.0;41.7;1.5;2.0;75.0;2.5;4.5;55.6;1.333;0.60
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Toronto Raptors;Bobby Portis;3.7;9.3;39.3;1.3;3.0;44.4;3.7;5.0;73.3;2.3;6.3;36.8;1.321;0.46
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Toronto Raptors;Sandro Mamukelashvili;3.0;8.0;37.5;0.5;2.5;20.0;2.5;3.0;83.3;2.5;5.5;45.5;1.125;0.41
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Toronto Raptors;Wesley Matthews;2.5;8.5;29.4;2.0;7.5;26.7;0.0;0.0;0.0;0.5;1.0;50.0;0.824;0.41
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Toronto Raptors;George Hill;2.0;7.0;28.6;1.5;5.0;30.0;1.0;1.5;66.7;0.5;2.0;25.0;0.929;0.39
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Toronto Raptors;Pat Connaughton;1.5;5.0;30.0;1.0;4.0;25.0;2.0;2.0;100.0;0.5;1.0;50.0;1.200;0.40
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Toronto Raptors;Jordan Nwora;2.3;5.0;46.7;1.0;3.0;33.3;0.0;0.0;0.0;1.3;2.0;66.7;1.133;0.57
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Toronto Raptors;Rodney Hood;1.0;3.7;27.3;0.7;1.7;40.0;0.3;0.7;50.0;0.3;2.0;16.7;0.818;0.36
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Toronto Raptors;Donte DiVincenzo;1.0;5.0;20.0;1.0;4.0;25.0;0.0;0.0;0.0;0.0;1.0;0.0;0.600;0.30
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Toronto Raptors;Thanasis Antetokounmpo;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Toronto Raptors;Javonte Smart;0.0;2.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Toronto Raptors;Total;32.0;82.3;38.9;13.3;36.3;36.7;22.7;28.7;79.1;18.7;46.0;40.6;1.215;0.47
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Chicago Bulls;Giannis Antetokounmpo;9.8;17.5;55.7;0.5;2.3;22.2;6.8;11.3;60.0;9.3;15.3;60.7;1.529;0.57
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Chicago Bulls;Jrue Holiday;8.0;15.3;52.5;1.8;4.3;41.2;1.5;2.0;75.0;6.3;11.0;56.8;1.262;0.58
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Chicago Bulls;Brook Lopez;6.5;11.5;56.5;1.5;4.0;37.5;4.5;4.5;100.0;5.0;7.5;66.7;1.652;0.63
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Chicago Bulls;Khris Middleton;7.7;15.7;48.9;1.7;6.0;27.8;2.0;3.3;60.0;6.0;9.7;62.1;1.213;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Chicago Bulls;Bobby Portis;4.8;10.3;46.3;1.0;4.0;25.0;0.3;0.5;50.0;3.8;6.3;60.0;1.049;0.51
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Chicago Bulls;Grayson Allen;3.3;6.0;54.2;0.8;2.5;30.0;1.5;1.5;100.0;2.5;3.5;71.4;1.458;0.60
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Chicago Bulls;Wesley Matthews;2.8;5.5;50.0;1.8;3.5;50.0;1.3;1.5;83.3;1.0;2.0;50.0;1.545;0.66
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Chicago Bulls;Donte DiVincenzo;2.0;5.0;40.0;1.0;4.0;25.0;2.0;2.0;100.0;1.0;1.0;100.0;1.400;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Chicago Bulls;Pat Connaughton;1.7;5.3;31.3;1.0;4.3;23.1;1.7;1.7;100.0;0.7;1.0;66.7;1.125;0.41
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Chicago Bulls;Serge Ibaka;2.0;4.5;44.4;0.5;1.5;33.3;1.0;1.0;100.0;1.5;3.0;50.0;1.222;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Chicago Bulls;Jevon Carter;2.0;2.7;75.0;1.0;1.3;75.0;0.0;0.0;0.0;1.0;1.3;75.0;1.875;0.94
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Chicago Bulls;George Hill;1.0;3.0;33.3;0.0;1.3;0.0;1.7;1.7;100.0;1.0;1.7;60.0;1.222;0.33
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Chicago Bulls;Sandro Mamukelashvili;1.0;2.0;50.0;1.0;2.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.500;0.75
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Chicago Bulls;Jordan Nwora;0.3;1.7;20.0;0.0;1.0;0.0;1.3;1.3;100.0;0.3;0.7;50.0;1.200;0.20
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Chicago Bulls;Thanasis Antetokounmpo;0.5;1.5;33.3;0.0;0.0;0.0;0.5;1.0;50.0;0.5;1.5;33.3;1.000;0.33
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Chicago Bulls;DeAndre' Bembry;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Chicago Bulls;Lindell Wigginton;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Chicago Bulls;Total;43.3;86.3;50.1;10.0;31.3;32.0;19.8;26.5;74.5;33.3;55.0;60.5;1.348;0.56
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Giannis Antetokounmpo;8.0;16.0;50.0;2.0;3.0;66.7;8.5;9.5;89.5;6.0;13.0;46.2;1.656;0.56
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Khris Middleton;7.5;15.5;48.4;1.5;5.5;27.3;4.5;5.0;90.0;6.0;10.0;60.0;1.355;0.53
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Jordan Nwora;6.3;16.3;38.8;2.3;6.3;36.8;3.7;3.7;100.0;4.0;10.0;40.0;1.143;0.46
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Lindell Wigginton;7.0;15.0;46.7;2.0;6.0;33.3;2.0;6.0;33.3;5.0;9.0;55.6;1.200;0.53
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Bobby Portis;7.0;13.5;51.9;1.5;5.5;27.3;0.5;1.0;50.0;5.5;8.0;68.8;1.185;0.57
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Rayjon Tucker;5.0;7.0;71.4;3.0;3.0;100.0;2.0;3.0;66.7;2.0;4.0;50.0;2.143;0.93
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Sandro Mamukelashvili;5.3;10.3;51.6;2.0;4.7;42.9;2.3;2.7;87.5;3.3;5.7;58.8;1.452;0.61
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Thanasis Antetokounmpo;4.0;6.7;60.0;0.7;1.7;40.0;2.7;4.0;66.7;3.3;5.0;66.7;1.700;0.65
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;DeMarcus Cousins;3.0;9.0;33.3;1.0;4.5;22.2;2.5;3.0;83.3;2.0;4.5;44.4;1.056;0.39
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Donte DiVincenzo;4.0;11.0;36.4;1.0;5.0;20.0;0.0;0.0;0.0;3.0;6.0;50.0;0.818;0.41
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Pat Connaughton;2.7;5.7;47.1;2.0;4.0;50.0;1.3;1.3;100.0;0.7;1.7;40.0;1.529;0.65
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Jrue Holiday;3.7;8.0;45.8;0.7;1.7;40.0;0.0;0.0;0.0;3.0;6.3;47.4;1.000;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;George Hill;3.5;7.0;50.0;0.0;2.0;0.0;0.0;0.0;0.0;3.5;5.0;70.0;1.000;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Grayson Allen;2.0;7.0;28.6;2.0;5.0;40.0;0.0;0.0;0.0;0.0;2.0;0.0;0.857;0.43
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Javonte Smart;2.5;8.5;29.4;0.0;2.5;0.0;0.0;0.0;0.0;2.5;6.0;41.7;0.588;0.29
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Semi Ojeleye;1.0;4.0;25.0;0.5;2.0;25.0;1.0;1.0;100.0;0.5;2.0;25.0;0.875;0.31
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Wesley Matthews;1.0;2.0;50.0;1.0;2.0;50.0;0.0;2.0;0.0;0.0;0.0;0.0;1.500;0.75
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Jevon Carter;1.0;11.0;9.1;1.0;5.0;20.0;0.0;0.0;0.0;0.0;6.0;0.0;0.273;0.14
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Rodney Hood;0.0;1.0;0.0;0.0;0.5;0.0;0.0;0.0;0.0;0.0;0.5;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Total;37.8;85.8;44.0;11.5;33.0;34.8;17.0;21.3;80.0;26.3;52.8;49.8;1.213;0.51
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Detroit Pistons;Giannis Antetokounmpo;10.3;17.5;58.6;1.3;4.5;27.8;8.8;10.8;81.4;9.0;13.0;69.2;1.743;0.62
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Detroit Pistons;Jrue Holiday;8.0;15.3;52.2;2.3;6.3;36.8;2.0;2.3;85.7;5.7;9.0;63.0;1.326;0.60
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Detroit Pistons;Brook Lopez;7.0;11.0;63.6;3.0;4.0;75.0;0.0;0.0;0.0;4.0;7.0;57.1;1.545;0.77
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Detroit Pistons;Bobby Portis;6.0;13.0;46.2;2.3;4.5;50.0;0.8;1.0;75.0;3.8;8.5;44.1;1.154;0.55
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Detroit Pistons;Khris Middleton;4.7;13.3;35.0;1.7;5.7;29.4;1.0;1.0;100.0;3.0;7.7;39.1;0.900;0.41
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Detroit Pistons;Pat Connaughton;3.5;7.3;48.3;2.5;4.8;52.6;0.5;0.5;100.0;1.0;2.5;40.0;1.379;0.66
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Detroit Pistons;DeMarcus Cousins;3.0;5.0;60.0;2.0;4.0;50.0;1.0;1.0;100.0;1.0;1.0;100.0;1.800;0.80
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Detroit Pistons;Serge Ibaka;4.0;5.0;80.0;0.0;1.0;0.0;0.0;0.0;0.0;4.0;4.0;100.0;1.600;0.80
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Detroit Pistons;Wesley Matthews;3.0;4.5;66.7;0.0;1.5;0.0;0.5;0.5;100.0;3.0;3.0;100.0;1.444;0.67
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Detroit Pistons;Jordan Nwora;2.3;5.0;46.7;0.7;2.0;33.3;1.0;1.3;75.0;1.7;3.0;55.6;1.267;0.53
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Detroit Pistons;Justin Robinson;2.0;4.0;50.0;1.5;3.0;50.0;0.0;0.0;0.0;0.5;1.0;50.0;1.375;0.69
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Detroit Pistons;Grayson Allen;1.7;8.3;20.0;1.3;6.0;22.2;0.7;0.7;100.0;0.3;2.3;14.3;0.640;0.28
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Detroit Pistons;George Hill;1.8;5.3;33.3;0.3;2.8;9.1;1.5;1.5;100.0;1.5;2.5;60.0;1.000;0.36
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Detroit Pistons;Thanasis Antetokounmpo;2.3;2.3;100.0;0.0;0.0;0.0;0.3;0.7;50.0;2.3;2.3;100.0;2.143;1.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Detroit Pistons;Semi Ojeleye;1.0;3.0;33.3;0.0;1.0;0.0;2.0;2.0;100.0;1.0;2.0;50.0;1.333;0.33
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Detroit Pistons;Jevon Carter;1.0;3.0;33.3;1.0;2.0;50.0;0.0;0.0;0.0;0.0;1.0;0.0;1.000;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Detroit Pistons;Sandro Mamukelashvili;1.0;1.3;75.0;0.3;0.7;50.0;0.0;0.3;0.0;0.7;0.7;100.0;1.750;0.88
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Detroit Pistons;Lindell Wigginton;0.0;3.0;0.0;0.0;1.0;0.0;2.0;2.0;100.0;0.0;2.0;0.0;0.667;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Detroit Pistons;Rodney Hood;0.3;2.0;16.7;0.3;1.7;20.0;0.3;0.3;100.0;0.0;0.3;0.0;0.667;0.25
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Detroit Pistons;Rayjon Tucker;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Detroit Pistons;Georgios Kalaitzakis;0.0;1.0;0.0;0.0;0.5;0.0;0.0;1.0;0.0;0.0;0.5;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Detroit Pistons;Total;43.3;91.0;47.5;13.5;39.0;34.6;17.0;20.8;81.9;29.8;52.0;57.2;1.286;0.55
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Indiana Pacers;Giannis Antetokounmpo;12.3;18.0;68.5;0.7;2.3;28.6;10.0;13.7;73.2;11.7;15.7;74.5;1.963;0.70
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Indiana Pacers;Jrue Holiday;9.7;17.0;56.9;1.0;4.0;25.0;0.7;2.0;33.3;8.7;13.0;66.7;1.235;0.60
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Indiana Pacers;Khris Middleton;7.3;14.0;52.4;1.3;4.0;33.3;4.0;4.3;92.3;6.0;10.0;60.0;1.429;0.57
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Indiana Pacers;Pat Connaughton;5.7;9.7;58.6;2.7;6.0;44.4;1.7;2.0;83.3;3.0;3.7;81.8;1.621;0.72
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Indiana Pacers;Bobby Portis;5.3;13.3;40.0;1.0;3.7;27.3;2.0;2.0;100.0;4.3;9.7;44.8;1.025;0.44
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Indiana Pacers;Lindell Wigginton;4.0;8.0;50.0;3.0;6.0;50.0;1.0;3.0;33.3;1.0;2.0;50.0;1.500;0.69
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Indiana Pacers;George Hill;2.7;6.7;40.0;0.7;3.3;20.0;3.3;3.3;100.0;2.0;3.3;60.0;1.400;0.45
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Indiana Pacers;Serge Ibaka;3.0;3.0;100.0;1.0;1.0;100.0;2.0;3.0;66.7;2.0;2.0;100.0;3.000;1.17
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Indiana Pacers;Grayson Allen;2.8;8.3;33.3;2.0;5.5;36.4;1.5;1.5;100.0;0.8;2.8;27.3;1.091;0.45
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Indiana Pacers;Jordan Nwora;3.5;8.5;41.2;0.8;3.5;21.4;0.5;0.5;100.0;2.8;5.0;55.0;0.971;0.46
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Indiana Pacers;Javonte Smart;2.0;2.0;100.0;1.0;1.0;100.0;0.0;0.0;0.0;1.0;1.0;100.0;2.500;1.25
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Indiana Pacers;Rodney Hood;1.7;3.7;45.5;1.3;2.0;66.7;0.0;0.0;0.0;0.3;1.7;20.0;1.273;0.64
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Indiana Pacers;Thanasis Antetokounmpo;1.3;2.7;50.0;0.0;0.0;0.0;0.7;0.7;100.0;1.3;2.7;50.0;1.250;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Indiana Pacers;Sandro Mamukelashvili;1.5;2.5;60.0;0.3;0.8;33.3;0.0;0.0;0.0;1.3;1.8;71.4;1.300;0.65
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Indiana Pacers;Justin Robinson;0.5;3.0;16.7;0.0;1.0;0.0;0.0;0.0;0.0;0.5;2.0;25.0;0.333;0.17
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Indiana Pacers;Georgios Kalaitzakis;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Indiana Pacers;Total;44.8;87.8;51.0;10.8;31.3;34.4;19.5;24.5;79.6;34.0;56.5;60.2;1.365;0.57
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Atlanta Hawks;Giannis Antetokounmpo;10.7;21.0;50.8;1.0;4.3;23.1;9.7;14.3;67.4;9.7;16.7;58.0;1.524;0.53
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Atlanta Hawks;Khris Middleton;10.0;19.5;51.3;3.0;7.5;40.0;5.5;5.5;100.0;7.0;12.0;58.3;1.462;0.59
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Atlanta Hawks;Bobby Portis;6.7;13.0;51.3;2.0;5.3;37.5;0.3;0.3;100.0;4.7;7.7;60.9;1.205;0.59
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Atlanta Hawks;Jrue Holiday;6.5;17.0;38.2;1.0;4.0;25.0;1.0;1.0;100.0;5.5;13.0;42.3;0.882;0.41
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Atlanta Hawks;Grayson Allen;4.7;8.7;53.8;2.7;5.3;50.0;0.7;0.7;100.0;2.0;3.3;60.0;1.462;0.69
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Atlanta Hawks;Pat Connaughton;4.5;7.0;64.3;3.5;6.0;58.3;0.0;0.0;0.0;1.0;1.0;100.0;1.786;0.89
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Atlanta Hawks;Donte DiVincenzo;3.0;10.0;30.0;3.0;7.0;42.9;0.0;0.0;0.0;0.0;3.0;0.0;0.900;0.45
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Atlanta Hawks;George Hill;2.0;4.0;50.0;1.0;3.0;33.3;0.0;0.0;0.0;1.0;1.0;100.0;1.250;0.63
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Atlanta Hawks;Wesley Matthews;1.5;6.0;25.0;0.5;3.0;16.7;0.0;0.0;0.0;1.0;3.0;33.3;0.583;0.29
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Atlanta Hawks;Jordan Nwora;1.3;3.0;44.4;0.7;2.0;33.3;0.0;0.0;0.0;0.7;1.0;66.7;1.111;0.56
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Atlanta Hawks;Rodney Hood;1.0;2.0;50.0;1.0;2.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.500;0.75
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Atlanta Hawks;Jevon Carter;1.0;3.0;33.3;1.0;2.0;50.0;0.0;0.0;0.0;0.0;1.0;0.0;1.000;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Atlanta Hawks;Justin Robinson;1.0;4.0;25.0;1.0;4.0;25.0;0.0;0.0;0.0;0.0;0.0;0.0;0.750;0.38
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Atlanta Hawks;Serge Ibaka;0.0;1.0;0.0;0.0;0.0;0.0;2.0;2.0;100.0;0.0;1.0;0.0;2.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Atlanta Hawks;Semi Ojeleye;1.0;6.0;16.7;0.0;4.0;0.0;0.0;0.0;0.0;1.0;2.0;50.0;0.333;0.17
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Atlanta Hawks;Thanasis Antetokounmpo;0.0;0.0;0.0;0.0;0.0;0.0;1.0;2.0;50.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Atlanta Hawks;DeAndre' Bembry;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Atlanta Hawks;Total;41.3;88.7;46.6;14.0;38.0;36.8;16.0;21.0;76.2;27.3;50.7;53.9;1.271;0.55
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Charlotte Hornets;Giannis Antetokounmpo;10.5;18.0;58.3;1.3;4.3;29.4;11.5;13.8;83.6;9.3;13.8;67.3;1.875;0.62
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Charlotte Hornets;Khris Middleton;7.5;17.5;42.9;3.5;7.8;45.2;5.0;5.0;100.0;4.0;9.8;41.0;1.343;0.53
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Charlotte Hornets;Jrue Holiday;6.0;13.0;46.2;3.0;5.5;54.5;1.0;1.0;100.0;3.0;7.5;40.0;1.231;0.58
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Charlotte Hornets;Bobby Portis;5.5;12.3;44.9;1.3;3.8;33.3;1.3;1.5;83.3;4.3;8.5;50.0;1.102;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Charlotte Hornets;Grayson Allen;5.0;8.0;62.5;3.0;5.5;54.5;0.5;1.0;50.0;2.0;2.5;80.0;1.688;0.81
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Charlotte Hornets;George Hill;3.0;7.0;42.9;1.0;4.0;25.0;4.0;4.0;100.0;2.0;3.0;66.7;1.571;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Charlotte Hornets;Jevon Carter;2.0;8.0;25.0;2.0;5.0;40.0;4.0;4.0;100.0;0.0;3.0;0.0;1.250;0.38
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Charlotte Hornets;Wesley Matthews;2.7;7.0;38.1;2.0;5.0;40.0;0.7;0.7;100.0;0.7;2.0;33.3;1.143;0.52
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Charlotte Hornets;Jordan Nwora;3.0;9.0;33.3;2.0;5.3;37.5;0.0;0.0;0.0;1.0;3.7;27.3;0.889;0.44
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Charlotte Hornets;DeMarcus Cousins;3.0;5.0;60.0;1.0;2.0;50.0;0.0;0.0;0.0;2.0;3.0;66.7;1.400;0.70
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Charlotte Hornets;DeAndre' Bembry;3.0;4.0;75.0;0.0;0.0;0.0;0.0;0.0;0.0;3.0;4.0;75.0;1.500;0.75
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Charlotte Hornets;Pat Connaughton;2.0;7.0;28.6;1.5;5.5;27.3;0.0;0.0;0.0;0.5;1.5;33.3;0.786;0.39
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Charlotte Hornets;Sandro Mamukelashvili;1.5;4.0;37.5;0.0;1.0;0.0;0.5;0.5;100.0;1.5;3.0;50.0;0.875;0.38
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Charlotte Hornets;Lindell Wigginton;1.0;3.0;33.3;0.0;1.0;0.0;1.0;5.0;20.0;1.0;2.0;50.0;1.000;0.33
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Charlotte Hornets;Thanasis Antetokounmpo;1.0;1.0;100.0;0.0;0.0;0.0;0.3;0.7;50.0;1.0;1.0;100.0;2.333;1.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Charlotte Hornets;Serge Ibaka;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Charlotte Hornets;Rodney Hood;0.7;3.0;22.2;0.7;2.7;25.0;0.0;0.0;0.0;0.0;0.3;0.0;0.667;0.33
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Charlotte Hornets;Donte DiVincenzo;0.0;8.0;0.0;0.0;7.0;0.0;2.0;2.0;100.0;0.0;1.0;0.0;0.250;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Charlotte Hornets;Langston Galloway;0.0;3.5;0.0;0.0;2.5;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Charlotte Hornets;Semi Ojeleye;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Charlotte Hornets;Total;39.5;89.8;44.0;14.3;40.3;35.4;22.3;26.3;84.8;25.3;49.5;51.0;1.287;0.52
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Miami Heat;Jrue Holiday;8.7;16.0;54.2;2.7;7.0;38.1;2.7;2.7;100.0;6.0;9.0;66.7;1.417;0.63
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Miami Heat;Khris Middleton;6.5;16.3;40.0;3.0;7.5;40.0;3.5;3.5;100.0;3.5;8.8;40.0;1.200;0.49
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Miami Heat;Giannis Antetokounmpo;5.7;14.7;38.6;0.7;3.0;22.2;7.3;11.0;66.7;5.0;11.7;42.9;1.318;0.41
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Miami Heat;Bobby Portis;6.7;12.7;52.6;1.7;5.0;33.3;2.3;3.0;77.8;5.0;7.7;65.2;1.368;0.59
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Miami Heat;Pat Connaughton;4.3;9.7;44.8;2.7;7.0;38.1;0.3;0.7;50.0;1.7;2.7;62.5;1.207;0.59
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Miami Heat;Grayson Allen;4.0;9.0;44.4;1.7;5.7;29.4;0.7;0.7;100.0;2.3;3.3;70.0;1.148;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Miami Heat;Sandro Mamukelashvili;3.0;7.5;40.0;1.5;3.5;42.9;1.0;1.0;100.0;1.5;4.0;37.5;1.133;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Miami Heat;George Hill;3.0;7.0;42.9;2.0;4.0;50.0;0.0;0.0;0.0;1.0;3.0;33.3;1.143;0.57
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Miami Heat;Thanasis Antetokounmpo;3.5;4.5;77.8;0.0;0.5;0.0;1.0;1.5;66.7;3.5;4.0;87.5;1.778;0.78
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Miami Heat;Georgios Kalaitzakis;3.0;5.0;60.0;1.0;2.0;50.0;1.0;4.0;25.0;2.0;3.0;66.7;1.600;0.70
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Miami Heat;Javonte Smart;1.5;6.0;25.0;1.0;4.0;25.0;2.5;3.0;83.3;0.5;2.0;25.0;1.083;0.33
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Miami Heat;Jordan Nwora;2.0;5.7;35.3;1.3;3.0;44.4;1.0;1.7;60.0;0.7;2.7;25.0;1.118;0.47
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Miami Heat;DeMarcus Cousins;1.0;4.0;25.0;0.0;1.0;0.0;3.5;4.0;87.5;1.0;3.0;33.3;1.375;0.25
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Miami Heat;Justin Robinson;1.0;7.0;14.3;1.0;6.0;16.7;2.0;2.0;100.0;0.0;1.0;0.0;0.714;0.21
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Miami Heat;Serge Ibaka;2.0;3.0;66.7;0.0;1.0;0.0;0.0;0.0;0.0;2.0;2.0;100.0;1.333;0.67
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Miami Heat;Rodney Hood;1.0;4.5;22.2;0.0;2.5;0.0;1.5;1.5;100.0;1.0;2.0;50.0;0.778;0.22
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Miami Heat;Wesley Matthews;1.0;4.0;25.0;0.7;2.7;25.0;0.7;0.7;100.0;0.3;1.3;25.0;0.833;0.33
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Miami Heat;Jevon Carter;1.0;2.0;50.0;1.0;1.0;100.0;0.0;0.0;0.0;0.0;1.0;0.0;1.500;0.75
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Miami Heat;DeAndre' Bembry;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Miami Heat;Total;38.3;89.5;42.7;14.0;41.8;33.5;20.3;25.8;78.6;24.3;47.8;50.8;1.237;0.51
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Orlando Magic;Giannis Antetokounmpo;8.8;17.3;50.7;0.8;3.8;20.0;8.0;11.3;71.1;8.0;13.5;59.3;1.522;0.53
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Orlando Magic;Jrue Holiday;7.0;12.5;56.0;2.0;3.8;53.3;2.0;3.0;66.7;5.0;8.8;57.1;1.440;0.64
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Orlando Magic;Khris Middleton;5.5;11.0;50.0;2.3;5.0;45.0;3.8;4.8;78.9;3.3;6.0;54.2;1.545;0.60
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Orlando Magic;Bobby Portis;6.3;10.0;62.5;3.3;4.5;72.2;1.0;1.5;66.7;3.0;5.5;54.5;1.675;0.79
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Orlando Magic;Jordan Nwora;5.0;13.0;38.5;2.0;6.0;33.3;2.0;2.0;100.0;3.0;7.0;42.9;1.077;0.46
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Orlando Magic;DeMarcus Cousins;4.5;7.5;60.0;0.5;2.5;20.0;2.5;2.5;100.0;4.0;5.0;80.0;1.600;0.63
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Orlando Magic;Pat Connaughton;3.5;6.8;51.9;2.3;4.8;47.4;0.8;1.0;75.0;1.3;2.0;62.5;1.481;0.69
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Orlando Magic;Donte DiVincenzo;1.5;6.5;23.1;1.5;4.0;37.5;5.0;5.5;90.9;0.0;2.5;0.0;1.462;0.35
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Orlando Magic;Grayson Allen;3.3;7.8;41.9;2.0;5.0;40.0;0.8;1.3;60.0;1.3;2.8;45.5;1.194;0.55
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Orlando Magic;Wesley Matthews;2.0;4.0;50.0;2.0;3.5;57.1;1.0;1.0;100.0;0.0;0.5;0.0;1.750;0.75
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Orlando Magic;George Hill;2.0;4.0;50.0;1.0;2.0;50.0;0.5;0.5;100.0;1.0;2.0;50.0;1.375;0.63
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Orlando Magic;Georgios Kalaitzakis;1.0;1.0;100.0;1.0;1.0;100.0;2.0;2.0;100.0;0.0;0.0;0.0;5.000;1.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Orlando Magic;Rodney Hood;1.5;4.5;33.3;0.5;3.0;16.7;0.0;0.0;0.0;1.0;1.5;66.7;0.778;0.39
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Orlando Magic;Justin Robinson;1.0;5.0;20.0;0.5;2.5;20.0;0.0;0.0;0.0;0.5;2.5;20.0;0.500;0.25
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Orlando Magic;Thanasis Antetokounmpo;0.3;2.0;16.7;0.0;0.7;0.0;0.7;1.3;50.0;0.3;1.3;25.0;0.667;0.17
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Orlando Magic;Total;43.3;88.0;49.1;16.8;38.8;43.2;22.5;29.8;75.6;26.5;49.3;53.8;1.429;0.59
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Washington Wizards;Giannis Antetokounmpo;13.0;23.5;55.3;0.0;3.5;0.0;5.0;8.5;58.8;13.0;20.0;65.0;1.319;0.55
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Washington Wizards;Jrue Holiday;8.3;16.7;50.0;3.0;6.0;50.0;0.3;0.3;100.0;5.3;10.7;50.0;1.200;0.59
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Washington Wizards;Grayson Allen;5.7;10.3;54.8;3.3;6.7;50.0;2.0;2.0;100.0;2.3;3.7;63.6;1.613;0.71
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Washington Wizards;Bobby Portis;6.3;14.0;45.2;1.0;3.0;33.3;0.0;0.0;0.0;5.3;11.0;48.5;0.976;0.49
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Washington Wizards;Brook Lopez;5.0;11.0;45.5;0.0;4.0;0.0;3.0;4.0;75.0;5.0;7.0;71.4;1.182;0.45
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Washington Wizards;Khris Middleton;4.0;12.0;33.3;2.0;7.0;28.6;3.0;4.0;75.0;2.0;5.0;40.0;1.083;0.42
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Washington Wizards;Serge Ibaka;4.0;5.0;80.0;2.0;3.0;66.7;1.0;1.0;100.0;2.0;2.0;100.0;2.200;1.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Washington Wizards;Pat Connaughton;2.7;7.7;34.8;2.3;6.0;38.9;2.0;2.7;75.0;0.3;1.7;20.0;1.261;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Washington Wizards;George Hill;3.5;8.0;43.8;0.0;3.0;0.0;1.0;1.0;100.0;3.5;5.0;70.0;1.000;0.44
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Washington Wizards;Jevon Carter;3.0;5.0;60.0;2.0;3.0;66.7;0.0;0.0;0.0;1.0;2.0;50.0;1.600;0.80
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Washington Wizards;Donte DiVincenzo;3.0;5.0;60.0;1.0;2.0;50.0;0.0;0.0;0.0;2.0;3.0;66.7;1.400;0.70
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Washington Wizards;Semi Ojeleye;1.0;1.0;100.0;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;3.000;1.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Washington Wizards;Sandro Mamukelashvili;1.0;2.0;50.0;0.0;1.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;1.000;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Washington Wizards;Jordan Nwora;0.5;4.5;11.1;0.5;2.5;20.0;0.0;0.0;0.0;0.0;2.0;0.0;0.333;0.17
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Washington Wizards;Wesley Matthews;0.5;3.5;14.3;0.0;2.5;0.0;0.0;0.0;0.0;0.5;1.0;50.0;0.286;0.14
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Washington Wizards;Thanasis Antetokounmpo;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Washington Wizards;Justin Robinson;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Washington Wizards;Total;41.7;89.0;46.8;12.7;36.3;34.9;10.7;14.3;74.4;29.0;52.7;55.1;1.199;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Denver Nuggets;Giannis Antetokounmpo;9.5;16.0;59.4;1.0;3.0;33.3;6.5;12.0;54.2;8.5;13.0;65.4;1.656;0.63
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Denver Nuggets;Jrue Holiday;6.5;9.5;68.4;1.0;3.5;28.6;1.0;1.5;66.7;5.5;6.0;91.7;1.579;0.74
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Denver Nuggets;Khris Middleton;4.5;9.5;47.4;2.5;6.0;41.7;1.5;2.0;75.0;2.0;3.5;57.1;1.368;0.61
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Denver Nuggets;Pat Connaughton;4.5;5.0;90.0;2.5;3.0;83.3;1.0;1.5;66.7;2.0;2.0;100.0;2.500;1.15
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Denver Nuggets;Bobby Portis;5.0;11.5;43.5;1.0;3.5;28.6;0.0;0.0;0.0;4.0;8.0;50.0;0.957;0.48
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Denver Nuggets;Grayson Allen;3.5;8.0;43.8;2.0;5.0;40.0;1.5;1.5;100.0;1.5;3.0;50.0;1.313;0.56
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Denver Nuggets;Donte DiVincenzo;2.0;6.0;33.3;1.0;4.0;25.0;2.0;2.0;100.0;1.0;2.0;50.0;1.167;0.42
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Denver Nuggets;Lindell Wigginton;3.0;3.0;100.0;1.0;1.0;100.0;0.0;0.0;0.0;2.0;2.0;100.0;2.333;1.17
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Denver Nuggets;Jordan Nwora;2.5;4.5;55.6;1.5;2.0;75.0;0.0;0.0;0.0;1.0;2.5;40.0;1.444;0.72
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Denver Nuggets;George Hill;2.0;4.0;50.0;1.0;3.0;33.3;0.0;0.0;0.0;1.0;1.0;100.0;1.250;0.63
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Denver Nuggets;Rodney Hood;1.5;2.5;60.0;0.0;0.0;0.0;0.0;0.0;0.0;1.5;2.5;60.0;1.200;0.60
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Denver Nuggets;Georgios Kalaitzakis;1.0;1.0;100.0;0.0;0.0;0.0;1.0;1.0;100.0;1.0;1.0;100.0;3.000;1.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Denver Nuggets;Wesley Matthews;0.0;3.0;0.0;0.0;2.0;0.0;2.0;2.0;100.0;0.0;1.0;0.0;0.667;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Denver Nuggets;Semi Ojeleye;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Denver Nuggets;Thanasis Antetokounmpo;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Denver Nuggets;Sandro Mamukelashvili;0.0;0.5;0.0;0.0;0.5;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Denver Nuggets;Total;41.5;75.5;55.0;13.0;31.5;41.3;14.0;21.0;66.7;28.5;44.0;64.8;1.457;0.64
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Giannis Antetokounmpo;15.0;23.0;65.2;3.0;6.0;50.0;7.0;9.0;77.8;12.0;17.0;70.6;1.739;0.72
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Khris Middleton;6.0;14.5;41.4;2.0;7.5;26.7;1.5;2.0;75.0;4.0;7.0;57.1;1.069;0.48
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Brook Lopez;6.0;10.0;60.0;0.0;2.0;0.0;3.0;3.0;100.0;6.0;8.0;75.0;1.500;0.60
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Jrue Holiday;5.0;13.0;38.5;1.0;4.0;25.0;3.0;4.0;75.0;4.0;9.0;44.4;1.077;0.42
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Grayson Allen;4.5;9.0;50.0;3.0;7.0;42.9;1.0;1.0;100.0;1.5;2.0;75.0;1.444;0.67
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Jevon Carter;4.0;6.0;66.7;1.0;3.0;33.3;2.0;2.0;100.0;3.0;3.0;100.0;1.833;0.75
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Pat Connaughton;3.5;11.0;31.8;3.5;10.0;35.0;0.0;0.0;0.0;0.0;1.0;0.0;0.955;0.48
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Wesley Matthews;3.0;5.0;60.0;3.0;5.0;60.0;0.0;0.0;0.0;0.0;0.0;0.0;1.800;0.90
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Jordan Nwora;3.0;7.5;40.0;2.5;4.5;55.6;0.0;0.0;0.0;0.5;3.0;16.7;1.133;0.57
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Rodney Hood;1.0;3.0;33.3;1.0;3.0;33.3;4.0;4.0;100.0;0.0;0.0;0.0;2.333;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Thanasis Antetokounmpo;2.5;3.5;71.4;0.0;0.0;0.0;1.0;2.0;50.0;2.5;3.5;71.4;1.714;0.71
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Serge Ibaka;1.0;11.0;9.1;1.0;6.0;16.7;2.0;2.0;100.0;0.0;5.0;0.0;0.455;0.14
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Bobby Portis;2.5;8.5;29.4;0.0;3.5;0.0;0.0;0.0;0.0;2.5;5.0;50.0;0.588;0.29
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;George Hill;1.5;3.5;42.9;0.5;1.5;33.3;1.0;1.0;100.0;1.0;2.0;50.0;1.286;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Semi Ojeleye;0.0;5.0;0.0;0.0;5.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Justin Robinson;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Total;41.0;96.0;42.7;16.5;51.5;32.0;15.0;19.0;78.9;24.5;44.5;55.1;1.182;0.51
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Giannis Antetokounmpo;9.5;17.5;54.3;2.0;4.0;50.0;9.0;12.0;75.0;7.5;13.5;55.6;1.714;0.60
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Khris Middleton;7.0;15.0;46.7;3.5;7.5;46.7;3.0;3.0;100.0;3.5;7.5;46.7;1.367;0.58
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Bobby Portis;6.0;12.0;50.0;2.5;5.5;45.5;3.0;3.0;100.0;3.5;6.5;53.8;1.458;0.60
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Serge Ibaka;6.0;9.0;66.7;2.0;3.0;66.7;0.0;0.0;0.0;4.0;6.0;66.7;1.556;0.78
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;George Hill;4.0;6.0;66.7;2.0;3.0;66.7;2.0;2.0;100.0;2.0;3.0;66.7;2.000;0.83
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Jevon Carter;4.0;9.0;44.4;4.0;7.0;57.1;0.0;0.0;0.0;0.0;2.0;0.0;1.333;0.67
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Jrue Holiday;5.0;11.5;43.5;1.0;4.5;22.2;0.5;1.0;50.0;4.0;7.0;57.1;1.000;0.48
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Grayson Allen;4.0;9.0;44.4;2.0;5.0;40.0;1.0;1.0;100.0;2.0;4.0;50.0;1.222;0.56
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Jordan Nwora;5.0;13.0;38.5;1.0;6.0;16.7;0.0;0.0;0.0;4.0;7.0;57.1;0.846;0.42
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Pat Connaughton;3.0;9.0;33.3;1.0;6.0;16.7;2.0;3.0;66.7;2.0;3.0;66.7;1.000;0.39
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Sandro Mamukelashvili;2.0;2.0;100.0;2.0;2.0;100.0;2.0;2.0;100.0;0.0;0.0;0.0;4.000;1.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Thanasis Antetokounmpo;1.0;2.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;2.0;50.0;1.000;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Wesley Matthews;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Semi Ojeleye;0.0;4.0;0.0;0.0;3.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;DeAndre' Bembry;0.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;3.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Justin Robinson;0.0;2.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Lindell Wigginton;0.0;3.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Total;42.0;91.5;45.9;16.0;40.5;39.5;19.0;23.0;82.6;26.0;51.0;51.0;1.301;0.55
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Giannis Antetokounmpo;7.0;12.0;58.3;4.0;7.0;57.1;11.0;15.0;73.3;3.0;5.0;60.0;2.417;0.75
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Bobby Portis;9.5;14.0;67.9;3.5;6.0;58.3;1.0;2.5;40.0;6.0;8.0;75.0;1.679;0.80
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Jrue Holiday;6.0;10.0;60.0;2.0;3.5;57.1;2.0;2.0;100.0;4.0;6.5;61.5;1.600;0.70
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Khris Middleton;4.5;14.0;32.1;1.5;7.5;20.0;4.5;5.0;90.0;3.0;6.5;46.2;1.071;0.38
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Jordan Nwora;5.0;11.0;45.5;2.0;5.0;40.0;0.0;0.0;0.0;3.0;6.0;50.0;1.091;0.55
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Grayson Allen;4.0;9.0;44.4;3.0;7.0;42.9;0.0;0.0;0.0;1.0;2.0;50.0;1.222;0.61
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Donte DiVincenzo;4.0;10.0;40.0;2.0;7.0;28.6;0.0;0.0;0.0;2.0;3.0;66.7;1.000;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Lindell Wigginton;2.0;4.0;50.0;1.0;2.0;50.0;3.0;4.0;75.0;1.0;2.0;50.0;2.000;0.63
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Semi Ojeleye;2.0;2.0;100.0;2.0;2.0;100.0;1.0;2.0;50.0;0.0;0.0;0.0;3.500;1.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Serge Ibaka;3.0;6.0;50.0;0.0;1.0;0.0;0.0;0.0;0.0;3.0;5.0;60.0;1.000;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Greg Monroe;2.0;4.5;44.4;0.0;0.0;0.0;0.5;1.0;50.0;2.0;4.5;44.4;1.000;0.44
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Rodney Hood;2.0;4.0;50.0;0.0;2.0;0.0;0.0;0.0;0.0;2.0;2.0;100.0;1.000;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Pat Connaughton;1.0;5.0;20.0;1.0;4.0;25.0;0.0;0.0;0.0;0.0;1.0;0.0;0.600;0.30
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Sandro Mamukelashvili;1.0;1.5;66.7;0.5;0.5;100.0;0.0;0.0;0.0;0.5;1.0;50.0;1.667;0.83
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Wesley Matthews;0.0;2.5;0.0;0.0;2.5;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Thanasis Antetokounmpo;0.0;0.5;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Total;43.5;90.5;48.1;18.0;45.5;39.6;17.0;23.0;73.9;25.5;45.0;56.7;1.348;0.58
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Utah Jazz;Jrue Holiday;10.0;21.0;47.6;2.0;6.0;33.3;7.0;8.0;87.5;8.0;15.0;53.3;1.381;0.52
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Utah Jazz;Giannis Antetokounmpo;11.0;22.0;50.0;1.5;6.5;23.1;4.0;4.5;88.9;9.5;15.5;61.3;1.250;0.53
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Utah Jazz;Khris Middleton;7.0;16.0;43.8;2.0;5.0;40.0;7.0;8.0;87.5;5.0;11.0;45.5;1.438;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Utah Jazz;Grayson Allen;4.5;9.5;47.4;4.0;7.5;53.3;0.5;1.0;50.0;0.5;2.0;25.0;1.421;0.68
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Utah Jazz;Bobby Portis;4.5;12.0;37.5;1.0;5.0;20.0;1.0;1.0;100.0;3.5;7.0;50.0;0.917;0.42
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Utah Jazz;Thanasis Antetokounmpo;5.0;15.0;33.3;0.0;2.0;0.0;0.0;0.0;0.0;5.0;13.0;38.5;0.667;0.33
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Utah Jazz;Justin Robinson;4.0;7.0;57.1;1.0;3.0;33.3;0.0;0.0;0.0;3.0;4.0;75.0;1.286;0.64
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Utah Jazz;Brook Lopez;1.0;4.0;25.0;1.0;3.0;33.3;3.0;4.0;75.0;0.0;1.0;0.0;1.500;0.38
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Utah Jazz;Wesley Matthews;2.0;3.0;66.7;2.0;3.0;66.7;0.0;0.0;0.0;0.0;0.0;0.0;2.000;1.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Utah Jazz;George Hill;2.5;5.5;45.5;0.5;1.0;50.0;0.0;0.0;0.0;2.0;4.5;44.4;1.000;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Utah Jazz;Pat Connaughton;2.0;7.0;28.6;1.0;5.0;20.0;0.0;0.0;0.0;1.0;2.0;50.0;0.714;0.36
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Utah Jazz;Jevon Carter;1.0;1.0;100.0;1.0;1.0;100.0;2.0;2.0;100.0;0.0;0.0;0.0;5.000;1.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Utah Jazz;Serge Ibaka;1.0;2.0;50.0;0.0;1.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;1.000;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Utah Jazz;Jordan Nwora;1.0;5.0;20.0;0.0;2.0;0.0;0.0;0.0;0.0;1.0;3.0;33.3;0.400;0.20
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Utah Jazz;Rodney Hood;0.0;3.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Utah Jazz;Sandro Mamukelashvili;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Utah Jazz;Total;39.5;91.0;43.4;12.0;36.0;33.3;15.0;17.5;85.7;27.5;55.0;50.0;1.165;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Golden State Warriors;Giannis Antetokounmpo;10.0;17.0;58.8;0.5;3.0;16.7;10.0;15.0;66.7;9.5;14.0;67.9;1.794;0.60
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Golden State Warriors;Khris Middleton;6.5;16.0;40.6;4.5;8.0;56.3;3.0;3.0;100.0;2.0;8.0;25.0;1.281;0.55
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Golden State Warriors;Serge Ibaka;6.0;9.0;66.7;2.0;3.0;66.7;1.0;1.0;100.0;4.0;6.0;66.7;1.667;0.78
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Golden State Warriors;Grayson Allen;5.0;10.5;47.6;3.5;8.0;43.8;0.0;0.0;0.0;1.5;2.5;60.0;1.286;0.64
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Golden State Warriors;Jrue Holiday;5.0;11.0;45.5;2.0;5.0;40.0;1.0;2.0;50.0;3.0;6.0;50.0;1.182;0.55
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Golden State Warriors;Bobby Portis;5.0;13.0;38.5;2.0;5.5;36.4;0.0;0.0;0.0;3.0;7.5;40.0;0.923;0.46
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Golden State Warriors;Jevon Carter;3.0;4.0;75.0;3.0;4.0;75.0;0.0;0.0;0.0;0.0;0.0;0.0;2.250;1.13
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Golden State Warriors;Donte DiVincenzo;2.0;7.0;28.6;1.0;5.0;20.0;0.0;0.0;0.0;1.0;2.0;50.0;0.714;0.36
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Golden State Warriors;Wesley Matthews;1.0;4.0;25.0;1.0;3.5;28.6;0.0;0.0;0.0;0.0;0.5;0.0;0.750;0.38
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Golden State Warriors;Pat Connaughton;1.0;2.0;50.0;1.0;2.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.500;0.75
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Golden State Warriors;Rodney Hood;1.0;1.0;100.0;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;3.000;1.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Golden State Warriors;Semi Ojeleye;1.0;1.0;100.0;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;3.000;1.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Golden State Warriors;Thanasis Antetokounmpo;1.5;2.0;75.0;0.0;0.0;0.0;0.0;0.0;0.0;1.5;2.0;75.0;1.500;0.75
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Golden State Warriors;Jordan Nwora;1.5;6.0;25.0;0.0;2.5;0.0;0.0;1.0;0.0;1.5;3.5;42.9;0.500;0.25
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Golden State Warriors;Lindell Wigginton;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Golden State Warriors;Sandro Mamukelashvili;0.5;0.5;100.0;0.5;0.5;100.0;0.0;0.0;0.0;0.0;0.0;0.0;3.000;1.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Golden State Warriors;George Hill;0.0;4.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Golden State Warriors;DeAndre' Bembry;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Golden State Warriors;Total;41.0;89.0;46.1;17.5;42.5;41.2;14.0;20.5;68.3;23.5;46.5;50.5;1.275;0.56
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. LA Clippers;Giannis Antetokounmpo;8.0;15.0;53.3;2.0;3.0;66.7;10.0;12.0;83.3;6.0;12.0;50.0;1.867;0.60
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. LA Clippers;Jrue Holiday;11.0;16.0;68.8;2.0;5.0;40.0;3.0;4.0;75.0;9.0;11.0;81.8;1.688;0.75
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. LA Clippers;Bobby Portis;10.0;16.0;62.5;2.0;4.5;44.4;2.5;2.5;100.0;8.0;11.5;69.6;1.531;0.69
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. LA Clippers;Jevon Carter;8.0;10.0;80.0;2.0;2.0;100.0;0.0;0.0;0.0;6.0;8.0;75.0;1.800;0.90
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. LA Clippers;Khris Middleton;6.0;13.0;46.2;2.0;5.0;40.0;3.0;3.0;100.0;4.0;8.0;50.0;1.308;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. LA Clippers;Jordan Nwora;5.5;10.0;55.0;1.5;3.0;50.0;2.5;3.0;83.3;4.0;7.0;57.1;1.500;0.63
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. LA Clippers;Thanasis Antetokounmpo;6.0;9.0;66.7;0.0;0.0;0.0;0.0;2.0;0.0;6.0;9.0;66.7;1.333;0.67
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. LA Clippers;Pat Connaughton;4.0;9.0;44.4;3.5;7.5;46.7;0.0;0.0;0.0;0.5;1.5;33.3;1.278;0.64
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. LA Clippers;Serge Ibaka;4.0;8.0;50.0;1.0;2.0;50.0;0.0;0.0;0.0;3.0;6.0;50.0;1.125;0.56
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. LA Clippers;Greg Monroe;4.0;6.0;66.7;0.0;0.0;0.0;1.0;2.0;50.0;4.0;6.0;66.7;1.500;0.67
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. LA Clippers;Donte DiVincenzo;3.0;7.0;42.9;2.0;5.0;40.0;1.0;2.0;50.0;1.0;2.0;50.0;1.286;0.57
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. LA Clippers;Sandro Mamukelashvili;3.0;6.0;50.0;1.0;3.0;33.3;1.0;2.0;50.0;2.0;3.0;66.7;1.333;0.58
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. LA Clippers;Lindell Wigginton;1.5;4.0;37.5;0.0;1.0;0.0;2.0;3.5;57.1;1.5;3.0;50.0;1.250;0.38
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. LA Clippers;George Hill;2.0;8.0;25.0;0.0;1.0;0.0;0.0;0.0;0.0;2.0;7.0;28.6;0.500;0.25
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. LA Clippers;Wesley Matthews;1.0;3.0;33.3;1.0;3.0;33.3;0.0;0.0;0.0;0.0;0.0;0.0;1.000;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. LA Clippers;Rodney Hood;0.0;3.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. LA Clippers;Total;49.0;91.0;53.8;13.5;31.5;42.9;16.5;22.5;73.3;35.5;59.5;59.7;1.407;0.61
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Giannis Antetokounmpo;17.5;21.5;81.4;2.5;3.0;83.3;8.0;12.0;66.7;15.0;18.5;81.1;2.116;0.87
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Bobby Portis;8.5;16.0;53.1;3.0;7.0;42.9;0.0;0.5;0.0;5.5;9.0;61.1;1.250;0.63
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Khris Middleton;6.0;15.5;38.7;2.5;8.0;31.3;4.0;5.0;80.0;3.5;7.5;46.7;1.194;0.47
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Pat Connaughton;4.0;8.0;50.0;3.0;6.5;46.2;1.0;1.5;66.7;1.0;1.5;66.7;1.500;0.69
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Jrue Holiday;5.0;12.5;40.0;1.0;4.5;22.2;0.5;1.0;50.0;4.0;8.0;50.0;0.920;0.44
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Grayson Allen;3.5;7.5;46.7;1.0;3.5;28.6;0.5;1.0;50.0;2.5;4.0;62.5;1.133;0.53
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Donte DiVincenzo;3.0;7.0;42.9;1.0;4.0;25.0;1.0;2.0;50.0;2.0;3.0;66.7;1.143;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Los Angeles Lakers;George Hill;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Wesley Matthews;0.0;2.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Greg Monroe;0.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;3.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Semi Ojeleye;0.0;7.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;5.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Thanasis Antetokounmpo;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Jordan Nwora;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Lindell Wigginton;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Sandro Mamukelashvili;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Total;46.0;91.5;50.3;13.5;36.5;37.0;14.5;22.0;65.9;32.5;55.0;59.1;1.311;0.58
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Phoenix Suns;Khris Middleton;12.5;21.0;59.5;3.0;7.5;40.0;4.5;4.5;100.0;9.5;13.5;70.4;1.548;0.67
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Phoenix Suns;Jrue Holiday;7.0;12.5;56.0;3.5;4.5;77.8;5.0;5.0;100.0;3.5;8.0;43.8;1.800;0.70
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Phoenix Suns;Giannis Antetokounmpo;6.5;13.5;48.1;0.0;2.0;0.0;5.5;10.0;55.0;6.5;11.5;56.5;1.370;0.48
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Phoenix Suns;Serge Ibaka;6.0;10.0;60.0;1.0;2.0;50.0;1.0;3.0;33.3;5.0;8.0;62.5;1.400;0.65
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Phoenix Suns;Bobby Portis;3.5;10.0;35.0;1.5;5.0;30.0;1.5;2.0;75.0;2.0;5.0;40.0;1.000;0.43
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Phoenix Suns;Greg Monroe;3.0;4.0;75.0;0.0;0.0;0.0;3.0;5.0;60.0;3.0;4.0;75.0;2.250;0.75
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Phoenix Suns;Grayson Allen;3.0;6.5;46.2;2.0;4.5;44.4;1.0;1.0;100.0;1.0;2.0;50.0;1.385;0.62
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Phoenix Suns;Jordan Nwora;3.0;8.5;35.3;0.5;5.0;10.0;0.5;0.5;100.0;2.5;3.5;71.4;0.824;0.38
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Phoenix Suns;Thanasis Antetokounmpo;3.0;3.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;3.0;3.0;100.0;2.000;1.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Phoenix Suns;Wesley Matthews;1.0;1.0;100.0;1.0;1.0;100.0;0.0;0.0;0.0;0.0;0.0;0.0;3.000;1.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Phoenix Suns;Pat Connaughton;1.0;7.0;14.3;1.0;7.0;14.3;0.0;0.0;0.0;0.0;0.0;0.0;0.429;0.21
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Phoenix Suns;Lindell Wigginton;1.0;2.5;40.0;0.5;1.0;50.0;0.0;0.0;0.0;0.5;1.5;33.3;1.000;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Phoenix Suns;DeAndre' Bembry;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Phoenix Suns;Jevon Carter;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Phoenix Suns;Sandro Mamukelashvili;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Phoenix Suns;Total;43.5;87.5;49.7;12.5;35.0;35.7;20.0;27.0;74.1;31.0;52.5;59.0;1.366;0.57
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Sacramento Kings;Giannis Antetokounmpo;12.0;23.0;52.2;0.0;2.0;0.0;12.0;16.0;75.0;12.0;21.0;57.1;1.565;0.52
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Sacramento Kings;Khris Middleton;11.0;20.0;55.0;6.0;8.5;70.6;5.0;5.0;100.0;5.0;11.5;43.5;1.650;0.70
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Sacramento Kings;Jrue Holiday;9.0;18.0;50.0;2.5;4.5;55.6;3.0;4.0;75.0;6.5;13.5;48.1;1.306;0.57
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Sacramento Kings;Donte DiVincenzo;6.0;10.0;60.0;3.0;5.0;60.0;5.0;6.0;83.3;3.0;5.0;60.0;2.000;0.75
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Sacramento Kings;Pat Connaughton;5.0;10.0;50.0;5.0;10.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.500;0.75
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Sacramento Kings;George Hill;3.0;5.5;54.5;2.5;4.5;55.6;3.0;4.0;75.0;0.5;1.0;50.0;2.091;0.77
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Sacramento Kings;Jordan Nwora;4.0;10.0;40.0;2.0;5.0;40.0;0.0;0.0;0.0;2.0;5.0;40.0;1.000;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Sacramento Kings;Bobby Portis;3.5;8.0;43.8;0.5;3.0;16.7;1.5;2.0;75.0;3.0;5.0;60.0;1.125;0.47
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Sacramento Kings;Serge Ibaka;4.0;6.0;66.7;0.0;1.0;0.0;0.0;0.0;0.0;4.0;5.0;80.0;1.333;0.67
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Sacramento Kings;Grayson Allen;2.0;3.0;66.7;2.0;3.0;66.7;0.0;0.0;0.0;0.0;0.0;0.0;2.000;1.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Sacramento Kings;Wesley Matthews;1.0;3.0;33.3;1.0;2.0;50.0;1.5;2.5;60.0;0.0;1.0;0.0;1.500;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Sacramento Kings;Rodney Hood;2.0;3.0;66.7;0.0;1.0;0.0;0.0;0.0;0.0;2.0;2.0;100.0;1.333;0.67
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Sacramento Kings;Brook Lopez;1.0;4.0;25.0;1.0;3.0;33.3;0.0;0.0;0.0;0.0;1.0;0.0;0.750;0.38
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Sacramento Kings;Jevon Carter;1.0;2.0;50.0;1.0;2.0;50.0;0.0;0.0;0.0;0.0;0.0;0.0;1.500;0.75
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Sacramento Kings;Thanasis Antetokounmpo;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Sacramento Kings;Sandro Mamukelashvili;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Sacramento Kings;Total;46.0;90.0;51.1;19.5;38.5;50.6;22.5;28.5;78.9;26.5;51.5;51.5;1.489;0.62
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Dallas Mavericks;Giannis Antetokounmpo;12.0;22.0;54.5;0.0;3.0;0.0;4.0;8.0;50.0;12.0;19.0;63.2;1.273;0.55
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Dallas Mavericks;Jrue Holiday;7.5;13.0;57.7;4.0;6.5;61.5;3.0;4.0;75.0;3.5;6.5;53.8;1.692;0.73
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Dallas Mavericks;DeMarcus Cousins;8.0;15.0;53.3;1.0;4.0;25.0;5.0;7.0;71.4;7.0;11.0;63.6;1.467;0.57
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Dallas Mavericks;Khris Middleton;5.5;14.0;39.3;1.0;3.5;28.6;6.5;7.0;92.9;4.5;10.5;42.9;1.321;0.43
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Dallas Mavericks;Bobby Portis;7.0;13.0;53.8;3.0;6.0;50.0;0.0;0.0;0.0;4.0;7.0;57.1;1.308;0.65
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Dallas Mavericks;Brook Lopez;6.0;13.0;46.2;2.0;4.0;50.0;0.0;0.0;0.0;4.0;9.0;44.4;1.077;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Dallas Mavericks;Pat Connaughton;4.0;6.5;61.5;2.0;4.5;44.4;0.5;0.5;100.0;2.0;2.0;100.0;1.615;0.77
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Dallas Mavericks;Grayson Allen;2.5;7.0;35.7;1.5;5.5;27.3;0.0;0.0;0.0;1.0;1.5;66.7;0.929;0.46
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Dallas Mavericks;Jordan Nwora;2.0;6.0;33.3;1.0;3.0;33.3;0.0;0.0;0.0;1.0;3.0;33.3;0.833;0.42
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Dallas Mavericks;Wesley Matthews;1.5;6.0;25.0;0.5;4.0;12.5;1.0;1.0;100.0;1.0;2.0;50.0;0.750;0.29
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Dallas Mavericks;George Hill;1.0;4.0;25.0;0.0;1.5;0.0;0.0;0.0;0.0;1.0;2.5;40.0;0.500;0.25
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Dallas Mavericks;Rodney Hood;0.0;4.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Dallas Mavericks;Semi Ojeleye;0.0;3.0;0.0;0.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Dallas Mavericks;Total;39.5;88.5;44.6;12.5;38.0;32.9;15.5;20.0;77.5;27.0;50.5;53.5;1.209;0.52
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Houston Rockets;Giannis Antetokounmpo;15.0;20.0;75.0;1.0;3.0;33.3;10.0;14.0;71.4;14.0;17.0;82.4;2.050;0.78
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Houston Rockets;Khris Middleton;6.5;17.5;37.1;3.0;8.0;37.5;6.0;7.0;85.7;3.5;9.5;36.8;1.257;0.46
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Houston Rockets;Bobby Portis;7.0;15.0;46.7;3.0;7.0;42.9;4.0;6.0;66.7;4.0;8.0;50.0;1.400;0.57
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Houston Rockets;Jrue Holiday;6.5;12.5;52.0;1.0;3.5;28.6;4.0;4.5;88.9;5.5;9.0;61.1;1.440;0.56
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Houston Rockets;Jordan Nwora;7.0;18.0;38.9;4.0;8.0;50.0;0.0;0.0;0.0;3.0;10.0;30.0;1.000;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Houston Rockets;Pat Connaughton;4.5;10.5;42.9;3.5;8.5;41.2;0.0;0.0;0.0;1.0;2.0;50.0;1.190;0.60
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Houston Rockets;Wesley Matthews;3.5;5.0;70.0;2.0;3.5;57.1;0.0;0.0;0.0;1.5;1.5;100.0;1.800;0.90
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Houston Rockets;DeMarcus Cousins;3.5;6.5;53.8;0.5;2.0;25.0;1.5;1.5;100.0;3.0;4.5;66.7;1.385;0.58
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Houston Rockets;Grayson Allen;3.0;8.0;37.5;2.0;7.0;28.6;0.0;1.0;0.0;1.0;1.0;100.0;1.000;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Houston Rockets;Semi Ojeleye;1.0;6.0;16.7;1.0;2.0;50.0;4.0;4.0;100.0;0.0;4.0;0.0;1.167;0.25
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Houston Rockets;George Hill;1.0;4.0;25.0;0.0;2.0;0.0;2.0;2.0;100.0;1.0;2.0;50.0;1.000;0.25
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Houston Rockets;Rodney Hood;1.5;3.0;50.0;0.5;1.5;33.3;0.0;0.0;0.0;1.0;1.5;66.7;1.167;0.58
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Houston Rockets;Thanasis Antetokounmpo;1.0;3.0;33.3;0.0;1.0;0.0;0.0;0.0;0.0;1.0;2.0;50.0;0.667;0.33
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Houston Rockets;Javonte Smart;0.0;1.0;0.0;0.0;0.5;0.0;0.0;0.0;0.0;0.0;0.5;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Houston Rockets;Total;43.5;93.0;46.8;16.0;42.5;37.6;21.5;26.5;81.1;27.5;50.5;54.5;1.339;0.55
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Giannis Antetokounmpo;11.5;22.5;51.1;1.0;2.5;40.0;7.5;9.0;83.3;10.5;20.0;52.5;1.400;0.53
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Khris Middleton;7.5;17.0;44.1;1.0;5.0;20.0;5.5;5.5;100.0;6.5;12.0;54.2;1.265;0.47
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Pat Connaughton;4.0;8.0;50.0;1.5;4.5;33.3;1.5;2.0;75.0;2.5;3.5;71.4;1.375;0.59
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Bobby Portis;4.0;12.5;32.0;1.5;4.0;37.5;1.0;1.5;66.7;2.5;8.5;29.4;0.840;0.38
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Brook Lopez;4.0;9.0;44.4;2.0;5.0;40.0;0.0;0.0;0.0;2.0;4.0;50.0;1.111;0.56
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Memphis Grizzlies;George Hill;3.5;6.5;53.8;1.5;4.0;37.5;1.0;1.0;100.0;2.0;2.5;80.0;1.462;0.65
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Jrue Holiday;2.0;8.0;25.0;1.0;3.0;33.3;4.0;4.0;100.0;1.0;5.0;20.0;1.125;0.31
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Jevon Carter;4.0;5.0;80.0;1.0;1.0;100.0;0.0;0.0;0.0;3.0;4.0;75.0;1.800;0.90
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Grayson Allen;3.0;7.0;42.9;1.0;4.0;25.0;1.0;1.0;100.0;2.0;3.0;66.7;1.143;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Jordan Nwora;2.0;5.0;40.0;0.0;2.0;0.0;0.0;0.0;0.0;2.0;3.0;66.7;0.800;0.40
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Wesley Matthews;1.5;3.5;42.9;0.5;2.5;20.0;0.0;0.0;0.0;1.0;1.0;100.0;1.000;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Lindell Wigginton;1.0;3.0;33.3;0.0;2.0;0.0;1.0;2.0;50.0;1.0;1.0;100.0;1.000;0.33
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Thanasis Antetokounmpo;0.0;1.0;0.0;0.0;0.0;0.0;2.0;2.0;100.0;0.0;1.0;0.0;2.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Donte DiVincenzo;0.0;5.0;0.0;0.0;3.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Sandro Mamukelashvili;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Total;41.5;95.0;43.7;10.0;34.5;29.0;21.0;24.0;87.5;31.5;60.5;52.1;1.200;0.49
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Giannis Antetokounmpo;12.0;18.0;66.7;2.0;4.0;50.0;9.0;12.0;75.0;10.0;14.0;71.4;1.944;0.72
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Jrue Holiday;13.0;25.0;52.0;1.0;5.5;18.2;3.5;4.0;87.5;12.0;19.5;61.5;1.220;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Grayson Allen;7.0;15.5;45.2;5.5;12.0;45.8;1.0;1.0;100.0;1.5;3.5;42.9;1.323;0.63
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Jordan Nwora;7.0;12.5;56.0;4.0;6.5;61.5;0.5;1.0;50.0;3.0;6.0;50.0;1.480;0.72
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Bobby Portis;5.0;11.0;45.5;4.0;6.0;66.7;0.0;0.0;0.0;1.0;5.0;20.0;1.273;0.64
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Pat Connaughton;3.5;9.0;38.9;2.0;7.5;26.7;0.0;0.0;0.0;1.5;1.5;100.0;1.000;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. New Orleans Pelicans;George Hill;2.5;4.5;55.6;1.0;1.0;100.0;1.5;1.5;100.0;1.5;3.5;42.9;1.667;0.67
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. New Orleans Pelicans;DeMarcus Cousins;3.0;7.0;42.9;0.5;3.5;14.3;0.5;0.5;100.0;2.5;3.5;71.4;1.000;0.46
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Sandro Mamukelashvili;1.5;2.5;60.0;1.5;2.5;60.0;0.0;0.0;0.0;0.0;0.0;0.0;1.800;0.90
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Wesley Matthews;1.0;4.0;25.0;0.0;3.0;0.0;0.0;0.0;0.0;1.0;1.0;100.0;0.500;0.25
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Rodney Hood;0.5;4.0;12.5;0.0;2.0;0.0;0.0;0.0;0.0;0.5;2.0;25.0;0.250;0.13
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Javin DeLaurier;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Javonte Smart;0.0;1.5;0.0;0.0;0.5;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Total;47.0;98.0;48.0;18.5;47.5;38.9;11.5;14.0;82.1;28.5;50.5;56.4;1.265;0.57
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. San Antonio Spurs;Giannis Antetokounmpo;9.0;16.5;54.5;0.5;2.5;20.0;6.0;9.5;63.2;8.5;14.0;60.7;1.485;0.56
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. San Antonio Spurs;Khris Middleton;8.5;19.0;44.7;2.0;7.0;28.6;4.5;5.0;90.0;6.5;12.0;54.2;1.237;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. San Antonio Spurs;Jrue Holiday;6.0;9.0;66.7;3.0;4.0;75.0;1.0;2.0;50.0;3.0;5.0;60.0;1.778;0.83
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. San Antonio Spurs;George Hill;4.5;7.5;60.0;1.5;2.5;60.0;2.0;2.0;100.0;3.0;5.0;60.0;1.667;0.70
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. San Antonio Spurs;Pat Connaughton;4.5;7.5;60.0;1.5;3.5;42.9;0.5;0.5;100.0;3.0;4.0;75.0;1.467;0.70
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. San Antonio Spurs;Grayson Allen;4.0;11.0;36.4;3.0;8.5;35.3;0.0;0.0;0.0;1.0;2.5;40.0;1.000;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. San Antonio Spurs;Jordan Nwora;2.5;8.0;31.3;0.5;5.0;10.0;1.0;1.0;100.0;2.0;3.0;66.7;0.813;0.34
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. San Antonio Spurs;Rodney Hood;2.0;5.0;40.0;2.0;3.0;66.7;0.0;0.0;0.0;0.0;2.0;0.0;1.200;0.60
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. San Antonio Spurs;Justin Robinson;2.0;2.5;80.0;1.0;1.5;66.7;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. San Antonio Spurs;Thanasis Antetokounmpo;1.0;4.0;25.0;0.0;0.5;0.0;0.0;0.0;0.0;1.0;3.5;28.6;0.500;0.25
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. San Antonio Spurs;Semi Ojeleye;0.0;5.0;0.0;0.0;5.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. San Antonio Spurs;Sandro Mamukelashvili;0.0;0.5;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. San Antonio Spurs;Georgios Kalaitzakis;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;vs. San Antonio Spurs;Total;40.0;86.0;46.5;12.5;37.0;33.8;14.5;19.0;76.3;27.5;49.0;56.1;1.244;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;October;Giannis Antetokounmpo;9.9;18.6;53.1;1.3;4.4;29.0;6.3;8.9;71.0;8.6;14.1;60.6;1.469;0.57
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;October;Khris Middleton;7.3;17.0;43.1;1.5;5.8;25.7;3.8;4.5;85.2;5.8;11.2;52.2;1.176;0.48
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;October;Jrue Holiday;5.5;8.0;68.8;2.5;4.0;62.5;0.5;1.0;50.0;3.0;4.0;75.0;1.750;0.84
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;October;Grayson Allen;4.6;11.3;40.5;3.3;8.9;37.1;1.3;1.4;90.0;1.3;2.4;52.9;1.215;0.55
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;October;Bobby Portis;4.5;11.0;40.9;0.5;4.0;12.5;1.0;1.0;100.0;4.0;7.0;57.1;0.955;0.43
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;October;Pat Connaughton;4.0;8.7;45.9;1.9;5.7;32.5;0.4;0.6;75.0;2.1;3.0;71.4;1.180;0.57
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;October;George Hill;3.3;7.0;46.9;1.0;2.6;38.9;1.0;1.1;87.5;2.3;4.4;51.6;1.224;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;October;Jordan Nwora;3.0;8.9;33.9;1.4;4.7;30.3;1.0;1.3;77.8;1.6;4.1;37.9;0.952;0.42
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;October;Brook Lopez;3.0;9.0;33.3;2.0;4.0;50.0;0.0;0.0;0.0;1.0;5.0;20.0;0.889;0.44
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;October;Thanasis Antetokounmpo;2.3;5.1;44.4;0.0;0.4;0.0;0.6;0.7;80.0;2.3;4.7;48.5;1.000;0.44
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;October;Justin Robinson;1.6;4.0;39.3;0.7;2.4;29.4;0.3;0.3;100.0;0.9;1.6;54.5;1.036;0.48
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;October;Rodney Hood;1.0;3.3;30.8;1.0;2.3;44.4;1.0;1.0;100.0;0.0;1.0;0.0;1.231;0.46
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;October;Sandro Mamukelashvili;0.8;2.2;38.5;0.3;0.8;40.0;0.3;0.3;100.0;0.5;1.3;37.5;1.077;0.46
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;October;Georgios Kalaitzakis;0.8;1.8;42.9;0.3;0.5;50.0;0.3;1.0;25.0;0.5;1.3;40.0;1.143;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;October;Semi Ojeleye;0.0;5.0;0.0;0.0;5.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;October;Total;39.9;91.0;43.8;13.0;40.7;31.9;15.6;20.4;76.2;26.9;50.3;53.4;1.190;0.51
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;November;Giannis Antetokounmpo;9.4;17.9;52.4;1.1;4.0;26.9;7.0;10.7;65.5;8.3;13.9;59.7;1.498;0.55
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;November;Bobby Portis;6.2;12.4;50.0;2.2;4.6;48.4;1.4;1.9;76.9;4.0;7.9;50.9;1.293;0.59
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;November;Jrue Holiday;6.1;14.8;40.9;1.5;5.4;28.6;1.2;1.8;69.6;4.5;9.5;48.0;1.005;0.46
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;November;Khris Middleton;4.7;11.6;40.7;2.1;5.7;37.5;2.6;3.0;85.7;2.6;5.9;43.9;1.222;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;November;Grayson Allen;4.7;9.9;47.5;3.1;6.9;45.8;1.4;1.5;90.5;1.6;3.1;51.2;1.403;0.63
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;November;Pat Connaughton;4.6;9.0;51.6;3.0;6.6;45.2;0.8;1.1;68.8;1.6;2.4;69.7;1.452;0.68
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;November;George Hill;2.6;5.9;44.2;1.0;3.1;32.5;1.0;1.0;100.0;1.6;2.8;56.8;1.221;0.53
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;November;Jordan Nwora;2.8;6.3;44.0;1.3;3.2;39.5;0.3;0.3;100.0;1.5;3.1;48.6;1.133;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;November;Semi Ojeleye;1.3;4.1;32.4;0.7;2.0;33.3;0.3;0.3;100.0;0.7;2.1;31.6;0.892;0.41
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;November;Rodney Hood;1.2;3.3;36.4;0.7;2.3;30.4;0.3;0.3;100.0;0.5;1.0;50.0;1.030;0.47
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;November;Thanasis Antetokounmpo;0.9;1.8;50.0;0.0;0.2;0.0;0.6;1.2;50.0;0.9;1.6;56.3;1.333;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;November;Justin Robinson;0.7;2.9;24.1;0.5;2.0;25.0;0.0;0.0;0.0;0.2;0.9;22.2;0.655;0.33
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;November;Sandro Mamukelashvili;0.8;1.0;75.0;0.3;0.5;50.0;0.0;0.3;0.0;0.5;0.5;100.0;1.750;0.88
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;November;Georgios Kalaitzakis;0.4;0.8;50.0;0.2;0.4;50.0;0.6;1.0;60.0;0.2;0.4;50.0;2.000;0.63
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;November;Total;40.3;87.4;46.1;15.3;40.0;38.2;14.8;20.5;72.1;25.0;47.4;52.8;1.267;0.55
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;December;Giannis Antetokounmpo;10.3;18.9;54.7;0.8;3.0;25.9;7.4;10.3;72.0;9.6;15.9;60.1;1.529;0.57
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;December;Jrue Holiday;8.7;15.6;56.0;1.8;4.1;43.5;2.0;2.8;71.4;6.9;11.5;60.5;1.363;0.62
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;December;Khris Middleton;6.5;15.5;42.3;2.6;6.5;40.0;4.6;5.2;89.6;3.9;8.9;44.0;1.313;0.51
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;December;Bobby Portis;5.9;12.5;47.3;1.8;4.6;40.0;2.3;2.8;79.4;4.1;7.9;51.6;1.273;0.55
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;December;Pat Connaughton;3.7;7.9;46.5;2.2;5.6;38.9;0.8;0.8;92.3;1.5;2.3;64.9;1.299;0.60
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;December;Jordan Nwora;3.7;9.0;40.7;1.6;3.9;40.0;0.3;0.4;75.0;2.1;5.1;41.3;1.025;0.49
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;December;DeMarcus Cousins;3.2;7.1;45.5;0.6;2.7;21.1;1.9;2.4;81.8;2.6;4.4;60.7;1.263;0.49
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;December;Grayson Allen;3.2;8.6;36.6;2.0;5.7;35.1;0.5;0.8;70.0;1.2;2.9;39.5;1.027;0.48
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;December;Donte DiVincenzo;1.3;5.7;23.5;1.3;3.3;40.0;3.3;3.7;90.9;0.0;2.3;0.0;1.294;0.35
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;December;George Hill;2.3;5.0;45.5;0.5;2.4;23.1;1.2;1.3;92.9;1.7;2.6;65.5;1.255;0.51
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;December;Wesley Matthews;2.2;4.2;52.6;1.4;3.0;48.1;0.3;0.6;60.0;0.8;1.2;63.6;1.474;0.70
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;December;Sandro Mamukelashvili;2.3;5.3;43.2;1.1;2.9;40.0;0.1;0.3;50.0;1.1;2.4;47.1;1.108;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;December;Semi Ojeleye;0.7;5.3;12.5;0.7;3.0;22.2;2.0;2.0;100.0;0.0;2.3;0.0;0.750;0.19
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;December;Rodney Hood;1.3;3.8;34.8;0.5;2.0;25.0;0.4;0.4;100.0;0.8;1.8;45.5;0.935;0.41
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;December;Thanasis Antetokounmpo;1.4;2.8;50.0;0.1;0.5;25.0;0.4;0.6;60.0;1.3;2.3;55.6;1.182;0.52
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;December;Javonte Smart;1.1;3.9;28.2;0.4;1.7;23.5;0.5;0.6;83.3;0.7;2.2;31.8;0.795;0.33
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;December;Total;41.4;90.3;45.9;13.6;37.7;36.0;17.4;21.9;79.7;27.9;52.6;53.0;1.262;0.53
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;January;Giannis Antetokounmpo;10.1;19.0;53.0;1.2;4.1;30.2;10.1;13.0;77.5;8.8;14.9;59.3;1.656;0.56
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;January;Khris Middleton;7.5;15.6;48.2;2.6;6.2;42.5;4.4;4.9;89.9;4.9;9.4;51.9;1.417;0.57
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;January;Jrue Holiday;6.3;13.4;47.1;1.9;4.6;41.5;2.7;3.0;88.9;4.4;8.9;50.0;1.281;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;January;Bobby Portis;5.5;12.0;45.6;1.6;4.4;36.4;0.8;1.2;66.7;3.9;7.6;50.9;1.111;0.52
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;January;Grayson Allen;4.0;9.2;43.4;2.1;6.0;35.2;1.3;1.4;92.3;1.9;3.2;58.6;1.241;0.55
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;January;DeMarcus Cousins;3.3;6.3;52.6;1.7;3.3;50.0;1.3;1.7;80.0;1.7;3.0;55.6;1.526;0.66
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;January;Jordan Nwora;3.3;7.4;43.8;1.6;4.2;38.0;0.2;0.3;50.0;1.7;3.3;51.3;1.112;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;January;Pat Connaughton;2.4;5.6;43.3;1.9;4.4;43.4;0.3;0.3;100.0;0.5;1.2;42.9;1.269;0.60
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;January;George Hill;2.0;5.3;37.7;1.1;3.3;33.3;1.5;1.5;100.0;0.9;2.0;45.0;1.245;0.48
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;January;Donte DiVincenzo;2.2;7.2;30.6;1.1;4.6;23.9;1.1;1.2;91.7;1.1;2.6;42.3;0.917;0.38
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;January;Wesley Matthews;2.1;5.4;40.0;1.2;3.8;32.1;0.2;0.4;60.0;0.9;1.6;59.1;1.067;0.51
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;January;Lindell Wigginton;1.3;1.3;100.0;0.3;0.3;100.0;0.0;0.0;0.0;1.0;1.0;100.0;2.250;1.13
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;January;Rodney Hood;1.1;2.9;37.5;0.6;1.8;35.0;0.1;0.2;50.0;0.5;1.1;41.7;1.000;0.48
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;January;Sandro Mamukelashvili;0.9;2.3;39.1;0.3;1.0;30.0;0.6;0.7;85.7;0.6;1.3;46.2;1.174;0.46
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;January;Semi Ojeleye;0.4;1.0;40.0;0.2;0.4;50.0;0.0;0.0;0.0;0.2;0.6;33.3;1.000;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;January;Thanasis Antetokounmpo;0.3;1.0;33.3;0.0;0.3;0.0;0.3;0.3;100.0;0.3;0.7;50.0;1.000;0.33
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;January;Langston Galloway;0.3;4.3;7.7;0.0;2.7;0.0;0.0;0.0;0.0;0.3;1.7;20.0;0.154;0.08
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;January;Luke Kornet;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;January;Javin DeLaurier;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;January;Jeff Dowtin Jr.;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;January;Javonte Smart;0.0;1.3;0.0;0.0;0.3;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;January;Total;39.4;87.5;45.0;14.1;39.4;35.7;19.3;23.5;82.1;25.3;48.1;52.6;1.281;0.53
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;February;Giannis Antetokounmpo;10.6;17.3;60.9;1.4;3.7;39.4;9.6;12.4;76.8;9.1;13.7;66.7;1.853;0.65
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;February;Jrue Holiday;7.4;12.7;58.3;2.4;4.3;55.8;2.3;3.2;71.9;5.0;8.4;59.5;1.535;0.68
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;February;Bobby Portis;7.6;14.3;53.1;3.1;6.9;44.9;1.2;1.8;66.7;4.5;7.4;60.8;1.364;0.64
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;February;Khris Middleton;6.2;14.8;41.9;2.0;7.4;27.0;4.0;4.6;87.0;4.2;7.4;56.8;1.243;0.49
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;February;Grayson Allen;3.4;7.4;45.8;2.0;4.9;41.0;0.4;0.6;60.0;1.4;2.5;55.0;1.237;0.59
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;February;Donte DiVincenzo;3.3;7.3;44.8;1.5;4.5;33.3;0.5;1.0;50.0;1.8;2.8;63.6;1.172;0.55
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;February;Pat Connaughton;2.6;6.8;38.2;2.4;6.2;38.7;0.0;0.0;0.0;0.2;0.6;33.3;1.118;0.56
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;February;Jordan Nwora;2.9;7.6;37.7;1.3;3.8;33.3;0.3;0.3;100.0;1.6;3.9;41.9;0.951;0.46
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;February;Semi Ojeleye;2.0;2.0;100.0;2.0;2.0;100.0;1.0;2.0;50.0;0.0;0.0;0.0;3.500;1.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;February;Serge Ibaka;2.4;5.2;46.2;0.6;2.2;27.3;0.6;0.8;75.0;1.8;3.0;60.0;1.154;0.52
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;February;Greg Monroe;2.2;4.4;50.0;0.0;0.0;0.0;1.0;1.8;55.6;2.2;4.4;50.0;1.227;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;February;Jevon Carter;1.0;4.5;22.2;1.0;2.5;40.0;2.0;2.0;100.0;0.0;2.0;0.0;1.111;0.33
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;February;Lindell Wigginton;1.2;2.8;44.0;0.7;1.4;46.2;1.1;2.0;55.6;0.6;1.3;41.7;1.520;0.56
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;February;DeAndre' Bembry;1.5;2.0;75.0;0.0;0.0;0.0;0.0;0.0;0.0;1.5;2.0;75.0;1.500;0.75
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;February;Wesley Matthews;0.7;3.1;21.4;0.4;2.6;17.4;0.2;0.2;100.0;0.2;0.6;40.0;0.643;0.29
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;February;Rodney Hood;1.0;3.5;28.6;0.0;2.0;0.0;0.0;0.0;0.0;1.0;1.5;66.7;0.571;0.29
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;February;Thanasis Antetokounmpo;0.9;1.0;85.7;0.0;0.0;0.0;0.1;0.3;50.0;0.9;1.0;85.7;1.857;0.86
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;February;Sandro Mamukelashvili;0.9;1.1;75.0;0.1;0.3;50.0;0.0;0.0;0.0;0.7;0.9;83.3;1.625;0.81
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;February;Total;44.4;89.5;49.6;15.0;39.7;37.8;19.4;26.0;74.6;29.4;49.8;59.0;1.377;0.58
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;March;Giannis Antetokounmpo;11.7;19.8;59.1;0.8;2.8;29.4;9.1;12.9;70.3;10.8;16.9;64.0;1.684;0.61
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;March;Khris Middleton;8.1;17.4;46.4;3.2;7.0;45.2;4.2;4.5;92.6;4.9;10.4;47.2;1.349;0.56
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;March;Jrue Holiday;7.6;16.1;47.4;2.2;5.6;39.7;2.8;3.5;82.2;5.4;10.5;51.5;1.263;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;March;Pat Connaughton;3.5;7.8;44.7;2.2;6.3;34.2;2.0;2.3;85.7;1.3;1.5;88.9;1.426;0.59
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;March;Bobby Portis;4.0;9.6;41.8;1.2;3.9;30.9;0.8;1.0;78.6;2.8;5.6;49.4;1.045;0.48
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;March;Grayson Allen;3.5;6.5;54.1;2.2;4.4;49.1;0.8;0.8;90.9;1.4;2.2;64.3;1.529;0.71
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;March;Brook Lopez;3.6;8.5;42.6;1.3;4.1;30.3;1.4;1.8;78.6;2.4;4.4;54.3;1.162;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;March;Serge Ibaka;2.8;5.4;52.3;0.8;1.9;39.1;0.8;0.9;81.8;2.1;3.5;59.5;1.323;0.59
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;March;Jevon Carter;2.2;3.5;60.9;1.4;2.2;62.1;0.3;0.3;100.0;0.8;1.3;58.8;1.696;0.80
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;March;Wesley Matthews;1.7;4.7;36.1;1.2;3.2;35.7;0.5;0.7;77.8;0.5;1.5;36.8;1.082;0.48
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;March;Jordan Nwora;2.0;5.1;39.2;0.5;2.6;19.2;0.3;0.3;100.0;1.5;2.5;60.0;0.941;0.44
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;March;Sandro Mamukelashvili;1.0;1.0;100.0;1.0;1.0;100.0;0.7;0.7;100.0;0.0;0.0;0.0;3.667;1.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;March;Thanasis Antetokounmpo;1.2;1.8;63.6;0.0;0.0;0.0;0.8;1.3;62.5;1.2;1.8;63.6;1.727;0.64
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;March;George Hill;1.1;2.6;42.9;0.4;1.3;30.0;0.4;0.8;50.0;0.8;1.4;54.5;1.143;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;March;Lindell Wigginton;0.3;1.5;16.7;0.0;0.8;0.0;0.3;0.5;50.0;0.3;0.8;33.3;0.500;0.17
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;March;DeAndre' Bembry;0.0;0.7;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.7;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;March;Total;43.7;89.8;48.7;14.1;36.4;38.8;19.6;25.1;77.8;29.6;53.4;55.4;1.349;0.57
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;April;Giannis Antetokounmpo;9.8;18.0;54.2;0.5;3.0;16.7;6.3;9.0;69.4;9.3;15.0;61.7;1.458;0.56
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;April;Brook Lopez;7.3;13.5;53.7;1.8;4.0;43.8;2.3;2.3;100.0;5.5;9.5;57.9;1.370;0.60
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;April;Khris Middleton;6.5;15.5;41.9;2.3;7.3;31.0;1.5;1.8;85.7;4.3;8.3;51.5;1.081;0.49
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;April;Bobby Portis;7.2;13.6;52.9;1.4;4.2;33.3;0.2;0.2;100.0;5.8;9.4;61.7;1.176;0.58
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;April;Jrue Holiday;5.4;10.8;50.0;2.0;4.8;41.7;1.2;1.8;66.7;3.4;6.0;56.7;1.296;0.59
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;April;Jordan Nwora;4.3;10.8;39.5;1.5;3.8;40.0;3.8;4.3;88.2;2.8;7.0;39.3;1.279;0.47
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;April;Thanasis Antetokounmpo;4.8;7.0;67.9;0.3;0.8;33.3;2.0;3.0;66.7;4.5;6.3;72.0;1.679;0.70
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;April;Grayson Allen;3.5;6.0;58.3;1.5;3.5;42.9;2.0;2.0;100.0;2.0;2.5;80.0;1.750;0.71
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;April;Sandro Mamukelashvili;3.8;6.8;55.6;1.0;2.5;40.0;1.8;2.0;87.5;2.8;4.3;64.7;1.519;0.63
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;April;Lindell Wigginton;3.3;8.7;38.5;0.7;3.0;22.2;2.7;5.0;53.3;2.7;5.7;47.1;1.154;0.42
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;April;Serge Ibaka;4.0;6.5;61.5;0.5;1.5;33.3;0.0;0.0;0.0;3.5;5.0;70.0;1.308;0.65
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;April;Rayjon Tucker;2.5;3.5;71.4;1.5;1.5;100.0;1.0;1.5;66.7;1.0;2.0;50.0;2.143;0.93
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;April;Wesley Matthews;2.3;4.5;50.0;1.0;3.0;33.3;1.8;1.8;100.0;1.3;1.5;83.3;1.611;0.61
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;April;Pat Connaughton;2.4;6.8;35.3;1.6;5.0;32.0;0.6;0.6;100.0;0.8;1.8;44.4;1.029;0.47
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;April;Jevon Carter;2.0;4.8;41.7;0.8;1.8;44.4;0.0;0.0;0.0;1.2;3.0;40.0;1.000;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;April;George Hill;1.4;4.0;35.0;0.2;1.4;14.3;1.2;1.2;100.0;1.2;2.6;46.2;1.050;0.38
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;April;Total;46.0;93.7;49.1;12.0;34.2;35.1;17.8;22.8;78.1;34.0;59.5;57.1;1.301;0.56
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Atlantic Division;Giannis Antetokounmpo;10.3;19.9;51.7;1.0;4.0;25.0;8.6;11.4;75.4;9.3;15.9;58.4;1.517;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Atlantic Division;Khris Middleton;6.5;15.4;42.1;2.4;6.8;34.7;4.1;4.9;83.8;4.1;8.6;47.9;1.259;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Atlantic Division;Jrue Holiday;6.8;14.8;45.6;2.2;5.4;40.2;2.4;3.5;67.9;4.6;9.4;48.7;1.219;0.53
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Atlantic Division;Bobby Portis;5.6;11.6;48.2;2.1;5.0;41.2;1.8;2.4;73.2;3.5;6.6;53.6;1.294;0.57
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Atlantic Division;Grayson Allen;4.3;9.1;46.9;2.9;6.4;44.4;1.6;1.9;84.6;1.4;2.7;52.6;1.422;0.63
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Atlantic Division;Brook Lopez;4.5;11.5;39.1;1.8;5.0;35.0;0.5;0.8;66.7;2.8;6.5;42.3;0.978;0.47
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Atlantic Division;Pat Connaughton;3.5;7.8;45.0;2.1;5.9;35.4;0.6;0.6;100.0;1.4;1.9;74.1;1.239;0.58
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Atlantic Division;DeMarcus Cousins;2.8;6.3;44.0;1.0;2.8;36.4;1.0;1.8;57.1;1.8;3.5;50.0;1.200;0.52
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Atlantic Division;Jordan Nwora;2.8;6.4;43.3;1.4;3.6;38.0;0.1;0.1;100.0;1.4;2.9;50.0;1.100;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Atlantic Division;Wesley Matthews;2.5;5.8;43.1;1.5;4.3;34.9;0.3;0.4;75.0;1.0;1.5;66.7;1.172;0.56
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Atlantic Division;Rodney Hood;1.9;4.2;44.7;1.1;2.8;40.0;0.6;0.7;83.3;0.8;1.4;53.8;1.289;0.58
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Atlantic Division;George Hill;1.8;4.6;40.0;0.9;2.8;33.3;0.5;0.8;70.0;0.9;1.8;50.0;1.117;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Atlantic Division;Semi Ojeleye;1.8;3.6;50.0;1.0;1.6;62.5;0.2;0.2;100.0;0.8;2.0;40.0;1.333;0.64
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Atlantic Division;Serge Ibaka;1.7;5.3;31.3;0.7;3.0;22.2;0.3;0.3;100.0;1.0;2.3;42.9;0.813;0.38
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Atlantic Division;Sandro Mamukelashvili;1.3;3.0;41.7;0.3;1.0;25.0;0.6;0.8;83.3;1.0;2.0;50.0;1.125;0.46
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Atlantic Division;Donte DiVincenzo;1.3;4.7;28.6;0.7;2.7;25.0;0.0;0.0;0.0;0.7;2.0;33.3;0.714;0.36
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Atlantic Division;Thanasis Antetokounmpo;1.0;2.1;47.4;0.0;0.2;0.0;0.8;1.0;77.8;1.0;1.9;52.9;1.316;0.47
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Atlantic Division;Langston Galloway;1.0;6.0;16.7;0.0;3.0;0.0;0.0;0.0;0.0;1.0;3.0;33.3;0.333;0.17
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Atlantic Division;Justin Robinson;0.3;2.0;16.7;0.3;1.7;20.0;0.0;0.0;0.0;0.0;0.3;0.0;0.500;0.25
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Atlantic Division;Javonte Smart;0.3;1.8;14.3;0.3;0.5;50.0;0.0;0.0;0.0;0.0;1.3;0.0;0.429;0.21
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Atlantic Division;Lindell Wigginton;0.0;0.3;0.0;0.0;0.0;0.0;0.7;0.7;100.0;0.0;0.3;0.0;2.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Atlantic Division;DeAndre' Bembry;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Atlantic Division;Luke Kornet;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Atlantic Division;Jevon Carter;0.0;0.3;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.3;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Atlantic Division;Jeff Dowtin Jr.;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Atlantic Division;Georgios Kalaitzakis;0.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Atlantic Division;Total;40.6;89.9;45.2;14.8;40.6;36.6;17.9;23.4;76.7;25.8;49.3;52.3;1.268;0.53
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Central Division;Giannis Antetokounmpo;10.2;17.4;58.8;1.0;3.1;32.5;8.4;11.4;73.6;9.2;14.3;64.5;1.717;0.62
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Central Division;Brook Lopez;6.7;11.3;58.8;2.0;4.0;50.0;3.0;3.0;100.0;4.7;7.3;63.6;1.618;0.68
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Central Division;Khris Middleton;6.7;14.5;46.3;1.5;5.3;29.3;2.7;3.3;83.3;5.2;9.3;55.9;1.219;0.52
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Central Division;Jrue Holiday;7.4;14.0;52.7;1.5;4.1;35.8;1.1;1.6;66.7;5.9;9.9;59.7;1.236;0.58
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Central Division;Bobby Portis;5.6;12.3;45.6;1.5;4.3;33.9;0.8;1.1;78.6;4.2;8.0;51.9;1.100;0.52
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Central Division;Pat Connaughton;3.4;7.0;48.4;2.1;4.8;43.5;1.2;1.3;94.1;1.3;2.2;58.6;1.440;0.63
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Central Division;DeMarcus Cousins;3.0;7.7;39.1;1.3;4.3;30.8;2.0;2.3;85.7;1.7;3.3;50.0;1.217;0.48
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Central Division;Jordan Nwora;3.2;7.9;39.8;0.9;3.2;28.6;1.5;1.6;95.2;2.2;4.7;47.5;1.107;0.46
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Central Division;Donte DiVincenzo;3.0;8.0;37.5;1.0;4.5;22.2;1.0;1.0;100.0;2.0;3.5;57.1;1.000;0.44
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Central Division;Lindell Wigginton;2.8;6.5;42.3;1.3;3.3;38.5;1.3;2.8;45.5;1.5;3.3;46.2;1.231;0.52
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Central Division;Grayson Allen;2.6;7.4;34.8;1.4;4.6;30.9;1.2;1.2;100.0;1.2;2.8;41.2;1.045;0.44
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Central Division;Rayjon Tucker;2.5;3.5;71.4;1.5;1.5;100.0;1.0;1.5;66.7;1.0;2.0;50.0;2.143;0.93
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Central Division;Wesley Matthews;2.6;4.7;54.5;1.1;2.7;42.1;0.9;1.3;66.7;1.4;2.0;71.4;1.515;0.67
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Central Division;Serge Ibaka;2.8;4.3;64.7;0.5;1.3;40.0;1.0;1.3;80.0;2.3;3.0;75.0;1.647;0.71
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Central Division;Sandro Mamukelashvili;2.4;4.3;55.3;0.8;1.9;42.9;0.6;0.8;77.8;1.5;2.4;65.4;1.447;0.65
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Central Division;George Hill;2.1;5.3;39.1;0.3;2.4;10.3;1.8;1.8;100.0;1.8;2.9;62.9;1.156;0.41
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Central Division;Thanasis Antetokounmpo;2.2;3.5;63.2;0.2;0.5;40.0;1.1;1.6;66.7;2.0;3.0;66.7;1.632;0.66
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Central Division;Javonte Smart;2.3;6.3;36.8;0.3;2.0;16.7;0.0;0.0;0.0;2.0;4.3;46.2;0.789;0.39
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Central Division;Jevon Carter;1.6;4.4;36.4;1.0;2.2;45.5;0.0;0.0;0.0;0.6;2.2;27.3;0.955;0.48
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Central Division;Semi Ojeleye;1.0;3.7;27.3;0.3;1.7;20.0;1.3;1.3;100.0;0.7;2.0;33.3;1.000;0.32
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Central Division;Justin Robinson;1.3;3.5;35.7;0.8;2.0;37.5;0.0;0.0;0.0;0.5;1.5;33.3;0.929;0.46
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Central Division;Rodney Hood;0.8;2.4;31.6;0.6;1.5;41.7;0.1;0.1;100.0;0.1;0.9;14.3;0.947;0.45
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Central Division;DeAndre' Bembry;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Central Division;Georgios Kalaitzakis;0.0;0.5;0.0;0.0;0.3;0.0;0.0;0.5;0.0;0.0;0.3;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Central Division;Total;42.3;87.7;48.2;11.4;33.6;34.0;18.3;23.3;78.8;30.8;54.1;57.0;1.303;0.55
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pacific Division;Giannis Antetokounmpo;11.0;17.8;62.0;1.0;2.6;38.1;8.6;12.8;67.6;10.0;15.1;66.1;1.782;0.65
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pacific Division;Khris Middleton;8.7;17.6;49.4;3.8;7.7;49.3;4.0;4.2;94.7;4.9;9.9;49.4;1.430;0.60
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pacific Division;Jrue Holiday;7.3;14.1;51.3;2.3;4.6;48.6;2.6;3.3;80.8;5.0;9.5;52.6;1.372;0.59
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pacific Division;Bobby Portis;6.1;12.6;48.4;1.8;5.0;36.0;1.1;1.4;78.6;4.3;7.6;56.6;1.198;0.56
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pacific Division;Serge Ibaka;5.0;8.3;60.6;1.0;2.0;50.0;0.5;1.0;50.0;4.0;6.3;64.0;1.394;0.67
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pacific Division;Donte DiVincenzo;3.5;7.8;45.2;1.8;4.8;36.8;1.8;2.5;70.0;1.8;3.0;58.3;1.355;0.56
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pacific Division;Pat Connaughton;3.3;7.6;43.4;2.9;6.7;42.6;0.3;0.4;66.7;0.4;0.9;50.0;1.283;0.62
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pacific Division;Grayson Allen;3.6;7.4;48.1;2.1;5.0;42.9;0.4;0.6;75.0;1.4;2.4;58.8;1.308;0.63
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pacific Division;Jevon Carter;3.0;4.3;70.6;1.5;2.3;66.7;0.0;0.0;0.0;1.5;2.0;75.0;1.765;0.88
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pacific Division;Jordan Nwora;3.0;7.5;40.0;0.8;3.3;23.1;0.8;1.1;66.7;2.3;4.3;52.9;1.000;0.45
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pacific Division;Greg Monroe;2.3;4.3;53.8;0.0;0.0;0.0;1.3;2.3;57.1;2.3;4.3;53.8;1.385;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pacific Division;George Hill;1.6;4.8;33.3;1.0;2.6;38.5;1.2;1.6;75.0;0.6;2.2;27.3;1.125;0.44
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pacific Division;Thanasis Antetokounmpo;2.0;2.7;75.0;0.0;0.0;0.0;0.0;0.3;0.0;2.0;2.7;75.0;1.500;0.75
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pacific Division;Brook Lopez;1.0;4.0;25.0;1.0;3.0;33.3;0.0;0.0;0.0;0.0;1.0;0.0;0.750;0.38
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pacific Division;Wesley Matthews;0.9;2.9;30.0;0.9;2.3;37.5;0.4;0.7;60.0;0.0;0.6;0.0;1.050;0.45
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pacific Division;Lindell Wigginton;1.0;2.3;42.9;0.2;0.7;25.0;0.7;1.2;57.1;0.8;1.7;50.0;1.214;0.46
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pacific Division;Rodney Hood;1.0;2.3;42.9;0.3;1.3;25.0;0.0;0.0;0.0;0.7;1.0;66.7;1.000;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pacific Division;Sandro Mamukelashvili;0.7;1.2;57.1;0.3;0.7;50.0;0.2;0.3;50.0;0.3;0.5;66.7;1.571;0.71
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pacific Division;Semi Ojeleye;0.5;4.0;12.5;0.5;1.5;33.3;0.0;0.0;0.0;0.0;2.5;0.0;0.375;0.19
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pacific Division;DeAndre' Bembry;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pacific Division;Total;45.1;89.8;50.2;15.3;36.8;41.6;17.5;24.1;72.6;29.8;53.0;56.2;1.370;0.59
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southeast Division;Giannis Antetokounmpo;9.5;18.4;51.5;0.8;3.8;21.3;8.7;12.1;72.0;8.7;14.6;59.4;1.546;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southeast Division;Khris Middleton;6.8;15.3;44.3;2.9;6.9;41.7;4.2;4.5;92.6;3.9;8.5;46.5;1.348;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southeast Division;Jrue Holiday;7.4;14.9;50.0;2.4;5.2;45.2;1.5;1.8;84.0;5.1;9.6;52.6;1.260;0.58
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southeast Division;Bobby Portis;6.2;12.2;51.0;1.9;4.3;43.8;1.0;1.3;77.3;4.4;7.9;54.8;1.255;0.59
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southeast Division;Brook Lopez;5.0;11.0;45.5;0.0;4.0;0.0;3.0;4.0;75.0;5.0;7.0;71.4;1.182;0.45
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southeast Division;Grayson Allen;4.4;8.7;50.4;2.5;5.6;44.0;0.9;1.1;82.4;1.9;3.1;61.7;1.397;0.65
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southeast Division;Pat Connaughton;3.4;7.6;44.9;2.4;5.8;42.0;0.7;1.0;71.4;1.0;1.9;53.8;1.308;0.61
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southeast Division;DeMarcus Cousins;2.8;5.6;50.0;0.4;1.8;22.2;2.4;2.6;92.3;2.4;3.8;63.2;1.500;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southeast Division;Donte DiVincenzo;1.8;7.2;25.0;1.4;4.8;29.2;2.4;2.6;92.3;0.4;2.4;16.7;1.028;0.35
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southeast Division;George Hill;2.6;5.6;46.0;0.9;2.8;32.0;0.9;0.9;100.0;1.7;2.8;60.0;1.240;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southeast Division;Javonte Smart;1.5;6.0;25.0;1.0;4.0;25.0;2.5;3.0;83.3;0.5;2.0;25.0;1.083;0.33
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southeast Division;Georgios Kalaitzakis;2.0;3.0;66.7;1.0;1.5;66.7;1.5;3.0;50.0;1.0;1.5;66.7;2.167;0.83
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southeast Division;Jevon Carter;1.8;4.5;38.9;1.5;2.8;54.5;1.0;1.0;100.0;0.3;1.8;14.3;1.333;0.56
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southeast Division;Jordan Nwora;2.1;6.3;33.3;1.3;3.5;35.7;0.4;0.6;71.4;0.8;2.8;30.3;0.933;0.43
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southeast Division;Sandro Mamukelashvili;2.0;5.0;40.0;0.6;2.0;30.0;0.6;0.6;100.0;1.4;3.0;46.7;1.040;0.46
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southeast Division;Serge Ibaka;1.8;2.5;70.0;0.5;1.0;50.0;0.8;0.8;100.0;1.3;1.5;83.3;1.900;0.80
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southeast Division;Wesley Matthews;1.6;5.0;31.7;1.1;3.4;31.7;0.5;0.5;100.0;0.5;1.6;31.6;0.950;0.43
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southeast Division;Lindell Wigginton;1.0;3.0;33.3;0.0;1.0;0.0;1.0;5.0;20.0;1.0;2.0;50.0;1.000;0.33
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southeast Division;Rodney Hood;1.0;3.6;27.6;0.5;2.6;19.0;0.4;0.4;100.0;0.5;1.0;50.0;0.793;0.34
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southeast Division;Thanasis Antetokounmpo;1.1;1.8;61.1;0.0;0.3;0.0;0.6;1.1;54.5;1.1;1.5;73.3;1.556;0.61
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southeast Division;Justin Robinson;0.8;4.4;18.2;0.6;3.0;20.0;0.4;0.4;100.0;0.2;1.4;14.3;0.591;0.25
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southeast Division;DeAndre' Bembry;1.0;1.7;60.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;1.7;60.0;1.200;0.60
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southeast Division;Semi Ojeleye;0.7;2.7;25.0;0.3;1.7;20.0;0.0;0.0;0.0;0.3;1.0;33.3;0.625;0.31
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southeast Division;Langston Galloway;0.0;3.5;0.0;0.0;2.5;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southeast Division;Total;40.7;89.0;45.8;14.4;39.2;36.8;18.9;24.1;78.5;26.3;49.8;52.8;1.290;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southwest Division;Giannis Antetokounmpo;11.4;19.7;58.0;0.9;2.9;30.0;7.1;10.1;70.4;10.6;16.9;62.7;1.565;0.60
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southwest Division;Khris Middleton;7.0;16.9;41.5;1.8;5.9;29.8;5.6;6.1;91.8;5.3;11.0;47.7;1.267;0.47
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southwest Division;Jrue Holiday;7.8;14.8;52.5;2.0;4.8;42.1;3.3;3.9;83.9;5.8;10.0;57.5;1.407;0.59
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southwest Division;Bobby Portis;5.4;12.8;42.2;2.6;5.4;48.1;1.2;1.8;66.7;2.8;7.4;37.8;1.141;0.52
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southwest Division;Brook Lopez;5.0;11.0;45.5;2.0;4.5;44.4;0.0;0.0;0.0;3.0;6.5;46.2;1.091;0.55
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southwest Division;Grayson Allen;4.0;9.9;40.4;2.7;7.4;35.8;0.4;0.6;80.0;1.3;2.4;54.5;1.124;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southwest Division;Jordan Nwora;4.3;10.0;42.9;2.0;5.1;38.9;0.4;0.6;75.0;2.3;4.9;47.1;1.100;0.53
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southwest Division;DeMarcus Cousins;4.2;8.4;50.0;0.6;3.0;20.0;1.8;2.2;81.8;3.6;5.4;66.7;1.286;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southwest Division;Pat Connaughton;4.1;8.3;49.4;2.1;5.7;36.8;0.5;0.6;83.3;2.0;2.6;76.9;1.301;0.62
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southwest Division;Jevon Carter;4.0;5.0;80.0;1.0;1.0;100.0;0.0;0.0;0.0;3.0;4.0;75.0;1.800;0.90
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southwest Division;George Hill;2.7;5.4;49.0;0.9;2.2;40.0;1.2;1.2;100.0;1.8;3.2;55.2;1.367;0.57
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southwest Division;Wesley Matthews;2.0;4.7;42.4;0.9;3.3;26.1;0.3;0.3;100.0;1.1;1.4;80.0;1.091;0.52
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southwest Division;Justin Robinson;2.0;2.5;80.0;1.0;1.5;66.7;0.0;0.0;0.0;1.0;1.0;100.0;2.000;1.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southwest Division;Lindell Wigginton;1.0;3.0;33.3;0.0;2.0;0.0;1.0;2.0;50.0;1.0;1.0;100.0;1.000;0.33
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southwest Division;Rodney Hood;1.0;3.8;26.1;0.5;2.0;25.0;0.0;0.0;0.0;0.5;1.8;27.3;0.652;0.33
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southwest Division;Semi Ojeleye;0.3;4.7;7.1;0.3;3.3;10.0;1.3;1.3;100.0;0.0;1.3;0.0;0.500;0.11
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southwest Division;Thanasis Antetokounmpo;0.8;3.0;25.0;0.0;0.5;0.0;0.5;0.5;100.0;0.8;2.5;30.0;0.667;0.25
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southwest Division;Sandro Mamukelashvili;0.6;1.2;50.0;0.6;1.0;60.0;0.0;0.0;0.0;0.0;0.2;0.0;1.500;0.75
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southwest Division;Donte DiVincenzo;0.0;5.0;0.0;0.0;3.0;0.0;0.0;0.0;0.0;0.0;2.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southwest Division;Javin DeLaurier;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southwest Division;Javonte Smart;0.0;1.3;0.0;0.0;0.5;0.0;0.0;0.0;0.0;0.0;0.8;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southwest Division;Georgios Kalaitzakis;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Southwest Division;Total;42.3;92.1;45.9;13.9;39.9;34.8;16.8;20.7;81.2;28.4;52.2;54.4;1.252;0.53
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Northwest Division;Giannis Antetokounmpo;10.3;18.3;56.2;2.0;5.0;40.0;7.1;10.1;70.4;8.3;13.3;62.3;1.623;0.62
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Northwest Division;Khris Middleton;5.7;13.6;41.8;2.3;6.9;33.9;3.1;3.6;87.5;3.3;6.7;50.0;1.238;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Northwest Division;Jrue Holiday;6.3;12.0;52.1;1.4;4.1;33.3;2.1;2.6;81.0;4.9;7.9;61.9;1.333;0.58
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Northwest Division;Bobby Portis;5.5;11.6;47.4;1.6;4.7;34.0;1.0;1.3;76.9;3.9;6.9;56.5;1.172;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Northwest Division;Grayson Allen;4.1;8.9;46.3;2.9;6.4;44.8;0.8;0.9;87.5;1.2;2.4;50.0;1.338;0.63
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Northwest Division;Brook Lopez;3.5;7.0;50.0;0.5;2.5;20.0;3.0;3.5;85.7;3.0;4.5;66.7;1.500;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Northwest Division;Jevon Carter;3.0;5.3;56.3;2.0;3.7;54.5;1.3;1.3;100.0;1.0;1.7;60.0;1.750;0.75
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Northwest Division;Pat Connaughton;3.1;7.6;41.5;2.1;5.9;36.6;0.6;0.9;66.7;1.0;1.7;58.3;1.189;0.56
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Northwest Division;Donte DiVincenzo;3.0;8.0;37.5;1.5;5.5;27.3;1.0;1.0;100.0;1.5;2.5;60.0;1.063;0.47
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Northwest Division;Jordan Nwora;3.4;8.0;42.2;1.6;3.9;41.9;0.0;0.0;0.0;1.8;4.1;42.4;1.047;0.52
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Northwest Division;Serge Ibaka;2.8;7.0;39.3;0.8;2.8;27.3;0.5;0.5;100.0;2.0;4.3;47.1;0.964;0.45
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Northwest Division;George Hill;2.3;4.7;50.0;0.8;1.8;45.5;0.7;0.7;100.0;1.5;2.8;52.9;1.321;0.59
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Northwest Division;Lindell Wigginton;1.8;3.5;50.0;0.8;1.5;50.0;1.5;2.0;75.0;1.0;2.0;50.0;1.643;0.61
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Northwest Division;Greg Monroe;2.0;4.5;44.4;0.0;0.0;0.0;0.5;1.0;50.0;2.0;4.5;44.4;1.000;0.44
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Northwest Division;Rodney Hood;1.2;3.0;40.0;0.2;1.2;16.7;0.8;0.8;100.0;1.0;1.8;55.6;1.133;0.43
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Northwest Division;Thanasis Antetokounmpo;1.4;3.1;44.0;0.0;0.3;0.0;0.3;0.5;50.0;1.4;2.9;47.8;0.960;0.44
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Northwest Division;Justin Robinson;1.3;3.3;40.0;0.3;2.0;16.7;0.0;0.0;0.0;1.0;1.3;75.0;0.900;0.45
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Northwest Division;Georgios Kalaitzakis;1.0;1.0;100.0;0.0;0.0;0.0;1.0;1.0;100.0;1.0;1.0;100.0;3.000;1.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Northwest Division;Wesley Matthews;0.8;2.7;31.3;0.8;2.5;33.3;0.3;0.3;100.0;0.0;0.2;0.0;1.063;0.47
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Northwest Division;Sandro Mamukelashvili;0.7;1.0;66.7;0.5;0.7;75.0;0.3;0.3;100.0;0.2;0.3;50.0;2.167;0.92
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Northwest Division;Semi Ojeleye;0.5;2.8;18.2;0.5;2.5;20.0;0.3;1.0;25.0;0.0;0.3;0.0;0.636;0.27
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Northwest Division;DeAndre' Bembry;0.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;3.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Northwest Division;Total;41.5;88.9;46.7;15.1;41.0;36.8;16.0;20.7;77.3;26.4;47.9;55.1;1.283;0.55
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Eastern Conference;Giannis Antetokounmpo;10.0;18.6;53.6;0.9;3.7;25.5;8.6;11.6;73.6;9.0;15.0;60.5;1.582;0.56
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Eastern Conference;Khris Middleton;6.7;15.2;44.1;2.3;6.4;36.3;3.8;4.3;87.2;4.4;8.8;49.7;1.282;0.52
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Eastern Conference;Jrue Holiday;7.2;14.6;49.1;2.0;5.0;40.8;1.7;2.4;71.6;5.1;9.6;53.4;1.238;0.56
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Eastern Conference;Bobby Portis;5.8;12.0;48.5;1.8;4.6;40.2;1.2;1.6;75.3;4.0;7.5;53.6;1.225;0.56
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Eastern Conference;Brook Lopez;5.4;11.4;47.3;1.6;4.5;36.1;1.8;2.0;87.5;3.8;6.9;54.5;1.242;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Eastern Conference;Grayson Allen;3.8;8.5;45.1;2.3;5.6;41.0;1.2;1.4;87.7;1.5;2.9;52.9;1.316;0.59
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Eastern Conference;Pat Connaughton;3.4;7.5;45.9;2.2;5.5;40.0;0.8;1.0;87.2;1.2;2.0;62.2;1.322;0.61
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Eastern Conference;DeMarcus Cousins;2.8;6.3;44.7;0.8;2.8;30.3;1.8;2.3;81.5;2.0;3.6;55.8;1.316;0.51
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Eastern Conference;Rayjon Tucker;2.5;3.5;71.4;1.5;1.5;100.0;1.0;1.5;66.7;1.0;2.0;50.0;2.143;0.93
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Eastern Conference;Jordan Nwora;2.7;6.9;39.2;1.2;3.4;34.3;0.7;0.8;90.0;1.5;3.4;44.0;1.056;0.48
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Eastern Conference;Donte DiVincenzo;1.9;6.6;28.8;1.1;4.1;26.8;1.4;1.5;93.3;0.8;2.5;32.0;0.955;0.37
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Eastern Conference;Wesley Matthews;2.1;5.2;41.1;1.2;3.6;35.0;0.5;0.7;78.9;0.9;1.7;54.2;1.159;0.53
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Eastern Conference;George Hill;2.1;5.1;41.4;0.7;2.6;25.6;1.1;1.1;92.3;1.4;2.5;58.3;1.167;0.48
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Eastern Conference;Serge Ibaka;2.1;3.9;53.5;0.5;1.6;33.3;0.7;0.8;88.9;1.5;2.3;68.0;1.395;0.60
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Eastern Conference;Sandro Mamukelashvili;1.9;4.0;47.9;0.6;1.6;35.9;0.6;0.8;83.3;1.3;2.4;56.1;1.260;0.55
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Eastern Conference;Lindell Wigginton;1.5;3.8;40.0;0.6;1.8;35.7;1.0;2.3;44.4;0.9;2.0;43.8;1.233;0.48
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Eastern Conference;Thanasis Antetokounmpo;1.5;2.5;58.7;0.1;0.3;20.0;0.8;1.3;65.8;1.4;2.2;64.6;1.533;0.60
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Eastern Conference;Jevon Carter;1.3;3.4;36.6;0.9;1.8;50.0;0.3;0.3;100.0;0.3;1.6;21.1;1.098;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Eastern Conference;Semi Ojeleye;1.3;3.4;37.8;0.6;1.6;38.9;0.5;0.5;100.0;0.6;1.7;36.8;1.081;0.47
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Eastern Conference;Rodney Hood;1.2;3.4;36.0;0.8;2.3;32.8;0.4;0.4;90.0;0.5;1.1;42.9;1.047;0.47
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Eastern Conference;Javonte Smart;1.2;4.2;28.9;0.4;1.8;25.0;0.6;0.7;83.3;0.8;2.4;31.8;0.816;0.34
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Eastern Conference;Justin Robinson;0.8;3.5;23.8;0.6;2.3;25.0;0.2;0.2;100.0;0.3;1.2;21.4;0.690;0.32
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Eastern Conference;Georgios Kalaitzakis;0.6;1.4;40.0;0.3;0.6;50.0;0.4;1.1;37.5;0.3;0.9;33.3;1.300;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Eastern Conference;DeAndre' Bembry;0.6;1.0;60.0;0.0;0.0;0.0;0.0;0.0;0.0;0.6;1.0;60.0;1.200;0.60
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Eastern Conference;Langston Galloway;0.3;4.3;7.7;0.0;2.7;0.0;0.0;0.0;0.0;0.3;1.7;20.0;0.154;0.08
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Eastern Conference;Luke Kornet;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Eastern Conference;Jeff Dowtin Jr.;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Eastern Conference;Total;41.2;88.9;46.3;13.7;38.0;36.0;18.4;23.6;78.0;27.5;50.9;54.0;1.286;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Western Conference;Giannis Antetokounmpo;10.9;18.5;58.7;1.3;3.5;37.0;7.7;11.0;69.3;9.6;15.0;63.8;1.657;0.62
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Western Conference;Khris Middleton;7.1;16.0;44.6;2.7;6.8;38.8;4.2;4.6;91.6;4.5;9.1;48.9;1.320;0.53
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Western Conference;Jrue Holiday;7.1;13.6;52.0;1.9;4.5;41.7;2.7;3.3;82.1;5.2;9.1;57.1;1.373;0.59
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Western Conference;Bobby Portis;5.7;12.2;46.7;1.9;5.0;37.9;1.1;1.4;75.0;3.8;7.3;52.7;1.176;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Western Conference;Grayson Allen;3.9;8.8;44.3;2.6;6.4;40.6;0.6;0.7;82.4;1.3;2.4;54.1;1.244;0.59
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Western Conference;DeMarcus Cousins;4.2;8.4;50.0;0.6;3.0;20.0;1.8;2.2;81.8;3.6;5.4;66.7;1.286;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Western Conference;Pat Connaughton;3.6;7.9;45.5;2.3;6.0;38.6;0.5;0.6;73.3;1.3;1.8;68.2;1.265;0.60
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Western Conference;Brook Lopez;3.6;8.0;45.0;1.2;3.4;35.3;1.2;1.4;85.7;2.4;4.6;52.2;1.200;0.53
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Western Conference;Serge Ibaka;3.9;7.6;50.8;0.9;2.4;36.8;0.5;0.8;66.7;3.0;5.3;57.1;1.197;0.57
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Western Conference;Jordan Nwora;3.5;8.4;41.8;1.4;4.0;35.5;0.4;0.6;69.2;2.1;4.4;47.5;1.052;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Western Conference;Donte DiVincenzo;2.9;7.4;38.5;1.4;4.7;30.3;1.3;1.7;75.0;1.4;2.7;52.6;1.135;0.48
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Western Conference;Jevon Carter;3.1;4.8;65.8;1.6;2.6;61.9;0.5;0.5;100.0;1.5;2.1;70.6;1.763;0.83
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Western Conference;George Hill;2.3;5.1;45.5;0.9;2.2;40.9;1.1;1.2;91.3;1.4;2.9;49.1;1.297;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Western Conference;Greg Monroe;2.2;4.4;50.0;0.0;0.0;0.0;1.0;1.8;55.6;2.2;4.4;50.0;1.227;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Western Conference;Lindell Wigginton;1.3;2.8;45.2;0.4;1.1;33.3;1.0;1.5;64.7;0.9;1.7;52.6;1.387;0.52
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Western Conference;Justin Robinson;1.6;3.0;53.3;0.6;1.8;33.3;0.0;0.0;0.0;1.0;1.2;83.3;1.267;0.63
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Western Conference;Wesley Matthews;1.3;3.5;36.2;0.9;2.7;31.5;0.4;0.5;77.8;0.4;0.8;53.3;1.072;0.49
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Western Conference;Thanasis Antetokounmpo;1.4;2.9;49.1;0.0;0.2;0.0;0.2;0.4;50.0;1.4;2.7;53.1;1.057;0.49
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Western Conference;Rodney Hood;1.1;3.2;33.3;0.4;1.6;22.7;0.3;0.3;100.0;0.7;1.6;43.5;0.867;0.39
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Western Conference;Sandro Mamukelashvili;0.6;1.1;57.9;0.5;0.8;61.5;0.2;0.2;75.0;0.2;0.4;50.0;1.737;0.79
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Western Conference;Semi Ojeleye;0.4;3.7;12.1;0.4;2.6;17.4;0.6;0.9;62.5;0.0;1.1;0.0;0.515;0.18
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Western Conference;Georgios Kalaitzakis;0.5;0.5;100.0;0.0;0.0;0.0;0.5;0.5;100.0;0.5;0.5;100.0;3.000;1.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Western Conference;DeAndre' Bembry;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Western Conference;Javin DeLaurier;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Western Conference;Javonte Smart;0.0;1.3;0.0;0.0;0.5;0.0;0.0;0.0;0.0;0.0;0.8;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Western Conference;Total;43.0;90.3;47.6;14.8;39.2;37.6;16.8;21.8;76.8;28.2;51.0;55.3;1.301;0.56
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pre All-Star;Giannis Antetokounmpo;10.1;18.5;54.7;1.2;3.8;30.9;8.0;11.1;72.1;8.9;14.7;61.0;1.593;0.58
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pre All-Star;Khris Middleton;6.6;15.0;43.8;2.3;6.4;35.6;4.0;4.5;88.4;4.3;8.6;49.9;1.293;0.51
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pre All-Star;Jrue Holiday;7.2;14.2;50.7;1.9;4.6;40.7;1.9;2.5;75.9;5.3;9.6;55.4;1.276;0.57
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pre All-Star;Bobby Portis;6.0;12.5;48.2;1.9;4.7;40.2;1.4;1.8;75.5;4.1;7.8;53.0;1.228;0.56
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pre All-Star;Grayson Allen;4.0;9.4;42.5;2.5;6.4;39.2;1.0;1.1;85.7;1.5;3.0;49.7;1.223;0.56
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pre All-Star;Pat Connaughton;3.6;7.7;46.7;2.3;5.7;40.7;0.6;0.7;81.1;1.3;2.0;63.9;1.308;0.62
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pre All-Star;DeMarcus Cousins;3.2;6.9;46.6;0.8;2.8;27.1;1.8;2.2;81.6;2.5;4.1;60.0;1.305;0.52
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pre All-Star;Jordan Nwora;3.2;7.8;41.0;1.5;4.0;36.8;0.4;0.5;78.3;1.8;3.9;45.3;1.055;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pre All-Star;Brook Lopez;3.0;9.0;33.3;2.0;4.0;50.0;0.0;0.0;0.0;1.0;5.0;20.0;0.889;0.44
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pre All-Star;Donte DiVincenzo;2.3;6.9;33.1;1.2;4.4;28.4;1.4;1.6;85.2;1.1;2.6;40.9;1.034;0.42
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pre All-Star;George Hill;2.5;5.7;43.6;0.9;2.9;31.6;1.2;1.2;96.0;1.6;2.9;55.6;1.235;0.51
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pre All-Star;Serge Ibaka;2.7;5.7;47.1;0.7;2.3;28.6;0.7;1.0;66.7;2.0;3.3;60.0;1.176;0.53
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pre All-Star;Greg Monroe;2.2;4.4;50.0;0.0;0.0;0.0;1.0;1.8;55.6;2.2;4.4;50.0;1.227;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pre All-Star;Wesley Matthews;1.8;4.4;40.6;1.1;3.2;34.0;0.2;0.3;60.0;0.7;1.2;58.3;1.105;0.53
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pre All-Star;Lindell Wigginton;1.4;2.6;53.8;0.7;1.3;53.8;0.9;1.3;69.2;0.7;1.3;53.8;1.692;0.67
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pre All-Star;Rodney Hood;1.2;3.4;35.1;0.6;2.1;30.0;0.3;0.4;92.9;0.6;1.3;43.1;0.985;0.44
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pre All-Star;Sandro Mamukelashvili;1.1;2.5;45.9;0.4;1.1;38.5;0.3;0.4;75.0;0.7;1.4;52.2;1.200;0.55
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pre All-Star;Semi Ojeleye;0.9;3.5;25.7;0.6;2.1;26.8;0.5;0.7;76.9;0.4;1.5;24.1;0.814;0.34
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pre All-Star;Justin Robinson;1.1;3.4;31.6;0.6;2.2;27.0;0.1;0.1;100.0;0.5;1.2;40.0;0.842;0.40
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pre All-Star;Thanasis Antetokounmpo;1.1;2.3;47.7;0.0;0.3;9.1;0.4;0.6;62.5;1.1;2.0;53.3;1.140;0.48
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pre All-Star;Javonte Smart;0.8;3.3;25.6;0.3;1.4;22.2;0.4;0.5;83.3;0.5;1.9;28.0;0.721;0.30
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pre All-Star;Georgios Kalaitzakis;0.6;1.2;45.5;0.2;0.4;50.0;0.4;1.0;44.4;0.3;0.8;42.9;1.455;0.55
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pre All-Star;Langston Galloway;0.3;4.3;7.7;0.0;2.7;0.0;0.0;0.0;0.0;0.3;1.7;20.0;0.154;0.08
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pre All-Star;Luke Kornet;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pre All-Star;Javin DeLaurier;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pre All-Star;Jeff Dowtin Jr.;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Pre All-Star;Total;41.0;89.1;46.0;14.2;39.2;36.1;17.0;22.0;77.5;26.9;49.8;53.9;1.271;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Post All-Star;Giannis Antetokounmpo;10.7;18.8;56.9;0.7;3.0;24.1;8.9;12.3;72.4;10.0;15.8;63.2;1.649;0.59
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Post All-Star;Khris Middleton;7.6;16.7;45.3;2.9;7.1;41.4;3.8;4.2;90.7;4.6;9.6;48.3;1.310;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Post All-Star;Jrue Holiday;7.0;14.4;48.8;2.3;5.4;42.1;2.5;3.2;76.6;4.8;9.0;52.8;1.303;0.57
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Post All-Star;Bobby Portis;5.2;11.1;47.0;1.7;4.6;37.1;0.7;0.9;73.7;3.5;6.5;54.0;1.154;0.55
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Post All-Star;Brook Lopez;4.8;10.2;47.5;1.4;4.1;34.7;1.7;1.9;87.0;3.4;6.1;56.2;1.254;0.55
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Post All-Star;Grayson Allen;3.5;6.4;54.6;2.1;4.3;47.9;0.9;1.1;88.9;1.4;2.1;68.6;1.565;0.71
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Post All-Star;Pat Connaughton;3.0;7.4;40.7;1.9;5.7;33.3;1.4;1.5;88.2;1.1;1.6;66.7;1.259;0.54
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Post All-Star;Rayjon Tucker;2.5;3.5;71.4;1.5;1.5;100.0;1.0;1.5;66.7;1.0;2.0;50.0;2.143;0.93
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Post All-Star;Sandro Mamukelashvili;2.6;4.3;60.0;1.0;1.9;53.8;1.3;1.4;90.0;1.6;2.4;64.7;1.733;0.72
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Post All-Star;Serge Ibaka;2.9;5.4;52.9;0.7;1.9;36.7;0.6;0.8;83.3;2.2;3.6;61.4;1.299;0.59
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Post All-Star;Thanasis Antetokounmpo;2.6;3.8;69.0;0.1;0.3;33.3;1.3;2.0;63.6;2.5;3.5;71.8;1.738;0.70
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Post All-Star;Jordan Nwora;2.4;6.3;37.6;0.8;2.8;26.7;1.1;1.3;90.0;1.6;3.5;46.4;1.050;0.44
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Post All-Star;Jevon Carter;2.0;4.0;50.6;1.2;2.2;55.8;0.4;0.4;100.0;0.8;1.8;44.4;1.418;0.66
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Post All-Star;Wesley Matthews;1.7;4.6;37.9;1.1;3.2;33.3;0.8;0.9;88.9;0.7;1.4;48.1;1.172;0.49
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Post All-Star;Lindell Wigginton;1.3;3.9;34.3;0.2;1.4;15.4;1.1;2.4;45.5;1.1;2.4;45.5;1.029;0.37
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Post All-Star;George Hill;1.2;3.2;39.0;0.3;1.3;23.5;0.7;0.9;75.0;0.9;1.8;50.0;1.098;0.44
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Post All-Star;DeAndre' Bembry;0.4;1.0;37.5;0.0;0.0;0.0;0.0;0.0;0.0;0.4;1.0;37.5;0.750;0.38
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;Post All-Star;Total;44.0;90.4;48.7;13.8;36.3;38.1;19.9;25.6;77.7;30.2;54.1;55.9;1.348;0.56
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;3+ Days Rest;Giannis Antetokounmpo;10.3;18.5;55.7;1.5;3.7;39.0;9.0;12.1;74.4;8.8;14.7;59.9;1.680;0.60
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;3+ Days Rest;Bobby Portis;7.9;13.7;57.3;2.7;6.0;45.2;1.0;1.9;53.8;5.1;7.7;66.7;1.417;0.67
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;3+ Days Rest;Khris Middleton;5.8;14.2;40.6;1.7;5.8;28.8;4.7;5.3;87.5;4.1;8.4;48.7;1.258;0.46
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;3+ Days Rest;Jrue Holiday;5.4;10.3;52.4;1.6;3.6;44.4;2.0;2.7;74.1;3.8;6.7;56.7;1.398;0.60
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;3+ Days Rest;DeMarcus Cousins;4.7;8.7;53.8;0.7;3.3;20.0;1.3;1.3;100.0;4.0;5.3;75.0;1.308;0.58
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;3+ Days Rest;Jordan Nwora;3.9;9.0;43.8;1.8;4.5;38.9;0.7;0.8;91.7;2.2;4.5;48.6;1.146;0.53
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;3+ Days Rest;Grayson Allen;3.4;8.1;41.5;2.4;6.6;35.8;0.9;1.0;87.5;1.0;1.5;66.7;1.231;0.56
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;3+ Days Rest;Pat Connaughton;3.5;9.2;38.2;2.7;7.8;34.0;0.0;0.0;0.0;0.8;1.3;62.5;1.055;0.53
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;3+ Days Rest;Brook Lopez;2.0;6.5;30.8;1.5;3.5;42.9;1.5;2.0;75.0;0.5;3.0;16.7;1.077;0.42
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;3+ Days Rest;Donte DiVincenzo;2.3;8.3;27.3;1.0;5.3;19.0;0.5;0.5;100.0;1.3;3.0;41.7;0.727;0.33
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;3+ Days Rest;Serge Ibaka;2.5;4.8;52.6;0.3;1.5;16.7;0.3;0.3;100.0;2.3;3.3;69.2;1.158;0.55
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;3+ Days Rest;Greg Monroe;2.0;4.5;44.4;0.0;0.0;0.0;0.5;1.0;50.0;2.0;4.5;44.4;1.000;0.44
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;3+ Days Rest;Wesley Matthews;1.4;3.1;45.5;0.9;2.6;33.3;0.0;0.0;0.0;0.6;0.6;100.0;1.182;0.59
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;3+ Days Rest;Lindell Wigginton;1.0;2.6;39.1;0.2;1.0;22.2;1.4;2.1;68.4;0.8;1.6;50.0;1.435;0.43
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;3+ Days Rest;Semi Ojeleye;0.8;3.0;25.0;0.6;1.9;33.3;0.9;1.3;70.0;0.1;1.1;11.1;1.000;0.35
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;3+ Days Rest;Sandro Mamukelashvili;1.0;2.1;48.5;0.5;1.0;50.0;0.5;0.6;80.0;0.5;1.1;47.1;1.455;0.61
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;3+ Days Rest;Thanasis Antetokounmpo;1.2;2.1;55.3;0.0;0.2;0.0;0.5;0.7;69.2;1.2;1.9;60.0;1.342;0.55
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;3+ Days Rest;Rodney Hood;1.0;2.6;39.1;0.3;1.2;27.3;0.0;0.0;0.0;0.7;1.3;50.0;0.913;0.46
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;3+ Days Rest;Langston Galloway;1.0;6.0;16.7;0.0;3.0;0.0;0.0;0.0;0.0;1.0;3.0;33.3;0.333;0.17
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;3+ Days Rest;Javonte Smart;0.5;2.8;18.2;0.3;1.3;20.0;0.8;1.0;75.0;0.3;1.5;16.7;0.727;0.23
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;3+ Days Rest;Justin Robinson;0.5;2.0;25.0;0.5;2.0;25.0;0.0;0.0;0.0;0.0;0.0;0.0;0.750;0.38
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;3+ Days Rest;Georgios Kalaitzakis;0.3;0.8;33.3;0.3;0.3;100.0;0.5;0.5;100.0;0.0;0.5;0.0;1.667;0.50
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;3+ Days Rest;George Hill;0.1;2.4;5.9;0.0;1.4;0.0;0.4;0.6;75.0;0.1;1.0;14.3;0.294;0.06
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;3+ Days Rest;DeAndre' Bembry;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;3+ Days Rest;Luke Kornet;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;3+ Days Rest;Jevon Carter;0.0;0.3;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.3;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;3+ Days Rest;Rayjon Tucker;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;3+ Days Rest;Javin DeLaurier;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;3+ Days Rest;Jeff Dowtin Jr.;0.0;1.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.000;0.00
+Milwaukee Bucks;mil;2021 - 2022 Regular Season;3+ Days Rest;Total;43.0;91.2;47.2;15.8;42.0;37.7;18.0;23.5;76.6;27.2;49.2;55.3;1.314;0.56

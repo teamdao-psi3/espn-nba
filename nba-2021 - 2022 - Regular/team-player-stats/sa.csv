@@ -1,0 +1,925 @@
+teamName;teamCode;season;split;player_name;GP;GS;MIN;PTS;ORB;DR;REB;AST;STL;BLK;TO;PF;AST_TO
+San Antonio Spurs;sa;2021 - 2022 Regular Season;All Splits;Dejounte Murray;68;68;34.8;21.1;1.2;7.1;8.3;9.2;2.0;0.3;2.6;2.0;3.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;All Splits;Keldon Johnson;75;74;31.9;17.0;1.1;5.0;6.1;2.1;0.8;0.2;1.2;2.0;1.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;All Splits;Derrick White;49;48;30.3;14.4;0.5;3.0;3.5;5.6;1.0;0.9;1.8;2.4;3.1
+San Antonio Spurs;sa;2021 - 2022 Regular Season;All Splits;Jakob Poeltl;68;67;29.0;13.5;3.9;5.5;9.3;2.8;0.7;1.7;1.6;3.1;1.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;All Splits;Devin Vassell;71;32;27.3;12.3;0.6;3.7;4.3;1.9;1.1;0.6;0.8;2.0;2.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;All Splits;Lonnie Walker IV;70;6;23.0;12.1;0.3;2.3;2.6;2.2;0.6;0.3;1.0;1.4;2.1
+San Antonio Spurs;sa;2021 - 2022 Regular Season;All Splits;Josh Richardson;21;7;24.4;11.4;0.8;2.1;2.9;2.3;1.0;0.3;1.3;1.6;1.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;All Splits;Doug McDermott;51;51;24.0;11.3;0.4;1.9;2.3;1.3;0.3;0.1;0.8;1.5;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;All Splits;Bryn Forbes;40;1;16.9;9.1;0.1;1.5;1.6;1.0;0.4;0.1;0.8;1.1;1.2
+San Antonio Spurs;sa;2021 - 2022 Regular Season;All Splits;Zach Collins;28;4;17.9;7.8;1.6;3.8;5.5;2.2;0.5;0.8;1.6;2.4;1.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;All Splits;Thaddeus Young;26;1;14.2;6.1;1.5;2.0;3.6;2.3;0.9;0.3;1.2;1.5;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;All Splits;Tre Jones;69;11;16.6;6.0;0.4;1.8;2.2;3.4;0.6;0.1;0.7;1.1;5.1
+San Antonio Spurs;sa;2021 - 2022 Regular Season;All Splits;Joshua Primo;50;16;19.3;5.8;0.6;1.6;2.3;1.6;0.4;0.5;1.1;1.6;1.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;All Splits;Keita Bates-Diop;59;14;16.2;5.7;1.1;2.9;3.9;0.7;0.5;0.2;0.8;1.0;0.9
+San Antonio Spurs;sa;2021 - 2022 Regular Season;All Splits;Jock Landale;54;1;10.9;4.9;1.2;1.4;2.6;0.8;0.2;0.3;0.6;1.0;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;All Splits;Drew Eubanks;49;9;12.1;4.7;1.3;2.7;4.0;1.0;0.3;0.6;0.9;1.2;1.1
+San Antonio Spurs;sa;2021 - 2022 Regular Season;All Splits;Devontae Cacok;15;0;8.1;3.1;0.5;2.3;2.8;0.4;0.5;0.5;0.2;1.1;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;All Splits;Tomas Satoransky;1;0;9.0;3.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;All Splits;Romeo Langford;4;0;10.8;2.8;0.0;1.0;1.0;0.5;0.3;0.0;0.0;0.3;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;All Splits;Joe Wieskamp;29;0;7.1;2.1;0.1;0.3;0.5;0.3;0.1;0.1;0.1;0.5;4.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;All Splits;Tyler Johnson;3;0;17.7;2.0;0.7;1.3;2.0;1.7;0.7;0.7;0.3;1.0;5.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;All Splits;Juancho Hernangomez;5;0;10.2;1.4;0.8;2.2;3.0;0.6;0.2;0.2;0.4;0.0;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;All Splits;Jaylen Morris;3;0;5.3;0.7;0.0;0.7;0.7;0.7;0.0;0.0;0.3;0.7;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;All Splits;Anthony Lamb;2;0;4.0;0.0;0.0;0.5;0.5;1.0;0.0;0.0;0.0;0.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;All Splits;Total;82;"";"";113.2;11.0;34.3;45.3;27.9;7.6;4.9;12.3;18.1;2.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Home;Dejounte Murray;34;34;35.0;21.5;1.1;7.8;8.9;8.8;2.0;0.3;2.8;2.1;3.1
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Home;Keldon Johnson;38;37;30.6;16.8;0.9;4.7;5.6;2.1;0.5;0.2;1.1;2.0;1.9
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Home;Derrick White;27;26;30.7;15.1;0.5;3.5;4.0;6.0;1.0;0.9;2.0;2.4;2.9
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Home;Jakob Poeltl;33;33;29.3;14.1;4.1;5.0;9.1;2.9;0.5;1.7;1.4;3.1;2.1
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Home;Devin Vassell;36;13;26.8;12.6;0.5;3.7;4.2;1.6;1.1;0.6;0.7;2.2;2.2
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Home;Lonnie Walker IV;38;1;23.1;11.8;0.2;2.4;2.6;2.2;0.6;0.3;0.8;1.5;2.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Home;Doug McDermott;27;27;23.0;10.9;0.2;1.4;1.6;1.1;0.2;0.1;1.0;1.9;1.2
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Home;Josh Richardson;11;6;25.0;9.6;0.9;2.5;3.4;2.4;1.3;0.5;1.6;1.5;1.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Home;Bryn Forbes;18;0;15.6;8.8;0.1;1.3;1.4;0.8;0.4;0.0;0.8;1.0;1.1
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Home;Zach Collins;13;3;17.6;7.9;1.6;4.1;5.7;2.2;0.3;1.0;1.5;2.5;1.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Home;Tre Jones;34;5;16.6;5.7;0.4;1.7;2.1;3.2;0.5;0.1;0.7;1.1;4.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Home;Thaddeus Young;13;1;12.6;5.5;1.6;1.5;3.1;2.2;0.7;0.2;0.8;1.3;2.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Home;Keita Bates-Diop;29;9;16.9;5.1;1.1;2.8;3.9;0.8;0.5;0.1;0.7;1.3;1.1
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Home;Drew Eubanks;26;3;12.1;4.7;1.5;2.7;4.2;0.9;0.2;0.7;0.9;1.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Home;Jock Landale;29;1;10.7;4.6;1.2;1.6;2.8;0.9;0.2;0.3;0.6;1.0;1.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Home;Joshua Primo;26;6;16.5;4.5;0.7;1.5;2.2;1.5;0.3;0.3;1.0;1.3;1.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Home;Devontae Cacok;7;0;6.6;3.7;0.4;1.6;2.0;0.3;0.3;0.4;0.3;0.9;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Home;Romeo Langford;3;0;10.7;2.7;0.0;1.0;1.0;0.3;0.0;0.0;0.0;0.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Home;Joe Wieskamp;14;0;6.9;2.0;0.1;0.3;0.4;0.4;0.1;0.2;0.1;0.2;3.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Home;Juancho Hernangomez;3;0;8.3;1.7;0.7;1.7;2.3;0.7;0.0;0.3;0.3;0.0;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Home;Total;41;"";"";113.6;10.9;34.3;45.1;27.7;7.1;4.9;12.2;18.6;2.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Away;Dejounte Murray;34;34;34.6;20.8;1.2;6.4;7.6;9.7;2.1;0.4;2.5;2.0;3.9
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Away;Keldon Johnson;37;37;33.2;17.3;1.2;5.4;6.6;2.1;1.0;0.2;1.4;1.9;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Away;Derrick White;22;22;29.9;13.5;0.5;2.5;3.0;5.1;1.0;0.9;1.5;2.3;3.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Away;Josh Richardson;10;1;23.7;13.3;0.6;1.7;2.3;2.3;0.8;0.1;0.9;1.8;2.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Away;Jakob Poeltl;35;34;28.6;12.8;3.7;5.9;9.5;2.6;0.8;1.8;1.8;3.1;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Away;Lonnie Walker IV;32;5;23.0;12.5;0.4;2.3;2.6;2.1;0.7;0.2;1.3;1.3;1.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Away;Devin Vassell;35;19;27.8;12.0;0.7;3.7;4.4;2.3;1.0;0.5;0.9;1.8;2.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Away;Doug McDermott;24;24;25.1;11.8;0.5;2.5;3.0;1.4;0.3;0.1;0.7;1.1;1.9
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Away;Bryn Forbes;22;1;18.0;9.3;0.1;1.6;1.7;1.2;0.4;0.1;0.9;1.1;1.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Away;Zach Collins;15;1;18.2;7.7;1.7;3.6;5.3;2.2;0.6;0.7;1.7;2.3;1.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Away;Joshua Primo;24;10;22.3;7.1;0.6;1.7;2.3;1.8;0.5;0.7;1.3;1.8;1.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Away;Thaddeus Young;13;0;15.8;6.7;1.5;2.6;4.1;2.3;1.1;0.3;1.5;1.6;1.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Away;Keita Bates-Diop;30;5;15.6;6.3;1.0;2.9;4.0;0.6;0.4;0.3;0.8;0.8;0.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Away;Tre Jones;35;6;16.7;6.3;0.5;1.9;2.4;3.6;0.7;0.1;0.7;1.1;5.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Away;Jock Landale;25;0;11.1;5.2;1.1;1.1;2.2;0.8;0.1;0.2;0.6;1.0;1.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Away;Drew Eubanks;23;6;12.2;4.6;1.1;2.7;3.8;1.2;0.3;0.6;1.0;1.5;1.2
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Away;Tomas Satoransky;1;0;9.0;3.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Away;Romeo Langford;1;0;11.0;3.0;0.0;1.0;1.0;1.0;1.0;0.0;0.0;1.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Away;Devontae Cacok;8;0;9.4;2.5;0.6;2.9;3.5;0.5;0.8;0.5;0.1;1.3;4.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Away;Joe Wieskamp;15;0;7.2;2.2;0.2;0.4;0.6;0.2;0.2;0.0;0.0;0.7;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Away;Tyler Johnson;3;0;17.7;2.0;0.7;1.3;2.0;1.7;0.7;0.7;0.3;1.0;5.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Away;Juancho Hernangomez;2;0;12.5;1.0;1.0;3.0;4.0;0.5;0.5;0.0;0.5;0.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Away;Jaylen Morris;3;0;5.3;0.7;0.0;0.7;0.7;0.7;0.0;0.0;0.3;0.7;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Away;Anthony Lamb;2;0;4.0;0.0;0.0;0.5;0.5;1.0;0.0;0.0;0.0;0.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Away;Total;41;"";"";112.7;11.1;34.4;45.5;28.1;8.2;5.0;12.4;17.6;2.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Boston Celtics;Dejounte Murray;2;2;35.5;25.5;1.5;8.5;10.0;9.0;3.0;0.5;3.5;1.5;2.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Boston Celtics;Derrick White;2;2;34.0;17.0;2.0;4.0;6.0;4.5;0.0;2.0;2.5;1.5;1.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Boston Celtics;Devin Vassell;1;1;32.0;17.0;0.0;6.0;6.0;0.0;0.0;2.0;2.0;4.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Boston Celtics;Keldon Johnson;2;2;35.5;15.0;1.5;8.5;10.0;1.5;1.0;0.0;1.0;0.5;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Boston Celtics;Lonnie Walker IV;1;0;15.0;10.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;1.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Boston Celtics;Jakob Poeltl;2;2;34.5;7.5;2.0;11.0;13.0;1.0;0.5;2.0;1.0;3.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Boston Celtics;Tre Jones;2;0;13.5;7.0;0.0;1.5;1.5;1.5;0.5;0.0;1.0;1.5;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Boston Celtics;Jock Landale;1;0;13.0;6.0;1.0;1.0;2.0;0.0;0.0;0.0;3.0;1.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Boston Celtics;Bryn Forbes;2;0;23.0;5.0;0.0;1.0;1.0;0.5;1.0;0.0;1.0;2.0;0.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Boston Celtics;Keita Bates-Diop;2;1;21.5;4.0;2.0;1.5;3.5;1.0;0.5;0.0;0.5;0.5;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Boston Celtics;Thaddeus Young;1;0;6.0;0.0;0.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Boston Celtics;Drew Eubanks;1;0;7.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Boston Celtics;Joshua Primo;2;0;5.5;0.0;0.5;0.0;0.5;0.0;0.0;0.0;0.5;0.5;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Boston Celtics;Total;2;"";"";97.5;10.0;40.5;50.5;20.5;6.5;5.5;13.5;14.0;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Brooklyn Nets;Dejounte Murray;2;2;38.5;22.0;2.0;8.5;10.5;11.0;1.5;0.5;2.0;2.5;5.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Brooklyn Nets;Bryn Forbes;1;0;25.0;18.0;0.0;3.0;3.0;5.0;1.0;0.0;2.0;3.0;2.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Brooklyn Nets;Derrick White;1;1;34.0;17.0;2.0;4.0;6.0;7.0;0.0;0.0;3.0;3.0;2.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Brooklyn Nets;Lonnie Walker IV;2;1;25.5;15.0;0.5;1.5;2.0;3.0;1.0;1.5;0.5;1.0;6.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Brooklyn Nets;Keldon Johnson;1;1;32.0;14.0;0.0;7.0;7.0;2.0;0.0;0.0;1.0;2.0;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Brooklyn Nets;Jakob Poeltl;2;2;36.0;13.0;6.0;5.5;11.5;2.0;1.5;2.5;0.5;3.0;4.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Brooklyn Nets;Joshua Primo;1;1;39.0;12.0;0.0;1.0;1.0;3.0;0.0;1.0;3.0;1.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Brooklyn Nets;Devin Vassell;1;0;24.0;9.0;0.0;3.0;3.0;1.0;1.0;0.0;0.0;1.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Brooklyn Nets;Devontae Cacok;1;0;16.0;8.0;1.0;5.0;6.0;1.0;2.0;2.0;0.0;3.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Brooklyn Nets;Doug McDermott;1;1;25.0;7.0;2.0;1.0;3.0;1.0;0.0;1.0;0.0;1.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Brooklyn Nets;Keita Bates-Diop;2;1;28.0;7.0;1.0;4.5;5.5;0.0;0.5;0.5;2.0;1.5;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Brooklyn Nets;Jock Landale;2;0;11.0;7.0;1.5;0.0;1.5;2.5;0.0;0.0;0.5;0.0;5.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Brooklyn Nets;Tyler Johnson;1;0;19.0;3.0;0.0;1.0;1.0;0.0;2.0;1.0;0.0;1.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Brooklyn Nets;Joe Wieskamp;1;0;3.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Brooklyn Nets;Drew Eubanks;1;0;7.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Brooklyn Nets;Juancho Hernangomez;1;0;2.0;0.0;1.0;0.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Brooklyn Nets;Tre Jones;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Brooklyn Nets;Total;2;"";"";110.5;14.0;32.5;46.5;28.5;7.5;7.5;10.5;16.0;2.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. New York Knicks;Derrick White;1;1;34.0;26.0;0.0;6.0;6.0;7.0;0.0;0.0;3.0;2.0;2.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. New York Knicks;Dejounte Murray;2;2;32.5;19.5;1.0;4.5;5.5;6.0;1.5;0.5;1.5;2.0;4.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. New York Knicks;Doug McDermott;1;1;25.0;13.0;0.0;0.0;0.0;3.0;0.0;0.0;1.0;3.0;3.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. New York Knicks;Jakob Poeltl;2;2;27.0;12.5;5.5;3.5;9.0;4.0;0.0;2.5;1.5;3.5;2.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. New York Knicks;Lonnie Walker IV;2;1;21.5;9.0;0.5;2.5;3.0;2.0;0.5;0.0;1.5;0.5;1.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. New York Knicks;Bryn Forbes;2;0;19.5;8.5;0.5;0.5;1.0;0.5;1.0;0.0;0.5;2.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. New York Knicks;Keita Bates-Diop;2;1;20.0;6.5;2.0;4.0;6.0;1.0;0.5;0.0;0.0;1.5;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. New York Knicks;Drew Eubanks;2;0;18.0;6.0;2.0;2.0;4.0;0.0;1.0;0.5;1.0;1.5;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. New York Knicks;Devontae Cacok;1;0;23.0;6.0;1.0;9.0;10.0;0.0;1.0;2.0;0.0;1.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. New York Knicks;Joshua Primo;2;1;21.5;5.5;0.0;1.5;1.5;2.5;0.5;0.5;0.5;1.0;5.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. New York Knicks;Jock Landale;1;0;3.0;5.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. New York Knicks;Keldon Johnson;1;1;16.0;5.0;2.0;3.0;5.0;1.0;1.0;0.0;1.0;1.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. New York Knicks;Tre Jones;1;0;12.0;4.0;0.0;1.0;1.0;1.0;0.0;0.0;1.0;2.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. New York Knicks;Joe Wieskamp;2;0;7.0;3.5;0.0;0.5;0.5;0.0;0.0;0.0;0.0;1.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. New York Knicks;Tyler Johnson;1;0;22.0;3.0;0.0;3.0;3.0;3.0;0.0;1.0;0.0;1.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. New York Knicks;Jaylen Morris;1;0;7.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0;1.0;0.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. New York Knicks;Anthony Lamb;1;0;4.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. New York Knicks;Total;2;"";"";102.5;13.0;30.0;43.0;24.5;6.0;5.5;10.0;18.0;2.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Dejounte Murray;2;2;37.0;23.0;1.5;5.5;7.0;10.5;2.0;0.5;5.0;2.5;2.1
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Jakob Poeltl;2;2;34.5;21.0;3.0;5.0;8.0;1.5;0.5;2.5;0.5;3.0;3.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Keldon Johnson;1;1;33.0;17.0;0.0;3.0;3.0;3.0;0.0;1.0;0.0;1.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Devin Vassell;1;0;20.0;15.0;1.0;3.0;4.0;1.0;0.0;0.0;0.0;3.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Lonnie Walker IV;2;0;22.0;13.5;0.0;3.0;3.0;2.0;0.0;0.0;1.5;1.5;1.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Derrick White;1;1;33.0;10.0;2.0;5.0;7.0;9.0;1.0;0.0;1.0;1.0;9.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Doug McDermott;1;1;28.0;9.0;0.0;1.0;1.0;1.0;2.0;0.0;1.0;2.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Joshua Primo;1;1;25.0;9.0;1.0;1.0;2.0;2.0;1.0;1.0;2.0;4.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Bryn Forbes;1;1;31.0;7.0;1.0;4.0;5.0;3.0;1.0;1.0;0.0;2.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Keita Bates-Diop;2;1;21.0;4.5;0.5;3.0;3.5;0.0;0.0;0.0;0.0;1.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Jock Landale;2;0;10.5;4.0;0.0;1.5;1.5;0.0;0.0;1.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Drew Eubanks;2;0;11.5;3.0;2.5;1.5;4.0;1.0;0.0;0.0;0.5;1.5;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Devontae Cacok;1;0;4.0;2.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Jaylen Morris;1;0;4.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Joe Wieskamp;1;0;12.0;1.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;1.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Tyler Johnson;1;0;12.0;0.0;2.0;0.0;2.0;2.0;0.0;0.0;1.0;1.0;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Anthony Lamb;1;0;4.0;0.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;0.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Philadelphia 76ers;Total;2;"";"";104.5;11.5;29.5;41.0;26.0;5.0;5.5;10.0;18.0;2.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Toronto Raptors;Dejounte Murray;1;1;34.0;25.0;1.0;8.0;9.0;12.0;2.0;0.0;2.0;1.0;6.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Toronto Raptors;Keldon Johnson;2;2;32.0;16.5;1.0;5.0;6.0;2.5;0.5;0.5;2.0;2.5;1.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Toronto Raptors;Jakob Poeltl;2;2;28.0;15.0;4.5;7.5;12.0;3.0;0.0;0.5;2.5;2.0;1.2
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Toronto Raptors;Joshua Primo;1;0;28.0;15.0;2.0;3.0;5.0;4.0;0.0;2.0;2.0;1.0;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Toronto Raptors;Lonnie Walker IV;1;0;27.0;13.0;0.0;2.0;2.0;2.0;0.0;0.0;0.0;2.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Toronto Raptors;Derrick White;1;1;22.0;12.0;0.0;4.0;4.0;3.0;2.0;1.0;2.0;4.0;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Toronto Raptors;Devin Vassell;2;2;28.5;11.5;0.5;1.5;2.0;2.0;1.5;0.0;1.5;3.0;1.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Toronto Raptors;Doug McDermott;1;1;23.0;7.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;2.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Toronto Raptors;Keita Bates-Diop;1;0;16.0;7.0;4.0;3.0;7.0;1.0;0.0;0.0;2.0;1.0;0.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Toronto Raptors;Joe Wieskamp;2;0;7.5;6.5;0.5;0.0;0.5;0.5;0.5;0.0;0.0;0.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Toronto Raptors;Drew Eubanks;1;0;12.0;6.0;1.0;4.0;5.0;0.0;1.0;0.0;1.0;1.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Toronto Raptors;Tre Jones;2;1;21.5;4.5;0.0;1.0;1.0;4.0;0.5;0.0;2.0;1.5;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Toronto Raptors;Bryn Forbes;1;0;21.0;4.0;0.0;3.0;3.0;1.0;0.0;0.0;2.0;2.0;0.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Toronto Raptors;Zach Collins;1;0;10.0;4.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Toronto Raptors;Josh Richardson;1;0;19.0;3.0;0.0;1.0;1.0;2.0;0.0;2.0;1.0;2.0;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Toronto Raptors;Jock Landale;2;0;14.0;2.0;1.5;1.0;2.5;0.5;0.0;0.0;1.0;2.5;0.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Toronto Raptors;Jaylen Morris;1;0;6.0;0.0;0.0;2.0;2.0;1.0;0.0;0.0;0.0;1.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Toronto Raptors;Total;2;"";"";104.0;12.0;31.0;43.0;25.5;5.5;3.5;16.0;20.5;1.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Chicago Bulls;Dejounte Murray;2;2;36.5;24.0;0.0;7.5;7.5;11.5;2.5;0.0;3.5;2.5;3.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Chicago Bulls;Keldon Johnson;2;2;35.5;18.0;0.5;5.0;5.5;2.0;0.5;0.0;0.5;2.0;4.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Chicago Bulls;Jakob Poeltl;2;2;31.0;17.0;3.5;6.5;10.0;4.0;0.0;0.5;1.0;3.5;4.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Chicago Bulls;Lonnie Walker IV;2;0;24.0;16.0;1.0;2.0;3.0;1.5;0.5;0.0;0.0;0.5;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Chicago Bulls;Doug McDermott;2;2;26.0;15.0;0.0;2.5;2.5;1.0;0.0;0.0;0.5;0.5;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Chicago Bulls;Derrick White;1;1;33.0;14.0;0.0;4.0;4.0;9.0;0.0;0.0;1.0;5.0;9.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Chicago Bulls;Zach Collins;1;0;18.0;9.0;0.0;2.0;2.0;2.0;1.0;1.0;0.0;2.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Chicago Bulls;Keita Bates-Diop;1;0;13.0;8.0;0.0;3.0;3.0;1.0;1.0;0.0;0.0;1.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Chicago Bulls;Devin Vassell;2;1;23.0;8.0;0.0;2.0;2.0;1.5;0.5;0.5;0.5;2.5;3.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Chicago Bulls;Drew Eubanks;1;0;16.0;4.0;4.0;2.0;6.0;2.0;0.0;0.0;1.0;2.0;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Chicago Bulls;Joshua Primo;2;0;16.5;3.5;0.0;0.5;0.5;0.0;0.5;0.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Chicago Bulls;Tre Jones;2;0;7.5;1.0;0.0;0.0;0.0;3.0;0.5;0.0;0.0;0.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Chicago Bulls;Total;2;"";"";120.0;7.0;31.5;38.5;31.5;6.0;1.5;7.0;16.5;4.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Dejounte Murray;2;2;34.5;23.0;2.0;8.0;10.0;8.5;0.0;0.0;2.0;2.5;4.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Keldon Johnson;2;2;32.0;18.0;3.5;2.5;6.0;1.5;0.5;0.0;1.5;1.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Derrick White;1;1;32.0;17.0;1.0;3.0;4.0;3.0;2.0;1.0;1.0;3.0;3.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Bryn Forbes;1;0;17.0;15.0;0.0;0.0;0.0;2.0;0.0;0.0;0.0;3.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Devin Vassell;2;1;28.0;14.0;0.5;3.5;4.0;1.5;2.0;0.0;1.5;4.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Doug McDermott;2;2;26.0;6.5;0.5;2.5;3.0;0.0;0.5;0.0;2.0;1.5;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Keita Bates-Diop;2;0;10.0;6.0;1.0;1.0;2.0;0.0;0.5;0.0;0.5;0.5;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Lonnie Walker IV;2;0;20.0;5.5;0.0;0.5;0.5;4.0;0.0;0.0;0.0;2.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Zach Collins;1;0;18.0;5.0;3.0;4.0;7.0;3.0;1.0;0.0;2.0;4.0;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Jakob Poeltl;2;2;30.5;3.5;2.5;9.0;11.5;2.0;2.0;3.0;2.5;3.0;0.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Joshua Primo;2;0;16.0;3.0;0.5;1.0;1.5;0.5;0.0;0.5;2.5;1.0;0.2
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Jock Landale;2;0;8.0;2.5;0.0;1.5;1.5;1.0;0.0;0.5;0.0;0.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Drew Eubanks;1;0;2.0;0.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Cleveland Cavaliers;Total;2;"";"";100.5;12.5;34.0;46.5;23.0;7.0;4.5;14.0;20.5;1.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Detroit Pistons;Keldon Johnson;2;2;31.0;19.5;1.5;4.5;6.0;1.0;0.5;0.0;2.5;4.0;0.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Detroit Pistons;Bryn Forbes;2;0;28.5;18.0;0.0;4.5;4.5;2.0;0.5;0.0;0.0;1.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Detroit Pistons;Jakob Poeltl;2;2;26.0;14.5;3.5;4.5;8.0;3.5;0.5;0.5;4.5;4.0;0.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Detroit Pistons;Devin Vassell;2;1;30.0;13.5;0.0;4.0;4.0;3.0;3.0;0.5;2.0;2.5;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Detroit Pistons;Doug McDermott;1;1;19.0;13.0;0.0;3.0;3.0;3.0;0.0;0.0;0.0;1.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Detroit Pistons;Jock Landale;2;0;17.0;13.0;2.0;2.5;4.5;1.5;0.0;1.0;1.0;2.5;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Detroit Pistons;Derrick White;2;2;29.0;12.5;0.5;2.5;3.0;12.0;1.0;0.5;3.0;3.0;4.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Detroit Pistons;Tre Jones;2;1;26.5;11.5;1.5;4.5;6.0;7.0;0.0;0.0;1.0;2.0;7.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Detroit Pistons;Keita Bates-Diop;1;1;25.0;10.0;1.0;5.0;6.0;2.0;0.0;0.0;0.0;2.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Detroit Pistons;Lonnie Walker IV;1;0;19.0;8.0;0.0;2.0;2.0;0.0;0.0;0.0;0.0;2.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Detroit Pistons;Joshua Primo;2;0;15.5;5.5;0.5;4.0;4.5;1.5;1.0;0.0;1.5;2.5;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Detroit Pistons;Drew Eubanks;2;0;7.5;4.0;0.5;3.0;3.5;0.0;0.0;0.5;1.0;2.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Detroit Pistons;Devontae Cacok;1;0;8.0;2.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;3.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Detroit Pistons;Joe Wieskamp;2;0;6.0;1.5;0.5;0.0;0.5;0.5;0.5;0.5;0.0;0.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Detroit Pistons;Total;2;"";"";130.0;11.0;39.0;50.0;34.5;7.0;4.0;17.0;27.5;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Indiana Pacers;Jock Landale;2;0;20.0;18.0;2.5;1.5;4.0;1.5;1.0;0.0;0.5;0.5;3.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Indiana Pacers;Devin Vassell;2;1;32.0;17.0;1.0;4.0;5.0;3.0;1.5;0.5;1.5;2.0;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Indiana Pacers;Josh Richardson;1;1;36.0;16.0;3.0;4.0;7.0;4.0;1.0;1.0;1.0;3.0;4.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Indiana Pacers;Dejounte Murray;1;1;26.0;16.0;0.0;2.0;2.0;6.0;1.0;0.0;0.0;1.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Indiana Pacers;Lonnie Walker IV;2;1;29.5;15.0;0.0;5.0;5.0;2.0;0.0;0.0;1.5;0.0;1.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Indiana Pacers;Derrick White;1;1;27.0;13.0;0.0;2.0;2.0;7.0;0.0;0.0;0.0;2.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Indiana Pacers;Jakob Poeltl;1;1;22.0;11.0;3.0;3.0;6.0;1.0;0.0;1.0;2.0;1.0;0.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Indiana Pacers;Bryn Forbes;1;0;19.0;10.0;0.0;0.0;0.0;1.0;0.0;0.0;2.0;1.0;0.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Indiana Pacers;Zach Collins;1;1;20.0;9.0;2.0;3.0;5.0;2.0;0.0;1.0;1.0;4.0;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Indiana Pacers;Tre Jones;2;1;27.5;9.0;1.0;4.5;5.5;8.0;1.0;0.5;0.5;0.5;16.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Indiana Pacers;Keldon Johnson;1;1;23.0;9.0;3.0;2.0;5.0;4.0;1.0;0.0;3.0;1.0;1.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Indiana Pacers;Keita Bates-Diop;2;0;16.5;6.0;0.5;4.5;5.0;0.0;0.0;0.5;1.0;0.5;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Indiana Pacers;Doug McDermott;1;1;3.0;5.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Indiana Pacers;Drew Eubanks;1;0;5.0;3.0;0.0;2.0;2.0;0.0;1.0;1.0;1.0;1.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Indiana Pacers;Thaddeus Young;1;0;15.0;2.0;0.0;3.0;3.0;5.0;1.0;0.0;2.0;1.0;2.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Indiana Pacers;Joshua Primo;1;0;31.0;2.0;2.0;5.0;7.0;3.0;0.0;0.0;3.0;2.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Indiana Pacers;Total;2;"";"";113.0;11.5;32.5;44.0;31.0;6.0;3.5;13.0;12.0;2.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Doug McDermott;1;1;32.0;25.0;0.0;4.0;4.0;2.0;0.0;0.0;0.0;0.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Dejounte Murray;2;2;35.5;16.5;0.0;7.0;7.0;8.0;2.0;0.0;1.0;1.5;8.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Keldon Johnson;2;2;30.5;16.0;0.0;6.5;6.5;2.5;1.0;0.5;1.0;2.0;2.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Derrick White;2;2;32.5;15.5;0.0;2.0;2.0;6.0;2.0;1.0;1.5;2.5;4.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Lonnie Walker IV;2;1;22.5;10.5;0.0;2.5;2.5;3.0;1.0;0.0;2.5;1.0;1.2
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Thaddeus Young;1;0;15.0;10.0;5.0;3.0;8.0;3.0;2.0;0.0;0.0;2.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Bryn Forbes;2;0;19.5;9.5;0.5;1.0;1.5;0.0;0.5;0.0;0.5;1.5;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Jakob Poeltl;2;2;29.0;9.0;4.0;3.0;7.0;3.5;1.5;1.0;1.5;3.5;2.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Devin Vassell;2;0;21.5;4.0;1.0;4.5;5.5;1.0;1.0;0.0;1.0;2.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Drew Eubanks;2;0;11.0;3.0;0.5;2.0;2.5;1.0;0.0;1.0;1.0;0.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Keita Bates-Diop;2;0;9.0;2.0;0.0;2.0;2.0;0.5;1.0;0.0;0.0;0.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Tre Jones;2;0;5.0;2.0;0.0;0.5;0.5;0.5;0.0;0.0;0.0;0.5;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Joshua Primo;1;0;1.0;2.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Jock Landale;2;0;0.5;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Milwaukee Bucks;Total;2;"";"";106.5;9.0;34.5;43.5;28.5;11.0;3.5;10.5;15.5;2.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Atlanta Hawks;Dejounte Murray;2;2;33.0;27.0;1.5;7.5;9.0;13.0;3.0;0.0;2.0;1.5;6.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Atlanta Hawks;Bryn Forbes;1;0;24.0;23.0;0.0;3.0;3.0;1.0;1.0;0.0;1.0;1.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Atlanta Hawks;Keldon Johnson;2;2;34.0;20.5;0.5;4.0;4.5;3.0;0.5;0.0;0.5;1.5;6.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Atlanta Hawks;Jakob Poeltl;2;2;28.0;13.5;3.0;4.5;7.5;2.0;0.5;2.0;2.0;1.5;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Atlanta Hawks;Doug McDermott;1;1;26.0;13.0;0.0;3.0;3.0;1.0;2.0;0.0;2.0;2.0;0.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Atlanta Hawks;Joshua Primo;1;0;28.0;13.0;1.0;1.0;2.0;3.0;0.0;1.0;1.0;4.0;3.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Atlanta Hawks;Devin Vassell;2;1;25.5;11.5;1.0;3.0;4.0;2.5;1.5;0.5;0.0;1.5;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Atlanta Hawks;Derrick White;1;1;30.0;7.0;1.0;1.0;2.0;3.0;2.0;2.0;2.0;3.0;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Atlanta Hawks;Thaddeus Young;1;0;8.0;6.0;2.0;2.0;4.0;0.0;0.0;0.0;1.0;2.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Atlanta Hawks;Tre Jones;2;0;12.5;5.5;0.0;1.0;1.0;3.0;0.5;0.0;0.5;0.5;6.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Atlanta Hawks;Zach Collins;1;0;17.0;5.0;0.0;4.0;4.0;2.0;0.0;0.0;1.0;1.0;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Atlanta Hawks;Drew Eubanks;1;0;6.0;4.0;2.0;0.0;2.0;1.0;0.0;0.0;0.0;0.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Atlanta Hawks;Lonnie Walker IV;2;0;17.0;3.5;0.0;3.0;3.0;2.5;0.0;0.0;1.5;2.5;1.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Atlanta Hawks;Keita Bates-Diop;2;1;12.5;2.0;0.5;1.5;2.0;0.0;1.0;0.0;1.5;1.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Atlanta Hawks;Jock Landale;2;0;4.5;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.5;1.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Atlanta Hawks;Devontae Cacok;1;0;4.0;0.0;0.0;2.0;2.0;0.0;0.0;0.0;1.0;1.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Atlanta Hawks;Joe Wieskamp;1;0;4.0;0.0;1.0;0.0;1.0;1.0;0.0;0.0;0.0;1.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Atlanta Hawks;Total;2;"";"";121.0;10.0;32.5;42.5;32.0;9.5;4.0;13.0;18.5;2.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Charlotte Hornets;Keldon Johnson;2;2;34.5;27.0;1.5;4.0;5.5;1.5;0.0;0.0;1.0;2.0;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Charlotte Hornets;Bryn Forbes;1;0;19.0;25.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;0.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Charlotte Hornets;Derrick White;1;1;31.0;18.0;0.0;6.0;6.0;7.0;0.0;0.0;2.0;3.0;3.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Charlotte Hornets;Dejounte Murray;2;2;35.0;17.5;1.0;6.5;7.5;9.5;2.0;0.0;1.5;2.0;6.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Charlotte Hornets;Devin Vassell;2;1;26.5;12.0;1.0;2.0;3.0;0.0;1.0;1.0;1.0;0.5;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Charlotte Hornets;Jakob Poeltl;2;2;27.0;10.0;1.5;3.0;4.5;1.5;1.0;1.0;1.5;2.5;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Charlotte Hornets;Joshua Primo;1;0;25.0;10.0;4.0;2.0;6.0;2.0;0.0;0.0;0.0;2.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Charlotte Hornets;Doug McDermott;2;2;22.5;9.0;1.0;1.5;2.5;1.5;1.0;0.0;0.5;2.0;3.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Charlotte Hornets;Zach Collins;1;0;18.0;5.0;2.0;8.0;10.0;2.0;0.0;3.0;1.0;4.0;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Charlotte Hornets;Lonnie Walker IV;1;0;18.0;5.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;1.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Charlotte Hornets;Jock Landale;1;0;6.0;4.0;2.0;2.0;4.0;1.0;0.0;1.0;1.0;0.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Charlotte Hornets;Tre Jones;2;0;18.5;4.0;0.0;3.5;3.5;5.0;0.0;0.0;0.5;0.5;10.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Charlotte Hornets;Thaddeus Young;1;0;4.0;2.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Charlotte Hornets;Keita Bates-Diop;2;0;11.5;2.0;1.5;1.0;2.5;2.0;0.5;0.0;1.0;1.0;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Charlotte Hornets;Drew Eubanks;1;0;7.0;0.0;0.0;3.0;3.0;0.0;0.0;1.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Charlotte Hornets;Total;2;"";"";116.0;12.0;32.5;44.5;27.5;6.0;4.5;9.0;16.0;3.1
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Miami Heat;Derrick White;1;1;22.0;22.0;0.0;4.0;4.0;2.0;0.0;0.0;6.0;2.0;0.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Miami Heat;Keita Bates-Diop;1;1;34.0;22.0;0.0;11.0;11.0;3.0;1.0;0.0;1.0;1.0;3.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Miami Heat;Tre Jones;2;2;35.5;17.5;0.0;3.5;3.5;7.0;1.5;0.0;1.5;4.5;4.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Miami Heat;Lonnie Walker IV;2;0;25.0;14.5;0.5;2.0;2.5;1.0;1.5;0.0;1.5;2.5;0.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Miami Heat;Devin Vassell;2;2;25.0;14.5;0.5;3.5;4.0;3.5;1.5;0.5;2.0;1.0;1.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Miami Heat;Jock Landale;1;0;26.0;14.0;3.0;0.0;3.0;2.0;0.0;0.0;3.0;5.0;0.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Miami Heat;Josh Richardson;1;0;26.0;10.0;3.0;1.0;4.0;4.0;0.0;0.0;1.0;4.0;4.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Miami Heat;Thaddeus Young;1;1;24.0;7.0;5.0;3.0;8.0;3.0;2.0;0.0;3.0;2.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Miami Heat;Drew Eubanks;1;0;17.0;7.0;2.0;3.0;5.0;1.0;0.0;1.0;1.0;2.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Miami Heat;Keldon Johnson;1;1;24.0;7.0;0.0;3.0;3.0;3.0;0.0;0.0;1.0;2.0;3.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Miami Heat;Devontae Cacok;2;0;11.0;6.0;1.0;5.0;6.0;1.5;1.0;1.0;0.0;0.5;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Miami Heat;Joshua Primo;2;0;21.0;5.5;1.5;1.0;2.5;2.0;0.0;0.5;2.0;5.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Miami Heat;Juancho Hernangomez;1;0;22.0;5.0;1.0;5.0;6.0;2.0;0.0;1.0;0.0;0.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Miami Heat;Zach Collins;1;1;17.0;5.0;3.0;4.0;7.0;2.0;0.0;0.0;5.0;3.0;0.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Miami Heat;Doug McDermott;1;1;20.0;4.0;0.0;1.0;1.0;2.0;0.0;0.0;1.0;2.0;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Miami Heat;Joe Wieskamp;2;0;6.0;2.5;0.0;0.0;0.0;0.0;0.0;0.0;0.5;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Miami Heat;Total;2;"";"";112.0;12.0;32.5;44.5;27.0;7.0;3.0;18.5;25.0;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Orlando Magic;Dejounte Murray;2;2;33.5;17.5;0.0;8.5;8.5;7.5;3.5;0.5;3.0;2.0;2.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Orlando Magic;Keldon Johnson;2;2;30.5;17.5;1.5;5.0;6.5;1.5;0.5;0.0;2.0;1.5;0.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Orlando Magic;Devin Vassell;2;0;25.5;15.5;0.0;2.0;2.0;3.0;2.5;0.5;0.5;2.5;6.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Orlando Magic;Derrick White;2;2;31.5;14.0;0.5;6.5;7.0;4.0;0.5;0.5;1.0;1.5;4.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Orlando Magic;Thaddeus Young;1;0;26.0;12.0;0.0;4.0;4.0;5.0;2.0;3.0;3.0;4.0;1.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Orlando Magic;Jakob Poeltl;1;1;30.0;12.0;8.0;5.0;13.0;7.0;0.0;0.0;1.0;3.0;7.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Orlando Magic;Lonnie Walker IV;2;0;20.5;12.0;0.0;4.0;4.0;1.5;0.5;0.5;0.5;3.0;3.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Orlando Magic;Doug McDermott;2;2;24.0;11.0;0.0;1.5;1.5;1.0;0.0;0.0;0.5;1.5;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Orlando Magic;Keita Bates-Diop;2;0;13.0;4.5;0.5;1.5;2.0;0.0;0.0;0.0;0.5;1.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Orlando Magic;Drew Eubanks;2;1;17.5;3.5;2.0;3.0;5.0;2.0;1.0;1.0;0.5;1.5;4.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Orlando Magic;Tre Jones;2;0;6.5;3.0;0.0;0.0;0.0;0.5;0.0;0.0;0.0;0.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Orlando Magic;Joshua Primo;1;0;5.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Orlando Magic;Jock Landale;1;0;4.0;1.0;1.0;0.0;1.0;1.0;0.0;1.0;0.0;0.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Orlando Magic;Bryn Forbes;2;0;5.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Orlando Magic;Total;2;"";"";112.5;9.0;36.5;45.5;27.5;9.5;5.0;10.5;18.0;2.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Washington Wizards;Dejounte Murray;2;2;38.5;26.5;2.0;9.5;11.5;11.0;0.0;0.0;3.5;2.0;3.1
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Washington Wizards;Derrick White;1;1;33.0;24.0;2.0;3.0;5.0;5.0;1.0;1.0;1.0;1.0;5.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Washington Wizards;Keldon Johnson;2;2;40.5;22.5;1.5;4.5;6.0;2.0;0.0;0.0;0.5;2.5;4.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Washington Wizards;Jakob Poeltl;2;2;33.0;21.0;6.5;4.5;11.0;4.5;0.5;2.0;0.5;1.5;9.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Washington Wizards;Lonnie Walker IV;2;0;29.5;13.0;0.5;4.0;4.5;1.5;0.5;0.5;2.0;4.0;0.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Washington Wizards;Doug McDermott;1;1;27.0;12.0;1.0;0.0;1.0;2.0;0.0;0.0;0.0;0.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Washington Wizards;Devin Vassell;1;1;42.0;12.0;1.0;7.0;8.0;4.0;2.0;0.0;0.0;5.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Washington Wizards;Thaddeus Young;1;0;13.0;10.0;1.0;2.0;3.0;2.0;1.0;0.0;0.0;1.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Washington Wizards;Bryn Forbes;1;0;18.0;10.0;0.0;4.0;4.0;2.0;0.0;0.0;2.0;1.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Washington Wizards;Keita Bates-Diop;2;1;16.0;6.0;0.5;1.0;1.5;1.0;0.5;0.0;1.0;1.5;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Washington Wizards;Joshua Primo;1;0;12.0;6.0;0.0;2.0;2.0;1.0;0.0;0.0;0.0;1.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Washington Wizards;Zach Collins;1;0;16.0;4.0;3.0;0.0;3.0;1.0;2.0;1.0;2.0;2.0;0.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Washington Wizards;Tre Jones;2;0;14.5;4.0;0.0;0.5;0.5;2.0;0.5;0.0;2.0;1.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Washington Wizards;Tomas Satoransky;1;0;9.0;3.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Washington Wizards;Jock Landale;1;0;2.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Washington Wizards;Drew Eubanks;1;0;9.0;2.0;0.0;2.0;2.0;1.0;0.0;2.0;3.0;1.0;0.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Washington Wizards;Devontae Cacok;1;0;2.0;2.0;1.0;1.0;2.0;1.0;0.0;0.0;0.0;0.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Washington Wizards;Joe Wieskamp;1;0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Washington Wizards;Total;2;"";"";136.5;15.5;35.0;50.5;31.5;5.0;4.5;13.5;18.5;2.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Denver Nuggets;Keldon Johnson;3;3;30.3;20.3;0.0;5.3;5.3;2.0;1.0;0.0;0.7;3.0;3.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Denver Nuggets;Josh Richardson;1;0;25.0;18.0;0.0;2.0;2.0;1.0;2.0;0.0;1.0;1.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Denver Nuggets;Derrick White;3;3;31.3;16.3;0.0;3.3;3.3;5.0;1.3;1.3;1.7;1.7;3.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Denver Nuggets;Dejounte Murray;3;3;31.0;13.7;1.3;6.0;7.3;6.3;1.7;0.3;4.7;3.0;1.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Denver Nuggets;Zach Collins;1;0;25.0;13.0;3.0;4.0;7.0;3.0;1.0;0.0;1.0;2.0;3.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Denver Nuggets;Devin Vassell;4;1;23.8;12.5;0.8;4.8;5.5;2.3;1.0;0.8;0.3;1.0;9.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Denver Nuggets;Lonnie Walker IV;4;0;22.3;12.3;0.0;3.5;3.5;2.0;0.5;0.0;1.0;0.5;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Denver Nuggets;Jakob Poeltl;4;4;24.0;11.0;3.0;3.8;6.8;3.8;0.3;0.8;2.8;3.8;1.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Denver Nuggets;Keita Bates-Diop;3;1;21.7;8.3;2.0;3.3;5.3;0.7;0.7;0.0;1.3;2.7;0.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Denver Nuggets;Doug McDermott;3;3;24.3;7.3;0.0;2.3;2.3;0.3;0.0;0.0;1.0;1.0;0.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Denver Nuggets;Drew Eubanks;3;0;16.7;6.7;1.0;3.3;4.3;1.3;0.0;1.0;1.7;2.0;0.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Denver Nuggets;Tre Jones;4;1;17.5;6.5;1.0;2.8;3.8;5.0;0.3;0.3;0.5;0.5;10.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Denver Nuggets;Bryn Forbes;3;0;12.0;5.7;0.3;0.7;1.0;1.0;0.0;0.0;1.3;0.7;0.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Denver Nuggets;Thaddeus Young;3;0;9.7;3.0;1.3;1.0;2.3;1.7;0.3;0.0;0.7;0.7;2.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Denver Nuggets;Joshua Primo;2;1;13.0;1.5;0.0;2.0;2.0;2.0;0.0;0.5;0.5;0.0;4.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Denver Nuggets;Joe Wieskamp;1;0;3.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Denver Nuggets;Total;4;"";"";111.8;10.0;36.5;46.5;28.8;6.5;4.0;15.0;17.5;1.9
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Keldon Johnson;3;3;32.7;22.0;1.0;5.0;6.0;4.0;0.3;0.3;0.7;2.3;6.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Dejounte Murray;2;2;34.0;18.5;1.0;5.0;6.0;8.0;0.5;1.0;4.0;3.5;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Devin Vassell;3;2;28.3;17.7;0.3;2.7;3.0;1.3;1.7;1.3;1.0;1.0;1.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Lonnie Walker IV;2;0;24.5;17.0;0.0;2.5;2.5;2.5;0.5;1.0;2.0;1.0;1.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Jakob Poeltl;3;2;25.0;12.7;2.0;5.7;7.7;1.7;0.0;2.3;1.0;3.7;1.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Doug McDermott;1;1;25.0;11.0;2.0;2.0;4.0;0.0;0.0;0.0;1.0;1.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Zach Collins;2;0;17.5;9.0;0.5;3.5;4.0;1.5;0.0;2.5;1.5;2.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Bryn Forbes;1;0;20.0;8.0;0.0;2.0;2.0;2.0;1.0;0.0;0.0;0.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Keita Bates-Diop;2;0;16.5;8.0;2.5;3.0;5.5;1.0;0.0;0.0;1.0;0.5;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Tre Jones;3;1;20.7;8.0;0.7;2.0;2.7;6.0;0.7;0.0;1.7;2.7;3.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Joshua Primo;2;1;23.0;7.5;0.5;1.5;2.0;3.5;0.0;0.0;1.5;1.5;2.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Josh Richardson;2;1;24.5;6.5;0.5;2.5;3.0;3.5;1.0;0.0;2.0;2.0;1.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Drew Eubanks;1;1;21.0;6.0;3.0;4.0;7.0;2.0;1.0;1.0;1.0;0.0;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Derrick White;1;1;23.0;4.0;1.0;1.0;2.0;4.0;1.0;0.0;0.0;2.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Jock Landale;1;0;3.0;3.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Romeo Langford;1;0;11.0;3.0;0.0;1.0;1.0;1.0;1.0;0.0;0.0;1.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Joe Wieskamp;2;0;6.0;0.5;0.0;0.5;0.5;0.0;0.0;0.0;0.0;1.5;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Thaddeus Young;1;0;4.0;0.0;0.0;0.0;0.0;2.0;1.0;0.0;0.0;0.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Devontae Cacok;1;0;2.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Minnesota Timberwolves;Total;3;"";"";116.7;9.3;31.7;41.0;30.0;5.7;7.3;13.0;19.3;2.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Keldon Johnson;4;4;32.8;19.8;0.8;4.3;5.0;2.3;1.5;0.5;1.5;1.8;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Dejounte Murray;4;4;34.5;19.3;2.0;6.5;8.5;10.8;2.8;0.3;2.0;1.3;5.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Jakob Poeltl;3;3;29.0;16.0;4.7;8.3;13.0;3.3;0.7;2.3;2.3;3.0;1.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Doug McDermott;3;3;20.7;15.3;0.7;1.3;2.0;0.0;0.0;0.0;0.3;1.7;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Lonnie Walker IV;4;0;25.3;13.8;0.3;2.8;3.0;2.0;1.0;0.5;0.8;1.5;2.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Devin Vassell;4;2;28.3;10.8;0.5;4.0;4.5;3.3;0.5;1.0;0.3;2.3;13.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Josh Richardson;2;1;21.0;10.0;1.5;2.0;3.5;2.5;0.5;0.5;2.0;0.5;1.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Drew Eubanks;2;1;16.5;10.0;3.0;5.0;8.0;1.5;0.0;2.0;1.0;2.0;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Thaddeus Young;2;0;18.0;5.5;2.0;3.5;5.5;1.5;0.5;1.0;2.5;0.5;0.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Derrick White;2;2;26.5;5.5;0.5;2.5;3.0;5.5;0.5;1.5;1.0;3.0;5.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Tre Jones;3;0;12.3;3.7;0.0;0.7;0.7;1.7;0.7;0.0;0.0;1.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Zach Collins;2;0;15.5;3.5;1.0;4.0;5.0;1.0;0.0;1.0;1.5;2.5;0.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Joshua Primo;2;0;16.0;3.5;1.0;3.5;4.5;1.5;0.5;0.0;0.5;2.0;3.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Bryn Forbes;1;0;7.0;3.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0;0.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Keita Bates-Diop;3;0;12.3;2.7;0.7;1.7;2.3;1.3;0.0;1.0;0.0;0.3;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Jock Landale;2;0;5.5;1.0;0.5;0.5;1.0;0.0;0.0;0.5;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Joe Wieskamp;1;0;9.0;0.0;0.0;2.0;2.0;1.0;0.0;0.0;0.0;0.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Oklahoma City Thunder;Total;4;"";"";112.0;12.8;37.5;50.3;30.3;7.8;8.0;10.8;16.5;2.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Keldon Johnson;4;4;31.5;22.3;0.3;4.3;4.5;2.5;0.3;0.5;1.5;2.5;1.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Dejounte Murray;2;2;32.5;21.5;0.5;6.0;6.5;10.0;1.5;0.0;2.0;2.0;5.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Bryn Forbes;1;0;15.0;18.0;0.0;0.0;0.0;0.0;2.0;0.0;0.0;1.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Doug McDermott;1;1;22.0;16.0;2.0;2.0;4.0;3.0;0.0;0.0;0.0;1.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Jakob Poeltl;3;3;25.7;14.3;2.7;5.3;8.0;2.0;0.7;3.7;1.7;2.7;1.2
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Zach Collins;3;1;26.3;13.7;2.3;8.0;10.3;3.3;0.7;1.3;3.0;2.7;1.1
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Derrick White;1;1;30.0;12.0;1.0;6.0;7.0;5.0;1.0;1.0;0.0;1.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Devin Vassell;4;3;22.8;12.0;0.5;3.0;3.5;3.3;1.5;0.0;0.3;1.8;13.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Josh Richardson;3;0;23.0;11.7;0.0;2.3;2.3;2.0;1.7;0.3;1.3;0.3;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Joshua Primo;3;3;27.3;10.0;1.0;2.7;3.7;2.3;0.7;0.0;1.7;2.3;1.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Lonnie Walker IV;3;0;20.3;9.0;0.0;2.7;2.7;2.7;1.0;0.3;1.3;0.3;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Tre Jones;4;2;27.3;8.5;0.5;5.3;5.8;7.0;1.3;0.5;0.3;1.5;28.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Thaddeus Young;1;0;15.0;8.0;2.0;2.0;4.0;1.0;2.0;0.0;3.0;2.0;0.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Keita Bates-Diop;4;0;14.0;5.3;1.3;3.8;5.0;1.0;0.3;0.0;1.5;0.8;0.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Jock Landale;4;0;8.0;3.5;0.8;1.3;2.0;0.5;0.0;0.3;0.8;0.3;0.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Drew Eubanks;1;0;4.0;3.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;0.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Joe Wieskamp;2;0;11.0;3.0;0.5;0.0;0.5;0.0;0.5;0.0;0.0;0.5;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Devontae Cacok;1;0;1.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Romeo Langford;1;0;5.0;0.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;0.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Portland Trail Blazers;Total;4;"";"";122.5;9.5;39.5;49.0;31.3;9.0;5.8;12.8;15.5;2.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Utah Jazz;Derrick White;2;2;34.0;21.5;0.0;2.0;2.0;5.5;2.5;0.5;1.5;2.5;3.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Utah Jazz;Dejounte Murray;2;2;37.0;21.5;2.0;8.0;10.0;7.5;3.5;0.5;3.0;1.0;2.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Utah Jazz;Keldon Johnson;3;3;34.3;16.7;1.0;7.3;8.3;1.3;0.3;0.0;0.3;2.0;4.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Utah Jazz;Zach Collins;1;0;19.0;15.0;3.0;2.0;5.0;3.0;0.0;1.0;1.0;2.0;3.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Utah Jazz;Doug McDermott;2;2;27.0;14.0;0.0;4.0;4.0;1.0;0.0;0.5;1.0;1.5;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Utah Jazz;Lonnie Walker IV;3;0;28.3;13.7;0.3;3.0;3.3;3.3;1.0;0.3;0.0;1.3;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Utah Jazz;Jakob Poeltl;3;3;29.7;13.0;4.0;5.7;9.7;3.0;0.7;1.3;2.0;4.3;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Utah Jazz;Devin Vassell;3;1;27.0;11.3;1.3;5.0;6.3;0.7;0.3;0.3;0.7;1.3;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Utah Jazz;Josh Richardson;1;1;34.0;11.0;2.0;2.0;4.0;3.0;1.0;1.0;2.0;3.0;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Utah Jazz;Devontae Cacok;1;0;2.0;6.0;1.0;0.0;1.0;0.0;1.0;0.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Utah Jazz;Tre Jones;3;0;10.3;3.3;0.3;1.0;1.3;0.7;0.3;0.0;0.7;1.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Utah Jazz;Jock Landale;3;0;10.0;3.0;0.3;1.0;1.3;0.7;0.3;0.0;0.7;3.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Utah Jazz;Keita Bates-Diop;1;1;16.0;2.0;0.0;1.0;1.0;2.0;1.0;1.0;1.0;2.0;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Utah Jazz;Drew Eubanks;2;0;5.5;1.5;1.0;2.5;3.5;0.5;0.0;0.0;1.0;2.5;0.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Utah Jazz;Joe Wieskamp;2;0;4.5;1.0;0.0;0.0;0.0;0.0;0.0;0.5;0.0;0.5;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Utah Jazz;Bryn Forbes;2;0;5.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Utah Jazz;Joshua Primo;1;0;4.0;0.0;0.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Utah Jazz;Total;3;"";"";112.0;11.3;35.7;47.0;22.7;8.0;4.3;10.0;20.7;2.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Golden State Warriors;Dejounte Murray;3;3;36.0;23.0;2.3;6.7;9.0;8.0;1.3;0.3;4.0;2.0;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Golden State Warriors;Derrick White;2;2;35.5;20.5;0.0;2.0;2.0;5.0;1.5;0.0;2.0;2.5;2.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Golden State Warriors;Lonnie Walker IV;3;0;28.0;18.7;0.3;3.0;3.3;2.3;1.3;1.0;1.0;1.3;2.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Golden State Warriors;Josh Richardson;2;1;25.0;17.5;0.0;1.5;1.5;0.5;1.0;0.0;1.0;2.5;0.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Golden State Warriors;Keldon Johnson;3;3;35.7;16.7;1.0;4.7;5.7;4.0;0.7;0.0;1.7;1.7;2.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Golden State Warriors;Devin Vassell;2;1;32.0;13.0;1.0;6.0;7.0;2.5;2.5;0.0;1.0;3.0;2.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Golden State Warriors;Doug McDermott;2;2;22.5;11.5;0.5;2.0;2.5;1.5;0.5;0.5;0.0;2.5;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Golden State Warriors;Joshua Primo;3;2;28.3;10.3;0.3;1.7;2.0;2.3;0.3;0.7;1.0;2.7;2.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Golden State Warriors;Zach Collins;2;1;20.5;9.0;0.5;5.5;6.0;2.0;0.0;1.5;1.5;2.0;1.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Golden State Warriors;Tre Jones;3;1;22.3;8.7;0.7;2.7;3.3;4.3;1.0;0.0;2.0;1.7;2.2
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Golden State Warriors;Bryn Forbes;1;0;14.0;7.0;0.0;1.0;1.0;2.0;1.0;0.0;1.0;1.0;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Golden State Warriors;Jakob Poeltl;3;3;23.0;6.7;4.0;5.3;9.3;2.7;0.3;1.7;1.0;3.3;2.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Golden State Warriors;Keita Bates-Diop;2;1;16.5;5.5;0.0;1.5;1.5;0.0;0.5;0.0;1.0;1.5;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Golden State Warriors;Drew Eubanks;1;0;5.0;4.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Golden State Warriors;Devontae Cacok;1;0;21.0;4.0;1.0;2.0;3.0;1.0;1.0;0.0;1.0;3.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Golden State Warriors;Joe Wieskamp;2;0;13.5;3.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;1.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Golden State Warriors;Jock Landale;3;0;14.3;2.7;1.7;2.7;4.3;0.7;0.0;0.0;0.3;1.3;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Golden State Warriors;Romeo Langford;1;0;11.0;1.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Golden State Warriors;Thaddeus Young;1;0;14.0;0.0;1.0;4.0;5.0;0.0;0.0;0.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Golden State Warriors;Total;4;"";"";109.0;9.3;31.8;41.0;25.3;7.3;4.0;12.0;19.0;2.1
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. LA Clippers;Dejounte Murray;3;3;35.3;22.7;2.0;8.0;10.0;10.3;3.7;0.0;3.0;1.0;3.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. LA Clippers;Derrick White;3;2;29.0;17.7;1.0;2.7;3.7;3.7;1.0;1.0;3.3;3.0;1.1
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. LA Clippers;Jakob Poeltl;1;1;30.0;17.0;5.0;6.0;11.0;5.0;3.0;2.0;2.0;6.0;2.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. LA Clippers;Keldon Johnson;3;3;32.7;13.0;2.0;5.7;7.7;1.7;0.7;0.3;2.7;2.0;0.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. LA Clippers;Thaddeus Young;1;0;24.0;10.0;1.0;3.0;4.0;5.0;2.0;0.0;3.0;2.0;1.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. LA Clippers;Doug McDermott;3;3;25.7;9.0;0.3;0.7;1.0;1.7;0.3;0.0;0.7;0.7;2.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. LA Clippers;Jock Landale;2;1;20.0;9.0;5.5;2.5;8.0;1.5;0.5;0.5;0.5;1.5;3.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. LA Clippers;Keita Bates-Diop;2;0;13.0;7.5;0.5;3.5;4.0;0.5;0.0;0.0;0.0;1.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. LA Clippers;Lonnie Walker IV;3;0;18.0;6.7;0.0;1.7;1.7;1.0;0.0;0.3;0.7;1.7;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. LA Clippers;Devin Vassell;3;1;25.0;6.0;1.7;5.0;6.7;1.3;0.7;1.0;0.3;1.0;4.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. LA Clippers;Bryn Forbes;2;0;15.0;5.0;0.0;2.0;2.0;2.0;0.0;0.5;0.0;0.5;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. LA Clippers;Tre Jones;2;0;10.5;3.0;1.5;3.0;4.5;1.5;1.0;0.0;0.0;1.5;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. LA Clippers;Drew Eubanks;3;1;15.7;2.7;0.7;5.0;5.7;0.7;0.0;0.3;0.7;1.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. LA Clippers;Joshua Primo;1;0;6.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. LA Clippers;Total;3;"";"";103.0;14.7;39.0;53.7;27.3;9.0;4.3;13.7;16.0;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Dejounte Murray;4;4;37.0;19.5;1.3;8.3;9.5;11.5;2.5;1.5;2.8;2.3;4.2
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Josh Richardson;1;1;30.0;18.0;1.0;4.0;5.0;2.0;0.0;0.0;1.0;0.0;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Jakob Poeltl;3;3;28.0;17.7;4.7;3.7;8.3;2.0;0.3;1.0;1.0;3.7;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Keldon Johnson;4;4;32.0;16.0;1.0;6.0;7.0;1.3;0.3;0.0;1.5;2.8;0.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Lonnie Walker IV;3;0;25.0;15.3;0.0;1.7;1.7;3.7;1.0;0.3;1.3;1.0;2.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Devin Vassell;3;0;28.0;14.3;1.0;4.7;5.7;1.3;1.0;0.0;1.0;2.7;1.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Derrick White;3;3;30.3;13.3;0.0;3.7;3.7;6.0;1.3;1.0;2.3;2.7;2.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Keita Bates-Diop;3;0;20.0;12.0;0.3;4.3;4.7;0.0;1.0;0.0;1.0;1.3;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Jock Landale;2;0;14.5;10.5;3.0;3.0;6.0;3.0;0.5;0.5;0.0;1.5;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Doug McDermott;4;4;24.0;9.0;0.3;1.8;2.0;1.3;0.0;0.5;1.3;1.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Thaddeus Young;2;0;15.0;8.5;2.5;2.5;5.0;1.5;0.5;0.0;0.5;2.5;3.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Romeo Langford;1;0;16.0;7.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Joshua Primo;1;0;23.0;6.0;1.0;5.0;6.0;2.0;0.0;1.0;1.0;3.0;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Tre Jones;2;0;19.0;3.5;1.0;2.5;3.5;3.0;1.5;1.0;0.5;1.5;6.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Zach Collins;1;0;9.0;3.0;3.0;0.0;3.0;0.0;0.0;0.0;0.0;2.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Drew Eubanks;3;1;12.3;2.3;1.7;1.3;3.0;2.7;0.7;0.3;1.3;1.3;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Bryn Forbes;2;0;4.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Los Angeles Lakers;Total;4;"";"";120.5;12.8;37.0;49.8;30.5;8.0;5.0;13.0;19.5;2.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Phoenix Suns;Doug McDermott;3;3;27.0;17.7;0.0;2.7;2.7;1.3;0.3;0.0;0.7;1.7;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Phoenix Suns;Dejounte Murray;3;3;34.3;17.7;0.3;7.7;8.0;9.7;1.7;0.3;2.3;1.7;4.1
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Phoenix Suns;Jakob Poeltl;3;3;31.0;17.3;4.7;6.7;11.3;2.7;0.0;1.0;2.7;2.3;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Phoenix Suns;Derrick White;3;3;31.7;15.0;0.7;1.7;2.3;5.0;0.7;1.0;0.3;2.3;15.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Phoenix Suns;Keldon Johnson;4;4;32.8;12.8;0.8;5.8;6.5;1.8;0.3;0.0;1.0;1.3;1.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Phoenix Suns;Devin Vassell;3;1;29.3;11.3;0.3;4.3;4.7;1.0;1.0;0.0;0.7;1.7;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Phoenix Suns;Lonnie Walker IV;4;0;21.8;10.8;0.8;1.8;2.5;1.8;1.3;0.0;1.8;1.8;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Phoenix Suns;Joshua Primo;2;0;23.0;9.0;1.5;1.0;2.5;0.5;1.5;3.0;2.5;2.0;0.2
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Phoenix Suns;Tre Jones;3;1;19.0;8.0;1.3;0.7;2.0;4.3;1.3;0.0;0.7;1.0;6.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Phoenix Suns;Bryn Forbes;2;0;15.5;7.5;0.0;1.5;1.5;0.5;0.0;0.0;1.0;1.0;0.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Phoenix Suns;Jock Landale;2;0;17.5;5.0;1.5;2.0;3.5;3.0;0.5;0.5;1.5;3.0;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Phoenix Suns;Keita Bates-Diop;2;1;19.0;4.5;3.0;3.0;6.0;0.0;0.5;0.5;2.0;1.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Phoenix Suns;Drew Eubanks;4;1;11.3;4.3;0.3;2.8;3.0;1.3;0.5;0.0;1.0;1.3;1.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Phoenix Suns;Thaddeus Young;2;0;6.5;3.0;0.5;0.5;1.0;1.0;0.5;0.0;0.5;1.0;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Phoenix Suns;Juancho Hernangomez;1;0;15.0;2.0;2.0;3.0;5.0;1.0;1.0;0.0;1.0;0.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Phoenix Suns;Joe Wieskamp;1;0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Phoenix Suns;Total;4;"";"";108.0;11.0;32.8;43.8;25.5;7.5;3.8;13.3;16.3;1.9
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Sacramento Kings;Dejounte Murray;3;3;34.0;26.7;0.3;8.0;8.3;7.7;1.7;0.0;2.7;2.0;2.9
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Sacramento Kings;Lonnie Walker IV;3;0;26.0;21.3;0.7;1.3;2.0;2.3;0.3;0.3;0.3;1.3;7.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Sacramento Kings;Thaddeus Young;1;0;24.0;17.0;3.0;1.0;4.0;8.0;2.0;0.0;1.0;1.0;8.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Sacramento Kings;Bryn Forbes;2;0;19.5;16.5;0.0;1.5;1.5;0.5;0.5;0.5;1.5;1.0;0.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Sacramento Kings;Devin Vassell;3;2;27.3;13.3;0.0;3.7;3.7;1.0;0.3;1.0;1.0;3.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Sacramento Kings;Doug McDermott;2;2;23.0;10.5;0.0;1.5;1.5;1.5;0.0;0.0;0.5;1.5;3.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Sacramento Kings;Jakob Poeltl;2;2;33.5;10.0;3.5;4.0;7.5;3.5;1.0;2.0;0.5;3.5;7.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Sacramento Kings;Drew Eubanks;2;1;14.0;10.0;3.0;1.0;4.0;1.0;0.5;0.5;2.5;0.0;0.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Sacramento Kings;Keldon Johnson;3;3;26.3;8.7;2.0;6.0;8.0;2.0;2.0;0.3;1.0;1.3;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Sacramento Kings;Jock Landale;1;0;11.0;7.0;1.0;1.0;2.0;0.0;1.0;0.0;1.0;1.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Sacramento Kings;Zach Collins;1;0;15.0;4.0;1.0;4.0;5.0;3.0;0.0;0.0;1.0;2.0;3.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Sacramento Kings;Derrick White;2;2;27.0;3.5;1.0;1.5;2.5;4.0;1.5;1.0;1.0;1.5;4.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Sacramento Kings;Keita Bates-Diop;2;0;14.0;3.5;0.5;3.5;4.0;1.5;1.0;1.0;0.5;2.0;3.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Sacramento Kings;Joe Wieskamp;1;0;3.0;3.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Sacramento Kings;Joshua Primo;2;0;11.5;3.0;0.5;2.0;2.5;1.0;0.0;0.5;0.0;0.5;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Sacramento Kings;Tre Jones;3;0;12.0;2.3;0.0;1.0;1.0;2.7;0.3;0.0;0.7;1.3;4.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Sacramento Kings;Josh Richardson;1;0;6.0;0.0;0.0;0.0;0.0;2.0;0.0;0.0;0.0;1.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Sacramento Kings;Total;3;"";"";120.7;10.3;32.0;42.3;28.7;8.7;5.3;11.0;17.3;2.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Dallas Mavericks;Dejounte Murray;4;4;33.3;19.5;0.5;5.8;6.3;6.8;1.5;0.3;2.5;2.0;2.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Dallas Mavericks;Josh Richardson;1;0;28.0;18.0;0.0;3.0;3.0;1.0;1.0;0.0;2.0;1.0;0.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Dallas Mavericks;Keldon Johnson;4;4;30.3;16.3;0.5;6.0;6.5;2.0;1.8;0.0;0.8;1.5;2.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Dallas Mavericks;Devin Vassell;4;1;29.8;15.8;0.3;3.3;3.5;1.3;0.3;1.5;1.8;1.8;0.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Dallas Mavericks;Jakob Poeltl;2;2;32.0;13.0;5.0;6.5;11.5;1.0;1.0;1.5;1.0;3.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Dallas Mavericks;Derrick White;3;3;30.3;11.0;0.3;1.0;1.3;5.0;0.7;1.3;2.7;3.0;1.9
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Dallas Mavericks;Lonnie Walker IV;3;1;24.7;9.7;0.3;4.0;4.3;3.0;1.3;0.7;1.0;0.7;3.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Dallas Mavericks;Drew Eubanks;3;2;18.3;9.0;0.7;5.3;6.0;1.3;0.0;1.7;0.7;3.0;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Dallas Mavericks;Thaddeus Young;2;0;23.0;8.5;1.5;2.5;4.0;4.0;1.5;1.0;1.5;2.5;2.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Dallas Mavericks;Doug McDermott;2;2;25.0;8.0;0.0;1.5;1.5;2.0;0.5;0.0;1.5;3.5;1.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Dallas Mavericks;Zach Collins;1;0;15.0;8.0;0.0;2.0;2.0;4.0;3.0;1.0;1.0;3.0;4.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Dallas Mavericks;Bryn Forbes;3;0;16.0;7.3;0.0;2.3;2.3;1.0;0.3;0.0;2.0;1.0;0.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Dallas Mavericks;Tre Jones;4;0;11.3;5.0;0.0;1.5;1.5;2.5;0.8;0.0;0.0;1.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Dallas Mavericks;Joshua Primo;1;1;19.0;4.0;0.0;2.0;2.0;1.0;0.0;1.0;0.0;2.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Dallas Mavericks;Keita Bates-Diop;3;0;11.0;2.7;1.3;1.3;2.7;0.3;0.0;0.7;0.0;0.3;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Dallas Mavericks;Jock Landale;1;0;5.0;2.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Dallas Mavericks;Devontae Cacok;1;0;4.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Dallas Mavericks;Joe Wieskamp;1;0;9.0;0.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;1.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Dallas Mavericks;Total;4;"";"";109.0;6.5;34.5;41.0;25.5;8.5;6.8;12.5;18.5;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Houston Rockets;Dejounte Murray;4;4;33.5;25.8;1.0;6.3;7.3;10.8;2.8;0.5;1.3;3.5;8.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Houston Rockets;Bryn Forbes;1;0;32.0;21.0;0.0;2.0;2.0;1.0;2.0;0.0;0.0;2.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Houston Rockets;Keldon Johnson;4;3;30.5;20.8;1.8;4.5;6.3;1.8;1.5;0.0;1.3;2.5;1.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Houston Rockets;Jakob Poeltl;4;4;28.0;17.3;3.0;6.5;9.5;2.3;1.3;2.3;1.3;3.3;1.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Houston Rockets;Doug McDermott;2;2;22.0;17.0;1.0;1.5;2.5;1.5;0.0;0.5;1.5;4.5;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Houston Rockets;Josh Richardson;1;0;33.0;15.0;1.0;5.0;6.0;5.0;0.0;0.0;2.0;3.0;2.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Houston Rockets;Drew Eubanks;1;0;15.0;13.0;5.0;4.0;9.0;2.0;0.0;1.0;2.0;3.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Houston Rockets;Thaddeus Young;1;0;12.0;12.0;1.0;2.0;3.0;1.0;1.0;0.0;1.0;2.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Houston Rockets;Zach Collins;2;0;17.5;11.5;4.0;3.5;7.5;3.0;1.5;0.0;1.5;2.0;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Houston Rockets;Devin Vassell;4;1;28.0;9.3;0.8;4.3;5.0;2.3;0.8;0.8;0.5;2.5;4.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Houston Rockets;Tre Jones;3;0;17.0;8.7;0.0;1.0;1.0;2.7;1.0;0.3;1.0;1.3;2.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Houston Rockets;Derrick White;2;2;26.0;8.5;0.0;2.5;2.5;6.5;0.0;0.5;1.0;1.5;6.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Houston Rockets;Keita Bates-Diop;2;1;19.0;7.5;0.5;4.5;5.0;1.0;1.0;0.5;0.0;2.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Houston Rockets;Lonnie Walker IV;2;1;23.0;7.5;0.0;2.0;2.0;2.5;1.0;0.0;1.5;2.5;1.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Houston Rockets;Joshua Primo;3;2;24.0;6.0;0.3;1.0;1.3;3.3;1.3;0.0;1.7;1.3;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Houston Rockets;Jock Landale;3;0;12.3;3.0;1.0;2.3;3.3;0.7;0.3;0.3;1.7;0.3;0.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Houston Rockets;Devontae Cacok;1;0;3.0;2.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Houston Rockets;Juancho Hernangomez;2;0;6.0;0.0;0.0;1.5;1.5;0.0;0.0;0.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Houston Rockets;Total;4;"";"";128.0;12.0;36.0;48.0;31.5;10.8;5.0;11.5;22.8;2.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Dejounte Murray;3;3;37.3;23.3;2.3;6.3;8.7;7.3;1.7;0.3;3.3;2.3;2.2
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Bryn Forbes;1;0;20.0;15.0;0.0;3.0;3.0;1.0;0.0;0.0;2.0;2.0;0.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Derrick White;2;2;29.0;14.5;0.0;1.5;1.5;7.0;0.5;1.5;1.5;3.5;4.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Jakob Poeltl;4;4;31.0;14.5;3.5;4.3;7.8;3.8;1.0;1.8;1.0;2.5;3.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Keldon Johnson;4;4;33.0;14.3;1.3;4.8;6.0;2.3;1.3;0.5;1.5;2.0;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Devin Vassell;4;2;29.3;13.3;0.5;2.8;3.3;1.8;0.5;0.3;0.8;1.0;2.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Lonnie Walker IV;4;0;19.8;12.8;0.5;1.0;1.5;2.8;0.0;0.0;1.0;1.0;2.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Doug McDermott;3;3;23.0;8.7;0.3;3.0;3.3;2.7;0.7;0.0;1.0;1.3;2.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Tre Jones;4;0;15.5;6.3;0.3;0.5;0.8;2.0;0.5;0.0;0.5;0.5;4.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Keita Bates-Diop;2;1;16.5;5.0;1.5;4.5;6.0;0.5;1.0;1.0;0.5;0.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Zach Collins;2;0;14.5;5.0;0.5;3.0;3.5;1.5;0.0;0.0;2.0;3.0;0.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Josh Richardson;2;0;19.0;4.5;0.5;1.0;1.5;2.5;3.0;0.0;1.0;1.5;2.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Drew Eubanks;2;0;6.0;4.5;1.5;1.5;3.0;0.0;0.0;0.5;0.0;0.5;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Thaddeus Young;1;0;12.0;2.0;1.0;3.0;4.0;1.0;0.0;0.0;1.0;3.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Jock Landale;4;0;6.3;1.3;0.3;1.3;1.5;0.3;0.3;0.3;0.0;0.5;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Joshua Primo;3;1;11.0;0.7;0.3;1.0;1.3;1.0;0.7;0.3;0.7;0.7;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Joe Wieskamp;2;0;3.0;0.0;0.0;0.0;0.0;0.5;0.5;0.0;0.0;0.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. Memphis Grizzlies;Total;4;"";"";107.8;10.8;29.5;40.3;27.5;8.3;4.8;11.8;16.3;2.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Derrick White;1;1;34.0;24.0;0.0;8.0;8.0;9.0;4.0;1.0;2.0;0.0;4.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Dejounte Murray;4;4;35.8;18.3;0.5;9.3;9.8;10.0;2.3;0.3;2.3;1.5;4.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Josh Richardson;1;1;27.0;18.0;1.0;1.0;2.0;1.0;1.0;0.0;0.0;2.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Keldon Johnson;4;4;31.3;16.3;0.8;4.0;4.8;1.8;1.0;0.5;1.0;2.0;1.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Doug McDermott;2;2;26.5;14.0;0.0;3.0;3.0;0.5;0.0;0.0;1.0;1.5;0.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Jakob Poeltl;4;4;30.0;12.5;5.0;5.5;10.5;2.8;0.8;2.3;1.8;3.5;1.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Devin Vassell;3;2;27.7;11.3;0.7;2.3;3.0;2.3;1.0;1.0;0.7;2.7;3.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Joshua Primo;3;2;27.3;10.0;0.3;1.3;1.7;0.3;0.7;0.7;1.7;2.0;0.2
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Lonnie Walker IV;3;0;19.3;9.3;0.3;0.3;0.7;0.7;0.0;0.0;1.0;2.0;0.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Jock Landale;4;0;15.8;7.0;1.5;2.5;4.0;0.8;0.3;0.0;0.0;1.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Tre Jones;4;0;17.8;6.3;0.8;1.5;2.3;1.8;0.0;0.0;0.3;0.3;7.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Zach Collins;2;0;17.0;6.0;1.5;3.5;5.0;3.0;0.0;0.5;2.0;2.0;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Joe Wieskamp;2;0;14.0;5.5;0.0;0.0;0.0;1.0;0.0;0.5;0.5;0.5;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Drew Eubanks;1;0;14.0;4.0;2.0;5.0;7.0;3.0;1.0;0.0;2.0;1.0;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Keita Bates-Diop;2;0;6.5;2.0;1.0;0.5;1.5;0.5;0.0;0.0;1.0;0.5;0.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Devontae Cacok;1;0;9.0;0.0;0.0;1.0;1.0;0.0;1.0;0.0;0.0;2.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;vs. New Orleans Pelicans;Total;4;"";"";108.5;11.5;33.0;44.5;25.3;7.3;5.0;11.0;16.8;2.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;October;Dejounte Murray;6;6;35.5;17.8;0.8;7.7;8.5;8.8;2.2;0.3;2.2;2.3;4.1
+San Antonio Spurs;sa;2021 - 2022 Regular Season;October;Keldon Johnson;6;6;29.3;15.8;0.8;4.5;5.3;1.8;1.2;0.2;1.2;2.5;1.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;October;Jakob Poeltl;6;6;31.2;14.3;5.5;4.8;10.3;2.8;1.0;1.2;1.7;3.3;1.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;October;Derrick White;6;6;32.7;13.2;0.0;2.7;2.7;6.2;1.5;1.2;1.8;2.0;3.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;October;Lonnie Walker IV;6;2;24.8;13.2;0.0;3.2;3.2;3.0;0.8;0.3;1.8;1.3;1.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;October;Doug McDermott;4;4;25.8;11.5;0.3;1.8;2.0;0.8;0.0;0.0;0.5;0.8;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;October;Devin Vassell;6;0;25.2;9.8;0.8;4.0;4.8;1.7;1.3;0.3;0.7;2.2;2.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;October;Bryn Forbes;6;0;13.0;5.7;0.2;0.8;1.0;0.3;0.2;0.0;0.8;0.8;0.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;October;Thaddeus Young;3;0;9.3;4.0;2.0;1.0;3.0;1.3;0.7;0.0;0.7;1.3;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;October;Drew Eubanks;6;0;12.2;3.7;0.8;3.2;4.0;1.3;0.3;0.8;1.3;1.3;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;October;Keita Bates-Diop;5;0;14.6;3.4;0.4;2.4;2.8;0.2;0.8;0.4;0.6;0.8;0.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;October;Joshua Primo;2;0;3.0;2.5;0.5;0.0;0.5;0.0;0.0;0.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;October;Tre Jones;5;0;5.4;2.0;0.0;0.8;0.8;0.4;0.0;0.0;0.2;0.4;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;October;Jock Landale;3;0;1.7;0.3;0.3;0.0;0.3;0.3;0.0;0.3;0.3;0.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;October;Total;6;"";"";108.7;10.8;35.2;46.0;27.8;9.5;4.8;13.0;18.0;2.1
+San Antonio Spurs;sa;2021 - 2022 Regular Season;November;Dejounte Murray;13;13;34.4;19.7;0.8;7.6;8.5;7.7;1.9;0.5;2.4;1.8;3.2
+San Antonio Spurs;sa;2021 - 2022 Regular Season;November;Keldon Johnson;13;13;32.3;14.5;1.3;5.6;6.9;2.2;0.9;0.2;1.5;1.2;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;November;Devin Vassell;11;0;26.2;13.5;0.4;3.0;3.4;1.4;1.2;0.9;0.8;2.1;1.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;November;Derrick White;13;13;30.6;11.6;0.8;2.9;3.8;4.7;1.0;0.9;1.4;2.4;3.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;November;Jakob Poeltl;6;5;26.2;10.7;4.0;4.3;8.3;1.2;0.2;1.3;1.0;2.0;1.2
+San Antonio Spurs;sa;2021 - 2022 Regular Season;November;Doug McDermott;8;8;25.5;9.9;0.5;1.9;2.4;1.4;0.3;0.0;0.8;1.5;1.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;November;Lonnie Walker IV;13;1;21.6;8.5;0.1;2.9;3.0;2.4;0.6;0.5;1.0;1.5;2.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;November;Thaddeus Young;13;0;17.2;8.1;1.5;2.2;3.7;3.2;1.1;0.5;1.2;1.5;2.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;November;Drew Eubanks;13;8;16.8;6.9;1.5;3.5;4.9;1.6;0.5;0.9;1.4;1.8;1.2
+San Antonio Spurs;sa;2021 - 2022 Regular Season;November;Bryn Forbes;13;0;13.9;6.0;0.0;1.3;1.3;0.8;0.4;0.1;0.9;0.7;0.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;November;Jock Landale;3;0;4.0;4.7;0.3;0.0;0.3;0.3;0.0;0.0;0.0;0.3;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;November;Tre Jones;12;0;10.6;4.7;0.1;0.9;1.0;1.7;0.3;0.0;0.8;0.8;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;November;Keita Bates-Diop;10;4;13.8;3.2;0.8;2.4;3.2;0.4;0.1;0.4;0.6;0.4;0.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;November;Devontae Cacok;1;0;2.0;2.0;1.0;1.0;2.0;1.0;0.0;0.0;0.0;0.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;November;Joshua Primo;3;0;6.7;2.0;0.0;0.7;0.7;0.7;0.0;0.0;0.0;0.7;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;November;Joe Wieskamp;2;0;2.5;1.5;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;November;Total;13;"";"";106.5;9.3;34.7;44.0;27.2;8.0;5.3;12.6;15.7;2.2
+San Antonio Spurs;sa;2021 - 2022 Regular Season;December;Derrick White;15;15;29.4;17.2;0.3;3.3;3.6;5.7;1.3;0.7;1.5;1.9;3.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;December;Dejounte Murray;12;12;33.5;15.8;1.7;6.5;8.2;9.9;2.0;0.3;2.3;2.0;4.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;December;Keldon Johnson;14;14;29.6;15.2;0.9;5.9;6.8;1.1;0.6;0.0;1.2;2.1;0.9
+San Antonio Spurs;sa;2021 - 2022 Regular Season;December;Lonnie Walker IV;14;0;22.3;12.9;0.4;2.1;2.6;2.1;0.4;0.0;0.8;1.1;2.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;December;Doug McDermott;14;14;23.8;12.3;0.4;2.6;2.9;1.5;0.1;0.1;0.8;1.5;1.9
+San Antonio Spurs;sa;2021 - 2022 Regular Season;December;Jakob Poeltl;15;15;27.5;11.8;3.5;4.2;7.7;3.3;0.6;1.6;1.7;3.5;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;December;Bryn Forbes;13;0;16.5;11.2;0.2;1.2;1.4;1.1;0.5;0.1;0.8;0.8;1.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;December;Devin Vassell;12;1;21.7;8.2;1.0;2.9;3.9;1.3;0.6;0.8;0.7;1.3;1.9
+San Antonio Spurs;sa;2021 - 2022 Regular Season;December;Keita Bates-Diop;12;4;16.4;7.4;1.2;3.6;4.8;0.9;0.8;0.4;0.9;1.5;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;December;Jock Landale;11;0;9.4;6.1;1.4;1.0;2.4;1.0;0.3;0.4;0.5;1.1;1.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;December;Tre Jones;15;0;15.0;4.1;0.7;2.3;3.1;3.3;0.5;0.0;0.5;1.2;7.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;December;Devontae Cacok;2;0;4.5;4.0;0.5;0.0;0.5;0.0;0.5;0.5;0.5;1.5;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;December;Drew Eubanks;14;0;8.9;3.5;0.9;2.6;3.5;0.6;0.1;0.6;0.8;0.9;0.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;December;Thaddeus Young;7;0;10.4;3.0;1.3;1.9;3.1;1.3;0.6;0.0;0.7;1.4;1.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;December;Joshua Primo;6;0;10.2;2.7;0.3;1.2;1.5;1.0;0.7;0.7;0.3;0.8;3.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;December;Joe Wieskamp;4;0;4.3;1.3;0.3;0.0;0.3;0.5;0.0;0.5;0.0;0.5;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;December;Total;15;"";"";116.7;12.1;35.6;47.7;29.7;7.5;5.0;11.8;18.5;2.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;January;Dejounte Murray;14;14;34.6;22.9;1.7;6.9;8.6;9.9;2.1;0.2;2.8;2.3;3.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;January;Keldon Johnson;14;13;32.3;15.4;0.7;4.6;5.3;1.9;0.4;0.2;1.1;1.7;1.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;January;Jakob Poeltl;15;15;31.0;15.2;4.1;6.2;10.3;3.0;0.9;2.1;1.5;2.9;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;January;Derrick White;11;10;30.3;13.7;0.7;2.9;3.6;6.5;0.5;0.9;2.2;3.1;3.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;January;Devin Vassell;14;6;27.7;13.3;0.4;4.7;5.1;1.5;0.7;0.5;0.9;2.9;1.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;January;Bryn Forbes;8;1;25.3;13.1;0.1;2.6;2.8;1.9;0.6;0.1;0.6;2.3;3.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;January;Doug McDermott;10;10;24.7;12.0;0.5;1.7;2.2;1.0;0.5;0.2;0.9;1.8;1.1
+San Antonio Spurs;sa;2021 - 2022 Regular Season;January;Lonnie Walker IV;14;3;23.4;11.4;0.3;1.8;2.1;2.2;0.8;0.4;1.1;1.7;2.1
+San Antonio Spurs;sa;2021 - 2022 Regular Season;January;Keita Bates-Diop;12;4;22.1;6.7;1.8;3.3;5.2;0.8;0.3;0.2;0.8;1.2;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;January;Joshua Primo;11;4;20.3;6.6;0.7;1.3;2.0;1.7;0.4;0.7;1.9;1.3;0.9
+San Antonio Spurs;sa;2021 - 2022 Regular Season;January;Thaddeus Young;2;0;11.5;6.5;0.5;2.5;3.0;0.5;0.5;0.5;2.0;1.5;0.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;January;Tre Jones;9;3;16.6;6.4;0.6;1.1;1.7;2.8;0.4;0.0;0.6;0.7;5.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;January;Jock Landale;15;1;14.1;4.7;1.4;1.8;3.2;1.2;0.3;0.5;1.0;1.2;1.2
+San Antonio Spurs;sa;2021 - 2022 Regular Season;January;Devontae Cacok;4;0;11.8;4.5;0.8;3.8;4.5;0.3;0.8;1.0;0.0;1.3;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;January;Drew Eubanks;13;1;11.9;4.3;1.9;2.1;4.0;0.8;0.2;0.2;0.6;1.2;1.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;January;Joe Wieskamp;7;0;7.7;3.4;0.1;0.7;0.9;0.3;0.3;0.0;0.0;0.4;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;January;Tyler Johnson;3;0;17.7;2.0;0.7;1.3;2.0;1.7;0.7;0.7;0.3;1.0;5.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;January;Jaylen Morris;3;0;5.3;0.7;0.0;0.7;0.7;0.7;0.0;0.0;0.3;0.7;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;January;Juancho Hernangomez;3;0;9.0;0.7;1.0;2.0;3.0;0.3;0.3;0.0;0.7;0.0;0.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;January;Anthony Lamb;2;0;4.0;0.0;0.0;0.5;0.5;1.0;0.0;0.0;0.0;0.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;January;Total;17;"";"";111.1;12.3;33.6;45.9;26.8;6.6;5.3;12.2;18.6;2.2
+San Antonio Spurs;sa;2021 - 2022 Regular Season;February;Dejounte Murray;9;9;35.8;23.8;1.1;6.4;7.6;10.8;2.0;0.2;2.4;1.9;4.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;February;Keldon Johnson;10;10;33.4;19.3;1.7;3.5;5.2;2.1;1.0;0.1;1.4;2.4;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;February;Derrick White;4;4;29.5;16.8;0.3;3.3;3.5;4.8;0.5;0.5;2.8;2.5;1.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;February;Jakob Poeltl;9;9;29.6;14.6;3.3;6.6;9.9;3.6;1.0;2.1;2.1;3.0;1.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;February;Lonnie Walker IV;10;0;24.5;14.2;0.5;2.0;2.5;1.8;0.5;0.4;1.2;1.8;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;February;Devin Vassell;11;8;29.7;12.8;0.5;4.0;4.5;3.5;1.4;0.5;0.7;1.8;4.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;February;Doug McDermott;10;10;24.0;12.6;0.2;1.9;2.1;1.4;0.3;0.0;0.7;1.8;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;February;Tre Jones;8;2;19.6;8.1;0.1;1.8;1.9;4.1;1.0;0.0;0.9;1.6;4.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;February;Thaddeus Young;1;1;24.0;7.0;5.0;3.0;8.0;3.0;2.0;0.0;3.0;2.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;February;Keita Bates-Diop;9;1;13.0;5.7;0.2;2.4;2.7;0.6;0.8;0.1;0.6;1.1;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;February;Zach Collins;8;1;16.4;5.5;1.9;3.3;5.1;1.9;0.8;0.4;2.3;2.3;0.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;February;Joshua Primo;10;0;19.2;5.4;0.7;1.3;2.0;1.8;0.4;0.3;0.7;2.2;2.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;February;Jock Landale;6;0;10.0;4.7;0.7;0.3;1.0;0.5;0.0;0.0;0.7;1.3;0.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;February;Josh Richardson;3;0;15.7;4.3;1.0;0.3;1.3;2.0;0.3;0.3;0.3;1.7;6.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;February;Drew Eubanks;3;0;8.0;3.7;0.7;1.7;2.3;0.3;0.0;0.7;0.3;0.7;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;February;Tomas Satoransky;1;0;9.0;3.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;February;Devontae Cacok;4;0;8.8;3.0;0.5;3.3;3.8;0.8;0.8;0.5;0.3;1.0;3.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;February;Juancho Hernangomez;2;0;12.0;2.5;0.5;2.5;3.0;1.0;0.0;0.5;0.0;0.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;February;Joe Wieskamp;4;0;4.5;1.3;0.3;0.0;0.3;0.3;0.3;0.0;0.3;0.3;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;February;Total;11;"";"";119.3;10.3;32.1;42.4;29.9;8.5;4.2;12.8;19.9;2.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;March;Dejounte Murray;13;13;35.8;25.6;0.8;8.0;8.8;8.6;2.0;0.4;3.5;2.0;2.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;March;Keldon Johnson;13;13;33.1;20.0;1.2;5.5;6.7;2.8;0.7;0.3;1.2;1.7;2.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;March;Lonnie Walker IV;9;0;22.7;14.1;0.2;1.8;2.0;1.7;0.4;0.1;0.7;1.0;2.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;March;Jakob Poeltl;13;13;28.9;13.5;4.2;5.3;9.5;2.3;0.5;1.8;1.6;3.5;1.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;March;Devin Vassell;12;12;30.8;13.1;0.8;3.3;4.1;1.8;1.3;0.6;1.0;2.0;1.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;March;Josh Richardson;12;6;26.7;12.4;1.0;2.4;3.4;2.6;1.2;0.3;1.5;1.8;1.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;March;Zach Collins;14;1;16.9;7.1;1.6;3.1;4.8;2.1;0.1;0.9;1.1;2.4;1.9
+San Antonio Spurs;sa;2021 - 2022 Regular Season;March;Doug McDermott;5;5;19.2;7.0;0.2;0.6;0.8;1.0;0.2;0.4;1.6;1.4;0.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;March;Romeo Langford;1;0;16.0;7.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;March;Joshua Primo;12;6;25.2;6.6;1.0;2.8;3.8;1.5;0.5;0.5;1.4;1.9;1.1
+San Antonio Spurs;sa;2021 - 2022 Regular Season;March;Tre Jones;14;1;20.1;5.8;0.7;2.1;2.8;4.1;0.8;0.4;0.8;1.2;5.2
+San Antonio Spurs;sa;2021 - 2022 Regular Season;March;Jock Landale;12;0;11.9;5.3;1.3;2.0;3.3;0.8;0.3;0.1;0.3;0.8;3.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;March;Joe Wieskamp;7;0;9.4;2.7;0.1;0.0;0.1;0.3;0.0;0.1;0.1;0.7;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;March;Keita Bates-Diop;5;0;10.4;2.4;0.8;2.2;3.0;1.2;0.4;0.0;0.4;1.0;3.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;March;Total;14;"";"";114.1;12.1;33.8;45.9;26.6;7.0;5.2;12.4;17.7;2.1
+San Antonio Spurs;sa;2021 - 2022 Regular Season;April;Keldon Johnson;5;5;33.0;22.6;0.4;5.0;5.4;3.8;1.0;0.4;1.0;3.6;3.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;April;Dejounte Murray;1;1;32.0;17.0;0.0;1.0;1.0;7.0;3.0;0.0;2.0;2.0;3.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;April;Devin Vassell;5;5;30.6;16.6;0.6;4.2;4.8;3.0;1.6;0.2;1.0;1.6;3.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;April;Tre Jones;6;5;30.5;13.7;0.2;3.8;4.0;7.8;1.3;0.2;0.8;2.2;9.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;April;Jakob Poeltl;4;4;26.5;13.5;2.0;8.3;10.3;2.3;0.3;1.3;1.5;3.0;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;April;Josh Richardson;6;1;24.3;12.8;0.2;2.3;2.5;2.0;1.2;0.2;1.3;1.3;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;April;Lonnie Walker IV;4;0;23.5;12.5;0.0;3.8;3.8;2.5;1.3;0.3;0.8;1.0;3.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;April;Zach Collins;6;2;22.3;12.3;1.3;6.2;7.5;2.8;1.0;1.2;2.0;2.5;1.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;April;Joshua Primo;6;6;26.8;9.2;0.3;2.0;2.3;3.0;0.3;0.3;1.7;2.2;1.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;April;Keita Bates-Diop;6;1;19.0;9.0;1.7;2.8;4.5;0.8;0.2;0.0;1.5;1.0;0.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;April;Jock Landale;4;0;13.0;5.0;1.5;2.8;4.3;0.5;0.0;0.3;0.5;1.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;April;Devontae Cacok;4;0;7.3;1.5;0.3;1.3;1.5;0.3;0.3;0.0;0.3;1.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;April;Romeo Langford;3;0;8.7;1.3;0.0;1.0;1.0;0.7;0.3;0.0;0.0;0.3;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;April;Joe Wieskamp;5;0;9.0;1.0;0.0;1.0;1.0;0.4;0.2;0.0;0.0;0.6;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;April;Total;6;"";"";115.7;7.0;37.0;44.0;27.7;8.2;3.5;11.3;18.5;2.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Atlantic Division;Dejounte Murray;9;9;35.7;22.8;1.4;6.9;8.3;9.4;2.0;0.4;2.9;2.0;3.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Atlantic Division;Derrick White;6;6;31.8;16.5;1.3;4.5;5.8;5.8;0.5;0.8;2.3;2.2;2.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Atlantic Division;Keldon Johnson;7;7;30.9;14.1;1.0;5.7;6.7;2.0;0.6;0.3;1.1;1.4;1.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Atlantic Division;Jakob Poeltl;10;10;32.1;13.8;4.2;6.5;10.7;2.3;0.5;2.0;1.2;2.9;1.9
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Atlantic Division;Devin Vassell;5;3;26.6;12.8;0.4;3.0;3.4;1.2;0.8;0.4;1.0;2.8;1.2
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Atlantic Division;Lonnie Walker IV;8;2;22.5;12.3;0.3;2.1;2.4;2.1;0.4;0.4;0.9;1.1;2.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Atlantic Division;Doug McDermott;4;4;25.5;9.0;0.5;0.5;1.0;1.3;0.5;0.3;1.0;2.0;1.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Atlantic Division;Bryn Forbes;7;1;23.1;8.0;0.3;1.9;2.1;1.6;0.9;0.1;1.0;2.1;1.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Atlantic Division;Joshua Primo;7;3;20.9;6.7;0.6;1.1;1.7;2.0;0.3;0.7;1.3;1.3;1.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Atlantic Division;Keita Bates-Diop;9;4;22.0;5.7;1.7;3.2;4.9;0.6;0.3;0.1;0.8;1.1;0.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Atlantic Division;Devontae Cacok;3;0;14.3;5.3;1.0;4.7;5.7;0.3;1.0;1.3;0.0;1.7;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Atlantic Division;Jock Landale;8;0;10.9;4.6;0.9;0.8;1.6;0.8;0.0;0.3;0.8;0.8;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Atlantic Division;Tre Jones;6;1;14.0;4.5;0.0;1.0;1.0;2.0;0.3;0.0;1.2;1.3;1.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Atlantic Division;Zach Collins;1;0;10.0;4.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Atlantic Division;Joe Wieskamp;6;0;7.3;4.0;0.2;0.5;0.7;0.2;0.2;0.0;0.0;0.7;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Atlantic Division;Drew Eubanks;7;0;12.1;3.7;1.4;1.7;3.1;0.3;0.4;0.1;0.6;1.0;0.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Atlantic Division;Josh Richardson;1;0;19.0;3.0;0.0;1.0;1.0;2.0;0.0;2.0;1.0;2.0;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Atlantic Division;Tyler Johnson;3;0;17.7;2.0;0.7;1.3;2.0;1.7;0.7;0.7;0.3;1.0;5.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Atlantic Division;Jaylen Morris;3;0;5.3;0.7;0.0;0.7;0.7;0.7;0.0;0.0;0.3;0.7;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Atlantic Division;Thaddeus Young;1;0;6.0;0.0;0.0;0.0;0.0;2.0;0.0;0.0;0.0;0.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Atlantic Division;Juancho Hernangomez;1;0;2.0;0.0;1.0;0.0;1.0;0.0;0.0;0.0;1.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Atlantic Division;Anthony Lamb;2;0;4.0;0.0;0.0;0.5;0.5;1.0;0.0;0.0;0.0;0.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Atlantic Division;Total;10;"";"";103.8;12.1;32.7;44.8;25.0;6.1;5.5;0.0;17.3;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Central Division;Dejounte Murray;7;7;34.1;20.4;0.6;6.7;7.3;8.9;1.4;0.0;1.9;2.0;4.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Central Division;Keldon Johnson;9;9;31.1;16.9;1.6;4.3;5.9;2.0;0.7;0.1;1.6;2.1;1.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Central Division;Josh Richardson;1;1;36.0;16.0;3.0;4.0;7.0;4.0;1.0;1.0;1.0;3.0;4.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Central Division;Derrick White;7;7;30.6;14.3;0.3;2.6;2.9;7.9;1.1;0.6;1.6;3.0;5.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Central Division;Bryn Forbes;6;0;22.0;13.3;0.2;1.8;2.0;1.2;0.3;0.0;0.5;1.5;2.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Central Division;Doug McDermott;7;7;22.9;12.3;0.1;2.4;2.6;1.0;0.1;0.0;0.9;0.7;1.2
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Central Division;Lonnie Walker IV;9;2;23.4;11.3;0.2;2.4;2.7;2.3;0.3;0.0;0.9;1.0;2.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Central Division;Devin Vassell;10;4;27.0;11.3;0.5;3.6;4.1;2.0;1.6;0.3;1.3;2.6;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Central Division;Jakob Poeltl;9;9;28.3;11.0;3.3;5.4;8.8;3.0;0.9;1.2;2.3;3.2;1.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Central Division;Jock Landale;8;0;11.5;8.4;1.1;1.4;2.5;1.0;0.3;0.4;0.5;0.8;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Central Division;Zach Collins;3;1;18.7;7.7;1.7;3.0;4.7;2.3;0.7;0.7;1.0;3.3;2.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Central Division;Thaddeus Young;2;0;15.5;6.0;2.5;3.0;5.5;4.0;1.5;0.0;1.0;1.5;4.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Central Division;Tre Jones;8;2;16.8;5.9;0.6;2.4;3.0;4.6;0.4;0.1;0.4;0.8;12.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Central Division;Keita Bates-Diop;8;1;13.5;5.8;0.5;2.9;3.4;0.5;0.5;0.1;0.4;0.6;1.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Central Division;Joshua Primo;8;0;15.9;3.5;0.6;2.0;2.6;0.9;0.4;0.1;1.4;1.1;0.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Central Division;Drew Eubanks;7;0;8.4;3.0;0.9;2.3;3.1;0.6;0.1;0.6;0.9;1.0;0.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Central Division;Devontae Cacok;1;0;8.0;2.0;0.0;0.0;0.0;0.0;0.0;1.0;1.0;3.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Central Division;Joe Wieskamp;2;0;6.0;1.5;0.5;0.0;0.5;0.5;0.5;0.5;0.0;0.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Central Division;Total;10;"";"";114.0;10.2;34.3;44.5;29.7;7.4;3.4;0.0;18.4;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pacific Division;Dejounte Murray;16;16;35.4;21.8;1.3;7.8;9.0;9.6;2.2;0.5;2.9;1.8;3.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pacific Division;Lonnie Walker IV;16;0;23.6;14.3;0.4;1.9;2.3;2.2;0.8;0.4;1.1;1.4;2.1
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pacific Division;Derrick White;13;12;30.6;14.3;0.5;2.4;2.9;4.8;1.2;0.8;1.8;2.5;2.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pacific Division;Keldon Johnson;17;17;31.9;13.5;1.3;5.6;6.9;2.1;0.7;0.1;1.5;1.8;1.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pacific Division;Jakob Poeltl;12;12;28.6;13.5;4.3;5.1;9.4;2.8;0.6;1.4;1.4;3.4;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pacific Division;Josh Richardson;4;2;21.5;13.3;0.3;1.8;2.0;1.3;0.5;0.0;0.8;1.5;1.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pacific Division;Devin Vassell;14;5;28.1;11.5;0.8;4.6;5.4;1.4;1.0;0.4;0.8;2.2;1.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pacific Division;Doug McDermott;14;14;24.6;11.4;0.2;1.7;1.9;1.4;0.2;0.2;0.7;1.4;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pacific Division;Bryn Forbes;9;0;13.6;7.2;0.0;1.2;1.2;0.9;0.2;0.2;0.9;0.7;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pacific Division;Thaddeus Young;7;0;14.9;7.1;1.6;2.0;3.6;2.6;0.9;0.0;0.9;1.4;3.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pacific Division;Keita Bates-Diop;11;2;16.8;7.1;0.8;3.3;4.1;0.4;0.6;0.3;0.9;1.4;0.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pacific Division;Joshua Primo;9;2;20.3;6.8;0.7;1.8;2.4;1.3;0.4;1.1;1.1;1.8;1.2
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pacific Division;Jock Landale;10;1;15.7;6.4;2.6;2.4;5.0;1.7;0.4;0.3;0.6;1.7;2.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pacific Division;Zach Collins;4;1;16.5;6.3;1.3;3.8;5.0;1.8;0.0;0.8;1.0;2.0;1.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pacific Division;Tre Jones;13;2;16.8;5.4;0.8;1.8;2.7;3.3;1.0;0.2;0.8;1.4;3.9
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pacific Division;Drew Eubanks;13;4;12.4;4.3;1.1;2.5;3.5;1.3;0.4;0.3;1.2;0.9;1.1
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pacific Division;Devontae Cacok;1;0;21.0;4.0;1.0;2.0;3.0;1.0;1.0;0.0;1.0;3.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pacific Division;Romeo Langford;2;0;13.5;4.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pacific Division;Joe Wieskamp;4;0;8.3;2.3;0.0;0.5;0.5;0.5;0.0;0.0;0.0;0.5;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pacific Division;Juancho Hernangomez;1;0;15.0;2.0;2.0;3.0;5.0;1.0;1.0;0.0;1.0;0.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pacific Division;Total;18;"";"";112.3;11.5;34.4;45.9;27.4;8.0;4.4;0.0;17.7;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southeast Division;Dejounte Murray;8;8;34.9;22.1;1.1;8.0;9.1;10.3;2.1;0.1;2.5;1.9;4.1
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southeast Division;Keldon Johnson;9;9;33.6;20.2;1.1;4.2;5.3;2.1;0.2;0.0;1.0;1.9;2.1
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southeast Division;Derrick White;6;6;29.7;16.5;0.7;4.5;5.2;4.2;0.7;0.7;2.2;2.0;1.9
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southeast Division;Jakob Poeltl;7;7;29.6;14.4;4.3;4.1;8.4;3.3;0.6;1.4;1.3;2.0;2.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southeast Division;Devin Vassell;9;5;27.4;13.2;0.7;3.1;3.8;2.4;1.7;0.6;0.8;1.8;3.1
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southeast Division;Bryn Forbes;5;0;14.2;11.6;0.0;1.6;1.6;0.8;0.2;0.0;0.6;0.4;1.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southeast Division;Lonnie Walker IV;9;0;22.4;10.1;0.2;2.9;3.1;1.4;0.7;0.2;1.2;2.8;1.2
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southeast Division;Josh Richardson;1;0;26.0;10.0;3.0;1.0;4.0;4.0;0.0;0.0;1.0;4.0;4.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southeast Division;Doug McDermott;7;7;23.7;9.9;0.4;1.4;1.9;1.4;0.6;0.0;0.7;1.6;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southeast Division;Thaddeus Young;5;1;15.0;7.4;1.8;2.2;4.0;2.0;1.0;0.6;1.4;2.0;1.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southeast Division;Joshua Primo;6;0;18.8;7.2;1.3;1.2;2.5;1.7;0.0;0.3;0.8;2.8;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southeast Division;Tre Jones;10;2;17.5;6.8;0.0;1.7;1.7;3.5;0.5;0.0;0.9;1.3;3.9
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southeast Division;Keita Bates-Diop;9;3;15.7;5.7;0.7;2.3;3.0;1.0;0.6;0.0;1.0;1.1;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southeast Division;Juancho Hernangomez;1;0;22.0;5.0;1.0;5.0;6.0;2.0;0.0;1.0;0.0;0.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southeast Division;Zach Collins;4;1;17.0;4.8;2.0;4.0;6.0;1.8;0.5;1.0;2.3;2.5;0.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southeast Division;Jock Landale;6;0;7.8;4.2;1.0;0.3;1.3;0.7;0.0;0.3;0.8;1.2;0.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southeast Division;Devontae Cacok;4;0;6.8;3.5;0.8;3.3;4.0;1.0;0.5;0.5;0.3;0.5;4.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southeast Division;Drew Eubanks;6;1;12.3;3.3;1.3;2.3;3.7;1.2;0.3;1.0;0.8;1.0;1.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southeast Division;Tomas Satoransky;1;0;9.0;3.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southeast Division;Joe Wieskamp;4;0;4.5;1.3;0.3;0.0;0.3;0.3;0.0;0.0;0.3;0.3;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southeast Division;Total;10;"";"";119.6;11.7;33.8;45.5;29.1;7.4;4.2;0.0;19.2;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southwest Division;Dejounte Murray;15;15;34.8;21.6;1.0;6.9;7.9;8.8;2.1;0.3;2.3;2.3;3.9
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southwest Division;Keldon Johnson;16;15;31.3;16.9;1.1;4.8;5.9;1.9;1.4;0.3;1.1;2.0;1.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southwest Division;Jakob Poeltl;14;14;30.0;14.5;4.0;5.6;9.6;2.6;1.0;2.0;1.3;3.1;2.1
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southwest Division;Derrick White;8;8;29.4;12.9;0.1;2.4;2.5;6.4;0.9;1.1;1.9;2.4;3.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southwest Division;Devin Vassell;15;6;28.7;12.5;0.5;3.2;3.7;1.9;0.6;0.9;0.9;1.9;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southwest Division;Josh Richardson;5;1;25.2;12.0;0.6;2.2;2.8;2.4;1.6;0.0;1.2;1.8;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southwest Division;Bryn Forbes;5;0;19.8;11.6;0.0;2.4;2.4;1.0;0.6;0.0;1.6;1.4;0.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southwest Division;Doug McDermott;9;9;24.0;11.6;0.3;2.3;2.7;1.8;0.3;0.1;1.2;2.6;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southwest Division;Lonnie Walker IV;12;2;21.4;10.3;0.3;1.8;2.1;2.3;0.5;0.2;1.1;1.4;2.1
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southwest Division;Thaddeus Young;4;0;17.5;7.8;1.3;2.5;3.8;2.5;1.0;0.5;1.3;2.5;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southwest Division;Drew Eubanks;7;2;13.7;7.6;1.7;4.0;5.7;1.3;0.1;1.0;0.9;2.0;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southwest Division;Zach Collins;7;0;16.1;7.6;1.7;3.1;4.9;2.7;0.9;0.3;1.7;2.4;1.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southwest Division;Tre Jones;15;0;15.2;6.4;0.3;1.1;1.4;2.2;0.5;0.1;0.4;0.7;5.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southwest Division;Joshua Primo;10;6;20.5;5.4;0.3;1.2;1.5;1.5;0.8;0.4;1.2;1.4;1.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southwest Division;Keita Bates-Diop;9;2;13.1;4.1;1.1;2.6;3.7;0.6;0.4;0.6;0.3;0.7;1.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southwest Division;Jock Landale;12;0;10.8;3.7;0.8;1.8;2.7;0.5;0.3;0.2;0.4;0.6;1.2
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southwest Division;Joe Wieskamp;5;0;8.6;2.2;0.0;0.2;0.2;0.6;0.2;0.2;0.2;0.4;3.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southwest Division;Devontae Cacok;3;0;5.7;0.7;0.0;1.0;1.0;0.0;0.3;0.0;0.0;0.7;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southwest Division;Juancho Hernangomez;2;0;6.0;0.0;0.0;1.5;1.5;0.0;0.0;0.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Southwest Division;Total;16;"";"";113.3;10.2;33.3;43.4;27.4;8.7;5.4;0.0;18.6;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Northwest Division;Keldon Johnson;17;17;32.4;20.3;0.6;5.1;5.7;2.4;0.7;0.3;1.0;2.3;2.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Northwest Division;Dejounte Murray;13;13;33.6;18.5;1.5;6.3;7.8;8.7;2.1;0.4;3.1;2.1;2.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Northwest Division;Jakob Poeltl;16;15;26.5;13.3;3.3;5.6;8.9;2.8;0.4;2.0;2.0;3.5;1.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Northwest Division;Derrick White;9;9;29.8;13.2;0.3;2.9;3.2;5.1;1.3;1.0;1.1;2.1;4.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Northwest Division;Lonnie Walker IV;16;0;24.1;12.9;0.1;2.9;3.1;2.4;0.8;0.4;0.9;0.9;2.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Northwest Division;Devin Vassell;18;9;25.8;12.7;0.7;3.9;4.6;2.3;1.0;0.7;0.4;1.5;5.1
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Northwest Division;Doug McDermott;10;10;23.6;12.3;0.6;2.3;2.9;0.6;0.0;0.1;0.7;1.3;0.9
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Northwest Division;Josh Richardson;9;3;24.3;10.8;0.7;2.2;2.9;2.4;1.2;0.3;1.7;1.1;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Northwest Division;Zach Collins;9;1;21.0;10.4;1.8;5.0;6.8;2.3;0.3;1.3;1.9;2.3;1.2
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Northwest Division;Tre Jones;17;4;18.1;6.2;0.5;2.5;3.1;4.3;0.6;0.2;0.6;1.3;7.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Northwest Division;Drew Eubanks;9;2;13.2;5.8;1.6;3.3;4.9;1.2;0.1;0.9;1.1;1.7;1.1
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Northwest Division;Bryn Forbes;8;0;11.1;5.8;0.1;0.5;0.6;0.8;0.4;0.0;0.5;0.4;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Northwest Division;Keita Bates-Diop;13;2;15.9;5.5;1.4;2.8;4.2;1.1;0.3;0.3;1.0;1.2;1.1
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Northwest Division;Joshua Primo;10;5;19.0;5.5;0.6;2.2;2.8;2.3;0.3;0.1;1.0;1.4;2.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Northwest Division;Thaddeus Young;7;0;12.0;4.0;1.4;1.7;3.1;1.6;0.7;0.3;1.4;0.7;1.1
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Northwest Division;Jock Landale;10;0;7.6;2.8;0.5;1.0;1.5;0.4;0.1;0.2;0.5;1.0;0.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Northwest Division;Devontae Cacok;3;0;1.7;2.7;0.3;0.7;1.0;0.0;0.3;0.0;0.0;0.3;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Northwest Division;Romeo Langford;2;0;8.0;1.5;0.0;1.0;1.0;1.0;0.5;0.0;0.0;0.5;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Northwest Division;Joe Wieskamp;8;0;6.8;1.1;0.1;0.5;0.6;0.1;0.1;0.1;0.0;0.6;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Northwest Division;Total;18;"";"";115.1;10.6;36.4;47.1;28.8;7.4;5.9;0.0;17.7;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Eastern Conference;Dejounte Murray;24;24;35.0;21.9;1.1;7.2;8.3;9.5;1.9;0.2;2.5;2.0;3.9
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Eastern Conference;Keldon Johnson;25;25;32.0;17.3;1.2;4.7;5.9;2.0;0.5;0.1;1.2;1.8;1.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Eastern Conference;Derrick White;19;19;30.7;15.7;0.7;3.8;4.5;6.1;0.8;0.7;2.0;2.4;3.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Eastern Conference;Jakob Poeltl;26;26;30.1;13.0;3.9;5.5;9.4;2.8;0.7;1.6;1.6;2.8;1.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Eastern Conference;Devin Vassell;24;12;27.0;12.3;0.5;3.3;3.8;2.0;1.5;0.4;1.0;2.3;1.9
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Eastern Conference;Lonnie Walker IV;26;4;22.8;11.2;0.2;2.5;2.7;2.0;0.5;0.2;1.0;1.7;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Eastern Conference;Bryn Forbes;18;1;20.3;10.8;0.2;1.8;1.9;1.2;0.5;0.1;0.7;1.4;1.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Eastern Conference;Doug McDermott;18;18;23.7;10.6;0.3;1.6;1.9;1.2;0.4;0.1;0.8;1.3;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Eastern Conference;Josh Richardson;3;1;27.0;9.7;2.0;2.0;4.0;3.3;0.3;1.0;1.0;3.0;3.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Eastern Conference;Thaddeus Young;8;1;14.0;6.1;1.8;2.1;3.9;2.5;1.0;0.4;1.1;1.6;2.2
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Eastern Conference;Tre Jones;24;5;16.4;5.9;0.2;1.8;2.0;3.5;0.4;0.0;0.8;1.1;4.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Eastern Conference;Jock Landale;22;0;10.3;5.9;1.0;0.9;1.9;0.8;0.1;0.3;0.7;0.9;1.2
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Eastern Conference;Zach Collins;8;2;16.8;5.8;1.6;3.1;4.8;1.8;0.5;0.8;1.5;2.6;1.2
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Eastern Conference;Keita Bates-Diop;26;8;17.2;5.7;1.0;2.8;3.8;0.7;0.5;0.1;0.7;1.0;0.9
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Eastern Conference;Joshua Primo;21;3;18.4;5.6;0.8;1.5;2.3;1.5;0.2;0.4;1.2;1.7;1.2
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Eastern Conference;Devontae Cacok;8;0;9.8;4.0;0.8;3.4;4.1;0.6;0.6;0.9;0.3;1.3;2.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Eastern Conference;Drew Eubanks;20;1;11.0;3.4;1.2;2.1;3.3;0.7;0.3;0.6;0.8;1.0;0.9
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Eastern Conference;Tomas Satoransky;1;0;9.0;3.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Eastern Conference;Joe Wieskamp;12;0;6.2;2.7;0.3;0.3;0.5;0.3;0.2;0.1;0.1;0.4;3.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Eastern Conference;Juancho Hernangomez;2;0;12.0;2.5;1.0;2.5;3.5;1.0;0.0;0.5;0.5;0.0;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Eastern Conference;Tyler Johnson;3;0;17.7;2.0;0.7;1.3;2.0;1.7;0.7;0.7;0.3;1.0;5.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Eastern Conference;Jaylen Morris;3;0;5.3;0.7;0.0;0.7;0.7;0.7;0.0;0.0;0.3;0.7;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Eastern Conference;Anthony Lamb;2;0;4.0;0.0;0.0;0.5;0.5;1.0;0.0;0.0;0.0;0.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Eastern Conference;Total;30;"";"";112.5;11.3;33.6;44.9;27.9;7.0;4.4;0.0;18.3;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Western Conference;Dejounte Murray;44;44;34.7;20.8;1.2;7.0;8.3;9.0;2.1;0.4;2.8;2.1;3.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Western Conference;Keldon Johnson;50;49;31.9;16.9;1.0;5.2;6.2;2.1;0.9;0.2;1.2;2.0;1.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Western Conference;Jakob Poeltl;42;41;28.3;13.7;3.8;5.5;9.3;2.8;0.7;1.8;1.6;3.3;1.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Western Conference;Derrick White;30;29;30.1;13.6;0.4;2.5;2.9;5.3;1.1;1.0;1.6;2.3;3.2
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Western Conference;Lonnie Walker IV;44;2;23.2;12.7;0.3;2.2;2.5;2.3;0.7;0.3;1.0;1.3;2.2
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Western Conference;Devin Vassell;47;20;27.4;12.3;0.7;3.9;4.6;1.9;0.9;0.7;0.7;1.9;2.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Western Conference;Doug McDermott;33;33;24.1;11.7;0.4;2.1;2.4;1.3;0.2;0.2;0.8;1.7;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Western Conference;Josh Richardson;18;6;23.9;11.7;0.6;2.1;2.7;2.2;1.2;0.2;1.3;1.4;1.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Western Conference;Zach Collins;20;2;18.4;8.6;1.7;4.1;5.8;2.4;0.5;0.9;1.7;2.3;1.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Western Conference;Bryn Forbes;22;0;14.1;7.7;0.0;1.2;1.3;0.9;0.4;0.1;0.9;0.7;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Western Conference;Thaddeus Young;18;0;14.3;6.1;1.4;2.0;3.4;2.2;0.8;0.2;1.2;1.4;1.9
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Western Conference;Tre Jones;45;6;16.8;6.0;0.5;1.9;2.4;3.3;0.7;0.1;0.6;1.1;5.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Western Conference;Joshua Primo;29;13;20.0;5.9;0.5;1.7;2.2;1.7;0.5;0.5;1.1;1.5;1.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Western Conference;Keita Bates-Diop;33;6;15.5;5.7;1.1;2.9;4.0;0.7;0.5;0.4;0.8;1.1;0.9
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Western Conference;Drew Eubanks;29;8;13.0;5.6;1.4;3.1;4.5;1.3;0.2;0.7;1.1;1.4;1.2
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Western Conference;Jock Landale;32;1;11.3;4.3;1.3;1.8;3.0;0.8;0.3;0.2;0.5;1.1;1.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Western Conference;Romeo Langford;4;0;10.8;2.8;0.0;1.0;1.0;0.5;0.3;0.0;0.0;0.3;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Western Conference;Devontae Cacok;7;0;6.1;2.0;0.3;1.0;1.3;0.1;0.4;0.0;0.1;0.9;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Western Conference;Joe Wieskamp;17;0;7.7;1.7;0.1;0.4;0.5;0.4;0.1;0.1;0.1;0.5;6.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Western Conference;Juancho Hernangomez;3;0;9.0;0.7;0.7;2.0;2.7;0.3;0.3;0.0;0.3;0.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Western Conference;Total;52;"";"";113.6;10.8;34.8;45.5;27.9;8.0;5.2;0.0;18.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pre All-Star;Dejounte Murray;52;52;34.4;19.9;1.3;7.0;8.3;9.3;2.0;0.3;2.4;2.0;3.9
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pre All-Star;Keldon Johnson;55;54;31.3;15.7;1.1;4.9;6.0;1.8;0.8;0.1;1.3;1.9;1.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pre All-Star;Derrick White;49;48;30.3;14.4;0.5;3.0;3.5;5.6;1.0;0.9;1.8;2.4;3.1
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pre All-Star;Jakob Poeltl;49;48;28.9;13.1;3.9;5.3;9.2;2.8;0.7;1.8;1.6;3.0;1.8
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pre All-Star;Doug McDermott;43;43;24.5;11.9;0.4;2.1;2.5;1.2;0.3;0.1;0.8;1.6;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pre All-Star;Devin Vassell;51;12;25.7;11.5;0.5;3.7;4.2;1.7;1.0;0.6;0.7;2.0;2.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pre All-Star;Lonnie Walker IV;54;6;22.8;11.2;0.3;2.3;2.6;2.3;0.6;0.3;1.1;1.4;2.1
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pre All-Star;Bryn Forbes;40;1;16.9;9.1;0.1;1.5;1.6;1.0;0.4;0.1;0.8;1.1;1.2
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pre All-Star;Thaddeus Young;26;1;14.2;6.1;1.5;2.0;3.6;2.3;0.9;0.3;1.2;1.5;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pre All-Star;Zach Collins;5;0;16.4;5.8;1.6;3.6;5.2;2.2;0.8;0.4;1.6;2.2;1.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pre All-Star;Keita Bates-Diop;45;12;16.3;5.3;1.0;2.9;3.9;0.6;0.5;0.3;0.7;1.0;0.9
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pre All-Star;Joshua Primo;30;4;15.9;4.9;0.6;1.1;1.7;1.4;0.4;0.5;0.9;1.2;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pre All-Star;Tre Jones;46;4;13.5;4.8;0.4;1.5;1.8;2.4;0.4;0.0;0.5;0.9;4.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pre All-Star;Drew Eubanks;49;9;12.1;4.7;1.3;2.7;4.0;1.0;0.3;0.6;0.9;1.2;1.1
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pre All-Star;Jock Landale;36;1;10.2;4.6;1.1;1.1;2.2;0.9;0.2;0.3;0.6;0.9;1.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pre All-Star;Devontae Cacok;10;0;8.0;3.6;0.5;2.5;3.0;0.2;0.5;0.7;0.2;1.1;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pre All-Star;Josh Richardson;1;0;14.0;3.0;0.0;0.0;0.0;2.0;0.0;1.0;0.0;0.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pre All-Star;Joe Wieskamp;15;0;6.1;2.5;0.2;0.3;0.5;0.3;0.1;0.1;0.1;0.4;5.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pre All-Star;Tyler Johnson;3;0;17.7;2.0;0.7;1.3;2.0;1.7;0.7;0.7;0.3;1.0;5.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pre All-Star;Juancho Hernangomez;5;0;10.2;1.4;0.8;2.2;3.0;0.6;0.2;0.2;0.4;0.0;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pre All-Star;Jaylen Morris;3;0;5.3;0.7;0.0;0.7;0.7;0.7;0.0;0.0;0.3;0.7;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pre All-Star;Anthony Lamb;2;0;4.0;0.0;0.0;0.5;0.5;1.0;0.0;0.0;0.0;0.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Pre All-Star;Total;59;"";"";111.8;11.0;34.3;45.3;28.0;7.7;5.1;12.2;17.8;2.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Post All-Star;Dejounte Murray;16;16;36.0;25.1;0.8;7.4;8.2;8.8;2.0;0.4;3.4;2.1;2.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Post All-Star;Keldon Johnson;20;20;33.6;20.8;1.1;5.4;6.5;2.9;0.8;0.4;1.1;2.3;2.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Post All-Star;Lonnie Walker IV;16;0;23.9;15.3;0.3;2.4;2.6;1.8;0.6;0.1;0.8;1.3;2.2
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Post All-Star;Jakob Poeltl;19;19;29.3;14.4;3.8;5.9;9.7;2.7;0.5;1.6;1.6;3.4;1.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Post All-Star;Devin Vassell;20;20;31.3;14.2;0.8;3.8;4.6;2.5;1.4;0.5;1.0;2.0;2.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Post All-Star;Josh Richardson;20;7;25.0;11.8;0.8;2.2;3.0;2.4;1.1;0.3;1.4;1.7;1.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Post All-Star;Tre Jones;23;7;23.0;8.3;0.5;2.6;3.0;5.3;1.0;0.3;1.0;1.6;5.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Post All-Star;Zach Collins;23;4;18.3;8.2;1.7;3.9;5.5;2.2;0.4;0.9;1.6;2.4;1.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Post All-Star;Doug McDermott;8;8;21.3;8.1;0.3;0.6;0.9;1.8;0.3;0.3;1.1;1.4;1.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Post All-Star;Joshua Primo;20;12;24.5;7.1;0.7;2.4;3.1;2.0;0.5;0.4;1.5;2.2;1.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Post All-Star;Keita Bates-Diop;14;2;16.0;6.9;1.1;2.9;4.0;1.0;0.4;0.0;1.0;1.0;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Post All-Star;Jock Landale;18;0;12.4;5.4;1.3;1.9;3.3;0.7;0.2;0.1;0.4;1.1;1.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Post All-Star;Tomas Satoransky;1;0;9.0;3.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Post All-Star;Romeo Langford;4;0;10.8;2.8;0.0;1.0;1.0;0.5;0.3;0.0;0.0;0.3;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Post All-Star;Devontae Cacok;5;0;8.2;2.0;0.6;1.8;2.4;0.8;0.6;0.0;0.2;1.0;4.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Post All-Star;Joe Wieskamp;14;0;8.1;1.7;0.1;0.4;0.4;0.3;0.1;0.1;0.1;0.6;4.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;Post All-Star;Total;23;"";"";116.7;11.0;34.3;45.3;27.7;7.4;4.4;12.5;18.7;2.2
+San Antonio Spurs;sa;2021 - 2022 Regular Season;3+ Days Rest;Dejounte Murray;6;6;35.8;21.5;1.2;7.7;8.8;10.5;2.0;0.3;3.7;2.0;2.9
+San Antonio Spurs;sa;2021 - 2022 Regular Season;3+ Days Rest;Derrick White;6;5;31.0;17.0;0.5;2.7;3.2;5.2;1.0;1.3;1.2;2.2;4.4
+San Antonio Spurs;sa;2021 - 2022 Regular Season;3+ Days Rest;Keldon Johnson;7;6;29.6;15.9;1.4;4.0;5.4;1.3;0.1;0.0;1.4;1.3;0.9
+San Antonio Spurs;sa;2021 - 2022 Regular Season;3+ Days Rest;Josh Richardson;4;1;24.5;14.0;1.0;1.8;2.8;2.3;0.3;0.3;0.8;1.5;3.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;3+ Days Rest;Lonnie Walker IV;10;0;23.1;13.7;0.2;3.1;3.3;2.4;0.4;0.1;0.9;1.8;2.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;3+ Days Rest;Jakob Poeltl;8;7;25.6;12.5;3.8;4.5;8.3;3.1;0.4;1.1;1.5;2.4;2.1
+San Antonio Spurs;sa;2021 - 2022 Regular Season;3+ Days Rest;Devin Vassell;10;3;25.8;11.0;0.5;3.4;3.9;1.7;1.3;0.4;0.4;2.1;4.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;3+ Days Rest;Bryn Forbes;5;0;15.0;9.8;0.0;1.2;1.2;0.8;0.2;0.0;0.6;0.8;1.3
+San Antonio Spurs;sa;2021 - 2022 Regular Season;3+ Days Rest;Doug McDermott;7;7;24.3;8.7;0.7;1.9;2.6;1.0;0.3;0.0;1.1;1.9;0.9
+San Antonio Spurs;sa;2021 - 2022 Regular Season;3+ Days Rest;Tre Jones;10;1;15.7;8.2;0.2;1.0;1.2;2.0;0.8;0.0;0.4;1.1;5.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;3+ Days Rest;Zach Collins;3;0;15.7;6.3;3.3;2.3;5.7;2.3;1.7;0.3;2.0;2.7;1.2
+San Antonio Spurs;sa;2021 - 2022 Regular Season;3+ Days Rest;Keita Bates-Diop;14;2;12.1;4.9;1.1;2.6;3.7;0.5;0.4;0.4;0.8;0.9;0.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;3+ Days Rest;Thaddeus Young;9;1;10.7;4.4;1.7;1.6;3.2;1.0;0.6;0.1;1.1;1.4;0.9
+San Antonio Spurs;sa;2021 - 2022 Regular Season;3+ Days Rest;Jock Landale;12;0;9.1;3.8;0.8;1.2;1.9;0.9;0.1;0.3;0.3;1.3;3.7
+San Antonio Spurs;sa;2021 - 2022 Regular Season;3+ Days Rest;Joshua Primo;10;0;13.5;3.7;0.4;1.2;1.6;0.9;0.4;0.4;0.9;1.3;1.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;3+ Days Rest;Romeo Langford;3;0;10.7;3.3;0.0;1.0;1.0;0.7;0.3;0.0;0.0;0.3;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;3+ Days Rest;Tomas Satoransky;1;0;9.0;3.0;0.0;1.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;3+ Days Rest;Drew Eubanks;6;0;10.3;2.8;0.8;2.8;3.7;0.5;0.2;0.2;0.8;1.3;0.6
+San Antonio Spurs;sa;2021 - 2022 Regular Season;3+ Days Rest;Devontae Cacok;8;0;5.3;2.5;0.5;1.9;2.4;0.5;0.3;0.4;0.3;0.9;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;3+ Days Rest;Joe Wieskamp;12;0;5.3;1.8;0.2;0.0;0.2;0.4;0.1;0.2;0.2;0.2;2.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;3+ Days Rest;Juancho Hernangomez;4;0;12.3;1.8;1.0;2.8;3.8;0.8;0.3;0.3;0.5;0.0;1.5
+San Antonio Spurs;sa;2021 - 2022 Regular Season;3+ Days Rest;Tyler Johnson;1;0;12.0;0.0;2.0;0.0;2.0;2.0;0.0;0.0;1.0;1.0;2.0
+San Antonio Spurs;sa;2021 - 2022 Regular Season;3+ Days Rest;Jaylen Morris;1;0;6.0;0.0;0.0;2.0;2.0;1.0;0.0;0.0;0.0;1.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;3+ Days Rest;Anthony Lamb;1;0;4.0;0.0;0.0;1.0;1.0;1.0;0.0;0.0;0.0;0.0;INF
+San Antonio Spurs;sa;2021 - 2022 Regular Season;3+ Days Rest;Total;5;"";"";117.6;13.2;32.8;46.0;27.6;6.8;4.4;12.8;18.4;2.2
